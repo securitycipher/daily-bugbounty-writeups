@@ -1,24 +1,26 @@
 import feedparser
-from github import Github
-import os
+import pandas as pd
 
-# RSS feed URL
-rss_url = "https://medium.com/feed/tag/bug-bounty"
+# Replace 'YOUR_RSS_FEED_URL' with the URL of the RSS feed
+rss_url = 'https://medium.com/feed/tag/bug-bounty'
 
-# Retrieve the GitHub token from the environment variable
-github_token = os.environ['MINDFULL']
+# Parse the RSS feed
+data = feedparser.parse(rss_url)
 
-# GitHub repository info
-repo_name = "securitycipher/daily-bugbounty-writeups"
+# Create a list to store the data
+data_list = []
 
-# Fetch RSS feed
-feed = feedparser.parse(rss_url)
-specific_data = feed.entries[0].title  # Replace this with your data extraction logic
+# Iterate through the entries in the RSS feed
+for entry in data.entries:
+    # Extract the data you want and add it to the list
+    title = entry.title
+    link = entry.link
+    # Add more fields as needed
 
-# Connect to GitHub
-g = Github(github_token)
-repo = g.get_repo(repo_name)
+    data_list.append([title, link])
 
-# Create a new file and commit the data
-file_path = "data.txt"
-repo.create_file(file_path, "Updated data", specific_data, branch="main")
+# Create a Pandas DataFrame from the data
+data_df = pd.DataFrame(data_list, columns=['Title', 'Link'])
+
+# Save the data to a CSV file
+data_df.to_csv('data.csv', index=False)
