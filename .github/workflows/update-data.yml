@@ -1,0 +1,26 @@
+name: Update Data from RSS
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+
+      - name: Install Dependencies
+        run: pip install feedparser PyGithub
+
+      - name: Run Script
+        run: python update_data.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
