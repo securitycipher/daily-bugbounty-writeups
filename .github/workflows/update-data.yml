@@ -2,7 +2,7 @@ name: Update Data from RSS
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "*/1 * * * *"
 
 jobs:
   update:
