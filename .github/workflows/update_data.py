@@ -6,7 +6,7 @@ import os
 rss_url = "https://medium.com/feed/tag/bug-bounty"
 
 # Retrieve the GitHub token from the environment variable
-github_token = os.environ['GITHUB_TOKEN']
+github_token = os.environ['MINDFULL']
 
 # GitHub repository info
 repo_name = "securitycipher/daily-bugbounty-writeups"
