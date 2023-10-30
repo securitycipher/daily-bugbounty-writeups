@@ -38,4 +38,4 @@ jobs:
           git commit -m "Update data from RSS"
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.MINDFULL }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
