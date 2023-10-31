@@ -3,6 +3,7 @@ This repository contains Bug Bounty writeups
 
 ### Latst Blogs posts
 <!-- BLOG-POST-LIST:START -->
+[$title]($url) 
 - [Account pre-hijacking using auto login token](https://medium.com/@aa.pietruczuk/account-pre-hijacking-using-auto-login-token-94ad3da7f3d6?source=rss------bug_bounty-5)
 - [Mastering OWASP ZAProxy: Complete Tutorial and Practical Examples](https://medium.com/@pentesterclubpvtltd/mastering-owasp-zaproxy-complete-tutorial-and-practical-examples-e360e97ac199?source=rss------bug_bounty-5)
 - [Misconfiguration Leads to P1 XSS](https://mchklt.medium.com/misconfiguration-leads-to-p1-xss-6c9be7fc4c8f?source=rss------bug_bounty-5)
