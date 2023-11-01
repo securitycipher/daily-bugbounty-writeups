@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
+ - 💯November 1, 2023 - [“The Dark Web Unraveling the Mysteries of Online Anonymity”](https://medium.com/@Land2Cyber/the-dark-web-unraveling-the-mysteries-of-online-anonymity-857da525d436?source=rss------bug_bounty-5) 
+
+ - 💯November 1, 2023 - [“Cybersecurity in the Age of IoT Protecting Your Smart Home”](https://medium.com/@Land2Cyber/cybersecurity-in-the-age-of-iot-protecting-your-smart-home-d98b6d3894c1?source=rss------bug_bounty-5) 
+
+ - 💯November 1, 2023 - [Bug Bounty Programs: Power of Crowdsourced Cybersecurity](https://medium.com/@prateek.baghela/bug-bounty-programs-power-of-crowdsourced-cybersecurity-1e8bfae4cd76?source=rss------bug_bounty-5) 
+
+ - 💯November 1, 2023 - [“5 Common Social Engineering Attacks and How to Avoid Them”](https://medium.com/@Land2Cyber/5-common-social-engineering-attacks-and-how-to-avoid-them-ff6d0b384487?source=rss------bug_bounty-5) 
+
+ - 💯November 1, 2023 - [“The Evolution of Ransomware From WannaCry to the Present Day”](https://medium.com/@Land2Cyber/the-evolution-of-ransomware-from-wannacry-to-the-present-day-f3a4ffcc92b8?source=rss------bug_bounty-5) 
+
+ - 💯November 1, 2023 - [Search Engines for Hackers](https://securitycipher.medium.com/search-engines-for-hackers-6a0ab3627ade?source=rss------bug_bounty-5) 
+
+ - 💯November 1, 2023 - [Finding Real IP Behind Cloudflare And Exploiting IDOR Vulnerabilities](https://aminudin.medium.com/finding-real-ip-behind-cloudflare-and-exploiting-idor-vulnerabilities-85787037f92b?source=rss------bug_bounty-5) 
+
+ - 💯November 1, 2023 - [Let’s see The World of Threat Intelligence](https://medium.com/@paritoshblogs/lets-see-the-world-of-threat-intelligence-aa500cfd729b?source=rss------bug_bounty-5) 
+
  - 💯October 31, 2023 - [Account pre-hijacking using auto login token](https://medium.com/@aa.pietruczuk/account-pre-hijacking-using-auto-login-token-94ad3da7f3d6?source=rss------bug_bounty-5) 
 
  - 💯October 31, 2023 - [Mastering OWASP ZAProxy: Complete Tutorial and Practical Examples](https://medium.com/@pentesterclubpvtltd/mastering-owasp-zaproxy-complete-tutorial-and-practical-examples-e360e97ac199?source=rss------bug_bounty-5) 
-
- - 💯October 31, 2023 - [Misconfiguration Leads to P1 XSS](https://mchklt.medium.com/misconfiguration-leads-to-p1-xss-6c9be7fc4c8f?source=rss------bug_bounty-5) 
-
- - 💯October 31, 2023 - [“Data Science Unleashed Emerging Technologies and Trends”](https://medium.com/@Land2Cyber/data-science-unleashed-emerging-technologies-and-trends-1d2f37c101ad?source=rss------bug_bounty-5) 
-
- - 💯October 31, 2023 - [“Data Science and Cybersecurity Strengthening Digital Defenses”](https://medium.com/@Land2Cyber/data-science-and-cybersecurity-strengthening-digital-defenses-a1e620e8bf15?source=rss------bug_bounty-5) 
-
- - 💯October 31, 2023 - [“The Human Side of Data Science Empathy and Understanding in Analysis”](https://medium.com/@Land2Cyber/the-human-side-of-data-science-empathy-and-understanding-in-analysis-6301e2ed024e?source=rss------bug_bounty-5) 
-
- - 💯October 31, 2023 - [“Data Science and the Environment Using Data for Sustainable Solutions”](https://medium.com/@Land2Cyber/data-science-and-the-environment-using-data-for-sustainable-solutions-44c0cbadb296?source=rss------bug_bounty-5) 
-
- - 💯October 31, 2023 - [“Data Science in the Real World Challenges and Solutions”](https://medium.com/@Land2Cyber/data-science-in-the-real-world-challenges-and-solutions-79ed7ff3f539?source=rss------bug_bounty-5) 
-
- - 💯October 31, 2023 - [“Crunching the Numbers Understanding Statistical Models in Data Science”](https://medium.com/@Land2Cyber/crunching-the-numbers-understanding-statistical-models-in-data-science-c9c14ca7bc2b?source=rss------bug_bounty-5) 
-
- - 💯October 30, 2023 - [Bootloader unlocking | Pre-requisites of rooting an Android Device](https://abhiunix.medium.com/bootloader-unlocking-pre-requisites-of-rooting-an-android-device-7f1fc0ee263?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
