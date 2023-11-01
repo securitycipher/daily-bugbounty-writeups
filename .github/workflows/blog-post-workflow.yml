@@ -14,5 +14,6 @@ jobs:
               with: 
                 max_post_count: "10"
                 feed_list: "https://medium.com/feed/tag/bug-bounty"
-                template: "$newline - $date - $randomEmoji(💯,🔥,💫,🚀,🌮)[$title]($url) $newline"
+                template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮)$date - [$title]($url) $newline"
                 date_format: "mmmm d, yyyy"
+                remove_duplicates: "true"
