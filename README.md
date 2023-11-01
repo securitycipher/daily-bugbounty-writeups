@@ -1,7 +1,6 @@
 # Daily Bug Bounty Writeups by [@Piyush Kumawat](https://twitter.com/piyush_supiy) 
 This repository contains Bug Bounty writeups
 
-### Latst Blogs posts
 <!-- BLOG-POST-LIST:START -->
  - 💯October 31, 2023 - [Account pre-hijacking using auto login token](https://medium.com/@aa.pietruczuk/account-pre-hijacking-using-auto-login-token-94ad3da7f3d6?source=rss------bug_bounty-5) 
 
