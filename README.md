@@ -1,4 +1,4 @@
-# daily-bugbounty-writeups
+# Daily Bug Bounty Writeups by [@Piyush Kumawat](https://twitter.com/piyush_supiy) 
 This repository contains Bug Bounty writeups
 
 ### Latst Blogs posts
