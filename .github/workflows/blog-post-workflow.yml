@@ -12,8 +12,8 @@ jobs:
             - uses: actions/checkout@v2
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
-                max_post_count: "10"
+                max_post_count: "20"
                 feed_list: "https://medium.com/feed/tag/bug-bounty"
-                template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮)$date - [$title]($url) $newline"
+                template: "$newline - $randomEmoji(💯)$date - [$title]($url) $newline"
                 date_format: "mmmm d, yyyy"
                 remove_duplicates: "true"
