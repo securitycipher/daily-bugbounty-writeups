@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 6, 2023 - [Hack a file upload vulnerability in Dvwa Bypass all Security Levels](https://medium.com/@pentesterclubpvtltd/hack-a-file-upload-vulnerability-in-dvwa-bypass-all-security-levels-713d79ec2df8?source=rss------bug_bounty-5) 
+ - 💯November 7, 2023 - [“AI and Autonomous Vehicles Paving the Way for Safer Transportation”](https://medium.com/@Land2Cyber/ai-and-autonomous-vehicles-paving-the-way-for-safer-transportation-4d85c71aae94?source=rss------bug_bounty-5) 
 
- - 💯November 6, 2023 - [Burp Suite for Pentester — Configuring Proxy](https://medium.com/@pentesterclubpvtltd/burp-suite-for-pentester-configuring-proxy-7a81b6442b47?source=rss------bug_bounty-5) 
+ - 💯November 7, 2023 - [“AI and the Future of Work Adapting to the Fourth Industrial Revolution”](https://medium.com/@Land2Cyber/ai-and-the-future-of-work-adapting-to-the-fourth-industrial-revolution-a00eb128a859?source=rss------bug_bounty-5) 
 
- - 💯November 6, 2023 - [HBSQLI Automated Tool For Testing Header Based Blind SQL Injection](https://medium.com/@pentesterclubpvtltd/hbsqli-automated-tool-for-testing-header-based-blind-sql-injection-551a5af78120?source=rss------bug_bounty-5) 
+ - 💯November 7, 2023 - [“AI in Sports Analytics, Training, and Performance Enhancement”](https://medium.com/@Land2Cyber/ai-in-sports-analytics-training-and-performance-enhancement-47d68b326fd1?source=rss------bug_bounty-5) 
 
- - 💯November 6, 2023 - [Generating Reverse Shell using Msfvenom One Liner Payload](https://medium.com/@pentesterclubpvtltd/generating-reverse-shell-using-msfvenom-one-liner-payload-08edb13703fa?source=rss------bug_bounty-5) 
+ - 💯November 7, 2023 - [“AI in Agriculture Feeding the World with Smart Farming”](https://medium.com/@Land2Cyber/ai-in-agriculture-feeding-the-world-with-smart-farming-c25a7e34d7e4?source=rss------bug_bounty-5) 
 
- - 💯November 6, 2023 - [Basic Linux Command — Bug Bounty](https://securitycipher.medium.com/basic-linux-command-bug-bounty-f17392ce1b94?source=rss------bug_bounty-5) 
+ - 💯November 7, 2023 - [“AI and Mental Health Innovations in Diagnosis and Treatment”](https://medium.com/@Land2Cyber/ai-and-mental-health-innovations-in-diagnosis-and-treatment-2df87af4f652?source=rss------bug_bounty-5) 
 
- - 💯November 6, 2023 - [— — — — — — — Payment Security Guide for Businesses — — — — — — — -](https://infosecshahalom.medium.com/payment-security-guide-for-businesses-713f8aa6d6af?source=rss------bug_bounty-5) 
+ - 💯November 7, 2023 - [“The Role of AI in Space Exploration and Astronomy”](https://medium.com/@Land2Cyber/the-role-of-ai-in-space-exploration-and-astronomy-c29c40c37f48?source=rss------bug_bounty-5) 
 
- - 💯November 6, 2023 - [BurpGPT: AI-Powered Hacking Framework](https://medium.com/offensive-black-hat-hacking-security/burpgpt-ai-powered-hacking-framework-bbdf0b670371?source=rss------bug_bounty-5) 
+ - 💯November 7, 2023 - [“AI and Natural Language Processing A Revolution in Communication”](https://medium.com/@Land2Cyber/ai-and-natural-language-processing-a-revolution-in-communication-18320c931702?source=rss------bug_bounty-5) 
 
- - 💯November 6, 2023 - [Information Disclosure On Dana Cita](https://medium.com/@yasminramadini/information-disclosure-on-dana-cita-8bee6e863757?source=rss------bug_bounty-5) 
+ - 💯November 7, 2023 - [“AI in Customer Service Redefining the User Experience”](https://medium.com/@Land2Cyber/ai-in-customer-service-redefining-the-user-experience-63a016475280?source=rss------bug_bounty-5) 
 
- - 💯November 6, 2023 - [CVSS 4.0: Unveiling the Cybersecurity Scoring System](https://infosecwriteups.com/cvss-4-0-unveiling-the-cybersecurity-scoring-system-1fea1cdeff1c?source=rss------bug_bounty-5) 
+ - 💯November 7, 2023 - [Demystifying Insecure Direct Object References &lpar;IDOR&rpar;: A Beginner’s Guide](https://medium.com/@pentesterclubpvtltd/demystifying-insecure-direct-object-references-idor-a-beginners-guide-b45fcfc2da55?source=rss------bug_bounty-5) 
 
- - 💯November 6, 2023 - [Using Censys for Threat Intelligence Pivoting….](https://medium.com/@paritoshblogs/using-censys-for-threat-intelligence-pivoting-50ada6531d49?source=rss------bug_bounty-5) 
+ - 💯November 7, 2023 - [Mastering the Art of Banner Grabbing: Unveiling Multiple Techniques](https://medium.com/@pentesterclubpvtltd/mastering-the-art-of-banner-grabbing-unveiling-multiple-techniques-1c6af039e8bd?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
