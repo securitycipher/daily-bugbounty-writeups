@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 9, 2023 - [GootBot — bespoke tool to evade post exploitation detections](https://medium.com/@paritoshblogs/gootbot-bespoke-tool-to-evade-post-exploitation-detections-a66910a06ce3?source=rss------bug_bounty-5) 
+ - 💯November 10, 2023 - [OverTheWire: Natas Writeup](https://dollarboysushil.medium.com/overthewire-natas-writeup-93fc14897794?source=rss------bug_bounty-5) 
 
- - 💯November 9, 2023 - [Dark Art of SEO Poisoning](https://medium.com/@paritoshblogs/dark-art-of-seo-poisoning-18028141a60c?source=rss------bug_bounty-5) 
+ - 💯November 10, 2023 - [What is Kerberoasting?? How it works.](https://medium.com/@paritoshblogs/what-is-kerberoasting-how-it-works-f9f773246455?source=rss------bug_bounty-5) 
 
- - 💯November 8, 2023 - [Project 2510: Bug Bounty Challenge — Day 3/25](https://wallotry.medium.com/project-2510-bug-bounty-challenge-day-3-25-9d93d142a5f2?source=rss------bug_bounty-5) 
+ - 💯November 10, 2023 - [Web3 Vulnerabilities: Know The Exploit And Solution](https://medium.com/@vinaysati/web3-vulnerabilities-know-the-exploit-and-solution-650da589bcbb?source=rss------bug_bounty-5) 
 
- - 💯November 8, 2023 - [When Collaboration Becomes Vulnerable: Exposing SQL Injection](https://medium.com/@saurabh5392/when-collaboration-becomes-vulnerable-exposing-sql-injection-b6712fcd60e6?source=rss------bug_bounty-5) 
+ - 💯November 10, 2023 - [SAML Hacking 101](https://medium.com/@ty.anderson.3/saml-hacking-101-fd669d23a679?source=rss------bug_bounty-5) 
 
- - 💯November 8, 2023 - [20.2 Lab: Host header authentication bypass | 2023](https://cyberw1ng.medium.com/20-2-lab-host-header-authentication-bypass-2023-b8094cb78abf?source=rss------bug_bounty-5) 
+ - 💯November 10, 2023 - [How to investigate a Phishing Email? A step by step guide !](https://medium.com/@paritoshblogs/how-to-investigate-a-phishing-email-a-step-by-step-guide-82b7976661cd?source=rss------bug_bounty-5) 
 
- - 💯November 8, 2023 - [Basic Bug Bounty Strategy](https://medium.com/@hunterid/basic-bug-bounty-strategy-5a7db9b410e1?source=rss------bug_bounty-5) 
+ - 💯November 9, 2023 - [Project 2510: Bug Bounty Challenge — Day 4/25](https://wallotry.medium.com/project-2510-bug-bounty-challenge-day-4-25-fdb362c38e1e?source=rss------bug_bounty-5) 
 
- - 💯November 8, 2023 - [A Comprehensive Guide to Detecting and Preventing SQL Injection Vulnerabilities](https://medium.com/bounty-hunting/a-comprehensive-guide-to-detecting-and-preventing-sql-injection-vulnerabilities-07017c4ffe53?source=rss------bug_bounty-5) 
+ - 💯November 9, 2023 - [Part 02 What To Do After Choosing a Target? | Bug Bounty](https://medium.com/@omarora1603/part-02-what-to-do-after-choosing-a-target-bug-bounty-eb8d73ee73ee?source=rss------bug_bounty-5) 
 
- - 💯November 8, 2023 - [Decoding Advanced XSS Payload Chaining Tactics](https://infosecwriteups.com/decoding-advanced-xss-payload-chaining-tactics-c72cd17da2fe?source=rss------bug_bounty-5) 
+ - 💯November 9, 2023 - [No rate limit to 2FA bypass](https://medium.com/@bug.hun3r/no-rate-limit-to-2fa-bypass-1d7ad12a86f0?source=rss------bug_bounty-5) 
 
- - 💯November 8, 2023 - [[Important]Security issues caused by terraform if not implemented properly](https://medium.com/@paritoshblogs/important-security-issues-caused-by-terraform-if-not-implemented-properly-214d1aad3ebd?source=rss------bug_bounty-5) 
-
- - 💯November 8, 2023 - [Netlas Recon Automation with Nuclei: Neuro](https://medium.com/bug-bounty-hunting/netlas-recon-automation-with-nuclei-neuro-839cbb4d9fbd?source=rss------bug_bounty-5) 
+ - 💯November 9, 2023 - [TickTock Intrusion: The Timing Attack Challenge](https://medium.com/@josh.beck2006/ticktock-intrusion-the-timing-attack-challenge-e031e7dce7da?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
