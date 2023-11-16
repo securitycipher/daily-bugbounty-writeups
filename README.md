@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 15, 2023 - [“Cybersecurity Warriors OSCP and the Future of Penetration Testing”](https://medium.com/@Land2Cyber/cybersecurity-warriors-oscp-and-the-future-of-penetration-testing-b7f666ea8fcb?source=rss------bug_bounty-5) 
+ - 💯November 16, 2023 - [Easy Admin Access — RVDP](https://infosecwriteups.com/easy-admin-access-rvdp-d1eb2c97cb3e?source=rss------bug_bounty-5) 
 
- - 💯November 15, 2023 - [“Crash Course in Buffer Overflows A Must-Know for OSCP”](https://medium.com/@Land2Cyber/crash-course-in-buffer-overflows-a-must-know-for-oscp-45a85f7531c0?source=rss------bug_bounty-5) 
+ - 💯November 16, 2023 - [“Security Architecture and Design A Deep Dive into CISSP Domain 1”](https://medium.com/@Land2Cyber/security-architecture-and-design-a-deep-dive-into-cissp-domain-1-e7cf420b5eb5?source=rss------bug_bounty-5) 
 
- - 💯November 15, 2023 - [“Hands-On Learning The Key to OSCP Certification Success”](https://medium.com/@Land2Cyber/hands-on-learning-the-key-to-oscp-certification-success-1dddff33ad04?source=rss------bug_bounty-5) 
+ - 💯November 16, 2023 - [“Mastering the CISSP Exam Strategies for Success and Pitfalls to Avoid”](https://medium.com/@Land2Cyber/mastering-the-cissp-exam-strategies-for-success-and-pitfalls-to-avoid-1a6be6227e9f?source=rss------bug_bounty-5) 
 
- - 💯November 15, 2023 - [DNS C2 — When Malware Goes Incognito!](https://medium.com/@paritoshblogs/dns-c2-when-malware-goes-incognito-03fdc2e82057?source=rss------bug_bounty-5) 
+ - 💯November 16, 2023 - [“CISSP vs. Other Cybersecurity Certifications Choosing the Right Path”](https://medium.com/@Land2Cyber/cissp-vs-other-cybersecurity-certifications-choosing-the-right-path-f1c45d60f8cd?source=rss------bug_bounty-5) 
 
- - 💯November 15, 2023 - [HackerOne Surpasses $300 Million in Rewards for Ethical Hackers](https://medium.com/@zerosecurity/hackerone-surpasses-300-million-in-rewards-for-ethical-hackers-eba7be4f106c?source=rss------bug_bounty-5) 
+ - 💯November 16, 2023 - [The Journey to CISSP Certification Roadmap and Tips for Success](https://medium.com/@Land2Cyber/the-journey-to-cissp-certification-roadmap-and-tips-for-success-2d2736278d65?source=rss------bug_bounty-5) 
 
- - 💯November 14, 2023 - [Project 2510: Bug Bounty Challenge — Day 9/25](https://wallotry.medium.com/project-2510-bug-bounty-challenge-day-9-25-14cbedbecee2?source=rss------bug_bounty-5) 
+ - 💯November 16, 2023 - [”CISSP Domains Unveiled Navigating the Core Areas of Information Security”](https://medium.com/@Land2Cyber/cissp-domains-unveiled-navigating-the-core-areas-of-information-security-a97990dd02ec?source=rss------bug_bounty-5) 
 
- - 💯November 14, 2023 - [bWAPP PHP Code Injection](https://medium.com/@yusufbaris/bwapp-php-code-injection-2b326b831924?source=rss------bug_bounty-5) 
+ - 💯November 16, 2023 - [Demystifying CISSP A Comprehensive Guide for Aspiring Cybersecurity Professionals](https://medium.com/@Land2Cyber/demystifying-cissp-a-comprehensive-guide-for-aspiring-cybersecurity-professionals-b209e3dd1a76?source=rss------bug_bounty-5) 
 
- - 💯November 14, 2023 - [Har Har Hijack: The Okta Plunder](https://medium.com/@josh.beck2006/har-har-hijack-the-okta-plunder-8fb36f5c9d45?source=rss------bug_bounty-5) 
+ - 💯November 16, 2023 - [#1 Introduction to Burp Suite — Guide for Burp Suite](https://securitycipher.medium.com/1-introduction-to-burp-suite-guide-for-burp-suite-4054b64f10a0?source=rss------bug_bounty-5) 
 
- - 💯November 14, 2023 - [23.1 Lab: CORS vulnerability with trusted null origin | 2023](https://cyberw1ng.medium.com/23-1-lab-cors-vulnerability-with-trusted-null-origin-2023-53d2de3b8e28?source=rss------bug_bounty-5) 
+ - 💯November 16, 2023 - [“Continuous Learning in Cybersecurity OSCP as a Stepping Stone”](https://medium.com/@Land2Cyber/continuous-learning-in-cybersecurity-oscp-as-a-stepping-stone-8158e9be9f28?source=rss------bug_bounty-5) 
 
- - 💯November 14, 2023 - [Escalating Blind SSRF to a Remote Code Execution](https://mukibas37.medium.com/escalating-blind-ssrf-to-a-remote-code-execution-be65ed9a7d0f?source=rss------bug_bounty-5) 
+ - 💯November 16, 2023 - [AuditOne Roundtable with Alexey from Aurora and Guido Vranken](https://medium.com/@auditone.io/auditone-roundtable-with-alexey-from-aurora-and-guido-vranken-3d7c709289c0?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
