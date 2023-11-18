@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 17, 2023 - [3 Command Line Games Which You Must Try](https://medium.com/@rushi.padhiyar098/3-command-line-games-which-you-must-try-fa77c2ff7127?source=rss------bug_bounty-5) 
+ - 💯November 18, 2023 - [“Legal, Regulations, Investigations, and Compliance CISSP Domain 8 Unraveled”](https://medium.com/@Land2Cyber/legal-regulations-investigations-and-compliance-cissp-domain-8-unraveled-ee5814ce979e?source=rss------bug_bounty-5) 
 
- - 💯November 17, 2023 - [Dastardly — Web Application Security Scanner — CI/CD](https://securitycipher.medium.com/dastardly-web-application-security-scanner-ci-cd-3a4eea08719a?source=rss------bug_bounty-5) 
+ - 💯November 18, 2023 - [“CISSP and Security in the Cloud Navigating the Evolving Cybersecurity Landscape”](https://medium.com/@Land2Cyber/cissp-and-security-in-the-cloud-navigating-the-evolving-cybersecurity-landscape-277e9260f271?source=rss------bug_bounty-5) 
 
- - 💯November 17, 2023 - [The Future of Cybersecurity: The Power of AI-Powered SIEM](https://medium.com/@paritoshblogs/the-future-of-cybersecurity-the-power-of-ai-powered-siem-ae43921e9bce?source=rss------bug_bounty-5) 
+ - 💯November 18, 2023 - [“Security Assessment and Testing CISSP Approaches to Evaluating Vulnerabilities”](https://medium.com/@Land2Cyber/security-assessment-and-testing-cissp-approaches-to-evaluating-vulnerabilities-c5bf1bc350b7?source=rss------bug_bounty-5) 
 
- - 💯November 17, 2023 - [“CISSP and Identity &amp; Access Management Safeguarding Digital Identities”](https://medium.com/@Land2Cyber/cissp-and-identity-access-management-safeguarding-digital-identities-e26db1203247?source=rss------bug_bounty-5) 
+ - 💯November 18, 2023 - [“CISSP and Communication &amp; Network Security Safeguarding Information Flow”](https://medium.com/@Land2Cyber/cissp-and-communication-network-security-safeguarding-information-flow-6c4e44b661f3?source=rss------bug_bounty-5) 
 
- - 💯November 17, 2023 - [“Security Operations and CISSP Building a Robust Cybersecurity Infrastructure”](https://medium.com/@Land2Cyber/security-operations-and-cissp-building-a-robust-cybersecurity-infrastructure-9a9037d37ca9?source=rss------bug_bounty-5) 
+ - 💯November 18, 2023 - [“Software Development Security CISSP Insights into Securing the SDLC”](https://medium.com/@Land2Cyber/software-development-security-cissp-insights-into-securing-the-sdlc-7a182b02cf35?source=rss------bug_bounty-5) 
 
- - 💯November 17, 2023 - [“Cryptographic Principles and CISSP Unlocking the Secrets of Domain 3&quot;](https://medium.com/@Land2Cyber/cryptographic-principles-and-cissp-unlocking-the-secrets-of-domain-3-379d1f335449?source=rss------bug_bounty-5) 
+ - 💯November 18, 2023 - [Securing the Backbone: Supply Chain Security](https://medium.com/@paritoshblogs/securing-the-backbone-supply-chain-security-34282b6b505f?source=rss------bug_bounty-5) 
 
- - 💯November 17, 2023 - [“CISSP and the Art of Risk Management Balancing Security and Business Objectives”](https://medium.com/@Land2Cyber/cissp-and-the-art-of-risk-management-balancing-security-and-business-objectives-1d8eaecac73e?source=rss------bug_bounty-5) 
+ - 💯November 18, 2023 - [ByteGuard: Mastering the Art of Data Security](https://medium.com/@paritoshblogs/byteguard-mastering-the-art-of-data-security-5719be0d1c7c?source=rss------bug_bounty-5) 
 
- - 💯November 16, 2023 - [$1000 Bounty: How I scaled a Self-Redirect to an XSS in a web 3.0 system at Hackenproof](https://erickfernandox.medium.com/1000-bounty-how-i-scaled-a-self-redirect-to-an-xss-in-a-web-3-0-system-at-hackenproof-37380f701892?source=rss------bug_bounty-5) 
+ - 💯November 17, 2023 - [Access control vulnerabilities](https://medium.com/@abdullahwarsama28/access-control-vulnerabilities-02fe3ea2e17f?source=rss------bug_bounty-5) 
 
- - 💯November 16, 2023 - [How I got a $500 reward for finding an unacclaimed bucket on GitHub](https://medium.com/@andre.pontes7/how-i-got-a-500-reward-for-finding-an-unacclaimed-bucket-on-github-57623c386515?source=rss------bug_bounty-5) 
+ - 💯November 17, 2023 - [Diving Deep: A Comprehensive Guide to Android Penetration Testing — Part 2](https://medium.com/@hackersdump0/diving-deep-a-comprehensive-guide-to-android-penetration-testing-part-2-9c33c319a696?source=rss------bug_bounty-5) 
+
+ - 💯November 17, 2023 - [How to find vulnerabilities in a web page in 10 minutes](https://medium.com/@l0calh0st/how-to-find-vulnerabilities-in-a-web-page-in-10-minutes-66cd052b4fbc?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
