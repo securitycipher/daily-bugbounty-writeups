@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 29, 2023 - [Mastering API Penetration Testing: A Comprehensive Guide for Security Pentesters](https://infosecwriteups.com/mastering-api-penetration-testing-a-comprehensive-guide-for-security-pentesters-bf62f65b5b21?source=rss------bug_bounty-5) 
+ - 💯November 30, 2023 - [What is SQL injection](https://medium.com/@savanghori1203/what-is-sql-injection-a3907c6967a5?source=rss------bug_bounty-5) 
 
- - 💯November 29, 2023 - [Useful tools for bug hunter](https://medium.com/@cyberhansu/useful-tools-for-bug-hunter-f493866fa1bc?source=rss------bug_bounty-5) 
+ - 💯November 30, 2023 - [Cross-Site Scripting &lpar;XSS&rpar;](https://medium.com/@savanghori1203/cross-site-scripting-xss-b6139b38fa2b?source=rss------bug_bounty-5) 
 
- - 💯November 29, 2023 - [How to make money legally as a Hacker](https://medium.com/@cyberhansu/how-to-make-money-legally-as-a-hacker-c27037b143a9?source=rss------bug_bounty-5) 
+ - 💯November 30, 2023 - [The Shocking Truth Behind Indicators of Compromise &lpar;IOCs&rpar; — You Won’t Believe What We Found!](https://medium.com/@paritoshblogs/the-shocking-truth-behind-indicators-of-compromise-iocs-you-wont-believe-what-we-found-5255d54b98d9?source=rss------bug_bounty-5) 
 
- - 💯November 29, 2023 - [Cybersecurity Risk of Opening Up to the Internet](https://medium.com/@paritoshblogs/cybersecurity-risk-of-opening-up-to-the-internet-c624c9a018ba?source=rss------bug_bounty-5) 
+ - 💯November 30, 2023 - [Subdomain Enumeration Techniques](https://medium.com/@savanghori1203/subdomain-enumeration-00f487d6b829?source=rss------bug_bounty-5) 
 
- - 💯November 29, 2023 - [OSINT: How to find information on anyone](https://medium.com/@sakthi172000/osint-how-to-find-information-on-anyone-14514216cec1?source=rss------bug_bounty-5) 
+ - 💯November 30, 2023 - [Day 11 Bug Bounty — 60 days 60 bugs challenge](https://medium.com/@avbhijitdutta99/day-11-bug-bounty-60-days-60-bugs-challenge-530119a74c90?source=rss------bug_bounty-5) 
 
- - 💯November 29, 2023 - [Day 10 Bug Bounty — 60 days 60bugs challenge — New Start!](https://medium.com/@avbhijitdutta99/day-10-bug-bounty-60-days-60bugs-challenge-new-start-832988aeb569?source=rss------bug_bounty-5) 
+ - 💯November 30, 2023 - [Network Managed Detection and Response &lpar;NMDR&rpar;: Strengthening Cybersecurity Defenses](https://medium.com/@paritoshblogs/network-managed-detection-and-response-nmdr-strengthening-cybersecurity-defenses-a8a5e989b310?source=rss------bug_bounty-5) 
 
- - 💯November 29, 2023 - [Windows Login Bypass](https://infosecwriteups.com/windows-login-bypass-eab148bc9dd5?source=rss------bug_bounty-5) 
+ - 💯November 30, 2023 - [Exploring the Logic of XSS Attacks and Bypassing Techniques through Browser Decoding](https://medium.com/@test_90648/considering-xss-attacks-and-bypass-logic-from-the-perspective-of-browser-decoding-logic-can-provide-b4579d3c458b?source=rss------bug_bounty-5) 
 
- - 💯November 28, 2023 - [Hall of Fame at NASA](https://medium.com/@bijoy.redteamacademy/hall-of-fame-at-nasa-91539af7826c?source=rss------bug_bounty-5) 
+ - 💯November 30, 2023 - [Project 2510: Bug Bounty Challenge — The End?](https://wallotry.medium.com/project-2510-bug-bounty-challenge-the-end-afb67ea2abd1?source=rss------bug_bounty-5) 
 
- - 💯November 28, 2023 - [The Bug Hunter’s Methodology Live Course Review](https://medium.com/@cybersekler/the-bug-hunters-methodology-live-course-review-4261a7a9121e?source=rss------bug_bounty-5) 
+ - 💯November 29, 2023 - [Top 25 Advanced Google Dorks for Uncovering Sensitive Documents](https://osintteam.blog/top-25-advanced-google-dorks-for-uncovering-sensitive-documents-a9705e05353d?source=rss------bug_bounty-5) 
 
- - 💯November 28, 2023 - [1.9 Lab: Visible error-based SQL injection | 2023](https://cyberw1ng.medium.com/1-9-lab-visible-error-based-sql-injection-2023-771157e90ad8?source=rss------bug_bounty-5) 
+ - 💯November 29, 2023 - [Fat GET Authorization Bypass](https://medium.com/techiepedia/fat-get-authorization-bypass-521a1ca37b6e?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
