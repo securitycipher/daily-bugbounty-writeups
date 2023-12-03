@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 2, 2023 - [Bug Hunter journal day&lpar;week&rpar; #1](https://medium.com/@joaomaia171820/bug-hunter-journal-day-week-1-699926bf1a70?source=rss------bug_bounty-5) 
+ - 💯December 3, 2023 - [Cyber Resilience in Industrial Control Systems Protecting Manufacturing Infrastructure”](https://medium.com/@Land2Cyber/cyber-resilience-in-industrial-control-systems-protecting-manufacturing-infrastructure-eec9af725254?source=rss------bug_bounty-5) 
 
- - 💯December 2, 2023 - [Lateral Movement Techniques Through File Share Exploitation](https://medium.com/@paritoshblogs/lateral-movement-techniques-through-file-share-exploitation-a50d1ffdb8e7?source=rss------bug_bounty-5) 
+ - 💯December 3, 2023 - [My First Valid Bug!!!](https://medium.com/@sushilgill08/my-first-valid-bug-444f26e1f8be?source=rss------bug_bounty-5) 
 
- - 💯December 2, 2023 - [The Rising Threat of Cookie Theft and RMM Takeover](https://medium.com/@paritoshblogs/the-rising-threat-of-cookie-theft-and-rmm-takeover-bafe0013ffc0?source=rss------bug_bounty-5) 
+ - 💯December 3, 2023 - [Everything I know on Recon](https://medium.com/@joshdesharnais1/everything-i-know-on-recon-689f6a535757?source=rss------bug_bounty-5) 
 
- - 💯December 2, 2023 - [20 Days Of Hacking: Bug Bounty Challenge — Day 1](https://wallotry.medium.com/20-days-of-hacking-bug-bounty-challenge-day-1-38a1735644ab?source=rss------bug_bounty-5) 
+ - 💯December 3, 2023 - [How I Found My First Website Vulnerability as a Web Pentester](https://medium.com/@abidmafahim7/how-i-found-my-first-website-vulnerability-as-a-web-pentester-2dee809e0eea?source=rss------bug_bounty-5) 
 
- - 💯December 2, 2023 - [Vulnerability Discovery in SRC — Concurrency](https://medium.com/@rynnnn617/vulnerability-discovery-in-src-concurrency-baa9ffdfa9d9?source=rss------bug_bounty-5) 
+ - 💯December 3, 2023 - [My first and simple ATO in a private program](https://medium.com/@pabs2141/my-first-and-simple-ato-in-a-private-program-212c6b17b245?source=rss------bug_bounty-5) 
 
- - 💯December 1, 2023 - [Navigating the Bug Bounty Arena: Earn $605,000 Reward, Learn More](https://medium.com/coded-tech-talk/navigating-the-bug-bounty-arena-earn-605-000-reward-learn-more-e754e077a81c?source=rss------bug_bounty-5) 
+ - 💯December 3, 2023 - [My Confusion Over Local File Inclusion](https://medium.com/illuminations-mirror/my-confusion-over-local-file-inclusion-11f3d7c43b23?source=rss------bug_bounty-5) 
 
- - 💯December 1, 2023 - [Part 03 | What To Do After Choosing a Target? | Post Recon |Bug Bounty](https://infosecwriteups.com/part-03-what-to-do-after-choosing-a-target-post-recon-bug-bounty-1a7f431b4d79?source=rss------bug_bounty-5) 
+ - 💯December 3, 2023 - [The Shocking Secrets Behind Foolproof Vulnerability Response!](https://medium.com/@paritoshblogs/the-shocking-secrets-behind-foolproof-vulnerability-response-fc6fe8b91d47?source=rss------bug_bounty-5) 
 
- - 💯December 1, 2023 - [“Securing the Spectrum Cyber Challenges in Satellite Communication Infrastructure”](https://medium.com/@Land2Cyber/securing-the-spectrum-cyber-challenges-in-satellite-communication-infrastructure-e309c7d26098?source=rss------bug_bounty-5) 
+ - 💯December 3, 2023 - [The ONE Vulnerability Every Website Owner Fears — Learn How YOU Can Expose It!](https://medium.com/@paritoshblogs/the-one-vulnerability-every-website-owner-fears-learn-how-you-can-expose-it-71fef31b0ece?source=rss------bug_bounty-5) 
 
- - 💯December 1, 2023 - [“Data Centers under Siege Strengthening Cyber Defenses in Critical IT Infrastructure”](https://medium.com/@Land2Cyber/data-centers-under-siege-strengthening-cyber-defenses-in-critical-it-infrastructure-7c0b263e02f5?source=rss------bug_bounty-5) 
+ - 💯December 3, 2023 - [20 Days Of Hacking: Bug Bounty Challenge — Day 2](https://wallotry.medium.com/20-days-of-hacking-bug-bounty-challenge-day-2-51b02ca865ea?source=rss------bug_bounty-5) 
+
+ - 💯December 2, 2023 - [“Shipping Securely Cyber Risks and Solutions in Maritime Infrastructure”](https://medium.com/@Land2Cyber/shipping-securely-cyber-risks-and-solutions-in-maritime-infrastructure-6d5cfe261021?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
