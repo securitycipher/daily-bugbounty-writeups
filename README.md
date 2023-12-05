@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 3, 2023 - [How I Created an Advanced Web Code Analyzer Using ChatGPT](https://infosecwriteups.com/how-i-created-an-advanced-web-code-analyzer-using-chatgpt-6b32a7d42f88?source=rss------bug_bounty-5) 
+ - 💯December 5, 2023 - [From Bug Bounty Prodigy to Leadership Luminary: Aditya Shende Ascends at XCOODE](https://medium.com/@xcoode/from-bug-bounty-prodigy-to-leadership-luminary-aditya-shende-ascends-at-xcoode-18a6aaab1471?source=rss------bug_bounty-5) 
 
- - 💯December 3, 2023 - [Azure Log Analysis: Real-Life Incidents and Practical Tips to Safeguard](https://medium.com/@paritoshblogs/azure-log-analysis-real-life-incidents-and-practical-tips-to-safeguard-077faf28919b?source=rss------bug_bounty-5) 
+ - 💯December 5, 2023 - [Empowering the Next Generation: XCOODE Unveils Hacckers Bug Bounty Platform for Cyber Enthusiasts](https://medium.com/@xcoode/empowering-the-next-generation-xcoode-unveils-hacckers-bug-bounty-platform-for-cyber-enthusiasts-bc6dc31c27b9?source=rss------bug_bounty-5) 
 
- - 💯December 3, 2023 - [How to debug android native libraries using JEB decompiler?](https://medium.com/@shubhamsonani/how-to-debug-android-native-libraries-using-jeb-decompiler-eec681a22cf3?source=rss------bug_bounty-5) 
+ - 💯December 4, 2023 - [Web Enumeration With Gobuster](https://medium.com/@ronak.d.sharma111/web-enumeration-with-gobuster-ca4ac46da90b?source=rss------bug_bounty-5) 
 
- - 💯December 3, 2023 - [How to bypass debugger detection in Android/iOS native libraries using IDA Pro?](https://medium.com/@shubhamsonani/how-to-bypass-debugger-detection-in-android-ios-native-libraries-using-ida-pro-3e289c2127d6?source=rss------bug_bounty-5) 
+ - 💯December 4, 2023 - [Bug Hunter journal day #3 and #4](https://medium.com/@joaomaia171820/bug-hunter-journal-day-3-and-4-37b4c653abd9?source=rss------bug_bounty-5) 
 
- - 💯December 3, 2023 - [Streamable Finance Bug Bounty Campaign is live!](https://streamablefinance.medium.com/streamable-finance-bug-bounty-campaign-is-live-2ced6e4c68d5?source=rss------bug_bounty-5) 
+ - 💯December 4, 2023 - [Javascript Analysis to SQL injection](https://melguerdawi.medium.com/javascript-analysis-to-sql-injection-ca763f9c4c4e?source=rss------bug_bounty-5) 
 
- - 💯December 3, 2023 - [How to debug Android/iOS native library using GDB debugger?](https://medium.com/@shubhamsonani/how-to-debug-android-ios-native-library-using-gdb-debugger-d02c0e0341eb?source=rss------bug_bounty-5) 
+ - 💯December 4, 2023 - [“Cybersecurity by Design Integrating Security from the Start”](https://medium.com/@Land2Cyber/cybersecurity-by-design-integrating-security-from-the-start-21d362b1092f?source=rss------bug_bounty-5) 
 
- - 💯December 3, 2023 - [Business Logic Vulnerability: Payment bypass](https://vrushabhd.medium.com/business-logic-vulnerability-payment-bypass-9335bdbdbdf6?source=rss------bug_bounty-5) 
+ - 💯December 4, 2023 - [“Continuous Monitoring Staying Vigilant in the Cyber Battleground”](https://medium.com/@Land2Cyber/continuous-monitoring-staying-vigilant-in-the-cyber-battleground-4149b234fbd4?source=rss------bug_bounty-5) 
 
- - 💯December 3, 2023 - [“Safeguarding the Skies Cyber Threats to Air Traffic Control Infrastructure”](https://medium.com/@Land2Cyber/safeguarding-the-skies-cyber-threats-to-air-traffic-control-infrastructure-ce6f84645f95?source=rss------bug_bounty-5) 
+ - 💯December 4, 2023 - [“Defense in Depth Layered Strategies for Cyber Resilience”](https://medium.com/@Land2Cyber/defense-in-depth-layered-strategies-for-cyber-resilience-ce40707659c4?source=rss------bug_bounty-5) 
 
- - 💯December 3, 2023 - [“Bridging the Gaps Cybersecurity Challenges in Critical Infrastructure Supply Chains”](https://medium.com/@Land2Cyber/bridging-the-gaps-cybersecurity-challenges-in-critical-infrastructure-supply-chains-7f27660dfd59?source=rss------bug_bounty-5) 
-
- - 💯December 3, 2023 - [“Protecting National Identity Cybersecurity Measures in Government Infrastructure”](https://medium.com/@Land2Cyber/protecting-national-identity-cybersecurity-measures-in-government-infrastructure-e6cdf7338ecf?source=rss------bug_bounty-5) 
+ - 💯December 4, 2023 - [The Hidden Dangers Lurking in Your Active Directory Certificate Services – What You Need to Know…](https://medium.com/@paritoshblogs/the-hidden-dangers-lurking-in-your-active-directory-certificate-services-what-you-need-to-know-7c735c09e0fd?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
