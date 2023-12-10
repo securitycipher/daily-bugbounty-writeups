@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 9, 2023 - [Is it safe to expose your Firebase API key?](https://infosecwriteups.com/is-it-safe-to-expose-your-firebase-api-key-bf2a318c0f29?source=rss------bug_bounty-5) 
+ - 💯December 10, 2023 - [Bug bounty training from scratch&lpar;part2-&gt;lesson](https://medium.com/@kataeriidubstep/bug-bounty-training-from-scratch-part2-lesson-7a58ad73a31d?source=rss------bug_bounty-5) 
 
- - 💯December 8, 2023 - [Blind XSS on Registration System](https://medium.com/@aurelioyudistira/blind-xss-on-registration-system-410eb0b98109?source=rss------bug_bounty-5) 
+ - 💯December 10, 2023 - [Bug bounty training from scratch&lpar;part2-&gt;lesson10&rpar;:](https://medium.com/@kataeriidubstep/bug-bounty-training-from-scratch-part2-lesson10-57551e079751?source=rss------bug_bounty-5) 
 
- - 💯December 8, 2023 - [“Role-Based Access Control Fine-Tuning Cybersecurity Permissions”](https://medium.com/@Land2Cyber/role-based-access-control-fine-tuning-cybersecurity-permissions-f422509299c0?source=rss------bug_bounty-5) 
+ - 💯December 10, 2023 - [Bug bounty training from scratch&lpar;part2-&gt;lesson9&rpar;:](https://medium.com/@kataeriidubstep/bug-bounty-training-from-scratch-part2-lesson9-4802a25a2570?source=rss------bug_bounty-5) 
 
- - 💯December 8, 2023 - [“The Human Element Access Control Strategies for Insider Threat Prevention”](https://medium.com/@Land2Cyber/the-human-element-access-control-strategies-for-insider-threat-prevention-1f3e52e929ac?source=rss------bug_bounty-5) 
+ - 💯December 10, 2023 - [Bug bounty training from scratch&lpar;part2-&gt;lesson8&rpar;:](https://medium.com/@kataeriidubstep/bug-bounty-training-from-scratch-part2-lesson8-e8a2b87c3ac2?source=rss------bug_bounty-5) 
 
- - 💯December 8, 2023 - [“Access Control Policies Unveiled Crafting Robust Cybersecurity Defenses”](https://medium.com/@Land2Cyber/access-control-policies-unveiled-crafting-robust-cybersecurity-defenses-970ba8c7fced?source=rss------bug_bounty-5) 
+ - 💯December 10, 2023 - [Bug bounty training from scratch&lpar;part2-&gt;lesson7&rpar;:](https://medium.com/@kataeriidubstep/bug-bounty-training-from-scratch-part2-lesson7-152c167dbc0f?source=rss------bug_bounty-5) 
 
- - 💯December 8, 2023 - [“Zero Trust Architecture Rethinking Access Control in Cybersecurity”](https://medium.com/@Land2Cyber/zero-trust-architecture-rethinking-access-control-in-cybersecurity-adda5ce15367?source=rss------bug_bounty-5) 
+ - 💯December 10, 2023 - [Bug bounty training from scratch&lpar;part2-&gt;lesson6&rpar;:](https://medium.com/@kataeriidubstep/bug-bounty-training-from-scratch-part2-lesson6-43abf1f342ec?source=rss------bug_bounty-5) 
 
- - 💯December 8, 2023 - [“Biometric Brilliance Enhancing Access Control for the Digital Age”](https://medium.com/@Land2Cyber/biometric-brilliance-enhancing-access-control-for-the-digital-age-5e9c2a33ca38?source=rss------bug_bounty-5) 
+ - 💯December 10, 2023 - [Bug bounty training from scratch&lpar;part2-&gt;lesson5&rpar;:](https://medium.com/@kataeriidubstep/bug-bounty-training-from-scratch-part2-lesson5-f0042df50fca?source=rss------bug_bounty-5) 
 
- - 💯December 8, 2023 - [“Beyond Passwords The Evolution of Access Control in Cybersecurity”](https://medium.com/@Land2Cyber/beyond-passwords-the-evolution-of-access-control-in-cybersecurity-71954fadfdaf?source=rss------bug_bounty-5) 
+ - 💯December 10, 2023 - [Bug bounty training from scratch&lpar;part2-&gt;lesson4&rpar;:](https://medium.com/@kataeriidubstep/bug-bounty-training-from-scratch-part2-lesson4-29d491577d8c?source=rss------bug_bounty-5) 
 
- - 💯December 8, 2023 - [“Mastering Access Control A Blueprint for Cybersecurity Fortification”](https://medium.com/@Land2Cyber/mastering-access-control-a-blueprint-for-cybersecurity-fortification-8cc7cd8d9291?source=rss------bug_bounty-5) 
+ - 💯December 10, 2023 - [Bug bounty training from scratch&lpar;part2-&gt;lesson3&rpar;:](https://medium.com/@kataeriidubstep/bug-bounty-training-from-scratch-part2-lesson3-80794013cf99?source=rss------bug_bounty-5) 
 
- - 💯December 8, 2023 - [PEARfection: From LFI to RCI: An iCSI CTF Challenge.](https://medium.com/@josh.beck2006/pearfection-from-lfi-to-rci-an-icsi-ctf-challenge-4ecfb77a60c4?source=rss------bug_bounty-5) 
+ - 💯December 10, 2023 - [Bug bounty training from scratch&lpar;part2-&gt;lesson2&rpar;:](https://medium.com/@kataeriidubstep/bug-bounty-training-from-scratch-part2-lesson2-177e4a21e8d3?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
