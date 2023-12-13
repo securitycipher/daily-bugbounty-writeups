@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 12, 2023 - [Duplicate CSRF… Leads to $$](https://shellbreaker.medium.com/duplicate-csrf-leads-to-26c1ddc71dc5?source=rss------bug_bounty-5) 
+ - 💯December 13, 2023 - [Cross-Site Scripting &lpar;XSS&rpar;](https://medium.com/@savanghori1203/cross-site-scripting-xss-c288793349a9?source=rss------bug_bounty-5) 
 
- - 💯December 12, 2023 - [Server-Side Request Forgery &lpar;SSRF&rpar;](https://medium.com/@savanghori1203/server-side-request-forgery-ssrf-ca04465ac41a?source=rss------bug_bounty-5) 
+ - 💯December 12, 2023 - [missing session scopes lead to authentication bypass](https://medium.com/@Mr3Moe/missing-session-scopes-lead-to-authentication-bypass-2e1cdaebda7b?source=rss------bug_bounty-5) 
 
- - 💯December 12, 2023 - [Remote Code Execution &lpar;RCE&rpar;](https://medium.com/@savanghori1203/remote-code-execution-rce-e8628b1432de?source=rss------bug_bounty-5) 
+ - 💯December 12, 2023 - [Exploiting Django Debug Mode for Unrestricted Access to the Internal Dashboard?](https://rokkamvamsi18.medium.com/exploiting-django-debug-mode-for-unrestricted-access-to-the-internal-dashboard-b725783714ae?source=rss------bug_bounty-5) 
 
- - 💯December 12, 2023 - [I will do Vulnerability Assessment and penetration testing on your website](https://securitycipher.medium.com/i-will-do-vulnerability-assessment-and-penetration-testing-on-your-website-5cd4fb147a33?source=rss------bug_bounty-5) 
+ - 💯December 12, 2023 - [How I got $300 for Default Credential Login at Bugcrowd](https://medium.com/@avbhijitdutta99/how-i-got-300-for-default-credential-login-at-bugcrowd-30368eb698f7?source=rss------bug_bounty-5) 
 
- - 💯December 12, 2023 - [Skills Needed For Bug Bounty](https://medium.com/@joshdesharnais1/skills-needed-for-bug-bounty-23e289ef0853?source=rss------bug_bounty-5) 
+ - 💯December 12, 2023 - [The launch of incentivized testnet for TribeOne V3](https://tribeone.medium.com/the-launch-of-incentivized-testnet-for-tribeone-v3-6e12a1eb6d0f?source=rss------bug_bounty-5) 
 
- - 💯December 12, 2023 - [OpenBounty, Shentu’s New Approach in Security Ecosystem](https://shentuchain.medium.com/openbounty-shentus-new-approach-in-security-ecosystem-fbae6506d956?source=rss------bug_bounty-5) 
+ - 💯December 12, 2023 - [Hacking NASA and Got Hall of Fame](https://medium.com/@bug.hun3r/hacking-nasa-and-got-hall-of-fame-71f9a344d1d0?source=rss------bug_bounty-5) 
 
- - 💯December 12, 2023 - [Mobile Application Security Testing: Navigating the Digital Landscape Safely](https://medium.com/geekculture/mobile-application-security-testing-navigating-the-digital-landscape-safely-3aead90a5455?source=rss------bug_bounty-5) 
+ - 💯December 12, 2023 - [Build3rs Bug Bounty Program](https://medium.com/@Lay3rsXR/build3rs-bug-bounty-program-8b874bdfee0e?source=rss------bug_bounty-5) 
 
- - 💯December 11, 2023 - [HackTheBox — Session Security: Obtain Session Identifier via XSS](https://medium.com/@harry.hphu/hackthebox-session-security-obtain-session-identifier-via-xss-c151160c03b0?source=rss------bug_bounty-5) 
+ - 💯December 12, 2023 - [“User-Centric Access Control Striking a Balance Between Security and Convenience”](https://medium.com/@Land2Cyber/user-centric-access-control-striking-a-balance-between-security-and-convenience-689eb3a25b12?source=rss------bug_bounty-5) 
 
- - 💯December 11, 2023 - [So you found Auth0 secrets, now what?](https://blog.prodefense.io/so-you-found-auth0-secrets-now-what-0945642ac09b?source=rss------bug_bounty-5) 
+ - 💯December 12, 2023 - [“Debunking Myths Common Misconceptions About Access Control in Cybersecurity”](https://medium.com/@Land2Cyber/debunking-myths-common-misconceptions-about-access-control-in-cybersecurity-e5518120c0fd?source=rss------bug_bounty-5) 
 
- - 💯December 11, 2023 - [Say Goodbye to Password Hassles with These Cutting-Edge Security Trends!](https://medium.com/@paritoshblogs/say-goodbye-to-password-hassles-with-these-cutting-edge-security-trends-8b8f6ad8f6d4?source=rss------bug_bounty-5) 
+ - 💯December 12, 2023 - [Bug Bounty and Hacking Books You Should Read &lpar;Must Read&rpar;](https://rajkaran359.medium.com/bug-bounty-and-hacking-books-you-should-read-must-read-57ca722ad51d?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
