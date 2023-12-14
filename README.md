@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 13, 2023 - [Cross-Site Scripting &lpar;XSS&rpar;](https://medium.com/@savanghori1203/cross-site-scripting-xss-c288793349a9?source=rss------bug_bounty-5) 
+ - 💯December 14, 2023 - [All about Ethical Hacking](https://securitycipher.medium.com/all-about-ethical-hacking-277b9c3e4b36?source=rss------bug_bounty-5) 
 
- - 💯December 12, 2023 - [missing session scopes lead to authentication bypass](https://medium.com/@Mr3Moe/missing-session-scopes-lead-to-authentication-bypass-2e1cdaebda7b?source=rss------bug_bounty-5) 
+ - 💯December 14, 2023 - [How did I find open redirect on LinkedIn](https://medium.com/@neverl0gbughunt/how-did-i-find-open-redirect-on-linkedin-e35918b3b129?source=rss------bug_bounty-5) 
 
- - 💯December 12, 2023 - [Exploiting Django Debug Mode for Unrestricted Access to the Internal Dashboard?](https://rokkamvamsi18.medium.com/exploiting-django-debug-mode-for-unrestricted-access-to-the-internal-dashboard-b725783714ae?source=rss------bug_bounty-5) 
+ - 💯December 14, 2023 - [Cookie Quest: XSS Admin Assault](https://medium.com/@josh.beck2006/cookie-quest-xss-admin-assault-694769f84796?source=rss------bug_bounty-5) 
 
- - 💯December 12, 2023 - [How I got $300 for Default Credential Login at Bugcrowd](https://medium.com/@avbhijitdutta99/how-i-got-300-for-default-credential-login-at-bugcrowd-30368eb698f7?source=rss------bug_bounty-5) 
+ - 💯December 13, 2023 - [Day 13 Bug Bounty — 60 days 60 bugs challenge &lpar;Found P1!!! Hope it gets accepted&rpar;](https://medium.com/@avbhijitdutta99/day-13-bug-bounty-60-days-60-bugs-challenge-found-p1-hope-it-gets-accepted-670f0dcc25f3?source=rss------bug_bounty-5) 
 
- - 💯December 12, 2023 - [The launch of incentivized testnet for TribeOne V3](https://tribeone.medium.com/the-launch-of-incentivized-testnet-for-tribeone-v3-6e12a1eb6d0f?source=rss------bug_bounty-5) 
+ - 💯December 13, 2023 - [I found out what my neighbour was looking at on the internet, This is how ?](https://navnee1h.medium.com/i-found-out-what-my-neighbour-was-looking-at-on-the-internet-this-is-how-050c4dfef8b4?source=rss------bug_bounty-5) 
 
- - 💯December 12, 2023 - [Hacking NASA and Got Hall of Fame](https://medium.com/@bug.hun3r/hacking-nasa-and-got-hall-of-fame-71f9a344d1d0?source=rss------bug_bounty-5) 
+ - 💯December 13, 2023 - [A misconfiguration in the password reset process can lead to an account takeover.](https://medium.com/@Mr3Moe/a-misconfiguration-in-the-password-reset-process-can-lead-to-an-account-takeover-30c43e17d744?source=rss------bug_bounty-5) 
 
- - 💯December 12, 2023 - [Build3rs Bug Bounty Program](https://medium.com/@Lay3rsXR/build3rs-bug-bounty-program-8b874bdfee0e?source=rss------bug_bounty-5) 
+ - 💯December 13, 2023 - [“Guardians of the Gateway Navigating the Fortified Realms of Network Security”](https://medium.com/@Land2Cyber/guardians-of-the-gateway-navigating-the-fortified-realms-of-network-security-6ad1af0a2375?source=rss------bug_bounty-5) 
 
- - 💯December 12, 2023 - [“User-Centric Access Control Striking a Balance Between Security and Convenience”](https://medium.com/@Land2Cyber/user-centric-access-control-striking-a-balance-between-security-and-convenience-689eb3a25b12?source=rss------bug_bounty-5) 
+ - 💯December 13, 2023 - [“SecOps Unveiled Navigating the Cybersecurity Battlefront”](https://medium.com/@Land2Cyber/secops-unveiled-navigating-the-cybersecurity-battlefront-145ef86fe059?source=rss------bug_bounty-5) 
 
- - 💯December 12, 2023 - [“Debunking Myths Common Misconceptions About Access Control in Cybersecurity”](https://medium.com/@Land2Cyber/debunking-myths-common-misconceptions-about-access-control-in-cybersecurity-e5518120c0fd?source=rss------bug_bounty-5) 
+ - 💯December 13, 2023 - [“The Future of Access Control Emerging Trends in Cybersecurity”](https://medium.com/@Land2Cyber/the-future-of-access-control-emerging-trends-in-cybersecurity-fabb6043f23d?source=rss------bug_bounty-5) 
 
- - 💯December 12, 2023 - [Bug Bounty and Hacking Books You Should Read &lpar;Must Read&rpar;](https://rajkaran359.medium.com/bug-bounty-and-hacking-books-you-should-read-must-read-57ca722ad51d?source=rss------bug_bounty-5) 
+ - 💯December 13, 2023 - [Only 3 Days Left For IWCON 2023](https://infosecwriteups.com/only-3-days-left-for-iwcon-2023-bab915df5ae8?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
