@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 15, 2023 - [Headline: Indian Government Issues High-Risk Warning for Samsung Galaxy S23 and Other Models](https://riglabscollective.medium.com/headline-indian-government-issues-high-risk-warning-for-samsung-galaxy-s23-and-other-models-2c153d5bcc62?source=rss------bug_bounty-5) 
+ - 💯December 16, 2023 - [When not to rely on Automated Tools](https://medium.com/@rodriguezjorgex/when-not-to-rely-on-automated-tools-429b331e0613?source=rss------bug_bounty-5) 
 
- - 💯December 15, 2023 - [6 Quick Discover Bug Search Syntax In Code-base](https://medium.com/@kerstan/6-quick-discover-bug-search-syntax-in-code-base-eb3d6fb6e929?source=rss------bug_bounty-5) 
+ - 💯December 16, 2023 - [Escalating DOM XSS to Stored XSS](https://medium.com/@rodriguezjorgex/escalating-dom-xss-to-stored-xss-eb6f3a669af3?source=rss------bug_bounty-5) 
 
- - 💯December 14, 2023 - [Starlink Router Gen 2 is vulnerable to XSS.](https://medium.com/@hackintoanetwork/starlink-router-gen-2-is-vulnerable-to-xss-48cfcadd0b13?source=rss------bug_bounty-5) 
+ - 💯December 15, 2023 - [Subdomain Takeover in Azure Trafficmanager for Fun &amp; Profit](https://padsalatushal.medium.com/subdomain-takeover-in-azure-trafficmanager-for-fun-profit-09c858ca3d0e?source=rss------bug_bounty-5) 
 
- - 💯December 14, 2023 - [Adobe Recap: 2023 Ambassador World Cup Final Four](https://blog.developer.adobe.com/adobe-recap-2023-ambassador-world-cup-final-four-df701e1a1b12?source=rss------bug_bounty-5) 
+ - 💯December 15, 2023 - [How To Explore and Exploit GraphQL [Indonesia]](https://revan-ar.medium.com/how-to-explore-and-exploit-graphql-indonesia-562c560f46c6?source=rss------bug_bounty-5) 
 
- - 💯December 14, 2023 - [How i found a Permanent Denial of Service via Account Lockout:](https://medium.com/@kataeriidubstep/how-i-found-a-permanent-denial-of-service-via-account-lockout-ac1bc33c3c0a?source=rss------bug_bounty-5) 
+ - 💯December 15, 2023 - [From CloudSec to Application Security, Bug Bounties to Cybersecurity tooling, and More](https://infosecwriteups.com/from-cloudsec-to-application-security-bug-bounties-to-cybersecurity-tooling-and-more-9f4a1819620c?source=rss------bug_bounty-5) 
 
- - 💯December 14, 2023 - [How i found a Misconfigured CORS Vulnerability — Unauthorized Cross-Origin Resource Sharing :](https://medium.com/@kataeriidubstep/how-i-found-a-misconfigured-cors-vulnerability-unauthorized-cross-origin-resource-sharing-16effea37e78?source=rss------bug_bounty-5) 
+ - 💯December 15, 2023 - [One port can be a costly mistake | Attack The Rsync Service in a Private Program](https://medium.com/@sword0x00/one-port-can-be-a-costly-mistake-attack-the-rsync-service-in-a-private-program-cdbf9ecc650d?source=rss------bug_bounty-5) 
 
- - 💯December 14, 2023 - [“VPN Essentials Navigating the Secure Pathways of Digital Communication”](https://medium.com/@Land2Cyber/vpn-essentials-navigating-the-secure-pathways-of-digital-communication-e1cc14f520a1?source=rss------bug_bounty-5) 
+ - 💯December 15, 2023 - [Easy Money from the Most Trivially Easy Broken Access Control](https://abd11atarek.medium.com/easy-money-from-the-most-trivially-easy-broken-access-control-4d810af327f7?source=rss------bug_bounty-5) 
 
- - 💯December 14, 2023 - [“Intrusion Detection Unveiled Safeguarding Networks from Stealth Threats”](https://medium.com/@Land2Cyber/intrusion-detection-unveiled-safeguarding-networks-from-stealth-threats-644f12035cb2?source=rss------bug_bounty-5) 
+ - 💯December 15, 2023 - [HTTP/2 Request Smuggling](https://medium.com/@kerstan/http-2-request-smuggling-b6ef5ae351fb?source=rss------bug_bounty-5) 
 
- - 💯December 14, 2023 - [“The Zero Trust Revolution Redefining Network Security”](https://medium.com/@Land2Cyber/the-zero-trust-revolution-redefining-network-security-fbd3d432d655?source=rss------bug_bounty-5) 
+ - 💯December 15, 2023 - [3 Cases of DOM XSS in Bug Bounty](https://medium.com/@kerstan/3-cases-of-dom-xss-in-bug-bounty-0744003f0b2b?source=rss------bug_bounty-5) 
 
- - 💯December 14, 2023 - [How i found a Password Reset Token Leak via Referer Header:](https://medium.com/@kataeriidubstep/how-i-found-a-password-reset-token-leak-via-referer-header-7d71d35b0ea8?source=rss------bug_bounty-5) 
+ - 💯December 15, 2023 - [How I Automatically Discovered SSRF in Hackerone Program](https://medium.com/@kerstan/how-i-automatically-discovered-ssrf-in-hackerone-program-2ae0b7a6ef1b?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
