@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 17, 2023 - [Bug Zero at a Glance [19–30 November]](https://blog.bugzero.io/bug-zero-at-a-glance-19-30-november-8470a11d3015?source=rss------bug_bounty-5) 
+ - 💯December 18, 2023 - [How to write a perfect pentest report](https://arex-godofwar.medium.com/how-to-write-a-perfect-pentest-report-edb63cc68b36?source=rss------bug_bounty-5) 
 
- - 💯December 16, 2023 - [SSTI gave me T-Shirt + € 50](https://medium.com/@bug.hun3r/ssti-got-me-t-shirt-50-a8672ca766c9?source=rss------bug_bounty-5) 
+ - 💯December 18, 2023 - [Burp Suite Bambda](https://medium.com/offensive-black-hat-hacking-security/burp-suite-bambda-b9b8f57d6b46?source=rss------bug_bounty-5) 
 
- - 💯December 16, 2023 - [Kakar Security](https://medium.com/@walikhankakar313/kakar-security-cf15f39baede?source=rss------bug_bounty-5) 
+ - 💯December 18, 2023 - [Top Burp Suite Extensions Used by Penetration Testers](https://securitycipher.medium.com/top-burp-suite-extensions-used-by-penetration-testers-ee971a73256a?source=rss------bug_bounty-5) 
 
- - 💯December 16, 2023 - [DOM-based vulnerabilities](https://ayonthakur101.medium.com/dom-based-vulnerabilities-db02d7437b26?source=rss------bug_bounty-5) 
+ - 💯December 18, 2023 - [Lets Dive into the Intense World of Malware Analysis!](https://medium.com/@paritoshblogs/lets-dive-into-the-intense-world-of-malware-analysis-3c9e242d8c16?source=rss------bug_bounty-5) 
 
- - 💯December 16, 2023 - [Self-XSS to Stored XSS](https://medium.com/@rodriguezjorgex/self-xss-to-stored-xss-b4b999610c5b?source=rss------bug_bounty-5) 
+ - 💯December 18, 2023 - [Understanding Cross-Site Scripting &lpar;XSS&rpar; Attacks: Risks, Prevention, and Impact](https://securitylit.medium.com/understanding-cross-site-scripting-xss-attacks-risks-prevention-and-impact-ce002e5fbb1a?source=rss------bug_bounty-5) 
 
- - 💯December 16, 2023 - [Unveiling CVE-2019-11248: A Vulnerability in Kubernetes](https://samshadow.medium.com/unveiling-cve-2019-11248-a-vulnerability-in-kubernetes-83a831afaccd?source=rss------bug_bounty-5) 
+ - 💯December 18, 2023 - [why you need to filter the input and the output —  stored xss](https://medium.com/@Mr3Moe/why-you-need-to-filter-the-input-and-the-output-stored-xss-66f67c663703?source=rss------bug_bounty-5) 
 
- - 💯December 16, 2023 - [Mitigating Risks: Securing Symfony Profiler from Unwanted Exposure](https://samshadow.medium.com/mitigating-risks-securing-symfony-profiler-from-unwanted-exposure-14e90a53dd65?source=rss------bug_bounty-5) 
+ - 💯December 17, 2023 - [Main Methodology 1 | Part 04 | What To Do After Choosing a Target](https://infosecwriteups.com/main-methodology-1-part-04-what-to-do-after-choosing-a-target-f9cea586d6af?source=rss------bug_bounty-5) 
 
- - 💯December 16, 2023 - [Unveiling Vulnerabilities: PHP Debug Bar Exposes Sensitive Information](https://samshadow.medium.com/unveiling-vulnerabilities-php-debug-bar-exposes-sensitive-information-ca341267fe33?source=rss------bug_bounty-5) 
+ - 💯December 17, 2023 - [Reflected XSS in BGMI](https://medium.com/@patil97/reflected-xss-in-bgmi-38ed48773981?source=rss------bug_bounty-5) 
 
- - 💯December 16, 2023 - [When not to rely on Automated Tools](https://medium.com/@rodriguezjorgex/when-not-to-rely-on-automated-tools-429b331e0613?source=rss------bug_bounty-5) 
+ - 💯December 17, 2023 - [V3 Testnet Bug Bounty](https://tribeone.medium.com/v3-testnet-bug-bounty-8281b8775843?source=rss------bug_bounty-5) 
+
+ - 💯December 17, 2023 - [DOM XSS in document.write sink using source location.search](https://medium.com/@marduk.i.am/dom-xss-in-document-write-sink-using-source-location-search-ae458bc5c85f?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
