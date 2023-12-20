@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 19, 2023 - [“The Human Factor Strengthening Network Security through Awareness”](https://medium.com/@Land2Cyber/the-human-factor-strengthening-network-security-through-awareness-ccabe277758f?source=rss------bug_bounty-5) 
+ - 💯December 19, 2023 - [How I Found SQL Injection worth of $4,000 bounty](https://roberto99.medium.com/how-i-found-sql-injection-worth-of-4-000-bounty-16ca09cbf8ec?source=rss------bug_bounty-5) 
 
- - 💯December 19, 2023 - [“AI in Network Security The Future of Intelligent Defenses”](https://medium.com/@Land2Cyber/ai-in-network-security-the-future-of-intelligent-defenses-b1ad78464da2?source=rss------bug_bounty-5) 
+ - 💯December 19, 2023 - [#6.TryHackMe Series writeups: Brooklyn Nine Nine](https://cyb3rmind.medium.com/6-tryhackme-series-writeups-brooklyn-nine-nine-a0f7f074cbab?source=rss------bug_bounty-5) 
 
- - 💯December 19, 2023 - [“Network Security Hygiene Best Practices for a Healthy Cyber Environment”](https://medium.com/@Land2Cyber/network-security-hygiene-best-practices-for-a-healthy-cyber-environment-10137cc10b39?source=rss------bug_bounty-5) 
+ - 💯December 19, 2023 - [The Ultimate Guide to Uncovering XSS Vulnerabilities at Scale](https://medium.com/@cyndybruce1967/the-ultimate-guide-to-uncovering-xss-vulnerabilities-at-scale-1f35ecb765b7?source=rss------bug_bounty-5) 
 
- - 💯December 19, 2023 - [“Securing the Internet of Things Challenges and Solutions”](https://medium.com/@Land2Cyber/securing-the-internet-of-things-challenges-and-solutions-17cde69192a5?source=rss------bug_bounty-5) 
+ - 💯December 19, 2023 - [The Ultimate Guide to Hunting for XSS Vulnerabilities at Scale](https://medium.com/@elitumbleson1978/the-ultimate-guide-to-hunting-for-xss-vulnerabilities-at-scale-bfde4a9beae6?source=rss------bug_bounty-5) 
 
- - 💯December 19, 2023 - [“Next-Gen Firewall Technologies Defending Against Advanced Threats”](https://medium.com/@Land2Cyber/next-gen-firewall-technologies-defending-against-advanced-threats-975fe077dcf4?source=rss------bug_bounty-5) 
+ - 💯December 19, 2023 - [Join Any Facebook Group As Deactivated Additional Profile](https://zerocode-ph.medium.com/join-any-facebook-group-as-deactivated-additional-profile-f63a31db7797?source=rss------bug_bounty-5) 
 
- - 💯December 19, 2023 - [“Threat Intelligence Demystified The Eyes and Ears of Network Security”](https://medium.com/@Land2Cyber/threat-intelligence-demystified-the-eyes-and-ears-of-network-security-da6892d83fef?source=rss------bug_bounty-5) 
+ - 💯December 19, 2023 - [How One Bug Scored Me Double Rewards!](https://anasbetis023.medium.com/how-one-bug-scored-me-double-rewards-355b8d02cdbf?source=rss------bug_bounty-5) 
 
- - 💯December 19, 2023 - [“Network Segmentation Building Digital Fortresses for Cybersecurity”](https://medium.com/@Land2Cyber/network-segmentation-building-digital-fortresses-for-cybersecurity-314d75c436a5?source=rss------bug_bounty-5) 
+ - 💯December 19, 2023 - [Is It Worth Quitting 9–5 Job For a Full-Time Bug Bounty?](https://ajaksecurity.medium.com/is-it-worth-quitting-9-5-job-for-a-full-time-bug-bounty-8274f6808aab?source=rss------bug_bounty-5) 
 
- - 💯December 19, 2023 - [3 Steps Discovered XXE You should Know](https://medium.com/@kerstan/3-steps-discovered-xxe-you-should-know-d779ab5eb056?source=rss------bug_bounty-5) 
+ - 💯December 19, 2023 - [Directory Listing Vulnerability](https://medium.com/@digant_15/directory-listing-vulnerability-b2e1583d8a7e?source=rss------bug_bounty-5) 
 
- - 💯December 19, 2023 - [Learn Command Injection Vulnerabilities](https://bicodev.medium.com/learn-command-injection-vulnerabilities-2a8ed26eb47a?source=rss------bug_bounty-5) 
+ - 💯December 19, 2023 - [DOM XSS in innerHTML sink using source location.search](https://medium.com/@marduk.i.am/dom-xss-in-innerhtml-sink-using-source-location-search-a3ac4546ca5c?source=rss------bug_bounty-5) 
 
- - 💯December 19, 2023 - [Hack the Web like a Pirate: Identifying Vulnerabilities with Style](https://bicodev.medium.com/hack-the-web-like-a-pirate-identifying-vulnerabilities-with-style-171246a302a5?source=rss------bug_bounty-5) 
+ - 💯December 19, 2023 - [Zero Trust Architecture](https://medium.com/@khan.ghufran.0000/zero-trust-architecture-f47e9da3eaec?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
