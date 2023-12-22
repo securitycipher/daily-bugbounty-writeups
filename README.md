@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 21, 2023 - [88MPH Vulnerability Exploit and Get Free Crypt0S $$$](https://medium.com/@vinaysati/88mph-vulnerability-exploit-and-get-free-crypt0s-a4d4a8328dc7?source=rss------bug_bounty-5) 
+ - 💯December 22, 2023 - [DoS’ing Zsecurity](https://medium.com/@24bkdoor/dosing-zsecurity-a4cb99396935?source=rss------bug_bounty-5) 
 
- - 💯December 21, 2023 - [TryHackMe AoC 2023 Side Quest final thoughts](https://medium.com/@boogsta/tryhackme-aoc-2023-side-quest-final-thoughts-afcb5880be33?source=rss------bug_bounty-5) 
+ - 💯December 22, 2023 - [Securing the Future: Enhancing the Safety of Compound Protocol](https://medium.com/@topcrypto00/securing-the-future-enhancing-the-safety-of-compound-protocol-940498c78d68?source=rss------bug_bounty-5) 
 
- - 💯December 21, 2023 - [5 Tips Web Fuzz You Should Know](https://medium.com/@kerstan/5-tips-web-fuzz-you-should-know-00ef6c59407d?source=rss------bug_bounty-5) 
+ - 💯December 21, 2023 - [Bug Bounty: Tips for Finding Your First Bug as a Beginner](https://graph33.medium.com/bug-bounty-tips-for-finding-your-first-bug-as-a-beginner-120f71c709cd?source=rss------bug_bounty-5) 
 
- - 💯December 20, 2023 - [Web Security Diary](https://medium.com/@muratkabakk1/web-security-diary-4b2148326abe?source=rss------bug_bounty-5) 
+ - 💯December 21, 2023 - [Code4rena Blue vs. Traditional Bug Bounties](https://medium.com/code4rena/code4rena-blue-vs-traditional-bug-bounties-478f469057c9?source=rss------bug_bounty-5) 
 
- - 💯December 20, 2023 - [Introducing Code4rena Blue: More than just bug bounties](https://medium.com/code4rena/introducing-code4rena-blue-more-than-just-bug-bounties-f2a9949c6b9c?source=rss------bug_bounty-5) 
+ - 💯December 21, 2023 - [A Very Basic Beginner Bug Bounty Methodology](https://thexssrat.medium.com/a-very-basic-beginner-bug-bounty-methodology-15eca16ca787?source=rss------bug_bounty-5) 
 
- - 💯December 20, 2023 - [“CVE-2023–43837: Two-Factor Authentication &lpar;x2FA&rpar; Bypass Vulnerability in Roundcube Webmail Plugin”](https://medium.com/@ChandSingh/cve-2023-43837-two-factor-authentication-x2fa-bypass-vulnerability-in-roundcube-webmail-plugin-f2fef177187e?source=rss------bug_bounty-5) 
+ - 💯December 21, 2023 - [A list of 50 tools every hacker should know](https://thexssrat.medium.com/a-list-of-50-tools-every-hacker-should-know-df8d87cf4b58?source=rss------bug_bounty-5) 
 
- - 💯December 20, 2023 - [Top Burp Suite Extensions Used by Penetration Testers](https://medium.com/@bharatvarshney567/top-burp-suite-extensions-used-by-penetration-testers-fa90fe26816c?source=rss------bug_bounty-5) 
+ - 💯December 21, 2023 - [Open Redirect Validation Bypass Leads To Account Take Over &lpar;ATO&rpar;](https://medium.com/@ozomarzu/open-redirect-validation-bypass-leads-to-account-take-over-ato-5166b3416e3f?source=rss------bug_bounty-5) 
 
- - 💯December 20, 2023 - [How to earn with earn bug boutny part-2?](https://medium.com/@ashutoshgiri133/how-to-earn-with-earn-bug-boutny-part-2-1dcfe1922a33?source=rss------bug_bounty-5) 
+ - 💯December 21, 2023 - [Aspiring Bug Bounty Hunters’ New Year Goals Toolkit](https://sl4x0.medium.com/aspiring-bug-bounty-hunters-new-year-goals-toolkit-a156c96e9de7?source=rss------bug_bounty-5) 
 
- - 💯December 20, 2023 - [DOM XSS in jQuery anchor href attribute sink using location.search source](https://medium.com/@marduk.i.am/dom-xss-in-jquery-anchor-href-attribute-sink-using-location-search-source-b1000b4b16b3?source=rss------bug_bounty-5) 
+ - 💯December 21, 2023 - [How Can Artificial Intelligence Revolutionize Bug Bounty?](https://medium.com/@zouhairelgarouni/how-can-artificial-intelligence-revolutionize-bug-bounty-664e7f5ed3dd?source=rss------bug_bounty-5) 
+
+ - 💯December 21, 2023 - [I made online store to pay for my orders and get me free refunds.](https://medium.com/@shubhamsonani/i-made-online-store-to-pay-for-my-orders-and-get-me-free-refunds-6f4db5893c13?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
