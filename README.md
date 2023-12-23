@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 22, 2023 - [DoS’ing Zsecurity](https://medium.com/@24bkdoor/dosing-zsecurity-a4cb99396935?source=rss------bug_bounty-5) 
+ - 💯December 23, 2023 - [Ceklis Web Pentesting Untuk Pemula — Registration Feature Testing](https://riodrwn.medium.com/ceklis-web-pentesting-untuk-pemula-registration-feature-testing-aceb545b587c?source=rss------bug_bounty-5) 
 
- - 💯December 22, 2023 - [Securing the Future: Enhancing the Safety of Compound Protocol](https://medium.com/@topcrypto00/securing-the-future-enhancing-the-safety-of-compound-protocol-940498c78d68?source=rss------bug_bounty-5) 
+ - 💯December 23, 2023 - [The Crucial Role of Threat Intelligence Sharing in Cybersecurity](https://medium.com/@paritoshblogs/the-crucial-role-of-threat-intelligence-sharing-in-cybersecurity-cd4be0b53a86?source=rss------bug_bounty-5) 
 
- - 💯December 21, 2023 - [Bug Bounty: Tips for Finding Your First Bug as a Beginner](https://graph33.medium.com/bug-bounty-tips-for-finding-your-first-bug-as-a-beginner-120f71c709cd?source=rss------bug_bounty-5) 
+ - 💯December 23, 2023 - [The Evolving Role of a SOC Analyst](https://medium.com/@paritoshblogs/the-evolving-role-of-a-soc-analyst-c82e3e515558?source=rss------bug_bounty-5) 
 
- - 💯December 21, 2023 - [Code4rena Blue vs. Traditional Bug Bounties](https://medium.com/code4rena/code4rena-blue-vs-traditional-bug-bounties-478f469057c9?source=rss------bug_bounty-5) 
+ - 💯December 23, 2023 - [Out-of-Scope, Not Out-of-Impact: Unveiling Significant Sensitive Information Disclosure](https://padsalatushal.medium.com/out-of-scope-not-out-of-impact-unveiling-significant-sensitive-information-disclosure-c8e76c1806e8?source=rss------bug_bounty-5) 
 
- - 💯December 21, 2023 - [A Very Basic Beginner Bug Bounty Methodology](https://thexssrat.medium.com/a-very-basic-beginner-bug-bounty-methodology-15eca16ca787?source=rss------bug_bounty-5) 
+ - 💯December 22, 2023 - [Ideas for Testing Checkout](https://lopseg.medium.com/ideas-for-testing-checkout-eebe6148729d?source=rss------bug_bounty-5) 
 
- - 💯December 21, 2023 - [A list of 50 tools every hacker should know](https://thexssrat.medium.com/a-list-of-50-tools-every-hacker-should-know-df8d87cf4b58?source=rss------bug_bounty-5) 
+ - 💯December 22, 2023 - [Beyond Simple Alerts: Techniques for Evading WAF and Achieving XSS Success](https://lopseg.medium.com/beyond-simple-alerts-techniques-for-evading-waf-and-achieving-xss-success-4409a5bd2ee0?source=rss------bug_bounty-5) 
 
- - 💯December 21, 2023 - [Open Redirect Validation Bypass Leads To Account Take Over &lpar;ATO&rpar;](https://medium.com/@ozomarzu/open-redirect-validation-bypass-leads-to-account-take-over-ato-5166b3416e3f?source=rss------bug_bounty-5) 
+ - 💯December 22, 2023 - [PJWT Certification](https://medium.com/@OmarAlkhowaiter/pjwt-certification-f4f7995d35f6?source=rss------bug_bounty-5) 
 
- - 💯December 21, 2023 - [Aspiring Bug Bounty Hunters’ New Year Goals Toolkit](https://sl4x0.medium.com/aspiring-bug-bounty-hunters-new-year-goals-toolkit-a156c96e9de7?source=rss------bug_bounty-5) 
+ - 💯December 22, 2023 - [Consentify hits Beta Test phase boosted by a Bug Bounty program!](https://datalaketoken.medium.com/consentify-hits-beta-test-phase-boosted-by-a-bug-bounty-program-6b621eadd02b?source=rss------bug_bounty-5) 
 
- - 💯December 21, 2023 - [How Can Artificial Intelligence Revolutionize Bug Bounty?](https://medium.com/@zouhairelgarouni/how-can-artificial-intelligence-revolutionize-bug-bounty-664e7f5ed3dd?source=rss------bug_bounty-5) 
+ - 💯December 22, 2023 - [How I was able to buy 2500 Rs product for 18rs in E-Commerce Website?](https://medium.com/@shubhamsonani/how-i-was-able-to-buy-2500-rs-product-for-18rs-in-e-commerce-website-ada4e91b5b91?source=rss------bug_bounty-5) 
 
- - 💯December 21, 2023 - [I made online store to pay for my orders and get me free refunds.](https://medium.com/@shubhamsonani/i-made-online-store-to-pay-for-my-orders-and-get-me-free-refunds-6f4db5893c13?source=rss------bug_bounty-5) 
+ - 💯December 22, 2023 - [He stored your password in Cookie](https://medium.com/@fixthis1000time/he-stored-your-password-in-cookie-5a6d0478e570?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
