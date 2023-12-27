@@ -2,6 +2,12 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
+ - 💯December 26, 2023 - [Navigating Tree-Sitter Queries with jsluice for JavaScript File Analysis](https://lopseg.medium.com/navigating-tree-sitter-queries-with-jsluice-for-javascript-file-analysis-061b7cb4ea9d?source=rss------bug_bounty-5) 
+
+ - 💯December 26, 2023 - [1.12 Lab: Blind SQL injection with out-of-band interaction | 2023](https://infosecwriteups.com/1-12-lab-blind-sql-injection-with-out-of-band-interaction-2023-db12e3b10118?source=rss------bug_bounty-5) 
+
+ - 💯December 26, 2023 - [Portswigger Labs — CSRF](https://medium.com/@ry4nnnn/portswigger-labs-csrf-10b496d6580c?source=rss------bug_bounty-5) 
+
  - 💯December 26, 2023 - [Deep Dive Into XSS](https://medium.com/@kavish2002ev3/deep-dive-into-xss-8420ddccc73b?source=rss------bug_bounty-5) 
 
  - 💯December 26, 2023 - [The Tale Of Insecure Deserialization: A Journey From Serialization To Exploitation](https://medium.com/@kavish2002ev3/the-tale-of-insecure-deserialization-a-journey-from-serialization-to-exploitation-47400a4c9093?source=rss------bug_bounty-5) 
@@ -13,10 +19,4 @@ This repository contains Bug Bounty writeups
  - 💯December 25, 2023 - [Hackers Target Bug Bounty Hunters with Blackmail Emails](https://rishikadesai.medium.com/hackers-target-bug-bounty-hunters-with-blackmail-emails-421cf57fe4a7?source=rss------bug_bounty-5) 
 
  - 💯December 25, 2023 - [Top 3 Password Cracking Tools](https://medium.com/@UsmanAtif/top-3-password-cracking-tools-18801fbdcdae?source=rss------bug_bounty-5) 
-
- - 💯December 25, 2023 - [Content Spoofing &amp; Parameter Injection](https://codingninjablogs.tech/content-spoofing-parameter-injection-0861bfd146d4?source=rss------bug_bounty-5) 
-
- - 💯December 25, 2023 - [Account takeover vulnerability that resulted in $2500 bounty!](https://medium.com/@deadoverflow/account-takeover-vulnerability-that-resulted-in-2500-bounty-e1618363878d?source=rss------bug_bounty-5) 
-
- - 💯December 24, 2023 - [Hackeando GraphQL: Introducción](https://medium.com/@soyelmago/hackeando-graphql-introducci%C3%B3n-1537af763d0c?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
