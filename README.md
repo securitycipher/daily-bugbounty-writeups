@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 26, 2023 - [Navigating Tree-Sitter Queries with jsluice for JavaScript File Analysis](https://lopseg.medium.com/navigating-tree-sitter-queries-with-jsluice-for-javascript-file-analysis-061b7cb4ea9d?source=rss------bug_bounty-5) 
+ - 💯December 28, 2023 - [“Network Forensics Unraveling Cyber Incidents for Resolution”](https://medium.com/@Land2Cyber/network-forensics-unraveling-cyber-incidents-for-resolution-dd7b4fa8fe38?source=rss------bug_bounty-5) 
 
- - 💯December 26, 2023 - [1.12 Lab: Blind SQL injection with out-of-band interaction | 2023](https://infosecwriteups.com/1-12-lab-blind-sql-injection-with-out-of-band-interaction-2023-db12e3b10118?source=rss------bug_bounty-5) 
+ - 💯December 28, 2023 - [“Securing Remote Work Network Challenges in the New Normal”](https://medium.com/@Land2Cyber/securing-remote-work-network-challenges-in-the-new-normal-d6dc16a66fa1?source=rss------bug_bounty-5) 
 
- - 💯December 26, 2023 - [Portswigger Labs — CSRF](https://medium.com/@ry4nnnn/portswigger-labs-csrf-10b496d6580c?source=rss------bug_bounty-5) 
+ - 💯December 28, 2023 - [“Biometric Authentication Elevating Network Access Controls”](https://medium.com/@Land2Cyber/biometric-authentication-elevating-network-access-controls-67162432ff0b?source=rss------bug_bounty-5) 
 
- - 💯December 26, 2023 - [Deep Dive Into XSS](https://medium.com/@kavish2002ev3/deep-dive-into-xss-8420ddccc73b?source=rss------bug_bounty-5) 
+ - 💯December 28, 2023 - [Bug Bounty: The road to my first $1000 through hacking public websites](https://swehtpantz.medium.com/bug-bounty-the-road-to-my-first-1000-through-hacking-public-websites-a0e2aa1b7271?source=rss------bug_bounty-5) 
 
- - 💯December 26, 2023 - [The Tale Of Insecure Deserialization: A Journey From Serialization To Exploitation](https://medium.com/@kavish2002ev3/the-tale-of-insecure-deserialization-a-journey-from-serialization-to-exploitation-47400a4c9093?source=rss------bug_bounty-5) 
+ - 💯December 28, 2023 - [HackTheBox&lpar;HTB&rpar; Writeup — Node](https://medium.com/@harman.preet.singh3738/hackthebox-htb-writeup-node-5600a442e393?source=rss------bug_bounty-5) 
 
- - 💯December 26, 2023 - [Mastering Bug Bounty: Your Ultimate Guide to Cybersecurity Success](https://medium.com/@umidcyber.s/mastering-bug-bounty-your-ultimate-guide-to-cybersecurity-success-82dc9b30fc02?source=rss------bug_bounty-5) 
+ - 💯December 27, 2023 - [Inside the Digital Vault: How I Unearthed PII Goldmine — Exposing 15K GST Users’ Information in a…](https://medium.com/@MohaseenK/inside-the-digital-vault-how-i-unearthed-pii-goldmine-exposing-15k-gst-users-information-in-a-38c3105889ea?source=rss------bug_bounty-5) 
 
- - 💯December 25, 2023 - [What is LFI &lpar;Local File Inclusion&rpar; Vulnerability ?](https://medium.com/@errorfiathck/what-is-lfi-local-file-inclusion-vulnerability-c9372e25e389?source=rss------bug_bounty-5) 
+ - 💯December 27, 2023 - [How Does DNS Work and What is DNS Poisoning?](https://medium.com/@bcanote/how-does-dns-work-and-what-is-dns-poisoning-4c187fb3f2b0?source=rss------bug_bounty-5) 
 
- - 💯December 25, 2023 - [Hackers Target Bug Bounty Hunters with Blackmail Emails](https://rishikadesai.medium.com/hackers-target-bug-bounty-hunters-with-blackmail-emails-421cf57fe4a7?source=rss------bug_bounty-5) 
+ - 💯December 27, 2023 - [1.13 Lab: Blind SQL injection with out-of-band data exfiltration | 2023](https://cyberw1ng.medium.com/1-13-lab-blind-sql-injection-with-out-of-band-data-exfiltration-2023-f83a1448b685?source=rss------bug_bounty-5) 
 
- - 💯December 25, 2023 - [Top 3 Password Cracking Tools](https://medium.com/@UsmanAtif/top-3-password-cracking-tools-18801fbdcdae?source=rss------bug_bounty-5) 
+ - 💯December 27, 2023 - [“Crucial Bug Bounty Hacks: Habits with Enduring Benefits”](https://medium.com/@paxnull/secrets-of-the-hunter-pro-tips-for-effective-bug-bounty-hunting-1a261df4444d?source=rss------bug_bounty-5) 
+
+ - 💯December 27, 2023 - [URL Redirection To DOM XSS on Hackerone Programs -Bug Bounty Tuesday](https://medium.com/@kerstan/dom-xss-on-hackerone-programs-bug-bounty-tuesday-8973ecf6af95?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
