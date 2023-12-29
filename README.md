@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 28, 2023 - [“Network Forensics Unraveling Cyber Incidents for Resolution”](https://medium.com/@Land2Cyber/network-forensics-unraveling-cyber-incidents-for-resolution-dd7b4fa8fe38?source=rss------bug_bounty-5) 
+ - 💯December 29, 2023 - [“Security Orchestration and Automation Streamlining Cyber Operations”](https://medium.com/@Land2Cyber/security-orchestration-and-automation-streamlining-cyber-operations-f0c4563986aa?source=rss------bug_bounty-5) 
 
- - 💯December 28, 2023 - [“Securing Remote Work Network Challenges in the New Normal”](https://medium.com/@Land2Cyber/securing-remote-work-network-challenges-in-the-new-normal-d6dc16a66fa1?source=rss------bug_bounty-5) 
+ - 💯December 29, 2023 - [“Proactive vs. Reactive Cybersecurity The Role of Operations”](https://medium.com/@Land2Cyber/proactive-vs-reactive-cybersecurity-the-role-of-operations-230e8746fd03?source=rss------bug_bounty-5) 
 
- - 💯December 28, 2023 - [“Biometric Authentication Elevating Network Access Controls”](https://medium.com/@Land2Cyber/biometric-authentication-elevating-network-access-controls-67162432ff0b?source=rss------bug_bounty-5) 
+ - 💯December 29, 2023 - [“SIEM Solutions Demystified Enhancing Security Operations”](https://medium.com/@Land2Cyber/siem-solutions-demystified-enhancing-security-operations-20d1ec657e94?source=rss------bug_bounty-5) 
 
- - 💯December 28, 2023 - [Bug Bounty: The road to my first $1000 through hacking public websites](https://swehtpantz.medium.com/bug-bounty-the-road-to-my-first-1000-through-hacking-public-websites-a0e2aa1b7271?source=rss------bug_bounty-5) 
+ - 💯December 29, 2023 - [“Securing the Cloud Cybersecurity Operations in a Digital Sky”](https://medium.com/@Land2Cyber/securing-the-cloud-cybersecurity-operations-in-a-digital-sky-e6b4738109b5?source=rss------bug_bounty-5) 
 
- - 💯December 28, 2023 - [HackTheBox&lpar;HTB&rpar; Writeup — Node](https://medium.com/@harman.preet.singh3738/hackthebox-htb-writeup-node-5600a442e393?source=rss------bug_bounty-5) 
+ - 💯December 29, 2023 - [“Threat Hunting in Cyberspace Uncovering Hidden Dangers”](https://medium.com/@Land2Cyber/threat-hunting-in-cyberspace-uncovering-hidden-dangers-2f484bfe6711?source=rss------bug_bounty-5) 
 
- - 💯December 27, 2023 - [Inside the Digital Vault: How I Unearthed PII Goldmine — Exposing 15K GST Users’ Information in a…](https://medium.com/@MohaseenK/inside-the-digital-vault-how-i-unearthed-pii-goldmine-exposing-15k-gst-users-information-in-a-38c3105889ea?source=rss------bug_bounty-5) 
+ - 💯December 29, 2023 - [“Incident Response Strategies Timely Action for Cyber Resilience”](https://medium.com/@Land2Cyber/incident-response-strategies-timely-action-for-cyber-resilience-043631962641?source=rss------bug_bounty-5) 
 
- - 💯December 27, 2023 - [How Does DNS Work and What is DNS Poisoning?](https://medium.com/@bcanote/how-does-dns-work-and-what-is-dns-poisoning-4c187fb3f2b0?source=rss------bug_bounty-5) 
+ - 💯December 29, 2023 - [“The Art of Cybersecurity Operations Navigating the Digital Battlefield”](https://medium.com/@Land2Cyber/the-art-of-cybersecurity-operations-navigating-the-digital-battlefield-62ffd3c8c9bd?source=rss------bug_bounty-5) 
 
- - 💯December 27, 2023 - [1.13 Lab: Blind SQL injection with out-of-band data exfiltration | 2023](https://cyberw1ng.medium.com/1-13-lab-blind-sql-injection-with-out-of-band-data-exfiltration-2023-f83a1448b685?source=rss------bug_bounty-5) 
+ - 💯December 28, 2023 - [CVE-2023–51356: ARMember &lt;= 4.0.10 — Authenticated Privilege Escalation](https://revan-ar.medium.com/cve-2023-51356-armember-4-0-10-authenticated-privilege-escalation-7e0c7fbe5a79?source=rss------bug_bounty-5) 
 
- - 💯December 27, 2023 - [“Crucial Bug Bounty Hacks: Habits with Enduring Benefits”](https://medium.com/@paxnull/secrets-of-the-hunter-pro-tips-for-effective-bug-bounty-hunting-1a261df4444d?source=rss------bug_bounty-5) 
+ - 💯December 28, 2023 - [1.14 Lab: SQL injection with filter bypass via XML encoding | 2023](https://cyberw1ng.medium.com/1-14-lab-sql-injection-with-filter-bypass-via-xml-encoding-2023-9794dc7bf9f4?source=rss------bug_bounty-5) 
 
- - 💯December 27, 2023 - [URL Redirection To DOM XSS on Hackerone Programs -Bug Bounty Tuesday](https://medium.com/@kerstan/dom-xss-on-hackerone-programs-bug-bounty-tuesday-8973ecf6af95?source=rss------bug_bounty-5) 
+ - 💯December 28, 2023 - [How I made  7K on Epic Games Bug Bounty](https://infosecwriteups.com/how-i-made-7k-on-epic-games-bug-bounty-8529728b9fcf?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
