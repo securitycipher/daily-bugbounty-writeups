@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 29, 2023 - [“Security Orchestration and Automation Streamlining Cyber Operations”](https://medium.com/@Land2Cyber/security-orchestration-and-automation-streamlining-cyber-operations-f0c4563986aa?source=rss------bug_bounty-5) 
+ - 💯December 30, 2023 - [“Zero Trust Security Redefining Trust in Cyber Operations”](https://medium.com/@Land2Cyber/zero-trust-security-redefining-trust-in-cyber-operations-9d07fd98e7a6?source=rss------bug_bounty-5) 
 
- - 💯December 29, 2023 - [“Proactive vs. Reactive Cybersecurity The Role of Operations”](https://medium.com/@Land2Cyber/proactive-vs-reactive-cybersecurity-the-role-of-operations-230e8746fd03?source=rss------bug_bounty-5) 
+ - 💯December 30, 2023 - [“Continuous Monitoring Staying Vigilant in the Cyber Battleground”](https://medium.com/@Land2Cyber/continuous-monitoring-staying-vigilant-in-the-cyber-battleground-6fec1ae328b6?source=rss------bug_bounty-5) 
 
- - 💯December 29, 2023 - [“SIEM Solutions Demystified Enhancing Security Operations”](https://medium.com/@Land2Cyber/siem-solutions-demystified-enhancing-security-operations-20d1ec657e94?source=rss------bug_bounty-5) 
+ - 💯December 30, 2023 - [“Mobile Security Operations Protecting Devices in a Connected World”](https://medium.com/@Land2Cyber/mobile-security-operations-protecting-devices-in-a-connected-world-ed608606a22a?source=rss------bug_bounty-5) 
 
- - 💯December 29, 2023 - [“Securing the Cloud Cybersecurity Operations in a Digital Sky”](https://medium.com/@Land2Cyber/securing-the-cloud-cybersecurity-operations-in-a-digital-sky-e6b4738109b5?source=rss------bug_bounty-5) 
+ - 💯December 30, 2023 - [“Insider Threat Detection Safeguarding Operations from Within”](https://medium.com/@Land2Cyber/insider-threat-detection-safeguarding-operations-from-within-44a8d52950bb?source=rss------bug_bounty-5) 
 
- - 💯December 29, 2023 - [“Threat Hunting in Cyberspace Uncovering Hidden Dangers”](https://medium.com/@Land2Cyber/threat-hunting-in-cyberspace-uncovering-hidden-dangers-2f484bfe6711?source=rss------bug_bounty-5) 
+ - 💯December 30, 2023 - [“Building a Cybersecurity Operations Center &lpar;SOC&rpar; The Core of Defense”](https://medium.com/@Land2Cyber/building-a-cybersecurity-operations-center-soc-the-core-of-defense-9bcc485df016?source=rss------bug_bounty-5) 
 
- - 💯December 29, 2023 - [“Incident Response Strategies Timely Action for Cyber Resilience”](https://medium.com/@Land2Cyber/incident-response-strategies-timely-action-for-cyber-resilience-043631962641?source=rss------bug_bounty-5) 
+ - 💯December 30, 2023 - [“Crisis Management in Cybersecurity A Playbook for Operations”](https://medium.com/@Land2Cyber/crisis-management-in-cybersecurity-a-playbook-for-operations-25b02d59a645?source=rss------bug_bounty-5) 
 
- - 💯December 29, 2023 - [“The Art of Cybersecurity Operations Navigating the Digital Battlefield”](https://medium.com/@Land2Cyber/the-art-of-cybersecurity-operations-navigating-the-digital-battlefield-62ffd3c8c9bd?source=rss------bug_bounty-5) 
+ - 💯December 30, 2023 - [“Digital Forensics in Cybersecurity Operations Tracing the Footprints”](https://medium.com/@Land2Cyber/digital-forensics-in-cybersecurity-operations-tracing-the-footprints-a4f0130cb07e?source=rss------bug_bounty-5) 
 
- - 💯December 28, 2023 - [CVE-2023–51356: ARMember &lt;= 4.0.10 — Authenticated Privilege Escalation](https://revan-ar.medium.com/cve-2023-51356-armember-4-0-10-authenticated-privilege-escalation-7e0c7fbe5a79?source=rss------bug_bounty-5) 
+ - 💯December 30, 2023 - [Master Subdomain HUNTING | Art of finding Hidden Assets](https://yashh2.medium.com/master-subdomain-hunting-art-of-finding-hidden-assets-3351b3c8467a?source=rss------bug_bounty-5) 
 
- - 💯December 28, 2023 - [1.14 Lab: SQL injection with filter bypass via XML encoding | 2023](https://cyberw1ng.medium.com/1-14-lab-sql-injection-with-filter-bypass-via-xml-encoding-2023-9794dc7bf9f4?source=rss------bug_bounty-5) 
+ - 💯December 29, 2023 - [KisMAC is a free, open source wireless stumbling and security tool for Mac OS X](https://medium.com/@dineshpathro593/kismac-is-a-free-open-source-wireless-stumbling-and-security-tool-for-mac-os-x-03746fdea831?source=rss------bug_bounty-5) 
 
- - 💯December 28, 2023 - [How I made  7K on Epic Games Bug Bounty](https://infosecwriteups.com/how-i-made-7k-on-epic-games-bug-bounty-8529728b9fcf?source=rss------bug_bounty-5) 
+ - 💯December 29, 2023 - [OTP-Bot Tool CLICK HERE](https://medium.com/@dineshpathro593/otp-bot-tool-click-here-7f3ee559ca21?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
