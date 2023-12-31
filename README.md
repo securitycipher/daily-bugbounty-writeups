@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 30, 2023 - [“Zero Trust Security Redefining Trust in Cyber Operations”](https://medium.com/@Land2Cyber/zero-trust-security-redefining-trust-in-cyber-operations-9d07fd98e7a6?source=rss------bug_bounty-5) 
+ - 💯December 31, 2023 - [“Building Cyber Resilience Strategies for Sustainable Operations”](https://medium.com/@Land2Cyber/building-cyber-resilience-strategies-for-sustainable-operations-1e8e55589c5e?source=rss------bug_bounty-5) 
 
- - 💯December 30, 2023 - [“Continuous Monitoring Staying Vigilant in the Cyber Battleground”](https://medium.com/@Land2Cyber/continuous-monitoring-staying-vigilant-in-the-cyber-battleground-6fec1ae328b6?source=rss------bug_bounty-5) 
+ - 💯December 31, 2023 - [“Quantum Computing and Cybersecurity Operations Future Challenges”](https://medium.com/@Land2Cyber/quantum-computing-and-cybersecurity-operations-future-challenges-1df179091b5a?source=rss------bug_bounty-5) 
 
- - 💯December 30, 2023 - [“Mobile Security Operations Protecting Devices in a Connected World”](https://medium.com/@Land2Cyber/mobile-security-operations-protecting-devices-in-a-connected-world-ed608606a22a?source=rss------bug_bounty-5) 
+ - 💯December 31, 2023 - [“The Role of Threat Intelligence in Effective Cybersecurity Operations”](https://medium.com/@Land2Cyber/the-role-of-threat-intelligence-in-effective-cybersecurity-operations-0779f41ba276?source=rss------bug_bounty-5) 
 
- - 💯December 30, 2023 - [“Insider Threat Detection Safeguarding Operations from Within”](https://medium.com/@Land2Cyber/insider-threat-detection-safeguarding-operations-from-within-44a8d52950bb?source=rss------bug_bounty-5) 
+ - 💯December 31, 2023 - [“Cyber Hygiene Best Practices for Maintaining Operational Health”](https://medium.com/@Land2Cyber/cyber-hygiene-best-practices-for-maintaining-operational-health-6f4df4ed0fe0?source=rss------bug_bounty-5) 
 
- - 💯December 30, 2023 - [“Building a Cybersecurity Operations Center &lpar;SOC&rpar; The Core of Defense”](https://medium.com/@Land2Cyber/building-a-cybersecurity-operations-center-soc-the-core-of-defense-9bcc485df016?source=rss------bug_bounty-5) 
+ - 💯December 31, 2023 - [“AI in Cybersecurity Operations The Rise of Intelligent Defenses”](https://medium.com/@Land2Cyber/ai-in-cybersecurity-operations-the-rise-of-intelligent-defenses-7dd4eefd1163?source=rss------bug_bounty-5) 
 
- - 💯December 30, 2023 - [“Crisis Management in Cybersecurity A Playbook for Operations”](https://medium.com/@Land2Cyber/crisis-management-in-cybersecurity-a-playbook-for-operations-25b02d59a645?source=rss------bug_bounty-5) 
+ - 💯December 31, 2023 - [“Navigating the Dark Web Cybersecurity Operations in the Shadows”](https://medium.com/@Land2Cyber/navigating-the-dark-web-cybersecurity-operations-in-the-shadows-1e6e3e98b3b3?source=rss------bug_bounty-5) 
 
- - 💯December 30, 2023 - [“Digital Forensics in Cybersecurity Operations Tracing the Footprints”](https://medium.com/@Land2Cyber/digital-forensics-in-cybersecurity-operations-tracing-the-footprints-a4f0130cb07e?source=rss------bug_bounty-5) 
+ - 💯December 31, 2023 - [Bug Zero at a Glance [01–15 December]](https://blog.bugzero.io/bug-zero-at-a-glance-01-15-december-cdb358653f8e?source=rss------bug_bounty-5) 
 
- - 💯December 30, 2023 - [Master Subdomain HUNTING | Art of finding Hidden Assets](https://yashh2.medium.com/master-subdomain-hunting-art-of-finding-hidden-assets-3351b3c8467a?source=rss------bug_bounty-5) 
+ - 💯December 30, 2023 - [From Google Dorking to Unauthorized AWS Account Access and Account Takeover](https://medium.com/@ar_hawk/from-google-dorking-to-unauthorized-aws-account-access-and-account-takeover-89eb2b9d284f?source=rss------bug_bounty-5) 
 
- - 💯December 29, 2023 - [KisMAC is a free, open source wireless stumbling and security tool for Mac OS X](https://medium.com/@dineshpathro593/kismac-is-a-free-open-source-wireless-stumbling-and-security-tool-for-mac-os-x-03746fdea831?source=rss------bug_bounty-5) 
+ - 💯December 30, 2023 - [HTTPX Troubleshooting Issue](https://infosecwriteups.com/httpx-troubleshooting-issue-38b61549126b?source=rss------bug_bounty-5) 
 
- - 💯December 29, 2023 - [OTP-Bot Tool CLICK HERE](https://medium.com/@dineshpathro593/otp-bot-tool-click-here-7f3ee559ca21?source=rss------bug_bounty-5) 
+ - 💯December 30, 2023 - [XSS deep dive P1 &lpar;theory&rpar;&lpar;publish early,please waiting for 2 days to read&rpar;](https://medium.com/@nguhuynh.148/xss-deep-dive-p1-theory-637af86f335d?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
