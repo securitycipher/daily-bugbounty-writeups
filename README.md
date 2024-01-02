@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 1, 2024 - [How Do I Get Root Access on a Linux Server](https://systemweakness.com/how-do-i-get-root-access-on-a-linux-server-874d29015305?source=rss------bug_bounty-5) 
+ - 💯January 2, 2024 - [“Ransomware Roulette Strategies for Prevention and Recovery”](https://medium.com/@Land2Cyber/ransomware-roulette-strategies-for-prevention-and-recovery-bcb91b43852b?source=rss------bug_bounty-5) 
 
- - 💯January 1, 2024 - [SQL Injection &lpar;SQLi&rpar;: WWWWWH?](https://medium.com/@rcxsecurity/sql-injection-sqli-wwwwwh-d847972b3e45?source=rss------bug_bounty-5) 
+ - 💯January 2, 2024 - [“Biometrics Beyond Borders The Future of Identity Verification”](https://medium.com/@Land2Cyber/biometrics-beyond-borders-the-future-of-identity-verification-7a66ad8a8f09?source=rss------bug_bounty-5) 
 
- - 💯December 31, 2023 - [How I hacked India’s top company database.](https://medium.com/@sritharcyber/how-i-hacked-indias-top-company-database-d66b9fc49cb0?source=rss------bug_bounty-5) 
+ - 💯January 2, 2024 - [“Crypto Wars 2.0 Navigating the Landscape of Blockchain Security”](https://medium.com/@Land2Cyber/crypto-wars-2-0-navigating-the-landscape-of-blockchain-security-c147bcc2ddda?source=rss------bug_bounty-5) 
 
- - 💯December 31, 2023 - [Simple Subdomain Takeover](https://infosecwriteups.com/simple-subdomain-takeover-15129e19bbb4?source=rss------bug_bounty-5) 
+ - 💯January 2, 2024 - [“Hackers Unleashed Understanding the Dark Web Ecosystem”](https://medium.com/@Land2Cyber/hackers-unleashed-understanding-the-dark-web-ecosystem-cceda4e78cd5?source=rss------bug_bounty-5) 
 
- - 💯December 31, 2023 - [1.17 Lab: SQL injection attack, listing the database contents on non-Oracle databases | 2023](https://systemweakness.com/1-17-lab-sql-injection-attack-listing-the-database-contents-on-non-oracle-databases-2023-2026162bf6ef?source=rss------bug_bounty-5) 
+ - 💯January 2, 2024 - [“The Cybersecurity Crystal Ball Predicting Trends and Threats”](https://medium.com/@Land2Cyber/the-cybersecurity-crystal-ball-predicting-trends-and-threats-78ac7c4eac8e?source=rss------bug_bounty-5) 
 
- - 💯December 31, 2023 - [DNS-Related Attacks and Examples](https://medium.com/@paritoshblogs/dns-related-attacks-and-examples-fee4da0cc2d6?source=rss------bug_bounty-5) 
+ - 💯January 2, 2024 - [you need to learn linux RIGHT NOW!!](https://medium.com/@paritoshblogs/you-need-to-learn-linux-right-now-7239f4dcc1c6?source=rss------bug_bounty-5) 
 
- - 💯December 31, 2023 - [I hate Hackerone / X Website Vulnerability — Bug Bounty Hunter](https://medium.com/@batuhanaydinn/i-hate-hackerone-x-website-vulnerability-bug-bounty-hunter-3e43a7e0bc80?source=rss------bug_bounty-5) 
+ - 💯January 1, 2024 - [CVE-2023–34635: UNIBOX 3.0/3.1 SQL Injection login bypass](https://medium.com/@davidkarpinski1/cve-2023-34635-unibox-3-0-3-1-sql-injection-login-bypass-fc33004e70c0?source=rss------bug_bounty-5) 
 
- - 💯December 31, 2023 - [Uncovering LFI Attack ‍](https://medium.com/@cyberkarthi/uncovering-ssrf-attack-12064069205f?source=rss------bug_bounty-5) 
+ - 💯January 1, 2024 - [Exploring the Depths: DNS Wildcard and Subdomain Tak](https://alvinbijo.medium.com/exploring-the-depths-dns-wildcard-and-subdomain-tak-6deed7aebcb1?source=rss------bug_bounty-5) 
 
- - 💯December 31, 2023 - [“Building Cyber Resilience Strategies for Sustainable Operations”](https://medium.com/@Land2Cyber/building-cyber-resilience-strategies-for-sustainable-operations-1e8e55589c5e?source=rss------bug_bounty-5) 
+ - 💯January 1, 2024 - [1.18 Lab: SQL injection attack, listing the database contents on Oracle | 2024](https://cyberw1ng.medium.com/1-18-lab-sql-injection-attack-listing-the-database-contents-on-oracle-2024-cec2a796740f?source=rss------bug_bounty-5) 
 
- - 💯December 31, 2023 - [“Quantum Computing and Cybersecurity Operations Future Challenges”](https://medium.com/@Land2Cyber/quantum-computing-and-cybersecurity-operations-future-challenges-1df179091b5a?source=rss------bug_bounty-5) 
+ - 💯January 1, 2024 - [Another 4 Digit Bounty Story on Hackerone](https://medium.com/@jai.lani9001/another-4-digit-bounty-story-on-hackerone-58dba8c19818?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
