@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 2, 2024 - [“Ransomware Roulette Strategies for Prevention and Recovery”](https://medium.com/@Land2Cyber/ransomware-roulette-strategies-for-prevention-and-recovery-bcb91b43852b?source=rss------bug_bounty-5) 
+ - 💯January 3, 2024 - [GooFuzz: A Fuzzing Tool with an OSINT Approach](https://medium.com/@cuncis/goofuzz-a-fuzzing-tool-with-an-osint-approach-306fe481824f?source=rss------bug_bounty-5) 
 
- - 💯January 2, 2024 - [“Biometrics Beyond Borders The Future of Identity Verification”](https://medium.com/@Land2Cyber/biometrics-beyond-borders-the-future-of-identity-verification-7a66ad8a8f09?source=rss------bug_bounty-5) 
+ - 💯January 3, 2024 - [How to Correctly setup Android Penetration Testing on a MacBook](https://infosecwriteups.com/how-to-correctly-setup-android-penetration-testing-on-a-macbook-659f244f84c8?source=rss------bug_bounty-5) 
 
- - 💯January 2, 2024 - [“Crypto Wars 2.0 Navigating the Landscape of Blockchain Security”](https://medium.com/@Land2Cyber/crypto-wars-2-0-navigating-the-landscape-of-blockchain-security-c147bcc2ddda?source=rss------bug_bounty-5) 
+ - 💯January 3, 2024 - [“Insider Threats Unveiled The Hidden Danger Within Organizations”](https://medium.com/@Land2Cyber/insider-threats-unveiled-the-hidden-danger-within-organizations-b6341495192d?source=rss------bug_bounty-5) 
 
- - 💯January 2, 2024 - [“Hackers Unleashed Understanding the Dark Web Ecosystem”](https://medium.com/@Land2Cyber/hackers-unleashed-understanding-the-dark-web-ecosystem-cceda4e78cd5?source=rss------bug_bounty-5) 
+ - 💯January 3, 2024 - [“Mobile Fortresses Protecting Your Devices in a Hyper-Connected World”](https://medium.com/@Land2Cyber/mobile-fortresses-protecting-your-devices-in-a-hyper-connected-world-cc07c900b12d?source=rss------bug_bounty-5) 
 
- - 💯January 2, 2024 - [“The Cybersecurity Crystal Ball Predicting Trends and Threats”](https://medium.com/@Land2Cyber/the-cybersecurity-crystal-ball-predicting-trends-and-threats-78ac7c4eac8e?source=rss------bug_bounty-5) 
+ - 💯January 3, 2024 - [“The Quantum Leap Securing Data in the Age of Quantum Computing”](https://medium.com/@Land2Cyber/the-quantum-leap-securing-data-in-the-age-of-quantum-computing-2ea316195b23?source=rss------bug_bounty-5) 
 
- - 💯January 2, 2024 - [you need to learn linux RIGHT NOW!!](https://medium.com/@paritoshblogs/you-need-to-learn-linux-right-now-7239f4dcc1c6?source=rss------bug_bounty-5) 
+ - 💯January 3, 2024 - [“Cybersecurity Hygiene 101 Tips for a Healthy Digital Lifestyle”](https://medium.com/@Land2Cyber/cybersecurity-hygiene-101-tips-for-a-healthy-digital-lifestyle-764ebeffcad4?source=rss------bug_bounty-5) 
 
- - 💯January 1, 2024 - [CVE-2023–34635: UNIBOX 3.0/3.1 SQL Injection login bypass](https://medium.com/@davidkarpinski1/cve-2023-34635-unibox-3-0-3-1-sql-injection-login-bypass-fc33004e70c0?source=rss------bug_bounty-5) 
+ - 💯January 3, 2024 - [“AI vs. Cyber Threats A Battle of Wits in the Digital Arena”](https://medium.com/@Land2Cyber/ai-vs-cyber-threats-a-battle-of-wits-in-the-digital-arena-4af759fa2b81?source=rss------bug_bounty-5) 
 
- - 💯January 1, 2024 - [Exploring the Depths: DNS Wildcard and Subdomain Tak](https://alvinbijo.medium.com/exploring-the-depths-dns-wildcard-and-subdomain-tak-6deed7aebcb1?source=rss------bug_bounty-5) 
+ - 💯January 3, 2024 - [OpenBounty, phương pháp tiếp cận mới của Shentu trong Hệ sinh thái bảo mật](https://shentuchain.medium.com/openbounty-ph%C6%B0%C6%A1ng-ph%C3%A1p-ti%E1%BA%BFp-c%E1%BA%ADn-m%E1%BB%9Bi-c%E1%BB%A7a-shentu-trong-h%E1%BB%87-sinh-th%C3%A1i-b%E1%BA%A3o-m%E1%BA%ADt-bc52f8fd13ff?source=rss------bug_bounty-5) 
 
- - 💯January 1, 2024 - [1.18 Lab: SQL injection attack, listing the database contents on Oracle | 2024](https://cyberw1ng.medium.com/1-18-lab-sql-injection-attack-listing-the-database-contents-on-oracle-2024-cec2a796740f?source=rss------bug_bounty-5) 
+ - 💯January 2, 2024 - [From Disclosure to High Severity: Leveraging Dyte API Key for Maximum Impact](https://padsalatushal.medium.com/from-disclosure-to-high-severity-leveraging-dyte-api-key-for-maximum-impact-468c444963c6?source=rss------bug_bounty-5) 
 
- - 💯January 1, 2024 - [Another 4 Digit Bounty Story on Hackerone](https://medium.com/@jai.lani9001/another-4-digit-bounty-story-on-hackerone-58dba8c19818?source=rss------bug_bounty-5) 
+ - 💯January 2, 2024 - [2.4 Lab: Username enumeration via subtly different responses | 2024](https://cyberw1ng.medium.com/2-4-lab-username-enumeration-via-subtly-different-responses-2024-eb37130d41a8?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
