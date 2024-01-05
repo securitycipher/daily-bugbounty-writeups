@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 4, 2024 - [How do i bypass waf for xss in input tag?](https://medium.com/@lyltvip/how-do-i-bypass-waf-for-xss-in-input-tag-2adcdc1b7e25?source=rss------bug_bounty-5) 
+ - 💯January 5, 2024 - [Cybersecurity Roadmap: 2024](https://hackerassociate.medium.com/cybersecurity-roadmap-2024-ea3586fea603?source=rss------bug_bounty-5) 
 
- - 💯January 4, 2024 - [Exploring Application Security with SAST, DAST, SCA, and IAST](https://securitycipher.medium.com/exploring-application-security-with-sast-dast-sca-and-iast-95b27043d9fd?source=rss------bug_bounty-5) 
+ - 💯January 5, 2024 - [Cybersecurity in the 5G Era Challenges and Opportunities”](https://medium.com/@Land2Cyber/cybersecurity-in-the-5g-era-challenges-and-opportunities-7382c5fa6a11?source=rss------bug_bounty-5) 
 
- - 💯January 4, 2024 - [The Rise of Cybersecurity Warriors Women Leading the Charge”](https://medium.com/@Land2Cyber/the-rise-of-cybersecurity-warriors-women-leading-the-charge-aa4c6085ce03?source=rss------bug_bounty-5) 
+ - 💯January 5, 2024 - [“Digital Vigilantes Individuals Taking a Stand Against Cybercrime”](https://medium.com/@Land2Cyber/digital-vigilantes-individuals-taking-a-stand-against-cybercrime-0154fe7529f4?source=rss------bug_bounty-5) 
 
- - 💯January 4, 2024 - [“Cybersecurity in the Cloud Safeguarding Data Beyond Boundaries”](https://medium.com/@Land2Cyber/cybersecurity-in-the-cloud-safeguarding-data-beyond-boundaries-b4a2ab59295b?source=rss------bug_bounty-5) 
+ - 💯January 5, 2024 - [“The Psychology of Cyber Threats Understanding the Human Factor”](https://medium.com/@Land2Cyber/the-psychology-of-cyber-threats-understanding-the-human-factor-7a68dbcbe81c?source=rss------bug_bounty-5) 
 
- - 💯January 4, 2024 - [“Data Breaches Exposed Lessons Learned from High-Profile Incidents”](https://medium.com/@Land2Cyber/data-breaches-exposed-lessons-learned-from-high-profile-incidents-c8f67cc1b745?source=rss------bug_bounty-5) 
+ - 💯January 5, 2024 - [“Deepfake Dangers Securing Against AI-Generated Deception”](https://medium.com/@Land2Cyber/deepfake-dangers-securing-against-ai-generated-deception-b5a29140d32a?source=rss------bug_bounty-5) 
 
- - 💯January 4, 2024 - [“Cybersecurity Avengers Defenders of the Digital Realm”](https://medium.com/@Land2Cyber/cybersecurity-avengers-defenders-of-the-digital-realm-f6df956e35ea?source=rss------bug_bounty-5) 
+ - 💯January 5, 2024 - [“IoT Insecurities Taming the Wild West of Connected Devices”](https://medium.com/@Land2Cyber/iot-insecurities-taming-the-wild-west-of-connected-devices-f172cd99ebdf?source=rss------bug_bounty-5) 
 
- - 💯January 4, 2024 - [“The Ethics of Hacking Navigating the Fine Line of White Hat Intrusion”](https://medium.com/@Land2Cyber/the-ethics-of-hacking-navigating-the-fine-line-of-white-hat-intrusion-1af03355b319?source=rss------bug_bounty-5) 
+ - 💯January 5, 2024 - [Ethical Hacking RoadMap 2024. A Complete Guide.](https://medium.com/@testproxy027/ethical-hacking-roadmap-2024-a-complete-guide-74a7a09668af?source=rss------bug_bounty-5) 
 
- - 💯January 4, 2024 - [9 Subtle Tricks To Make Your Cybersecurity Skills Much Better](https://medium.com/@paritoshblogs/9-subtle-tricks-to-make-your-cybersecurity-skills-much-better-4f7e48b3fd57?source=rss------bug_bounty-5) 
+ - 💯January 5, 2024 - [I received a Bank offer in my mailbox and discovered an IDOR vulnerability - $5,000 bounty - @bxmbn](https://bxmbn.medium.com/i-received-a-bank-offer-in-my-mailbox-and-discovered-an-idor-vulnerability-5-000-bounty-bxmbn-5209cab1fba8?source=rss------bug_bounty-5) 
 
- - 💯January 3, 2024 - [My First Bug Bounty: Lessons Learned and Money Earned](https://medium.com/@georgeppmc/my-first-bug-bounty-lessons-learned-and-money-earned-d6fc31744621?source=rss------bug_bounty-5) 
+ - 💯January 5, 2024 - [How I Prevented a Mass Data Breach - $15,000 bounty - @bxmbn](https://bxmbn.medium.com/how-i-prevented-a-mass-data-breach-15-000-bounty-bxmbn-1096e6400e3d?source=rss------bug_bounty-5) 
 
- - 💯January 3, 2024 - [Comparing CVE &amp; CWE : Understanding Security Vulnerabilities](https://medium.com/@zouhairelgarouni/comparing-cve-cwe-understanding-security-vulnerabilities-84442ab1e0e7?source=rss------bug_bounty-5) 
+ - 💯January 4, 2024 - [Essential Gadgets for Bug Bounty Hunters: Enhancing Your Cybersecurity Arsenal](https://securitylit.medium.com/essential-gadgets-for-bug-bounty-hunters-enhancing-your-cybersecurity-arsenal-40173ec2945f?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
