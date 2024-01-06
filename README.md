@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 5, 2024 - [Cybersecurity Roadmap: 2024](https://hackerassociate.medium.com/cybersecurity-roadmap-2024-ea3586fea603?source=rss------bug_bounty-5) 
+ - 💯January 6, 2024 - [“The Role of Artificial Intelligence in Cybersecurity Friend or Foe?”](https://medium.com/@Land2Cyber/the-role-of-artificial-intelligence-in-cybersecurity-friend-or-foe-8cdef31a1f87?source=rss------bug_bounty-5) 
 
- - 💯January 5, 2024 - [Cybersecurity in the 5G Era Challenges and Opportunities”](https://medium.com/@Land2Cyber/cybersecurity-in-the-5g-era-challenges-and-opportunities-7382c5fa6a11?source=rss------bug_bounty-5) 
+ - 💯January 6, 2024 - [“Dark Web Unveiled Navigating the Shadows of the Internet”](https://medium.com/@Land2Cyber/dark-web-unveiled-navigating-the-shadows-of-the-internet-9b441d2fb3fa?source=rss------bug_bounty-5) 
 
- - 💯January 5, 2024 - [“Digital Vigilantes Individuals Taking a Stand Against Cybercrime”](https://medium.com/@Land2Cyber/digital-vigilantes-individuals-taking-a-stand-against-cybercrime-0154fe7529f4?source=rss------bug_bounty-5) 
+ - 💯January 6, 2024 - [“Cyber Hygiene 101 Best Practices for Online Security”](https://medium.com/@Land2Cyber/cyber-hygiene-101-best-practices-for-online-security-e511ba3adc83?source=rss------bug_bounty-5) 
 
- - 💯January 5, 2024 - [“The Psychology of Cyber Threats Understanding the Human Factor”](https://medium.com/@Land2Cyber/the-psychology-of-cyber-threats-understanding-the-human-factor-7a68dbcbe81c?source=rss------bug_bounty-5) 
+ - 💯January 6, 2024 - [“Ransomware Resilience Strategies for Businesses in the Digital Age”](https://medium.com/@Land2Cyber/ransomware-resilience-strategies-for-businesses-in-the-digital-age-42101ca48c8d?source=rss------bug_bounty-5) 
 
- - 💯January 5, 2024 - [“Deepfake Dangers Securing Against AI-Generated Deception”](https://medium.com/@Land2Cyber/deepfake-dangers-securing-against-ai-generated-deception-b5a29140d32a?source=rss------bug_bounty-5) 
+ - 💯January 6, 2024 - [“The Evolving Landscape of Cyber Threats What You Need to Know”](https://medium.com/@Land2Cyber/the-evolving-landscape-of-cyber-threats-what-you-need-to-know-11808c0588b8?source=rss------bug_bounty-5) 
 
- - 💯January 5, 2024 - [“IoT Insecurities Taming the Wild West of Connected Devices”](https://medium.com/@Land2Cyber/iot-insecurities-taming-the-wild-west-of-connected-devices-f172cd99ebdf?source=rss------bug_bounty-5) 
+ - 💯January 6, 2024 - [Unveiling the Dangers of CWE-319: Clear Text Transmission of Sensitive Information](https://medium.com/@georgeppmc/unveiling-the-dangers-of-cwe-319-clear-text-transmission-of-sensitive-information-1ada2d1f4ca5?source=rss------bug_bounty-5) 
 
- - 💯January 5, 2024 - [Ethical Hacking RoadMap 2024. A Complete Guide.](https://medium.com/@testproxy027/ethical-hacking-roadmap-2024-a-complete-guide-74a7a09668af?source=rss------bug_bounty-5) 
+ - 💯January 6, 2024 - [Top 5 Best Books for Bug Bounty Hunting- My Personal Favourites](https://medium.com/@Ajakcybersecurity/top-5-best-books-for-bug-bounty-hunting-my-personal-favourites-ec416ab4ea25?source=rss------bug_bounty-5) 
 
- - 💯January 5, 2024 - [I received a Bank offer in my mailbox and discovered an IDOR vulnerability - $5,000 bounty - @bxmbn](https://bxmbn.medium.com/i-received-a-bank-offer-in-my-mailbox-and-discovered-an-idor-vulnerability-5-000-bounty-bxmbn-5209cab1fba8?source=rss------bug_bounty-5) 
+ - 💯January 6, 2024 - [HackerOne or BugCrowd or VDP? How To Choose your Bug Bounty Program?](https://medium.com/@Ajakcybersecurity/hackerone-or-bugcrowd-or-vdp-how-to-choose-your-bug-bounty-program-c4a4d202397c?source=rss------bug_bounty-5) 
 
- - 💯January 5, 2024 - [How I Prevented a Mass Data Breach - $15,000 bounty - @bxmbn](https://bxmbn.medium.com/how-i-prevented-a-mass-data-breach-15-000-bounty-bxmbn-1096e6400e3d?source=rss------bug_bounty-5) 
+ - 💯January 6, 2024 - [How I Cracked CEH Within 6 Months Only With Free Resources.](https://medium.com/@Ajakcybersecurity/how-i-cracked-ceh-within-6-months-only-with-free-resources-c362d122ee01?source=rss------bug_bounty-5) 
 
- - 💯January 4, 2024 - [Essential Gadgets for Bug Bounty Hunters: Enhancing Your Cybersecurity Arsenal](https://securitylit.medium.com/essential-gadgets-for-bug-bounty-hunters-enhancing-your-cybersecurity-arsenal-40173ec2945f?source=rss------bug_bounty-5) 
+ - 💯January 6, 2024 - [Bug Bounty Mistakes I Made in 2023, So that You Can Avoid in 2024](https://medium.com/@Ajakcybersecurity/bug-bounty-mistakes-i-made-in-2023-so-that-you-can-avoid-in-2024-3737663807fc?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
