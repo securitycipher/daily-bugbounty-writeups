@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 6, 2024 - [The History Behind My First Bug](https://dropn0w.medium.com/the-history-behind-my-first-bug-539b913b9667?source=rss------bug_bounty-5) 
+ - 💯January 8, 2024 - [The Art and Science Behind Password Managers](https://medium.com/@paritoshblogs/the-art-and-science-behind-password-managers-fbf5fb9c7f99?source=rss------bug_bounty-5) 
 
- - 💯January 6, 2024 - [The Art of Shodan](https://astro0x00.medium.com/the-art-of-shodan-ee83bfa96105?source=rss------bug_bounty-5) 
+ - 💯January 8, 2024 - [“Cryptocurrency Security Safeguarding Your Digital Assets”](https://medium.com/@Land2Cyber/cryptocurrency-security-safeguarding-your-digital-assets-fd4d048767ca?source=rss------bug_bounty-5) 
 
- - 💯January 6, 2024 - [2.8 Lab: 2FA broken logic | 2024](https://cyberw1ng.medium.com/2-8-lab-2fa-broken-logic-2024-30a843da98ca?source=rss------bug_bounty-5) 
+ - 💯January 8, 2024 - [“The Quantum Threat Shifting Paradigms in Cybersecurity”](https://medium.com/@Land2Cyber/the-quantum-threat-shifting-paradigms-in-cybersecurity-a801047626ae?source=rss------bug_bounty-5) 
 
- - 💯January 6, 2024 - [500$ Access Control Bug: Performed Restricted Actions in Developer Settings by low level user.](https://medium.com/@a13h1/500-access-control-bug-performed-restricted-actions-in-developer-settings-by-low-level-user-b4ecaa6d1aa1?source=rss------bug_bounty-5) 
+ - 💯January 8, 2024 - [“Social Engineering Attacks How to Recognize and Defend Against Them”](https://medium.com/@Land2Cyber/social-engineering-attacks-how-to-recognize-and-defend-against-them-491d39cd85ab?source=rss------bug_bounty-5) 
 
- - 💯January 6, 2024 - [Best AI Tools For Cybersecurity in 2024](https://medium.com/@paritoshblogs/best-ai-tools-for-cybersecurity-in-2024-9f9972919f1d?source=rss------bug_bounty-5) 
+ - 💯January 8, 2024 - [“Biometric Authentication The Future of Cybersecurity?”](https://medium.com/@Land2Cyber/biometric-authentication-the-future-of-cybersecurity-61d19db929ca?source=rss------bug_bounty-5) 
 
- - 💯January 6, 2024 - [Gi7w0rm’s personal year review — 2023](https://gi7w0rm.medium.com/gi7w0rms-personal-year-review-2023-f4726b46b604?source=rss------bug_bounty-5) 
+ - 💯January 8, 2024 - [“Securing the Internet of Things &lpar;IoT&rpar; Balancing Convenience and Risk”](https://medium.com/@Land2Cyber/securing-the-internet-of-things-iot-balancing-convenience-and-risk-7bed0c80b876?source=rss------bug_bounty-5) 
 
- - 💯January 6, 2024 - [“The Role of Artificial Intelligence in Cybersecurity Friend or Foe?”](https://medium.com/@Land2Cyber/the-role-of-artificial-intelligence-in-cybersecurity-friend-or-foe-8cdef31a1f87?source=rss------bug_bounty-5) 
+ - 💯January 7, 2024 - [Os Command Injection](https://medium.com/@eren.klai2/os-command-injection-536087488e87?source=rss------bug_bounty-5) 
 
- - 💯January 6, 2024 - [“Dark Web Unveiled Navigating the Shadows of the Internet”](https://medium.com/@Land2Cyber/dark-web-unveiled-navigating-the-shadows-of-the-internet-9b441d2fb3fa?source=rss------bug_bounty-5) 
+ - 💯January 7, 2024 - [Paid Subscriptions Resources which will be useful for Ethical Hacking/Bug Bounty &lpar;No Promotion&rpar;…](https://medium.com/@Ajakcybersecurity/paid-subscriptions-resources-which-will-be-useful-for-ethical-hacking-bug-bounty-no-promotion-94b2aad97b18?source=rss------bug_bounty-5) 
 
- - 💯January 6, 2024 - [“Cyber Hygiene 101 Best Practices for Online Security”](https://medium.com/@Land2Cyber/cyber-hygiene-101-best-practices-for-online-security-e511ba3adc83?source=rss------bug_bounty-5) 
+ - 💯January 7, 2024 - [Learn Cybersecurity By Doing Simple Projects at Home](https://medium.com/@Ajakcybersecurity/learn-cybersecurity-by-doing-simple-projects-at-home-81fe4a512a65?source=rss------bug_bounty-5) 
 
- - 💯January 6, 2024 - [“Ransomware Resilience Strategies for Businesses in the Digital Age”](https://medium.com/@Land2Cyber/ransomware-resilience-strategies-for-businesses-in-the-digital-age-42101ca48c8d?source=rss------bug_bounty-5) 
+ - 💯January 7, 2024 - [Top 5 Best Laptops for Bug Bounty and Ethical Hacking](https://medium.com/@Ajakcybersecurity/top-5-best-laptops-for-bug-bounty-and-ethical-hacking-c0ce6fe4917c?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
