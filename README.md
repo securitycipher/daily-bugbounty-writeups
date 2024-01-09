@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 8, 2024 - [The Art and Science Behind Password Managers](https://medium.com/@paritoshblogs/the-art-and-science-behind-password-managers-fbf5fb9c7f99?source=rss------bug_bounty-5) 
+ - 💯January 9, 2024 - [BYPASSING PAYMENTS IN APPLE FOR FREE TRAILS FOR LIFETIME](https://medium.com/@sam0-0/bypassing-payments-in-apple-for-free-trails-for-lifetime-8e3019dfe57b?source=rss------bug_bounty-5) 
 
- - 💯January 8, 2024 - [“Cryptocurrency Security Safeguarding Your Digital Assets”](https://medium.com/@Land2Cyber/cryptocurrency-security-safeguarding-your-digital-assets-fd4d048767ca?source=rss------bug_bounty-5) 
+ - 💯January 9, 2024 - [Daily Bug Bounty Writeups](https://securitycipher.medium.com/daily-bug-bounty-writeups-2d754b87a546?source=rss------bug_bounty-5) 
 
- - 💯January 8, 2024 - [“The Quantum Threat Shifting Paradigms in Cybersecurity”](https://medium.com/@Land2Cyber/the-quantum-threat-shifting-paradigms-in-cybersecurity-a801047626ae?source=rss------bug_bounty-5) 
+ - 💯January 9, 2024 - [“Next-Gen Firewalls Enhancing Network Security in the Modern Age”](https://medium.com/@Land2Cyber/next-gen-firewalls-enhancing-network-security-in-the-modern-age-eeb5200758b4?source=rss------bug_bounty-5) 
 
- - 💯January 8, 2024 - [“Social Engineering Attacks How to Recognize and Defend Against Them”](https://medium.com/@Land2Cyber/social-engineering-attacks-how-to-recognize-and-defend-against-them-491d39cd85ab?source=rss------bug_bounty-5) 
+ - 💯January 9, 2024 - [“The Psychology of Cybersecurity Understanding Human Behavior in the Digital Realm”](https://medium.com/@Land2Cyber/the-psychology-of-cybersecurity-understanding-human-behavior-in-the-digital-realm-c9f95d142205?source=rss------bug_bounty-5) 
 
- - 💯January 8, 2024 - [“Biometric Authentication The Future of Cybersecurity?”](https://medium.com/@Land2Cyber/biometric-authentication-the-future-of-cybersecurity-61d19db929ca?source=rss------bug_bounty-5) 
+ - 💯January 9, 2024 - [“Cybersecurity in a Remote Work Era Challenges and Solutions”](https://medium.com/@Land2Cyber/cybersecurity-in-a-remote-work-era-challenges-and-solutions-a3782d8d4360?source=rss------bug_bounty-5) 
 
- - 💯January 8, 2024 - [“Securing the Internet of Things &lpar;IoT&rpar; Balancing Convenience and Risk”](https://medium.com/@Land2Cyber/securing-the-internet-of-things-iot-balancing-convenience-and-risk-7bed0c80b876?source=rss------bug_bounty-5) 
+ - 💯January 9, 2024 - [“Ethical Hacking The Art of Securing by Breaking”](https://medium.com/@Land2Cyber/ethical-hacking-the-art-of-securing-by-breaking-bc5deab6bca0?source=rss------bug_bounty-5) 
 
- - 💯January 7, 2024 - [Os Command Injection](https://medium.com/@eren.klai2/os-command-injection-536087488e87?source=rss------bug_bounty-5) 
+ - 💯January 9, 2024 - [“Zero Trust Architecture Redefining Network Security”](https://medium.com/@Land2Cyber/zero-trust-architecture-redefining-network-security-88318ba3ede7?source=rss------bug_bounty-5) 
 
- - 💯January 7, 2024 - [Paid Subscriptions Resources which will be useful for Ethical Hacking/Bug Bounty &lpar;No Promotion&rpar;…](https://medium.com/@Ajakcybersecurity/paid-subscriptions-resources-which-will-be-useful-for-ethical-hacking-bug-bounty-no-promotion-94b2aad97b18?source=rss------bug_bounty-5) 
+ - 💯January 8, 2024 - [HTTP PARAMTER POLLUTION [TR]](https://medium.com/@eren.klai2/http-paramter-pollution-tr-700e254be60e?source=rss------bug_bounty-5) 
 
- - 💯January 7, 2024 - [Learn Cybersecurity By Doing Simple Projects at Home](https://medium.com/@Ajakcybersecurity/learn-cybersecurity-by-doing-simple-projects-at-home-81fe4a512a65?source=rss------bug_bounty-5) 
-
- - 💯January 7, 2024 - [Top 5 Best Laptops for Bug Bounty and Ethical Hacking](https://medium.com/@Ajakcybersecurity/top-5-best-laptops-for-bug-bounty-and-ethical-hacking-c0ce6fe4917c?source=rss------bug_bounty-5) 
+ - 💯January 8, 2024 - [Blind boolean-based SQLi, by manipulating url](https://medium.com/@zatikyan.sevada/blind-boolean-based-sqli-by-manipulating-url-96e1e086378c?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
