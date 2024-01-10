@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 9, 2024 - [BYPASSING PAYMENTS IN APPLE FOR FREE TRAILS FOR LIFETIME](https://medium.com/@sam0-0/bypassing-payments-in-apple-for-free-trails-for-lifetime-8e3019dfe57b?source=rss------bug_bounty-5) 
+ - 💯January 10, 2024 - [“The Rise of Nation-State Cyber Attacks Implications for Global Security”](https://medium.com/@Land2Cyber/the-rise-of-nation-state-cyber-attacks-implications-for-global-security-76612840ae6d?source=rss------bug_bounty-5) 
 
- - 💯January 9, 2024 - [Daily Bug Bounty Writeups](https://securitycipher.medium.com/daily-bug-bounty-writeups-2d754b87a546?source=rss------bug_bounty-5) 
+ - 💯January 10, 2024 - [“Cybersecurity for Small Businesses Building a Strong Defense on a Budget”](https://medium.com/@Land2Cyber/cybersecurity-for-small-businesses-building-a-strong-defense-on-a-budget-bfba770b2e80?source=rss------bug_bounty-5) 
 
- - 💯January 9, 2024 - [“Next-Gen Firewalls Enhancing Network Security in the Modern Age”](https://medium.com/@Land2Cyber/next-gen-firewalls-enhancing-network-security-in-the-modern-age-eeb5200758b4?source=rss------bug_bounty-5) 
+ - 💯January 10, 2024 - [“Biological Cybersecurity Protecting Against Biohacking Threats”](https://medium.com/@Land2Cyber/biological-cybersecurity-protecting-against-biohacking-threats-69dfe1ab7698?source=rss------bug_bounty-5) 
 
- - 💯January 9, 2024 - [“The Psychology of Cybersecurity Understanding Human Behavior in the Digital Realm”](https://medium.com/@Land2Cyber/the-psychology-of-cybersecurity-understanding-human-behavior-in-the-digital-realm-c9f95d142205?source=rss------bug_bounty-5) 
+ - 💯January 10, 2024 - [“The Intersection of Privacy and Cybersecurity Navigating the Regulatory Landscape”](https://medium.com/@Land2Cyber/the-intersection-of-privacy-and-cybersecurity-navigating-the-regulatory-landscape-f6eed05f1711?source=rss------bug_bounty-5) 
 
- - 💯January 9, 2024 - [“Cybersecurity in a Remote Work Era Challenges and Solutions”](https://medium.com/@Land2Cyber/cybersecurity-in-a-remote-work-era-challenges-and-solutions-a3782d8d4360?source=rss------bug_bounty-5) 
+ - 💯January 10, 2024 - [“Threat Intelligence Staying One Step Ahead of Cyber Adversaries”](https://medium.com/@Land2Cyber/threat-intelligence-staying-one-step-ahead-of-cyber-adversaries-6e5f963c066e?source=rss------bug_bounty-5) 
 
- - 💯January 9, 2024 - [“Ethical Hacking The Art of Securing by Breaking”](https://medium.com/@Land2Cyber/ethical-hacking-the-art-of-securing-by-breaking-bc5deab6bca0?source=rss------bug_bounty-5) 
+ - 💯January 10, 2024 - [How I Helped Indonesian Startup Company to Prevent Millions of PII Data Leaks](https://medium.com/@blackarazi/how-i-helped-indonesian-startup-company-to-prevent-millions-of-pii-data-leaks-55ef3edbd35d?source=rss------bug_bounty-5) 
 
- - 💯January 9, 2024 - [“Zero Trust Architecture Redefining Network Security”](https://medium.com/@Land2Cyber/zero-trust-architecture-redefining-network-security-88318ba3ede7?source=rss------bug_bounty-5) 
+ - 💯January 10, 2024 - [Hacking my college intranet &lpar;Bug Bounty&rpar;](https://medium.com/@boogsta/hacking-my-college-intranet-8f77f5d8fe60?source=rss------bug_bounty-5) 
 
- - 💯January 8, 2024 - [HTTP PARAMTER POLLUTION [TR]](https://medium.com/@eren.klai2/http-paramter-pollution-tr-700e254be60e?source=rss------bug_bounty-5) 
+ - 💯January 9, 2024 - [Recon Nedir ve Kullanılan Araçlar](https://medium.com/@eren.klai2/recon-nedir-ve-kullan%C4%B1lan-ara%C3%A7lar-bac6b28479e4?source=rss------bug_bounty-5) 
 
- - 💯January 8, 2024 - [Blind boolean-based SQLi, by manipulating url](https://medium.com/@zatikyan.sevada/blind-boolean-based-sqli-by-manipulating-url-96e1e086378c?source=rss------bug_bounty-5) 
+ - 💯January 9, 2024 - [Subdomain Bruteforce Tool](https://0xshaheen.medium.com/subdomain-bruteforce-tool-9dd3cd673df6?source=rss------bug_bounty-5) 
+
+ - 💯January 9, 2024 - [Get All your Clickjacking Vulnerability Triaged with this Exploitation!](https://medium.com/@Ajakcybersecurity/get-all-your-clickjacking-vulnerability-triaged-with-this-exploitation-95de8291e285?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
