@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 13, 2024 - [Is security in critical infrastructure important?](https://medium.com/@Land2Cyber/is-security-in-critical-infrastructure-important-ebc866c152f6?source=rss------bug_bounty-5) 
+ - 💯January 14, 2024 - [3.3 Lab: File path traversal, traversal sequences stripped non-recursively | 2024](https://cyberw1ng.medium.com/3-3-lab-file-path-traversal-traversal-sequences-stripped-non-recursively-2024-5dd6b7d227e6?source=rss------bug_bounty-5) 
 
- - 💯January 13, 2024 - [The importance of end-user education](https://medium.com/@Land2Cyber/the-importance-of-end-user-education-866feecf005f?source=rss------bug_bounty-5) 
+ - 💯January 14, 2024 - [What are unified user profiles, and what makes them potentially risky?](https://medium.com/@Land2Cyber/what-are-unified-user-profiles-and-what-makes-them-potentially-risky-c2c1ce306fd0?source=rss------bug_bounty-5) 
 
- - 💯January 13, 2024 - [The importance of network security](https://medium.com/@Land2Cyber/the-importance-of-network-security-61b78fbd0f0e?source=rss------bug_bounty-5) 
+ - 💯January 14, 2024 - [How did the advent of these new technologies impact information security?](https://medium.com/@Land2Cyber/how-did-the-advent-of-these-new-technologies-impact-information-security-ac6c8a2843dc?source=rss------bug_bounty-5) 
 
- - 💯January 13, 2024 - [The principle of zero trust access](https://medium.com/@Land2Cyber/the-principle-of-zero-trust-access-236aa63fa995?source=rss------bug_bounty-5) 
+ - 💯January 14, 2024 - [What are public key certificates, and why are they useful?](https://medium.com/@Land2Cyber/what-are-public-key-certificates-and-why-are-they-useful-a0464926f040?source=rss------bug_bounty-5) 
 
- - 💯January 13, 2024 - [How does malware work?](https://medium.com/@Land2Cyber/how-does-malware-work-55f101cd725d?source=rss------bug_bounty-5) 
+ - 💯January 14, 2024 - [What methods does HTTPS use that make it more secure than HTTP?](https://medium.com/@Land2Cyber/what-methods-does-https-use-that-make-it-more-secure-than-http-993c05e3433c?source=rss------bug_bounty-5) 
 
- - 💯January 13, 2024 - [HackTheBox — Server-side Request Forgery &lpar;SSRF&rpar; Overview](https://medium.com/@harry.hphu/hackthebox-server-side-request-forgery-ssrf-overview-e55ef94ac435?source=rss------bug_bounty-5) 
+ - 💯January 14, 2024 - [What are the best ways to detect malicious activity?](https://medium.com/@Land2Cyber/what-are-the-best-ways-to-detect-malicious-activity-f0ac48d3fb87?source=rss------bug_bounty-5) 
 
- - 💯January 12, 2024 - [SQL INJECTION FUNDAMENTALS_HACK THE BOX](https://medium.com/@romimkhan5588/sql-injection-fundamentals-hack-the-box-d22cde7a7198?source=rss------bug_bounty-5) 
+ - 💯January 13, 2024 - [DOM-Based XSS: Understanding and Mitigating a Stealthy Attack Vector](https://medium.com/@ravensec93/dom-based-xss-understanding-and-mitigating-a-stealthy-attack-vector-71ebc56806aa?source=rss------bug_bounty-5) 
 
- - 💯January 12, 2024 - [Account Takeover via password reset without user interactions &lpar;CVE-2023–7028&rpar;](https://0xweb01.medium.com/account-takeover-via-password-reset-without-user-interactions-cve-2023-7028-cbd2e675992e?source=rss------bug_bounty-5) 
+ - 💯January 13, 2024 - [Burp Suite — Download, Set up and Get Going!](https://medium.com/@eclectic-security/burp-suite-download-set-up-and-get-going-a58ba7daf678?source=rss------bug_bounty-5) 
 
- - 💯January 12, 2024 - [Holy Ffuf easy Bounty in 15 mins](https://medium.com/@Xt3sY/holy-ffuf-unleashing-rapid-wealth-with-a-15-minute-twist-8fada0cc72ba?source=rss------bug_bounty-5) 
+ - 💯January 13, 2024 - [3.2 Lab: File path traversal, traversal sequences blocked with absolute path bypass | 2024](https://systemweakness.com/3-2-lab-file-path-traversal-traversal-sequences-blocked-with-absolute-path-bypass-2024-b1eb44cf3151?source=rss------bug_bounty-5) 
 
- - 💯January 12, 2024 - [Unveiling Vulnerabilities: Loose Permissions in Salesforce Lightning Pose Data Security Threats](https://samshadow.medium.com/unveiling-vulnerabilities-loose-permissions-in-salesforce-lightning-pose-data-security-threats-41eaba372937?source=rss------bug_bounty-5) 
+ - 💯January 13, 2024 - [Regeneration of API key by low level user: 500$ Access Control bug](https://medium.com/@a13h1/regeneration-of-api-key-by-low-level-user-500-access-control-bug-87c76b9b5842?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
