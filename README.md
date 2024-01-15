@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 14, 2024 - [3.3 Lab: File path traversal, traversal sequences stripped non-recursively | 2024](https://cyberw1ng.medium.com/3-3-lab-file-path-traversal-traversal-sequences-stripped-non-recursively-2024-5dd6b7d227e6?source=rss------bug_bounty-5) 
+ - 💯January 15, 2024 - [How Apple Scammed Me Out Of $50,000 in their Bug Bounty Program &lpar;Silent Patching &amp; Ignoring Me&rpar;](https://medium.com/@just4g3nt/how-apple-scammed-me-out-of-50-000-in-their-bug-bounty-program-silent-patching-ignoring-me-18455a47a1f6?source=rss------bug_bounty-5) 
 
- - 💯January 14, 2024 - [What are unified user profiles, and what makes them potentially risky?](https://medium.com/@Land2Cyber/what-are-unified-user-profiles-and-what-makes-them-potentially-risky-c2c1ce306fd0?source=rss------bug_bounty-5) 
+ - 💯January 15, 2024 - [Discuss the functions and risks of cookies and cache files.](https://medium.com/@Land2Cyber/discuss-the-functions-and-risks-of-cookies-and-cache-files-fe63cd096770?source=rss------bug_bounty-5) 
 
- - 💯January 14, 2024 - [How did the advent of these new technologies impact information security?](https://medium.com/@Land2Cyber/how-did-the-advent-of-these-new-technologies-impact-information-security-ac6c8a2843dc?source=rss------bug_bounty-5) 
+ - 💯January 15, 2024 - [What are the dangers of public Wi-Fi networks?](https://medium.com/@Land2Cyber/what-are-the-dangers-of-public-wi-fi-networks-885b61aab364?source=rss------bug_bounty-5) 
 
- - 💯January 14, 2024 - [What are public key certificates, and why are they useful?](https://medium.com/@Land2Cyber/what-are-public-key-certificates-and-why-are-they-useful-a0464926f040?source=rss------bug_bounty-5) 
+ - 💯January 15, 2024 - [What are the phases of a Trojan horse attack?](https://medium.com/@Land2Cyber/what-are-the-phases-of-a-trojan-horse-attack-89e6b1da2626?source=rss------bug_bounty-5) 
 
- - 💯January 14, 2024 - [What methods does HTTPS use that make it more secure than HTTP?](https://medium.com/@Land2Cyber/what-methods-does-https-use-that-make-it-more-secure-than-http-993c05e3433c?source=rss------bug_bounty-5) 
+ - 💯January 15, 2024 - [Bug Zero at a Glance [16–31 December]](https://blog.bugzero.io/bug-zero-at-a-glance-16-31-december-d722a2b76ed4?source=rss------bug_bounty-5) 
 
- - 💯January 14, 2024 - [What are the best ways to detect malicious activity?](https://medium.com/@Land2Cyber/what-are-the-best-ways-to-detect-malicious-activity-f0ac48d3fb87?source=rss------bug_bounty-5) 
+ - 💯January 14, 2024 - [What is Bug Bounty Hunting](https://medium.com/@chaudharyrohit644/what-is-bug-bounty-hunting-d2571271d612?source=rss------bug_bounty-5) 
 
- - 💯January 13, 2024 - [DOM-Based XSS: Understanding and Mitigating a Stealthy Attack Vector](https://medium.com/@ravensec93/dom-based-xss-understanding-and-mitigating-a-stealthy-attack-vector-71ebc56806aa?source=rss------bug_bounty-5) 
+ - 💯January 14, 2024 - [PII Data Leakage via Directory Listing](https://medium.com/@fixthis1000time/pii-data-leakage-via-directory-listing-2a5ff7554cdc?source=rss------bug_bounty-5) 
 
- - 💯January 13, 2024 - [Burp Suite — Download, Set up and Get Going!](https://medium.com/@eclectic-security/burp-suite-download-set-up-and-get-going-a58ba7daf678?source=rss------bug_bounty-5) 
+ - 💯January 14, 2024 - [User Enumeration in the login process](https://medium.com/@majix_de/user-enumeration-in-the-login-process-a43a248ac70d?source=rss------bug_bounty-5) 
 
- - 💯January 13, 2024 - [3.2 Lab: File path traversal, traversal sequences blocked with absolute path bypass | 2024](https://systemweakness.com/3-2-lab-file-path-traversal-traversal-sequences-blocked-with-absolute-path-bypass-2024-b1eb44cf3151?source=rss------bug_bounty-5) 
+ - 💯January 14, 2024 - [Vulnerable Web Applications For Training and Testing Your New Tools](https://medium.com/@eclectic-security/vulnerable-web-applications-for-training-and-testing-your-new-tools-e2411942edb2?source=rss------bug_bounty-5) 
 
- - 💯January 13, 2024 - [Regeneration of API key by low level user: 500$ Access Control bug](https://medium.com/@a13h1/regeneration-of-api-key-by-low-level-user-500-access-control-bug-87c76b9b5842?source=rss------bug_bounty-5) 
+ - 💯January 14, 2024 - [Mass Hunting Blind XSS — Practical Techniques](https://infosecwriteups.com/mass-hunting-blind-xss-practical-techniques-182c422d773e?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
