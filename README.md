@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 15, 2024 - [How Apple Scammed Me Out Of $50,000 in their Bug Bounty Program &lpar;Silent Patching &amp; Ignoring Me&rpar;](https://medium.com/@just4g3nt/how-apple-scammed-me-out-of-50-000-in-their-bug-bounty-program-silent-patching-ignoring-me-18455a47a1f6?source=rss------bug_bounty-5) 
+ - 💯January 16, 2024 - [API_Security RoadMap](https://akash-venky091.medium.com/api-security-roadmap-edb59a420b04?source=rss------bug_bounty-5) 
 
- - 💯January 15, 2024 - [Discuss the functions and risks of cookies and cache files.](https://medium.com/@Land2Cyber/discuss-the-functions-and-risks-of-cookies-and-cache-files-fe63cd096770?source=rss------bug_bounty-5) 
+ - 💯January 16, 2024 - [Define how cyberbullying differs from in-person harassment.](https://medium.com/@Land2Cyber/define-how-cyberbullying-differs-from-in-person-harassment-faa064e0713a?source=rss------bug_bounty-5) 
 
- - 💯January 15, 2024 - [What are the dangers of public Wi-Fi networks?](https://medium.com/@Land2Cyber/what-are-the-dangers-of-public-wi-fi-networks-885b61aab364?source=rss------bug_bounty-5) 
+ - 💯January 16, 2024 - [How can online consumers protect themselves from fraud?](https://medium.com/@Land2Cyber/how-can-online-consumers-protect-themselves-from-fraud-961e7f0dc6f5?source=rss------bug_bounty-5) 
 
- - 💯January 15, 2024 - [What are the phases of a Trojan horse attack?](https://medium.com/@Land2Cyber/what-are-the-phases-of-a-trojan-horse-attack-89e6b1da2626?source=rss------bug_bounty-5) 
+ - 💯January 16, 2024 - [Is it possible to create an encryption that can’t be hacked?](https://medium.com/@Land2Cyber/is-it-possible-to-create-an-encryption-that-cant-be-hacked-fd7fb9d1e394?source=rss------bug_bounty-5) 
 
- - 💯January 15, 2024 - [Bug Zero at a Glance [16–31 December]](https://blog.bugzero.io/bug-zero-at-a-glance-16-31-december-d722a2b76ed4?source=rss------bug_bounty-5) 
+ - 💯January 16, 2024 - [What’s the difference between pharming and phishing?](https://medium.com/@Land2Cyber/whats-the-difference-between-pharming-and-phishing-f044de65a959?source=rss------bug_bounty-5) 
 
- - 💯January 14, 2024 - [What is Bug Bounty Hunting](https://medium.com/@chaudharyrohit644/what-is-bug-bounty-hunting-d2571271d612?source=rss------bug_bounty-5) 
+ - 💯January 15, 2024 - [How I Used A Simple Python Script to Exploit a Vulnerable Google API Key.](https://medium.com/@gradillagustavo87/how-i-used-a-simple-python-script-to-exploit-a-vulnerable-google-api-key-475b4fcaf895?source=rss------bug_bounty-5) 
 
- - 💯January 14, 2024 - [PII Data Leakage via Directory Listing](https://medium.com/@fixthis1000time/pii-data-leakage-via-directory-listing-2a5ff7554cdc?source=rss------bug_bounty-5) 
+ - 💯January 15, 2024 - [How I Automate Finding Amazon S3 Buckets Using A Simple Python Script](https://medium.com/@gradillagustavo87/how-i-automate-finding-amazon-s3-buckets-using-a-simple-python-script-c1a7c11a8b52?source=rss------bug_bounty-5) 
 
- - 💯January 14, 2024 - [User Enumeration in the login process](https://medium.com/@majix_de/user-enumeration-in-the-login-process-a43a248ac70d?source=rss------bug_bounty-5) 
+ - 💯January 15, 2024 - [S3 Bucket takeover with simple technique lead to $$](https://medium.com/@adhaamsayed3/s3-bucket-takeover-with-simple-technique-lead-to-0fc0b89eeecb?source=rss------bug_bounty-5) 
 
- - 💯January 14, 2024 - [Vulnerable Web Applications For Training and Testing Your New Tools](https://medium.com/@eclectic-security/vulnerable-web-applications-for-training-and-testing-your-new-tools-e2411942edb2?source=rss------bug_bounty-5) 
+ - 💯January 15, 2024 - [Streamlining Vulnerability Hunting for Bug Bounty and pentesters](https://medium.com/@k-binsaeed/streamlining-vulnerability-hunting-for-bug-bounty-and-pentesters-81e77b3ab7d9?source=rss------bug_bounty-5) 
 
- - 💯January 14, 2024 - [Mass Hunting Blind XSS — Practical Techniques](https://infosecwriteups.com/mass-hunting-blind-xss-practical-techniques-182c422d773e?source=rss------bug_bounty-5) 
+ - 💯January 15, 2024 - [SMTP Server &lpar;JAMES SMTP Server 2.3.2&rpar;](https://medium.com/@akshadjoshi/smtp-server-james-smtp-server-2-3-2-ad934435f021?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
