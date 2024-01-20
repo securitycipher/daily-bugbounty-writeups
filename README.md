@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 19, 2024 - [How To Hide Any Payload: Day 3/100 Of Gaining Hacking Knowledge](https://medium.com/@ssg30devil/how-to-hide-any-payload-day-3-100-of-gaining-hacking-knowledge-002c4adb328b?source=rss------bug_bounty-5) 
+ - 💯January 20, 2024 - [China Implements Stringent Cybersecurity Regulations: Makers Urged to Swiftly Report…](https://jareddouville.medium.com/china-implements-stringent-cybersecurity-regulations-makers-urged-to-swiftly-report-673f99696750?source=rss------bug_bounty-5) 
 
- - 💯January 18, 2024 - [Exploiting LLM APIs with excessive agency](https://jareddouville.medium.com/exploiting-llm-apis-with-excessive-agency-979d87a9937e?source=rss------bug_bounty-5) 
+ - 💯January 19, 2024 - [IDOR Vulnerability Allowing Unauthorized Access to Colleagues’ Bachelor Theses](https://medium.com/@mr_payload_injector/idor-vulnerability-allowing-unauthorized-access-to-colleagues-bachelor-theses-8c76c4ec4480?source=rss------bug_bounty-5) 
 
- - 💯January 18, 2024 - [easy bug = big bounty | easy and small bug can give you a big bounty and Reputation](https://medium.com/@no_oneee/easy-bug-big-bounty-easy-and-small-bug-can-give-you-a-big-bounty-and-reputation-08534a90d2e6?source=rss------bug_bounty-5) 
+ - 💯January 19, 2024 - [“500&quot; Internal Server Bypass Everything Will Be “200&quot; Okay](https://medium.com/@Xt3sY/500-internal-server-bypass-everything-will-be-200-okay-bcd149397736?source=rss------bug_bounty-5) 
 
- - 💯January 18, 2024 - [Hydra Tryhackme: Walkthrough/Writeup](https://proviesec.medium.com/hydra-tryhackme-walkthrough-writeup-784db55ab9a9?source=rss------bug_bounty-5) 
+ - 💯January 19, 2024 - [How I Bypassed CSRF Token — 2Ways](https://medium.com/@bmatth21/how-i-bypassed-csrf-token-2ways-5662b4191188?source=rss------bug_bounty-5) 
 
- - 💯January 18, 2024 - [Things should do after sublister&lpar;sublist3r&rpar;](https://medium.com/@canonminibeast/things-should-do-after-sublister-sublist3r-90176a020409?source=rss------bug_bounty-5) 
+ - 💯January 19, 2024 - [IDOR To Massive Government Data Leak](https://bishal0x01.medium.com/idor-to-massive-government-data-leak-e8ad510d7e5?source=rss------bug_bounty-5) 
 
- - 💯January 18, 2024 - [Master Bug Bounty Hunting Course](https://medium.com/@teamhydrashop/master-bug-bounty-hunting-course-ea3615f1160b?source=rss------bug_bounty-5) 
+ - 💯January 19, 2024 - [Can strong passwords protect information?](https://medium.com/@Land2Cyber/can-strong-passwords-protect-information-e6a06582c70a?source=rss------bug_bounty-5) 
 
- - 💯January 18, 2024 - [What is Cyberkill Chain &lpar;My first Interview Question of my carrier&rpar;](https://akash-venky091.medium.com/what-is-cyberkill-chain-my-first-interview-question-of-my-carrier-e1cc6351a24b?source=rss------bug_bounty-5) 
+ - 💯January 19, 2024 - [3 phases of application security](https://medium.com/@Land2Cyber/3-phases-of-application-security-7eb179289007?source=rss------bug_bounty-5) 
 
- - 💯January 18, 2024 - [How I Automatically Generate XSS Payload &amp; Automate Reflected XSS](https://medium.com/@Ajakcybersecurity/how-i-automatically-generate-xss-payload-automate-reflected-xss-91f4a232cd78?source=rss------bug_bounty-5) 
+ - 💯January 19, 2024 - [Should removable media be encrypted?](https://medium.com/@Land2Cyber/should-removable-media-be-encrypted-3347fc6accf3?source=rss------bug_bounty-5) 
 
- - 💯January 18, 2024 - [Is PNPT Certification Worth It for a Cybersecurity Job? Exploring PNPT!](https://medium.com/@Ajakcybersecurity/is-pnpt-certification-worth-it-for-a-cybersecurity-job-exploring-pnpt-8fa13a194fe4?source=rss------bug_bounty-5) 
+ - 💯January 19, 2024 - [Is security in critical infrastructure important?](https://medium.com/@Land2Cyber/is-security-in-critical-infrastructure-important-affcc1997f73?source=rss------bug_bounty-5) 
 
- - 💯January 18, 2024 - [A Best $5 Spent in My Entire Cybersecurity Journey](https://medium.com/@Ajakcybersecurity/a-best-5-spent-in-my-entire-cybersecurity-journey-baf09ae710d0?source=rss------bug_bounty-5) 
+ - 💯January 19, 2024 - [The importance of end-user education](https://medium.com/@Land2Cyber/the-importance-of-end-user-education-ecc57469f4a1?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
