@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 30, 2024 - [Navigating the Terrain of Credential Dumping Attacks](https://medium.com/@Land2Cyber/navigating-the-terrain-of-credential-dumping-attacks-ecc085a0bb60?source=rss------bug_bounty-5) 
+ - 💯January 31, 2024 - [Understanding and Mitigating Active Directory Attacks](https://medium.com/@paritoshblogs/understanding-and-mitigating-active-directory-attacks-51b7b5737ecc?source=rss------bug_bounty-5) 
 
- - 💯January 30, 2024 - [Critical Jenkins RCE Vulnerability &lpar;CVE-2024–23897&rpar;](https://medium.com/@elniak/critical-jenkins-rce-vulnerability-cve-2024-23897-402061a2b187?source=rss------bug_bounty-5) 
+ - 💯January 30, 2024 - [How to replicate Jenkins CVE-2024–23897: Arbitrary File Read Vulnerability](https://medium.com/@red_darkin/how-to-replicate-jenkins-cve-2024-23897-arbitrary-file-read-vulnerability-260c8174dd94?source=rss------bug_bounty-5) 
 
- - 💯January 30, 2024 - [Navigating the Realm of Credential Stuffing Attacks](https://medium.com/@Land2Cyber/navigating-the-realm-of-credential-stuffing-attacks-9ec2a692633e?source=rss------bug_bounty-5) 
+ - 💯January 30, 2024 - [Best Approach to RCE](https://medium.com/@anekantsinghai/best-approach-to-rce-630187d4ad03?source=rss------bug_bounty-5) 
 
- - 💯January 30, 2024 - [Demystifying the Dictionary Attack Unveiling a Timeless Threat](https://medium.com/@Land2Cyber/demystifying-the-dictionary-attack-unveiling-a-timeless-threat-5a29d4f72e45?source=rss------bug_bounty-5) 
+ - 💯January 30, 2024 - [An introductory guide to HTTP request smuggling](https://medium.com/@mayank_prajapati/an-introductory-guide-to-http-request-smuggling-0defb95e87ce?source=rss------bug_bounty-5) 
 
- - 💯January 30, 2024 - [Unveiling the Threat The Password Spray Attack Unraveled](https://medium.com/@Land2Cyber/unveiling-the-threat-the-password-spray-attack-unraveled-e84d4acb6bb3?source=rss------bug_bounty-5) 
+ - 💯January 30, 2024 - [Pov — HackTheBox Seasonal Machine Simple Writeup by Karthikeyan Nagaraj | 2024](https://infosecwriteups.com/pov-hackthebox-seasonal-machine-simple-writeup-by-karthikeyan-nagaraj-2024-7516c938c688?source=rss------bug_bounty-5) 
 
- - 💯January 30, 2024 - [Simplifying Issue Traceability with Links Explorer in the monday Platform](https://medium.com/optimizory-apps/simplifying-issue-traceability-with-links-explorer-in-the-monday-platform-c8cfbee37668?source=rss------bug_bounty-5) 
+ - 💯January 30, 2024 - [Attacking Session Management | Part 06 | What To Do After Choosing a Target](https://medium.com/@omarora1603/attacking-session-management-part-06-what-to-do-after-choosing-a-target-b551ab0455c5?source=rss------bug_bounty-5) 
 
- - 💯January 30, 2024 - [Title: Exploiting Path Traversal Vulnerability in User Profile URLs](https://medium.com/@kataeriidubstep/title-exploiting-path-traversal-vulnerability-in-user-profile-urls-82c0e8ba1a3e?source=rss------bug_bounty-5) 
+ - 💯January 30, 2024 - [My SSRF Tricks — Bug Bounty Tuesday](https://medium.com/@kerstan/my-ssrf-tricks-bug-bounty-tuesday-f0d7e53c8d88?source=rss------bug_bounty-5) 
 
- - 💯January 30, 2024 - [Decrypting the Dangers A Deep Dive into Rainbow Table Attacks](https://medium.com/@Land2Cyber/decrypting-the-dangers-a-deep-dive-into-rainbow-table-attacks-5b45bdf95e32?source=rss------bug_bounty-5) 
+ - 💯January 30, 2024 - [Rekomendasi Platform Bug Bounty Nasional Maupun Internasional](https://medium.com/@artiacode/rekomendasi-platform-bug-bounty-nasional-maupun-internasional-7406d388de08?source=rss------bug_bounty-5) 
 
- - 💯January 30, 2024 - [Understanding Brute Force Attacks in the Digital Realm](https://medium.com/@Land2Cyber/understanding-brute-force-attacks-in-the-digital-realm-965c5cec1bae?source=rss------bug_bounty-5) 
+ - 💯January 30, 2024 - [Navigating the World of Bug Bounties in 2024: Opportunities and Platforms for Ethical Hackers](https://hacksheets.medium.com/navigating-the-world-of-bug-bounties-in-2024-opportunities-and-platforms-for-ethical-hackers-99ff20231e3e?source=rss------bug_bounty-5) 
 
- - 💯January 30, 2024 - [Decoding the OWASP Top 10](https://medium.com/@paritoshblogs/decoding-the-owasp-top-10-e193b715cb37?source=rss------bug_bounty-5) 
+ - 💯January 30, 2024 - [Reflected XSS into a JavaScript String with Single Quote and Backslash Escaped](https://medium.com/@marduk.i.am/reflected-xss-into-a-javascript-string-with-single-quote-and-backslash-escaped-ba435167b43f?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
