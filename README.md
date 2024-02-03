@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯February 2, 2024 - [Unveiling the Elite: Cyber Matrix Tech’s USD 7 Million Bug Bounty Course](https://medium.com/@African-Technology-Research/unveiling-the-elite-cyber-matrix-techs-usd-7-million-bug-bounty-course-4e648fb003d1?source=rss------bug_bounty-5) 
+ - 💯February 3, 2024 - [How to send WhatsApp Message automatically using python for impress someone](https://rajput623929.medium.com/how-to-send-whatsapp-message-automatically-using-python-for-impress-someone-9c577664faaa?source=rss------bug_bounty-5) 
 
- - 💯February 2, 2024 - [Bug Bounty Automation Tools and Techniques for Efficient Hunting](https://medium.com/@Land2Cyber/bug-bounty-automation-tools-and-techniques-for-efficient-hunting-b6a680c15d3c?source=rss------bug_bounty-5) 
+ - 💯February 3, 2024 - [IDOR Pada Website Jual Beli Indonesia](https://uzet.medium.com/idor-pada-website-jual-beli-indonesia-e4842bad515a?source=rss------bug_bounty-5) 
 
- - 💯February 2, 2024 - [The Power of GraphQL Security Challenges and Bug Bounty Opportunities](https://medium.com/@Land2Cyber/the-power-of-graphql-security-challenges-and-bug-bounty-opportunities-431c919aa7de?source=rss------bug_bounty-5) 
+ - 💯February 3, 2024 - [Bug Bounty Success Stories Lessons Learned from Real-life Exploits](https://medium.com/@Land2Cyber/bug-bounty-success-stories-lessons-learned-from-real-life-exploits-1506cfa6a317?source=rss------bug_bounty-5) 
 
- - 💯February 2, 2024 - [Cracking Open JWTs A Guide to Understanding and Exploiting Vulnerabilities](https://medium.com/@Land2Cyber/cracking-open-jwts-a-guide-to-understanding-and-exploiting-vulnerabilities-db7cb047ef76?source=rss------bug_bounty-5) 
+ - 💯February 3, 2024 - [Securing Cloud Environments Bug Bounty Best Practices for AWS, Azure, and GCP](https://medium.com/@Land2Cyber/securing-cloud-environments-bug-bounty-best-practices-for-aws-azure-and-gcp-3aa88ce6cfe1?source=rss------bug_bounty-5) 
 
- - 💯February 2, 2024 - [Hunting for Security Misconfigurations A Bug Bounty Perspective](https://medium.com/@Land2Cyber/hunting-for-security-misconfigurations-a-bug-bounty-perspective-2619d1855306?source=rss------bug_bounty-5) 
+ - 💯February 3, 2024 - [Deep Dive into Binary Exploitation Bug Bounty for the Hardcore](https://medium.com/@Land2Cyber/deep-dive-into-binary-exploitation-bug-bounty-for-the-hardcore-6e647b462825?source=rss------bug_bounty-5) 
 
- - 💯February 2, 2024 - [Mobile App Security Testing A Bug Bounty Hunter’s Approach](https://medium.com/@Land2Cyber/mobile-app-security-testing-a-bug-bounty-hunters-approach-8965c02a58df?source=rss------bug_bounty-5) 
+ - 💯February 3, 2024 - [The Rise of IoT Vulnerabilities Bug Bounty Challenges and Solutions](https://medium.com/@Land2Cyber/the-rise-of-iot-vulnerabilities-bug-bounty-challenges-and-solutions-663774cbb83e?source=rss------bug_bounty-5) 
 
- - 💯February 2, 2024 - [In-Depth Analysis of Server-Side Request Forgery &lpar;SSRF&rpar; Vulnerabilities](https://medium.com/@Land2Cyber/in-depth-analysis-of-server-side-request-forgery-ssrf-vulnerabilities-c10906407117?source=rss------bug_bounty-5) 
+ - 💯February 3, 2024 - [Hunting for Business Logic Flaws A Bug Bounty Hunter’s Checklist](https://medium.com/@Land2Cyber/hunting-for-business-logic-flaws-a-bug-bounty-hunters-checklist-5a75ea45ada8?source=rss------bug_bounty-5) 
 
- - 💯February 2, 2024 - [Unraveling the Secrets of Cross-Site Request Forgery &lpar;CSRF&rpar; Attacks](https://medium.com/@Land2Cyber/unraveling-the-secrets-of-cross-site-request-forgery-csrf-attacks-9ecfbdda851b?source=rss------bug_bounty-5) 
+ - 💯February 3, 2024 - [Breaking the Chains Chaining Multiple Vulnerabilities for Maximum Impact](https://medium.com/@Land2Cyber/breaking-the-chains-chaining-multiple-vulnerabilities-for-maximum-impact-79db4c532bd0?source=rss------bug_bounty-5) 
 
- - 💯February 2, 2024 - [Exploiting Cross-Site Scripting &lpar;XSS&rpar; in Modern Web Applications](https://medium.com/@Land2Cyber/exploiting-cross-site-scripting-xss-in-modern-web-applications-1f3244d2f2e5?source=rss------bug_bounty-5) 
+ - 💯February 3, 2024 - [Exploring the World of API Security Tips for Bug Bounty Success](https://medium.com/@Land2Cyber/exploring-the-world-of-api-security-tips-for-bug-bounty-success-21af54a7b91f?source=rss------bug_bounty-5) 
 
- - 💯February 2, 2024 - [Common Web Application Security Vulnerabilities and How to Find Them](https://medium.com/@Land2Cyber/common-web-application-security-vulnerabilities-and-how-to-find-them-3524fa121761?source=rss------bug_bounty-5) 
+ - 💯February 2, 2024 - [How I was able to find PII of more than 15,000 People using the Directory Enumeration Tool…](https://medium.com/@neelmunot2003/how-i-was-able-to-find-pii-of-more-than-15-000-people-using-the-directory-enumeration-tool-7ac3e9a37983?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
