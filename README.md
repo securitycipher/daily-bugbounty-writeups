@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯February 5, 2024 - [“The Psychology of a Bug Bounty Hunter Understanding the Hacker Mindset”](https://medium.com/@Land2Cyber/the-psychology-of-a-bug-bounty-hunter-understanding-the-hacker-mindset-f0edaaa53b6b?source=rss------bug_bounty-5) 
+ - 💯February 6, 2024 - [“Web of Weaknesses Understanding and Exploiting Web Application Vulnerabilities”](https://medium.com/@Land2Cyber/web-of-weaknesses-understanding-and-exploiting-web-application-vulnerabilities-d5355c85ccc4?source=rss------bug_bounty-5) 
 
- - 💯February 5, 2024 - [“Web of Vulnerabilities A Comprehensive Guide to Web Application Security”](https://medium.com/@Land2Cyber/web-of-vulnerabilities-a-comprehensive-guide-to-web-application-security-cb356db6d1ee?source=rss------bug_bounty-5) 
+ - 💯February 6, 2024 - [“IoT Insecurities An Exploration of Bugs in Internet of Things Devices”](https://medium.com/@Land2Cyber/iot-insecurities-an-exploration-of-bugs-in-internet-of-things-devices-f3f34cf83c89?source=rss------bug_bounty-5) 
 
- - 💯February 5, 2024 - [Understanding Ransomware](https://medium.com/@paritoshblogs/understanding-ransomware-aa45e2c43bbb?source=rss------bug_bounty-5) 
+ - 💯February 6, 2024 - [Enhancing Network Security: Best Practices and Strategies](https://medium.com/@paritoshblogs/enhancing-network-security-best-practices-and-strategies-6fec2ef3f397?source=rss------bug_bounty-5) 
 
- - 💯February 4, 2024 - [6.5 Lab: Information disclosure in version control history | 2024](https://cyberw1ng.medium.com/6-5-lab-information-disclosure-in-version-control-history-2024-f886c7337cb7?source=rss------bug_bounty-5) 
+ - 💯February 6, 2024 - [“Bug Bounty War Stories Lessons Learned from the Frontlines”](https://medium.com/@Land2Cyber/bug-bounty-war-stories-lessons-learned-from-the-frontlines-2707f0f9fc2d?source=rss------bug_bounty-5) 
 
- - 💯February 4, 2024 - [TryHackMe | Bounty Hacker Walkthrough](https://medium.com/@utsavadhikari99/tryhackme-bounty-hacker-walkthrough-eb7d9de074e3?source=rss------bug_bounty-5) 
+ - 💯February 6, 2024 - [“Beyond the Basics Advanced Techniques for Bug Bounty Success”](https://medium.com/@Land2Cyber/beyond-the-basics-advanced-techniques-for-bug-bounty-success-89f47750813d?source=rss------bug_bounty-5) 
 
- - 💯February 4, 2024 - [Stored XSS into ‘onclick’ Event with Angle Brackets and Double Quotes HTML-Encoded and Single…](https://medium.com/@marduk.i.am/stored-xss-into-onclick-event-with-angle-brackets-and-double-quotes-html-encoded-and-single-002848f8deb1?source=rss------bug_bounty-5) 
+ - 💯February 6, 2024 - [“Bug Bounty Bootcamp A Comprehensive Guide for Beginners”](https://medium.com/@Land2Cyber/bug-bounty-bootcamp-a-comprehensive-guide-for-beginners-4d9a3ad4328d?source=rss------bug_bounty-5) 
 
- - 💯February 4, 2024 - [Creating a recon database with Flask, MongoDB, REST Api and ChatGPT — Part Two](https://medium.com/@aliraah/creating-a-recon-database-with-flask-mongodb-rest-api-and-chatgpt-part-two-468405eb3520?source=rss------bug_bounty-5) 
+ - 💯February 6, 2024 - [“API Adventures Navigating the Terrain of API Security for Bug Hunters”](https://medium.com/@Land2Cyber/api-adventures-navigating-the-terrain-of-api-security-for-bug-hunters-78a0475dcf2c?source=rss------bug_bounty-5) 
 
- - 💯February 4, 2024 - [Running a MITM on a Google Play App | Fintech Bug Bounty — Part 3](https://0x4kd.medium.com/running-a-mitm-on-a-google-play-app-fintech-bug-bounty-part-3-82ebdd852d07?source=rss------bug_bounty-5) 
+ - 💯February 6, 2024 - [“JavaScript Juggernauts Tackling Security Challenges in Client-Side Code”](https://medium.com/@Land2Cyber/javascript-juggernauts-tackling-security-challenges-in-client-side-code-01e426864a26?source=rss------bug_bounty-5) 
 
- - 💯February 4, 2024 - [“Bug Bounty Platforms Unveiled Choosing the Right Hunting Ground”](https://medium.com/@Land2Cyber/bug-bounty-platforms-unveiled-choosing-the-right-hunting-ground-968ff72e46fd?source=rss------bug_bounty-5) 
+ - 💯February 6, 2024 - [“Mobile Mayhem Uncovering Security Gaps in Mobile Apps”](https://medium.com/@Land2Cyber/mobile-mayhem-uncovering-security-gaps-in-mobile-apps-23a161eeac9e?source=rss------bug_bounty-5) 
 
- - 💯February 4, 2024 - [“Bridging the Gap The Symbiotic Relationship between Hackers and Organizations”](https://medium.com/@Land2Cyber/bridging-the-gap-the-symbiotic-relationship-between-hackers-and-organizations-a727c7645ae6?source=rss------bug_bounty-5) 
+ - 💯February 5, 2024 - [Reflected XSS into a Template Literal with Angle Brackets, Single, Double Quotes, Backslash, and…](https://medium.com/@marduk.i.am/reflected-xss-into-a-template-literal-with-angle-brackets-single-double-quotes-backslash-and-d5cf41f25b02?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
