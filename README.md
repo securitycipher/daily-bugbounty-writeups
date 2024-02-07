@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯February 6, 2024 - [“Web of Weaknesses Understanding and Exploiting Web Application Vulnerabilities”](https://medium.com/@Land2Cyber/web-of-weaknesses-understanding-and-exploiting-web-application-vulnerabilities-d5355c85ccc4?source=rss------bug_bounty-5) 
+ - 💯February 7, 2024 - [“Bug Bounty Collaboration Building Bridges Between Researchers and Organizations”](https://medium.com/@Land2Cyber/bug-bounty-collaboration-building-bridges-between-researchers-and-organizations-176bd4c20f70?source=rss------bug_bounty-5) 
 
- - 💯February 6, 2024 - [“IoT Insecurities An Exploration of Bugs in Internet of Things Devices”](https://medium.com/@Land2Cyber/iot-insecurities-an-exploration-of-bugs-in-internet-of-things-devices-f3f34cf83c89?source=rss------bug_bounty-5) 
+ - 💯February 7, 2024 - [Hacking the Supply Chain Exploring Security Risks in Third-Party Integrations”](https://medium.com/@Land2Cyber/hacking-the-supply-chain-exploring-security-risks-in-third-party-integrations-52aed5869eb8?source=rss------bug_bounty-5) 
 
- - 💯February 6, 2024 - [Enhancing Network Security: Best Practices and Strategies](https://medium.com/@paritoshblogs/enhancing-network-security-best-practices-and-strategies-6fec2ef3f397?source=rss------bug_bounty-5) 
+ - 💯February 7, 2024 - [“Bug Bounty Toolbox Essential Tools for Efficient Vulnerability Hunting”](https://medium.com/@Land2Cyber/bug-bounty-toolbox-essential-tools-for-efficient-vulnerability-hunting-f491ee442634?source=rss------bug_bounty-5) 
 
- - 💯February 6, 2024 - [“Bug Bounty War Stories Lessons Learned from the Frontlines”](https://medium.com/@Land2Cyber/bug-bounty-war-stories-lessons-learned-from-the-frontlines-2707f0f9fc2d?source=rss------bug_bounty-5) 
+ - 💯February 7, 2024 - [“Evasive Maneuvers Techniques for Evading Detection in Bug Bounty Hunting”](https://medium.com/@Land2Cyber/evasive-maneuvers-techniques-for-evading-detection-in-bug-bounty-hunting-82b500d993da?source=rss------bug_bounty-5) 
 
- - 💯February 6, 2024 - [“Beyond the Basics Advanced Techniques for Bug Bounty Success”](https://medium.com/@Land2Cyber/beyond-the-basics-advanced-techniques-for-bug-bounty-success-89f47750813d?source=rss------bug_bounty-5) 
+ - 💯February 7, 2024 - [“Browser Bugs Unleashed Discovering and Exploiting Browser Vulnerabilities”](https://medium.com/@Land2Cyber/browser-bugs-unleashed-discovering-and-exploiting-browser-vulnerabilities-fd314c88288a?source=rss------bug_bounty-5) 
 
- - 💯February 6, 2024 - [“Bug Bounty Bootcamp A Comprehensive Guide for Beginners”](https://medium.com/@Land2Cyber/bug-bounty-bootcamp-a-comprehensive-guide-for-beginners-4d9a3ad4328d?source=rss------bug_bounty-5) 
+ - 💯February 7, 2024 - [“Fuzzing Fundamentals A Practical Approach to Automated Vulnerability Discovery”](https://medium.com/@Land2Cyber/fuzzing-fundamentals-a-practical-approach-to-automated-vulnerability-discovery-1262f8206c55?source=rss------bug_bounty-5) 
 
- - 💯February 6, 2024 - [“API Adventures Navigating the Terrain of API Security for Bug Hunters”](https://medium.com/@Land2Cyber/api-adventures-navigating-the-terrain-of-api-security-for-bug-hunters-78a0475dcf2c?source=rss------bug_bounty-5) 
+ - 💯February 7, 2024 - [“The Power of Recon A Deep Dive into Bug Bounty Reconnaissance Techniques”](https://medium.com/@Land2Cyber/the-power-of-recon-a-deep-dive-into-bug-bounty-reconnaissance-techniques-9bfea7a1d993?source=rss------bug_bounty-5) 
 
- - 💯February 6, 2024 - [“JavaScript Juggernauts Tackling Security Challenges in Client-Side Code”](https://medium.com/@Land2Cyber/javascript-juggernauts-tackling-security-challenges-in-client-side-code-01e426864a26?source=rss------bug_bounty-5) 
+ - 💯February 6, 2024 - [CVE-2024-23222: Apple WebKit’s Zero-Day Vulnerability](https://medium.com/@elniak/cve-2024-23222-apple-webkits-zero-day-vulnerability-83109de9ddee?source=rss------bug_bounty-5) 
 
- - 💯February 6, 2024 - [“Mobile Mayhem Uncovering Security Gaps in Mobile Apps”](https://medium.com/@Land2Cyber/mobile-mayhem-uncovering-security-gaps-in-mobile-apps-23a161eeac9e?source=rss------bug_bounty-5) 
+ - 💯February 6, 2024 - [Symlink Sabotage: ZIPping Through Web Security. &lpar;LFI Lab&rpar;](https://medium.com/@josh.beck2006/symlink-sabotage-zipping-through-web-security-lfi-lab-ca20e2d30c8d?source=rss------bug_bounty-5) 
 
- - 💯February 5, 2024 - [Reflected XSS into a Template Literal with Angle Brackets, Single, Double Quotes, Backslash, and…](https://medium.com/@marduk.i.am/reflected-xss-into-a-template-literal-with-angle-brackets-single-double-quotes-backslash-and-d5cf41f25b02?source=rss------bug_bounty-5) 
+ - 💯February 6, 2024 - [Unveiling CVE-2024–0953: Firefox iOS Open Redirect Vulnerability](https://lohigowda.medium.com/unveiling-cve-2024-0953-firefox-ios-open-redirect-vulnerability-57533efb4cf4?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
