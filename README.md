@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
+ - 💯February 8, 2024 - [Unlocking Your Potential: Elevating Your Bug Bounty Game**](https://medium.com/@mrraghavop12/unlocking-your-potential-elevating-your-bug-bounty-game-5cbf22c4de00?source=rss------bug_bounty-5) 
+
+ - 💯February 7, 2024 - [How To Get Started With LLM Hacking? — A Beginner’s Guide](https://medium.com/@hetisdemerckx/how-to-get-started-with-llm-hacking-a-beginners-guide-273af158b4b0?source=rss------bug_bounty-5) 
+
+ - 💯February 7, 2024 - [Rate Limiting: What It Is And Why It Matters in Bug Bounty](https://infosecwriteups.com/rate-limiting-what-it-is-and-why-it-matters-in-bug-bounty-b0d2ce574049?source=rss------bug_bounty-5) 
+
+ - 💯February 7, 2024 - [I have hacked around 300 website in 1 Month](https://systemweakness.com/i-have-hacked-around-300-website-in-1-month-30417030560b?source=rss------bug_bounty-5) 
+
+ - 💯February 7, 2024 - [7.5 Lab: URL-based access control can be circumvented | 2024](https://cyberw1ng.medium.com/7-5-lab-url-based-access-control-can-be-circumvented-2024-f101542e9402?source=rss------bug_bounty-5) 
+
+ - 💯February 7, 2024 - [Web3 Security: In-Depth](https://medium.com/coinmonks/web3-security-in-depth-e102fb262a3a?source=rss------bug_bounty-5) 
+
+ - 💯February 7, 2024 - [My first bug | Html injection|](https://medium.com/@pandeyrishu621/my-first-bug-html-injection-82bbad239934?source=rss------bug_bounty-5) 
+
+ - 💯February 7, 2024 - [Revealing a Security Snag: Uncovering Sensitive Data Exposure in an Apple Application](https://medium.com/@jazdprince/revealing-a-security-snag-uncovering-sensitive-data-exposure-in-an-apple-application-c93da97cae0d?source=rss------bug_bounty-5) 
+
+ - 💯February 7, 2024 - [How I Find Open Redirect Bug — Bug Bounty Tuesday](https://medium.com/@kerstan/how-i-find-open-redirect-bug-bug-bounty-tuesday-40cc560c9cec?source=rss------bug_bounty-5) 
+
  - 💯February 7, 2024 - [“Bug Bounty Collaboration Building Bridges Between Researchers and Organizations”](https://medium.com/@Land2Cyber/bug-bounty-collaboration-building-bridges-between-researchers-and-organizations-176bd4c20f70?source=rss------bug_bounty-5) 
-
- - 💯February 7, 2024 - [Hacking the Supply Chain Exploring Security Risks in Third-Party Integrations”](https://medium.com/@Land2Cyber/hacking-the-supply-chain-exploring-security-risks-in-third-party-integrations-52aed5869eb8?source=rss------bug_bounty-5) 
-
- - 💯February 7, 2024 - [“Bug Bounty Toolbox Essential Tools for Efficient Vulnerability Hunting”](https://medium.com/@Land2Cyber/bug-bounty-toolbox-essential-tools-for-efficient-vulnerability-hunting-f491ee442634?source=rss------bug_bounty-5) 
-
- - 💯February 7, 2024 - [“Evasive Maneuvers Techniques for Evading Detection in Bug Bounty Hunting”](https://medium.com/@Land2Cyber/evasive-maneuvers-techniques-for-evading-detection-in-bug-bounty-hunting-82b500d993da?source=rss------bug_bounty-5) 
-
- - 💯February 7, 2024 - [“Browser Bugs Unleashed Discovering and Exploiting Browser Vulnerabilities”](https://medium.com/@Land2Cyber/browser-bugs-unleashed-discovering-and-exploiting-browser-vulnerabilities-fd314c88288a?source=rss------bug_bounty-5) 
-
- - 💯February 7, 2024 - [“Fuzzing Fundamentals A Practical Approach to Automated Vulnerability Discovery”](https://medium.com/@Land2Cyber/fuzzing-fundamentals-a-practical-approach-to-automated-vulnerability-discovery-1262f8206c55?source=rss------bug_bounty-5) 
-
- - 💯February 7, 2024 - [“The Power of Recon A Deep Dive into Bug Bounty Reconnaissance Techniques”](https://medium.com/@Land2Cyber/the-power-of-recon-a-deep-dive-into-bug-bounty-reconnaissance-techniques-9bfea7a1d993?source=rss------bug_bounty-5) 
-
- - 💯February 6, 2024 - [CVE-2024-23222: Apple WebKit’s Zero-Day Vulnerability](https://medium.com/@elniak/cve-2024-23222-apple-webkits-zero-day-vulnerability-83109de9ddee?source=rss------bug_bounty-5) 
-
- - 💯February 6, 2024 - [Symlink Sabotage: ZIPping Through Web Security. &lpar;LFI Lab&rpar;](https://medium.com/@josh.beck2006/symlink-sabotage-zipping-through-web-security-lfi-lab-ca20e2d30c8d?source=rss------bug_bounty-5) 
-
- - 💯February 6, 2024 - [Unveiling CVE-2024–0953: Firefox iOS Open Redirect Vulnerability](https://lohigowda.medium.com/unveiling-cve-2024-0953-firefox-ios-open-redirect-vulnerability-57533efb4cf4?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
