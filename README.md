@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯February 9, 2024 - [JSON CSRF in Microsoft Bing Maps Collections](https://jayateerthag.medium.com/json-csrf-in-microsoft-bing-maps-collections-74afc2b197d5?source=rss------bug_bounty-5) 
+ - 💯February 10, 2024 - [Unlocking Creativity: TCS HackQuest S8 Unveiled - Round 1](https://medium.com/@Dark_D3v1l/unlocking-creativity-tcs-hackquest-s8-unveiled-round-1-ffc02c753aaf?source=rss------bug_bounty-5) 
 
- - 💯February 9, 2024 - [Securing Biggest Electronic Brand Worth Me My 2nd 4 fig. $2259 Bounty!](https://medium.com/@manan_sanghvi/securing-biggest-electronic-brand-worth-me-my-2nd-4-fig-2259-bounty-a053d2053655?source=rss------bug_bounty-5) 
+ - 💯February 10, 2024 - [From a customer to a ‘system owner’](https://medium.com/@mmaulanaabdullah/from-a-customer-to-a-system-owner-ce4da3f6d56c?source=rss------bug_bounty-5) 
 
- - 💯February 9, 2024 - [Web Security 101 : Cross-Site Scripting &lpar;XSS&rpar; Attacks](https://iaraoz.medium.com/web-security-101-cross-site-scripting-xss-attacks-5b6c6e8020c7?source=rss------bug_bounty-5) 
+ - 💯February 9, 2024 - [Beyond the Firewall: Finding a Stored XSS in Hacker101 CTF](https://medium.com/@crashwire1/beyond-the-firewall-finding-a-stored-xss-in-hacker101-ctf-9b90df12e42e?source=rss------bug_bounty-5) 
 
- - 💯February 8, 2024 - [Easy way to get privilege escalation](https://medium.com/@Rzizah/easy-way-to-get-privilege-escalation-2c0a96862301?source=rss------bug_bounty-5) 
+ - 💯February 9, 2024 - [E: Package ‘libgtkglext1’ has no installation candidate | anydesk : Depends: libgtkglext1 but it is…](https://medium.com/@sherlock297/e-package-libgtkglext1-has-no-installation-candidate-anydesk-depends-libgtkglext1-but-it-is-7eef2877f78d?source=rss------bug_bounty-5) 
 
- - 💯February 8, 2024 - [7.6 Lab: Method-based access control can be circumvented | 2024](https://cyberw1ng.medium.com/7-6-lab-method-based-access-control-can-be-circumvented-2024-edb5df550a66?source=rss------bug_bounty-5) 
+ - 💯February 9, 2024 - [7.7 Lab: Multi-step process with no access control on one step | 2024](https://cyberw1ng.medium.com/7-7-lab-multi-step-process-with-no-access-control-on-one-step-2024-2b338dfd36ea?source=rss------bug_bounty-5) 
 
- - 💯February 8, 2024 - [Chaining Subprober + Subfinder To Your Bug Bounty Recon.](https://medium.com/@Ajakcybersecurity/chaining-subprober-subfinder-to-your-bug-bounty-recon-017151d1ffce?source=rss------bug_bounty-5) 
+ - 💯February 9, 2024 - [Creating a recon database with Flask, MongoDB, REST Api and ChatGPT — Part Three](https://medium.com/@aliraah/creating-a-recon-database-with-flask-mongodb-rest-api-and-chatgpt-part-three-cee1633de873?source=rss------bug_bounty-5) 
 
- - 💯February 8, 2024 - [Lenfi V2 to Begin Community-Driven Bug Bounty Program Now](https://medium.com/@lenfi/lenfi-v2-to-begin-community-driven-bug-bounty-program-now-c2d312203df2?source=rss------bug_bounty-5) 
+ - 💯February 9, 2024 - [CVE-2024–1207: A Deep Dive into WordPress Plugin Vulnerability](https://systemweakness.com/cve-2024-1207-a-deep-dive-into-wordpress-plugin-vulnerability-3b12891813e6?source=rss------bug_bounty-5) 
 
- - 💯February 8, 2024 - [Unlocking Your Potential: Elevating Your Bug Bounty Game**](https://medium.com/@mrraghavop12/unlocking-your-potential-elevating-your-bug-bounty-game-5cbf22c4de00?source=rss------bug_bounty-5) 
+ - 💯February 9, 2024 - [Bug Bounty- Understanding What It Is and Why It Matters](https://medium.com/@Land2Cyber/bug-bounty-understanding-what-it-is-and-why-it-matters-384c43a6361d?source=rss------bug_bounty-5) 
 
- - 💯February 7, 2024 - [How To Get Started With LLM Hacking? — A Beginner’s Guide](https://medium.com/@hetisdemerckx/how-to-get-started-with-llm-hacking-a-beginners-guide-273af158b4b0?source=rss------bug_bounty-5) 
+ - 💯February 9, 2024 - [Demystifying Bug Bounties Understanding How They Work](https://medium.com/@Land2Cyber/demystifying-bug-bounties-understanding-how-they-work-7ad701d7df23?source=rss------bug_bounty-5) 
 
- - 💯February 7, 2024 - [Rate Limiting: What It Is And Why It Matters in Bug Bounty](https://infosecwriteups.com/rate-limiting-what-it-is-and-why-it-matters-in-bug-bounty-b0d2ce574049?source=rss------bug_bounty-5) 
+ - 💯February 9, 2024 - [Bug Bounty Benefits-Why You Need a Bug Bounty Program](https://medium.com/@Land2Cyber/bug-bounty-benefits-why-you-need-a-bug-bounty-program-37d5df65c6f0?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
