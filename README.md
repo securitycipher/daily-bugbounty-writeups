@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯February 15, 2024 - [“The Human Factor Social Engineering Attacks and Defensive Strategies”](https://medium.com/@Land2Cyber/the-human-factor-social-engineering-attacks-and-defensive-strategies-28688e4da7aa?source=rss------bug_bounty-5) 
+ - 💯February 16, 2024 - [The Importance of Sharing Cybersecurity Knowledge on Reading Platforms](https://medium.com/@paritoshblogs/the-importance-of-sharing-cybersecurity-knowledge-on-reading-platforms-34a474a51522?source=rss------bug_bounty-5) 
 
- - 💯February 15, 2024 - [“Security Flaws in the Digital Supply Chain From Manufacturer to End User”](https://medium.com/@Land2Cyber/security-flaws-in-the-digital-supply-chain-from-manufacturer-to-end-user-7763e196e305?source=rss------bug_bounty-5) 
+ - 💯February 16, 2024 - [Researcher’s Experience — Bug Bounty Program](https://medium.com/@_crac/researchers-experience-bug-bounty-program-7d588c363fa6?source=rss------bug_bounty-5) 
 
- - 💯February 15, 2024 - [“Beyond the Firewall Identifying Blind Spots in Network Security”](https://medium.com/@Land2Cyber/beyond-the-firewall-identifying-blind-spots-in-network-security-9a6df9a07fbb?source=rss------bug_bounty-5) 
+ - 💯February 15, 2024 - [CVE-2024–24142 Exploitation &amp; PoC](https://medium.com/@SentinelXTeam/cve-2024-24142-exploitation-poc-045021596804?source=rss------bug_bounty-5) 
 
- - 💯February 15, 2024 - [“Shadow IT Uncovering Hidden Risks in Unauthorized Software and Services”](https://medium.com/@Land2Cyber/shadow-it-uncovering-hidden-risks-in-unauthorized-software-and-services-5a527039e0df?source=rss------bug_bounty-5) 
+ - 💯February 15, 2024 - [Edu-Hack: How a Simple Request Compromised Entire Classrooms Users](https://uchihamrx.medium.com/edu-hack-how-a-simple-request-compromised-entire-classrooms-users-7cefc1225654?source=rss------bug_bounty-5) 
 
- - 💯February 15, 2024 - [“Zero-Day Exploits Unveiled Anatomy of a Silent Threat”](https://medium.com/@Land2Cyber/zero-day-exploits-unveiled-anatomy-of-a-silent-threat-c35726ad973c?source=rss------bug_bounty-5) 
+ - 💯February 15, 2024 - [Behind the Screen: The Forgotten Password Feature That Almost Failed Us](https://medium.com/@elcapitano7x/behind-the-screen-the-forgotten-password-feature-that-almost-failed-us-a3e67e103cc5?source=rss------bug_bounty-5) 
 
- - 💯February 15, 2024 - [“The Achilles’ Heel of IoT Security Vulnerabilities in Connected Devices”](https://medium.com/@Land2Cyber/the-achilles-heel-of-iot-security-vulnerabilities-in-connected-devices-4ba9db7854b0?source=rss------bug_bounty-5) 
+ - 💯February 15, 2024 - [The effectiveness of employing BChecks to uncover significant secrets](https://xelkomy.medium.com/the-effectiveness-of-employing-bchecks-to-uncover-significant-secrets-788e15a8a952?source=rss------bug_bounty-5) 
 
- - 💯February 15, 2024 - [“Riding the Wave of Ransomware Protecting Against Evolving Threats”](https://medium.com/@Land2Cyber/riding-the-wave-of-ransomware-protecting-against-evolving-threats-b939d401cf42?source=rss------bug_bounty-5) 
+ - 💯February 15, 2024 - [Magic No More: Exposing Flaws in Magic Link Authentication](https://medium.com/@elcapitano7x/magic-no-more-exposing-flaws-in-magic-link-authentication-7cede724382f?source=rss------bug_bounty-5) 
 
- - 💯February 15, 2024 - [“Decrypting Data Breaches Lessons Learned and Preventive Measures”](https://medium.com/@Land2Cyber/decrypting-data-breaches-lessons-learned-and-preventive-measures-8112ea48dda4?source=rss------bug_bounty-5) 
+ - 💯February 15, 2024 - [Stored XSS with HTTP only Session Cookies](https://medium.com/techiepedia/stored-xss-with-http-only-session-cookies-32e5eb121384?source=rss------bug_bounty-5) 
 
- - 💯February 15, 2024 - [“Dangerous Liaisons Understanding the Risks of Third-Party Integrations”](https://medium.com/@Land2Cyber/dangerous-liaisons-understanding-the-risks-of-third-party-integrations-85ebfb9d91d3?source=rss------bug_bounty-5) 
+ - 💯February 15, 2024 - [Portswigger — Command Injection All Labs Walkthrough&lpar;Bug Bounty Prep&rpar;[by dollarboysushil]](https://infosecwriteups.com/portswigger-command-injection-all-labs-walkthrough-bug-bounty-prep-by-dollarboysushil-e836421212cf?source=rss------bug_bounty-5) 
 
- - 💯February 15, 2024 - [“The Silent Threat Exploring Hidden Vulnerabilities in Legacy Systems”](https://medium.com/@Land2Cyber/the-silent-threat-exploring-hidden-vulnerabilities-in-legacy-systems-ed2a945f11a0?source=rss------bug_bounty-5) 
+ - 💯February 15, 2024 - [HTML Injection in Mail BOX](https://codingninjablogs.tech/html-injection-in-mail-box-c963a8c66d69?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
