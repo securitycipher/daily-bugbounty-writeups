@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯February 17, 2024 - [0Day SQLi Discovered during internal PenTesting](https://medium.com/@SentinelXTeam/0day-sqli-discovered-during-internal-pentesting-0d00db3147c5?source=rss------bug_bounty-5) 
+ - 💯February 18, 2024 - [My New Tool For Information Finding](https://medium.com/@mrraghavop12/my-new-tool-for-information-finding-92a205a6e305?source=rss------bug_bounty-5) 
 
- - 💯February 17, 2024 - [Mengintip database Website Bimbel di Indonesia](https://uzet.medium.com/mengintip-database-website-bimbel-di-indonesia-1d3620ce438d?source=rss------bug_bounty-5) 
+ - 💯February 18, 2024 - [Introduction to API Testing — Server-Side Parameter Pollution](https://medium.com/@harry.hphu/introduction-to-api-testing-server-side-parameter-pollution-52dc5c170d19?source=rss------bug_bounty-5) 
 
- - 💯February 17, 2024 - [Detecting and exploiting limit overrun race conditions with Turbo Intruder](https://cyberw1ng.medium.com/detecting-and-exploiting-limit-overrun-race-conditions-with-turbo-intruder-424bed12f2cf?source=rss------bug_bounty-5) 
+ - 💯February 18, 2024 - [Introduction to API Testing — Mass Assignment vulnerabilities](https://medium.com/@harry.hphu/introduction-to-api-testing-mass-assignment-vulnerabilities-1643f75d1d20?source=rss------bug_bounty-5) 
 
- - 💯February 16, 2024 - [how i made easy information disclosure bugs in graphql](https://medium.com/@eyaalgabay/how-i-made-easy-information-disclosure-bugs-in-graphql-82284b05d7b4?source=rss------bug_bounty-5) 
+ - 💯February 18, 2024 - [Introduction to API Testing — API Discovery and Interaction](https://medium.com/@harry.hphu/introduction-to-api-testing-api-discovery-and-interaction-705248fc089e?source=rss------bug_bounty-5) 
 
- - 💯February 16, 2024 - [8.6 Lab: Remote code execution via polyglot web shell upload | 2024](https://cyberw1ng.medium.com/8-6-lab-remote-code-execution-via-polyglot-web-shell-upload-2024-5646ef951c0b?source=rss------bug_bounty-5) 
+ - 💯February 18, 2024 - [Introduction to API Testing — Reconnaissance](https://medium.com/@harry.hphu/introduction-to-api-testing-reconnaissance-7b471f4f4e73?source=rss------bug_bounty-5) 
 
- - 💯February 16, 2024 - [Mastering CSRF: A Comprehensive Guide to Cross-Site Request Forgery](https://medium.com/@elniak/mastering-csrf-a-comprehensive-guide-to-cross-site-request-forgery-a380aca0eab0?source=rss------bug_bounty-5) 
+ - 💯February 18, 2024 - [Easy automation of bug bounty using Ethred](https://medium.com/@eyaalgabay/automate-bug-bounty-using-ethred-de042fb19926?source=rss------bug_bounty-5) 
 
- - 💯February 16, 2024 - [Mastering Cross-Site Scripting &lpar;XSS&rpar;: Risks, Detection, and Prevention](https://medium.com/@elniak/mastering-cross-site-scripting-xss-risks-detection-and-prevention-3cee199d2fff?source=rss------bug_bounty-5) 
+ - 💯February 18, 2024 - [Apa Itu Security Operation Center &lpar;SOC&rpar;](https://medium.com/@yasminramadini/apa-itu-security-operation-center-soc-345f56cd85f3?source=rss------bug_bounty-5) 
 
- - 💯February 16, 2024 - [Mastering SQLMap: A Comprehensive Guide for Cybersecurity Enthusiasts](https://medium.com/@elniak/mastering-sqlmap-a-comprehensive-guide-for-cybersecurity-enthusiasts-4e224b42396a?source=rss------bug_bounty-5) 
+ - 💯February 18, 2024 - [HackTheBox — SQLMap Essentials](https://medium.com/@harry.hphu/hackthebox-sqlmap-essentials-72eaa7a13596?source=rss------bug_bounty-5) 
 
- - 💯February 16, 2024 - [Guide: ProjectDiscovery’s cvemap to nuclei template mapping.](https://medium.com/@matejsmycka/guide-projectdiscoverys-cvemap-to-nuclei-template-mapping-5535c2934811?source=rss------bug_bounty-5) 
+ - 💯February 17, 2024 - [MonikerLink Meltdown: Demystifying CVE-2024–21413 and Dodging Outlook’s Booby Trap](https://medium.com/@chinamayjoshi/monikerlink-meltdown-demystifying-cve-2024-21413-and-dodging-outlooks-booby-trap-43ba52c4b458?source=rss------bug_bounty-5) 
 
- - 💯February 16, 2024 - [My First Account Takeover Via Password Reset Poisoning](https://medium.com/@cyberpro151/my-first-account-takeover-via-password-reset-poisoning-7c35baadfbe3?source=rss------bug_bounty-5) 
+ - 💯February 17, 2024 - [Hacking the Dutch Government](https://medium.com/@jackson_80133/hacking-the-dutch-government-153678a191c0?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
