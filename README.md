@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯February 20, 2024 - [9.4 Lab: Single-endpoint race conditions | 2024](https://cyberw1ng.medium.com/9-4-lab-single-endpoint-race-conditions-2024-40b12d1ae4be?source=rss------bug_bounty-5) 
+ - 💯February 21, 2024 - [Understanding Wazuh](https://medium.com/@paritoshblogs/understanding-wazuh-b4748d21c6ba?source=rss------bug_bounty-5) 
 
- - 💯February 20, 2024 - [Apa Itu Cross Site Scripting? Jenis, Dampak, Dan Pencegahannya](https://medium.com/@yasminramadini/apa-itu-cross-site-scripting-jenis-dampak-dan-pencegahannya-e507eedb43f8?source=rss------bug_bounty-5) 
+ - 💯February 21, 2024 - [“The Perils of Public Wi-Fi Security Vulnerabilities and Safe Surfing Practices”](https://medium.com/@Land2Cyber/the-perils-of-public-wi-fi-security-vulnerabilities-and-safe-surfing-practices-61f70ab14ca0?source=rss------bug_bounty-5) 
 
- - 💯February 19, 2024 - [Web Cache Poisoing leads to ATO &lpar;Account takeover&rpar;](https://medium.com/@hoosgamer/web-cache-poisoing-leads-to-ato-account-takeover-2522b4583a97?source=rss------bug_bounty-5) 
+ - 💯February 21, 2024 - [Absolute Beginners Guide For Finding P4 Bugs &lpar;With Real Example!&rpar;-Part 2](https://medium.com/@avbhijitdutta99/absolute-beginners-guide-for-finding-p4-bugs-with-real-example-part-2-c4a9d9c7af43?source=rss------bug_bounty-5) 
 
- - 💯February 19, 2024 - [Dorking-Pentesting: Create Your Own Automated Pentesting Tools](https://medium.com/@elniak/dorking-pentesting-create-your-own-automated-pentesting-tools-11134114c2b7?source=rss------bug_bounty-5) 
+ - 💯February 21, 2024 - [“Biometric Authentication Balancing Convenience with Security Risks”](https://medium.com/@Land2Cyber/biometric-authentication-balancing-convenience-with-security-risks-02fa5054d893?source=rss------bug_bounty-5) 
 
- - 💯February 19, 2024 - [Absolute Beginners Guide For Finding P4 Bugs -Part 1](https://medium.com/@avbhijitdutta99/absolute-beginners-guide-for-finding-p4-bugs-part-1-5585cc94ac8b?source=rss------bug_bounty-5) 
+ - 💯February 21, 2024 - [10 Kesalahan Coding Yang Membuat Aplikasi Kurang Aman](https://medium.com/@yasminramadini/10-kesalahan-coding-yang-membuat-aplikasi-kurang-aman-77da9d768594?source=rss------bug_bounty-5) 
 
- - 💯February 19, 2024 - [How to Find First Bug &lpar;For Beginners&rpar;](https://hackerhq.medium.com/how-to-find-first-bug-for-beginners-22a9177e94a0?source=rss------bug_bounty-5) 
+ - 💯February 20, 2024 - [Response Manipulation leads to Bypassing the OTP email verification](https://kiraadx.medium.com/response-manipulation-leads-to-bypassing-the-otp-email-verification-3107d558e8a5?source=rss------bug_bounty-5) 
 
- - 💯February 19, 2024 - [Android Architecture Components: Android Pentesting](https://bot2root.medium.com/android-architecture-components-android-pentesting-1279e35c2d32?source=rss------bug_bounty-5) 
+ - 💯February 20, 2024 - [Breach the Build: Exploiting Jenkins &lpar;CVE-2024–23897&rpar;](https://medium.com/@josh.beck2006/breach-the-build-exploiting-jenkins-cve-2024-23897-f2ecc415f9bf?source=rss------bug_bounty-5) 
 
- - 💯February 19, 2024 - [Searching industrial infrastructure with Netlas.io](https://netlas.medium.com/searching-industrial-infrastructure-with-netlas-io-49c08ca519a2?source=rss------bug_bounty-5) 
+ - 💯February 20, 2024 - [How easy it is to find Private Info on Google](https://medium.com/@lochana8723/mastering-osint-gold-mines-a-guide-to-google-dorking-for-bug-bounty-success-e1f2acbbf4f2?source=rss------bug_bounty-5) 
 
- - 💯February 19, 2024 - [Unlocking Creativity: TCS HackQuest S8 Unveiled — Round 2](https://medium.com/@Dark_D3v1l/unlocking-creativity-tcs-hackquest-s8-unveiled-round-2-a311e68becd4?source=rss------bug_bounty-5) 
+ - 💯February 20, 2024 - [How  I Discovering the Origin IP In Bug Bounty — Bug Bounty Tuesday](https://medium.com/@kerstan/hou-i-discovering-the-origin-ip-in-bug-bounty-bug-bounty-tuesday-47fa16c4ef34?source=rss------bug_bounty-5) 
 
- - 💯February 19, 2024 - [The Ultimate Guide to Top Bug Bounty Platforms in 2024](https://medium.com/@crawsecurity/the-ultimate-guide-to-top-bug-bounty-platforms-in-2024-6934a3db42d2?source=rss------bug_bounty-5) 
+ - 💯February 20, 2024 - [My Unbelievable Hack into HR Admin — A Bug Bounty Tale!!!](https://medium.com/@ratnadip1998/my-unbelievable-hack-into-hr-admin-a-bug-bounty-tale-853338770d8c?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
