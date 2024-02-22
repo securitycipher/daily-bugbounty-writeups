@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯February 21, 2024 - [Understanding Wazuh](https://medium.com/@paritoshblogs/understanding-wazuh-b4748d21c6ba?source=rss------bug_bounty-5) 
+ - 💯February 22, 2024 - [LLM AI Security Checklist](https://securitycipher.medium.com/llm-ai-security-checklist-06ce587d42fa?source=rss------bug_bounty-5) 
 
- - 💯February 21, 2024 - [“The Perils of Public Wi-Fi Security Vulnerabilities and Safe Surfing Practices”](https://medium.com/@Land2Cyber/the-perils-of-public-wi-fi-security-vulnerabilities-and-safe-surfing-practices-61f70ab14ca0?source=rss------bug_bounty-5) 
+ - 💯February 22, 2024 - [everPay v2.0 Beta Launch: Report Bugs to Get Airdrop Rewards](https://news.ever.vision/everpay-v2-0-beta-launch-report-bugs-to-get-airdrop-rewards-814e915cd7a6?source=rss------bug_bounty-5) 
 
- - 💯February 21, 2024 - [Absolute Beginners Guide For Finding P4 Bugs &lpar;With Real Example!&rpar;-Part 2](https://medium.com/@avbhijitdutta99/absolute-beginners-guide-for-finding-p4-bugs-with-real-example-part-2-c4a9d9c7af43?source=rss------bug_bounty-5) 
+ - 💯February 21, 2024 - [Path Traversal — Server-side vulnerabilities](https://onyxwizard.medium.com/path-traversal-part-1-server-side-vulnerabilities-e1d552f2db73?source=rss------bug_bounty-5) 
 
- - 💯February 21, 2024 - [“Biometric Authentication Balancing Convenience with Security Risks”](https://medium.com/@Land2Cyber/biometric-authentication-balancing-convenience-with-security-risks-02fa5054d893?source=rss------bug_bounty-5) 
+ - 💯February 21, 2024 - [How I get my first 3 bugs &lpar;Not duplicate :&rpar;&rpar;](https://medium.com/@mohamed.yasser442200/how-i-get-my-first-3-bugs-not-duplicate-7e58b5c4a4d1?source=rss------bug_bounty-5) 
 
- - 💯February 21, 2024 - [10 Kesalahan Coding Yang Membuat Aplikasi Kurang Aman](https://medium.com/@yasminramadini/10-kesalahan-coding-yang-membuat-aplikasi-kurang-aman-77da9d768594?source=rss------bug_bounty-5) 
+ - 💯February 21, 2024 - [Mastering Kite Runner: The Ultimate API Penetration Testing Guide](https://medium.com/@elniak/mastering-kite-runner-the-ultimate-api-penetration-testing-guide-f7338249ac94?source=rss------bug_bounty-5) 
 
- - 💯February 20, 2024 - [Response Manipulation leads to Bypassing the OTP email verification](https://kiraadx.medium.com/response-manipulation-leads-to-bypassing-the-otp-email-verification-3107d558e8a5?source=rss------bug_bounty-5) 
+ - 💯February 21, 2024 - [$500 Bounty on Reflected XSS on Shopify](https://medium.com/bug-bounty-writeups/500-bounty-on-reflected-xss-on-shopify-083925879077?source=rss------bug_bounty-5) 
 
- - 💯February 20, 2024 - [Breach the Build: Exploiting Jenkins &lpar;CVE-2024–23897&rpar;](https://medium.com/@josh.beck2006/breach-the-build-exploiting-jenkins-cve-2024-23897-f2ecc415f9bf?source=rss------bug_bounty-5) 
+ - 💯February 21, 2024 - [Bug Bounty Öğrenme Serüvenim 3](https://medium.com/@oksuzkayra16/bug-bounty-%C3%B6%C4%9Frenme-ser%C3%BCvenim-3-14691e45dadd?source=rss------bug_bounty-5) 
 
- - 💯February 20, 2024 - [How easy it is to find Private Info on Google](https://medium.com/@lochana8723/mastering-osint-gold-mines-a-guide-to-google-dorking-for-bug-bounty-success-e1f2acbbf4f2?source=rss------bug_bounty-5) 
+ - 💯February 21, 2024 - [Static JS analysis](https://medium.com/@mrflash403/static-js-analysis-1383a7bf22c7?source=rss------bug_bounty-5) 
 
- - 💯February 20, 2024 - [How  I Discovering the Origin IP In Bug Bounty — Bug Bounty Tuesday](https://medium.com/@kerstan/hou-i-discovering-the-origin-ip-in-bug-bounty-bug-bounty-tuesday-47fa16c4ef34?source=rss------bug_bounty-5) 
+ - 💯February 21, 2024 - [#8.TryHackMe Series writeups: tomghost](https://cyb3rmind.medium.com/8-tryhackme-series-writeups-tomghost-4d25dda3d059?source=rss------bug_bounty-5) 
 
- - 💯February 20, 2024 - [My Unbelievable Hack into HR Admin — A Bug Bounty Tale!!!](https://medium.com/@ratnadip1998/my-unbelievable-hack-into-hr-admin-a-bug-bounty-tale-853338770d8c?source=rss------bug_bounty-5) 
+ - 💯February 21, 2024 - [Unlocking Hidden Treasures: Why Testing 404 Not Found in Bug Bounties Matters](https://medium.com/@TH3B4ND1T/unlocking-hidden-treasures-why-testing-404-not-found-in-bug-bounties-matters-b015e019100d?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
