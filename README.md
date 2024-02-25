@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯February 23, 2024 - [A Pen worth 80K &lpar;BBP#2&rpar;](https://infosecwriteups.com/a-pen-worth-80k-bbp-2-dceb0db18366?source=rss------bug_bounty-5) 
+ - 💯February 25, 2024 - [Html-Injection [ Bug Bounty ]](https://medium.com/@rhashibur75/html-injection-bug-bounty-a41f87217118?source=rss------bug_bounty-5) 
 
- - 💯February 23, 2024 - [From CRLF Injection to XSS: Elevating the Stakes in Apple iTunes Security](https://xelkomy.medium.com/from-crlf-injection-to-xss-elevating-the-stakes-in-apple-itunes-security-597dc435fd82?source=rss------bug_bounty-5) 
+ - 💯February 25, 2024 - [Create Your Own File Extension](https://medium.com/@paritoshblogs/create-your-own-file-extension-fa484c677590?source=rss------bug_bounty-5) 
 
- - 💯February 23, 2024 - [Unveiling Bug Bounties: Balancing the Scale of Application Security](https://sushantkatare.medium.com/unveiling-bug-bounties-balancing-the-scale-of-application-security-be5645395101?source=rss------bug_bounty-5) 
+ - 💯February 25, 2024 - [Business Logic Error in the Comment Section of a Porn site](https://medium.com/@vflexo/business-logic-error-in-the-comment-section-of-a-porn-site-42643f66dfee?source=rss------bug_bounty-5) 
 
- - 💯February 23, 2024 - [Hacking Web Meeting/Webinar App](https://ronak-9889.medium.com/hacking-web-meeting-webinar-app-1cb31c648752?source=rss------bug_bounty-5) 
+ - 💯February 24, 2024 - [Best Approach to active Directory: 2](https://medium.com/@anekantsinghai/best-approach-to-active-directory-2-b32a8bb2be7e?source=rss------bug_bounty-5) 
 
- - 💯February 23, 2024 - [How Automation Detected Default Admin Credential Worth $500](https://vijetareigns.medium.com/how-automation-detected-default-admin-credential-worth-500-d6c09719d307?source=rss------bug_bounty-5) 
+ - 💯February 24, 2024 - [Explaining and exploiting open redirect vulnerabilities](https://medium.com/@R00tendo/explaining-and-exploiting-open-redirect-vulnerabilities-67dd825e2c49?source=rss------bug_bounty-5) 
 
- - 💯February 23, 2024 - [Shodan - “Unauthorized access to setup panel”](https://medium.com/@bug.hun3r/shodan-power-unauthorized-access-to-setup-panel-c64bd63f9b3e?source=rss------bug_bounty-5) 
+ - 💯February 24, 2024 - [How I Got $5,000 for Out-of-Scope XSS](https://7odamoo.medium.com/how-i-got-5-000-for-out-of-scope-xss-f96938a8c561?source=rss------bug_bounty-5) 
 
- - 💯February 23, 2024 - [10.3 Lab: SSRF with blacklist-based input filter | 2024](https://cyberw1ng.medium.com/10-3-lab-ssrf-with-blacklist-based-input-filter-2024-9a7972ab7e8f?source=rss------bug_bounty-5) 
+ - 💯February 24, 2024 - [Ethernaut Challenge Level 16: Solution &lpar;Preservation&rpar;](https://shubhamnagar1.medium.com/ethernaut-challenge-level-16-solution-preservation-4403230b469c?source=rss------bug_bounty-5) 
 
- - 💯February 23, 2024 - [How i was able to hack over 10 million websites using BAC : broken access controle .](https://medium.com/@zack0x01_/how-i-was-able-to-hack-over-10-million-websites-using-bac-broken-access-controle-ce6b704e3dcb?source=rss------bug_bounty-5) 
+ - 💯February 24, 2024 - [Bypass Rate Limits on authentication endpoints like a pro………!](https://medium.com/@a13h1/bypass-rate-limits-on-authentication-endpoints-like-a-pro-2054460a43c0?source=rss------bug_bounty-5) 
 
- - 💯February 22, 2024 - [How I logged into user accounts with no information](https://medium.com/@jsamia/how-i-logged-into-user-accounts-with-no-information-629f50e8885d?source=rss------bug_bounty-5) 
+ - 💯February 24, 2024 - [10.4 Lab: SSRF with filter bypass via open redirection vulnerability | 2024](https://cyberw1ng.medium.com/10-4-lab-ssrf-with-filter-bypass-via-open-redirection-vulnerability-2024-fa36d8f10968?source=rss------bug_bounty-5) 
 
- - 💯February 22, 2024 - [Using Wayback And DNS rebinding For SSRF](https://medium.com/@amnotacat/using-wayback-and-dns-rebinding-for-ssrf-a5a16f611acc?source=rss------bug_bounty-5) 
+ - 💯February 24, 2024 - [The Aspida Bug Bounty Program](https://medium.com/@aspidabd/the-aspida-bug-bounty-program-84e4495955c1?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
