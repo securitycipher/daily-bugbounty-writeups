@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯February 29, 2024 - [Critical vulnerability in Flask AppBuilder — CVE-2024–25128](https://systemweakness.com/critical-vulnerability-in-flask-appbuilder-cve-2024-25128-a8693fb31d86?source=rss------bug_bounty-5) 
+ - 💯March 1, 2024 - [Unveiling the Hardware Flaws in Bug Bunty A Comprehensive Analysis](https://medium.com/@Land2Cyber/unveiling-the-hardware-flaws-in-bug-bunty-a-comprehensive-analysis-136a493fbcd8?source=rss------bug_bounty-5) 
 
- - 💯February 29, 2024 - [Version disclosure in headers and response : Security threat](https://medium.com/@zakeeandroid/version-disclosure-in-headers-and-response-security-threat-0b4e86272018?source=rss------bug_bounty-5) 
+ - 💯March 1, 2024 - [Understanding Process Issues in Bug Bounty Programs](https://medium.com/@Land2Cyber/understanding-process-issues-in-bug-bounty-programs-c7e94000a709?source=rss------bug_bounty-5) 
 
- - 💯February 29, 2024 - [Medium Bug Bounty on Hacker One — Broken Link](https://medium.com/bugs-that-bite/medium-bug-bounty-on-hacker-one-broken-link-b121c8896843?source=rss------bug_bounty-5) 
+ - 💯March 1, 2024 - [XML Injection: Deep Dive](https://cyberbull.medium.com/xml-injection-deep-dive-2e6e7132732d?source=rss------bug_bounty-5) 
 
- - 💯February 28, 2024 - [Hack Stories: Hacking Hackers EP:2](https://infosecwriteups.com/hack-stories-hacking-hackers-ep-2-b4d2e628781e?source=rss------bug_bounty-5) 
+ - 💯March 1, 2024 - [$600 Simple MFA Bypass — Graphql](https://securitycipher.medium.com/600-simple-mfa-bypass-graphql-b46c6a4c5b82?source=rss------bug_bounty-5) 
 
- - 💯February 28, 2024 - [](https://medium.com/@morganbinbash/-af057d8d6788?source=rss------bug_bounty-5) 
+ - 💯February 29, 2024 - [First Bug Bounty](https://medium.com/@tom.sh/first-bug-bounty-ba6088fc2615?source=rss------bug_bounty-5) 
 
- - 💯February 28, 2024 - [Revolutionize Your Bug Hunting: Jam.dev Turbocharges Bug Reporting](https://medium.com/@merisstupar11/revolutionize-your-bug-hunting-jam-dev-turbocharges-bug-reporting-2df14351766f?source=rss------bug_bounty-5) 
+ - 💯February 29, 2024 - [How to find your first XSS vulnerability!!!](https://medium.com/@basti_Sec/how-to-find-your-first-xss-vulnerability-a35cb69b2f56?source=rss------bug_bounty-5) 
 
- - 💯February 28, 2024 - [How do I automate my recon — Part Two](https://medium.com/@aliraah/how-do-i-automate-my-recon-part-two-b39a66b4c23d?source=rss------bug_bounty-5) 
+ - 💯February 29, 2024 - [Maximizing Bug Bounty Earnings with Burp Suite: Essential Tools and Plugins.](https://medium.com/@montymahapatra79/maximizing-bug-bounty-earnings-with-burp-suite-essential-tools-and-plugins-84468c5d969d?source=rss------bug_bounty-5) 
 
- - 💯February 28, 2024 - [Pre-Account Takeover Leading To Broken Access Control](https://medium.com/@bcarikci-dev/pre-account-takeover-leading-to-broken-access-control-13916ca02483?source=rss------bug_bounty-5) 
+ - 💯February 29, 2024 - [Authentication Bypass Using Response Manipulation](https://medium.com/@kundanp70559361/authentication-bypass-using-response-manipulation-c95969e787a8?source=rss------bug_bounty-5) 
 
- - 💯February 28, 2024 - [cybers11.3 Lab: Blind XXE with out-of-band interaction | 2024](https://infosecwriteups.com/cybers11-3-lab-blind-xxe-with-out-of-band-interaction-2024-9f2f5caf98ad?source=rss------bug_bounty-5) 
+ - 💯February 29, 2024 - [How do I found Blind SSRF on a Hackerone Program](https://codingninjablogs.tech/how-do-i-found-blind-ssrf-on-a-hackerone-program-3f7c315c20c9?source=rss------bug_bounty-5) 
 
- - 💯February 28, 2024 - [[TOOL GUIDE] Bypass-http a python tool to find 403 &amp; 401 bypass](https://medium.com/@reinhardt.pwn/tool-guide-bypass-http-a-python-tool-to-find-403-401-bypass-b46ff0bd6978?source=rss------bug_bounty-5) 
+ - 💯February 29, 2024 - [Horizontal Privilege Escalation Leads to Bounty](https://medium.com/@hellother18/horizontal-privilege-escalation-leads-to-bounty-f87aebbed8ab?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
