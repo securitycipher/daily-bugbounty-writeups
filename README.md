@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 4, 2024 - [Apa Itu Cyber Kill Chain Dalam Cyber Security](https://medium.com/@yasminramadini/apa-itu-cyber-kill-chain-dalam-cyber-security-5e993233615c?source=rss------bug_bounty-5) 
+ - 💯March 5, 2024 - [Understanding Session Fixation Protecting Your Online Security](https://medium.com/@Land2Cyber/understanding-session-fixation-protecting-your-online-security-5b6bd4e74593?source=rss------bug_bounty-5) 
 
- - 💯March 4, 2024 - [Apa Itu Pyramid Of Pain Dalam Cyber Security](https://medium.com/@yasminramadini/apa-itu-pyramid-of-pain-dalam-cyber-security-7e08932e8ed9?source=rss------bug_bounty-5) 
+ - 💯March 5, 2024 - [XXEs are lurking in unexpected places and you&#39;ll find these vulnerabilities almost everywhere](https://medium.com/@securelearn/xxes-are-lurking-in-unexpected-places-and-youll-find-these-vulnerabilities-almost-everywhere-aefeef9d7cbb?source=rss------bug_bounty-5) 
 
- - 💯March 4, 2024 - [Understanding Server-Side Template Injection &lpar;SSTI&rpar; Risks, Exploitation, and Prevention](https://medium.com/@Land2Cyber/understanding-server-side-template-injection-ssti-risks-exploitation-and-prevention-f49c8246c31f?source=rss------bug_bounty-5) 
+ - 💯March 5, 2024 - [How I Found Multiple XSS Vulnerabilities Using Unknown Techniques](https://infosecwriteups.com/how-i-found-multiple-xss-vulnerabilities-using-unknown-techniques-74f8e705ea0d?source=rss------bug_bounty-5) 
 
- - 💯March 4, 2024 - [Shedding Light on Blind SQL Injection Understanding, Detecting, and Preventing Attacks](https://medium.com/@Land2Cyber/shedding-light-on-blind-sql-injection-understanding-detecting-and-preventing-attacks-27a228ff1bdc?source=rss------bug_bounty-5) 
+ - 💯March 5, 2024 - [Bug-Bounty Beginning &lpar;Day-1&rpar;](https://medium.com/@bv1459/bug-bounty-beginning-day-1-bc5fa649ff45?source=rss------bug_bounty-5) 
 
- - 💯March 4, 2024 - [Understanding OS Command Injection Risks, Examples, and Prevention Techniques](https://medium.com/@Land2Cyber/understanding-os-command-injection-risks-examples-and-prevention-techniques-e27f60504a23?source=rss------bug_bounty-5) 
+ - 💯March 5, 2024 - [Uncovering Host Header Injection Vulnerabilities in 5 Apex Domain Hosts](https://javroot.medium.com/uncovering-host-header-injection-vulnerabilities-in-5-apex-domain-hosts-c45f79e82862?source=rss------bug_bounty-5) 
 
- - 💯March 4, 2024 - [Understanding Server-Side Includes &lpar;SSI&rpar; Injection Risks, Examples, and Prevention Techniques](https://medium.com/@Land2Cyber/understanding-server-side-includes-ssi-injection-risks-examples-and-prevention-techniques-3c20f8f4ca1b?source=rss------bug_bounty-5) 
+ - 💯March 4, 2024 - [11.8 Lab: Exploiting XXE via image file upload | 2024](https://cyberw1ng.medium.com/11-8-lab-exploiting-xxe-via-image-file-upload-2024-e2840c3b85f3?source=rss------bug_bounty-5) 
 
- - 💯March 4, 2024 - [Safeguarding Your Web Applications Against HTML Injection: Risks, Prevention, and Best Practices](https://medium.com/@Land2Cyber/safeguarding-your-web-applications-against-html-injection-risks-prevention-and-best-practices-eb3de8a70094?source=rss------bug_bounty-5) 
+ - 💯March 4, 2024 - [Simple vulnerability in a Cyber Security conference](https://medium.com/@jsamia/simple-vulnerability-in-a-cyber-security-conference-c06a53c6e4b7?source=rss------bug_bounty-5) 
 
- - 💯March 4, 2024 - [Protecting Your Applications Against XPath Injection Attacks Risks, Mitigation, and Best Practices](https://medium.com/@Land2Cyber/protecting-your-applications-against-xpath-injection-attacks-risks-mitigation-and-best-practices-9d1e81bd35c7?source=rss------bug_bounty-5) 
+ - 💯March 4, 2024 - [Come diventare un hacker nel 2024](https://medium.com/@d0lf1_/come-diventare-un-hacker-nel-2024-493c8c0ced9a?source=rss------bug_bounty-5) 
 
- - 💯March 4, 2024 - [Safeguarding Against LDAP Injection Understanding, Mitigating, and Preventing Attacks](https://medium.com/@Land2Cyber/safeguarding-against-ldap-injection-understanding-mitigating-and-preventing-attacks-70f8bbfef43e?source=rss------bug_bounty-5) 
+ - 💯March 4, 2024 - [It assignment helper https://www.fiverr.com/s/QAR93y](https://medium.com/@drugdirectory96/it-assignment-helper-https-www-fiverr-com-s-qar93y-30e688ba78e9?source=rss------bug_bounty-5) 
 
- - 💯March 4, 2024 - [Understanding XML Injection Risks, Examples, and Prevention Techniques](https://medium.com/@Land2Cyber/understanding-xml-injection-risks-examples-and-prevention-techniques-00447bd481ae?source=rss------bug_bounty-5) 
+ - 💯March 4, 2024 - [My Report Summaries #1: Project manager can see &amp; download all users’ login history at redacted app…](https://infosecwriteups.com/my-report-summaries-1-project-manager-can-see-download-all-users-login-history-at-redacted-app-6a41597b5d11?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
