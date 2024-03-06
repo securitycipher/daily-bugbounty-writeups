@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 5, 2024 - [Understanding Session Fixation Protecting Your Online Security](https://medium.com/@Land2Cyber/understanding-session-fixation-protecting-your-online-security-5b6bd4e74593?source=rss------bug_bounty-5) 
+ - 💯March 6, 2024 - [The Hidden Danger of Directory Listing Exposing Vulnerabilities in the Digital Realm](https://medium.com/@Land2Cyber/the-hidden-danger-of-directory-listing-exposing-vulnerabilities-in-the-digital-realm-0412fbb96ac8?source=rss------bug_bounty-5) 
 
- - 💯March 5, 2024 - [XXEs are lurking in unexpected places and you&#39;ll find these vulnerabilities almost everywhere](https://medium.com/@securelearn/xxes-are-lurking-in-unexpected-places-and-youll-find-these-vulnerabilities-almost-everywhere-aefeef9d7cbb?source=rss------bug_bounty-5) 
+ - 💯March 6, 2024 - [The Danger of Default Passwords A Ticking Time Bomb in Cybersecurity](https://medium.com/@Land2Cyber/the-danger-of-default-passwords-a-ticking-time-bomb-in-cybersecurity-c7ff06316ea4?source=rss------bug_bounty-5) 
 
- - 💯March 5, 2024 - [How I Found Multiple XSS Vulnerabilities Using Unknown Techniques](https://infosecwriteups.com/how-i-found-multiple-xss-vulnerabilities-using-unknown-techniques-74f8e705ea0d?source=rss------bug_bounty-5) 
+ - 💯March 6, 2024 - [Navigating the Hazards of Insecure File Handling in Cybersecurity](https://medium.com/@Land2Cyber/navigating-the-hazards-of-insecure-file-handling-in-cybersecurity-ed15d9e1be50?source=rss------bug_bounty-5) 
 
- - 💯March 5, 2024 - [Bug-Bounty Beginning &lpar;Day-1&rpar;](https://medium.com/@bv1459/bug-bounty-beginning-day-1-bc5fa649ff45?source=rss------bug_bounty-5) 
+ - 💯March 6, 2024 - [Safeguarding Your Web Applications The Importance of Security Headers](https://medium.com/@Land2Cyber/safeguarding-your-web-applications-the-importance-of-security-headers-29e95bccb452?source=rss------bug_bounty-5) 
 
- - 💯March 5, 2024 - [Uncovering Host Header Injection Vulnerabilities in 5 Apex Domain Hosts](https://javroot.medium.com/uncovering-host-header-injection-vulnerabilities-in-5-apex-domain-hosts-c45f79e82862?source=rss------bug_bounty-5) 
+ - 💯March 6, 2024 - [The Looming Threat of Unencrypted Data Storage](https://medium.com/@Land2Cyber/the-looming-threat-of-unencrypted-data-storage-ddab37d8d34c?source=rss------bug_bounty-5) 
 
- - 💯March 4, 2024 - [11.8 Lab: Exploiting XXE via image file upload | 2024](https://cyberw1ng.medium.com/11-8-lab-exploiting-xxe-via-image-file-upload-2024-e2840c3b85f3?source=rss------bug_bounty-5) 
+ - 💯March 6, 2024 - [Data Leakage Guarding Against the Silent Threat](https://medium.com/@Land2Cyber/data-leakage-guarding-against-the-silent-threat-bd8ddff228b9?source=rss------bug_bounty-5) 
 
- - 💯March 4, 2024 - [Simple vulnerability in a Cyber Security conference](https://medium.com/@jsamia/simple-vulnerability-in-a-cyber-security-conference-c06a53c6e4b7?source=rss------bug_bounty-5) 
+ - 💯March 6, 2024 - [Unveiling Insecure Direct Object References &lpar;IDOR&rpar; A Lurking Threat in Cybersecurity](https://medium.com/@Land2Cyber/unveiling-insecure-direct-object-references-idor-a-lurking-threat-in-cybersecurity-b4085412f4c2?source=rss------bug_bounty-5) 
 
- - 💯March 4, 2024 - [Come diventare un hacker nel 2024](https://medium.com/@d0lf1_/come-diventare-un-hacker-nel-2024-493c8c0ced9a?source=rss------bug_bounty-5) 
+ - 💯March 6, 2024 - [The Fragile Armor Understanding the Risks of Inadequate Encryption](https://medium.com/@Land2Cyber/the-fragile-armor-understanding-the-risks-of-inadequate-encryption-cf2f90dc3083?source=rss------bug_bounty-5) 
 
- - 💯March 4, 2024 - [It assignment helper https://www.fiverr.com/s/QAR93y](https://medium.com/@drugdirectory96/it-assignment-helper-https-www-fiverr-com-s-qar93y-30e688ba78e9?source=rss------bug_bounty-5) 
+ - 💯March 6, 2024 - [Microsoft Exchange Server Remote Code Execution Vulnerability](https://medium.com/@ryuzakiryuga31/microsoft-exchange-server-remote-code-execution-vulnerability-89354c6e6586?source=rss------bug_bounty-5) 
 
- - 💯March 4, 2024 - [My Report Summaries #1: Project manager can see &amp; download all users’ login history at redacted app…](https://infosecwriteups.com/my-report-summaries-1-project-manager-can-see-download-all-users-login-history-at-redacted-app-6a41597b5d11?source=rss------bug_bounty-5) 
+ - 💯March 6, 2024 - [At age of 18, How I got first “Future” Job Offer from Korean MNC through bug bounties](https://medium.com/@manan_sanghvi/at-age-of-18-how-i-got-first-future-job-offer-from-korean-mnc-through-bug-bounties-2cfb7d4a9e8c?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
