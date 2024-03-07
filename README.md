@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 6, 2024 - [The Hidden Danger of Directory Listing Exposing Vulnerabilities in the Digital Realm](https://medium.com/@Land2Cyber/the-hidden-danger-of-directory-listing-exposing-vulnerabilities-in-the-digital-realm-0412fbb96ac8?source=rss------bug_bounty-5) 
+ - 💯March 7, 2024 - [Unraveling the Threat XML External Entity &lpar;XXE&rpar; Injection](https://medium.com/@Land2Cyber/unraveling-the-threat-xml-external-entity-xxe-injection-deb11428443d?source=rss------bug_bounty-5) 
 
- - 💯March 6, 2024 - [The Danger of Default Passwords A Ticking Time Bomb in Cybersecurity](https://medium.com/@Land2Cyber/the-danger-of-default-passwords-a-ticking-time-bomb-in-cybersecurity-c7ff06316ea4?source=rss------bug_bounty-5) 
+ - 💯March 7, 2024 - [Safeguarding Your Web Application Preventing HTTP Security Headers Misconfiguration](https://medium.com/@Land2Cyber/safeguarding-your-web-application-preventing-http-security-headers-misconfiguration-a254d28c060f?source=rss------bug_bounty-5) 
 
- - 💯March 6, 2024 - [Navigating the Hazards of Insecure File Handling in Cybersecurity](https://medium.com/@Land2Cyber/navigating-the-hazards-of-insecure-file-handling-in-cybersecurity-ed15d9e1be50?source=rss------bug_bounty-5) 
+ - 💯March 7, 2024 - [The Silent Threat Misconfigured CORS and Its Implications](https://medium.com/@Land2Cyber/the-silent-threat-misconfigured-cors-and-its-implications-36e78a6f6600?source=rss------bug_bounty-5) 
 
- - 💯March 6, 2024 - [Safeguarding Your Web Applications The Importance of Security Headers](https://medium.com/@Land2Cyber/safeguarding-your-web-applications-the-importance-of-security-headers-29e95bccb452?source=rss------bug_bounty-5) 
+ - 💯March 7, 2024 - [Unpatched Software The Silent Menace Lurking in the Digital Shadows](https://medium.com/@Land2Cyber/unpatched-software-the-silent-menace-lurking-in-the-digital-shadows-50444914de74?source=rss------bug_bounty-5) 
 
- - 💯March 6, 2024 - [The Looming Threat of Unencrypted Data Storage](https://medium.com/@Land2Cyber/the-looming-threat-of-unencrypted-data-storage-ddab37d8d34c?source=rss------bug_bounty-5) 
+ - 💯March 7, 2024 - [Shedding Light on Information Disclosure Understanding the Risks and Solutions](https://medium.com/@Land2Cyber/shedding-light-on-information-disclosure-understanding-the-risks-and-solutions-d2f981b85863?source=rss------bug_bounty-5) 
 
- - 💯March 6, 2024 - [Data Leakage Guarding Against the Silent Threat](https://medium.com/@Land2Cyber/data-leakage-guarding-against-the-silent-threat-bd8ddff228b9?source=rss------bug_bounty-5) 
+ - 💯March 7, 2024 - [Bridging the Gap Understanding the Pitfalls of Improper Access Controls](https://medium.com/@Land2Cyber/bridging-the-gap-understanding-the-pitfalls-of-improper-access-controls-647a5aac5b44?source=rss------bug_bounty-5) 
 
- - 💯March 6, 2024 - [Unveiling Insecure Direct Object References &lpar;IDOR&rpar; A Lurking Threat in Cybersecurity](https://medium.com/@Land2Cyber/unveiling-insecure-direct-object-references-idor-a-lurking-threat-in-cybersecurity-b4085412f4c2?source=rss------bug_bounty-5) 
+ - 💯March 7, 2024 - [Navigating the Waters of Open Ports and Services Understanding the Risks and Best Practices](https://medium.com/@Land2Cyber/navigating-the-waters-of-open-ports-and-services-understanding-the-risks-and-best-practices-ff288998c19a?source=rss------bug_bounty-5) 
 
- - 💯March 6, 2024 - [The Fragile Armor Understanding the Risks of Inadequate Encryption](https://medium.com/@Land2Cyber/the-fragile-armor-understanding-the-risks-of-inadequate-encryption-cf2f90dc3083?source=rss------bug_bounty-5) 
+ - 💯March 7, 2024 - [Securing Your APIs Understanding the Risks of Unprotected Endpoints](https://medium.com/@Land2Cyber/securing-your-apis-understanding-the-risks-of-unprotected-endpoints-01062f429e0f?source=rss------bug_bounty-5) 
 
- - 💯March 6, 2024 - [Microsoft Exchange Server Remote Code Execution Vulnerability](https://medium.com/@ryuzakiryuga31/microsoft-exchange-server-remote-code-execution-vulnerability-89354c6e6586?source=rss------bug_bounty-5) 
+ - 💯March 7, 2024 - [Usb data recovery — Digital forensics intro](https://medium.com/@Rahulkrishnan_R_Panicker/usb-data-recovery-digital-forensics-intro-0c57337425b5?source=rss------bug_bounty-5) 
 
- - 💯March 6, 2024 - [At age of 18, How I got first “Future” Job Offer from Korean MNC through bug bounties](https://medium.com/@manan_sanghvi/at-age-of-18-how-i-got-first-future-job-offer-from-korean-mnc-through-bug-bounties-2cfb7d4a9e8c?source=rss------bug_bounty-5) 
+ - 💯March 6, 2024 - [Story of Lock up users’ account by DOS attack cost $1,100](https://m7arm4n.medium.com/story-of-lock-up-users-account-by-dos-attack-cost-1-100-87b47d06a7c1?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
