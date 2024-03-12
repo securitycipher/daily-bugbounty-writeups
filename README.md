@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 10, 2024 - [Bug Bounty Challenge: Day 2/15–10/03/2024](https://wallotry.medium.com/bug-bounty-challenge-day-1-15-10-03-2024-b946472d71c8?source=rss------bug_bounty-5) 
+ - 💯March 12, 2024 - [ShentuChain Unveils a Constellation of High-profile Investors](https://shentuchain.medium.com/shentuchain-unveils-a-constellation-of-high-profile-investors-54b612b8dc30?source=rss------bug_bounty-5) 
 
- - 💯March 10, 2024 - [Easiest bugs to start](https://medium.com/@petrukhin.s.a/easiest-bugs-to-start-9f92d87f6e36?source=rss------bug_bounty-5) 
+ - 💯March 12, 2024 - [Decoding Object Injection Understanding the Threat and Mitigation Strategies](https://medium.com/@Land2Cyber/decoding-object-injection-understanding-the-threat-and-mitigation-strategies-5726b4fb49aa?source=rss------bug_bounty-5) 
 
- - 💯March 10, 2024 - [Subdomains Enumeration](https://d4t4s3c.medium.com/subdomains-enumeration-a23f44ba4687?source=rss------bug_bounty-5) 
+ - 💯March 12, 2024 - [Understanding and Preventing Data Tampering](https://medium.com/@Land2Cyber/understanding-and-preventing-data-tampering-a3044172a628?source=rss------bug_bounty-5) 
 
- - 💯March 10, 2024 - [Information Gathering #1](https://medium.com/@mxfx1989/information-gathering-1-192f58c49f2e?source=rss------bug_bounty-5) 
+ - 💯March 12, 2024 - [Unveiling the Threat Remote Code Execution via Deserialization](https://medium.com/@Land2Cyber/unveiling-the-threat-remote-code-execution-via-deserialization-09f4cc67c4d4?source=rss------bug_bounty-5) 
 
- - 💯March 10, 2024 - [24.3 Lab: Exploiting a mass assignment vulnerability | 2024](https://infosecwriteups.com/24-3-lab-exploiting-a-mass-assignment-vulnerability-2024-cc97a296d5fc?source=rss------bug_bounty-5) 
+ - 💯March 12, 2024 - [Understanding and Mitigating Missing Function-Level Access Control](https://medium.com/@Land2Cyber/understanding-and-mitigating-missing-function-level-access-control-dc54c1c15cd1?source=rss------bug_bounty-5) 
 
- - 💯March 10, 2024 - [GRWM for WebApp PenTest | Insecure Deserialization](https://whyjbr.medium.com/grwm-for-webapp-pentest-insecure-deserialization-adfa4f8cf53f?source=rss------bug_bounty-5) 
+ - 💯March 12, 2024 - [Business Logic Errors allow me to buy Products at Low Prices on Farmaku.com](https://rohmadhidayah.medium.com/business-logic-errors-allow-me-to-buy-products-at-low-prices-on-farmaku-com-b8c9c0bcf5cc?source=rss------bug_bounty-5) 
 
- - 💯March 10, 2024 - [Forceful Browsing Understanding the Risks and How to Defend Against Them](https://medium.com/@Land2Cyber/forceful-browsing-understanding-the-risks-and-how-to-defend-against-them-0af6cb62fbfc?source=rss------bug_bounty-5) 
+ - 💯March 12, 2024 - [Cross-site scripting contexts for Bug Bounty — Portswigger | 2024](https://cyberw1ng.medium.com/cross-site-scripting-contexts-for-bug-bounty-portswigger-2024-b927cfa70de3?source=rss------bug_bounty-5) 
 
- - 💯March 10, 2024 - [Insecure Direct Object References: Risks, Implications, and Strategies for Mitigation](https://medium.com/@Land2Cyber/insecure-direct-object-references-risks-implications-and-strategies-for-mitigation-068750641c0c?source=rss------bug_bounty-5) 
+ - 💯March 11, 2024 - [HackTheBox — Information Gathering: Passive Enumeration](https://medium.com/@harry.hphu/hackthebox-information-gathering-passive-enumeration-85e45503683d?source=rss------bug_bounty-5) 
 
- - 💯March 10, 2024 - [The Threat of Privilege Escalation Understanding, Detecting, and Preventing Attacks](https://medium.com/@Land2Cyber/the-threat-of-privilege-escalation-understanding-detecting-and-preventing-attacks-0c12b0a833b9?source=rss------bug_bounty-5) 
+ - 💯March 11, 2024 - [Top 7 BurpSuite Extensions for BugBounty- Part-1](https://medium.com/@Ajakcybersecurity/top-7-burpsuite-extensions-for-bugbounty-part-1-4e9639649601?source=rss------bug_bounty-5) 
 
- - 💯March 10, 2024 - [Understanding the Impact of Inadequate Authorization in Cybersecurity](https://medium.com/@Land2Cyber/understanding-the-impact-of-inadequate-authorization-in-cybersecurity-561d6e1871fd?source=rss------bug_bounty-5) 
+ - 💯March 11, 2024 - [HackTheBox — Information Gathering](https://medium.com/@harry.hphu/hackthebox-information-gathering-a2d78c901dd0?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
