@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 13, 2024 - [Exploiting Cross-Site Scripting XSS vulnerabilities for Bug Bounty — Portswigger | 2024](https://cyberw1ng.medium.com/exploiting-cross-site-scripting-xss-vulnerabilities-for-bug-bounty-portswigger-2024-88d6e1df4658?source=rss------bug_bounty-5) 
+ - 💯March 14, 2024 - [13.10 Lab: DOM XSS in document.write](https://cyberw1ng.medium.com/13-10-lab-dom-xss-in-document-write-c702cd0bd743?source=rss------bug_bounty-5) 
 
- - 💯March 12, 2024 - [Utilizing Log Poisoning: Elevating from LFI to RCE](https://medium.com/@YNS21/utilizing-log-poisoning-elevating-from-lfi-to-rce-5dca90d0a2ac?source=rss------bug_bounty-5) 
+ - 💯March 13, 2024 - [How much money did I make from doing Bug Bounty?](https://systemweakness.com/how-much-money-did-i-make-from-doing-bug-bounty-707438b71f47?source=rss------bug_bounty-5) 
 
- - 💯March 12, 2024 - [Bug Bounty Challenge: Day 4/15–12/03/2024](https://wallotry.medium.com/bug-bounty-challenge-day-4-15-12-03-2024-412bf44f8b83?source=rss------bug_bounty-5) 
+ - 💯March 13, 2024 - [Reconnaissance?](https://mrrobotstxt.medium.com/reconnaissance-ca2fa7bf821d?source=rss------bug_bounty-5) 
 
- - 💯March 12, 2024 - [Minha Experiência ao Obter a Certificação CBBH](https://tiredandsick.medium.com/cbbh-experience-prbt-bc2b376c4124?source=rss------bug_bounty-5) 
+ - 💯March 13, 2024 - [Researcher Q&amp;A: Friends Who Work Together, Hack Better Together](https://blog.developer.adobe.com/researcher-q-a-friends-who-work-together-hack-better-together-c698ff0be732?source=rss------bug_bounty-5) 
 
- - 💯March 12, 2024 - [BYPASSING PARENTAL CONTROL ON WHOLE APPLE ECO-SYSTEM](https://medium.com/@sam0-0/bypassing-parental-control-on-whole-apple-eco-system-1c6975c24105?source=rss------bug_bounty-5) 
+ - 💯March 13, 2024 - [PROXY FUZZING](https://karol-mazurek.medium.com/proxy-fuzzing-4dc77968cfd8?source=rss------bug_bounty-5) 
 
- - 💯March 12, 2024 - [Guvenkaya Security Insights Series — Sweat Economy](https://medium.com/@guvenkaya-sec/guvenkaya-security-insights-series-sweat-economy-dbe681a79e7a?source=rss------bug_bounty-5) 
+ - 💯March 13, 2024 - [Lets Talk Pentest Strategy](https://medium.com/@hackstack/lets-talk-pentest-strategy-adea4d3b085e?source=rss------bug_bounty-5) 
 
- - 💯March 12, 2024 - [How I Discovered My First Critical Vulnerability in My Bug Bounty Career](https://snip3rgg.medium.com/how-i-discovered-my-first-critical-vulnerability-in-my-bug-bounty-career-cf0e048d14cb?source=rss------bug_bounty-5) 
+ - 💯March 13, 2024 - [Email based IDOR makes me update Other User Profile](https://rohmadhidayah.medium.com/email-based-idor-makes-me-update-other-user-profile-8e6e289f4391?source=rss------bug_bounty-5) 
 
- - 💯March 12, 2024 - [Account Takeover Through Rate-Limit Bypass — Bug Bounty Tuesday](https://medium.com/@kerstan/account-takeover-through-rate-limit-bypass-bug-bounty-tuesday-01229168dd89?source=rss------bug_bounty-5) 
+ - 💯March 13, 2024 - [Bug-Bounty/How I Found My FIRST Vulnerability and How could I Access the Admin Panel using it +…](https://medium.com/@rogxoorsafe/bug-bounty-how-i-found-my-first-vulnerability-and-how-could-i-access-the-admin-panel-using-it-899d75da2f37?source=rss------bug_bounty-5) 
 
- - 💯March 12, 2024 - [How I found my first ever valid bug on Hackerone](https://medium.com/@rubaethasanariyan/how-i-found-my-first-ever-valid-bug-on-hackerone-da30015aa08d?source=rss------bug_bounty-5) 
+ - 💯March 13, 2024 - [Fuzzing to Kubernetes to IDOR to PII leak](https://nityanandjha18.medium.com/fuzzing-to-kubernetes-to-idor-to-pii-leak-dae0dda70090?source=rss------bug_bounty-5) 
+
+ - 💯March 13, 2024 - [Enhancing Your Bug Hunting Skills: 5 Must-Read Books](https://medium.com/@aayushdhakal005/enhancing-your-bug-hunting-skills-5-must-read-books-edb6029c19a6?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
