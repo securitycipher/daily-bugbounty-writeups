@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 20, 2024 - [Reflected XSS To Account Takeover Without Stealing Session Cookie](https://medium.com/@rifqihz/reflected-xss-to-account-takeover-without-stealing-session-cookie-89c6ed62a3e4?source=rss------bug_bounty-5) 
+ - 💯March 21, 2024 - [Digital Goldmine: Innovative Ways to Make Money Online in 2024](https://medium.com/@thewriterdude/digital-goldmine-innovative-ways-to-make-money-online-in-2024-c7d33d655535?source=rss------bug_bounty-5) 
 
- - 💯March 20, 2024 - [A Tester&#39;s Journey Through Test Automation and Practical Scenarios.](https://medium.com/@tomiwaodufote/a-testers-journey-through-test-automation-and-practical-scenarios-dfb9f7074062?source=rss------bug_bounty-5) 
+ - 💯March 21, 2024 - [Critical Vulnerability in PostgreSQL JDBC Driver — Understanding CVE-2024–1597](https://shubhamrooter.medium.com/critical-vulnerability-in-postgresql-jdbc-driver-understanding-cve-2024-1597-81ac202c295e?source=rss------bug_bounty-5) 
 
- - 💯March 19, 2024 - [The Art Of Determining Whether Sensitive Data Is Shared with Third Parties via Embedded Services …](https://medium.com/@adipsharif/the-art-of-determining-whether-sensitive-data-is-shared-with-third-parties-via-embedded-services-beba2856ef96?source=rss------bug_bounty-5) 
+ - 💯March 20, 2024 - [Detecting Cyber Threats with Resemble.js: Safeguarding Digital Assets through Image Analysis](https://medium.com/@corymack34/detecting-cyber-threats-with-resemble-js-safeguarding-digital-assets-through-image-analysis-9e2f3427f8ed?source=rss------bug_bounty-5) 
 
- - 💯March 19, 2024 - [The Art Of Unveiling Logs for Sensitive Data In Android Applications &lpar;The Offensive Security Way&rpar;](https://medium.com/@adipsharif/the-art-of-unveiling-logs-for-sensitive-data-in-android-applications-the-offensive-security-way-9c823532d004?source=rss------bug_bounty-5) 
+ - 💯March 20, 2024 - [Bypassing an IDOR A couple of times — $$](https://medium.com/@bxrowski0x/bypassing-an-idor-a-couple-of-times-4d67555a1545?source=rss------bug_bounty-5) 
 
- - 💯March 19, 2024 - [HackTheBox — Information Gathering: Active Enumeration](https://medium.com/@harry.hphu/hackthebox-information-gathering-active-enumeration-e43481ef85f9?source=rss------bug_bounty-5) 
+ - 💯March 20, 2024 - [Biometric Authentication Bypass In Android Applications &lpar;The Offensive Security Way&rpar;](https://medium.com/@adipsharif/biometric-authentication-bypass-in-android-applications-the-offensive-security-way-c37d89b06db2?source=rss------bug_bounty-5) 
 
- - 💯March 19, 2024 - [Unleashing Chaos: The Tale of the 0-Click Account Takeover](https://medium.com/@hmuhamm3d/unleashing-chaos-the-tale-of-the-0-click-account-takeover-21c2cedabc4b?source=rss------bug_bounty-5) 
+ - 💯March 20, 2024 - [How We Can Check Configuration of Cryptographic Standard Algorithms &amp; Random Number Generation…](https://medium.com/@adipsharif/how-we-can-check-configuration-of-cryptographic-standard-algorithms-random-number-generation-000cf9bfdb64?source=rss------bug_bounty-5) 
 
- - 💯March 19, 2024 - [Get allmost all subdomains](https://medium.com/@petrukhin.s.a/get-allmost-all-subdomains-5694dcc3cb60?source=rss------bug_bounty-5) 
+ - 💯March 20, 2024 - [The Art Of Testing Symmetric Cryptography During Pentesting Android Applications](https://medium.com/@adipsharif/the-art-of-testing-symmetric-cryptography-during-pentesting-android-applications-154dbab795d7?source=rss------bug_bounty-5) 
 
- - 💯March 19, 2024 - [13.14 Lab: Reflected XSS into HTML context with most tags and attributes blocked | 2024](https://cyberw1ng.medium.com/13-14-lab-reflected-xss-into-html-context-with-most-tags-and-attributes-blocked-2024-7e2106ef89b2?source=rss------bug_bounty-5) 
+ - 💯March 20, 2024 - [Checking Backups For Sensitive Data in Android Applications &lpar;The Offensive Security Way&rpar;](https://medium.com/@adipsharif/checking-backups-for-sensitive-data-in-android-applications-the-offensive-security-way-95bd8820b84e?source=rss------bug_bounty-5) 
 
- - 💯March 19, 2024 - [CVE-2024–28436 Cross-Site Scripting Vulnerability in D-Link DAP Products](https://djallalakira.medium.com/cve-2024-28436-cross-site-scripting-vulnerability-in-d-link-dap-products-3596976cc99f?source=rss------bug_bounty-5) 
+ - 💯March 20, 2024 - [Why Regular Security Sweeps Are Crucial for Business Success](https://medium.com/@siddiquiasad2299/why-regular-security-sweeps-are-crucial-for-business-success-7de57c663ca7?source=rss------bug_bounty-5) 
 
- - 💯March 19, 2024 - [IDOR to read all user’s private route comments](https://medium.com/@youssifm.raghib/idor-to-read-all-users-private-route-comments-e97120d43262?source=rss------bug_bounty-5) 
+ - 💯March 20, 2024 - [Passlord: Your Ultimate Weapon for Creating Tailored Wordlists](https://navnee1h.medium.com/passlord-your-ultimate-weapon-for-creating-tailored-wordlists-924a491e9a0f?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
