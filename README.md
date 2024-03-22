@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 21, 2024 - [Digital Goldmine: Innovative Ways to Make Money Online in 2024](https://medium.com/@thewriterdude/digital-goldmine-innovative-ways-to-make-money-online-in-2024-c7d33d655535?source=rss------bug_bounty-5) 
+ - 💯March 22, 2024 - [Unveiling Admin Panels: A Bug Bounty Hunter’s Guide](https://medium.com/@dasmanish6176/unveiling-admin-panels-a-bug-bounty-hunters-guide-6e713ae18b2c?source=rss------bug_bounty-5) 
 
- - 💯March 21, 2024 - [Critical Vulnerability in PostgreSQL JDBC Driver — Understanding CVE-2024–1597](https://shubhamrooter.medium.com/critical-vulnerability-in-postgresql-jdbc-driver-understanding-cve-2024-1597-81ac202c295e?source=rss------bug_bounty-5) 
+ - 💯March 22, 2024 - [Making money only using AI [Free Course]](https://medium.com/@deadoverflow/making-money-only-using-ai-free-course-e7c51d33fee1?source=rss------bug_bounty-5) 
 
- - 💯March 20, 2024 - [Detecting Cyber Threats with Resemble.js: Safeguarding Digital Assets through Image Analysis](https://medium.com/@corymack34/detecting-cyber-threats-with-resemble-js-safeguarding-digital-assets-through-image-analysis-9e2f3427f8ed?source=rss------bug_bounty-5) 
+ - 💯March 21, 2024 - [Frida Use Cases and Examples](https://medium.com/@prinsharma1999/frida-use-cases-and-examples-984f9a2ddc69?source=rss------bug_bounty-5) 
 
- - 💯March 20, 2024 - [Bypassing an IDOR A couple of times — $$](https://medium.com/@bxrowski0x/bypassing-an-idor-a-couple-of-times-4d67555a1545?source=rss------bug_bounty-5) 
+ - 💯March 21, 2024 - [403 Forbidden Bypass Exposing API Key](https://medium.com/@georgeppmc/403-forbidden-bypass-exposing-api-key-b5c9df9daeb3?source=rss------bug_bounty-5) 
 
- - 💯March 20, 2024 - [Biometric Authentication Bypass In Android Applications &lpar;The Offensive Security Way&rpar;](https://medium.com/@adipsharif/biometric-authentication-bypass-in-android-applications-the-offensive-security-way-c37d89b06db2?source=rss------bug_bounty-5) 
+ - 💯March 21, 2024 - [Automate XSS With These 3 Simple Tools](https://medium.com/@Ajakcybersecurity/automate-xss-with-these-3-simple-tools-e0dcc89c06d0?source=rss------bug_bounty-5) 
 
- - 💯March 20, 2024 - [How We Can Check Configuration of Cryptographic Standard Algorithms &amp; Random Number Generation…](https://medium.com/@adipsharif/how-we-can-check-configuration-of-cryptographic-standard-algorithms-random-number-generation-000cf9bfdb64?source=rss------bug_bounty-5) 
+ - 💯March 21, 2024 - [Buy Any Movie Tickets for Just Rs 10 &lpar;IDOR Vulnerability&rpar;](https://medium.com/@sahilkushwaha275/buy-any-movie-tickets-for-just-rs-10-idor-vulnerability-670d03a45def?source=rss------bug_bounty-5) 
 
- - 💯March 20, 2024 - [The Art Of Testing Symmetric Cryptography During Pentesting Android Applications](https://medium.com/@adipsharif/the-art-of-testing-symmetric-cryptography-during-pentesting-android-applications-154dbab795d7?source=rss------bug_bounty-5) 
+ - 💯March 21, 2024 - [How I found my first DOM based XSS](https://medium.com/@jsamia/how-i-found-my-first-dom-based-xss-a79f342d50d6?source=rss------bug_bounty-5) 
 
- - 💯March 20, 2024 - [Checking Backups For Sensitive Data in Android Applications &lpar;The Offensive Security Way&rpar;](https://medium.com/@adipsharif/checking-backups-for-sensitive-data-in-android-applications-the-offensive-security-way-95bd8820b84e?source=rss------bug_bounty-5) 
+ - 💯March 21, 2024 - [urit13.16 Lab: DOM XSS in jQuery anchor href attribute sink using location.search source | 2024](https://cyberw1ng.medium.com/urit13-16-lab-dom-xss-in-jquery-anchor-href-attribute-sink-using-location-search-source-2024-8f8df8703aef?source=rss------bug_bounty-5) 
 
- - 💯March 20, 2024 - [Why Regular Security Sweeps Are Crucial for Business Success](https://medium.com/@siddiquiasad2299/why-regular-security-sweeps-are-crucial-for-business-success-7de57c663ca7?source=rss------bug_bounty-5) 
-
- - 💯March 20, 2024 - [Passlord: Your Ultimate Weapon for Creating Tailored Wordlists](https://navnee1h.medium.com/passlord-your-ultimate-weapon-for-creating-tailored-wordlists-924a491e9a0f?source=rss------bug_bounty-5) 
+ - 💯March 21, 2024 - [Unveiling The Techniques Of Finding Server-Side Request Forgery &lpar;SSRF&rpar; In Web Applications &lpar;with a…](https://adipsharif.medium.com/unveiling-the-techniques-of-finding-server-side-request-forgery-ssrf-in-web-applications-with-a-2ac1dd20ef87?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
