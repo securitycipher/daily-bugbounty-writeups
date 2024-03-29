@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 28, 2024 - [Bug Bounty Recon At Its Easiest with Netlas.io](https://medium.com/@omarora1603/bug-bounty-recon-at-its-easiest-with-netlas-io-d313ae0f1c09?source=rss------bug_bounty-5) 
+ - 💯March 29, 2024 - [The Future of Internet Security and Artificial Intelligence and Cyber Security Jobs](https://python.plainenglish.io/the-future-of-internet-security-and-artificial-intelligence-and-cyber-security-jobs-528b4c340cf9?source=rss------bug_bounty-5) 
 
- - 💯March 28, 2024 - [Bypassing 403 Protection To Get Admin Access](https://rajput623929.medium.com/bypassing-403-protection-to-get-admin-access-d7c9d0560e5c?source=rss------bug_bounty-5) 
+ - 💯March 29, 2024 - [YouTube Growth Hacking](https://sanparatama.medium.com/youtube-growth-hacking-a94457f04789?source=rss------bug_bounty-5) 
 
- - 💯March 28, 2024 - [13.23 Lab: Reflected XSS into HTML context with most tags and attributes blocked | 2024](https://cyberw1ng.medium.com/13-23-lab-reflected-xss-into-html-context-with-most-tags-and-attributes-blocked-2024-63d649c6cc2c?source=rss------bug_bounty-5) 
+ - 💯March 28, 2024 - [Annonforce — Tryhackme Walkthrough Easy Self-made](https://medium.com/@shaswata.ssaha/annonforce-tryhackme-walkthrough-easy-self-made-f45c3a6f3e96?source=rss------bug_bounty-5) 
 
- - 💯March 27, 2024 - [Why am I starting to hate Bug Bounty?](https://systemweakness.com/why-am-i-starting-to-hate-bug-bounty-1f075fc96978?source=rss------bug_bounty-5) 
+ - 💯March 28, 2024 - [Finding Bug DMRC Reflected Xss and HTML Injection](https://medium.com/@abhishekaswal777/finding-bug-dmrc-reflected-xss-and-html-injection-fe4361a1db60?source=rss------bug_bounty-5) 
 
- - 💯March 27, 2024 - [Fristileaks 1.3 Walkthrough](https://erdemstar.medium.com/fristileaks-1-3-walkthrough-a6b962385752?source=rss------bug_bounty-5) 
+ - 💯March 28, 2024 - [IDOR’a Giriş](https://medium.com/@mirackucuk595/idora-giri%C5%9F-23c22a5ae24f?source=rss------bug_bounty-5) 
 
- - 💯March 27, 2024 - [Web Application Hacking Required Reading](https://hogarth45.medium.com/web-application-hacking-required-reading-0d2f046db191?source=rss------bug_bounty-5) 
+ - 💯March 28, 2024 - [Risks of Software Dependencies AKA Toxic Dependencies](https://bytebusterx.medium.com/risks-of-software-dependencies-aka-toxic-dependencies-0a38150cf5ce?source=rss------bug_bounty-5) 
 
- - 💯March 27, 2024 - [Hacking the Giant: XSS on Google](https://adipsharif.medium.com/got-xss-on-googles-product-a4c79be8adbb?source=rss------bug_bounty-5) 
+ - 💯March 28, 2024 - [Penetration Testing Tools](https://bevijaygupta.medium.com/penetration-testing-tools-b4c8ad807114?source=rss------bug_bounty-5) 
 
- - 💯March 27, 2024 - [Bug Bounty Isn’t A Scam Here’s Why](https://medium.com/@detroiton421094/bug-bounty-isnt-a-scam-here-s-why-751547bd8531?source=rss------bug_bounty-5) 
+ - 💯March 28, 2024 - [Stargazing Risks: Exploring the Data Breach that Exposed NASA Employees’ PII](https://interc3pt3r.medium.com/stargazing-risks-exploring-the-data-breach-that-exposed-nasa-employees-pii-68692cf7a5e9?source=rss------bug_bounty-5) 
 
- - 💯March 27, 2024 - [HACKING WORDPRESS](https://medium.com/@mirackucuk595/hacking-wordpress-ac9ee6447045?source=rss------bug_bounty-5) 
+ - 💯March 28, 2024 - [How to write a Walkthrough](https://bevijaygupta.medium.com/how-to-write-a-walkthrough-23eee7f6777c?source=rss------bug_bounty-5) 
 
- - 💯March 27, 2024 - [SSLStripping](https://bytebusterx.medium.com/sslstripping-e81dc95d6fab?source=rss------bug_bounty-5) 
+ - 💯March 28, 2024 - [Unveiling all techniques to find IDOR’S in web applications](https://adipsharif.medium.com/unveiling-all-techniques-to-find-idors-in-web-applications-578d2b8aa28a?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
