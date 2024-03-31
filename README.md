@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
+ - 💯March 30, 2024 - [How i found Multiple IDOR](https://medium.com/@hillrane24/how-i-found-multiple-idor-ab52815b375a?source=rss------bug_bounty-5) 
+
+ - 💯March 30, 2024 - [Kioptrix Level 1 Walkthrough](https://erdemstar.medium.com/kioptrix-level-1-walkthrough-6e985fbd0dc7?source=rss------bug_bounty-5) 
+
+ - 💯March 30, 2024 - [A Journey into Unusual Header Injection](https://medium.com/@imusabkhan/a-journey-into-unusual-header-injection-693cc0ddecc6?source=rss------bug_bounty-5) 
+
+ - 💯March 30, 2024 - [Chain of Rate Limit Bypass and Weak Token Expiry Leads To Account Take Over](https://medium.com/@ozomarzu/chain-of-rate-limit-bypass-and-weak-token-expiry-leads-to-account-take-over-d9cddf598c9c?source=rss------bug_bounty-5) 
+
+ - 💯March 30, 2024 - [1200 $ Email verification Bypass from P4 TO P2](https://medium.com/@akrachliy/email-verification-bypass-from-p4-to-p2-50fa3dde8e5f?source=rss------bug_bounty-5) 
+
+ - 💯March 30, 2024 - [Web Request](https://medium.com/@mirackucuk595/web-request-ea237118e259?source=rss------bug_bounty-5) 
+
+ - 💯March 30, 2024 - [13.25 Lab: Reflected XSS in canonical link tag | 2024](https://cyberw1ng.medium.com/13-25-lab-reflected-xss-in-canonical-link-tag-2024-c4478a82b466?source=rss------bug_bounty-5) 
+
+ - 💯March 30, 2024 - [Advertisers able to identify individual consumers who visited their ads &lpar;Microsoft bug bounty&rpar;](https://medium.com/@avig2009/advertisers-able-to-identify-individual-consumers-who-visited-their-ads-microsoft-bug-bounty-a8bcb2d727f2?source=rss------bug_bounty-5) 
+
+ - 💯March 30, 2024 - [Best bug hunting methodology for EZ money](https://medium.com/@tom.sh/best-bug-hunting-methodology-for-ez-money-58b7fe928e6f?source=rss------bug_bounty-5) 
+
  - 💯March 29, 2024 - [✌︎ Yara Rules ✌︎ For Something ☠︎](https://medium.com/@haticezkmnl/yara-rules-%EF%B8%8E-for-something-%EF%B8%8E-0164b38e3ddd?source=rss------bug_bounty-5) 
-
- - 💯March 29, 2024 - [How to install drozer with docker](https://medium.com/@nomad8061/hello-geeks-e8d0f62b22a1?source=rss------bug_bounty-5) 
-
- - 💯March 29, 2024 - [Unhiding the hidden 401 Bypass](https://medium.com/@Xt3sY/unhiding-the-hidden-401-bypass-10f48c67b50d?source=rss------bug_bounty-5) 
-
- - 💯March 29, 2024 - [13.24 Lab: Reflected XSS with some SVG markup allowed | 2024](https://cyberw1ng.medium.com/13-24-lab-reflected-xss-with-some-svg-markup-allowed-2024-78279b906ec2?source=rss------bug_bounty-5) 
-
- - 💯March 29, 2024 - [How to learn Game Hacking? Recourse Compilation!](https://medium.com/@yannik603/how-to-learn-game-hacking-recourse-compilation-1c5d2807a7cb?source=rss------bug_bounty-5) 
-
- - 💯March 29, 2024 - [AutoLayer Bug Bounty Program: Full Information Release](https://autolayer.medium.com/autolayer-bug-bounty-program-full-information-release-d5de0bab972e?source=rss------bug_bounty-5) 
-
- - 💯March 29, 2024 - [Web Security Short Series — CSRF.](https://medium.com/@frankyyano/web-security-short-series-csrf-4cdf6f936773?source=rss------bug_bounty-5) 
-
- - 💯March 29, 2024 - [[Walkthrough] Mobile Hacking Lab — Secure Note](https://medium.com/@karimul.sh/walkthrough-mobile-hacking-lab-secure-note-eeb4af20e01b?source=rss------bug_bounty-5) 
-
- - 💯March 29, 2024 - [The Future of Internet Security and Artificial Intelligence and Cyber Security Jobs](https://python.plainenglish.io/the-future-of-internet-security-and-artificial-intelligence-and-cyber-security-jobs-528b4c340cf9?source=rss------bug_bounty-5) 
-
- - 💯March 29, 2024 - [YouTube Growth Hacking](https://sanparatama.medium.com/youtube-growth-hacking-a94457f04789?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
