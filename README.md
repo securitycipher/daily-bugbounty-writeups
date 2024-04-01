@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 30, 2024 - [How i found Multiple IDOR](https://medium.com/@hillrane24/how-i-found-multiple-idor-ab52815b375a?source=rss------bug_bounty-5) 
+ - 💯April 1, 2024 - [How to start Bug Bounty Hunting $$ in 2024?? | A short RoadMap](https://infosecwriteups.com/how-to-start-bug-bounty-hunting-in-2024-a-short-roadmap-9f9eeddd24ca?source=rss------bug_bounty-5) 
 
- - 💯March 30, 2024 - [Kioptrix Level 1 Walkthrough](https://erdemstar.medium.com/kioptrix-level-1-walkthrough-6e985fbd0dc7?source=rss------bug_bounty-5) 
+ - 💯April 1, 2024 - [IOS Pentesting Lab Setup](https://hackerassociate.medium.com/ios-pentesting-lab-setup-516ec567b424?source=rss------bug_bounty-5) 
 
- - 💯March 30, 2024 - [A Journey into Unusual Header Injection](https://medium.com/@imusabkhan/a-journey-into-unusual-header-injection-693cc0ddecc6?source=rss------bug_bounty-5) 
+ - 💯April 1, 2024 - [Certified Bug Bounty Hunter: Should you go for Broke, or take a Junior Level Certification First](https://medium.com/@codewidthme/certified-bug-bounty-hunter-should-you-go-for-broke-or-take-a-junior-level-certification-first-a905c105f9a2?source=rss------bug_bounty-5) 
 
- - 💯March 30, 2024 - [Chain of Rate Limit Bypass and Weak Token Expiry Leads To Account Take Over](https://medium.com/@ozomarzu/chain-of-rate-limit-bypass-and-weak-token-expiry-leads-to-account-take-over-d9cddf598c9c?source=rss------bug_bounty-5) 
+ - 💯April 1, 2024 - [How I Found My First Bug | XSS](https://medium.com/@fariio/how-i-found-my-first-bug-xss-031df71aedbe?source=rss------bug_bounty-5) 
 
- - 💯March 30, 2024 - [1200 $ Email verification Bypass from P4 TO P2](https://medium.com/@akrachliy/email-verification-bypass-from-p4-to-p2-50fa3dde8e5f?source=rss------bug_bounty-5) 
+ - 💯April 1, 2024 - [Bug to fix: Mastering the Life Cycle of Software Defects](https://medium.com/@hannahanulur/bug-to-fix-mastering-the-life-cycle-of-software-defects-b227292bdb16?source=rss------bug_bounty-5) 
 
- - 💯March 30, 2024 - [Web Request](https://medium.com/@mirackucuk595/web-request-ea237118e259?source=rss------bug_bounty-5) 
+ - 💯March 31, 2024 - [&quot;From Legit to Lure: Transforming a Website into an Amazon Phishing Site&quot;](https://medium.com/@mdnafeed3/unveiling-a-stored-xss-vulnerability-example-com-under-the-spotlight-37d0895cebca?source=rss------bug_bounty-5) 
 
- - 💯March 30, 2024 - [13.25 Lab: Reflected XSS in canonical link tag | 2024](https://cyberw1ng.medium.com/13-25-lab-reflected-xss-in-canonical-link-tag-2024-c4478a82b466?source=rss------bug_bounty-5) 
+ - 💯March 31, 2024 - [13.26 Lab: Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and…](https://cyberw1ng.medium.com/13-26-lab-stored-xss-into-onclick-event-with-angle-brackets-and-double-quotes-html-encoded-and-4bde1cc39671?source=rss------bug_bounty-5) 
 
- - 💯March 30, 2024 - [Advertisers able to identify individual consumers who visited their ads &lpar;Microsoft bug bounty&rpar;](https://medium.com/@avig2009/advertisers-able-to-identify-individual-consumers-who-visited-their-ads-microsoft-bug-bounty-a8bcb2d727f2?source=rss------bug_bounty-5) 
+ - 💯March 31, 2024 - [Shield your System — XZ Utils Backdoor &lpar;Linux Distribution&rpar;](https://infosecwriteups.com/shield-your-system-xz-utils-backdoor-linux-distribution-54583b071ccc?source=rss------bug_bounty-5) 
 
- - 💯March 30, 2024 - [Best bug hunting methodology for EZ money](https://medium.com/@tom.sh/best-bug-hunting-methodology-for-ez-money-58b7fe928e6f?source=rss------bug_bounty-5) 
+ - 💯March 31, 2024 - [Understanding and Mitigating CVE-2024–3094](https://medium.com/@mrblackstar26/understanding-and-mitigating-cve-2024-3094-2b8572d9e921?source=rss------bug_bounty-5) 
 
- - 💯March 29, 2024 - [✌︎ Yara Rules ✌︎ For Something ☠︎](https://medium.com/@haticezkmnl/yara-rules-%EF%B8%8E-for-something-%EF%B8%8E-0164b38e3ddd?source=rss------bug_bounty-5) 
+ - 💯March 31, 2024 - [Installation DVWA In Windows 10 Using XAMPP](https://bevijaygupta.medium.com/installation-dvwa-in-windows-10-using-xampp-d6246279a10e?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
