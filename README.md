@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯April 1, 2024 - [How to start Bug Bounty Hunting $$ in 2024?? | A short RoadMap](https://infosecwriteups.com/how-to-start-bug-bounty-hunting-in-2024-a-short-roadmap-9f9eeddd24ca?source=rss------bug_bounty-5) 
+ - 💯April 2, 2024 - [Issues related to privacy &lpar;Cybersecurity&rpar;](https://medium.com/@paritoshblogs/issues-related-to-privacy-cybersecurity-99368bf0bc10?source=rss------bug_bounty-5) 
 
- - 💯April 1, 2024 - [IOS Pentesting Lab Setup](https://hackerassociate.medium.com/ios-pentesting-lab-setup-516ec567b424?source=rss------bug_bounty-5) 
+ - 💯April 1, 2024 - [Subdomain Takeovers &lpar;Subdomain Devralma&rpar;](https://medium.com/@mirackucuk595/subdomain-takeovers-subdomain-devralma-2ffa999c123b?source=rss------bug_bounty-5) 
 
- - 💯April 1, 2024 - [Certified Bug Bounty Hunter: Should you go for Broke, or take a Junior Level Certification First](https://medium.com/@codewidthme/certified-bug-bounty-hunter-should-you-go-for-broke-or-take-a-junior-level-certification-first-a905c105f9a2?source=rss------bug_bounty-5) 
+ - 💯April 1, 2024 - [Bug Bounty Challenge: Update](https://wallotry.medium.com/bug-bounty-challenge-update-ebd1fa31426c?source=rss------bug_bounty-5) 
 
- - 💯April 1, 2024 - [How I Found My First Bug | XSS](https://medium.com/@fariio/how-i-found-my-first-bug-xss-031df71aedbe?source=rss------bug_bounty-5) 
+ - 💯April 1, 2024 - [Mastering CSRF: A Comprehensive Guide to Finding Cross-site Request Forgery Vulnerabilities | 2024](https://cyberw1ng.medium.com/mastering-csrf-a-comprehensive-guide-to-finding-cross-site-request-forgery-vulnerabilities-2024-8d1d13d83547?source=rss------bug_bounty-5) 
 
- - 💯April 1, 2024 - [Bug to fix: Mastering the Life Cycle of Software Defects](https://medium.com/@hannahanulur/bug-to-fix-mastering-the-life-cycle-of-software-defects-b227292bdb16?source=rss------bug_bounty-5) 
+ - 💯April 1, 2024 - [“Configuring Apache Web Server on CentOS 7”](https://medium.com/@shaikhalshifa210/configuring-apache-web-server-on-centos-7-ed10245f2a4d?source=rss------bug_bounty-5) 
 
- - 💯March 31, 2024 - [&quot;From Legit to Lure: Transforming a Website into an Amazon Phishing Site&quot;](https://medium.com/@mdnafeed3/unveiling-a-stored-xss-vulnerability-example-com-under-the-spotlight-37d0895cebca?source=rss------bug_bounty-5) 
+ - 💯April 1, 2024 - [How to set up Caido for Bug Bounty or Web Application Penetration?](https://medium.com/@bytescheck0/how-to-set-up-caido-for-bug-bounty-or-web-application-penetration-a74729d31dca?source=rss------bug_bounty-5) 
 
- - 💯March 31, 2024 - [13.26 Lab: Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and…](https://cyberw1ng.medium.com/13-26-lab-stored-xss-into-onclick-event-with-angle-brackets-and-double-quotes-html-encoded-and-4bde1cc39671?source=rss------bug_bounty-5) 
+ - 💯April 1, 2024 - [XSS Vulnerability in a Technical Assessment Application: Lessons Learned and Security Measures](https://interc3pt3r.medium.com/xss-vulnerability-in-a-technical-assessment-application-lessons-learned-and-security-measures-9321ee4c7639?source=rss------bug_bounty-5) 
 
- - 💯March 31, 2024 - [Shield your System — XZ Utils Backdoor &lpar;Linux Distribution&rpar;](https://infosecwriteups.com/shield-your-system-xz-utils-backdoor-linux-distribution-54583b071ccc?source=rss------bug_bounty-5) 
+ - 💯April 1, 2024 - [How I Was Able To Find My First VALID XSS](https://medium.com/@harshsolanki2810/how-i-was-able-to-find-my-first-valid-xss-b1b8bd727b6a?source=rss------bug_bounty-5) 
 
- - 💯March 31, 2024 - [Understanding and Mitigating CVE-2024–3094](https://medium.com/@mrblackstar26/understanding-and-mitigating-cve-2024-3094-2b8572d9e921?source=rss------bug_bounty-5) 
+ - 💯April 1, 2024 - [I will alter and update your website](https://medium.com/@fiverrtopfreelancer/i-will-alter-and-update-your-website-438eeb9bcde8?source=rss------bug_bounty-5) 
 
- - 💯March 31, 2024 - [Installation DVWA In Windows 10 Using XAMPP](https://bevijaygupta.medium.com/installation-dvwa-in-windows-10-using-xampp-d6246279a10e?source=rss------bug_bounty-5) 
+ - 💯April 1, 2024 - [Broken Application Logic Bug Doesn’t Validate Email, leading to DOS](https://medium.com/@saitle74/broken-application-logic-bug-doesnt-validate-email-leading-to-dos-d5ff73e752b4?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
