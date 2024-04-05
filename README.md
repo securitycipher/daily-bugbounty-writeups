@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯April 3, 2024 - [Smart Fuzzing — Finding bugs like no one else. By Gilson Oliveira](https://medium.com/@gilsgil/smart-fuzzing-finding-bugs-like-no-one-else-by-gilson-oliveira-d6aa0dbc285b?source=rss------bug_bounty-5) 
+ - 💯April 5, 2024 - [Unmasking an Open Redirect on the India’s Government Website](https://medium.com/@nilkhant30/unmasking-an-open-redirect-on-the-indias-government-website-3f808b10bff9?source=rss------bug_bounty-5) 
 
- - 💯April 3, 2024 - [Struggling RCE on Jenkins Instance](https://medium.com/@imusabkhan/struggling-rce-on-jenkins-instance-8851af98b7e6?source=rss------bug_bounty-5) 
+ - 💯April 5, 2024 - [Step by Step Complete Beginners guide of iOS penetration testing with corellium](https://infosecwriteups.com/step-by-step-complete-beginners-guide-of-ios-penetration-testing-with-corellium-2b9e9c6382c2?source=rss------bug_bounty-5) 
 
- - 💯April 3, 2024 - [DNS](https://medium.com/@mirackucuk595/dns-4e18aa90b7cf?source=rss------bug_bounty-5) 
+ - 💯April 4, 2024 - [My methodology to bypass CSRF](https://medium.com/@0x7irix/my-methodology-to-bypass-csrf-957b4e552ae7?source=rss------bug_bounty-5) 
 
- - 💯April 3, 2024 - [Bir sorgu dizesinde sunucu tarafı parametre kirliliğinden yararlanma](https://medium.com/@hhuseyinuyar17/bir-sorgu-dizesinde-sunucu-taraf%C4%B1-parametre-kirlili%C4%9Finden-yararlanma-567489eefd65?source=rss------bug_bounty-5) 
+ - 💯April 4, 2024 - [How I hacked medium and they didn’t pay me](https://medium.com/@super_burgundy_weasel_439/how-i-hacked-medium-and-they-didnt-pay-me-f6c89cca3af7?source=rss------bug_bounty-5) 
 
- - 💯April 3, 2024 - [14.3 Lab: SameSite Lax bypass via cookie refresh | 2024](https://cyberw1ng.medium.com/14-3-lab-samesite-lax-bypass-via-cookie-refresh-2024-4f10021e6ce8?source=rss------bug_bounty-5) 
+ - 💯April 4, 2024 - [Escalation of Admin and Supervisor Privileges Enables Organization Takeover and Access to Any…](https://medium.com/@elcapitano7x/escalation-of-admin-and-supervisor-privileges-enables-organization-takeover-and-access-to-any-6d1eb82bbe08?source=rss------bug_bounty-5) 
 
- - 💯April 3, 2024 - [Bug Bounty Challenge: Day 9–03/04/2024](https://wallotry.medium.com/bug-bounty-challenge-day-9-03-04-2024-f7a6303bb674?source=rss------bug_bounty-5) 
+ - 💯April 4, 2024 - [Bug Bounty Challenge: Day 10–04/04/2024](https://wallotry.medium.com/bug-bounty-challenge-day-10-04-04-2024-d7d40e226af2?source=rss------bug_bounty-5) 
 
- - 💯April 3, 2024 - [I asked ChatGPT to improve Jason Haddix V4 methodology. Here’s the answer:](https://medium.com/@uniicorniumx/i-asked-chatgpt-to-improve-jason-haddix-v4-methodology-heres-the-answer-09de258da623?source=rss------bug_bounty-5) 
+ - 💯April 4, 2024 - [S3 Bucket Misconfiguration](https://medium.com/@scorpiankapil/s3-bucket-misconfiguration-64d459abdb71?source=rss------bug_bounty-5) 
 
- - 💯April 3, 2024 - [How I Secured 50+ Brand &amp; Startups in Shopify Stores | XSS | Responsible Disclosure](https://prathapilango.medium.com/how-i-secured-50-brand-startups-in-shopify-stores-xss-responsible-disclosure-e38a72cf4a47?source=rss------bug_bounty-5) 
+ - 💯April 4, 2024 - [14.4 Lab: CSRF where Referer validation depends on header being present | 2024](https://cyberw1ng.medium.com/14-4-lab-csrf-where-referer-validation-depends-on-header-being-present-2024-2db1c7496091?source=rss------bug_bounty-5) 
 
- - 💯April 3, 2024 - [Hack ChatGPT, Make Money](https://medium.com/@david.azad.merian/hack-chatgpt-make-money-644bb4a7a529?source=rss------bug_bounty-5) 
+ - 💯April 4, 2024 - [NFS](https://medium.com/@mirackucuk595/nfs-873d049131b8?source=rss------bug_bounty-5) 
 
- - 💯April 3, 2024 - [SQLI  with extract Huge Data just Got N/A](https://medium.com/@nomad8061/sqli-with-extract-huge-data-just-got-n-a-5956c3b5297b?source=rss------bug_bounty-5) 
+ - 💯April 4, 2024 - [FB OAuth Misconfiguration Leads to Takeover any Account](https://sl4x0.medium.com/fb-oauth-misconfiguration-leads-to-takeover-any-account-061316a5b31b?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
