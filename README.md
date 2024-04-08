@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯April 7, 2024 - [Why You Should Attend Cybersecurity Conferences: Unlock Opportunities](https://medium.com/@a13h1/why-you-should-attend-cybersecurity-conferences-unlock-opportunities-2a16dfe4658e?source=rss------bug_bounty-5) 
+ - 💯April 8, 2024 - [Google Bug Hunters](https://bevijaygupta.medium.com/google-bug-hunters-673e2f5c2600?source=rss------bug_bounty-5) 
 
- - 💯April 6, 2024 - [Bug Bounty: Secure Camino Network, Earn Rewards](https://medium.com/@obobo/bug-bounty-secure-camino-network-earn-rewards-329a686da0b9?source=rss------bug_bounty-5) 
+ - 💯April 8, 2024 - [Unleashing the Power of Bug Bounty Dorks: A Comprehensive Guide](https://bevijaygupta.medium.com/unleashing-the-power-of-bug-bounty-dorks-a-comprehensive-guide-b121fce9e5e4?source=rss------bug_bounty-5) 
 
- - 💯April 6, 2024 - [Advanced XSS Discovery: Streamlining Your Attack Strategy with Cutting-Edge Automation Tools](https://medium.com/@0xelkot/advanced-xss-discovery-streamlining-your-attack-strategy-with-cutting-edge-automation-tools-88cfd0f68c8e?source=rss------bug_bounty-5) 
+ - 💯April 8, 2024 - [How I Got Multiple Privilege Escalations — The Easy Trick?](https://medium.com/@Mdabdulrahman/how-i-got-multiple-privilege-escalations-the-easy-trick-e915110bc08a?source=rss------bug_bounty-5) 
 
- - 💯April 6, 2024 - [14.6 Lab: SameSite Strict bypass via sibling domain | 2024](https://infosecwriteups.com/14-6-lab-samesite-strict-bypass-via-sibling-domain-2024-f2ad5f0167d1?source=rss------bug_bounty-5) 
+ - 💯April 8, 2024 - [Hacking Swisscom’s End-to-End Encrypted Cloud Storage for $4,000](https://medium.com/@thomashouhou/hacking-swisscoms-end-to-end-encrypted-cloud-storage-for-4-000-3660722196ec?source=rss------bug_bounty-5) 
 
- - 💯April 6, 2024 - [How To Fix bWAPP Unknown Database Error Windows/Linux](https://hamzaavvan.medium.com/how-to-fix-bwapp-unknown-database-error-windows-linux-acefd1a4568b?source=rss------bug_bounty-5) 
+ - 💯April 8, 2024 - [Is Your Business a Sitting Duck for Credit Card Hackers? Here’s How PCI DSS Can Save You!](https://medium.com/@josuofficial327/is-your-business-a-sitting-duck-for-credit-card-hackers-heres-how-pci-dss-can-save-you-97d7b6562131?source=rss------bug_bounty-5) 
 
- - 💯April 6, 2024 - [Easiest way to find Broken links in a website](https://medium.com/@jeetpal2007/easiest-way-to-find-broken-links-in-a-website-cccbc1f0b6d2?source=rss------bug_bounty-5) 
+ - 💯April 7, 2024 - [Host Header Manipulation Leading to Unauthorized Access to Apple’s Internal Slack bot &lpar;Bug Bounty&rpar;](https://amineaboud.medium.com/unauthorized-access-to-an-internal-app-used-by-apple-to-protect-confidential-information-shared-on-c8835a80079b?source=rss------bug_bounty-5) 
 
- - 💯April 6, 2024 - [Recon automation with Telegram Notification](https://medium.com/@tamhacker1/recon-automation-with-telegram-notification-d4c6b564ed58?source=rss------bug_bounty-5) 
+ - 💯April 7, 2024 - [This Cryptocurrency exchange paid me $200 for reporting vulnerability in their website](https://medium.com/@abhishek8602314652/this-cryptocurrency-exchange-paid-me-200-for-reporting-vulnerability-in-their-website-6755b38702a8?source=rss------bug_bounty-5) 
 
- - 💯April 6, 2024 - [Wordfence otorga su mayor bounty hasta la fecha](https://casi-cincuenta-monos.medium.com/wordfence-otorga-su-mayor-bounty-hasta-la-fecha-f2d9aa561f05?source=rss------bug_bounty-5) 
+ - 💯April 7, 2024 - [Finding CSRF on Graphql Application](https://medium.com/@alpernae/finding-csrf-on-graphql-application-3ffa1105a30d?source=rss------bug_bounty-5) 
 
- - 💯April 5, 2024 - [Beetlebug Android Walkthrough &amp; Basics Android application security](https://medium.com/@yousefneuer13/beetlebug-android-walkthrough-basics-android-application-security-c5e0fb9b284b?source=rss------bug_bounty-5) 
+ - 💯April 7, 2024 - [The Fast and the Curious: Finding a Race Condition in Worldcoin](https://medium.com/@gonzo-hacks/the-fast-and-the-curious-finding-a-race-condition-in-worldcoin-621c89bfbd61?source=rss------bug_bounty-5) 
 
- - 💯April 5, 2024 - [UUIDs Unmasked: Exploiting IDOR for User Data Access](https://medium.com/@cybersolution2172/uuids-unmasked-exploiting-idor-for-user-data-access-b199e3b08563?source=rss------bug_bounty-5) 
+ - 💯April 7, 2024 - [“Fortify Your Cyber Space: Embark on the Dominant Cyber Boot Camp Journey”](https://medium.com/@rizvi4600779/fortify-your-cyber-space-embark-on-the-dominant-cyber-boot-camp-journey-3071bd0b1ec7?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
