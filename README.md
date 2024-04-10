@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯April 9, 2024 - [Bug: No rate limiting on Email verification leads to huge Mass Mailing :: P4](https://medium.com/@p.ra.dee.p_0xx01/bug-no-rate-limiting-on-email-verification-leads-to-huge-mass-mailing-p4-b72c666d6e56?source=rss------bug_bounty-5) 
+ - 💯April 10, 2024 - [CVE-2024–24576: A Critical Rust Vulnerability on Windows](https://infosecwriteups.com/cve-2024-24576-a-critical-rust-vulnerability-on-windows-4f0bb1a332e9?source=rss------bug_bounty-5) 
 
- - 💯April 9, 2024 - [How I Found Bug :: Reflected XSS &lpar;Cross-Site-Scripting&rpar; On a BBP.](https://medium.com/@p.ra.dee.p_0xx01/how-i-found-bug-reflected-xss-cross-site-scripting-on-a-bbp-9f57611eda91?source=rss------bug_bounty-5) 
+ - 💯April 10, 2024 - [How I Find an Arbitrary File Upload Vulnerability with a Unique Bypass](https://medium.com/@zpbrent/how-i-find-an-arbitrary-file-upload-vulnerability-with-a-unique-bypass-8d679f45a497?source=rss------bug_bounty-5) 
 
- - 💯April 8, 2024 - [15.2 Lab: CORS vulnerability with trusted null origin | 2024](https://cyberw1ng.medium.com/15-2-lab-cors-vulnerability-with-trusted-null-origin-2024-a84020e4e254?source=rss------bug_bounty-5) 
+ - 💯April 9, 2024 - [Hunting Bugs and Striking Gold: Forward Calls for Elite Hunters in the Bug Bounty Campaign](https://forwardprotocol.medium.com/hunting-bugs-and-striking-gold-forward-calls-for-elite-hunters-in-the-bug-bounty-campaign-057e686c8577?source=rss------bug_bounty-5) 
 
- - 💯April 8, 2024 - [Breaking Free: 26 Advanced Techniques to Escape Docker Containers](https://infosecwriteups.com/breaking-free-26-advanced-techniques-to-escape-docker-containers-530049816b55?source=rss------bug_bounty-5) 
+ - 💯April 9, 2024 - [Simple Tips for Bug Bounty Beginners: Finding Blind XSS Vulnerabilities](https://medium.com/@anishnarayan/simple-tips-for-bug-bounty-beginners-finding-blind-xss-vulnerabilities-ab67977ff756?source=rss------bug_bounty-5) 
 
- - 💯April 8, 2024 - [XSS on out of scope domain? CORS is your secret weapon!](https://c4rrilat0r.medium.com/xss-on-out-of-scope-domain-cors-is-your-secret-weapon-93e433278080?source=rss------bug_bounty-5) 
+ - 💯April 9, 2024 - [15.3 Lab: CORS vulnerability with trusted insecure protocols | 2024](https://cyberw1ng.medium.com/15-3-lab-cors-vulnerability-with-trusted-insecure-protocols-2024-2ba1967daecc?source=rss------bug_bounty-5) 
 
- - 💯April 8, 2024 - [Google Bug Hunters](https://bevijaygupta.medium.com/google-bug-hunters-673e2f5c2600?source=rss------bug_bounty-5) 
+ - 💯April 9, 2024 - [How I Found My First Stored XSS || WAF &amp; Characters Limitation Bypass](https://kariiem.medium.com/how-i-found-my-first-stored-xss-waf-characters-limitation-bypass-cc414c4fadde?source=rss------bug_bounty-5) 
 
- - 💯April 8, 2024 - [Unleashing the Power of Bug Bounty Dorks: A Comprehensive Guide](https://bevijaygupta.medium.com/unleashing-the-power-of-bug-bounty-dorks-a-comprehensive-guide-b121fce9e5e4?source=rss------bug_bounty-5) 
+ - 💯April 9, 2024 - [Card Payment Functionality Checklist — Bug Bounty Tuesday](https://medium.com/@kerstan/card-payment-functionality-checklist-bug-bounty-tuesday-6eab127d0126?source=rss------bug_bounty-5) 
 
- - 💯April 8, 2024 - [How I Got Multiple Privilege Escalations — The Easy Trick?](https://medium.com/@Mdabdulrahman/how-i-got-multiple-privilege-escalations-the-easy-trick-e915110bc08a?source=rss------bug_bounty-5) 
+ - 💯April 9, 2024 - [Mass automation for finding XSS vulnerabilities in large scope targets](https://medium.com/@oumzarkar/mass-automation-for-finding-xss-vulnerabilities-in-large-scope-targets-019996b0515c?source=rss------bug_bounty-5) 
 
- - 💯April 8, 2024 - [Hacking Swisscom’s End-to-End Encrypted Cloud Storage for $4,000](https://medium.com/@thomashouhou/hacking-swisscoms-end-to-end-encrypted-cloud-storage-for-4-000-3660722196ec?source=rss------bug_bounty-5) 
+ - 💯April 9, 2024 - [Information Disclosure: Story of 500€ + 400$ Bounty](https://v3d.medium.com/information-disclosure-story-of-500-400-bounty-97d3b343f9ad?source=rss------bug_bounty-5) 
 
- - 💯April 8, 2024 - [Is Your Business a Sitting Duck for Credit Card Hackers? Here’s How PCI DSS Can Save You!](https://medium.com/@josuofficial327/is-your-business-a-sitting-duck-for-credit-card-hackers-heres-how-pci-dss-can-save-you-97d7b6562131?source=rss------bug_bounty-5) 
+ - 💯April 9, 2024 - [Bug Bounty Reports](https://bevijaygupta.medium.com/bug-bounty-reports-8a6480d06a80?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
