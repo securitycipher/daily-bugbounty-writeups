@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯April 12, 2024 - [How I managed to bypass 2FA on image line](https://medium.com/@bishwajeetb1/how-i-managed-to-bypass-2fa-on-image-line-11f123fc32ea?source=rss------bug_bounty-5) 
+ - 💯April 13, 2024 - [THE ART OF RECONISM: HORIZONTAL RECON FOR PENETRATION TESTING:](https://hacktivistattacker.medium.com/the-art-of-reconism-horizontal-recon-for-penetration-testing-fea5399af186?source=rss------bug_bounty-5) 
 
- - 💯April 12, 2024 - [Using E-Notation to bypass Access Control restrictions to access arbitrary user PII-discussions](https://medium.com/@keizobugbounty/using-e-notation-to-bypass-access-control-restrictions-to-access-arbitrary-user-pii-discussions-1fa014b544d4?source=rss------bug_bounty-5) 
+ - 💯April 12, 2024 - [How I Discovered Vulnerabilities by Modifying App Memory](https://medium.com/@xiaodongsec/how-i-discovered-vulnerabilities-by-modifying-app-memory-5a87b685ed3d?source=rss------bug_bounty-5) 
 
- - 💯April 12, 2024 - [The Critical Role Of Bug Bounties in Ensuring Web3 Security](https://securrtech.medium.com/the-critical-role-of-bug-bounties-in-ensuring-web3-security-084cf518234b?source=rss------bug_bounty-5) 
+ - 💯April 12, 2024 - [Hunting on Microsoft SharePoint: The art of manipulation.](https://machiavellli.medium.com/hunting-on-microsoft-sharepoint-the-art-of-manipulation-25c96ee1de3a?source=rss------bug_bounty-5) 
 
- - 💯April 12, 2024 - [How I Find My First Internet Bug Bounty for Apache Airflow](https://medium.com/@zpbrent/how-i-find-my-first-internet-bug-bounty-for-apache-airflow-9d3c1ec29b24?source=rss------bug_bounty-5) 
+ - 💯April 12, 2024 - [Token-Based Authentication vulnerability](https://medium.com/@paulovitorcl/token-based-authentication-vulnerability-37d97efcca62?source=rss------bug_bounty-5) 
 
- - 💯April 12, 2024 - [Bug Zero at a Glance [16–31 March]](https://blog.bugzero.io/bug-zero-at-a-glance-16-31-march-4f4cd6823a75?source=rss------bug_bounty-5) 
+ - 💯April 12, 2024 - [16.5 Lab: Multistep clickjacking in Bug Bounty | 2024](https://cyberw1ng.medium.com/16-5-lab-multistep-clickjacking-in-bug-bounty-2024-a5eb20de6900?source=rss------bug_bounty-5) 
 
- - 💯April 12, 2024 - [How i Almost got 2K$ through a Race condition](https://medium.com/@0x3adly/how-i-almost-got-2k-through-a-race-condition-3b09232b3a25?source=rss------bug_bounty-5) 
+ - 💯April 12, 2024 - [5 Methods I Use To Discover APIs](https://medium.com/@red.whisperer/5-methods-i-use-to-discover-apis-6d646baa3ffb?source=rss------bug_bounty-5) 
 
- - 💯April 12, 2024 - [Broken Access Control &lpar;IDOR&rpar; on Forgot Password Could Lead to Attacker Change Password for Every…](https://medium.com/@blackarazi/broken-access-control-idor-on-forgot-password-could-lead-to-attacker-change-password-for-every-e1b18e075b5a?source=rss------bug_bounty-5) 
+ - 💯April 12, 2024 - [Zoho Account Takeover: How a Single Click Can Lead to Full Control on your Zoho account](https://medium.com/@0xUsername/zoho-account-takeover-how-a-single-click-can-lead-to-full-control-on-your-zoho-account-04a5ea069382?source=rss------bug_bounty-5) 
 
- - 💯April 11, 2024 - [Bug Bounty Challenge: Day 16–11/04/2024](https://wallotry.medium.com/bug-bounty-challenge-day-16-11-04-2024-effc5c820319?source=rss------bug_bounty-5) 
+ - 💯April 12, 2024 - [Random account takeover via misconfigured OAuth](https://medium.com/@Berserker1337/random-account-takeover-via-misconfigured-oauth-5dc2cbbbe905?source=rss------bug_bounty-5) 
 
- - 💯April 11, 2024 - [16.4 Lab: Exploiting clickjacking vulnerability to trigger DOM-based XSS | 2024](https://cyberw1ng.medium.com/16-4-lab-exploiting-clickjacking-vulnerability-to-trigger-dom-based-xss-2024-71c5b567fb4b?source=rss------bug_bounty-5) 
-
- - 💯April 11, 2024 - [Secret BurpSuite Extension For BugBounty~ Part-2](https://medium.com/@Ajakcybersecurity/secret-burpsuite-extension-for-bugbounty-part-2-58b644b9222c?source=rss------bug_bounty-5) 
+ - 💯April 12, 2024 - [How I Bypassed Offer Limits to Gain Multiple Membership Benefits](https://medium.com/@xiaodongsec/how-i-bypassed-offer-limits-to-gain-multiple-membership-benefits-affea84c0844?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
