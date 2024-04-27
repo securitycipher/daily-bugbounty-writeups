@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
+ - 💯April 27, 2024 - [Security Testing Trends 2024](https://innovateqa.medium.com/security-testing-trends-2024-38d9129fde4d?source=rss------bug_bounty-5) 
+
+ - 💯April 26, 2024 - [How to baypass scaping filter&lpar;\&rpar;](https://medium.com/@thewhiteside2000/how-to-baypass-scaping-filter-14393a23af4f?source=rss------bug_bounty-5) 
+
+ - 💯April 26, 2024 - [How We Prevented a Mass Breach On One OF The Biggest CryptoCurrency Gateways On A Web3 Platform.](https://medium.com/@eslam.zayedw/how-we-prevented-a-mass-breach-on-one-of-the-biggest-cryptocurrency-gateways-on-a-web3-platform-2d8393070b10?source=rss------bug_bounty-5) 
+
+ - 💯April 26, 2024 - [The Ultimate Guide to CISSP’s Eight Security Territories](https://systemweakness.com/the-ultimate-guide-to-cissps-eight-security-territories-836ec7bec836?source=rss------bug_bounty-5) 
+
+ - 💯April 26, 2024 - [Unraveling the Nuances of 403 Bypass: Strengthening Web Application Security](https://medium.com/@dasmanish6176/unraveling-the-nuances-of-403-bypass-strengthening-web-application-security-ac2e8e885c3f?source=rss------bug_bounty-5) 
+
+ - 💯April 26, 2024 - [Private Interact.sh server setup with a web dashboard](https://infosecwriteups.com/private-interact-sh-server-setup-with-a-web-dashboard-6b0320645536?source=rss------bug_bounty-5) 
+
+ - 💯April 26, 2024 - [Found Multiple Bugs :: XSS, MITM, Sec-MisConf :: In an Educational Site](https://medium.com/@p.ra.dee.p_0xx01/found-multiple-bugs-xss-mitm-sec-misconf-in-an-educational-site-5a3804085da0?source=rss------bug_bounty-5) 
+
  - 💯April 26, 2024 - [What is HTTP request smuggling?](https://cyberw1ng.medium.com/what-is-http-request-smuggling-7ab91748c6db?source=rss------bug_bounty-5) 
 
  - 💯April 26, 2024 - [I found a simple but rare misconfiguration and got $200 on a hackerone program](https://harish45.medium.com/i-found-a-simple-but-rare-misconfiguration-and-got-200-on-a-hackerone-program-5863b6c51538?source=rss------bug_bounty-5) 
 
  - 💯April 25, 2024 - [Privilege escalation mediante Race Condition.](https://medium.com/@duality084/privilege-escalation-mediante-race-condition-0254df6ffbd8?source=rss------bug_bounty-5) 
-
- - 💯April 25, 2024 - [20.6 Lab: Host validation bypass via connection state attack | 2024](https://cyberw1ng.medium.com/20-6-lab-host-validation-bypass-via-connection-state-attack-2024-ba5ddd95edc4?source=rss------bug_bounty-5) 
-
- - 💯April 25, 2024 - [Bug Bounty Challenge &lpar;final&rpar;: Day 5–25/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-5-25-04-2024-a8d33630fe73?source=rss------bug_bounty-5) 
-
- - 💯April 25, 2024 - [Cyber Detectives Unite: Advanced Tools for Web Security](https://systemweakness.com/cyber-detectives-unite-advanced-tools-for-web-security-bb675f46b46e?source=rss------bug_bounty-5) 
-
- - 💯April 25, 2024 - [How a ‘.git’ file Leads to Zendesk Panel Takeover](https://sl4x0.medium.com/how-a-git-file-leads-to-zendesk-panel-takeover-11e8d2812076?source=rss------bug_bounty-5) 
-
- - 💯April 25, 2024 - [Privilege Escalation to Admin through an Import Feature](https://cristivlad.medium.com/privilege-escalation-to-admin-through-an-import-feature-ac8ac6b6abad?source=rss------bug_bounty-5) 
-
- - 💯April 25, 2024 - [Unexpected gain, arbitrary forgery of user tokens.](https://medium.com/@xiaodongsec/unexpected-gain-arbitrary-forgery-of-user-tokens-cb0dc1c4bd9f?source=rss------bug_bounty-5) 
-
- - 💯April 25, 2024 - [How to monitor your internal pentesters?](https://medium.com/@levente.b.molnar/how-to-monitor-your-internal-pentesters-6fe0e18f9fd0?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
