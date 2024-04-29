@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯April 28, 2024 - [Bug Zero at a Glance [01–15 April]](https://blog.bugzero.io/bug-zero-at-a-glance-01-15-april-1a761018d605?source=rss------bug_bounty-5) 
+ - 💯April 29, 2024 - [E-Commerce Application Penetration Testing- My Favourite Business Logical Flaw](https://medium.com/@vaishalinagori112/e-commerce-application-penetration-testing-my-favourite-business-logical-flaw-bac0367ad60c?source=rss------bug_bounty-5) 
 
- - 💯April 27, 2024 - [Exploring the Filliquid Testnet Launch Bug Bounty Program!](https://medium.com/@dekachi17/exploring-the-filliquid-testnet-launch-bug-bounty-program-e67c76557cc5?source=rss------bug_bounty-5) 
+ - 💯April 28, 2024 - [Flamingo Finance Bug Bounty Program](https://medium.com/@kdmytro336/flamingo-finance-bug-bounty-program-e5736de7bfa0?source=rss------bug_bounty-5) 
 
- - 💯April 27, 2024 - [privilege escalation allow the app admin to add the user as organization admin &lpar;on Microsoft own…](https://medium.com/@amitkhandebharad5/privilege-escalation-allow-the-app-admin-to-add-the-user-as-organization-admin-on-microsoft-own-e24352219a24?source=rss------bug_bounty-5) 
+ - 💯April 28, 2024 - [VAPT: The Secret Weapon for Security Superheroes](https://securitylit.medium.com/vapt-the-secret-weapon-for-security-superheroes-27fcdd79b16e?source=rss------bug_bounty-5) 
 
- - 💯April 27, 2024 - [Unveiling Strategies to Identify Potentially Sensitive Data Stored by iOS Applications](https://adipsharif.medium.com/spotting-sensitive-data-in-ios-applications-a-penetration-testers-guide-06f84af9cb0a?source=rss------bug_bounty-5) 
+ - 💯April 28, 2024 - [How We Hacked Voice Communication Solutions Company And Found BAC + Info Disclosure + IDOR :D](https://medium.com/@eslam.zayedw/how-we-hacked-voice-communication-solutions-company-and-found-bac-info-disclosure-idor-d-6884037064f0?source=rss------bug_bounty-5) 
 
- - 💯April 27, 2024 - [24.1 Lab: HTTP request smuggling, confirming a CL.TE](https://cyberw1ng.medium.com/24-1-lab-http-request-smuggling-confirming-a-cl-te-c53051cf5875?source=rss------bug_bounty-5) 
+ - 💯April 28, 2024 - [Bug Bounty Challenge &lpar;final&rpar;: Day 8–28/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-8-28-04-2024-67bac40e6a35?source=rss------bug_bounty-5) 
 
- - 💯April 27, 2024 - [How A Blackbox Target Turned To Whitebox With Recon](https://medium.com/@red.whisperer/how-a-blackbox-target-turned-to-whitebox-with-recon-e46536672702?source=rss------bug_bounty-5) 
+ - 💯April 28, 2024 - [Mi camino en el Bug Bounty comienza, pero antes..](https://medium.com/@cyb3rbyt3/mi-camino-en-el-bug-bounty-comienza-pero-antes-e649661dddc0?source=rss------bug_bounty-5) 
 
- - 💯April 27, 2024 - [Logic Loopholes: The Fun Flaws](https://medium.com/@khode4li/logic-loopholes-the-fun-flaws-5a8e14b09dc7?source=rss------bug_bounty-5) 
+ - 💯April 28, 2024 - [24.2 Lab: HTTP request smuggling, confirming a TE.CL](https://cyberw1ng.medium.com/24-2-lab-http-request-smuggling-confirming-a-te-cl-1917e523470e?source=rss------bug_bounty-5) 
 
- - 💯April 27, 2024 - [How I Exploited an Auth0 Misconfiguration to Bypass Login Restrictions](https://amjadali110.medium.com/how-i-exploited-an-auth0-misconfiguration-to-bypass-login-restrictions-c5d8c20d5505?source=rss------bug_bounty-5) 
+ - 💯April 28, 2024 - [How I Hacked an Indian Government Website and Accessed Their Database Server](https://medium.com/@kamilrahman32/how-i-hacked-an-indian-government-website-and-accessed-their-database-server-02a81842cce8?source=rss------bug_bounty-5) 
 
- - 💯April 27, 2024 - [2:00 AM IDOR leads to some Adrenaline rush](https://imwaiting18.medium.com/2-00-am-idor-leads-to-some-adrenaline-rush-996f710bd55a?source=rss------bug_bounty-5) 
+ - 💯April 28, 2024 - [Safeguarding Your App Addressing the Dangers of Insecure Mobile API Endpoints](https://medium.com/@Land2Cyber/safeguarding-your-app-addressing-the-dangers-of-insecure-mobile-api-endpoints-546778e8d4f9?source=rss------bug_bounty-5) 
 
- - 💯April 27, 2024 - [How I Hacked NASA Website and find a Criticial Source Code leak BUG on their website](https://medium.com/@phantom9863/how-i-hacked-nasa-website-and-find-a-criticial-source-code-leak-bug-on-their-website-9be0c38299fd?source=rss------bug_bounty-5) 
+ - 💯April 28, 2024 - [Ability to Deny Subaccounts feature from all users](https://medium.com/@mostafaaboelnour19/ability-to-deny-subaccounts-feature-from-all-users-e8fca424ffb9?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
