@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 2, 2024 - [Langkah Awal Menuju Bug Bounty IDN BootCamp](https://medium.com/@caomaysss/langkah-awal-menuju-bug-bounty-idn-bootcamp-42bcc61ba7ef?source=rss------bug_bounty-5) 
+ - 💯May 3, 2024 - [24.7 Lab: Exploiting HTTP request smuggling to deliver reflected XSS | 2024](https://cyberw1ng.medium.com/24-7-lab-exploiting-http-request-smuggling-to-deliver-reflected-xss-2024-334de5c0d400?source=rss------bug_bounty-5) 
 
- - 💯May 2, 2024 - [Become a Bug Bounty hunter: Unveiling the Secrets to Success!](https://adipsharif.medium.com/become-a-bug-bounty-hunter-unveiling-the-secrets-to-success-90dfab4c2832?source=rss------bug_bounty-5) 
+ - 💯May 3, 2024 - [Empire Breakout Vulnhub: WriteUp | Walkthrough | VulnHub CTF | Privilege Escalation Attack | Python…](https://shamsulmehmood.medium.com/empire-breakout-vulnhub-writeup-walkthrough-vulnhub-ctf-privilege-escalation-attack-python-235087d3db54?source=rss------bug_bounty-5) 
 
- - 💯May 2, 2024 - [Google VRP Targets by Tier](https://uprootsecurity.medium.com/google-vrp-targets-by-tier-c0679c27e545?source=rss------bug_bounty-5) 
+ - 💯May 2, 2024 - [Real-World Example of Race Condition Exploits “adding Money”](https://medium.com/@dr4040x00/real-world-example-of-race-condition-exploits-adding-money-c8fe62964067?source=rss------bug_bounty-5) 
 
- - 💯May 2, 2024 - [Bug Bounty ID](https://medium.com/@nurdin8/bug-bounty-id-33c529b2cd1a?source=rss------bug_bounty-5) 
+ - 💯May 2, 2024 - [#01: Path traversal](https://medium.com/@karimelsayed0x1/01-path-traversal-0c52daffd26e?source=rss------bug_bounty-5) 
 
- - 💯May 2, 2024 - [24.6 Lab: Exploiting HTTP request smuggling to capture other users requests | 2024](https://cyberw1ng.medium.com/24-6-lab-exploiting-http-request-smuggling-to-capture-other-users-requests-2024-fd10d3b638bc?source=rss------bug_bounty-5) 
+ - 💯May 2, 2024 - [Complex Attack Types: Sample Scenarios 3](https://medium.com/@brsdncr/complex-attack-types-sample-scenarios-3-bcd472d684cf?source=rss------bug_bounty-5) 
 
- - 💯May 1, 2024 - [Javascript code inside HTML](https://medium.com/@thewhiteside2000/javascript-code-inside-html-389a71060bf0?source=rss------bug_bounty-5) 
+ - 💯May 2, 2024 - [Bug Bounty IDN Bootcamp | By Eky](https://medium.com/@muhr6128/bug-bounty-idn-bootcamp-by-eky-7a65bc3f6844?source=rss------bug_bounty-5) 
 
- - 💯May 1, 2024 - [Binary Exploitation: PicoCTF clutter-overflow challenge walk through](https://medium.com/@boogsta/binary-exploitation-picoctf-clutter-overflow-challenge-walk-through-80e2f775102c?source=rss------bug_bounty-5) 
+ - 💯May 2, 2024 - [Alasan ingin belajar pada Bug Bounty IDN Bootcamp](https://medium.com/@putrantosurya38/alasan-ingin-belajar-bug-bounty-9f33d7d75161?source=rss------bug_bounty-5) 
 
- - 💯May 1, 2024 - [Billions Bug Bounty Program](https://billionsquest.medium.com/billions-bug-bounty-program-c86689b4fb29?source=rss------bug_bounty-5) 
+ - 💯May 2, 2024 - [How I Gained Account Access: Exploring the Risks of Password Reset Links in Cybersecurity](https://kd-200.medium.com/how-i-gained-account-access-exploring-the-risks-of-password-reset-links-in-cybersecurity-5811e914c289?source=rss------bug_bounty-5) 
 
- - 💯May 1, 2024 - [Learning Offensive Cybersecurity — Day 2](https://medium.com/@n4rkwh4l/learning-offensive-cybersecurity-day-2-73a682ba1e4d?source=rss------bug_bounty-5) 
+ - 💯May 2, 2024 - [Mengapa bug bounty?](https://medium.com/@rayyaramburambani11/mengapa-bug-bounty-0f77b824cc6c?source=rss------bug_bounty-5) 
 
- - 💯May 1, 2024 - [Exposed Secrets: The Peril of Broken Access Control](https://kd-200.medium.com/exposed-secrets-the-peril-of-broken-access-control-928223c62547?source=rss------bug_bounty-5) 
+ - 💯May 2, 2024 - [How i got admin panel without opening the target](https://thesafdari.medium.com/how-i-got-admin-panel-without-opening-the-target-8ca4a2c219be?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
