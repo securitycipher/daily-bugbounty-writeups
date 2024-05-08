@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 6, 2024 - [Network Infrastructure Recon](https://medium.com/@davidkarpinski1/network-infrastructure-recon-3d5741eec73b?source=rss------bug_bounty-5) 
+ - 💯May 8, 2024 - [Simple bug on Indian government website | Govt. bug hunting](https://medium.com/@sidharthpanda1/simple-bug-on-indian-government-website-govt-bug-hunting-0522af40a6ff?source=rss------bug_bounty-5) 
 
- - 💯May 6, 2024 - [Pengalaman Menemukan Celah Keamanan &lpar;Bug&rpar; Pada Sebuah Website &lpar;Prelude Bug Bounty IDN Bootcamp&rpar;](https://medium.com/@nugrohoandyreza/pengalaman-menemukan-celah-keamanan-bug-pada-sebuah-website-prelude-bug-bounty-idn-bootcamp-7c4d6ad2af1f?source=rss------bug_bounty-5) 
+ - 💯May 7, 2024 - [A Comprehensive Review of the Guided Hacking Forum](https://medium.com/@yannik603/a-comprehensive-review-of-the-guided-hacking-forum-918231ab4f68?source=rss------bug_bounty-5) 
 
- - 💯May 6, 2024 - [Web3 Bug Bounty V/S Smart Contract Auditing](https://securrtech.medium.com/web3-bug-bounty-v-s-smart-contract-auditing-94207960469d?source=rss------bug_bounty-5) 
+ - 💯May 7, 2024 - [Athena TryHackMe Walkthrough](https://medium.com/@boogsta/athena-tryhackme-walkthrough-58eb432f0daa?source=rss------bug_bounty-5) 
 
- - 💯May 6, 2024 - [alasan ingin belajar bug bounty IDN bootcamp](https://medium.com/@ilhamsabana100/alasan-ingin-belajar-bug-bounty-idn-bootcamp-abf359e6a628?source=rss------bug_bounty-5) 
+ - 💯May 7, 2024 - [Threat Modeling for OAuth 2.0 Authorization Framework](https://medium.com/@jayeshkunwal/threat-modeling-for-oauth-2-0-authorization-framework-fcab66226fd7?source=rss------bug_bounty-5) 
 
- - 💯May 6, 2024 - [Blog mengenai saya sebagai syarat Bug Bounty IDN Bootcamp](https://medium.com/@081335097475a/blog-mengenai-saya-sebagai-syarat-bug-bounty-idn-bootcamp-ba3a6d8cdf36?source=rss------bug_bounty-5) 
+ - 💯May 7, 2024 - [How I got $250 for IDOR via Business Logic Error](https://medium.com/@aryamanav.028/how-i-got-250-for-idor-via-business-logic-error-f3ba502baa5e?source=rss------bug_bounty-5) 
 
- - 💯May 6, 2024 - [Pengalaman saya dibidang CyberSecurity](https://medium.com/@ahmadfauzyhafidz/pengalaman-saya-dibidang-cybersecurity-6919e17302d8?source=rss------bug_bounty-5) 
+ - 💯May 7, 2024 - [Title: Understanding Vertical Privilege Escalation in Cybersecurity](https://alvinbijo.medium.com/title-understanding-vertical-privilege-escalation-in-cybersecurity-2a12c42f8d83?source=rss------bug_bounty-5) 
 
- - 💯May 6, 2024 - [My Journey to Become a Bug Hunters | Bug Bounty IDN Bootcamp](https://wahyukiddies.medium.com/my-journey-to-become-a-bug-hunters-bug-bounty-idn-bootcamp-9cc04860c874?source=rss------bug_bounty-5) 
+ - 💯May 7, 2024 - [24.10 Lab: HTTP/2 request smuggling via CRLF injection | 2024](https://cyberw1ng.medium.com/24-10-lab-http-2-request-smuggling-via-crlf-injection-2024-8970aa222b46?source=rss------bug_bounty-5) 
 
- - 💯May 6, 2024 - [Bug bounty IDN Bootcamp: Perjalanan menjadi pentester dan bug hunter](https://medium.com/@rizkiarifsaifudin/bug-bounty-idn-bootcamp-perjalanan-menjadi-pentester-dan-bug-hunter-bf4eee8b64f5?source=rss------bug_bounty-5) 
+ - 💯May 7, 2024 - [Securitydegen.com Feature Update!](https://medium.com/@bugbountydegen/securitydegen-com-feature-update-d0bda8b236c0?source=rss------bug_bounty-5) 
 
- - 💯May 6, 2024 - [Guide To Subdomain Takeovers: DNS Resolutions:-Vertical Recon.](https://hacktivistattacker.medium.com/dns-resolutions-guide-to-subdomain-takeovers-vertical-recon-9da92433e973?source=rss------bug_bounty-5) 
+ - 💯May 7, 2024 - [MIME Sniffing Understanding the Risks and Best Practices](https://medium.com/@Land2Cyber/mime-sniffing-understanding-the-risks-and-best-practices-1a1a5c466abb?source=rss------bug_bounty-5) 
+
+ - 💯May 7, 2024 - [A Thrilling Dive into Cloud Penetration Testing](https://adipsharif.medium.com/a-thrilling-dive-into-cloud-penetration-testing-fc88855f7f15?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
