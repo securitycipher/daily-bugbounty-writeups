@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 8, 2024 - [Exposed Key In Page Source Led To Bypass Captcha](https://medium.com/@mohanad.hussam23/exposed-key-in-page-source-led-to-bypass-captcha-add64f8d133b?source=rss------bug_bounty-5) 
+ - 💯May 10, 2024 - [How I Discovered a CVE by Scanning Open Source Repositories](https://infosecwriteups.com/how-i-discovered-a-cve-by-scanning-open-source-repositories-a5922d21b797?source=rss------bug_bounty-5) 
 
- - 💯May 8, 2024 - [Writing your First Nuclei Template](https://medium.com/@technolifts/writing-your-first-nuclei-template-f88575635ea8?source=rss------bug_bounty-5) 
+ - 💯May 10, 2024 - [IDOR and Missing Authorization leads to free content](https://medium.com/@enigma_/idor-and-missing-authorization-leads-to-free-content-b12037a887a0?source=rss------bug_bounty-5) 
 
- - 💯May 8, 2024 - [XSS vulnerability caused by modifying the Content-Type](https://medium.com/@xiaodongsec/xss-vulnerability-caused-by-modifying-the-content-type-5118e2d02286?source=rss------bug_bounty-5) 
+ - 💯May 9, 2024 - [An easy bounty using fuzzing](https://medium.com/@xnum.1/an-easy-bounty-using-fuzzing-d602ad06f562?source=rss------bug_bounty-5) 
 
- - 💯May 8, 2024 - [Modify the request path to bypass upload restrictions, leading to an XSS vulnerability.](https://medium.com/@xiaodongsec/modify-the-request-path-to-bypass-upload-restrictions-leading-to-an-xss-vulnerability-0610a893ff1a?source=rss------bug_bounty-5) 
+ - 💯May 9, 2024 - [Exploiting JWT Token Leads To IDOR](https://medium.com/@Ajakcybersecurity/exploiting-jwt-token-leads-to-idor-ec48cb8888bb?source=rss------bug_bounty-5) 
 
- - 💯May 8, 2024 - [Hack Any Browser With One Link](https://medium.com/@vishalchaudharydevsec/hack-any-browser-with-one-link-8d890b804627?source=rss------bug_bounty-5) 
+ - 💯May 9, 2024 - [How I Found XSS In Another Govt. Site :: NCIIPC VDP !!](https://medium.com/@p.ra.dee.p_0xx01/how-i-found-xss-in-another-govt-site-nciipc-vdp-84d78c0319c2?source=rss------bug_bounty-5) 
 
- - 💯May 8, 2024 - [24.11 Lab: HTTP/2 request splitting via CRLF injection |2024](https://cyberw1ng.medium.com/24-11-lab-http-2-request-splitting-via-crlf-injection-2024-ddb2adaf0cce?source=rss------bug_bounty-5) 
+ - 💯May 9, 2024 - [HOW I FOUND MY FIRST BUG](https://medium.com/@irenevenunye55/how-i-found-my-first-bug-7d66915a3fbb?source=rss------bug_bounty-5) 
 
- - 💯May 8, 2024 - [Unlocking Bug Bounties: Your Comprehensive Guide to Getting Started](https://medium.com/@sachin.hack/unlocking-bug-bounties-your-comprehensive-guide-to-getting-started-427a51d7e875?source=rss------bug_bounty-5) 
+ - 💯May 9, 2024 - [Fingerprinting♨♨: Identifying Technologies Of Our Target.](https://hacktivistattacker.medium.com/fingerprinting-identifying-technologies-of-our-target-d3b0c021da0f?source=rss------bug_bounty-5) 
 
- - 💯May 8, 2024 - [Revealing a Critical Vulnerability: The Price Manipulation Flaw](https://medium.com/@pawarpushpak36/revealing-a-critical-vulnerability-the-price-manipulation-flaw-cfd640cacf46?source=rss------bug_bounty-5) 
+ - 💯May 9, 2024 - [Understanding Content Security Policy &lpar;CSP&rpar; Bypass What It Is and How to Prevent It](https://medium.com/@Land2Cyber/understanding-content-security-policy-csp-bypass-what-it-is-and-how-to-prevent-it-1ffa925907f6?source=rss------bug_bounty-5) 
 
- - 💯May 8, 2024 - [NCIIPC VDP Bug : Open Redirection Vulnerability In Govt. Site !!](https://medium.com/@p.ra.dee.p_0xx01/nciipc-vdp-bug-open-redirection-vulnerability-in-govt-site-b048860f5d2d?source=rss------bug_bounty-5) 
+ - 💯May 9, 2024 - [Demystifying X-Content-Type-Options Bypass Understanding the Risks and Defenses](https://medium.com/@Land2Cyber/demystifying-x-content-type-options-bypass-understanding-the-risks-and-defenses-1dc6b92a16a3?source=rss------bug_bounty-5) 
 
- - 💯May 8, 2024 - [ETHICAL AND LEGAL ASPECTS OF BUG HUNTING: RESPONSIBLE DISCLOSURE, SCOPE, NDA AND OTHERS](https://medium.com/@Progsky/ethical-and-legal-aspects-of-bug-hunting-responsible-disclosure-scope-nda-and-others-4832b13a1622?source=rss------bug_bounty-5) 
+ - 💯May 9, 2024 - [Linux Privilege Escalation | TryHackMe — Part 1](https://medium.com/@NoOne./linux-privilege-escalation-tryhackme-part-1-f0ae442e6864?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
