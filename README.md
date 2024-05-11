@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 10, 2024 - [How I Discovered a CVE by Scanning Open Source Repositories](https://infosecwriteups.com/how-i-discovered-a-cve-by-scanning-open-source-repositories-a5922d21b797?source=rss------bug_bounty-5) 
+ - 💯May 11, 2024 - [NMAP Command Options](https://medium.com/@sherlock297/nmap-command-options-114b7582b993?source=rss------bug_bounty-5) 
 
- - 💯May 10, 2024 - [IDOR and Missing Authorization leads to free content](https://medium.com/@enigma_/idor-and-missing-authorization-leads-to-free-content-b12037a887a0?source=rss------bug_bounty-5) 
+ - 💯May 11, 2024 - [#2. Bug Bounty POC: Time-Based SQL Injection to Dump Database](https://cyb3rmind.medium.com/2-bug-bounty-poc-time-based-sql-injection-to-dump-database-f8cfa089f393?source=rss------bug_bounty-5) 
 
- - 💯May 9, 2024 - [An easy bounty using fuzzing](https://medium.com/@xnum.1/an-easy-bounty-using-fuzzing-d602ad06f562?source=rss------bug_bounty-5) 
+ - 💯May 11, 2024 - [24.14 Lab: HTTP request smuggling, basic TE.CL vulnerability | 2024](https://cyberw1ng.medium.com/24-14-lab-http-request-smuggling-basic-te-cl-vulnerability-2024-f0159b2569d0?source=rss------bug_bounty-5) 
 
- - 💯May 9, 2024 - [Exploiting JWT Token Leads To IDOR](https://medium.com/@Ajakcybersecurity/exploiting-jwt-token-leads-to-idor-ec48cb8888bb?source=rss------bug_bounty-5) 
+ - 💯May 11, 2024 - [Breaking Down DOM-based XSS: A Practical Exploration](https://medium.com/@osamaavvan/breaking-down-dom-based-xss-a-practical-exploration-929d44f10906?source=rss------bug_bounty-5) 
 
- - 💯May 9, 2024 - [How I Found XSS In Another Govt. Site :: NCIIPC VDP !!](https://medium.com/@p.ra.dee.p_0xx01/how-i-found-xss-in-another-govt-site-nciipc-vdp-84d78c0319c2?source=rss------bug_bounty-5) 
+ - 💯May 11, 2024 - [My LLM Bug Bounty Journey on Hugging Face Hub via Protect AI](https://infosecwriteups.com/my-llm-bug-bounty-journey-on-hugging-face-hub-via-protect-ai-9f3a1bc72c2e?source=rss------bug_bounty-5) 
 
- - 💯May 9, 2024 - [HOW I FOUND MY FIRST BUG](https://medium.com/@irenevenunye55/how-i-found-my-first-bug-7d66915a3fbb?source=rss------bug_bounty-5) 
+ - 💯May 10, 2024 - [Linux Privilege Escalation | TryHackMe — Part 2](https://medium.com/@NoOne./linux-privilege-escalation-tryhackme-part-2-9a4cddba01ab?source=rss------bug_bounty-5) 
 
- - 💯May 9, 2024 - [Fingerprinting♨♨: Identifying Technologies Of Our Target.](https://hacktivistattacker.medium.com/fingerprinting-identifying-technologies-of-our-target-d3b0c021da0f?source=rss------bug_bounty-5) 
+ - 💯May 10, 2024 - [From Novice to Ninja: Unraveling Bug Bounty Beginnings through Cache Poisoning](https://cametom006.medium.com/from-novice-to-ninja-unraveling-bug-bounty-beginnings-through-cache-poisoning-40de3f8fd211?source=rss------bug_bounty-5) 
 
- - 💯May 9, 2024 - [Understanding Content Security Policy &lpar;CSP&rpar; Bypass What It Is and How to Prevent It](https://medium.com/@Land2Cyber/understanding-content-security-policy-csp-bypass-what-it-is-and-how-to-prevent-it-1ffa925907f6?source=rss------bug_bounty-5) 
+ - 💯May 10, 2024 - [Database Info Disclose by Client-Side DOS](https://starlox.medium.com/database-info-disclose-by-client-side-dos-7fb25a26fae8?source=rss------bug_bounty-5) 
 
- - 💯May 9, 2024 - [Demystifying X-Content-Type-Options Bypass Understanding the Risks and Defenses](https://medium.com/@Land2Cyber/demystifying-x-content-type-options-bypass-understanding-the-risks-and-defenses-1dc6b92a16a3?source=rss------bug_bounty-5) 
+ - 💯May 10, 2024 - [A Strange Tale of Email Verification Bypass](https://medium.com/@Arioex/a-strange-tale-of-email-verification-bypass-5eda231d14d8?source=rss------bug_bounty-5) 
 
- - 💯May 9, 2024 - [Linux Privilege Escalation | TryHackMe — Part 1](https://medium.com/@NoOne./linux-privilege-escalation-tryhackme-part-1-f0ae442e6864?source=rss------bug_bounty-5) 
+ - 💯May 10, 2024 - [CSRF Bypass Combined with IDOR To Complete Account Takeover!](https://medium.com/@ozomarzu/csrf-bypass-combined-with-idor-to-complete-account-takeover-f4995c5946d3?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
