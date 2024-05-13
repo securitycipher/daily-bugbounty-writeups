@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
+ - 💯May 12, 2024 - [24.15 Lab: HTTP request smuggling, obfuscating the TE header | 2024](https://cyberw1ng.medium.com/24-15-lab-http-request-smuggling-obfuscating-the-te-header-2024-efdbc0698848?source=rss------bug_bounty-5) 
+
+ - 💯May 12, 2024 - [Hacking more than 130 000 car worldwide in 5 minutes](https://ahmadmansourr.medium.com/hacking-more-than-130-000-car-worldwide-in-5-minutes-766e76003c67?source=rss------bug_bounty-5) 
+
+ - 💯May 12, 2024 - [16 Times Forced Browsing Leads to Authentication bypass [ 300$ Bounty ]](https://medium.com/@jav333d/16-times-forced-browsing-leads-to-authentication-bypass-300-bounty-efc8bd52d310?source=rss------bug_bounty-5) 
+
+ - 💯May 12, 2024 - [Read Code Like a Hacker With SAST](https://medium.com/@matejsmycka/read-code-like-a-hacker-with-sast-28dab6506e45?source=rss------bug_bounty-5) 
+
+ - 💯May 12, 2024 - [How I Found PII Disclosure of Users &amp; PHPInfo&lpar;&rpar; Page ::  #NCIIPC #RVDP](https://medium.com/@p.ra.dee.p_0xx01/how-i-found-pii-disclosure-of-users-phpinfo-page-nciipc-rvdp-58bec4ba27da?source=rss------bug_bounty-5) 
+
+ - 💯May 12, 2024 - [Navigating the Pitfalls Understanding Race Conditions in Software Development](https://medium.com/@Land2Cyber/navigating-the-pitfalls-understanding-race-conditions-in-software-development-b44dfdf63db5?source=rss------bug_bounty-5) 
+
+ - 💯May 12, 2024 - [The Conundrum Understanding Inconsistent Validation](https://medium.com/@Land2Cyber/the-conundrum-understanding-inconsistent-validation-5e6e33ed74c2?source=rss------bug_bounty-5) 
+
+ - 💯May 12, 2024 - [A simple file upload bypass causing XSS attack](https://medium.com/@xiaodongsec/a-simple-file-upload-bypass-causing-xss-attack-6cbbb4c42070?source=rss------bug_bounty-5) 
+
  - 💯May 11, 2024 - [Today I am going to walk through bepractical.tech](https://medium.com/@ross.jubert/today-i-am-going-to-walk-through-bepractical-tech-c15e1df8aa06?source=rss------bug_bounty-5) 
 
  - 💯May 11, 2024 - [Mastering Subdomain Takeovers](https://tanishqshahsays.medium.com/mastering-subdomain-takeovers-c9a531fe5d3b?source=rss------bug_bounty-5) 
-
- - 💯May 11, 2024 - [Linux Privilege Escalation — Capstone Challenge | TryHackMe](https://medium.com/@NoOne./linux-privilege-escalation-capstone-challenge-tryhackme-e69c798204bc?source=rss------bug_bounty-5) 
-
- - 💯May 11, 2024 - [4 XSSs With A Simple &amp; Optimized Payload](https://levelup.gitconnected.com/4-xsss-with-a-simple-optimized-payload-900753538e90?source=rss------bug_bounty-5) 
-
- - 💯May 11, 2024 - [My Hunt: Discovering Microsoft Bugs](https://infosecwriteups.com/my-hunt-discovering-microsoft-bugs-f6a9c790bec0?source=rss------bug_bounty-5) 
-
- - 💯May 11, 2024 - [دي روود ماب علشان تبدا web pentest](https://medium.com/@akaramany3/%D8%AF%D9%8A-%D8%B1%D9%88%D9%88%D8%AF-%D9%85%D8%A7%D8%A8-%D8%B9%D9%84%D8%B4%D8%A7%D9%86-%D8%AA%D8%A8%D8%AF%D8%A7-web-pentest-91ea9560dbf6?source=rss------bug_bounty-5) 
-
- - 💯May 11, 2024 - [Unveiling an Account Takeover Vulnerability in a Leading Automobile Brand](https://medium.com/@anekantsinghai/unveiling-an-account-takeover-vulnerability-in-a-leading-automobile-brand-aa41a4e94bfb?source=rss------bug_bounty-5) 
-
- - 💯May 11, 2024 - [Exploiting Acunetix Vulnweb SQL Injection](https://medium.com/@davidkarpinski1/exploiting-acunetix-vulnweb-sql-injection-5fa5c24b2466?source=rss------bug_bounty-5) 
-
- - 💯May 11, 2024 - [NMAP Command Options](https://medium.com/@sherlock297/nmap-command-options-114b7582b993?source=rss------bug_bounty-5) 
-
- - 💯May 11, 2024 - [#2. Bug Bounty POC: Time-Based SQL Injection to Dump Database](https://cyb3rmind.medium.com/2-bug-bounty-poc-time-based-sql-injection-to-dump-database-f8cfa089f393?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
