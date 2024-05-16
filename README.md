@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 15, 2024 - [CVE-2024–4761: Exploiting Chrome’s JavaScript Engine Highly Exploited &lpar;PoC presented&rpar;](https://infosecwriteups.com/cve-2024-4761-exploiting-chromes-javascript-engine-highly-exploited-poc-presented-dcf9cab95c00?source=rss------bug_bounty-5) 
+ - 💯May 16, 2024 - [How to Create a Cloud Lab for Anonymous Bug Bounty Hunting](https://medium.com/@paritoshblogs/how-to-create-a-cloud-lab-for-anonymous-bug-bounty-hunting-e80ed3a68d8c?source=rss------bug_bounty-5) 
 
- - 💯May 15, 2024 - [Broken Access Control &lpar;IDOR&rpar; &amp; Credential Leak at Legacy API Video Transcode](https://medium.com/@blackarazi/broken-access-control-idor-credential-leak-at-legacy-api-video-transcode-9b5d729fb2d6?source=rss------bug_bounty-5) 
+ - 💯May 16, 2024 - [Breaking Barriers: A Personal Journey Through the World of Bug Bounty Hunting](https://medium.com/@un1tycyb3r/breaking-barriers-a-personal-journey-through-the-world-of-bug-bounty-hunting-a30331db12fa?source=rss------bug_bounty-5) 
 
- - 💯May 14, 2024 - [JNDI Injection — The Complete Story](https://infosecwriteups.com/jndi-injection-the-complete-story-4c5bfbb3f6e1?source=rss------bug_bounty-5) 
+ - 💯May 15, 2024 - [Why I want to become a bug bounty hunter](https://medium.com/@riccilovesdogs/why-i-want-to-become-a-bug-bounty-hunter-135e4f584af6?source=rss------bug_bounty-5) 
 
- - 💯May 14, 2024 - [21.3 Lab: SSRF via OpenID dynamic client registration | 2024](https://cyberw1ng.medium.com/21-3-lab-ssrf-via-openid-dynamic-client-registration-2024-c9ffd445e438?source=rss------bug_bounty-5) 
+ - 💯May 15, 2024 - [Unraveling the Web of Price Manipulation Safeguarding Fairness in Markets](https://medium.com/@Land2Cyber/unraveling-the-web-of-price-manipulation-safeguarding-fairness-in-markets-29541623195e?source=rss------bug_bounty-5) 
 
- - 💯May 14, 2024 - [An easy way to find bugs: Enter wrong data](https://systemweakness.com/an-easy-way-to-find-bugs-enter-wrong-data-0765ed4e9afd?source=rss------bug_bounty-5) 
+ - 💯May 15, 2024 - [Unveiling Order Processing Vulnerabilities Protecting Your Business in the Digital Era](https://medium.com/@Land2Cyber/unveiling-order-processing-vulnerabilities-protecting-your-business-in-the-digital-era-efd027aef0a1?source=rss------bug_bounty-5) 
 
- - 💯May 14, 2024 - [An Email Authentication Bypass, But Marked as N/A in NASA domain](https://medium.com/@Ajakcybersecurity/an-email-authentication-bypass-but-marked-as-n-a-in-nasa-domain-a47977aed8bd?source=rss------bug_bounty-5) 
+ - 💯May 15, 2024 - [5 bugs in one program $$](https://el-cezeri.medium.com/5-bugs-in-one-program-80b550c06a67?source=rss------bug_bounty-5) 
 
- - 💯May 14, 2024 - [XSS on TikTok](https://19whoami19.medium.com/xss-on-tiktok-d2aa209c746d?source=rss------bug_bounty-5) 
+ - 💯May 15, 2024 - [XSS via HTML Injection in Chatbot](https://medium.com/@nidishms1999/xss-via-html-injection-in-chatbot-a24c4f25dc92?source=rss------bug_bounty-5) 
 
- - 💯May 14, 2024 - [Walk Through of Bepractical.tech lab #2](https://medium.com/@ross.jubert/walk-through-of-bepractical-tech-lab-2-bef06b00ccfc?source=rss------bug_bounty-5) 
+ - 💯May 15, 2024 - [Multiple Business Logic Errors in APPLE music/TV allowing bypass of parental controls](https://medium.com/@sam0-0/multiple-business-logic-errors-in-apple-music-tv-allowing-bypass-of-parental-controls-0d870d4870c5?source=rss------bug_bounty-5) 
 
- - 💯May 13, 2024 - [How I found a IDOR at Monitor Mozilla ?](https://medium.com/@abnid312/how-i-found-a-idor-at-monitor-mozilla-313fc6c52f25?source=rss------bug_bounty-5) 
+ - 💯May 15, 2024 - [Gaining Control: How Response Manipulation Leads to Higher Privileges &lpar;PoC&rpar;](https://medium.com/@mrmaulik191/gaining-control-how-response-manipulation-leads-to-higher-privileges-394bdf5f552b?source=rss------bug_bounty-5) 
 
- - 💯May 13, 2024 - [ZoneTransfer — ./Hope](https://ezecias.medium.com/zonetransfer-hope-6261d5c7ac0a?source=rss------bug_bounty-5) 
+ - 💯May 15, 2024 - [A Arte de Explorar SQL Injection: Uma abordagem profunda](https://medium.com/@davidkarpinski1/sql-injection-masterclass-d68f65cd71ae?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
