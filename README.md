@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 16, 2024 - [How to Create a Cloud Lab for Anonymous Bug Bounty Hunting](https://medium.com/@paritoshblogs/how-to-create-a-cloud-lab-for-anonymous-bug-bounty-hunting-e80ed3a68d8c?source=rss------bug_bounty-5) 
+ - 💯May 17, 2024 - [The Hacker’s Mind -Recon Mind map](https://medium.com/@tamhacker1/the-hackers-mind-recon-mind-map-39d14e3750fb?source=rss------bug_bounty-5) 
 
- - 💯May 16, 2024 - [Breaking Barriers: A Personal Journey Through the World of Bug Bounty Hunting](https://medium.com/@un1tycyb3r/breaking-barriers-a-personal-journey-through-the-world-of-bug-bounty-hunting-a30331db12fa?source=rss------bug_bounty-5) 
+ - 💯May 17, 2024 - [CVE-2023–52424: The WiFi SSID Confusion Attack Explained](https://infosecwriteups.com/cve-2023-52424-the-wifi-ssid-confusion-attack-explained-26e43f5cff40?source=rss------bug_bounty-5) 
 
- - 💯May 15, 2024 - [Why I want to become a bug bounty hunter](https://medium.com/@riccilovesdogs/why-i-want-to-become-a-bug-bounty-hunter-135e4f584af6?source=rss------bug_bounty-5) 
+ - 💯May 16, 2024 - [The Art of OSINT: Discovering Locations with Image Analysis and Aritifical Intelligence Tools](https://medium.com/@enigma_/the-art-of-osint-discovering-locations-with-image-analysis-and-aritifical-intelligence-tools-820a4b74d426?source=rss------bug_bounty-5) 
 
- - 💯May 15, 2024 - [Unraveling the Web of Price Manipulation Safeguarding Fairness in Markets](https://medium.com/@Land2Cyber/unraveling-the-web-of-price-manipulation-safeguarding-fairness-in-markets-29541623195e?source=rss------bug_bounty-5) 
+ - 💯May 16, 2024 - [How to execute a Proof of Concept &lpar;PoC&rpar; for any CVEs](https://medium.com/@CTRL2030/how-to-execute-a-proof-of-concept-poc-for-any-cves-e343cb528f2e?source=rss------bug_bounty-5) 
 
- - 💯May 15, 2024 - [Unveiling Order Processing Vulnerabilities Protecting Your Business in the Digital Era](https://medium.com/@Land2Cyber/unveiling-order-processing-vulnerabilities-protecting-your-business-in-the-digital-era-efd027aef0a1?source=rss------bug_bounty-5) 
+ - 💯May 16, 2024 - [How I Hacked One of These Big Companies &lpar;JS files analysis&rpar;](https://l0da.medium.com/how-i-hacked-one-of-these-big-companies-js-files-analysis-7cf47372b642?source=rss------bug_bounty-5) 
 
- - 💯May 15, 2024 - [5 bugs in one program $$](https://el-cezeri.medium.com/5-bugs-in-one-program-80b550c06a67?source=rss------bug_bounty-5) 
+ - 💯May 16, 2024 - [21.5 Lab: Stealing OAuth access tokens via an open redirect | 2024](https://cyberw1ng.medium.com/21-5-lab-stealing-oauth-access-tokens-via-an-open-redirect-2024-88c3679cf0a3?source=rss------bug_bounty-5) 
 
- - 💯May 15, 2024 - [XSS via HTML Injection in Chatbot](https://medium.com/@nidishms1999/xss-via-html-injection-in-chatbot-a24c4f25dc92?source=rss------bug_bounty-5) 
+ - 💯May 16, 2024 - [Reflected XSS via Cache Poisoning](https://medium.com/@majix_de/reflected-xss-via-cache-poisoning-5f57317b7c71?source=rss------bug_bounty-5) 
 
- - 💯May 15, 2024 - [Multiple Business Logic Errors in APPLE music/TV allowing bypass of parental controls](https://medium.com/@sam0-0/multiple-business-logic-errors-in-apple-music-tv-allowing-bypass-of-parental-controls-0d870d4870c5?source=rss------bug_bounty-5) 
+ - 💯May 16, 2024 - [Reflected XSS to Account Takeover](https://medium.com/@majix_de/reflected-xss-to-account-takeover-0fc429be34e8?source=rss------bug_bounty-5) 
 
- - 💯May 15, 2024 - [Gaining Control: How Response Manipulation Leads to Higher Privileges &lpar;PoC&rpar;](https://medium.com/@mrmaulik191/gaining-control-how-response-manipulation-leads-to-higher-privileges-394bdf5f552b?source=rss------bug_bounty-5) 
+ - 💯May 16, 2024 - [How I got Critical IDOR in one of India’s Best Known Food Delivery Website](https://medium.com/@bajajkrrish11/how-i-got-critical-idor-in-one-of-indias-best-known-food-delivery-website-5349c521e44b?source=rss------bug_bounty-5) 
 
- - 💯May 15, 2024 - [A Arte de Explorar SQL Injection: Uma abordagem profunda](https://medium.com/@davidkarpinski1/sql-injection-masterclass-d68f65cd71ae?source=rss------bug_bounty-5) 
+ - 💯May 16, 2024 - [Account takeover using Blind XSS?](https://imwaiting18.medium.com/account-takeover-with-a-sad-ending-31ab82f09a5b?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
