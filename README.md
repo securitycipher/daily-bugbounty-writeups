@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 17, 2024 - [A Story of Zero-click complete Account Takeover](https://medium.com/@shravanisheshasai/a-story-of-zero-click-complete-account-takeover-650784c2d229?source=rss------bug_bounty-5) 
+ - 💯May 19, 2024 - [Walk-Through of Bepractical.tech lab #3](https://medium.com/@ross.jubert/walk-through-of-bepractical-tech-lab-3-07079a7ad5c2?source=rss------bug_bounty-5) 
 
- - 💯May 17, 2024 - [How to Know If Your Android Device Has Been Hacked and What to Do About It](https://rajput623929.medium.com/how-to-know-if-your-android-device-has-been-hacked-and-what-to-do-about-it-740ea5a18b9c?source=rss------bug_bounty-5) 
+ - 💯May 18, 2024 - [Broken Object Level Authorization — BOLA &lpar;ex crAPI&rpar;](https://medium.com/@amaraltohami30/broken-object-level-authorization-bola-ex-crapi-e5a0d30eed2b?source=rss------bug_bounty-5) 
 
- - 💯May 17, 2024 - [User-Based Flaws Enhancing Security from the Ground Up](https://medium.com/@Land2Cyber/user-based-flaws-enhancing-security-from-the-ground-up-e35cd7fe1eee?source=rss------bug_bounty-5) 
+ - 💯May 18, 2024 - [How a Single Parameter Led to Two ATO Cases](https://cametom006.medium.com/how-a-single-parameter-led-to-two-ato-cases-c3cf2f4d00c2?source=rss------bug_bounty-5) 
 
- - 💯May 17, 2024 - [Understanding Account Enumeration A Hidden Threat to Your Online Security](https://medium.com/@Land2Cyber/understanding-account-enumeration-a-hidden-threat-to-your-online-security-f6a2546b88dc?source=rss------bug_bounty-5) 
+ - 💯May 18, 2024 - [Top 50 Ports &amp; Vulnerability](https://medium.com/@logicTech/top-50-ports-vulnerability-572de4274305?source=rss------bug_bounty-5) 
 
- - 💯May 17, 2024 - [22.3 Lab: JWT authentication bypass via weak signing key](https://cyberw1ng.medium.com/22-3-lab-jwt-authentication-bypass-via-weak-signing-key-f49138b16441?source=rss------bug_bounty-5) 
+ - 💯May 18, 2024 - [Interesting .DS_Store finding worth $$](https://medium.com/@akrachliy/interesting-ds-store-finding-worth-6ee7cc46458d?source=rss------bug_bounty-5) 
 
- - 💯May 17, 2024 - [Simple Tips for Bug Bounty Beginners: Finding PII Vulnerabilities](https://medium.com/@anishnarayan/simple-tips-for-bug-bounty-beginners-finding-pii-vulnerabilities-3db5a7151dd4?source=rss------bug_bounty-5) 
+ - 💯May 18, 2024 - [Unmasking Unknown Vulnerabilities The Hidden Dangers in Cybersecurity](https://medium.com/@Land2Cyber/unmasking-unknown-vulnerabilities-the-hidden-dangers-in-cybersecurity-cca364212906?source=rss------bug_bounty-5) 
 
- - 💯May 17, 2024 - [How I found my first mistake Or why you shouldn’t overlook the obvious.](https://medium.com/@nagavicyn2/how-i-found-my-first-mistake-or-why-you-shouldnt-overlook-the-obvious-1f1d443afa6b?source=rss------bug_bounty-5) 
+ - 💯May 18, 2024 - [Understanding Zero-Day Vulnerabilities The Silent Threat in Cybersecurity](https://medium.com/@Land2Cyber/understanding-zero-day-vulnerabilities-the-silent-threat-in-cybersecurity-ce911223c09f?source=rss------bug_bounty-5) 
 
- - 💯May 17, 2024 - [The Hacker’s Mind -Recon Mind map](https://medium.com/@tamhacker1/the-hackers-mind-recon-mind-map-39d14e3750fb?source=rss------bug_bounty-5) 
+ - 💯May 18, 2024 - [Pay 0$, Get ∞ books!](https://medium.com/@karimelsayed0x1/pay-0-get-books-0e093a5eb0de?source=rss------bug_bounty-5) 
 
- - 💯May 17, 2024 - [CVE-2023–52424: The WiFi SSID Confusion Attack Explained](https://infosecwriteups.com/cve-2023-52424-the-wifi-ssid-confusion-attack-explained-26e43f5cff40?source=rss------bug_bounty-5) 
+ - 💯May 18, 2024 - [Found Bug: Cross-Site Scripting &lpar;XSS&rpar; in Laravel Debug Mode !!](https://medium.com/@p.ra.dee.p_0xx01/found-bug-cross-site-scripting-xss-in-laravel-debug-mode-a91939284541?source=rss------bug_bounty-5) 
 
- - 💯May 16, 2024 - [The Art of OSINT: Discovering Locations with Image Analysis and Aritifical Intelligence Tools](https://medium.com/@enigma_/the-art-of-osint-discovering-locations-with-image-analysis-and-aritifical-intelligence-tools-820a4b74d426?source=rss------bug_bounty-5) 
+ - 💯May 18, 2024 - [My 6 Month bug hunting journey, what to expect.](https://medium.com/@tom.sh/my-6-month-bug-hunting-journey-what-to-expect-be7532e187d4?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
