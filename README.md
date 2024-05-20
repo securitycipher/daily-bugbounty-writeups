@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 19, 2024 - [Walk-Through of Bepractical.tech lab #3](https://medium.com/@ross.jubert/walk-through-of-bepractical-tech-lab-3-07079a7ad5c2?source=rss------bug_bounty-5) 
+ - 💯May 20, 2024 - [Open-Redirects Uncovered: Real-World Bypass Techniques Revealed](https://systemweakness.com/open-redirects-uncovered-real-world-bypass-techniques-revealed-7b7422f02049?source=rss------bug_bounty-5) 
 
- - 💯May 18, 2024 - [Broken Object Level Authorization — BOLA &lpar;ex crAPI&rpar;](https://medium.com/@amaraltohami30/broken-object-level-authorization-bola-ex-crapi-e5a0d30eed2b?source=rss------bug_bounty-5) 
+ - 💯May 20, 2024 - [How I Hacked NASA Using Google Dork in Just 10 Minutes](https://medium.com/@gaurish.main/how-i-hacked-nasa-using-google-dork-in-just-10-minutes-6ce3b3401512?source=rss------bug_bounty-5) 
 
- - 💯May 18, 2024 - [How a Single Parameter Led to Two ATO Cases](https://cametom006.medium.com/how-a-single-parameter-led-to-two-ato-cases-c3cf2f4d00c2?source=rss------bug_bounty-5) 
+ - 💯May 20, 2024 - [Working with a client, I came across a CSRF vulnerability in their existing web application.](https://medium.com/@darkly_splendid/working-with-a-client-i-came-across-a-csrf-vulnerability-in-their-existing-web-application-6c256b74684d?source=rss------bug_bounty-5) 
 
- - 💯May 18, 2024 - [Top 50 Ports &amp; Vulnerability](https://medium.com/@logicTech/top-50-ports-vulnerability-572de4274305?source=rss------bug_bounty-5) 
+ - 💯May 20, 2024 - [Bug Zero — This month in Cybersecurity [01–15 May]](https://blog.bugzero.io/bug-zero-this-month-in-cybersecurity-01-15-may-354fd002d5e4?source=rss------bug_bounty-5) 
 
- - 💯May 18, 2024 - [Interesting .DS_Store finding worth $$](https://medium.com/@akrachliy/interesting-ds-store-finding-worth-6ee7cc46458d?source=rss------bug_bounty-5) 
+ - 💯May 19, 2024 - [22.6 Lab: JWT authentication bypass via kid header path traversal](https://cyberw1ng.medium.com/22-6-lab-jwt-authentication-bypass-via-kid-header-path-traversal-3f4392547f7d?source=rss------bug_bounty-5) 
 
- - 💯May 18, 2024 - [Unmasking Unknown Vulnerabilities The Hidden Dangers in Cybersecurity](https://medium.com/@Land2Cyber/unmasking-unknown-vulnerabilities-the-hidden-dangers-in-cybersecurity-cca364212906?source=rss------bug_bounty-5) 
+ - 💯May 19, 2024 - [First bug on VDP program](https://medium.com/@devMRT/first-bug-on-vdp-program-0f9e0baf43c7?source=rss------bug_bounty-5) 
 
- - 💯May 18, 2024 - [Understanding Zero-Day Vulnerabilities The Silent Threat in Cybersecurity](https://medium.com/@Land2Cyber/understanding-zero-day-vulnerabilities-the-silent-threat-in-cybersecurity-ce911223c09f?source=rss------bug_bounty-5) 
+ - 💯May 19, 2024 - [A basic Android Pentest Lab Setup](https://medium.com/@majix_de/a-basic-android-pentest-lab-setup-e601c22c71ae?source=rss------bug_bounty-5) 
 
- - 💯May 18, 2024 - [Pay 0$, Get ∞ books!](https://medium.com/@karimelsayed0x1/pay-0-get-books-0e093a5eb0de?source=rss------bug_bounty-5) 
+ - 💯May 19, 2024 - [22.5 Lab: JWT authentication bypass via jku header injection](https://cyberw1ng.medium.com/22-5-lab-jwt-authentication-bypass-via-jku-header-injection-1ec5032245b3?source=rss------bug_bounty-5) 
 
- - 💯May 18, 2024 - [Found Bug: Cross-Site Scripting &lpar;XSS&rpar; in Laravel Debug Mode !!](https://medium.com/@p.ra.dee.p_0xx01/found-bug-cross-site-scripting-xss-in-laravel-debug-mode-a91939284541?source=rss------bug_bounty-5) 
+ - 💯May 19, 2024 - [JavaScript tools for BugBounty 2024](https://medium.com/@logicTech/javascript-tools-for-bugbounty-2024-fc281111c7c0?source=rss------bug_bounty-5) 
 
- - 💯May 18, 2024 - [My 6 Month bug hunting journey, what to expect.](https://medium.com/@tom.sh/my-6-month-bug-hunting-journey-what-to-expect-be7532e187d4?source=rss------bug_bounty-5) 
+ - 💯May 19, 2024 - [VulnCon 2024 CTF — Internal Leaks](https://medium.com/@pphreak313/vulncon-2024-ctf-internal-leaks-0a7bf21bf96d?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
