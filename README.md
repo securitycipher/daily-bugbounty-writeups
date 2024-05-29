@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 28, 2024 - [Bug Bounty In 2024](https://medium.com/@Code_With_Ssn/bug-bounty-in-2024-54b1f0c3fe75?source=rss------bug_bounty-5) 
+ - 💯May 29, 2024 - [Subdomain takeover via AWS s3 bucket](https://infosecwriteups.com/subdomain-takeover-via-aws-s3-bucket-9c54b1b71c46?source=rss------bug_bounty-5) 
 
- - 💯May 28, 2024 - [Hacking NASA: Critical SSRF + Subdomain Takeover + XSS](https://nickguitar.medium.com/hacking-nasa-critical-ssrf-subdomain-takeover-xss-699be0ce3c06?source=rss------bug_bounty-5) 
+ - 💯May 29, 2024 - [Unauthenticated Cache Purge, Really a Bug?](https://medium.com/@anonymoustriager/unauthenticated-cache-purge-really-a-bug-1da44d6fbfd9?source=rss------bug_bounty-5) 
 
- - 💯May 28, 2024 - [What do you know about XSS? &lpar;Cross-Site Script&rpar;](https://gentilsecurity.medium.com/what-do-you-know-about-xss-cross-site-script-fa050d37be1c?source=rss------bug_bounty-5) 
+ - 💯May 29, 2024 - [Understanding Fileless Malware: How It Works and Real-World Examples](https://medium.com/@paritoshblogs/understanding-fileless-malware-how-it-works-and-real-world-examples-76085c99543d?source=rss------bug_bounty-5) 
 
- - 💯May 27, 2024 - [How To Stay Ahead of 99% Of Bug Bounty Hunters](https://infosecwriteups.com/how-to-stay-ahead-of-99-of-bug-bounty-hunters-a51fb3fc2ecb?source=rss------bug_bounty-5) 
+ - 💯May 29, 2024 - [An interesting Bug that I found in Android Mobile Application](https://medium.com/@jooelsaka/an-interesting-bug-that-i-found-in-android-mobile-application-becf25c8c4d8?source=rss------bug_bounty-5) 
 
- - 💯May 27, 2024 - [The bugs: List of weird vulnerabilities](https://noobsixt9.medium.com/the-bugs-list-of-weird-vulnerabilities-6bc98fc5c1cc?source=rss------bug_bounty-5) 
+ - 💯May 28, 2024 - [25.9 Lab: URL normalization in Web Cache Poisioning](https://cyberw1ng.medium.com/25-9-lab-url-normalization-in-web-cache-poisioning-9a4b72e10a5e?source=rss------bug_bounty-5) 
 
- - 💯May 27, 2024 - [How I got my first US Dollar bounty](https://medium.com/@deepk007/how-i-got-my-first-us-dollar-bounty-4df50ee82fc6?source=rss------bug_bounty-5) 
+ - 💯May 28, 2024 - [شمارع خاله اردبیل شماره خاله رامسرشماره خاله یزدشماره خاله نورآباد09333709804](https://medium.com/@xgxtccbj/%D8%B4%D9%85%D8%A7%D8%B1%D8%B9-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D8%A7%D9%85%D8%B3%D8%B1%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DB%8C%D8%B2%D8%AF%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%86%D9%88%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF09333709804-045d16786c2a?source=rss------bug_bounty-5) 
 
- - 💯May 27, 2024 - [25.7 Lab: Parameter cloaking in Web Cache Poisoning](https://cyberw1ng.medium.com/25-7-lab-parameter-cloaking-in-web-cache-poisoning-ee64feeb01c1?source=rss------bug_bounty-5) 
+ - 💯May 28, 2024 - [Best Packet Sniffers For Reverse Engineering Game Servers](https://medium.com/@MrRipperoni/best-packet-sniffers-for-reverse-engineering-game-servers-c09987c46b33?source=rss------bug_bounty-5) 
 
- - 💯May 27, 2024 - [Earning with Exploits: The Bug Bounty Journey](https://deepseng.medium.com/earning-with-exploits-the-bug-bounty-journey-9d864743c011?source=rss------bug_bounty-5) 
+ - 💯May 28, 2024 - [Self-XSS via filename + CSRF on contact us ‘multipart/data’ form](https://mchklt.medium.com/self-xss-via-filename-csrf-on-contact-us-multipart-data-form-f852dd539547?source=rss------bug_bounty-5) 
 
- - 💯May 26, 2024 - [All About API Security Pentesting](https://infosecwriteups.com/all-about-api-security-pentesting-60dba50e2766?source=rss------bug_bounty-5) 
+ - 💯May 28, 2024 - [PENTESTING INTRODUCTION](https://medium.com/@workwithsane/pentesting-day-01-7eba23231870?source=rss------bug_bounty-5) 
 
- - 💯May 26, 2024 - [How I Found 2 IDORS on My Phone and Made $1,500](https://medium.com/@zack0x01_/how-i-found-2-idors-on-my-phone-and-made-1-500-8b088f5b28db?source=rss------bug_bounty-5) 
+ - 💯May 28, 2024 - [A Whistledown Exclusive: Netflix’s Journey to One Million in Bug Bounty and Beyond](https://netflixtechblog.medium.com/a-whistledown-exclusive-netflixs-journey-to-one-million-in-bug-bounty-and-beyond-9087ffebc3e1?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
