@@ -2,21 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 30, 2024 - [Exported Activity In Android Application Allowing Access to Payments Information](https://medium.com/@mohanad.hussam23/exported-activity-in-android-application-allowing-access-to-payments-information-166dfee5008e?source=rss------bug_bounty-5) 
+ - 💯May 31, 2024 - [Pattern Scanning Intro &lpar;For Game Hacking&rpar;](https://medium.com/@MrRipperoni/pattern-scanning-intro-for-game-hacking-b13401b562fb?source=rss------bug_bounty-5) 
 
- - 💯May 30, 2024 - [Static Testing of iOS Applications](https://sandeepvi.medium.com/static-testing-of-ios-applications-cb09bd8f2927?source=rss------bug_bounty-5) 
+ - 💯May 31, 2024 - [Attacking Web Applications with Ffuf | Skills Assessment — Walkthrough](https://medium.com/@Mx0o14/attacking-web-applications-with-ffuf-skills-assessment-walkthrough-5af4160fe75b?source=rss------bug_bounty-5) 
 
- - 💯May 30, 2024 - [Creative Steps | Reflected XSS into HTML context with nothing encoded](https://gentilsecurity.medium.com/creative-steps-reflected-xss-into-html-context-with-nothing-encoded-0a30d4f2dc24?source=rss------bug_bounty-5) 
+ - 💯May 31, 2024 - [The Planets CTF | Earth CTF | Vulnhub | WriteUp | Walkthrough](https://shamsulmehmood.medium.com/the-planets-ctf-earth-ctf-vulnhub-writeup-walkthrough-38d13c16643c?source=rss------bug_bounty-5) 
 
- - 💯May 29, 2024 - [The Easiest Vulnerability to Find and How to bypass the WAF](https://medium.com/@probza261/the-easiest-vulnerability-to-find-and-how-to-bypass-the-waf-3dbcc422aa7e?source=rss------bug_bounty-5) 
+ - 💯May 30, 2024 - [&lpar;1&rpar;بالمصري Bug Bounty Bootcamp ملخص](https://medium.com/@am3002297/1-%D8%A8%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-bug-bounty-bootcamp-%D9%85%D9%84%D8%AE%D8%B5-8cdf2bf4e108?source=rss------bug_bounty-5) 
 
- - 💯May 29, 2024 - [[Low]Unintended Feature: Exploiting an “Invisible” Delete Function for Temporary Premium Access](https://r4v3n0r.medium.com/low-unintended-feature-exploiting-an-invisible-delete-function-for-temporary-premium-access-909812add8eb?source=rss------bug_bounty-5) 
+ - 💯May 30, 2024 - [Microsoft IIS Server Shortnames &amp; Tilde Magic](https://retkoussa.medium.com/microsoft-iis-server-shortnames-tilde-magic-64df65d26450?source=rss------bug_bounty-5) 
 
- - 💯May 29, 2024 - [Agent Sudo Walkthrough](https://medium.com/@anubhavbali2004/agent-sudo-walkthrough-0a2954d2bb7e?source=rss------bug_bounty-5) 
+ - 💯May 30, 2024 - [How I Found My First Bug in My Bug Bounty Journey](https://medium.com/@HuseyinAdgzl/how-i-found-my-first-bug-in-bug-bounty-journey-49a318874ed8?source=rss------bug_bounty-5) 
 
- - 💯May 29, 2024 - [Mastering Burp Suite for Web Application Security Testing](https://medium.com/@zerodayfreak/mastering-burp-suite-for-web-application-security-testing-9ac8919f89a8?source=rss------bug_bounty-5) 
+ - 💯May 30, 2024 - [A Beautiful Bug: Interesting URL scheme bypass + Race Condition.](https://medium.com/@Nightbloodz/a-beautiful-bug-interesting-url-scheme-bypass-race-condition-61109771a250?source=rss------bug_bounty-5) 
 
- - 💯May 29, 2024 - [Bug Bounty Tips and Tricks: Improve Your Success Rate](https://medium.com/@verylazytech/bug-bounty-tips-and-tricks-improve-your-success-rate-37fa7941d05f?source=rss------bug_bounty-5) 
+ - 💯May 30, 2024 - [Buy Multiple Translink Travel Ticket for the Price of One.](https://medium.com/@aswinmanikandan/buy-multiple-translink-travel-ticket-for-the-price-of-one-82014216c510?source=rss------bug_bounty-5) 
 
- - 💯May 29, 2024 - [S3 bucket enumeration simplified.](https://secureitmania.medium.com/s3-bucket-enumeration-simplified-80bdcdf581d7?source=rss------bug_bounty-5) 
+ - 💯May 30, 2024 - [26.2 Lab: Exploiting vulnerabilities in LLM APIs](https://cyberw1ng.medium.com/26-2-lab-exploiting-vulnerabilities-in-llm-apis-83150b4cdf98?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
