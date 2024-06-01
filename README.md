@@ -2,21 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 31, 2024 - [Pattern Scanning Intro &lpar;For Game Hacking&rpar;](https://medium.com/@MrRipperoni/pattern-scanning-intro-for-game-hacking-b13401b562fb?source=rss------bug_bounty-5) 
+ - 💯June 1, 2024 - [شرح اللاب بطريقة سهلة ومبسطة لفهم نوع ال Reflected XSS into HTML context with nothing encoded](https://gentilsecurity.medium.com/%D8%B4%D8%B1%D8%AD-%D8%A7%D9%84%D9%84%D8%A7%D8%A8-%D8%A8%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%B3%D9%87%D9%84%D8%A9-%D9%88%D9%85%D8%A8%D8%B3%D8%B7%D8%A9-%D9%84%D9%81%D9%87%D9%85-%D9%86%D9%88%D8%B9-%D8%A7%D9%84-reflected-xss-into-html-context-with-nothing-encoded-9dde8cf2baa3?source=rss------bug_bounty-5) 
 
- - 💯May 31, 2024 - [Attacking Web Applications with Ffuf | Skills Assessment — Walkthrough](https://medium.com/@Mx0o14/attacking-web-applications-with-ffuf-skills-assessment-walkthrough-5af4160fe75b?source=rss------bug_bounty-5) 
+ - 💯June 1, 2024 - [ماذا تعرف عن ثغرة XSS? &lpar;Cross-Site Script&rpar;](https://gentilsecurity.medium.com/%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%86-%D8%AB%D8%BA%D8%B1%D8%A9-xss-cross-site-script-d45ecf75b0a6?source=rss------bug_bounty-5) 
 
- - 💯May 31, 2024 - [The Planets CTF | Earth CTF | Vulnhub | WriteUp | Walkthrough](https://shamsulmehmood.medium.com/the-planets-ctf-earth-ctf-vulnhub-writeup-walkthrough-38d13c16643c?source=rss------bug_bounty-5) 
+ - 💯June 1, 2024 - [كيفية استخدام أداة ParamSpider — لبرنامج الجوائز الأمنية &lpar;Bug Bounty&rpar;](https://gentilsecurity.medium.com/%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A3%D8%AF%D8%A7%D8%A9-paramspider-%D9%84%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%A7%D9%84%D8%AC%D9%88%D8%A7%D8%A6%D8%B2-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A%D8%A9-bug-bounty-c1361d476c4a?source=rss------bug_bounty-5) 
 
- - 💯May 30, 2024 - [&lpar;1&rpar;بالمصري Bug Bounty Bootcamp ملخص](https://medium.com/@am3002297/1-%D8%A8%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-bug-bounty-bootcamp-%D9%85%D9%84%D8%AE%D8%B5-8cdf2bf4e108?source=rss------bug_bounty-5) 
+ - 💯May 31, 2024 - [Advanced Web Cache Poisoning](https://medium.com/@majix_de/advanced-web-cache-poisoning-e6e17d5290ce?source=rss------bug_bounty-5) 
 
- - 💯May 30, 2024 - [Microsoft IIS Server Shortnames &amp; Tilde Magic](https://retkoussa.medium.com/microsoft-iis-server-shortnames-tilde-magic-64df65d26450?source=rss------bug_bounty-5) 
+ - 💯May 31, 2024 - [CVE-2024–24919: Zero-Day Vulnerability leads to unauthorized Information Disclosure in Checkpoint](https://codewithvamp.medium.com/cve-2024-24919-zero-day-vulnerability-leads-to-unauthorized-information-disclosure-in-checkpoint-97873b47d160?source=rss------bug_bounty-5) 
 
- - 💯May 30, 2024 - [How I Found My First Bug in My Bug Bounty Journey](https://medium.com/@HuseyinAdgzl/how-i-found-my-first-bug-in-bug-bounty-journey-49a318874ed8?source=rss------bug_bounty-5) 
+ - 💯May 31, 2024 - [How I Found a Vulnerability in Apple: A Journey of Discovery and Impact](https://medium.com/@husnainsuleman/how-i-found-a-vulnerability-in-apple-a-journey-of-discovery-and-impact-0e55f14eef75?source=rss------bug_bounty-5) 
 
- - 💯May 30, 2024 - [A Beautiful Bug: Interesting URL scheme bypass + Race Condition.](https://medium.com/@Nightbloodz/a-beautiful-bug-interesting-url-scheme-bypass-race-condition-61109771a250?source=rss------bug_bounty-5) 
+ - 💯May 31, 2024 - [IDOR Exploit: A Tale of Account Takeover](https://danial1337.medium.com/idor-exploit-a-tale-of-account-takeover-51ab2c47c246?source=rss------bug_bounty-5) 
 
- - 💯May 30, 2024 - [Buy Multiple Translink Travel Ticket for the Price of One.](https://medium.com/@aswinmanikandan/buy-multiple-translink-travel-ticket-for-the-price-of-one-82014216c510?source=rss------bug_bounty-5) 
+ - 💯May 31, 2024 - [OSCP Review](https://medium.com/@nosignalrightnow/oscp-review-3a9568bf9c5d?source=rss------bug_bounty-5) 
 
- - 💯May 30, 2024 - [26.2 Lab: Exploiting vulnerabilities in LLM APIs](https://cyberw1ng.medium.com/26-2-lab-exploiting-vulnerabilities-in-llm-apis-83150b4cdf98?source=rss------bug_bounty-5) 
+ - 💯May 31, 2024 - [26.3 Lab: Indirect prompt injection](https://cyberw1ng.medium.com/26-3-lab-indirect-prompt-injection-27d35f2e0e90?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
