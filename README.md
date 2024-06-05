@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
+ - 💯June 5, 2024 - [Active Directory Red Teaming: A Comprehensive Guide](https://medium.com/@paritoshblogs/active-directory-red-teaming-a-comprehensive-guide-06b1f008d0d4?source=rss------bug_bounty-5) 
+
+ - 💯June 5, 2024 - [EMPIRE CTF: LUPINONE VulnHub Walkthrough | Writeup](https://shamsulmehmood.medium.com/empire-ctf-lupinone-vulnhub-walkthrough-writeup-bea8558ea03b?source=rss------bug_bounty-5) 
+
+ - 💯June 5, 2024 - [Master Bug Bounty Hunting: Your Comprehensive Bug Bounty Course in Hindi](https://medium.com/@marketing_94387/master-bug-bounty-hunting-your-comprehensive-bug-bounty-course-in-hindi-ab990527f9b0?source=rss------bug_bounty-5) 
+
+ - 💯June 5, 2024 - [Easy Latest Critical Severity?](https://medium.com/@anonymoustriager/easy-latest-critical-severity-fc9413d57d80?source=rss------bug_bounty-5) 
+
+ - 💯June 4, 2024 - [How We Got $$$ For a Blind Stored XSS To ATO](https://medium.com/@shari7a0x/how-we-got-for-a-blind-stored-xss-to-ato-2e9b939055ec?source=rss------bug_bounty-5) 
+
+ - 💯June 4, 2024 - [Hacking Android Apps: A Comprehensive Guide](https://medium.com/@roguepayload/hacking-android-apps-a-comprehensive-guide-9905c075021f?source=rss------bug_bounty-5) 
+
+ - 💯June 4, 2024 - [27.4 Lab: DOM-based open redirection](https://cyberw1ng.medium.com/27-4-lab-dom-based-open-redirection-e00e760c9046?source=rss------bug_bounty-5) 
+
+ - 💯June 4, 2024 - [The Chronicle Protocol Bug Bounty is Live](https://medium.com/@ChronicleProtocol/the-chronicle-protocol-bug-bounty-is-live-05b5332e6c76?source=rss------bug_bounty-5) 
+
+ - 💯June 4, 2024 - [My report on using lubuntu 24.04](https://ariedwikusuma9.medium.com/my-report-on-using-lubuntu-24-04-3040bbdb9bab?source=rss------bug_bounty-5) 
+
  - 💯June 4, 2024 - [Easiest P4?](https://medium.com/@anonymoustriager/easiest-p4-feb9e9302562?source=rss------bug_bounty-5) 
-
- - 💯June 3, 2024 - [27.2 Lab: DOM XSS using web messages and JSON.parse](https://cyberw1ng.medium.com/27-2-lab-dom-xss-using-web-messages-and-json-parse-79dbe4290efb?source=rss------bug_bounty-5) 
-
- - 💯June 3, 2024 - [Hack and Pay Later: Bypassing Online Payment Method](https://medium.com/@tirqwork1/hack-and-pay-later-bypassing-online-payment-method-8b366e0dc7ee?source=rss------bug_bounty-5) 
-
- - 💯June 3, 2024 - [My First Finding Bug on a Bugcrowd BBP](https://medium.com/@bhuiyanaman71/my-first-bug-on-a-bbp-fdd512307284?source=rss------bug_bounty-5) 
-
- - 💯June 3, 2024 - [How I Got My First €€€€ Bounty](https://machiavellli.medium.com/how-i-got-my-first-bounty-65ad8a1763de?source=rss------bug_bounty-5) 
-
- - 💯June 3, 2024 - [Earning Your First $1000 as a Cybersecurity Researcher, Hacker, or Hunter](https://securrtech.medium.com/earning-your-first-1000-as-a-cybersecurity-researcher-hacker-or-hunter-8532bcaa48b6?source=rss------bug_bounty-5) 
-
- - 💯June 3, 2024 - [Exposing Login Page Vulnerabilities with Time-Based SQL Injection](https://medium.com/@sachinkewat809/exposing-login-page-vulnerabilities-with-time-based-sql-injection-694a04911e93?source=rss------bug_bounty-5) 
-
- - 💯June 2, 2024 - [How To Escalate P5 Email HTML Injection to P4.](https://medium.com/@Ajakcybersecurity/how-to-escalate-p5-email-html-injection-to-p4-19a61a85a76b?source=rss------bug_bounty-5) 
-
- - 💯June 2, 2024 - [27.2 Lab: DOM XSS using web messages and a JavaScript URL](https://cyberw1ng.medium.com/27-2-lab-dom-xss-using-web-messages-and-a-javascript-url-3d29822c295d?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
