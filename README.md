@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
+ - 💯June 6, 2024 - [The only recon methodology you need.](https://an0nbil.medium.com/the-only-recon-methodology-you-need-cf6c3aff1af1?source=rss------bug_bounty-5) 
+
+ - 💯June 6, 2024 - [Unlock Any PC Remotely with Just an Image: The Ultimate VNC Hack!](https://medium.com/@paritoshblogs/unlock-any-pc-remotely-with-just-an-image-the-ultimate-vnc-hack-a92b22637094?source=rss------bug_bounty-5) 
+
+ - 💯June 6, 2024 - [Another Easy P4 you miss!!!](https://medium.com/@anonymoustriager/another-easy-p4-you-miss-dcadf65adbcb?source=rss------bug_bounty-5) 
+
+ - 💯June 5, 2024 - [CVE-2024–4956: UNAUTHENTICATED PATH TRAVERSAL IN NEXUS REPOSITORY MANAGER 3](https://codewithvamp.medium.com/cve-2024-4956-unauthenticated-path-traversal-in-nexus-repository-manager-3-b4e811ad7e37?source=rss------bug_bounty-5) 
+
+ - 💯June 5, 2024 - [Another Easy P4?](https://medium.com/@anonymoustriager/another-easy-p4-ceaa67ef7e52?source=rss------bug_bounty-5) 
+
+ - 💯June 5, 2024 - [27.5 Lab: DOM-based cookie manipulation](https://cyberw1ng.medium.com/27-5-lab-dom-based-cookie-manipulation-b939af57ef06?source=rss------bug_bounty-5) 
+
+ - 💯June 5, 2024 - [SmartAuditor.AI and new ChatGPT bot for audits](https://medium.com/@bugbountydegen/smartauditor-ai-and-new-chatgpt-bot-for-audits-a8361ec7f52d?source=rss------bug_bounty-5) 
+
+ - 💯June 5, 2024 - [CVE-2024–4358 Critical Flaw Found in Progress Telerik Report Server](https://medium.com/@arafatx90n/cve-2024-4358-critical-flaw-found-in-progress-telerik-report-server-0f379f844819?source=rss------bug_bounty-5) 
+
+ - 💯June 5, 2024 - [Insecure Firebase Unauthorized Write Access on Crypto Exchange Bug Bounty](https://scr1pty.medium.com/insecure-firebase-unauthorized-write-access-on-crypto-exchange-bug-bounty-9e9187b627b1?source=rss------bug_bounty-5) 
+
  - 💯June 5, 2024 - [Active Directory Red Teaming: A Comprehensive Guide](https://medium.com/@paritoshblogs/active-directory-red-teaming-a-comprehensive-guide-06b1f008d0d4?source=rss------bug_bounty-5) 
-
- - 💯June 5, 2024 - [EMPIRE CTF: LUPINONE VulnHub Walkthrough | Writeup](https://shamsulmehmood.medium.com/empire-ctf-lupinone-vulnhub-walkthrough-writeup-bea8558ea03b?source=rss------bug_bounty-5) 
-
- - 💯June 5, 2024 - [Master Bug Bounty Hunting: Your Comprehensive Bug Bounty Course in Hindi](https://medium.com/@marketing_94387/master-bug-bounty-hunting-your-comprehensive-bug-bounty-course-in-hindi-ab990527f9b0?source=rss------bug_bounty-5) 
-
- - 💯June 5, 2024 - [Easy Latest Critical Severity?](https://medium.com/@anonymoustriager/easy-latest-critical-severity-fc9413d57d80?source=rss------bug_bounty-5) 
-
- - 💯June 4, 2024 - [How We Got $$$ For a Blind Stored XSS To ATO](https://medium.com/@shari7a0x/how-we-got-for-a-blind-stored-xss-to-ato-2e9b939055ec?source=rss------bug_bounty-5) 
-
- - 💯June 4, 2024 - [Hacking Android Apps: A Comprehensive Guide](https://medium.com/@roguepayload/hacking-android-apps-a-comprehensive-guide-9905c075021f?source=rss------bug_bounty-5) 
-
- - 💯June 4, 2024 - [27.4 Lab: DOM-based open redirection](https://cyberw1ng.medium.com/27-4-lab-dom-based-open-redirection-e00e760c9046?source=rss------bug_bounty-5) 
-
- - 💯June 4, 2024 - [The Chronicle Protocol Bug Bounty is Live](https://medium.com/@ChronicleProtocol/the-chronicle-protocol-bug-bounty-is-live-05b5332e6c76?source=rss------bug_bounty-5) 
-
- - 💯June 4, 2024 - [My report on using lubuntu 24.04](https://ariedwikusuma9.medium.com/my-report-on-using-lubuntu-24-04-3040bbdb9bab?source=rss------bug_bounty-5) 
-
- - 💯June 4, 2024 - [Easiest P4?](https://medium.com/@anonymoustriager/easiest-p4-feb9e9302562?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
