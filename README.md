@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯June 6, 2024 - [The only recon methodology you need.](https://an0nbil.medium.com/the-only-recon-methodology-you-need-cf6c3aff1af1?source=rss------bug_bounty-5) 
+ - 💯June 7, 2024 - [Cracking the Code: How Cryptography Safeguards Your Digital World](https://medium.com/@paritoshblogs/cracking-the-code-how-cryptography-safeguards-your-digital-world-c1c1887c84ae?source=rss------bug_bounty-5) 
 
- - 💯June 6, 2024 - [Unlock Any PC Remotely with Just an Image: The Ultimate VNC Hack!](https://medium.com/@paritoshblogs/unlock-any-pc-remotely-with-just-an-image-the-ultimate-vnc-hack-a92b22637094?source=rss------bug_bounty-5) 
+ - 💯June 6, 2024 - [Discovering a Critical Vulnerability in application : The Journey of an Accidental Admin](https://adarshkrduaby.medium.com/discovering-a-critical-vulnerability-in-application-the-journey-of-an-accidental-admin-1aebe9d31e09?source=rss------bug_bounty-5) 
 
- - 💯June 6, 2024 - [Another Easy P4 you miss!!!](https://medium.com/@anonymoustriager/another-easy-p4-you-miss-dcadf65adbcb?source=rss------bug_bounty-5) 
+ - 💯June 6, 2024 - [Stored XSS to Account Takeover &lpar;AWS Cognito&rpar;](https://medium.com/@majix_de/stored-xss-to-account-takeover-aws-cognito-c5f76f04befe?source=rss------bug_bounty-5) 
 
- - 💯June 5, 2024 - [CVE-2024–4956: UNAUTHENTICATED PATH TRAVERSAL IN NEXUS REPOSITORY MANAGER 3](https://codewithvamp.medium.com/cve-2024-4956-unauthenticated-path-traversal-in-nexus-repository-manager-3-b4e811ad7e37?source=rss------bug_bounty-5) 
+ - 💯June 6, 2024 - [API Security Issues A Growing Concern in the Digital Age](https://medium.com/@Land2Cyber/api-security-issues-a-growing-concern-in-the-digital-age-dc6851cc8d8b?source=rss------bug_bounty-5) 
 
- - 💯June 5, 2024 - [Another Easy P4?](https://medium.com/@anonymoustriager/another-easy-p4-ceaa67ef7e52?source=rss------bug_bounty-5) 
+ - 💯June 6, 2024 - [Insecure Deserialization A Hidden Vulnerability in Software Systems](https://medium.com/@Land2Cyber/insecure-deserialization-a-hidden-vulnerability-in-software-systems-467d2b8fd6f2?source=rss------bug_bounty-5) 
 
- - 💯June 5, 2024 - [27.5 Lab: DOM-based cookie manipulation](https://cyberw1ng.medium.com/27-5-lab-dom-based-cookie-manipulation-b939af57ef06?source=rss------bug_bounty-5) 
+ - 💯June 6, 2024 - [Broken Access Control A Silent Threat to Cybersecurity](https://medium.com/@Land2Cyber/broken-access-control-a-silent-threat-to-cybersecurity-375a32b75514?source=rss------bug_bounty-5) 
 
- - 💯June 5, 2024 - [SmartAuditor.AI and new ChatGPT bot for audits](https://medium.com/@bugbountydegen/smartauditor-ai-and-new-chatgpt-bot-for-audits-a8361ec7f52d?source=rss------bug_bounty-5) 
+ - 💯June 6, 2024 - [Bug bounty — Cybersecurity subcontractor exposes business data to other customers](https://theclemvp.medium.com/bug-bounty-cybersecurity-subcontractor-exposes-business-data-to-other-customers-d8e1a011ff4b?source=rss------bug_bounty-5) 
 
- - 💯June 5, 2024 - [CVE-2024–4358 Critical Flaw Found in Progress Telerik Report Server](https://medium.com/@arafatx90n/cve-2024-4358-critical-flaw-found-in-progress-telerik-report-server-0f379f844819?source=rss------bug_bounty-5) 
+ - 💯June 6, 2024 - [28.1 Lab: Basic Server-side template injection](https://cyberw1ng.medium.com/28-1-lab-basic-server-side-template-injection-0744f96c74b8?source=rss------bug_bounty-5) 
 
- - 💯June 5, 2024 - [Insecure Firebase Unauthorized Write Access on Crypto Exchange Bug Bounty](https://scr1pty.medium.com/insecure-firebase-unauthorized-write-access-on-crypto-exchange-bug-bounty-9e9187b627b1?source=rss------bug_bounty-5) 
-
- - 💯June 5, 2024 - [Active Directory Red Teaming: A Comprehensive Guide](https://medium.com/@paritoshblogs/active-directory-red-teaming-a-comprehensive-guide-06b1f008d0d4?source=rss------bug_bounty-5) 
+ - 💯June 6, 2024 - [Understanding Cybersecurity : Keeping Our Digital World Safe](https://adnancodestech.medium.com/understanding-cybersecurity-keeping-our-digital-world-safe-1abdd2876a7c?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
