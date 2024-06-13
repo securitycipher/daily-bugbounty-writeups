@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯June 12, 2024 - [Using Shodan to Find and Exploit FTP Servers with Anonymous Access: A Step-by-Step Guide](https://systemweakness.com/using-shodan-to-find-and-exploit-ftp-servers-with-anonymous-access-a-step-by-step-guide-86a5b6e72f75?source=rss------bug_bounty-5) 
+ - 💯June 13, 2024 - [ICMTC CTF 2023 — International Competition of the Military Technical College](https://0xm4r5h4l.medium.com/icmtc-ctf-2023-international-competition-of-the-military-technical-college-65788f3c01a0?source=rss------bug_bounty-5) 
 
- - 💯June 12, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-2&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-2-ef65d69de157?source=rss------bug_bounty-5) 
+ - 💯June 13, 2024 - [The Best Games for Practicing Game Hacking](https://medium.com/@MrRipperoni/the-best-games-for-practicing-game-hacking-baba13493db8?source=rss------bug_bounty-5) 
 
- - 💯June 12, 2024 - [You Won’t Believe What We Found Using Shodan!](https://medium.com/@paritoshblogs/you-wont-believe-what-we-found-using-shodan-e796e13417a3?source=rss------bug_bounty-5) 
+ - 💯June 13, 2024 - [List of Easy P4 $$](https://medium.com/@anonymoustriager/list-of-easy-p4-85ffb9d493ed?source=rss------bug_bounty-5) 
 
- - 💯June 11, 2024 - [29.1 Lab: Client-side prototype pollution via browser APIs](https://cyberw1ng.medium.com/29-1-lab-client-side-prototype-pollution-via-browser-apis-642e91b8159d?source=rss------bug_bounty-5) 
+ - 💯June 12, 2024 - [How I get an easy Blind SSRF by just reading writeups](https://medium.com/@mohamed0xmuslim/how-i-get-an-easy-blind-ssrf-by-just-reading-writeups-a5459bbdf96d?source=rss------bug_bounty-5) 
 
- - 💯June 11, 2024 - [Uncovering Hidden Web Content with ffuf](https://medium.com/@umang.gulati19/uncovering-hidden-web-content-with-ffuf-55d29b21e627?source=rss------bug_bounty-5) 
+ - 💯June 12, 2024 - [ExtPenPy: Accelerate Your Reconnaissance Phase with Ease](https://medium.com/@maliktawfiq12/extpenpy-accelerate-your-reconnaissance-phase-with-ease-e79a164d4f68?source=rss------bug_bounty-5) 
 
- - 💯June 11, 2024 - [1250 $ For 3 Stored XSS AND PII Disclosure , Let’s See How FIS Scammed Me AND Bugcrowd Covered It…](https://medium.com/@0xAwali/1250-for-3-stored-xss-and-pii-disclosure-lets-see-how-fis-scammed-me-and-bugcrowd-covered-it-8561d9ce57b5?source=rss------bug_bounty-5) 
+ - 💯June 12, 2024 - [Denial of Service &lpar;DoS&rpar; Attacks Understanding and Mitigating the Threat](https://medium.com/@Land2Cyber/denial-of-service-dos-attacks-understanding-and-mitigating-the-threat-4f956f1196fc?source=rss------bug_bounty-5) 
 
- - 💯June 11, 2024 - [Explaining the OWASP ZAP Proxy &amp; Burp Suite tool in one video in just one hour](https://gentilsecurity.medium.com/explaining-the-owasp-zap-proxy-burp-suite-tool-in-one-video-in-just-one-hour-537bd7801134?source=rss------bug_bounty-5) 
+ - 💯June 12, 2024 - [Client-Side Vulnerabilities The Achilles’ Heel of Web Security](https://medium.com/@Land2Cyber/client-side-vulnerabilities-the-achilles-heel-of-web-security-c7b82b2477a5?source=rss------bug_bounty-5) 
 
- - 💯June 11, 2024 - [شرح اداة OWASP ZAP Proxy &amp; Burp Suite في فيديو واحد في ساعة واحدة فقط](https://gentilsecurity.medium.com/%D8%B4%D8%B1%D8%AD-%D8%A7%D8%AF%D8%A7%D8%A9-owasp-zap-proxy-burp-suite-%D9%81%D9%8A-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%88%D8%A7%D8%AD%D8%AF-%D9%81%D9%8A-%D8%B3%D8%A7%D8%B9%D8%A9-%D9%88%D8%A7%D8%AD%D8%AF%D8%A9-%D9%81%D9%82%D8%B7-4e4c5e1142bf?source=rss------bug_bounty-5) 
+ - 💯June 12, 2024 - [Insecure Communication The Silent Threat to Our Digital Lives](https://medium.com/@Land2Cyber/insecure-communication-the-silent-threat-to-our-digital-lives-dd42c9503b69?source=rss------bug_bounty-5) 
 
- - 💯June 11, 2024 - [Forensic Investigation Operations — Basic Linux File System Analysis](https://medium.com/@brsdncr/forensic-investigation-operations-basic-linux-file-system-analysis-52025d7b2ec2?source=rss------bug_bounty-5) 
+ - 💯June 12, 2024 - [29.2 Lab: DOM XSS via client-side prototype pollution](https://cyberw1ng.medium.com/29-2-lab-dom-xss-via-client-side-prototype-pollution-ebee89f58933?source=rss------bug_bounty-5) 
 
- - 💯June 11, 2024 - [How I found OpenHAB Automation Panels Accessible Without Authentication](https://medium.com/@jeetpal2007/how-i-found-openhab-automation-panels-accessible-without-authentication-d9edbb3280fd?source=rss------bug_bounty-5) 
+ - 💯June 12, 2024 - [Hacking the Imaginary: A Journey to Discovering a Blind SSRF](https://medium.com/@kandar.souvik6/hacking-the-imaginary-a-journey-to-discovering-a-blind-ssrf-657aac60d8d0?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
