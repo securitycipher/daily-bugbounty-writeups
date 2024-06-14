@@ -2,23 +2,19 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯June 13, 2024 - [ICMTC CTF 2023 — International Competition of the Military Technical College](https://0xm4r5h4l.medium.com/icmtc-ctf-2023-international-competition-of-the-military-technical-college-65788f3c01a0?source=rss------bug_bounty-5) 
+ - 💯June 14, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part — 3&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-3-141b7bfa6ed6?source=rss------bug_bounty-5) 
 
- - 💯June 13, 2024 - [The Best Games for Practicing Game Hacking](https://medium.com/@MrRipperoni/the-best-games-for-practicing-game-hacking-baba13493db8?source=rss------bug_bounty-5) 
+ - 💯June 14, 2024 - [How I hacked a marriage database: tale of IDOR](https://medium.com/@alimuhammadsecured/how-i-hacked-a-marriage-database-tale-of-idor-b4f951d23aa6?source=rss------bug_bounty-5) 
 
- - 💯June 13, 2024 - [List of Easy P4 $$](https://medium.com/@anonymoustriager/list-of-easy-p4-85ffb9d493ed?source=rss------bug_bounty-5) 
+ - 💯June 14, 2024 - [Postmortem a HTTP Request](https://medium.com/@RaunakGupta1922/postmortem-a-http-request-9599bb9d994b?source=rss------bug_bounty-5) 
 
- - 💯June 12, 2024 - [How I get an easy Blind SSRF by just reading writeups](https://medium.com/@mohamed0xmuslim/how-i-get-an-easy-blind-ssrf-by-just-reading-writeups-a5459bbdf96d?source=rss------bug_bounty-5) 
+ - 💯June 13, 2024 - [Breaking Business Logic — Part: 42–4= 2](https://thehemdeep.medium.com/breaking-business-logic-part-42-4-2-d8509ef70436?source=rss------bug_bounty-5) 
 
- - 💯June 12, 2024 - [ExtPenPy: Accelerate Your Reconnaissance Phase with Ease](https://medium.com/@maliktawfiq12/extpenpy-accelerate-your-reconnaissance-phase-with-ease-e79a164d4f68?source=rss------bug_bounty-5) 
+ - 💯June 13, 2024 - [Finding the newest and top-rated cybersecurity tools and content.](https://medium.com/@turvsec/finding-the-newest-and-top-rated-cybersecurity-tools-and-content-a06c9cb54e41?source=rss------bug_bounty-5) 
 
- - 💯June 12, 2024 - [Denial of Service &lpar;DoS&rpar; Attacks Understanding and Mitigating the Threat](https://medium.com/@Land2Cyber/denial-of-service-dos-attacks-understanding-and-mitigating-the-threat-4f956f1196fc?source=rss------bug_bounty-5) 
+ - 💯June 13, 2024 - [Hata Ödül Programları: Dış Kaynak Kullanımı Projenize Nasıl Yardımcı Olabilir?](https://medium.com/@integriteetr/hata-%C3%B6d%C3%BCl-programlar%C4%B1-d%C4%B1%C5%9F-kaynak-kullan%C4%B1m%C4%B1-projenize-nas%C4%B1l-yard%C4%B1mc%C4%B1-olabilir-9e55995ec74a?source=rss------bug_bounty-5) 
 
- - 💯June 12, 2024 - [Client-Side Vulnerabilities The Achilles’ Heel of Web Security](https://medium.com/@Land2Cyber/client-side-vulnerabilities-the-achilles-heel-of-web-security-c7b82b2477a5?source=rss------bug_bounty-5) 
+ - 💯June 13, 2024 - [29.3 Lab: Client-side prototype pollution via flawed sanitization](https://cyberw1ng.medium.com/29-3-lab-client-side-prototype-pollution-via-flawed-sanitization-ce78a48758fa?source=rss------bug_bounty-5) 
 
- - 💯June 12, 2024 - [Insecure Communication The Silent Threat to Our Digital Lives](https://medium.com/@Land2Cyber/insecure-communication-the-silent-threat-to-our-digital-lives-dd42c9503b69?source=rss------bug_bounty-5) 
-
- - 💯June 12, 2024 - [29.2 Lab: DOM XSS via client-side prototype pollution](https://cyberw1ng.medium.com/29-2-lab-dom-xss-via-client-side-prototype-pollution-ebee89f58933?source=rss------bug_bounty-5) 
-
- - 💯June 12, 2024 - [Hacking the Imaginary: A Journey to Discovering a Blind SSRF](https://medium.com/@kandar.souvik6/hacking-the-imaginary-a-journey-to-discovering-a-blind-ssrf-657aac60d8d0?source=rss------bug_bounty-5) 
+ - 💯June 13, 2024 - [Stealing credentials using XSS &lpar;xss on login page&rpar; Your password my password .](https://medium.com/@brutal_panda/stealing-credentials-using-xss-xss-on-login-page-your-password-my-password-059354240801?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
