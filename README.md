@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯June 16, 2024 - [Broken Link Hijacking](https://medium.com/@saeidmicro/broken-link-hijacking-8ff4808a6cd2?source=rss------bug_bounty-5) 
+ - 💯June 17, 2024 - [Brand-new prototype pollution gadget in MongoDB leading to RCE](https://medium.com/@vuusale/brand-new-prototype-pollution-gadget-in-mongodb-leading-to-rce-8c5e0087c15e?source=rss------bug_bounty-5) 
 
- - 💯June 16, 2024 - [Bug Zero — This month in CyberSecurity &lpar;June 1–15&rpar;](https://blog.bugzero.io/bug-zero-this-month-in-cybersecurity-june-1-15-51c4d918b5ae?source=rss------bug_bounty-5) 
+ - 💯June 17, 2024 - [Breaking into the VIP Club: A Tale of Parameter Tampering Exploits](https://systemweakness.com/breaking-into-the-vip-club-a-tale-of-parameter-tampering-exploits-83df7b6b9691?source=rss------bug_bounty-5) 
 
- - 💯June 16, 2024 - [29.6 Lab: Privilege escalation via server-side prototype pollution](https://cyberw1ng.medium.com/29-6-lab-privilege-escalation-via-server-side-prototype-pollution-4895762ce7d6?source=rss------bug_bounty-5) 
+ - 💯June 16, 2024 - [Secrets in the Wild: Uncovering Hidden Threats](https://medium.com/@dzianisskliar29/secrets-in-the-wild-uncovering-hidden-threats-9b26bf180d0c?source=rss------bug_bounty-5) 
 
- - 💯June 15, 2024 - [Complex Attack Types: Sample Scenarios 16](https://medium.com/@brsdncr/complex-attack-types-sample-scenarios-16-2424fcc0af62?source=rss------bug_bounty-5) 
+ - 💯June 16, 2024 - [Hacking &lpar;not only&rpar; for Money](https://medium.com/@guce/hacking-not-only-for-money-e71d72ab8c55?source=rss------bug_bounty-5) 
 
- - 💯June 15, 2024 - [Desvendando uma Vulnerabilidade no Single Sign-On do Facebook: Minha Jornada e Recompensa de $3.000](https://medium.com/@patrick-mns/desvendando-uma-vulnerabilidade-no-single-sign-on-do-facebook-minha-jornada-e-recompensa-de-3-000-9c1bcd2a9f4d?source=rss------bug_bounty-5) 
+ - 💯June 16, 2024 - [Day 20 of Our #CyberQuest1095 Day Challenge](https://d3athcod3.medium.com/day-20-of-our-cyberquest1095-day-challenge-680fbd060cb5?source=rss------bug_bounty-5) 
 
- - 💯June 15, 2024 - [29.5 Lab: Client-side prototype pollution in third-party libraries](https://cyberw1ng.medium.com/29-5-lab-client-side-prototype-pollution-in-third-party-libraries-e767b8352862?source=rss------bug_bounty-5) 
+ - 💯June 16, 2024 - [Server-Side Request Forgery &lpar;SSRF&rpar; A Hidden Threat in Web Security](https://medium.com/@Land2Cyber/server-side-request-forgery-ssrf-a-hidden-threat-in-web-security-30c28827af56?source=rss------bug_bounty-5) 
 
- - 💯June 15, 2024 - [Intelligence HackTheBox Walkthrough | Active Directory](https://d3athcod3.medium.com/intelligence-hackthebox-walkthrough-active-directory-d9cb695201ce?source=rss------bug_bounty-5) 
+ - 💯June 16, 2024 - [Authentication Bypass A Hidden Threat in Cybersecurity](https://medium.com/@Land2Cyber/authentication-bypass-a-hidden-threat-in-cybersecurity-c0187cd56597?source=rss------bug_bounty-5) 
 
- - 💯June 15, 2024 - [[Bounty Weekend] View Any User Design With Simple Path Traversal IDOR](https://medium.com/@rifqihz/bounty-weekend-view-any-user-design-with-simple-path-traversal-idor-5fe0f59f56a6?source=rss------bug_bounty-5) 
+ - 💯June 16, 2024 - [Understanding Web of Things &lpar;WoT&rpar; Vulnerabilities Challenges and Solutions](https://medium.com/@Land2Cyber/understanding-web-of-things-wot-vulnerabilities-challenges-and-solutions-cce6e210baeb?source=rss------bug_bounty-5) 
 
- - 💯June 15, 2024 - [[Bounty Weekend] Possible Code Execution With Integration Script Tampering](https://medium.com/@rifqihz/bounty-weekend-possible-code-execution-with-integration-script-tampering-f38691e99d4b?source=rss------bug_bounty-5) 
+ - 💯June 16, 2024 - [Enumeração de subdomínios de diferentes fontes](https://medium.com/@souzaw/enumera%C3%A7%C3%A3o-de-subdom%C3%ADnios-de-diferentes-fontes-9c67f5bc59e3?source=rss------bug_bounty-5) 
 
- - 💯June 15, 2024 - [Exploring IoT Web Vulnerabilities Securing the Connected World](https://medium.com/@Land2Cyber/exploring-iot-web-vulnerabilities-securing-the-connected-world-87605ddca546?source=rss------bug_bounty-5) 
+ - 💯June 16, 2024 - [Complex Attack Types: Sample Scenarios 18](https://medium.com/@brsdncr/complex-attack-types-sample-scenarios-18-efaf527942ba?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
