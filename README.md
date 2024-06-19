@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯June 18, 2024 - [Unmasking the Invisible Threat: The Ultimate Guide to Malware Analysis](https://medium.com/@paritoshblogs/unmasking-the-invisible-threat-the-ultimate-guide-to-malware-analysis-d287c4d74e7d?source=rss------bug_bounty-5) 
+ - 💯June 19, 2024 - [How Static Analysis Uncovers Hidden Malware Threats !](https://medium.com/@paritoshblogs/how-static-analysis-uncovers-hidden-malware-threats-7c62d132f7f8?source=rss------bug_bounty-5) 
 
- - 💯June 18, 2024 - [A Comprehensive Guide to Android App Pentesting for Bug Bounty Hunter](https://medium.com/@pankajkryadav1/a-comprehensive-guide-to-android-app-pentesting-for-bug-bounty-hunter-ada51e521814?source=rss------bug_bounty-5) 
+ - 💯June 19, 2024 - [Analyzing a Major Web3 Vulnerability and Its Resolution](https://securrtech.medium.com/analyzing-a-major-web3-vulnerability-and-its-resolution-69955d55a0f6?source=rss------bug_bounty-5) 
 
- - 💯June 18, 2024 - [Exploring the DAO Hack: Lessons Learned for Web3 Security](https://securrtech.medium.com/exploring-the-dao-hack-lessons-learned-for-web3-security-08d23984af79?source=rss------bug_bounty-5) 
+ - 💯June 19, 2024 - [29.9 Lab: Remote code execution via server-side prototype pollution](https://cyberw1ng.medium.com/29-9-lab-remote-code-execution-via-server-side-prototype-pollution-d5c98bfe3e73?source=rss------bug_bounty-5) 
 
- - 💯June 17, 2024 - [0xhashimRESETriddle: Vulnerable Web Application](https://medium.com/@hashimamin/0xhashimresetriddle-4f3270411800?source=rss------bug_bounty-5) 
+ - 💯June 18, 2024 - [Guide to Using Nuclei](https://medium.com/@learntheshell/guide-to-using-nuclei-9c37869be30e?source=rss------bug_bounty-5) 
 
- - 💯June 17, 2024 - [Naabu](https://medium.com/@roymemory2018/naabu-21c5438e05ae?source=rss------bug_bounty-5) 
+ - 💯June 18, 2024 - [A Learning Journey: Attempting to Turn a WordPress Theme CVE into a PoC](https://medium.com/@motoko_ayanami/a-learning-journey-attempting-to-turn-a-wordpress-theme-cve-into-a-poc-225cde954493?source=rss------bug_bounty-5) 
 
- - 💯June 17, 2024 - [OSINT FOR BUG HUNTER](https://medium.com/@Progsky/osint-for-bug-hunter-4ae5c700a13a?source=rss------bug_bounty-5) 
+ - 💯June 18, 2024 - [Demystifying Bug Bounty Hunting: A Deep Dive into Cybersecurity&#39;s Hidden Gem](https://medium.com/@biswalsandeep594/demystifying-bug-bounty-hunting-a-deep-dive-into-cybersecuritys-hidden-gem-d8ad2d2d7fcb?source=rss------bug_bounty-5) 
 
- - 💯June 17, 2024 - [Cross-Site Scripting via Web Cache Poisoning and WAF bypass](https://ltsirkov.medium.com/cross-site-scripting-via-web-cache-poisoning-and-waf-bypass-6cb3412d9e11?source=rss------bug_bounty-5) 
+ - 💯June 18, 2024 - [How ChatGPT Turned Me into a Hacker](https://medium.com/@jonathanmondaut/how-chatgpt-turned-me-into-a-hacker-7469d5b43026?source=rss------bug_bounty-5) 
 
- - 💯June 17, 2024 - [Understanding Web3 Bug Bounties: How They Enhance Blockchain Security](https://securrtech.medium.com/understanding-web3-bug-bounties-how-they-enhance-blockchain-security-ac9e8361d7cf?source=rss------bug_bounty-5) 
+ - 💯June 18, 2024 - [Day 22 of our #CyberQuest1095 Day Challenge](https://d3athcod3.medium.com/day-22-of-our-cyberquest1095-day-challenge-c993ded22604?source=rss------bug_bounty-5) 
 
- - 💯June 17, 2024 - [Hunting for Origin IP: A Beginner’s Guide](https://medium.com/@pruthu.raut/hunting-for-origin-ip-a-beginners-guide-70235f3dd415?source=rss------bug_bounty-5) 
+ - 💯June 18, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-5&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-5-efb95db2210b?source=rss------bug_bounty-5) 
+
+ - 💯June 18, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part -4&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-4-00e815fa8026?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
