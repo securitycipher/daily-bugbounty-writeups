@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯June 21, 2024 - [Bypassing iCloud Web Access Restriction](https://ltsirkov.medium.com/bypassing-icloud-web-access-restriction-30cdf12b979c?source=rss------bug_bounty-5) 
+ - 💯June 21, 2024 - [Discovering an XSS Vulnerability on Vue.js 2.6.10 WebApp](https://ibrahimxss.medium.com/discovering-an-xss-vulnerability-on-vue-js-2-6-10-webapp-e6c0cc88e840?source=rss------bug_bounty-5) 
 
- - 💯June 21, 2024 - [How I Found 3 Bugs in a Single Day](https://medium.com/@dsmodi484/how-i-found-3-bugs-in-a-single-day-a690e2abd4fb?source=rss------bug_bounty-5) 
+ - 💯June 21, 2024 - [Microsoft Subdomain XSS Report — Published](https://ibrahimxss.medium.com/microsoft-subdomain-xss-report-published-3e4f54eea93c?source=rss------bug_bounty-5) 
 
- - 💯June 21, 2024 - [Dork Like a Pro: Exploiting Google for Bug Bounty Wins](https://medium.com/@RaunakGupta1922/dork-like-a-pro-exploiting-google-for-bug-bounty-wins-fd2612d7fde3?source=rss------bug_bounty-5) 
+ - 💯June 21, 2024 - [If youre looking for thorough and professional penetration testing services, youve come to the…](https://medium.com/@kafim3137/if-youre-looking-for-thorough-and-professional-penetration-testing-services-youve-come-to-the-ea3d1129b61f?source=rss------bug_bounty-5) 
 
- - 💯June 20, 2024 - [Inside the Kraken $3M Hack: What Happened?](https://medium.com/@cryptopiannews/inside-the-kraken-3m-hack-what-happened-4a0af98c498e?source=rss------bug_bounty-5) 
+ - 💯June 21, 2024 - [Part 1- Everything You Need to Know About Browser Security Policies — SOP, CORS.](https://medium.com/@vikramroot/part-1-everything-you-need-to-know-about-browser-security-policies-sop-cors-3eb025fd3ab8?source=rss------bug_bounty-5) 
 
- - 💯June 20, 2024 - [Very damn vulnerable government site 2.0](https://medium.com/@bl4cksku11/very-damn-vulnerable-government-site-2-0-cf9535cbdb4e?source=rss------bug_bounty-5) 
+ - 💯June 21, 2024 - [Part 2- Everything You Need to Know About Browser Security Policies — CSP, Cookie Attributes, etc.](https://medium.com/@vikramroot/part-2-everything-you-need-to-know-about-browser-security-policies-csp-cookie-attributes-etc-3ea98f737b3a?source=rss------bug_bounty-5) 
 
- - 💯June 20, 2024 - [IF YOU DON.T HAVE money, SELL YOUR CROSS SITE SCRIPTING](https://medium.com/@1daytosee/if-you-don-t-have-money-sell-your-cross-site-scripting-dc4b6bdd046f?source=rss------bug_bounty-5) 
+ - 💯June 21, 2024 - [13.27 Lab: Reflected XSS into a JavaScript string with a single quote and backslash-escaped](https://cyberw1ng.medium.com/13-27-lab-reflected-xss-into-a-javascript-string-with-a-single-quote-and-backslash-escaped-2fbc757feb1a?source=rss------bug_bounty-5) 
 
- - 💯June 20, 2024 - [What is prototype pollution?](https://cyberw1ng.medium.com/what-is-prototype-pollution-76694f0db76a?source=rss------bug_bounty-5) 
+ - 💯June 21, 2024 - [Exploring Web Infrastructure: Tools and Techniques for Effective Recon](https://medium.com/@Kaizen2977/exploring-web-infrastructure-tools-and-techniques-for-effective-recon-11907b7ec938?source=rss------bug_bounty-5) 
 
- - 💯June 20, 2024 - [Complex Attack Types: Sample Scenarios 21](https://medium.com/@brsdncr/complex-attack-types-sample-scenarios-21-e65a13b96002?source=rss------bug_bounty-5) 
+ - 💯June 21, 2024 - [Quick &amp; Easy $100 Bug That You Can Find In 5 minutes](https://levelup.gitconnected.com/quick-easy-100-bug-that-you-can-find-in-5-minutes-aeb4b16745d9?source=rss------bug_bounty-5) 
 
- - 💯June 20, 2024 - [OAuth Misconfiguration: Preemptive Account Registration Exploitation](https://mmnahian.medium.com/oauth-misconfiguration-preemptive-account-registration-exploitation-407be50d6037?source=rss------bug_bounty-5) 
+ - 💯June 21, 2024 - [Best Practices for Securing Your Decentralized Application](https://securrtech.medium.com/best-practices-for-securing-your-decentralized-application-d049a9ec547d?source=rss------bug_bounty-5) 
 
- - 💯June 20, 2024 - [Kraken Faces Extortion Attempt After $3M Bug Exploit](https://medium.com/@whalecrypto/kraken-faces-extortion-attempt-after-3m-bug-exploit-f086f479a4f1?source=rss------bug_bounty-5) 
+ - 💯June 21, 2024 - [Everything About EC-Council CEH](https://medium.com/@mazharshadab292/everything-about-ec-council-ceh-fb47b0392104?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
