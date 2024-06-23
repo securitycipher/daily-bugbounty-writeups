@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
+ - 💯June 23, 2024 - [How i got easy multiple RXSS](https://medium.com/@0xmekky/how-i-got-easy-multiple-rxss-dd3a6bc521dd?source=rss------bug_bounty-5) 
+
+ - 💯June 22, 2024 - [Found Bugs, Got paid, Stayed poor: Making a Living with Bug Bounties](https://slava-moskvin.medium.com/found-bugs-got-paid-stayed-poor-making-a-living-with-bug-bounties-04ba1fbbab73?source=rss------bug_bounty-5) 
+
+ - 💯June 22, 2024 - [CVE-2024–28999 SolarWinds Race Condition](https://medium.com/@0xSphinx/cve-2024-28999-solarwinds-race-condition-62e175339b46?source=rss------bug_bounty-5) 
+
+ - 💯June 22, 2024 - [13.28 Lab: Reflected XSS into a template literal with angle brackets, single, double quotes…](https://cyberw1ng.medium.com/13-28-lab-reflected-xss-into-a-template-literal-with-angle-brackets-single-double-quotes-45602869f45f?source=rss------bug_bounty-5) 
+
+ - 💯June 22, 2024 - [How I found a .env file and can access the whole server of mysql](https://medium.com/@jeetpal2007/how-i-found-a-env-file-and-can-access-the-whole-server-of-mysql-a21af69cbd12?source=rss------bug_bounty-5) 
+
+ - 💯June 22, 2024 - [Practical Threat Hunting Using Known IOC IPs](https://medium.com/@paritoshblogs/practical-threat-hunting-using-known-ioc-ips-26a4eab0b616?source=rss------bug_bounty-5) 
+
+ - 💯June 22, 2024 - [Guide to Using httpx](https://medium.com/@learntheshell/guide-to-using-httpx-a542cbdc4ed4?source=rss------bug_bounty-5) 
+
+ - 💯June 22, 2024 - [The Ultimate Shodan Search Guide for Cybersecurity Analysts](https://systemweakness.com/the-ultimate-shodan-search-guide-for-cybersecurity-analysts-283f17f56182?source=rss------bug_bounty-5) 
+
+ - 💯June 22, 2024 - [How I Found a Simple IDOR Bug That Exposed Sensitive Data](https://medium.com/@dra0x0/how-i-found-a-simple-idor-bug-that-exposed-sensitive-data-36e6e9b508db?source=rss------bug_bounty-5) 
+
  - 💯June 21, 2024 - [Discovering an XSS Vulnerability on Vue.js 2.6.10 WebApp](https://ibrahimxss.medium.com/discovering-an-xss-vulnerability-on-vue-js-2-6-10-webapp-e6c0cc88e840?source=rss------bug_bounty-5) 
-
- - 💯June 21, 2024 - [Microsoft Subdomain XSS Report — Published](https://ibrahimxss.medium.com/microsoft-subdomain-xss-report-published-3e4f54eea93c?source=rss------bug_bounty-5) 
-
- - 💯June 21, 2024 - [If youre looking for thorough and professional penetration testing services, youve come to the…](https://medium.com/@kafim3137/if-youre-looking-for-thorough-and-professional-penetration-testing-services-youve-come-to-the-ea3d1129b61f?source=rss------bug_bounty-5) 
-
- - 💯June 21, 2024 - [Part 1- Everything You Need to Know About Browser Security Policies — SOP, CORS.](https://medium.com/@vikramroot/part-1-everything-you-need-to-know-about-browser-security-policies-sop-cors-3eb025fd3ab8?source=rss------bug_bounty-5) 
-
- - 💯June 21, 2024 - [Part 2- Everything You Need to Know About Browser Security Policies — CSP, Cookie Attributes, etc.](https://medium.com/@vikramroot/part-2-everything-you-need-to-know-about-browser-security-policies-csp-cookie-attributes-etc-3ea98f737b3a?source=rss------bug_bounty-5) 
-
- - 💯June 21, 2024 - [13.27 Lab: Reflected XSS into a JavaScript string with a single quote and backslash-escaped](https://cyberw1ng.medium.com/13-27-lab-reflected-xss-into-a-javascript-string-with-a-single-quote-and-backslash-escaped-2fbc757feb1a?source=rss------bug_bounty-5) 
-
- - 💯June 21, 2024 - [Exploring Web Infrastructure: Tools and Techniques for Effective Recon](https://medium.com/@Kaizen2977/exploring-web-infrastructure-tools-and-techniques-for-effective-recon-11907b7ec938?source=rss------bug_bounty-5) 
-
- - 💯June 21, 2024 - [Quick &amp; Easy $100 Bug That You Can Find In 5 minutes](https://levelup.gitconnected.com/quick-easy-100-bug-that-you-can-find-in-5-minutes-aeb4b16745d9?source=rss------bug_bounty-5) 
-
- - 💯June 21, 2024 - [Best Practices for Securing Your Decentralized Application](https://securrtech.medium.com/best-practices-for-securing-your-decentralized-application-d049a9ec547d?source=rss------bug_bounty-5) 
-
- - 💯June 21, 2024 - [Everything About EC-Council CEH](https://medium.com/@mazharshadab292/everything-about-ec-council-ceh-fb47b0392104?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
