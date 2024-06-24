@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯June 23, 2024 - [How i got easy multiple RXSS](https://medium.com/@0xmekky/how-i-got-easy-multiple-rxss-dd3a6bc521dd?source=rss------bug_bounty-5) 
+ - 💯June 24, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-6&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-6-2ad674553fa0?source=rss------bug_bounty-5) 
 
- - 💯June 22, 2024 - [Found Bugs, Got paid, Stayed poor: Making a Living with Bug Bounties](https://slava-moskvin.medium.com/found-bugs-got-paid-stayed-poor-making-a-living-with-bug-bounties-04ba1fbbab73?source=rss------bug_bounty-5) 
+ - 💯June 24, 2024 - [CVE Seeker — Unveiling Cyber Threats: From Assets to Vulnerability Insights](https://anmolksachan.medium.com/cve-seeker-unveiling-cyber-threats-from-assets-to-vulnerability-insights-b4b485a7aefb?source=rss------bug_bounty-5) 
 
- - 💯June 22, 2024 - [CVE-2024–28999 SolarWinds Race Condition](https://medium.com/@0xSphinx/cve-2024-28999-solarwinds-race-condition-62e175339b46?source=rss------bug_bounty-5) 
+ - 💯June 24, 2024 - [Unseen Dangers: How Cloud Misconfigurations Could Be Your Company’s Biggest Threat](https://medium.com/@paritoshblogs/unseen-dangers-how-cloud-misconfigurations-could-be-your-companys-biggest-threat-c1ed86b10093?source=rss------bug_bounty-5) 
 
- - 💯June 22, 2024 - [13.28 Lab: Reflected XSS into a template literal with angle brackets, single, double quotes…](https://cyberw1ng.medium.com/13-28-lab-reflected-xss-into-a-template-literal-with-angle-brackets-single-double-quotes-45602869f45f?source=rss------bug_bounty-5) 
+ - 💯June 24, 2024 - [Roadmap to Becoming a Professional Penetration Tester with Estimated Learning Time](https://medium.com/@cuncis/roadmap-to-becoming-a-professional-penetration-tester-with-estimated-learning-time-d352bdd43fbe?source=rss------bug_bounty-5) 
 
- - 💯June 22, 2024 - [How I found a .env file and can access the whole server of mysql](https://medium.com/@jeetpal2007/how-i-found-a-env-file-and-can-access-the-whole-server-of-mysql-a21af69cbd12?source=rss------bug_bounty-5) 
+ - 💯June 24, 2024 - [My First Bug Hunting Experience: A Journey from Disappointment to Success](https://b0mk35h.medium.com/my-first-bug-hunting-experience-a-journey-from-disappointment-to-success-ae92c222a0d0?source=rss------bug_bounty-5) 
 
- - 💯June 22, 2024 - [Practical Threat Hunting Using Known IOC IPs](https://medium.com/@paritoshblogs/practical-threat-hunting-using-known-ioc-ips-26a4eab0b616?source=rss------bug_bounty-5) 
+ - 💯June 23, 2024 - [Chaining bugs for Account Takeover](https://medium.com/@hbenja47/chaining-bugs-for-account-takeover-0b90a2d952af?source=rss------bug_bounty-5) 
 
- - 💯June 22, 2024 - [Guide to Using httpx](https://medium.com/@learntheshell/guide-to-using-httpx-a542cbdc4ed4?source=rss------bug_bounty-5) 
+ - 💯June 23, 2024 - [Duplicate P1 in public program](https://medium.com/@mohamed.yasser442200/duplicate-p1-in-public-program-aa9ade8f61c3?source=rss------bug_bounty-5) 
 
- - 💯June 22, 2024 - [The Ultimate Shodan Search Guide for Cybersecurity Analysts](https://systemweakness.com/the-ultimate-shodan-search-guide-for-cybersecurity-analysts-283f17f56182?source=rss------bug_bounty-5) 
+ - 💯June 23, 2024 - [New 100$ Bug in My Methodology!](https://medium.com/@rewmcode/new-100-bug-in-my-methodology-60d99f0dafe2?source=rss------bug_bounty-5) 
 
- - 💯June 22, 2024 - [How I Found a Simple IDOR Bug That Exposed Sensitive Data](https://medium.com/@dra0x0/how-i-found-a-simple-idor-bug-that-exposed-sensitive-data-36e6e9b508db?source=rss------bug_bounty-5) 
+ - 💯June 23, 2024 - [13.29 Exploiting cross-site scripting to steal cookies](https://cyberw1ng.medium.com/13-29-exploiting-cross-site-scripting-to-steal-cookies-21c7d5851ea3?source=rss------bug_bounty-5) 
 
- - 💯June 21, 2024 - [Discovering an XSS Vulnerability on Vue.js 2.6.10 WebApp](https://ibrahimxss.medium.com/discovering-an-xss-vulnerability-on-vue-js-2-6-10-webapp-e6c0cc88e840?source=rss------bug_bounty-5) 
+ - 💯June 23, 2024 - [Complex Attack Types: Sample Scenarios 23](https://medium.com/@brsdncr/complex-attack-types-sample-scenarios-23-c0079166f4d9?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
