@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯June 24, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-6&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-6-2ad674553fa0?source=rss------bug_bounty-5) 
+ - 💯June 25, 2024 - [Securing Your Home Network: Final Steps](https://medium.com/@jessemridley/securing-your-home-network-final-steps-676b1d7c3787?source=rss------bug_bounty-5) 
 
- - 💯June 24, 2024 - [CVE Seeker — Unveiling Cyber Threats: From Assets to Vulnerability Insights](https://anmolksachan.medium.com/cve-seeker-unveiling-cyber-threats-from-assets-to-vulnerability-insights-b4b485a7aefb?source=rss------bug_bounty-5) 
+ - 💯June 24, 2024 - [Next.js and cache poisoning: a quest for the black hole](https://medium.com/@zhero_/next-js-and-cache-poisoning-a-quest-for-the-black-hole-1ae634170a1e?source=rss------bug_bounty-5) 
 
- - 💯June 24, 2024 - [Unseen Dangers: How Cloud Misconfigurations Could Be Your Company’s Biggest Threat](https://medium.com/@paritoshblogs/unseen-dangers-how-cloud-misconfigurations-could-be-your-companys-biggest-threat-c1ed86b10093?source=rss------bug_bounty-5) 
+ - 💯June 24, 2024 - [Bug Bounty Programs: How Outsourcing Can Help Your Project — Sinhala Translation](https://medium.com/@integriteesrilanka/bug-bounty-programs-how-outsourcing-can-help-your-project-sinhala-translation-0a40a97e58c7?source=rss------bug_bounty-5) 
 
- - 💯June 24, 2024 - [Roadmap to Becoming a Professional Penetration Tester with Estimated Learning Time](https://medium.com/@cuncis/roadmap-to-becoming-a-professional-penetration-tester-with-estimated-learning-time-d352bdd43fbe?source=rss------bug_bounty-5) 
+ - 💯June 24, 2024 - [Poodle Haney Bug Bounty](https://medium.com/@haneypoodle/poodle-haney-bug-bounty-1b0a10a03689?source=rss------bug_bounty-5) 
 
- - 💯June 24, 2024 - [My First Bug Hunting Experience: A Journey from Disappointment to Success](https://b0mk35h.medium.com/my-first-bug-hunting-experience-a-journey-from-disappointment-to-success-ae92c222a0d0?source=rss------bug_bounty-5) 
+ - 💯June 24, 2024 - [Tutorial Install Burpsuite Beginner](https://medium.com/@muhammadriva/tutorial-install-burpsuite-beginner-927375c22f94?source=rss------bug_bounty-5) 
 
- - 💯June 23, 2024 - [Chaining bugs for Account Takeover](https://medium.com/@hbenja47/chaining-bugs-for-account-takeover-0b90a2d952af?source=rss------bug_bounty-5) 
+ - 💯June 24, 2024 - [Unrestricted File Upload Walkthrough — VulnLab by Yavuzlar](https://medium.com/@muhammadriva/unrestricted-file-upload-walkthrough-vulnlab-by-yavuzlar-76854ebafe84?source=rss------bug_bounty-5) 
 
- - 💯June 23, 2024 - [Duplicate P1 in public program](https://medium.com/@mohamed.yasser442200/duplicate-p1-in-public-program-aa9ade8f61c3?source=rss------bug_bounty-5) 
+ - 💯June 24, 2024 - [OTP Bypass through Session Manipulation](https://medium.com/@n4if/otp-bypass-through-session-manipulation-d73deceaa42f?source=rss------bug_bounty-5) 
 
- - 💯June 23, 2024 - [New 100$ Bug in My Methodology!](https://medium.com/@rewmcode/new-100-bug-in-my-methodology-60d99f0dafe2?source=rss------bug_bounty-5) 
+ - 💯June 24, 2024 - [Insecure Direct Object Reference &lpar;IDOR&rpar; Walkthrough — VulnLab by Yavuzlar](https://medium.com/@muhammadriva/insecure-direct-object-reference-idor-walkthrough-vulnlab-by-yavuzlar-3d16ce3f5345?source=rss------bug_bounty-5) 
 
- - 💯June 23, 2024 - [13.29 Exploiting cross-site scripting to steal cookies](https://cyberw1ng.medium.com/13-29-exploiting-cross-site-scripting-to-steal-cookies-21c7d5851ea3?source=rss------bug_bounty-5) 
+ - 💯June 24, 2024 - [Cross Site Scripting &lpar;XSS&rpar; Walkthrough — VulnLab XSS by Yavuzlar](https://medium.com/@muhammadriva/cross-site-scripting-xss-walkthrough-vulnlab-xss-by-yavuzlar-149d14ab2d6b?source=rss------bug_bounty-5) 
 
- - 💯June 23, 2024 - [Complex Attack Types: Sample Scenarios 23](https://medium.com/@brsdncr/complex-attack-types-sample-scenarios-23-c0079166f4d9?source=rss------bug_bounty-5) 
+ - 💯June 24, 2024 - [OAuth CSRF: Exploiting the Authorization Code Flow for Account Takeover](https://medium.com/@cyberpro151/oauth-csrf-exploiting-the-authorization-code-flow-for-account-takeover-f67cee914d39?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
