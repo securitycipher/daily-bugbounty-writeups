@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 1, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-29&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-29-d5e656812d96?source=rss------bug_bounty-5) 
+ - 💯July 2, 2024 - [Do Hackers Really Need Coding Skills? Let’s Understand . . .](https://d3athcod3.medium.com/do-hackers-really-need-coding-skills-lets-understand-51e60e16c978?source=rss------bug_bounty-5) 
 
- - 💯July 1, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-28&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-28-ae3cb3e93960?source=rss------bug_bounty-5) 
+ - 💯July 2, 2024 - [18.4 Lab: Arbitrary object injection in PHP](https://cyberw1ng.medium.com/18-4-lab-arbitrary-object-injection-in-php-30a164de4595?source=rss------bug_bounty-5) 
 
- - 💯July 1, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-27&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-27-f5c03938d8fb?source=rss------bug_bounty-5) 
+ - 💯July 2, 2024 - [Bypassing Input Validation  $0 - $1000](https://medium.com/@mdnafeed3/bypassing-input-validation-0-1000-799682d547ba?source=rss------bug_bounty-5) 
 
- - 💯July 1, 2024 - [Understanding and Mitigating Smart Contract Vulnerabilities](https://securrtech.medium.com/understanding-and-mitigating-smart-contract-vulnerabilities-291b7fe168f2?source=rss------bug_bounty-5) 
+ - 💯July 2, 2024 - [Understanding Admin Login Bypass: A Critical Security Discussion](https://farrosfr.medium.com/understanding-admin-login-bypass-a-critical-security-discussion-2641e54e60fd?source=rss------bug_bounty-5) 
 
- - 💯July 1, 2024 - [18.3 Using application functionality to exploit insecure deserialization](https://cyberw1ng.medium.com/18-3-using-application-functionality-to-exploit-insecure-deserialization-d6f18fe4811c?source=rss------bug_bounty-5) 
+ - 💯July 1, 2024 - [THM — Blog walkthrough](https://medium.com/@riickyrick/thm-blog-walkthrough-21f2844eafda?source=rss------bug_bounty-5) 
 
- - 💯July 1, 2024 - [Effective XSS methodology : The true way to hunt XSS](https://xdead4f.medium.com/effective-xss-methodology-the-true-way-to-hunt-xss-4f4d740035cc?source=rss------bug_bounty-5) 
+ - 💯July 1, 2024 - [VPS -Virtual Private Server-](https://medium.com/@haticezkmnl/vps-virtual-private-server-f37ffab2f3f1?source=rss------bug_bounty-5) 
 
- - 💯June 30, 2024 - [How to use Cheat Engine on Opera Gx](https://medium.com/@MrRipperoni/how-to-use-cheat-engine-on-opera-gx-ea6b121f0301?source=rss------bug_bounty-5) 
+ - 💯July 1, 2024 - [‍Hacking Hidden Gems: Content Discovery with Webseek](https://medium.com/@hackertam1/hacking-hidden-gems-content-discovery-with-webseek-cf5a00c97d72?source=rss------bug_bounty-5) 
 
- - 💯June 30, 2024 - [Cisco Finesse Remote File Inclusion &lpar;CVE-2024–20405&rpar;](https://0x3zzat.medium.com/cisco-finesse-remote-file-inclusion-cve-2024-20405-7947c3327e0c?source=rss------bug_bounty-5) 
+ - 💯July 1, 2024 - [How I found Bug on NASA](https://medium.com/@psychomong/how-i-found-bug-on-nasa-b2408e14aa17?source=rss------bug_bounty-5) 
 
- - 💯June 30, 2024 - [Cisco Finesse Server Side Request Forgery &lpar;CVE-2024–20404&rpar;](https://0x3zzat.medium.com/cisco-finesse-server-side-request-forgery-cve-2024-20404-5d74b449a4a2?source=rss------bug_bounty-5) 
+ - 💯July 1, 2024 - [My 60 Days Journey To Find My First Bug](https://medium.com/@binarysleuth247/my-60-days-journey-to-find-my-first-bug-59a2e676fda8?source=rss------bug_bounty-5) 
 
- - 💯June 30, 2024 - [18.2 Modifying Serialized Data Types](https://cyberw1ng.medium.com/18-2-modifying-serialized-data-types-726426fb3350?source=rss------bug_bounty-5) 
+ - 💯July 1, 2024 - [3 Easy cash via cache](https://medium.com/@mohamed0xmuslim/3-easy-cash-via-cache-99d600565ac5?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
