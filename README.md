@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 4, 2024 - [How I Found an IDOR Vulnerability in a Public Program on HackerOne](https://medium.com/@muhammadfurqanoffical/how-i-found-an-idor-vulnerability-in-a-public-program-on-hackerone-44c6724b0292?source=rss------bug_bounty-5) 
+ - 💯July 5, 2024 - [Penjelasan Wifi Deauth Attack dan Demonstrasinya](https://hack4funacademy.medium.com/penjelasan-wifi-deauth-attack-dan-demonstrasinya-1cecaca53915?source=rss------bug_bounty-5) 
 
- - 💯July 4, 2024 - [Apa itu XSS dan Bagaimana cara saya menemukan puluhan XSS Vulnerability](https://hack4funacademy.medium.com/apa-itu-xss-dan-bagaimana-cara-saya-menemukan-puluhan-xss-vulnerability-46fba9491bba?source=rss------bug_bounty-5) 
+ - 💯July 4, 2024 - [Mass Hunting XSS vulnerabilities](https://systemweakness.com/mass-hunting-xss-vulnerabilities-8d4785968727?source=rss------bug_bounty-5) 
 
- - 💯July 4, 2024 - [Understanding Request Smuggling: A Hidden Web Vulnerability &lpar;K-Edition&rpar;](https://medium.com/@friendly_/understanding-request-smuggling-a-hidden-web-vulnerability-k-edition-6ffab38d5aa1?source=rss------bug_bounty-5) 
+ - 💯July 4, 2024 - [The Problem With Bug Bounties](https://kf106.medium.com/the-problem-with-bug-bounties-0c5d956411d8?source=rss------bug_bounty-5) 
 
- - 💯July 4, 2024 - [SSRF Vulnerability in HiTranslate: A Technical Breakdown](https://medium.com/@security.tecno/ssrf-vulnerability-in-hitranslate-a-technical-breakdown-a5f517467a5b?source=rss------bug_bounty-5) 
+ - 💯July 4, 2024 - [IDOR to change other’s Account Name](https://codingninjablogs.tech/idor-to-change-others-account-name-43ddf7cfe429?source=rss------bug_bounty-5) 
 
- - 💯July 4, 2024 - [Mastering Bug Bounty with Professor: Strategies for Success](https://bughuntar.medium.com/mastering-bug-bounty-with-professor-strategies-for-success-436fac3c7e28?source=rss------bug_bounty-5) 
+ - 💯July 4, 2024 - [Tools For Beginner Bug Hunter, Penetration Tester or Web Security Engineer](https://medium.com/@a5adujjaman/tools-for-beginner-bug-hunter-penetration-tester-or-web-security-engineer-a5510748fc5a?source=rss------bug_bounty-5) 
 
- - 💯July 4, 2024 - [Google launches $250,000 bug bounty, this time targeting KVM, a virtual machine element](https://medium.com/@tothe21century/google-launches-250-000-bug-bounty-this-time-targeting-kvm-a-virtual-machine-element-d73cfbd63243?source=rss------bug_bounty-5) 
+ - 💯July 4, 2024 - [0 star rating got me 40 EUR. MY first bug I got paid for.](https://medium.com/@siyamhassan.main/0-star-rating-got-me-40-eur-my-first-bug-i-got-paid-for-18417f76a707?source=rss------bug_bounty-5) 
 
- - 💯July 3, 2024 - [How I Discovered Authentication Bypass That Blocks Users from Accessing the Website ?](https://sayedv2.medium.com/how-i-discovered-authentication-bypass-that-blocks-users-from-accessing-the-website-93140fa180ac?source=rss------bug_bounty-5) 
+ - 💯July 4, 2024 - [2.13 Lab: Broken brute-force protection, multiple credentials per request](https://cyberw1ng.medium.com/2-13-lab-broken-brute-force-protection-multiple-credentials-per-request-1beb6a85b12c?source=rss------bug_bounty-5) 
 
- - 💯July 3, 2024 - [#IBRAHIMXSS TOOL RELEASE](https://ibrahimxss.medium.com/ibrahimxss-tool-release-97ba90fc3419?source=rss------bug_bounty-5) 
+ - 💯July 4, 2024 - [How I earned $500 bounty for privilege escalation  vulnerability !!](https://kumarmohank889.medium.com/how-i-earned-500-bounty-for-privilege-escalation-vulnerability-c42977abcc52?source=rss------bug_bounty-5) 
 
- - 💯July 3, 2024 - [Aylık Özet Haziran 2024: Incognitee Hata Ödülü Lansmanı, Polkadot Hazine Teklifi ve Daha Fazlası](https://medium.com/@integriteetr/ayl%C4%B1k-%C3%B6zet-haziran-2024-incognitee-hata-%C3%B6d%C3%BCl%C3%BC-lansman%C4%B1-polkadot-hazine-teklifi-ve-daha-fazlas%C4%B1-22beabdf77aa?source=rss------bug_bounty-5) 
+ - 💯July 4, 2024 - [How I Used Keylogger XSS to Capture Credentials Leading to ATO](https://medium.com/@yyaminn/how-i-used-keylogger-xss-to-capture-credentials-leading-to-ato-06593e7a0798?source=rss------bug_bounty-5) 
 
- - 💯July 3, 2024 - [PortSwigger LABs- SQL Injection](https://medium.com/@1dnz/lab-sql-injection-vulnerability-in-where-clause-allowing-retrieval-of-hidden-data-ec0d03f83574?source=rss------bug_bounty-5) 
+ - 💯July 4, 2024 - [HACKBAR: A BROWSER EXTENSION FOR WEB SECURITY TESTING](https://medium.com/@Progsky/hackbar-a-browser-extension-for-web-security-testing-461b97d1a9e9?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
