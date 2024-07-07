@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 6, 2024 - [Stored XSS in PDF Viewer](https://medium.com/@osamaavvan/stored-xss-in-pdf-viewer-9cc5b955de2b?source=rss------bug_bounty-5) 
+ - 💯July 7, 2024 - [I found an email verification bypass](https://medium.com/@pvnk24/i-found-an-email-verification-bypass-982b00864366?source=rss------bug_bounty-5) 
 
- - 💯July 5, 2024 - [Nuclei Kullanımı](https://medium.com/@sabriacun552/nuclei-kullan%C4%B1m%C4%B1-7038742dc53e?source=rss------bug_bounty-5) 
+ - 💯July 7, 2024 - [Demystifying HTTP Parameters for beginners](https://medium.com/@mrunoriginal/demystifying-http-parameters-for-beginners-219d5c65499e?source=rss------bug_bounty-5) 
 
- - 💯July 5, 2024 - [How to Use Google Dorks to Access Online Cameras](https://medium.com/@mirabelle.dib/how-to-use-google-dorks-to-access-online-cameras-251e83106f6b?source=rss------bug_bounty-5) 
+ - 💯July 6, 2024 - [Identifying, ChronosCodeFail, a Critical Bug in the Dayforce Clock System](https://medium.com/@quantumsquint/identifying-chronoscodefail-a-critical-bug-in-the-dayforce-clock-system-58cb98c00d32?source=rss------bug_bounty-5) 
 
- - 💯July 5, 2024 - [Complex Attack Types: Sample Scenarios 34](https://medium.com/@brsdncr/complex-attack-types-sample-scenarios-34-48d60e2bb0fb?source=rss------bug_bounty-5) 
+ - 💯July 6, 2024 - [Exploiting flawed validation of file uploads](https://cyberw1ng.medium.com/exploiting-flawed-validation-of-file-uploads-8a089992e3a1?source=rss------bug_bounty-5) 
 
- - 💯July 5, 2024 - [Everything About OSCP: A Comprehensive Guide](https://medium.com/@mazharshadab292/everything-about-oscp-a-comprehensive-guide-36794d325e67?source=rss------bug_bounty-5) 
+ - 💯July 6, 2024 - [A Simple 2FA Bypass](https://infosecwriteups.com/a-simple-2fa-bypass-43c8af9006ec?source=rss------bug_bounty-5) 
 
- - 💯July 5, 2024 - [Penggunaan Tools Steghide, ExifTool dan Uji Coba Automation Scanner Bug Bounty &lpar;Dalfox&rpar;](https://medium.com/@anggitaniaaurien/penggunaan-tools-steghide-exiftool-dan-uji-coba-automation-scanner-bug-bounty-dalfox-4fbe93e83eb3?source=rss------bug_bounty-5) 
+ - 💯July 6, 2024 - [Complex Attack Types: Sample Scenarios 35](https://medium.com/@brsdncr/complex-attack-types-sample-scenarios-35-bc24cffb5f95?source=rss------bug_bounty-5) 
 
- - 💯July 5, 2024 - [The PDF Trojan Horse: Leveraging HTML Injection for SSRF and Internal Resource Access](https://uchihamrx.medium.com/the-pdf-trojan-horse-leveraging-html-injection-for-ssrf-and-internal-resource-access-fbf69efcb33d?source=rss------bug_bounty-5) 
+ - 💯July 6, 2024 - [From Long-Term Hacking to Instant Rewards: Finding SQLi in 3 Minutes Worth $3125](https://medium.com/@gguzelkokar.mdbf15/from-long-term-hacking-to-instant-rewards-finding-sqli-in-3-minutes-worth-3125-ac36c6e950bf?source=rss------bug_bounty-5) 
 
- - 💯July 5, 2024 - [Unlocking the Power of Nmap: Your Ultimate Guide to Network Scanning](https://medium.com/@josuofficial327/unlocking-the-power-of-nmap-your-ultimate-guide-to-network-scanning-3cb66fe66d75?source=rss------bug_bounty-5) 
+ - 💯July 6, 2024 - [$500 for Cracking Invitation Code For Unauthorized Access &amp; Account Takeover](https://medium.com/@a13h1/500-for-cracking-invitation-code-for-unauthorized-access-account-takeover-558c663fb947?source=rss------bug_bounty-5) 
 
- - 💯July 5, 2024 - [2.14 Lab: 2FA bypass using a brute-force attack](https://cyberw1ng.medium.com/2-14-lab-2fa-bypass-using-a-brute-force-attack-ad74afd23fcd?source=rss------bug_bounty-5) 
-
- - 💯July 5, 2024 - [A Big Gmail Flaw: Sending Hidden Viruses in Gmail.](https://medium.com/@azanulrana/a-big-gmail-flaw-sending-hidden-viruses-in-gmail-09b52dd891e9?source=rss------bug_bounty-5) 
+ - 💯July 6, 2024 - [Rate Limit Bypass Due to Cryptographic Weakness](https://javroot.medium.com/rate-limit-bypass-due-to-cryptographic-weakness-2cdb3a112bba?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
