@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 7, 2024 - [I found an email verification bypass](https://medium.com/@pvnk24/i-found-an-email-verification-bypass-982b00864366?source=rss------bug_bounty-5) 
+ - 💯July 8, 2024 - [Web3 Development: Key Security Considerations](https://securrtech.medium.com/web3-development-key-security-considerations-5358015e767a?source=rss------bug_bounty-5) 
 
- - 💯July 7, 2024 - [Demystifying HTTP Parameters for beginners](https://medium.com/@mrunoriginal/demystifying-http-parameters-for-beginners-219d5c65499e?source=rss------bug_bounty-5) 
+ - 💯July 8, 2024 - [Revolutionizing Content Issue Detection with CiBI: A Game-Changer in Automation](https://argotriwidodo.medium.com/revolutionizing-content-issue-detection-with-cibi-a-game-changer-in-automation-1e0f0b6e8ce9?source=rss------bug_bounty-5) 
 
- - 💯July 6, 2024 - [Identifying, ChronosCodeFail, a Critical Bug in the Dayforce Clock System](https://medium.com/@quantumsquint/identifying-chronoscodefail-a-critical-bug-in-the-dayforce-clock-system-58cb98c00d32?source=rss------bug_bounty-5) 
+ - 💯July 8, 2024 - [Bypassing Admin Authentication Website Kampus](https://uzet.medium.com/bypassing-admin-authentication-website-kampus-b59bc43b6c98?source=rss------bug_bounty-5) 
 
- - 💯July 6, 2024 - [Exploiting flawed validation of file uploads](https://cyberw1ng.medium.com/exploiting-flawed-validation-of-file-uploads-8a089992e3a1?source=rss------bug_bounty-5) 
+ - 💯July 7, 2024 - [Bug Hunter? If only…](https://medium.com/@ded3y3/bug-hunter-if-only-5fabca6cffb7?source=rss------bug_bounty-5) 
 
- - 💯July 6, 2024 - [A Simple 2FA Bypass](https://infosecwriteups.com/a-simple-2fa-bypass-43c8af9006ec?source=rss------bug_bounty-5) 
+ - 💯July 7, 2024 - [Complex Attack Types: Sample Scenarios 36](https://medium.com/@brsdncr/complex-attack-types-sample-scenarios-36-c648fd8d55bd?source=rss------bug_bounty-5) 
 
- - 💯July 6, 2024 - [Complex Attack Types: Sample Scenarios 35](https://medium.com/@brsdncr/complex-attack-types-sample-scenarios-35-bc24cffb5f95?source=rss------bug_bounty-5) 
+ - 💯July 7, 2024 - [404 Not Found to Google cloud service account credentials disclosure!](https://kumarmohank889.medium.com/404-not-found-to-google-cloud-service-account-credentials-disclosure-3b5f64e80fd5?source=rss------bug_bounty-5) 
 
- - 💯July 6, 2024 - [From Long-Term Hacking to Instant Rewards: Finding SQLi in 3 Minutes Worth $3125](https://medium.com/@gguzelkokar.mdbf15/from-long-term-hacking-to-instant-rewards-finding-sqli-in-3-minutes-worth-3125-ac36c6e950bf?source=rss------bug_bounty-5) 
+ - 💯July 7, 2024 - [Avoid ‘OR 1=1’ while doing SQL Injection, Why?](https://medium.com/@aaftaba.k47/avoid-or-1-1-while-doing-sql-injection-why-5e7cc0716ef3?source=rss------bug_bounty-5) 
 
- - 💯July 6, 2024 - [$500 for Cracking Invitation Code For Unauthorized Access &amp; Account Takeover](https://medium.com/@a13h1/500-for-cracking-invitation-code-for-unauthorized-access-account-takeover-558c663fb947?source=rss------bug_bounty-5) 
+ - 💯July 7, 2024 - [How i got Cross-site Scripting &lpar;XSS&rpar;Reflected Using an unknown technique](https://medium.com/@0xmekky/how-i-got-cross-site-scripting-xss-reflected-using-an-unknown-technique-ca4984827465?source=rss------bug_bounty-5) 
 
- - 💯July 6, 2024 - [Rate Limit Bypass Due to Cryptographic Weakness](https://javroot.medium.com/rate-limit-bypass-due-to-cryptographic-weakness-2cdb3a112bba?source=rss------bug_bounty-5) 
+ - 💯July 7, 2024 - [Hunting the Hunters: Exposing the Fake SBI YONO APK](https://medium.com/@tirqwork1/hunting-the-hunters-exposing-the-fake-sbi-yono-apk-0dd979aad23f?source=rss------bug_bounty-5) 
+
+ - 💯July 7, 2024 - [Using ChatGPT for Bug Bounty and finding vulnerabilities](https://medium.com/@siratsami71/using-chatgpt-for-bug-bounty-and-finding-vulnerabilities-4a04de771a68?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
