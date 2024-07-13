@@ -2,21 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 12, 2024 - [The Hidden Pitfalls of Bug Bounties on Indian Government Sites: My First Experience](https://medium.com/@rolextital/the-hidden-pitfalls-of-bug-bounties-on-indian-government-sites-my-first-experience-9204312a8325?source=rss------bug_bounty-5) 
+ - 💯July 13, 2024 - [10.7 Lab: SSRF with whitelist-based input filter](https://cyberw1ng.medium.com/10-7-lab-ssrf-with-whitelist-based-input-filter-36db84b1a13d?source=rss------bug_bounty-5) 
 
- - 💯July 12, 2024 - [Firmware Analysis: Hands-on Guide](https://hackerassociate.medium.com/firmware-analysis-hands-on-guide-19913a5166ca?source=rss------bug_bounty-5) 
+ - 💯July 13, 2024 - [Airplane TryHackMe Room Walkthrough | MatSec Youtube](https://matsecurity.medium.com/airplane-tryhackme-room-walkthrough-matsec-youtube-7fca40406a20?source=rss------bug_bounty-5) 
 
- - 💯July 12, 2024 - [Can bug bounty be a full time career?](https://medium.com/@shwetapapnai783/can-bug-bounty-be-a-full-time-career-5606f1ddd440?source=rss------bug_bounty-5) 
+ - 💯July 12, 2024 - [How I Make Two SQL Injections Exploitable under the Magic Restricts in WordPress](https://medium.com/@zpbrent/how-i-make-two-sql-injections-exploitable-under-the-magic-restricts-in-wordpress-817cd60dc80a?source=rss------bug_bounty-5) 
 
- - 💯July 12, 2024 - [Credential stuffing in bug bounties](https://bunny0417.medium.com/credential-stuffing-in-bug-bounties-d51b8e321135?source=rss------bug_bounty-5) 
+ - 💯July 12, 2024 - [RECON IS IMPORTANT !!!   In Depth Recon Methodology Bug Bounty Part 01](https://infosecwriteups.com/recon-is-important-in-depth-recon-methodology-bug-bounty-part-01-2b69c3b168fe?source=rss------bug_bounty-5) 
 
- - 💯July 11, 2024 - [Bypass CSRF Protection](https://medium.com/@dr4040x00/bypass-csrf-protection-707b81c04149?source=rss------bug_bounty-5) 
+ - 💯July 12, 2024 - [Setting up a private Burp Collaborator Server](https://medium.com/@AstroKrypTech/setting-up-a-private-burp-collaborator-server-71c55ff85815?source=rss------bug_bounty-5) 
 
- - 💯July 11, 2024 - [Reconnaissance Basic](https://medium.com/@ronyhassan091101/reconnaissance-basic-bf292dc3b705?source=rss------bug_bounty-5) 
+ - 💯July 12, 2024 - [Git Gone Wrong: Application Compromise via Exposed .git Directory](https://medium.com/@cybersekler/git-gone-wrong-application-compromise-via-exposed-git-directory-392806b23435?source=rss------bug_bounty-5) 
 
- - 💯July 11, 2024 - [Cracking the Code: A Walkthrough of the W1seGuy Room on TryHackMe](https://matsecurity.medium.com/cracking-the-code-a-walkthrough-of-the-w1seguy-room-on-tryhackme-678673298429?source=rss------bug_bounty-5) 
+ - 💯July 12, 2024 - [Master Bug Bounty Hunting with Top Recon Tools](https://medium.com/@labcodetech/master-bug-bounty-hunting-with-top-recon-tools-83516a4bcc54?source=rss------bug_bounty-5) 
 
- - 💯July 11, 2024 - [No Way Out: Enforced and Inescapable Organizational Membership](https://0xmatrix.medium.com/no-way-out-enforced-and-inescapable-organizational-membership-125ae7f52d61?source=rss------bug_bounty-5) 
+ - 💯July 12, 2024 - [NewLine Character Cause DoS: Folder &amp; File Deletion Flaw](https://infosecwriteups.com/newline-character-cause-dos-folder-file-deletion-flaw-8bec3079ed85?source=rss------bug_bounty-5) 
 
- - 💯July 11, 2024 - [Complex Attack Types: Sample Scenarios 40](https://medium.com/@brsdncr/complex-attack-types-sample-scenarios-40-117efeaeaf61?source=rss------bug_bounty-5) 
+ - 💯July 12, 2024 - [10.6 Lab: Blind SSRF with Shellshock Exploitation](https://cyberw1ng.medium.com/10-6-lab-blind-ssrf-with-shellshock-exploitation-a13e25b27dbc?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
