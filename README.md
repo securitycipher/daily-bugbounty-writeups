@@ -2,21 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 13, 2024 - [10.7 Lab: SSRF with whitelist-based input filter](https://cyberw1ng.medium.com/10-7-lab-ssrf-with-whitelist-based-input-filter-36db84b1a13d?source=rss------bug_bounty-5) 
+ - 💯July 14, 2024 - [Hunting for Firebase Enums in Android Application](https://medium.com/@tanish.saxena26/hunting-for-firebase-enums-in-android-application-42b79e9b76f8?source=rss------bug_bounty-5) 
 
- - 💯July 13, 2024 - [Airplane TryHackMe Room Walkthrough | MatSec Youtube](https://matsecurity.medium.com/airplane-tryhackme-room-walkthrough-matsec-youtube-7fca40406a20?source=rss------bug_bounty-5) 
+ - 💯July 14, 2024 - [Detection Engineering: A Comprehensive Overview](https://medium.com/@paritoshblogs/detection-engineering-a-comprehensive-overview-92fc01973ce7?source=rss------bug_bounty-5) 
 
- - 💯July 12, 2024 - [How I Make Two SQL Injections Exploitable under the Magic Restricts in WordPress](https://medium.com/@zpbrent/how-i-make-two-sql-injections-exploitable-under-the-magic-restricts-in-wordpress-817cd60dc80a?source=rss------bug_bounty-5) 
+ - 💯July 14, 2024 - [How to Easily Earn a $200 Bounty](https://medium.com/@xiaodongsec/how-to-easily-earn-a-200-bounty-6e27eaaec13f?source=rss------bug_bounty-5) 
 
- - 💯July 12, 2024 - [RECON IS IMPORTANT !!!   In Depth Recon Methodology Bug Bounty Part 01](https://infosecwriteups.com/recon-is-important-in-depth-recon-methodology-bug-bounty-part-01-2b69c3b168fe?source=rss------bug_bounty-5) 
+ - 💯July 14, 2024 - [Review: AppSec Pentesting eXpert &lpar;CAPenX&rpar; from The SecOps Group](https://medium.com/@p0lyxena/review-appsec-pentesting-expert-capenx-from-the-secops-group-eb5674e4bf8d?source=rss------bug_bounty-5) 
 
- - 💯July 12, 2024 - [Setting up a private Burp Collaborator Server](https://medium.com/@AstroKrypTech/setting-up-a-private-burp-collaborator-server-71c55ff85815?source=rss------bug_bounty-5) 
+ - 💯July 13, 2024 - [#BugBytes](https://medium.com/@dr.ellenconner/bugbytes-99571c045102?source=rss------bug_bounty-5) 
 
- - 💯July 12, 2024 - [Git Gone Wrong: Application Compromise via Exposed .git Directory](https://medium.com/@cybersekler/git-gone-wrong-application-compromise-via-exposed-git-directory-392806b23435?source=rss------bug_bounty-5) 
+ - 💯July 13, 2024 - [Complex Attack Types: Sample Scenarios 41](https://medium.com/@brsdncr/complex-attack-types-sample-scenarios-41-48e4f10a07ef?source=rss------bug_bounty-5) 
 
- - 💯July 12, 2024 - [Master Bug Bounty Hunting with Top Recon Tools](https://medium.com/@labcodetech/master-bug-bounty-hunting-with-top-recon-tools-83516a4bcc54?source=rss------bug_bounty-5) 
+ - 💯July 13, 2024 - [My First Bug: Gitingore exposure combined with 403 bypass](https://medium.com/@nnface/my-first-bug-gitingore-exposure-combined-with-403-bypass-5db750e211ff?source=rss------bug_bounty-5) 
 
- - 💯July 12, 2024 - [NewLine Character Cause DoS: Folder &amp; File Deletion Flaw](https://infosecwriteups.com/newline-character-cause-dos-folder-file-deletion-flaw-8bec3079ed85?source=rss------bug_bounty-5) 
+ - 💯July 13, 2024 - [Here is the story of how i found Stored XSS on a target](https://medium.com/@pvnk24/here-is-the-story-of-how-i-found-stored-xss-on-a-target-7baaeed76765?source=rss------bug_bounty-5) 
 
- - 💯July 12, 2024 - [10.6 Lab: Blind SSRF with Shellshock Exploitation](https://cyberw1ng.medium.com/10-6-lab-blind-ssrf-with-shellshock-exploitation-a13e25b27dbc?source=rss------bug_bounty-5) 
+ - 💯July 13, 2024 - [Linux Exploitation: Stack Smashing](https://medium.com/@boogsta/linux-exploitation-stack-smashing-70c1bf6c13d2?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
