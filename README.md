@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 14, 2024 - [Hunting for Firebase Enums in Android Application](https://medium.com/@tanish.saxena26/hunting-for-firebase-enums-in-android-application-42b79e9b76f8?source=rss------bug_bounty-5) 
+ - 💯July 15, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-36&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-36-a8fd178e9b07?source=rss------bug_bounty-5) 
 
- - 💯July 14, 2024 - [Detection Engineering: A Comprehensive Overview](https://medium.com/@paritoshblogs/detection-engineering-a-comprehensive-overview-92fc01973ce7?source=rss------bug_bounty-5) 
+ - 💯July 15, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-35&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-35-adbfa228814a?source=rss------bug_bounty-5) 
 
- - 💯July 14, 2024 - [How to Easily Earn a $200 Bounty](https://medium.com/@xiaodongsec/how-to-easily-earn-a-200-bounty-6e27eaaec13f?source=rss------bug_bounty-5) 
+ - 💯July 15, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-34&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-34-73069fab6ff6?source=rss------bug_bounty-5) 
 
- - 💯July 14, 2024 - [Review: AppSec Pentesting eXpert &lpar;CAPenX&rpar; from The SecOps Group](https://medium.com/@p0lyxena/review-appsec-pentesting-expert-capenx-from-the-secops-group-eb5674e4bf8d?source=rss------bug_bounty-5) 
+ - 💯July 15, 2024 - [Reflected XSS via Base64-encoded on My college website.](https://uzet.medium.com/reflected-xss-via-base64-encoded-on-my-college-website-2df9755b1856?source=rss------bug_bounty-5) 
 
- - 💯July 13, 2024 - [#BugBytes](https://medium.com/@dr.ellenconner/bugbytes-99571c045102?source=rss------bug_bounty-5) 
+ - 💯July 14, 2024 - [Escaping the Citrix Sandbox — Understanding Citrix Breakout](https://infosecwriteups.com/escaping-the-citrix-sandbox-understanding-citrix-breakout-80320a3d44af?source=rss------bug_bounty-5) 
 
- - 💯July 13, 2024 - [Complex Attack Types: Sample Scenarios 41](https://medium.com/@brsdncr/complex-attack-types-sample-scenarios-41-48e4f10a07ef?source=rss------bug_bounty-5) 
+ - 💯July 14, 2024 - [Vulnerable WordPress June 2024 &lpar;Turkish delight&rpar;](https://medium.com/@onhexgroup/vulnerable-wordpress-june-2024-turkish-delight-96cae8ef8161?source=rss------bug_bounty-5) 
 
- - 💯July 13, 2024 - [My First Bug: Gitingore exposure combined with 403 bypass](https://medium.com/@nnface/my-first-bug-gitingore-exposure-combined-with-403-bypass-5db750e211ff?source=rss------bug_bounty-5) 
+ - 💯July 14, 2024 - [Automate Subdomain Monitoring](https://medium.com/@Aftab700/automate-subdomain-monitoring-171338c66dd5?source=rss------bug_bounty-5) 
 
- - 💯July 13, 2024 - [Here is the story of how i found Stored XSS on a target](https://medium.com/@pvnk24/here-is-the-story-of-how-i-found-stored-xss-on-a-target-7baaeed76765?source=rss------bug_bounty-5) 
+ - 💯July 14, 2024 - [What is XML external entity &lpar;XXE&rpar; injection](https://cyberw1ng.medium.com/what-is-xml-external-entity-xxe-injection-8914620c2d24?source=rss------bug_bounty-5) 
 
- - 💯July 13, 2024 - [Linux Exploitation: Stack Smashing](https://medium.com/@boogsta/linux-exploitation-stack-smashing-70c1bf6c13d2?source=rss------bug_bounty-5) 
+ - 💯July 14, 2024 - [The easiest admin panel bypass](https://medium.com/@paraskhorwal9/the-easiest-admin-panel-bypass-4b6fb4d7d1ea?source=rss------bug_bounty-5) 
+
+ - 💯July 14, 2024 - [Complex Attack Types: Sample Scenarios 42](https://medium.com/@brsdncr/complex-attack-types-sample-scenarios-42-d0a11c84cc73?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
