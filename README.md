@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 15, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-36&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-36-a8fd178e9b07?source=rss------bug_bounty-5) 
+ - 💯July 16, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-40&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-40-f1b43fb596ae?source=rss------bug_bounty-5) 
 
- - 💯July 15, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-35&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-35-adbfa228814a?source=rss------bug_bounty-5) 
+ - 💯July 16, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-39&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-39-740c7ada54ea?source=rss------bug_bounty-5) 
 
- - 💯July 15, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-34&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-34-73069fab6ff6?source=rss------bug_bounty-5) 
+ - 💯July 16, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-38&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-38-fa2ceb6f8bbd?source=rss------bug_bounty-5) 
 
- - 💯July 15, 2024 - [Reflected XSS via Base64-encoded on My college website.](https://uzet.medium.com/reflected-xss-via-base64-encoded-on-my-college-website-2df9755b1856?source=rss------bug_bounty-5) 
+ - 💯July 16, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-37&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-37-20111980eaa5?source=rss------bug_bounty-5) 
 
- - 💯July 14, 2024 - [Escaping the Citrix Sandbox — Understanding Citrix Breakout](https://infosecwriteups.com/escaping-the-citrix-sandbox-understanding-citrix-breakout-80320a3d44af?source=rss------bug_bounty-5) 
+ - 💯July 15, 2024 - [Understanding White Hat Hacking: The Guardians of Cybersecurity](https://medium.com/@cosmiczoomies/understanding-white-hat-hacking-the-guardians-of-cybersecurity-87200caf5820?source=rss------bug_bounty-5) 
 
- - 💯July 14, 2024 - [Vulnerable WordPress June 2024 &lpar;Turkish delight&rpar;](https://medium.com/@onhexgroup/vulnerable-wordpress-june-2024-turkish-delight-96cae8ef8161?source=rss------bug_bounty-5) 
+ - 💯July 15, 2024 - [11.9 Lab: Exploiting XXE to retrieve data by repurposing a local DTD](https://cyberw1ng.medium.com/11-9-lab-exploiting-xxe-to-retrieve-data-by-repurposing-a-local-dtd-30f4098a7789?source=rss------bug_bounty-5) 
 
- - 💯July 14, 2024 - [Automate Subdomain Monitoring](https://medium.com/@Aftab700/automate-subdomain-monitoring-171338c66dd5?source=rss------bug_bounty-5) 
+ - 💯July 15, 2024 - [XSS Türleri için Test Case Yazma](https://medium.com/@tugbaglsn/xss-t%C3%BCrleri-i%C3%A7in-test-case-yazma-1832eb0a27f9?source=rss------bug_bounty-5) 
 
- - 💯July 14, 2024 - [What is XML external entity &lpar;XXE&rpar; injection](https://cyberw1ng.medium.com/what-is-xml-external-entity-xxe-injection-8914620c2d24?source=rss------bug_bounty-5) 
+ - 💯July 15, 2024 - [Echidna](https://medium.com/@Progsky/echidna-b9e454de096b?source=rss------bug_bounty-5) 
 
- - 💯July 14, 2024 - [The easiest admin panel bypass](https://medium.com/@paraskhorwal9/the-easiest-admin-panel-bypass-4b6fb4d7d1ea?source=rss------bug_bounty-5) 
+ - 💯July 15, 2024 - [Complex Attack Types: Sample Scenarios 43](https://medium.com/@brsdncr/complex-attack-types-sample-scenarios-43-39deed779c6c?source=rss------bug_bounty-5) 
 
- - 💯July 14, 2024 - [Complex Attack Types: Sample Scenarios 42](https://medium.com/@brsdncr/complex-attack-types-sample-scenarios-42-d0a11c84cc73?source=rss------bug_bounty-5) 
+ - 💯July 15, 2024 - [My First Bounty: A story of a Blind SQL Injection](https://medium.com/@adebayosec/my-first-bounty-a-story-of-a-blind-sql-injection-69d9ad6716b6?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
