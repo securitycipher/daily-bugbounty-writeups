@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 19, 2024 - [14.25 Lab: Reflected XSS with AngularJS sandbox escape without strings](https://cyberw1ng.medium.com/14-25-lab-reflected-xss-with-angularjs-sandbox-escape-without-strings-6ffac9f6bdf4?source=rss------bug_bounty-5) 
+ - 💯July 20, 2024 - [Uncovering a Critical Vulnerability: Unauthorized Access to Sensitive Data](https://medium.com/@anonymousshetty2003/uncovering-a-critical-vulnerability-unauthorized-access-to-sensitive-data-024182daa127?source=rss------bug_bounty-5) 
 
- - 💯July 18, 2024 - [Summary Of The Basics of Web Hacking, PRT 2](https://medium.com/@zghzwbcn/summary-of-the-basics-of-web-hacking-prt-2-e3d7bdbf902d?source=rss------bug_bounty-5) 
+ - 💯July 20, 2024 - [Discovering a High-Severity Bug in a Major Mobile Distribution Company](https://medium.com/@anonymousshetty2003/discovering-a-high-severity-bug-in-a-major-mobile-distribution-company-3fdb2a0f1987?source=rss------bug_bounty-5) 
 
- - 💯July 18, 2024 - [How I Found and Bypassed a Spring Boot Actuator Information Disclosure Bug](https://cametom006.medium.com/how-i-found-and-bypassed-a-spring-boot-actuator-information-disclosure-bug-c4930b740a50?source=rss------bug_bounty-5) 
+ - 💯July 20, 2024 - [How I was able to escalate my privileges and Bypass 403 Forbidden](https://medium.com/@momen_besher/how-i-was-able-to-escalate-my-privileges-and-bypass-403-forbidden-17b8aea4cba6?source=rss------bug_bounty-5) 
 
- - 💯July 18, 2024 - [Critical Logic Flaw Allows Overwrite of Any User Account](https://medium.com/@elcapitano7x/critical-logic-flaw-allows-overwrite-of-any-user-account-015b102e1da7?source=rss------bug_bounty-5) 
+ - 💯July 19, 2024 - [Não Experimente a Tela Azul da Microsoft&lpar;BUG?&rpar;](https://medium.com/@liviaxavier200317/n%C3%A3o-experimente-a-tela-azul-da-microsoft-bug-9f631ea24c8d?source=rss------bug_bounty-5) 
 
- - 💯July 18, 2024 - [Top 50+ XSS Bug Bounty Writeups | Cross-Site Scripting&lpar;XSS&rpar; Attacks Reports](https://medium.com/@proseizala/top-50-xss-bug-bounty-writeups-cross-site-scripting-xss-attacks-reports-700332ed6c87?source=rss------bug_bounty-5) 
+ - 💯July 19, 2024 - [Specialized Bug Sweeps for Unique Environments](https://medium.com/@siddiquiasad2299/specialized-bug-sweeps-for-unique-environments-43a1ea56930c?source=rss------bug_bounty-5) 
 
- - 💯July 18, 2024 - [Sub Domains Finder Tools](https://medium.com/@proseizala/sub-domains-finder-tools-fefa2b44bb34?source=rss------bug_bounty-5) 
+ - 💯July 19, 2024 - [Hello …..](https://medium.com/@rutujasoundale693/hello-4a42a834d006?source=rss------bug_bounty-5) 
 
- - 💯July 18, 2024 - [13.5 Lab: Exploiting server-side parameter pollution in a REST URL](https://cyberw1ng.medium.com/13-5-lab-exploiting-server-side-parameter-pollution-in-a-rest-url-a1876056a5f6?source=rss------bug_bounty-5) 
+ - 💯July 19, 2024 - [Complex Attack Types: Sample Scenarios 45](https://medium.com/@brsdncr/complex-attack-types-sample-scenarios-45-17057d9de6dd?source=rss------bug_bounty-5) 
 
- - 💯July 18, 2024 - [Kursus Cyber Security Di Linuxhackingid](https://medium.com/@linuxhackingid_official/kursus-cyber-security-di-linuxhackingid-dc4e52760661?source=rss------bug_bounty-5) 
+ - 💯July 19, 2024 - [Information Disclosure that made me $2000 in under 5 minutes](https://medium.com/@sugamdangal52/information-disclosure-that-made-me-2000-in-under-5-minutes-63e1ce00ca07?source=rss------bug_bounty-5) 
 
- - 💯July 17, 2024 - [Hacker Himself](https://medium.com/@nnface/hacker-himself-01d4978e189c?source=rss------bug_bounty-5) 
+ - 💯July 19, 2024 - [Common Technique To Exploit File Upload Vulnerability](https://medium.com/@p00dl3/common-technique-to-exploit-file-upload-vulnerability-bf84beed7207?source=rss------bug_bounty-5) 
+
+ - 💯July 19, 2024 - [Complete Cybersecurity Roadmap 2024 &lpar;Part-1&rpar;](https://osintteam.blog/complete-cybersecurity-roadmap-2024-part-1-c69986288f16?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
