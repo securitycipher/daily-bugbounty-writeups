@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 20, 2024 - [Uncovering a Critical Vulnerability: Unauthorized Access to Sensitive Data](https://medium.com/@anonymousshetty2003/uncovering-a-critical-vulnerability-unauthorized-access-to-sensitive-data-024182daa127?source=rss------bug_bounty-5) 
+ - 💯July 21, 2024 - [TryHackMe — NahamStore — Walkthrough](https://medium.com/@nayanjyoti16/tryhackme-nahamstore-walkthrough-d4ecfe586c96?source=rss------bug_bounty-5) 
 
- - 💯July 20, 2024 - [Discovering a High-Severity Bug in a Major Mobile Distribution Company](https://medium.com/@anonymousshetty2003/discovering-a-high-severity-bug-in-a-major-mobile-distribution-company-3fdb2a0f1987?source=rss------bug_bounty-5) 
+ - 💯July 20, 2024 - [Basic Pentesting 1 Walkthrough](https://erdemstar.medium.com/basic-pentesting-1-walkthrough-4e447a2ac35d?source=rss------bug_bounty-5) 
 
- - 💯July 20, 2024 - [How I was able to escalate my privileges and Bypass 403 Forbidden](https://medium.com/@momen_besher/how-i-was-able-to-escalate-my-privileges-and-bypass-403-forbidden-17b8aea4cba6?source=rss------bug_bounty-5) 
+ - 💯July 20, 2024 - [Discovering an XML File Upload Vulnerability Lead to SSRF: My Bug Hunting Journey](https://javroot.medium.com/discovering-an-xml-file-upload-vulnerability-lead-to-ssrf-my-bug-hunting-journey-8e1bac89f60f?source=rss------bug_bounty-5) 
 
- - 💯July 19, 2024 - [Não Experimente a Tela Azul da Microsoft&lpar;BUG?&rpar;](https://medium.com/@liviaxavier200317/n%C3%A3o-experimente-a-tela-azul-da-microsoft-bug-9f631ea24c8d?source=rss------bug_bounty-5) 
+ - 💯July 20, 2024 - [Zero-Day Vulnerabilities The Silent Threat to Cybersecurity](https://medium.com/@Land2Cyber/zero-day-vulnerabilities-the-silent-threat-to-cybersecurity-9aa1fda21b8c?source=rss------bug_bounty-5) 
 
- - 💯July 19, 2024 - [Specialized Bug Sweeps for Unique Environments](https://medium.com/@siddiquiasad2299/specialized-bug-sweeps-for-unique-environments-43a1ea56930c?source=rss------bug_bounty-5) 
+ - 💯July 20, 2024 - [Business Logic Flaws A Critical Look at Business Application Security](https://medium.com/@Land2Cyber/business-logic-flaws-a-critical-look-at-business-application-security-62e0ffc8c88b?source=rss------bug_bounty-5) 
 
- - 💯July 19, 2024 - [Hello …..](https://medium.com/@rutujasoundale693/hello-4a42a834d006?source=rss------bug_bounty-5) 
+ - 💯July 20, 2024 - [The Type of Bug That We Can’t See](https://medium.com/@The_StarHack3r/the-type-of-bug-that-we-cant-see-82ff07cdcd71?source=rss------bug_bounty-5) 
 
- - 💯July 19, 2024 - [Complex Attack Types: Sample Scenarios 45](https://medium.com/@brsdncr/complex-attack-types-sample-scenarios-45-17057d9de6dd?source=rss------bug_bounty-5) 
+ - 💯July 20, 2024 - [This is how i escalated self XSS with CSRF](https://medium.com/@pvnk24/this-is-how-i-escalated-self-xss-with-csrf-80113ab3080e?source=rss------bug_bounty-5) 
 
- - 💯July 19, 2024 - [Information Disclosure that made me $2000 in under 5 minutes](https://medium.com/@sugamdangal52/information-disclosure-that-made-me-2000-in-under-5-minutes-63e1ce00ca07?source=rss------bug_bounty-5) 
+ - 💯July 20, 2024 - [Complex Attack Types: Sample Scenarios 46](https://medium.com/@brsdncr/complex-attack-types-sample-scenarios-46-a6707ef9e910?source=rss------bug_bounty-5) 
 
- - 💯July 19, 2024 - [Common Technique To Exploit File Upload Vulnerability](https://medium.com/@p00dl3/common-technique-to-exploit-file-upload-vulnerability-bf84beed7207?source=rss------bug_bounty-5) 
+ - 💯July 20, 2024 - [Kali Linux: Starting Out with Bug Bounty Hunting](https://medium.com/@nimrashahidktk3/kali-linux-starting-out-with-bug-bounty-hunting-d7a0150645bd?source=rss------bug_bounty-5) 
 
- - 💯July 19, 2024 - [Complete Cybersecurity Roadmap 2024 &lpar;Part-1&rpar;](https://osintteam.blog/complete-cybersecurity-roadmap-2024-part-1-c69986288f16?source=rss------bug_bounty-5) 
+ - 💯July 20, 2024 - [14.26 Lab: Reflected XSS with AngularJS sandbox escape and CSP](https://cyberw1ng.medium.com/14-26-lab-reflected-xss-with-angularjs-sandbox-escape-and-csp-b98791b2a5a6?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
