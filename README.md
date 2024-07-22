@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 21, 2024 - [TryHackMe — NahamStore — Walkthrough](https://medium.com/@nayanjyoti16/tryhackme-nahamstore-walkthrough-d4ecfe586c96?source=rss------bug_bounty-5) 
+ - 💯July 22, 2024 - [Case Studies: High-Profile Vulnerabilities Discovered Through Bug Bounty Programs](https://medium.com/@paritoshblogs/case-studies-high-profile-vulnerabilities-discovered-through-bug-bounty-programs-2a063561f733?source=rss------bug_bounty-5) 
 
- - 💯July 20, 2024 - [Basic Pentesting 1 Walkthrough](https://erdemstar.medium.com/basic-pentesting-1-walkthrough-4e447a2ac35d?source=rss------bug_bounty-5) 
+ - 💯July 22, 2024 - [How to Install websocat on linux &lpar;Debian / Ubuntu&rpar;](https://medium.com/@brianokinyi/how-to-install-websocat-on-linux-debian-ubuntu-85893655355e?source=rss------bug_bounty-5) 
 
- - 💯July 20, 2024 - [Discovering an XML File Upload Vulnerability Lead to SSRF: My Bug Hunting Journey](https://javroot.medium.com/discovering-an-xml-file-upload-vulnerability-lead-to-ssrf-my-bug-hunting-journey-8e1bac89f60f?source=rss------bug_bounty-5) 
+ - 💯July 21, 2024 - [Email verification bypass due to race condition.](https://medium.com/@mohamed.yasser442200/email-verification-bypass-due-to-race-condition-8e4492313208?source=rss------bug_bounty-5) 
 
- - 💯July 20, 2024 - [Zero-Day Vulnerabilities The Silent Threat to Cybersecurity](https://medium.com/@Land2Cyber/zero-day-vulnerabilities-the-silent-threat-to-cybersecurity-9aa1fda21b8c?source=rss------bug_bounty-5) 
+ - 💯July 21, 2024 - [Advanced XXE Injection](https://medium.com/illumination/advanced-xxe-injection-fb269f281a40?source=rss------bug_bounty-5) 
 
- - 💯July 20, 2024 - [Business Logic Flaws A Critical Look at Business Application Security](https://medium.com/@Land2Cyber/business-logic-flaws-a-critical-look-at-business-application-security-62e0ffc8c88b?source=rss------bug_bounty-5) 
+ - 💯July 21, 2024 - [Community Building in Bug Bounties: The Power of Networking and Collaboration](https://sarthakbhingare15.medium.com/community-building-in-bug-bounties-the-power-of-networking-and-collaboration-6adcdea4435b?source=rss------bug_bounty-5) 
 
- - 💯July 20, 2024 - [The Type of Bug That We Can’t See](https://medium.com/@The_StarHack3r/the-type-of-bug-that-we-cant-see-82ff07cdcd71?source=rss------bug_bounty-5) 
+ - 💯July 21, 2024 - [14.27 Lab: Reflected XSS with event handlers and href attributes blocked](https://cyberw1ng.medium.com/14-27-lab-reflected-xss-with-event-handlers-and-href-attributes-blocked-d2f9871fc8a8?source=rss------bug_bounty-5) 
 
- - 💯July 20, 2024 - [This is how i escalated self XSS with CSRF](https://medium.com/@pvnk24/this-is-how-i-escalated-self-xss-with-csrf-80113ab3080e?source=rss------bug_bounty-5) 
+ - 💯July 21, 2024 - [How To Setup Private Interactsh Server](https://medium.com/@learntheshell/how-to-setup-private-interactsh-server-016c344a10b3?source=rss------bug_bounty-5) 
 
- - 💯July 20, 2024 - [Complex Attack Types: Sample Scenarios 46](https://medium.com/@brsdncr/complex-attack-types-sample-scenarios-46-a6707ef9e910?source=rss------bug_bounty-5) 
+ - 💯July 21, 2024 - [How I bypassed payment in one of the popular mobile apk and got free subsciption](https://medium.com/@deepk007/how-i-bypassed-payment-in-one-of-the-popular-mobile-apk-and-got-free-subsciption-46e94f61c089?source=rss------bug_bounty-5) 
 
- - 💯July 20, 2024 - [Kali Linux: Starting Out with Bug Bounty Hunting](https://medium.com/@nimrashahidktk3/kali-linux-starting-out-with-bug-bounty-hunting-d7a0150645bd?source=rss------bug_bounty-5) 
-
- - 💯July 20, 2024 - [14.26 Lab: Reflected XSS with AngularJS sandbox escape and CSP](https://cyberw1ng.medium.com/14-26-lab-reflected-xss-with-angularjs-sandbox-escape-and-csp-b98791b2a5a6?source=rss------bug_bounty-5) 
+ - 💯July 21, 2024 - [BSOD error due to crowdstrike.](https://gaya3-r.medium.com/bsod-error-due-to-crowdstrike-d675c348d09e?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
