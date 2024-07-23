@@ -2,21 +2,19 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 22, 2024 - [Case Studies: High-Profile Vulnerabilities Discovered Through Bug Bounty Programs](https://medium.com/@paritoshblogs/case-studies-high-profile-vulnerabilities-discovered-through-bug-bounty-programs-2a063561f733?source=rss------bug_bounty-5) 
+ - 💯July 23, 2024 - [Unmasking Keystroke Secrets: How Hackers Exploit Your Keyboard — A Deep Dive into…](https://systemweakness.com/unmasking-keystroke-secrets-how-hackers-exploit-your-keyboard-a-deep-dive-into-5bdb1bbabb25?source=rss------bug_bounty-5) 
 
- - 💯July 22, 2024 - [How to Install websocat on linux &lpar;Debian / Ubuntu&rpar;](https://medium.com/@brianokinyi/how-to-install-websocat-on-linux-debian-ubuntu-85893655355e?source=rss------bug_bounty-5) 
+ - 💯July 23, 2024 - [How Almost Sacrificing a University Group Project led to a Microsoft Bug Bounty](https://medium.com/@pyrus369/how-almost-sacrificing-a-university-group-project-led-to-a-microsoft-bug-bounty-9801e0f8f006?source=rss------bug_bounty-5) 
 
- - 💯July 21, 2024 - [Email verification bypass due to race condition.](https://medium.com/@mohamed.yasser442200/email-verification-bypass-due-to-race-condition-8e4492313208?source=rss------bug_bounty-5) 
+ - 💯July 22, 2024 - [Discovering Account Takeover Vulnerability Through Source Map Analysis](https://medium.com/@danielsilva691/discovering-account-takeover-vulnerability-through-source-map-analysis-0cd4038cbc04?source=rss------bug_bounty-5) 
 
- - 💯July 21, 2024 - [Advanced XXE Injection](https://medium.com/illumination/advanced-xxe-injection-fb269f281a40?source=rss------bug_bounty-5) 
+ - 💯July 22, 2024 - [Complex Attack Types: Sample Scenarios 47](https://medium.com/@brsdncr/complex-attack-types-sample-scenarios-47-c0314c0e0b02?source=rss------bug_bounty-5) 
 
- - 💯July 21, 2024 - [Community Building in Bug Bounties: The Power of Networking and Collaboration](https://sarthakbhingare15.medium.com/community-building-in-bug-bounties-the-power-of-networking-and-collaboration-6adcdea4435b?source=rss------bug_bounty-5) 
+ - 💯July 22, 2024 - [My Encounter with an Admin Panel in a Gas Agency Website](https://medium.com/@parthh_rana/my-encounter-with-an-admin-panel-in-a-gas-agency-website-72ded4fa4345?source=rss------bug_bounty-5) 
 
- - 💯July 21, 2024 - [14.27 Lab: Reflected XSS with event handlers and href attributes blocked](https://cyberw1ng.medium.com/14-27-lab-reflected-xss-with-event-handlers-and-href-attributes-blocked-d2f9871fc8a8?source=rss------bug_bounty-5) 
+ - 💯July 22, 2024 - [First €200 bug that started my Bug Bounty Career](https://medium.com/@sugamdangal52/first-200-bug-that-started-my-bug-bounty-career-c11a871e116f?source=rss------bug_bounty-5) 
 
- - 💯July 21, 2024 - [How To Setup Private Interactsh Server](https://medium.com/@learntheshell/how-to-setup-private-interactsh-server-016c344a10b3?source=rss------bug_bounty-5) 
+ - 💯July 22, 2024 - [The First Bug bounty forum !](https://elb4rt0.medium.com/the-first-bug-bounty-forum-ba0399fb70c0?source=rss------bug_bounty-5) 
 
- - 💯July 21, 2024 - [How I bypassed payment in one of the popular mobile apk and got free subsciption](https://medium.com/@deepk007/how-i-bypassed-payment-in-one-of-the-popular-mobile-apk-and-got-free-subsciption-46e94f61c089?source=rss------bug_bounty-5) 
-
- - 💯July 21, 2024 - [BSOD error due to crowdstrike.](https://gaya3-r.medium.com/bsod-error-due-to-crowdstrike-d675c348d09e?source=rss------bug_bounty-5) 
+ - 💯July 22, 2024 - [14.28 Lab: Reflected XSS in a JavaScript URL with some characters blocked](https://cyberw1ng.medium.com/14-28-lab-reflected-xss-in-a-javascript-url-with-some-characters-blocked-db67819d5aa6?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
