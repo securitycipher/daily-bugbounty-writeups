@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
+ - 💯July 25, 2024 - [Bypassing OTP Verification in a Signup Page](https://medium.com/@rat010/bypassing-otp-verification-in-a-signup-page-13976f724017?source=rss------bug_bounty-5) 
+
+ - 💯July 25, 2024 - [18.6 Lab: Exploiting DOM clobbering to enable XSS](https://cyberw1ng.medium.com/18-6-lab-exploiting-dom-clobbering-to-enable-xss-640dd7c5fcf8?source=rss------bug_bounty-5) 
+
+ - 💯July 25, 2024 - [SQL Injection in 5 mins //Just because of CURIOSITY //](https://larebsec.medium.com/sql-injection-in-5-mins-just-because-of-curiosity-56e186f6296d?source=rss------bug_bounty-5) 
+
+ - 💯July 25, 2024 - [IDOR : Payment Fraud on GYM Membership website](https://uzet.medium.com/idor-payment-fraud-on-gym-membership-website-d4e67f07db57?source=rss------bug_bounty-5) 
+
+ - 💯July 24, 2024 - [Accelerating Cybersecurity Learning with Speed Reading and Memory Training](https://medium.com/@enigma_/accelerating-cybersecurity-learning-with-speed-reading-and-memory-training-97305b666660?source=rss------bug_bounty-5) 
+
+ - 💯July 24, 2024 - [Hacking Moodle Apps Via External Functions](https://medium.com/@dub-flow/hacking-moodle-apps-via-external-functions-1fc88a6d697c?source=rss------bug_bounty-5) 
+
+ - 💯July 24, 2024 - [Android PenTesting Tools](https://medium.com/@evilprince007/android-pentesting-tools-efd0685ffeb7?source=rss------bug_bounty-5) 
+
+ - 💯July 24, 2024 - [14.30 Lab: Reflected XSS protected by CSP, with CSP bypass](https://cyberw1ng.medium.com/14-30-lab-reflected-xss-protected-by-csp-with-csp-bypass-779c76173f7a?source=rss------bug_bounty-5) 
+
  - 💯July 24, 2024 - [The Basic SQLmap Tutorial and SQLInjection | PortswiggerLab with SQLMap](https://medium.com/@barsavak/the-basic-sqlmap-tutorial-and-sqlinjection-portswiggerlab-with-sqlmap-1bb0cdf086fb?source=rss------bug_bounty-5) 
 
  - 💯July 24, 2024 - [Bug Bounty basic for beginners &amp; Types of bug bounty programs](https://systemweakness.com/bug-bounty-basic-for-beginners-types-of-bug-bounty-programs-e4a8dab68fcd?source=rss------bug_bounty-5) 
-
- - 💯July 23, 2024 - [How to start Bug Hunting](https://medium.com/@hackerhyaato/how-to-start-bug-hunting-73ce283db5ac?source=rss------bug_bounty-5) 
-
- - 💯July 23, 2024 - [What is CSP &lpar;content security policy&rpar;?](https://cyberw1ng.medium.com/what-is-csp-content-security-policy-cb3580832442?source=rss------bug_bounty-5) 
-
- - 💯July 23, 2024 - [How i created my first XSS tool:-XSS-Pro #BugBounty](https://medium.com/@mithun_/how-i-created-my-first-xss-tool-xss-pro-bugbounty-982a16079baf?source=rss------bug_bounty-5) 
-
- - 💯July 23, 2024 - [I made a big mistake…](https://medium.com/@deadoverflow/i-made-a-big-mistake-a3e2dac4138c?source=rss------bug_bounty-5) 
-
- - 💯July 23, 2024 - [Complex Attack Types: Sample Scenarios 48](https://medium.com/@brsdncr/complex-attack-types-sample-scenarios-48-410ddcb3010e?source=rss------bug_bounty-5) 
-
- - 💯July 23, 2024 - [Top 10 XSS Payloads](https://rodoassis.medium.com/top-10-xss-payloads-e4774a43e285?source=rss------bug_bounty-5) 
-
- - 💯July 23, 2024 - [5 Tips For Writing Bug Bounty Reports — Bug Bounty Tuesday](https://medium.com/@kerstan/5-tips-for-writing-bug-bounty-reports-bug-bounty-tuesday-0c5ed937a657?source=rss------bug_bounty-5) 
-
- - 💯July 23, 2024 - [Preparing Your VPS for Bug Bounty Operations: A Complete Guide](https://medium.com/@adityasingh4180/preparing-your-vps-for-bug-bounty-operations-a-complete-guide-f55c30331df0?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
