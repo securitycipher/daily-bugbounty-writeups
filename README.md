@@ -2,25 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 28, 2024 - [Hunting for Vulnerabilities that are ignored by most of the Bug Bounty Hunters — Part 2](https://medium.com/@kshunya/hunting-for-vulnerabilities-that-are-ignored-by-most-of-the-bug-bounty-hunters-part-2-d2a51edaa8e8?source=rss------bug_bounty-5) 
+ - 💯July 29, 2024 - [Exposing OTP Bypass Vulnerabilities: Step-by-Step Bug Bounty Case Study](https://b0mk35h.medium.com/exposing-otp-bypass-vulnerabilities-step-by-step-bug-bounty-case-study-0dc39dc543bd?source=rss------bug_bounty-5) 
 
- - 💯July 28, 2024 - [JavaScript: Hunting And Analyzing for Bug Bounty..](https://hacktivistattacker.medium.com/javascript-hunting-and-analyzing-for-bug-bounty-a15416de32cd?source=rss------bug_bounty-5) 
+ - 💯July 28, 2024 - [how did i find leakage of information just by fuzzing?](https://medium.com/@onader104/how-did-i-find-leakage-of-information-just-by-fuzzing-888d6ce6d8f7?source=rss------bug_bounty-5) 
 
- - 💯July 28, 2024 - [github-recon
-github-recon :
-Github Search is a quite powerful and useful feature that can be used…](https://medium.com/@aaedoo54/github-recon-github-recon-github-search-is-a-quite-powerful-and-useful-feature-that-can-be-used-818f2bfe5c00?source=rss------bug_bounty-5) 
+ - 💯July 28, 2024 - [The Looming Threat: How an IDOR Vulnerability Could Have Exposed Millions of Merchants Details.](https://medium.com/@cy3erbeast/the-looming-threat-how-an-idor-vulnerability-could-have-exposed-millions-of-merchants-details-f488725489a0?source=rss------bug_bounty-5) 
 
- - 💯July 27, 2024 - [How I found a Privilege Escalation bug in bug bounty.](https://medium.com/@gitlime71/how-i-found-a-privilege-escalation-bug-in-bug-bounty-eff018f19020?source=rss------bug_bounty-5) 
+ - 💯July 28, 2024 - [0-Click ATO Due to Weak Reset Password Tokens and Lack of Rate Limiting](https://h0tak88r.medium.com/0-click-ato-due-to-weak-reset-password-tokens-and-lack-of-rate-limiting-b7fe20487a45?source=rss------bug_bounty-5) 
 
- - 💯July 27, 2024 - [Jailbreak of Meta AI &lpar;Llama -3.1&rpar; revealing configuration details](https://medium.com/@kiranmaraju/jailbreak-of-meta-ai-llama-3-1-revealing-configuration-details-9f0759f5006a?source=rss------bug_bounty-5) 
+ - 💯July 28, 2024 - [Here are some common parameters to test for XSS &lpar;Cross-Site Scripting&rpar; vulnerabilities:](https://medium.com/@BugHunterMan/here-are-some-common-parameters-to-test-for-xss-cross-site-scripting-vulnerabilities-fbe25f1968cc?source=rss------bug_bounty-5) 
 
- - 💯July 27, 2024 - [Subdomain Takeover](https://medium.com/@ibnibrahim/subdomain-takeover-34bd662b5a7a?source=rss------bug_bounty-5) 
+ - 💯July 28, 2024 - [Bypass Plan Restriction &amp; Get 350$ Bounty](https://infosecwriteups.com/bypass-plan-restriction-get-350-bounty-2df24f406462?source=rss------bug_bounty-5) 
 
- - 💯July 27, 2024 - [Exploiting insecure deserialization vulnerabilities](https://cyberw1ng.medium.com/exploiting-insecure-deserialization-vulnerabilities-3595e4c24e2d?source=rss------bug_bounty-5) 
+ - 💯July 28, 2024 - [Unveiling Hidden Git Repositories: A Deep Dive into the Git Source Code Disclosure Scanner](https://maordayanofficial.medium.com/unveiling-hidden-git-repositories-a-deep-dive-into-the-git-source-code-disclosure-scanner-f704470de59a?source=rss------bug_bounty-5) 
 
- - 💯July 27, 2024 - [Open Redirect Vulnerability in Microsoft Create Portal](https://zeynalxan.medium.com/open-redirect-vulnerability-in-microsoft-create-portal-6654eb3e6b7a?source=rss------bug_bounty-5) 
+ - 💯July 28, 2024 - [How I bypass Safegurads of meta AI &lpar;Llama&rpar;](https://medium.com/@jeetpal2007/how-i-bypass-safegurads-of-meta-ai-llama-d735b521da2b?source=rss------bug_bounty-5) 
 
- - 💯July 27, 2024 - [Discovered Sensitive Data Exposure on Wati.com: A Case Study Using Sublist3r and DirBuster](https://medium.com/@anonymousshetty2003/discovered-sensitive-data-exposure-on-wati-com-a-case-study-using-sublist3r-and-dirbuster-409a03f8f75d?source=rss------bug_bounty-5) 
+ - 💯July 28, 2024 - [How to Fight Procrastination as a Bug Hunter](https://medium.com/@Progsky/how-to-fight-procrastination-as-a-bug-hunter-48d0d280e572?source=rss------bug_bounty-5) 
 
- - 💯July 26, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-53&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-53-bea2f5cf6a14?source=rss------bug_bounty-5) 
+ - 💯July 28, 2024 - [Exploiting Insecure Deserialization Vulnerabilities](https://cyberw1ng.medium.com/exploiting-insecure-deserialization-vulnerabilities-cb9c586cd146?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
