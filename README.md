@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 30, 2024 - [Interesting Business Logic Error leads to Pre-Account Takeover via Verification bypass on GoogleVRP](https://medium.com/@jerryhackgather/interesting-business-logic-error-leads-to-pre-account-takeover-via-verification-bypass-on-googlevrp-d362f9469e3d?source=rss------bug_bounty-5) 
+ - 💯July 31, 2024 - [Wasabi Bucket Takeover | Bug Bounty](https://mo9khu93r.medium.com/wasabi-bucket-takeover-bug-bounty-7520e8decde7?source=rss------bug_bounty-5) 
 
- - 💯July 30, 2024 - [ICMTC Final CTF 2024 Web Hackig Challenges](https://medium.com/@medohythem2019/icmtc-final-ctf-2024-web-hackig-challenges-5135cccf09ba?source=rss------bug_bounty-5) 
+ - 💯July 31, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-62&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-62-4ff0fce045ca?source=rss------bug_bounty-5) 
 
- - 💯July 29, 2024 - [Chain Reaction On Big Player](https://medium.com/@nnface/chain-reaction-on-big-player-4e331faf57b9?source=rss------bug_bounty-5) 
+ - 💯July 31, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-61&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-61-1c6514a2067b?source=rss------bug_bounty-5) 
 
- - 💯July 29, 2024 - [JS Link Finder Burp Suite Extension Guide](https://infosecwriteups.com/js-link-finder-burp-suite-extension-guide-e4809a6da268?source=rss------bug_bounty-5) 
+ - 💯July 31, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-60&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-60-76ea9ba1551c?source=rss------bug_bounty-5) 
 
- - 💯July 29, 2024 - [New Plans](https://medium.com/@nnface/new-plans-0b11cfa5495d?source=rss------bug_bounty-5) 
+ - 💯July 31, 2024 - [Step-by-Step Guide On How to Find Your First Bug in Web Applications](https://medium.com/@shaikhminhaz1975/step-by-step-guide-on-how-to-find-your-first-bug-in-web-applications-0080f6a7f945?source=rss------bug_bounty-5) 
 
- - 💯July 29, 2024 - [Uncovering Sensitive File Information: A Case Study in Web Security](https://medium.com/@anonymousshetty2003/uncovering-sensitive-file-information-a-case-study-in-web-security-f5d03f2c5cd4?source=rss------bug_bounty-5) 
+ - 💯July 30, 2024 - [How I got my first valid bug on nasa](https://medium.com/@mrkimia097/how-i-got-my-first-valid-bug-on-nasa-bf5e95531f00?source=rss------bug_bounty-5) 
 
- - 💯July 29, 2024 - [Kioptrix Level 2 Walkthrough](https://erdemstar.medium.com/kioptrix-level-2-walkthrough-439c56f87c?source=rss------bug_bounty-5) 
+ - 💯July 30, 2024 - [Top Google Dorks Explained](https://infosecwriteups.com/top-google-dorks-explained-ee6cac1673da?source=rss------bug_bounty-5) 
 
- - 💯July 29, 2024 - [Discovering and Exploiting an XSS Vulnerability in a Large Finance Website](https://medium.com/@anonymousshetty2003/discovering-and-exploiting-an-xss-vulnerability-in-a-large-finance-website-f125dbd6d984?source=rss------bug_bounty-5) 
+ - 💯July 30, 2024 - [Race Conditions Uncovered: A Practical Guide](https://yaseenzubair.medium.com/race-conditions-uncovered-a-practical-guide-3cb69d73c946?source=rss------bug_bounty-5) 
 
- - 💯July 29, 2024 - [Advanced scan with Bash](https://mosec0.medium.com/advanced-scan-with-bash-52005537a63c?source=rss------bug_bounty-5) 
+ - 💯July 30, 2024 - [Navigating the Dangers of Insecure Deserialization](https://cyberw1ng.medium.com/navigating-the-dangers-of-insecure-deserialization-73254b5ed415?source=rss------bug_bounty-5) 
 
- - 💯July 29, 2024 - [Insecure Deserialization Vulnerabilities: A Deep Dive into Risks and Mitigations](https://cyberw1ng.medium.com/insecure-deserialization-vulnerabilities-a-deep-dive-into-risks-and-mitigations-5c37f297c763?source=rss------bug_bounty-5) 
+ - 💯July 30, 2024 - [第一次课程笔记整理](https://medium.com/@starkxun5215/%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0%E6%95%B4%E7%90%86-52d34c91f3fc?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
