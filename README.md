@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 31, 2024 - [Wasabi Bucket Takeover | Bug Bounty](https://mo9khu93r.medium.com/wasabi-bucket-takeover-bug-bounty-7520e8decde7?source=rss------bug_bounty-5) 
+ - 💯July 31, 2024 - [From Fries to Flaws : My Journey into Web App Security &lpar;Part I&rpar;](https://infosecwriteups.com/from-fries-to-flaws-my-journey-into-web-app-security-part-i-958c67c20771?source=rss------bug_bounty-5) 
 
- - 💯July 31, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-62&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-62-4ff0fce045ca?source=rss------bug_bounty-5) 
+ - 💯July 31, 2024 - [Why bug bounty program should be a part of your security strategy — ET CISO](https://nowitsanurag.medium.com/why-bug-bounty-program-should-be-a-part-of-your-security-strategy-et-ciso-ad5abf991292?source=rss------bug_bounty-5) 
 
- - 💯July 31, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-61&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-61-1c6514a2067b?source=rss------bug_bounty-5) 
+ - 💯July 31, 2024 - [Uncovering Sensitive Information: A Case Study on a Government Website](https://medium.com/@anonymousshetty2003/uncovering-sensitive-information-a-case-study-on-a-government-website-1f5ad0e158ec?source=rss------bug_bounty-5) 
 
- - 💯July 31, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-60&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-60-76ea9ba1551c?source=rss------bug_bounty-5) 
+ - 💯July 31, 2024 - [Stored XSS: When Bad Code Happens to Good Websites &lpar;Cross Site Scripting&rpar;](https://medium.com/@godsxfinger/stored-xss-when-bad-code-happens-to-good-websites-a5d6b4e629ca?source=rss------bug_bounty-5) 
 
- - 💯July 31, 2024 - [Step-by-Step Guide On How to Find Your First Bug in Web Applications](https://medium.com/@shaikhminhaz1975/step-by-step-guide-on-how-to-find-your-first-bug-in-web-applications-0080f6a7f945?source=rss------bug_bounty-5) 
+ - 💯July 31, 2024 - [Reflected XSS: Navigating the Web’s Wild West &lpar;Cross-Site Scripting&rpar;](https://medium.com/@godsxfinger/reflected-xss-navigating-the-webs-wild-west-cross-site-scripting-a1e092e58b73?source=rss------bug_bounty-5) 
 
- - 💯July 30, 2024 - [How I got my first valid bug on nasa](https://medium.com/@mrkimia097/how-i-got-my-first-valid-bug-on-nasa-bf5e95531f00?source=rss------bug_bounty-5) 
+ - 💯July 31, 2024 - [Serialization and Deserialization: An Essential Guide](https://cyberw1ng.medium.com/serialization-and-deserialization-an-essential-guide-30552a9cf379?source=rss------bug_bounty-5) 
 
- - 💯July 30, 2024 - [Top Google Dorks Explained](https://infosecwriteups.com/top-google-dorks-explained-ee6cac1673da?source=rss------bug_bounty-5) 
+ - 💯July 31, 2024 - [Hack and make money — Bug Bounty](https://medium.com/@victoras.croitoru/hack-and-make-money-bug-bounty-d9db818eb33e?source=rss------bug_bounty-5) 
 
- - 💯July 30, 2024 - [Race Conditions Uncovered: A Practical Guide](https://yaseenzubair.medium.com/race-conditions-uncovered-a-practical-guide-3cb69d73c946?source=rss------bug_bounty-5) 
+ - 💯July 31, 2024 - [NgeSec Bebas #3 — How to Avoid N/A on Submissions](https://muh-hidayat7799.medium.com/ngesec-bebas-3-how-to-avoid-n-a-on-submissions-9acf14ef7ba1?source=rss------bug_bounty-5) 
 
- - 💯July 30, 2024 - [Navigating the Dangers of Insecure Deserialization](https://cyberw1ng.medium.com/navigating-the-dangers-of-insecure-deserialization-73254b5ed415?source=rss------bug_bounty-5) 
+ - 💯July 31, 2024 - [Don’t know where to look for bugs ?? In Depth Recon Bug Bounty — Part 02](https://infosecwriteups.com/dont-know-where-to-look-for-bugs-in-depth-recon-bug-bounty-part-02-9d7c55e045aa?source=rss------bug_bounty-5) 
 
- - 💯July 30, 2024 - [第一次课程笔记整理](https://medium.com/@starkxun5215/%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0%E6%95%B4%E7%90%86-52d34c91f3fc?source=rss------bug_bounty-5) 
+ - 💯July 31, 2024 - [My Journey into Cybersecurity: Learning Bug Bounty from Scratch](https://medium.com/@akashathare411/my-journey-into-cybersecurity-learning-bug-bounty-from-scratch-abc2b45f04c5?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
