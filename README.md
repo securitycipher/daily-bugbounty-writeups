@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 2, 2024 - [#4. Bug Bounty Series: Exploiting Boolean-based SQL Injection](https://cyb3rmind.medium.com/4-bug-bounty-series-exploiting-boolean-based-sql-injection-3455d800892e?source=rss------bug_bounty-5) 
+ - 💯August 3, 2024 - [Don’t Know Where to Look for Bugs? A Beginner’s Guide to Bug Hunting](https://medium.com/@paritoshblogs/dont-know-where-to-look-for-bugs-a-beginner-s-guide-to-bug-hunting-780780eec09b?source=rss------bug_bounty-5) 
 
- - 💯August 1, 2024 - [First Bug Report: HTML Injection Vulnerability ️‍♂️](https://medium.com/@youseftamereg/first-bug-report-html-injection-vulnerability-%EF%B8%8F-%EF%B8%8F-7a5e042d6548?source=rss------bug_bounty-5) 
+ - 💯August 2, 2024 - [Email Verification Bypass Easy-P4](https://medium.com/@Ajakcybersecurity/email-verification-bypass-easy-p4-70039d0b8fd9?source=rss------bug_bounty-5) 
 
- - 💯August 1, 2024 - [Serialization and Deserialization: Advanced Concepts and Best Practices](https://cyberw1ng.medium.com/serialization-and-deserialization-advanced-concepts-and-best-practices-c6562fce9e4b?source=rss------bug_bounty-5) 
+ - 💯August 2, 2024 - [Integer Overflow](https://medium.com/@ibnibrahim/integer-overflow-1b93d96ec88f?source=rss------bug_bounty-5) 
 
- - 💯August 1, 2024 - [Understanding Cross-Site Scripting &lpar;XSS&rpar;](https://medium.com/@soheilvanaee.net/understanding-cross-site-scripting-xss-5610d02cc5c4?source=rss------bug_bounty-5) 
+ - 💯August 2, 2024 - [I found RCE on Viber.](https://medium.com/@deadoverflow/i-found-rce-on-viber-432cf9e17eb0?source=rss------bug_bounty-5) 
 
- - 💯August 1, 2024 - [Client-Side XSS: The DOM-based Debacle &lpar;Cross Site Scripting&rpar;](https://medium.com/@godsxfinger/client-side-xss-the-dom-based-debacle-cross-site-scripting-7a14904934d9?source=rss------bug_bounty-5) 
+ - 💯August 2, 2024 - [Overview of API Penetration Testing](https://medium.com/@aakashgupthagwapt/overview-of-api-penetration-testing-2065f6722f4e?source=rss------bug_bounty-5) 
 
- - 💯July 31, 2024 - [From Fries to Flaws : My Journey into Web App Security &lpar;Part I&rpar;](https://infosecwriteups.com/from-fries-to-flaws-my-journey-into-web-app-security-part-i-958c67c20771?source=rss------bug_bounty-5) 
+ - 💯August 2, 2024 - [20.8 Lab: Developing a custom gadget chain for Java deserialization](https://cyberw1ng.medium.com/20-8-lab-developing-a-custom-gadget-chain-for-java-deserialization-01b85e1e998a?source=rss------bug_bounty-5) 
 
- - 💯July 31, 2024 - [Why bug bounty program should be a part of your security strategy — ET CISO](https://nowitsanurag.medium.com/why-bug-bounty-program-should-be-a-part-of-your-security-strategy-et-ciso-ad5abf991292?source=rss------bug_bounty-5) 
+ - 💯August 2, 2024 - [Best youtube channels to learn bughunting and penetration testing](https://medium.com/@sangamahesh650/best-youtube-channels-to-learn-bughunting-and-penetration-testing-eea2e78a202a?source=rss------bug_bounty-5) 
 
- - 💯July 31, 2024 - [Uncovering Sensitive Information: A Case Study on a Government Website](https://medium.com/@anonymousshetty2003/uncovering-sensitive-information-a-case-study-on-a-government-website-1f5ad0e158ec?source=rss------bug_bounty-5) 
+ - 💯August 2, 2024 - [Finding subdomains from google](https://medium.com/@sangamahesh650/finding-subdomains-from-google-7f370fe60ad1?source=rss------bug_bounty-5) 
 
- - 💯July 31, 2024 - [Stored XSS: When Bad Code Happens to Good Websites &lpar;Cross Site Scripting&rpar;](https://medium.com/@godsxfinger/stored-xss-when-bad-code-happens-to-good-websites-a5d6b4e629ca?source=rss------bug_bounty-5) 
+ - 💯August 2, 2024 - [Search engines for hackers and bughunters](https://medium.com/@sangamahesh650/search-engines-for-hackers-and-bughunters-16139aa60752?source=rss------bug_bounty-5) 
 
- - 💯July 31, 2024 - [Reflected XSS: Navigating the Web’s Wild West &lpar;Cross-Site Scripting&rpar;](https://medium.com/@godsxfinger/reflected-xss-navigating-the-webs-wild-west-cross-site-scripting-a1e092e58b73?source=rss------bug_bounty-5) 
+ - 💯August 2, 2024 - [Finding more subdomains](https://medium.com/@sangamahesh650/finding-more-subdomains-1f5221e79310?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
