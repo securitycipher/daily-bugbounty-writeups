@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 3, 2024 - [Don’t Know Where to Look for Bugs? A Beginner’s Guide to Bug Hunting](https://medium.com/@paritoshblogs/dont-know-where-to-look-for-bugs-a-beginner-s-guide-to-bug-hunting-780780eec09b?source=rss------bug_bounty-5) 
+ - 💯August 4, 2024 - [How I Got Critical P2 Bug on Google VRP](https://medium.com/@rhashibur75/how-i-got-critical-p2-bug-on-google-vrp-165017145af8?source=rss------bug_bounty-5) 
 
- - 💯August 2, 2024 - [Email Verification Bypass Easy-P4](https://medium.com/@Ajakcybersecurity/email-verification-bypass-easy-p4-70039d0b8fd9?source=rss------bug_bounty-5) 
+ - 💯August 3, 2024 - [From Fries to Flaws : My Journey into Web App Security &lpar;Part II&rpar;](https://infosecwriteups.com/from-fries-to-flaws-my-journey-into-web-app-security-part-ii-6127ecc7d93f?source=rss------bug_bounty-5) 
 
- - 💯August 2, 2024 - [Integer Overflow](https://medium.com/@ibnibrahim/integer-overflow-1b93d96ec88f?source=rss------bug_bounty-5) 
+ - 💯August 3, 2024 - [Tips about bug bounty for complete begginers](https://medium.com/@mrkimia097/tips-about-bug-bounty-for-complete-begginers-0fa1c85594ad?source=rss------bug_bounty-5) 
 
- - 💯August 2, 2024 - [I found RCE on Viber.](https://medium.com/@deadoverflow/i-found-rce-on-viber-432cf9e17eb0?source=rss------bug_bounty-5) 
+ - 💯August 3, 2024 - [Discovering a Reflected XSS Vulnerability in an Shopping Website](https://medium.com/@anonymousshetty2003/discovering-a-reflected-xss-vulnerability-in-an-shopping-website-d9ea72be73ef?source=rss------bug_bounty-5) 
 
- - 💯August 2, 2024 - [Overview of API Penetration Testing](https://medium.com/@aakashgupthagwapt/overview-of-api-penetration-testing-2065f6722f4e?source=rss------bug_bounty-5) 
+ - 💯August 3, 2024 - [The first $100 from Bug Hunter](https://medium.com/@osamamohamed21212121/the-first-100-from-bug-hunter-aaee9a0ac547?source=rss------bug_bounty-5) 
 
- - 💯August 2, 2024 - [20.8 Lab: Developing a custom gadget chain for Java deserialization](https://cyberw1ng.medium.com/20-8-lab-developing-a-custom-gadget-chain-for-java-deserialization-01b85e1e998a?source=rss------bug_bounty-5) 
+ - 💯August 3, 2024 - [How I Escalated N/A to High and Got Rewarded £££: Bug Hunting Journey](https://medium.com/@iamrizwanvp/how-i-escalated-n-a-to-medium-and-got-rewarded-bug-hunting-journey-c6e6097fe93c?source=rss------bug_bounty-5) 
 
- - 💯August 2, 2024 - [Best youtube channels to learn bughunting and penetration testing](https://medium.com/@sangamahesh650/best-youtube-channels-to-learn-bughunting-and-penetration-testing-eea2e78a202a?source=rss------bug_bounty-5) 
+ - 💯August 3, 2024 - [Uncovering a Reflected XSS Vulnerability in an Insurance Company’s Website](https://medium.com/@anonymousshetty2003/uncovering-a-reflected-xss-vulnerability-in-an-insurance-companys-website-ee56c3492381?source=rss------bug_bounty-5) 
 
- - 💯August 2, 2024 - [Finding subdomains from google](https://medium.com/@sangamahesh650/finding-subdomains-from-google-7f370fe60ad1?source=rss------bug_bounty-5) 
+ - 💯August 3, 2024 - [how I found a critical bug using response manipulation](https://matrixm0x1.medium.com/how-i-found-a-critical-bug-using-response-manipulation-4403a562db12?source=rss------bug_bounty-5) 
 
- - 💯August 2, 2024 - [Search engines for hackers and bughunters](https://medium.com/@sangamahesh650/search-engines-for-hackers-and-bughunters-16139aa60752?source=rss------bug_bounty-5) 
-
- - 💯August 2, 2024 - [Finding more subdomains](https://medium.com/@sangamahesh650/finding-more-subdomains-1f5221e79310?source=rss------bug_bounty-5) 
+ - 💯August 3, 2024 - [20.9 Lab: Developing a custom gadget chain for PHP deserialization](https://cyberw1ng.medium.com/20-9-lab-developing-a-custom-gadget-chain-for-php-deserialization-c173ff462156?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
