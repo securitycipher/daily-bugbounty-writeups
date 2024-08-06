@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 5, 2024 - [Gather Information About a Target Website Using Photon](https://medium.com/@pentesterclubpvtltd/gather-information-about-a-target-website-using-photon-839612a85319?source=rss------bug_bounty-5) 
+ - 💯August 6, 2024 - [SSRF to Server Takeover PoC &lpar;Bug Bounty Writeup&rpar;](https://medium.com/@malvinval/ssrf-to-server-takeover-poc-bug-bounty-writeup-82d6715e333d?source=rss------bug_bounty-5) 
 
- - 💯August 5, 2024 - [Mirror a Target Website Using HTTrack website Copier](https://medium.com/@pentesterclubpvtltd/mirror-a-target-website-using-httrack-website-copier-0489c23d66b3?source=rss------bug_bounty-5) 
+ - 💯August 6, 2024 - [Mastering Dirsearch for Bug Hunting](https://medium.com/@josuofficial327/mastering-dirsearch-for-bug-hunting-f34272c0ba28?source=rss------bug_bounty-5) 
 
- - 💯August 5, 2024 - [Extract Companys Website Data Using Web Data Extractor](https://medium.com/@pentesterclubpvtltd/extract-companys-website-data-using-web-data-extractor-a2957c56fd3f?source=rss------bug_bounty-5) 
+ - 💯August 5, 2024 - [Unveiling Remote Code Execution in AI chatbot workflows](https://infosecwriteups.com/unveiling-remote-code-execution-in-ai-chatbot-workflows-3c7f633f63c3?source=rss------bug_bounty-5) 
 
- - 💯August 5, 2024 - [Gather Personal Information Using PeekYou online People Search Service](https://medium.com/@pentesterclubpvtltd/gather-personal-information-using-peekyou-online-people-search-service-8a523a180f0d?source=rss------bug_bounty-5) 
+ - 💯August 5, 2024 - [Zero-Click account Take-over](https://0xebn-taimia.medium.com/zero-click-account-take-over-deb0fae7a6c1?source=rss------bug_bounty-5) 
 
- - 💯August 5, 2024 - [Mastering Angry IP Scanner: Unleashing the Power of Network Diagnostics](https://medium.com/@pentesterclubpvtltd/mastering-angry-ip-scanner-unleashing-the-power-of-network-diagnostics-43388a593650?source=rss------bug_bounty-5) 
+ - 💯August 5, 2024 - [Advanced Techniques and Defenses Against PHAR Deserialization Exploits](https://cyberw1ng.medium.com/advanced-techniques-and-defenses-against-phar-deserialization-exploits-c65074fa5035?source=rss------bug_bounty-5) 
 
- - 💯August 5, 2024 - [Ping a site to find out information about it.](https://medium.com/@pentesterclubpvtltd/ping-a-site-to-find-out-information-about-it-43efdb62b4a0?source=rss------bug_bounty-5) 
+ - 💯August 5, 2024 - [Day 3 of 30 Days — 30 Vulnerability | CSRF](https://medium.com/@kumawatabhijeet2002/day-3-of-30-days-30-vulnerability-csrf-3958560fb941?source=rss------bug_bounty-5) 
 
- - 💯August 5, 2024 - [Maltego — The Automated OSINT Tool for Ethical Hackers](https://medium.com/@pentesterclubpvtltd/maltego-the-automated-osint-tool-for-ethical-hackers-d6bc5737812e?source=rss------bug_bounty-5) 
+ - 💯August 5, 2024 - [How i found Host Header Injection on SpaceX](https://medium.com/@gitlime71/how-i-found-host-header-injection-on-spacex-3a9b45db70e8?source=rss------bug_bounty-5) 
 
- - 💯August 5, 2024 - [Recon-ng — Complete Scan — Emails, Sub Domains &amp; Hidden Files](https://medium.com/@pentesterclubpvtltd/recon-ng-complete-scan-emails-sub-domains-hidden-files-b357cffd1e0b?source=rss------bug_bounty-5) 
+ - 💯August 5, 2024 - [Discovering and Exploiting an XSS Vulnerability in a Bug Bounty Program Scope](https://medium.com/@anonymousshetty2003/discovering-and-exploiting-an-xss-vulnerability-in-a-bug-bounty-program-scope-383327e7f290?source=rss------bug_bounty-5) 
 
- - 💯August 5, 2024 - [Perform Network Tracerouting in Linux Machines](https://medium.com/@pentesterclubpvtltd/perform-network-tracerouting-in-linux-machines-28b6bf57bf71?source=rss------bug_bounty-5) 
+ - 💯August 5, 2024 - [From Detection to Notification: Security Automation to Earn $$](https://vijetareigns.medium.com/from-detection-to-notification-security-automation-to-earn-4ea1a13576bc?source=rss------bug_bounty-5) 
+
+ - 💯August 5, 2024 - [Uncover the Shocking Truth Behind HTTP Header Injection Attacks: Protect Yourself Now!](https://systemweakness.com/the-hidden-danger-lurking-in-your-http-headers-3f93474933cb?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
