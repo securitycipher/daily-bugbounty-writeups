@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 9, 2024 - [How to Mitigate SQL Injection](https://medium.com/@bountyget/how-to-mitigate-sql-injection-20a26cfa96f5?source=rss------bug_bounty-5) 
+ - 💯August 10, 2024 - [IDOR — How I Leaked Data of 50k+ Users](https://medium.com/@YourFinalSin/idor-how-i-leaked-data-of-50k-users-bc44201e777a?source=rss------bug_bounty-5) 
 
- - 💯August 9, 2024 - [How to find P1 SQL injection in indian website.](https://medium.com/@padhyepushkar/how-to-find-p1-sql-injection-in-indian-website-59ad091a9e1b?source=rss------bug_bounty-5) 
+ - 💯August 9, 2024 - [How i hacked NASA? NASA VDP.](https://medium.com/@momos1337/how-i-hacked-nasa-bug-bounty-6975b833eb45?source=rss------bug_bounty-5) 
 
- - 💯August 8, 2024 - [O manual do Hacker Moderno](https://medium.com/@espectrx/o-manual-do-hacker-moderno-2a715e35184c?source=rss------bug_bounty-5) 
+ - 💯August 9, 2024 - [How dirsearch Uncovered a $750 Bounty](https://medium.com/@bountyget/how-dirsearch-uncovered-a-750-bounty-fd215c925eb7?source=rss------bug_bounty-5) 
 
- - 💯August 8, 2024 - [Building a Resilient Security Framework: Long-Term Strategies for Combating PHAR Deserialization…](https://cyberw1ng.medium.com/building-a-resilient-security-framework-long-term-strategies-for-combating-phar-deserialization-de5b38c6aff2?source=rss------bug_bounty-5) 
+ - 💯August 9, 2024 - [What After Recon ? Part 01 Bug Bounty Methodology](https://omarora1603.medium.com/what-after-recon-part-01-bug-bounty-methodology-25ff3705a738?source=rss------bug_bounty-5) 
 
- - 💯August 8, 2024 - [Last Week in tech — 5th edition](https://medium.com/@azefox/last-week-in-tech-5th-edition-0f559055dcf6?source=rss------bug_bounty-5) 
+ - 💯August 9, 2024 - [Embracing Proactive Security Measures: Future-Proofing Against PHAR Deserialization and Beyond](https://cyberw1ng.medium.com/embracing-proactive-security-measures-future-proofing-against-phar-deserialization-and-beyond-49e1dec9000d?source=rss------bug_bounty-5) 
 
- - 💯August 8, 2024 - [Hijacking User Privileges: The Story of a Patched Vulnerability in Open Bug Bounty](https://take0verx0.medium.com/hijacking-user-privileges-the-story-of-a-patched-vulnerability-in-open-bug-bounty-4db81fa0fd1f?source=rss------bug_bounty-5) 
+ - 💯August 9, 2024 - [Bug Bounty Methodology — Step By Step Guide To Find Subdomains And Vulnerable URLs](https://medium.com/@shaikhminhaz1975/bug-bounty-methodology-step-by-step-guide-to-find-subdomains-and-vulnerable-urls-18bdd76e979f?source=rss------bug_bounty-5) 
 
- - 💯August 8, 2024 - [OAuth Impersonation Attack: Misconfiguration of Facebook and Google OAuth Leading to Account…](https://medium.com/@security.tecno/oauth-impersonation-attack-misconfiguration-of-facebook-and-google-oauth-leading-to-account-9f838439de31?source=rss------bug_bounty-5) 
+ - 💯August 9, 2024 - [20 Essential Google Dorking Queries to find vulnerable targets](https://offsec01.medium.com/20-essential-google-dorking-queries-to-find-vulnerable-targets-a98b657dc66d?source=rss------bug_bounty-5) 
 
- - 💯August 8, 2024 - [L6 — Postbook](https://scissor07.medium.com/l6-postbook-8d5b322a0801?source=rss------bug_bounty-5) 
+ - 💯August 9, 2024 - [Day 7 of 30 Days — 30 Vulnerability | IDOR &lpar;Insecure Direct Object Reference&rpar;](https://medium.com/@kumawatabhijeet2002/day-7-of-30-days-30-vulnerability-idor-insecure-direct-object-reference-79b8051d67e2?source=rss------bug_bounty-5) 
 
- - 💯August 8, 2024 - [Web App Security Scanner- Vex Scanner](https://medium.com/@pentesterclubpvtltd/web-app-security-scanner-vex-scanner-e150e9a03ffc?source=rss------bug_bounty-5) 
+ - 💯August 9, 2024 - [Mastering Subfinder for Subdomain Enumeration: A Quick Guide for Bug Bounty Hunters](https://medium.com/@k4r7hx/mastering-subfinder-for-subdomain-enumeration-a-quick-guide-for-bug-bounty-hunters-5d6c3d471896?source=rss------bug_bounty-5) 
 
- - 💯August 7, 2024 - [Easiest P3/P4 security misconfiguration to make $ as a beginner.](https://medium.com/@sugamdangal52/easiest-p3-p4-security-misconfiguration-to-make-as-a-beginner-d4f019ad4b85?source=rss------bug_bounty-5) 
+ - 💯August 9, 2024 - [Enriching Nuclei results with Vulnerability Intel](https://medium.com/@nvi_90805/enriching-nuclei-results-with-vulnerability-intel-d760b756b066?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
