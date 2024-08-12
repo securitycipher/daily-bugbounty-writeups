@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 11, 2024 - [Stored XSS in LibreOffice](https://bunny0417.medium.com/stored-xss-in-libreoffice-ed4ad22e0f56?source=rss------bug_bounty-5) 
+ - 💯August 12, 2024 - [How to balance bug fix costs with software performance?](https://medium.com/@harleyrose981/how-to-balance-bug-fix-costs-with-software-performance-92e9df481c36?source=rss------bug_bounty-5) 
 
- - 💯August 10, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-69&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-69-fa42b90989a1?source=rss------bug_bounty-5) 
+ - 💯August 12, 2024 - [3rd Anniversary Fun Activity: TECNO Security Bug Bounty Rules Challenging Test](https://medium.com/@security.tecno/3rd-anniversary-fun-activity-tecno-security-bug-bounty-rules-challenging-test-d6dac9f552e7?source=rss------bug_bounty-5) 
 
- - 💯August 10, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-68&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-68-8e3af48d1c65?source=rss------bug_bounty-5) 
+ - 💯August 12, 2024 - [5 Minutes to Take Over the System Administrator Account of a GPS Tracker Solution Provider](https://medium.com/@mmaulanaabdullah/5-minutes-for-taking-over-system-administrator-account-of-gps-tracker-solution-provider-system-24bd083f1559?source=rss------bug_bounty-5) 
 
- - 💯August 10, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-67&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-67-01756817b60c?source=rss------bug_bounty-5) 
+ - 💯August 12, 2024 - [Maintaining Software Excellence: The Importance of Bug Fixes and Maintenance](https://medium.com/@harleyrose981/maintaining-software-excellence-the-importance-of-bug-fixes-and-maintenance-87db9a864a5f?source=rss------bug_bounty-5) 
 
- - 💯August 10, 2024 - [The Evolution of Deserialization Attacks: Understanding the Risks and Future Trends](https://cyberw1ng.medium.com/the-evolution-of-deserialization-attacks-understanding-the-risks-and-future-trends-0e485ec7e833?source=rss------bug_bounty-5) 
+ - 💯August 12, 2024 - [Common Types of Bugs in Software Testing](https://medium.com/optimizory-apps/common-types-of-bugs-in-software-testing-aea2ff2138bd?source=rss------bug_bounty-5) 
 
- - 💯August 10, 2024 - [Day 8 of 30 Days — 30 Vulnerabilities | Security Misconfiguration](https://medium.com/@kumawatabhijeet2002/day-8-of-30-days-30-vulnerabilities-security-misconfiguration-5d8ee574e7e3?source=rss------bug_bounty-5) 
+ - 💯August 11, 2024 - [How I Got $150 on HackerOne for My First Bug](https://medium.com/@likithteki76/how-i-got-150-on-hackerone-for-my-first-bug-8af0ed515e79?source=rss------bug_bounty-5) 
 
- - 💯August 10, 2024 - [What is a Bug Bounty Program?](https://medium.com/@pasan62nanayakkara/what-is-a-bug-bounty-program-f64c90197229?source=rss------bug_bounty-5) 
+ - 💯August 11, 2024 - [Hacking the System: How I Beat Subscription Restrictions in Admin Controls](https://0xmatrix.medium.com/hacking-the-system-how-i-beat-subscription-restrictions-in-admin-controls-5684fd90279a?source=rss------bug_bounty-5) 
 
- - 💯August 10, 2024 - [$800 Improper Authorization Flaw: Unauthorized Project Reclaiming Post Transfer](https://medium.com/@a13h1/800-improper-authorization-flaw-unauthorized-project-reclaiming-post-transfer-15fe36976604?source=rss------bug_bounty-5) 
+ - 💯August 11, 2024 - [How I found my first P3 bug &lpar;disclosure of PII/Privilege Escalation&rpar;](https://medium.com/@the.bugcrowd.testerpawan/how-i-found-my-first-p3-bug-disclosure-of-pii-privilege-escalation-148dbf610334?source=rss------bug_bounty-5) 
 
- - 💯August 10, 2024 - [Practice Lab Setup for Application Security Testing](https://medium.com/@Kamal_S/practice-lab-setup-for-application-security-testing-9fa2c9b45917?source=rss------bug_bounty-5) 
+ - 💯August 11, 2024 - [Introduction to JWT](https://medium.com/@chanpreetkaur2005/introduction-to-jwt-f69162b59c24?source=rss------bug_bounty-5) 
 
- - 💯August 10, 2024 - [IDOR — Exposing private forms $$](https://medium.com/@hellother18/idor-exposing-private-forms-0204c1ed560a?source=rss------bug_bounty-5) 
+ - 💯August 11, 2024 - [20.10 Lab: Using PHAR deserialization to deploy a custom gadget chain](https://cyberw1ng.medium.com/20-10-lab-using-phar-deserialization-to-deploy-a-custom-gadget-chain-39270975163f?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
