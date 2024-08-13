@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 12, 2024 - [How to balance bug fix costs with software performance?](https://medium.com/@harleyrose981/how-to-balance-bug-fix-costs-with-software-performance-92e9df481c36?source=rss------bug_bounty-5) 
+ - 💯August 13, 2024 - [Finding a easy p3 bug](https://medium.com/@sangamahesh650/finding-a-easy-p3-bug-05b54f70e14c?source=rss------bug_bounty-5) 
 
- - 💯August 12, 2024 - [3rd Anniversary Fun Activity: TECNO Security Bug Bounty Rules Challenging Test](https://medium.com/@security.tecno/3rd-anniversary-fun-activity-tecno-security-bug-bounty-rules-challenging-test-d6dac9f552e7?source=rss------bug_bounty-5) 
+ - 💯August 13, 2024 - [Hidden Form Fields Reveal Test Answers for Easy Perfect Score](https://osintteam.blog/hidden-form-fields-reveal-test-answers-for-easy-perfect-score-c4d202416ad7?source=rss------bug_bounty-5) 
 
- - 💯August 12, 2024 - [5 Minutes to Take Over the System Administrator Account of a GPS Tracker Solution Provider](https://medium.com/@mmaulanaabdullah/5-minutes-for-taking-over-system-administrator-account-of-gps-tracker-solution-provider-system-24bd083f1559?source=rss------bug_bounty-5) 
+ - 💯August 12, 2024 - [How I Hacked Into the World’s Top Universities Including MIT Cambridge &amp; University of Oxford](https://medium.com/@josuofficial327/how-i-hacked-into-the-worlds-top-universities-including-mit-cambridge-university-of-oxford-a2e209d8abf7?source=rss------bug_bounty-5) 
 
- - 💯August 12, 2024 - [Maintaining Software Excellence: The Importance of Bug Fixes and Maintenance](https://medium.com/@harleyrose981/maintaining-software-excellence-the-importance-of-bug-fixes-and-maintenance-87db9a864a5f?source=rss------bug_bounty-5) 
+ - 💯August 12, 2024 - [How Much Did I Make in My First Year of Bug Bounty Work?](https://medium.com/@bountyget/how-much-did-i-make-in-my-first-year-of-bug-bounty-work-2f0583002db6?source=rss------bug_bounty-5) 
 
- - 💯August 12, 2024 - [Common Types of Bugs in Software Testing](https://medium.com/optimizory-apps/common-types-of-bugs-in-software-testing-aea2ff2138bd?source=rss------bug_bounty-5) 
+ - 💯August 12, 2024 - [Cross-Site Scripting Explained: Protect Your Website from Modern Threats](https://7hecoder.medium.com/secure-your-site-xss-guide-d780dd2ad098?source=rss------bug_bounty-5) 
 
- - 💯August 11, 2024 - [How I Got $150 on HackerOne for My First Bug](https://medium.com/@likithteki76/how-i-got-150-on-hackerone-for-my-first-bug-8af0ed515e79?source=rss------bug_bounty-5) 
+ - 💯August 12, 2024 - [The Hidden Threat: How Reverse Shells Packaged as .pyz Files Evade Detection](https://medium.com/@psychomong/the-hidden-threat-how-reverse-shells-packaged-as-pyz-files-evade-detection-e82d1f234187?source=rss------bug_bounty-5) 
 
- - 💯August 11, 2024 - [Hacking the System: How I Beat Subscription Restrictions in Admin Controls](https://0xmatrix.medium.com/hacking-the-system-how-i-beat-subscription-restrictions-in-admin-controls-5684fd90279a?source=rss------bug_bounty-5) 
+ - 💯August 12, 2024 - [New Reconnaissance Methodologies/Tools for Bug Bounty Hunting &amp; Ethical Hacking](https://medium.com/@retr0x/new-reconnaissance-methodologies-tools-for-bug-bounty-hunting-ethical-hacking-be7ca14a7ae2?source=rss------bug_bounty-5) 
 
- - 💯August 11, 2024 - [How I found my first P3 bug &lpar;disclosure of PII/Privilege Escalation&rpar;](https://medium.com/@the.bugcrowd.testerpawan/how-i-found-my-first-p3-bug-disclosure-of-pii-privilege-escalation-148dbf610334?source=rss------bug_bounty-5) 
+ - 💯August 12, 2024 - [“My Journey to Earning the First Bounty”](https://medium.com/@asharm.khan7/my-journey-to-earning-the-first-bounty-5314d1780f84?source=rss------bug_bounty-5) 
 
- - 💯August 11, 2024 - [Introduction to JWT](https://medium.com/@chanpreetkaur2005/introduction-to-jwt-f69162b59c24?source=rss------bug_bounty-5) 
+ - 💯August 12, 2024 - [21.4 Lab: Exploiting insecure output handling in LLMs](https://cyberw1ng.medium.com/21-4-lab-exploiting-insecure-output-handling-in-llms-4b17d8401fe6?source=rss------bug_bounty-5) 
 
- - 💯August 11, 2024 - [20.10 Lab: Using PHAR deserialization to deploy a custom gadget chain](https://cyberw1ng.medium.com/20-10-lab-using-phar-deserialization-to-deploy-a-custom-gadget-chain-39270975163f?source=rss------bug_bounty-5) 
+ - 💯August 12, 2024 - [Getting all ips from Shodan easy](https://medium.com/@sangamahesh650/getting-all-ips-from-shodan-easy-400706799e53?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
