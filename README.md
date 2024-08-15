@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 14, 2024 - [Account takeover on 8 years old public program](https://medium.com/@pranshux0x/account-takeover-on-8-years-old-public-program-c0c0a30cfdd2?source=rss------bug_bounty-5) 
+ - 💯August 15, 2024 - [Day 12: Mastering Server Side Request Forgery Vulnerability — Essential Tricks &amp; Techniques Based…](https://medium.com/@kumawatabhijeet2002/day-12-mastering-server-side-request-forgery-vulnerability-essential-tricks-techniques-based-21dc8b576e37?source=rss------bug_bounty-5) 
 
- - 💯August 13, 2024 - [CloudBrute — Awesome Cloud Enumerator](https://medium.com/@pentesterclubpvtltd/cloudbrute-awesome-cloud-enumerator-b6d86e168b2c?source=rss------bug_bounty-5) 
+ - 💯August 15, 2024 - [Exploiting phar stream wrapper](https://rudrasarkar.medium.com/exploiting-phar-stream-wrapper-d2140592c6e7?source=rss------bug_bounty-5) 
 
- - 💯August 13, 2024 - [Embedding Beacon Payloads in PDF Files](https://medium.com/@pentesterclubpvtltd/embedding-beacon-payloads-in-pdf-files-e789820f340b?source=rss------bug_bounty-5) 
+ - 💯August 15, 2024 - [Unauthorized Deletion of Reports via Folder Manipulation](https://medium.com/@hossam_hamada/unauthorized-deletion-of-reports-via-folder-manipulation-d0760582e168?source=rss------bug_bounty-5) 
 
- - 💯August 13, 2024 - [DOM XSS — Simple but Elegant on Hidden Parameter— Bypassing Filter](https://medium.com/@YourFinalSin/simple-but-elegant-dom-xss-on-hidden-parameter-bypassing-filter-ab58ca1e6135?source=rss------bug_bounty-5) 
+ - 💯August 14, 2024 - [How I Prevented a Data Breach by Reporting an IDOR in a System Exposing over 500,000 US Passports](https://offsec01.medium.com/how-i-prevented-a-data-breach-by-reporting-an-idor-in-a-system-exposing-over-500-000-us-passports-bc6bec99aa3d?source=rss------bug_bounty-5) 
 
- - 💯August 13, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-71&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-71-3232e47be803?source=rss------bug_bounty-5) 
+ - 💯August 14, 2024 - [Identifying and Exploiting SQL Injection Vulnerabilities](https://im4x.medium.com/identifying-and-exploiting-sql-injection-vulnerabilities-cdfaa90b7b04?source=rss------bug_bounty-5) 
 
- - 💯August 13, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-70&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-70-f603b2fde234?source=rss------bug_bounty-5) 
+ - 💯August 14, 2024 - [Open S3 Buckets Through Reconnaissance](https://offsec01.medium.com/open-s3-buckets-through-reconnaissance-920f8b35be47?source=rss------bug_bounty-5) 
 
- - 💯August 13, 2024 - [Insecure Direct Object Reference](https://medium.com/@yassentaalab51/insecure-direct-object-reference-6bddf9be8dcd?source=rss------bug_bounty-5) 
+ - 💯August 14, 2024 - [A Critical 403 Bypass Vulnerability Lead to a Staging Environment with User Enumeration](https://ay0ub-n0uri.medium.com/a-critical-403-bypass-vulnerability-lead-to-a-staging-environment-with-user-enumeration-25b94ebadcfa?source=rss------bug_bounty-5) 
 
- - 💯August 13, 2024 - [Breaking the Barrier: Admin Panel Takeover Worth $3500](https://medium.com/@noob.assassin/breaking-the-barrier-admin-panel-takeover-worth-3500-78da79089ca3?source=rss------bug_bounty-5) 
+ - 💯August 14, 2024 - [Authentication Bypass -MFA , Account Takeover…](https://medium.com/@prakashchand72/authentication-bypass-mfa-account-takeover-32166aedb3b9?source=rss------bug_bounty-5) 
 
- - 💯August 13, 2024 - [My first bounty report was a duplicate](https://medium.com/@World-Breaker/my-first-bounty-report-was-a-duplicate-ad2ba4ec595e?source=rss------bug_bounty-5) 
+ - 💯August 14, 2024 - [Server-side template injection in Web App Penetration Testing | 2024](https://cyberw1ng.medium.com/server-side-template-injection-in-web-app-penetration-testing-2024-67961a32cadd?source=rss------bug_bounty-5) 
+
+ - 💯August 14, 2024 - [Automate your Google Dorking to Find Bugs](https://mrunknown124154.medium.com/automate-your-google-dorking-to-find-bugs-f7d86dc2d279?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
