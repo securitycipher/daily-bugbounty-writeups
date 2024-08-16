@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 15, 2024 - [Day 12: Mastering Server Side Request Forgery Vulnerability — Essential Tricks &amp; Techniques Based…](https://medium.com/@kumawatabhijeet2002/day-12-mastering-server-side-request-forgery-vulnerability-essential-tricks-techniques-based-21dc8b576e37?source=rss------bug_bounty-5) 
+ - 💯August 16, 2024 - [️ Reconnaissance and Vulnerability Scanning Script️](https://securitycipher.medium.com/%EF%B8%8F-reconnaissance-and-vulnerability-scanning-script-%EF%B8%8F-086f4051eeba?source=rss------bug_bounty-5) 
 
- - 💯August 15, 2024 - [Exploiting phar stream wrapper](https://rudrasarkar.medium.com/exploiting-phar-stream-wrapper-d2140592c6e7?source=rss------bug_bounty-5) 
+ - 💯August 16, 2024 - [Complete Guide on Attack Surface Discovery](https://osintteam.blog/complete-guide-on-attack-surface-discovery-d684710d6a3e?source=rss------bug_bounty-5) 
 
- - 💯August 15, 2024 - [Unauthorized Deletion of Reports via Folder Manipulation](https://medium.com/@hossam_hamada/unauthorized-deletion-of-reports-via-folder-manipulation-d0760582e168?source=rss------bug_bounty-5) 
+ - 💯August 16, 2024 - [The Bug Bounty Billionaire](https://medium.com/@shwetapapnai783/the-bug-bounty-billionaire-acaa5e64959e?source=rss------bug_bounty-5) 
 
- - 💯August 14, 2024 - [How I Prevented a Data Breach by Reporting an IDOR in a System Exposing over 500,000 US Passports](https://offsec01.medium.com/how-i-prevented-a-data-breach-by-reporting-an-idor-in-a-system-exposing-over-500-000-us-passports-bc6bec99aa3d?source=rss------bug_bounty-5) 
+ - 💯August 16, 2024 - [How to find a easy bug it worth $100](https://medium.com/@sangamahesh650/how-to-find-a-easy-bug-it-worth-100-7485f9bf638f?source=rss------bug_bounty-5) 
 
- - 💯August 14, 2024 - [Identifying and Exploiting SQL Injection Vulnerabilities](https://im4x.medium.com/identifying-and-exploiting-sql-injection-vulnerabilities-cdfaa90b7b04?source=rss------bug_bounty-5) 
+ - 💯August 16, 2024 - [Top 20 Open Redirect Bug Bounty Reports](https://medium.com/@thenumberof9/top-20-open-redirect-bug-bounty-reports-610c57fb006f?source=rss------bug_bounty-5) 
 
- - 💯August 14, 2024 - [Open S3 Buckets Through Reconnaissance](https://offsec01.medium.com/open-s3-buckets-through-reconnaissance-920f8b35be47?source=rss------bug_bounty-5) 
+ - 💯August 15, 2024 - [Passenger Information Disclosure Vulnerability Over the MQTT Protocol](https://medium.com/@moradloo1779/passenger-information-disclosure-vulnerability-over-the-mqtt-protocol-667402289583?source=rss------bug_bounty-5) 
 
- - 💯August 14, 2024 - [A Critical 403 Bypass Vulnerability Lead to a Staging Environment with User Enumeration](https://ay0ub-n0uri.medium.com/a-critical-403-bypass-vulnerability-lead-to-a-staging-environment-with-user-enumeration-25b94ebadcfa?source=rss------bug_bounty-5) 
+ - 💯August 15, 2024 - [Protecting against multi-step SQL injections: A shield for your data](https://medium.com/@Progsky/protecting-against-multi-step-sql-injections-a-shield-for-your-data-bf14e41dc412?source=rss------bug_bounty-5) 
 
- - 💯August 14, 2024 - [Authentication Bypass -MFA , Account Takeover…](https://medium.com/@prakashchand72/authentication-bypass-mfa-account-takeover-32166aedb3b9?source=rss------bug_bounty-5) 
+ - 💯August 15, 2024 - [Swisstronik: A Blockchain Solution for Privacy and Compliance.](https://medium.com/@danishkhatri023/swisstronik-a-blockchain-solution-for-privacy-and-compliance-73c662eadf7a?source=rss------bug_bounty-5) 
 
- - 💯August 14, 2024 - [Server-side template injection in Web App Penetration Testing | 2024](https://cyberw1ng.medium.com/server-side-template-injection-in-web-app-penetration-testing-2024-67961a32cadd?source=rss------bug_bounty-5) 
+ - 💯August 15, 2024 - [2FA Bypass - IDN Mischief](https://shahjerry33.medium.com/2fa-bypass-idn-mischief-157f06cb6904?source=rss------bug_bounty-5) 
 
- - 💯August 14, 2024 - [Automate your Google Dorking to Find Bugs](https://mrunknown124154.medium.com/automate-your-google-dorking-to-find-bugs-f7d86dc2d279?source=rss------bug_bounty-5) 
+ - 💯August 15, 2024 - [Cracking the Armour: Bypassed WAF using Ibrahimxss Tool for easy](https://medium.com/@jitinyaduvanshi/cracking-the-armour-bypassed-waf-using-ibrahimxss-tool-for-easy-6867cfcd850b?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
