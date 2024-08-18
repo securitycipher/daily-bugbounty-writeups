@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 17, 2024 - [Everything about CSP &lpar;Content Security Policy&rpar;and bypassing it Like a PRO!!](https://shauryasharma05.medium.com/everything-about-csp-content-security-policy-and-bypassing-it-like-a-pro-290d3b06b721?source=rss------bug_bounty-5) 
+ - 💯August 18, 2024 - [Burp Suite Filtering Trick — Reducing Log Noise with TLS Pass-Through](https://systemweakness.com/burp-suite-filtering-trick-reducing-log-noise-with-tls-pass-through-468d00fbc7dc?source=rss------bug_bounty-5) 
 
- - 💯August 17, 2024 - [A Step-by-Step Guide to Installing and Using dirsearch](https://medium.com/@sherlock297/a-step-by-step-guide-to-installing-and-using-dirsearch-7833d9dbe6c3?source=rss------bug_bounty-5) 
+ - 💯August 18, 2024 - [How to Bypass Company Email Feature While Creating an Account](https://medium.com/@josuofficial327/how-to-bypass-company-email-feature-while-creating-an-account-f792b37a231f?source=rss------bug_bounty-5) 
 
- - 💯August 17, 2024 - [Targeting Hidden API Endpoints in IDOR Exploits](https://systemweakness.com/targeting-hidden-api-endpoints-in-idor-exploits-269b6ae0f16e?source=rss------bug_bounty-5) 
+ - 💯August 18, 2024 - [BugBounty WriteUp — Creative thinking is our everything &lpar;Race Condition + Business Logic Error&rpar;](https://medium.com/@bilalresearcher/bugbounty-writeup-creative-thinking-is-our-everything-race-condition-business-logic-error-c7cfcc6d9125?source=rss------bug_bounty-5) 
 
- - 💯August 17, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-73&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-73-210a9520bff3?source=rss------bug_bounty-5) 
+ - 💯August 18, 2024 - [Bug Bounty Writeup: $2500 Reward for Session Hijack via Chained Attack](https://medium.com/@bilalresearcher/bug-bounty-writeup-2500-reward-for-session-hijack-via-chained-attack-b5ad443bc9b9?source=rss------bug_bounty-5) 
 
- - 💯August 17, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-72&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-72-a2bf155d3162?source=rss------bug_bounty-5) 
+ - 💯August 18, 2024 - [How Automation Detected Default Admin Credential Worth $500](https://medium.com/@bilalresearcher/how-automation-detected-default-admin-credential-worth-500-9f2c3ed460c4?source=rss------bug_bounty-5) 
 
- - 💯August 17, 2024 - [Day 13 of 30 Days — 30 Vulnerabilities | XML External Entity &lpar;XXE&rpar;](https://medium.com/@kumawatabhijeet2002/day-13-of-30-days-30-vulnerabilities-xml-external-entity-xxe-93118ac3a167?source=rss------bug_bounty-5) 
+ - 💯August 18, 2024 - [Accessing deleted comment for $: A Bug Bounty Writeup](https://medium.com/@bilalresearcher/accessing-deleted-comment-for-a-bug-bounty-writeup-085e836660c1?source=rss------bug_bounty-5) 
 
- - 💯August 16, 2024 - [921$ Privilege Escalation: Unauthorized User Addition to Shared APP Connections](https://medium.com/@bilalresearcher/921-privilege-escalation-unauthorized-user-addition-to-shared-app-connections-681d807ccd1e?source=rss------bug_bounty-5) 
+ - 💯August 18, 2024 - [PII Disclosure Worth $750](https://medium.com/@bilalresearcher/pii-disclosure-worth-750-1f9caeac484f?source=rss------bug_bounty-5) 
 
- - 💯August 16, 2024 - [500$: MFA bypass By Race Condition](https://medium.com/@bilalresearcher/500-mfa-bypass-by-race-condition-8952b6718b89?source=rss------bug_bounty-5) 
+ - 💯August 17, 2024 - [Understanding Open Redirect Vulnerabilities: A Simple Discovery](https://shaifsec.medium.com/understanding-open-redirect-vulnerabilities-a-simple-discovery-476a675839f7?source=rss------bug_bounty-5) 
 
- - 💯August 16, 2024 - [The UI Slip I Hit 750$: UI Manipulation Leading to Unauthorized Permission Changes](https://medium.com/@bilalresearcher/the-ui-slip-i-hit-750-ui-manipulation-leading-to-unauthorized-permission-changes-23c544918111?source=rss------bug_bounty-5) 
+ - 💯August 17, 2024 - [Sub-finder tool methodology](https://medium.com/@tharunteja725_8686/sub-finder-tool-methodology-1dcb2622b0d5?source=rss------bug_bounty-5) 
 
- - 💯August 16, 2024 - [1500$: CR/LF Injection](https://medium.com/@bilalresearcher/1500-cr-lf-injection-09b7ae3cfaef?source=rss------bug_bounty-5) 
+ - 💯August 17, 2024 - [IDOR Vulnerabilities Between Admin Privilege Users in the Same Organization](https://medium.com/@Az3m/idor-vulnerabilities-between-admin-privilege-users-in-the-same-organization-7718192bba0e?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
