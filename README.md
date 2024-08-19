@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 18, 2024 - [Burp Suite Filtering Trick — Reducing Log Noise with TLS Pass-Through](https://systemweakness.com/burp-suite-filtering-trick-reducing-log-noise-with-tls-pass-through-468d00fbc7dc?source=rss------bug_bounty-5) 
+ - 💯August 19, 2024 - [0-click Full Account Takeover](https://dynnyd20.medium.com/0-click-full-account-takeover-9bb6b4d692a9?source=rss------bug_bounty-5) 
 
- - 💯August 18, 2024 - [How to Bypass Company Email Feature While Creating an Account](https://medium.com/@josuofficial327/how-to-bypass-company-email-feature-while-creating-an-account-f792b37a231f?source=rss------bug_bounty-5) 
+ - 💯August 19, 2024 - [Best Directory Brute-forcing Tools for Beginner Bug Hunters](https://medium.com/@josuofficial327/best-directory-brute-forcing-tools-for-beginner-bug-hunters-3388dd97c055?source=rss------bug_bounty-5) 
 
- - 💯August 18, 2024 - [BugBounty WriteUp — Creative thinking is our everything &lpar;Race Condition + Business Logic Error&rpar;](https://medium.com/@bilalresearcher/bugbounty-writeup-creative-thinking-is-our-everything-race-condition-business-logic-error-c7cfcc6d9125?source=rss------bug_bounty-5) 
+ - 💯August 18, 2024 - [Title: Mastering CSRF Exploits with Port Swigger Academy Lab: How to Bypass SameSite Strict via…](https://medium.com/@dsksatheesh35/title-mastering-csrf-exploits-with-port-swigger-academy-lab-how-to-bypass-samesite-strict-via-7976c3f42d12?source=rss------bug_bounty-5) 
 
- - 💯August 18, 2024 - [Bug Bounty Writeup: $2500 Reward for Session Hijack via Chained Attack](https://medium.com/@bilalresearcher/bug-bounty-writeup-2500-reward-for-session-hijack-via-chained-attack-b5ad443bc9b9?source=rss------bug_bounty-5) 
+ - 💯August 18, 2024 - [Day 14 of 30 Days — 30 Vulnerabilities | HTTP Parameter Pollution &lpar;HPP&rpar; Vulnerability](https://medium.com/@kumawatabhijeet2002/day-14-of-30-days-30-vulnerabilities-http-parameter-pollution-hpp-vulnerability-6c767a9227d8?source=rss------bug_bounty-5) 
 
- - 💯August 18, 2024 - [How Automation Detected Default Admin Credential Worth $500](https://medium.com/@bilalresearcher/how-automation-detected-default-admin-credential-worth-500-9f2c3ed460c4?source=rss------bug_bounty-5) 
+ - 💯August 18, 2024 - [XSS CHECKLIST](https://medium.com/@mehmetfarisacar/xss-checklist-a2bf18ed6992?source=rss------bug_bounty-5) 
 
- - 💯August 18, 2024 - [Accessing deleted comment for $: A Bug Bounty Writeup](https://medium.com/@bilalresearcher/accessing-deleted-comment-for-a-bug-bounty-writeup-085e836660c1?source=rss------bug_bounty-5) 
+ - 💯August 18, 2024 - [Advanced Techniques and Emerging Trends in Web Cache Poisoning](https://cyberw1ng.medium.com/advanced-techniques-and-emerging-trends-in-web-cache-poisoning-d2c8d3807d46?source=rss------bug_bounty-5) 
 
- - 💯August 18, 2024 - [PII Disclosure Worth $750](https://medium.com/@bilalresearcher/pii-disclosure-worth-750-1f9caeac484f?source=rss------bug_bounty-5) 
+ - 💯August 18, 2024 - [HTML Injection in Mobile App Support Ticket Form on target.tech](https://medium.com/@shobitsharma/html-injection-in-mobile-app-support-ticket-form-on-target-tech-f45d2de510af?source=rss------bug_bounty-5) 
 
- - 💯August 17, 2024 - [Understanding Open Redirect Vulnerabilities: A Simple Discovery](https://shaifsec.medium.com/understanding-open-redirect-vulnerabilities-a-simple-discovery-476a675839f7?source=rss------bug_bounty-5) 
+ - 💯August 18, 2024 - [Day 15 of 30 Days — 30 Vulnerabilities | ClickJacking](https://it4chis3c.medium.com/day-15-of-30-days-30-vulnerabilities-clickjacking-592505aff54d?source=rss------bug_bounty-5) 
 
- - 💯August 17, 2024 - [Sub-finder tool methodology](https://medium.com/@tharunteja725_8686/sub-finder-tool-methodology-1dcb2622b0d5?source=rss------bug_bounty-5) 
-
- - 💯August 17, 2024 - [IDOR Vulnerabilities Between Admin Privilege Users in the Same Organization](https://medium.com/@Az3m/idor-vulnerabilities-between-admin-privilege-users-in-the-same-organization-7718192bba0e?source=rss------bug_bounty-5) 
+ - 💯August 18, 2024 - [How I Bypassed 2FA and Earned My First Bounty $$](https://anonysm.medium.com/how-i-bypassed-2fa-and-earned-my-first-bounty-3fdc58938347?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
