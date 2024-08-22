@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 21, 2024 - [Advanced Web Cache Poisoning Techniques &lpar;Part 2&rpar;: Tools, Methods, and Exploits](https://medium.com/@dsmodi484/advanced-web-cache-poisoning-techniques-part-2-tools-methods-and-exploits-d35619d4bd75?source=rss------bug_bounty-5) 
+ - 💯August 22, 2024 - [Grep tips for Javascript Analysis | Bug Bounty](https://0xmaruf.medium.com/grep-tips-for-javascript-analysis-bug-bounty-7dce88266121?source=rss------bug_bounty-5) 
 
- - 💯August 21, 2024 - [Secrets of Red Teaming: Must-Know Tips and Tricks for Beginners!](https://medium.com/@paritoshblogs/secrets-of-red-teaming-must-know-tips-and-tricks-for-beginners-7a0dbf8eb021?source=rss------bug_bounty-5) 
+ - 💯August 22, 2024 - [TESLA MOTORS VIN NUMBER LEAK THROUGH IT’S API ENDPOINT, THEY CALL IT NO SECURITY IMPACT..](https://medium.com/@krivadna_87390/tesla-motors-vin-number-leak-through-its-api-endpoint-they-call-it-no-security-impact-bb30fb5f1314?source=rss------bug_bounty-5) 
 
- - 💯August 20, 2024 - [cyberseReal-World Applications and Case Studies: Combating Web Cache Poisoning in Complex…](https://cyberw1ng.medium.com/cybersereal-world-applications-and-case-studies-combating-web-cache-poisoning-in-complex-5bf41b0073c1?source=rss------bug_bounty-5) 
+ - 💯August 22, 2024 - [CORRUPT SEBI INDIA JEOPARDIZING DIRECTOR&#39;S FINANCIAL INFO • PAN NUMBER LEAK ZOMATO BUG BOUNTY…](https://medium.com/@krivadna_87390/corrupt-sebi-india-jeopardizing-directoes-financial-info-zomato-bug-bounty-hackerone-fraud-f27145ccfad8?source=rss------bug_bounty-5) 
 
- - 💯August 20, 2024 - [Invitation link hijacking on a bug bounty program](https://harish45.medium.com/invitation-link-hijacking-on-a-bug-bounty-program-50d3b92d5532?source=rss------bug_bounty-5) 
+ - 💯August 22, 2024 - [Response Manipulation FTW: Understanding and Exploiting Response Manipulation](https://medium.com/@security.tecno/response-manipulation-ftw-understanding-and-exploiting-response-manipulation-6ad2d81f2eb4?source=rss------bug_bounty-5) 
 
- - 💯August 20, 2024 - [My first XSS: Reflected XSS in hidden parameter](https://anonysm.medium.com/my-first-xss-reflected-xss-in-hidden-parameter-4142a02edfb1?source=rss------bug_bounty-5) 
+ - 💯August 22, 2024 - [10 Secrets Ethical Hackers Don’t Want You to Know &lpar;But We’re Revealing Them Anyway!&rpar;](https://medium.com/@paritoshblogs/10-secrets-ethical-hackers-dont-want-you-to-know-but-we-re-revealing-them-anyway-094ca920c3d8?source=rss------bug_bounty-5) 
 
- - 💯August 20, 2024 - [Unveiling a Critical Vulnerability: Exposing AWS Credentials in a Penetration Test](https://notifybugme.medium.com/unveiling-a-critical-vulnerability-exposing-aws-credentials-in-a-penetration-test-2f7119a7c816?source=rss------bug_bounty-5) 
+ - 💯August 21, 2024 - [Authorization bypass due to cache misconfiguration](https://medium.com/@bilalresearcher/authorization-bypass-due-to-cache-misconfiguration-7407aa1c6374?source=rss------bug_bounty-5) 
 
- - 💯August 20, 2024 - [How a Lazy Bug Bounty Hunter got a place on NASA HOF &lpar; An XSS Story&rpar;.](https://medium.com/@trffnsec/how-a-lazy-bug-bounty-hunter-got-a-place-on-nasa-hof-an-xss-story-e14fccc326e2?source=rss------bug_bounty-5) 
+ - 💯August 21, 2024 - [Race Condition on Likes of Product Leads to Products can appear more popular](https://medium.com/@omdubey170/race-condition-on-likes-of-product-leads-to-products-can-appear-more-popular-a39038d16203?source=rss------bug_bounty-5) 
 
- - 💯August 20, 2024 - [Information Disclosure : 80+ Emails and LongID Disclosed !!](https://pushkarhax.medium.com/information-disclosure-80-emails-and-longid-disclosed-8952e2c6978b?source=rss------bug_bounty-5) 
+ - 💯August 21, 2024 - [The Future of Web Cache Poisoning Defense: Anticipating New Threats and Adopting Next-Generation…](https://cyberw1ng.medium.com/the-future-of-web-cache-poisoning-defense-anticipating-new-threats-and-adopting-next-generation-56a62d115bcd?source=rss------bug_bounty-5) 
 
- - 💯August 20, 2024 - [Day 15 of 30 Days — 30 Vulnerabilities | ClickJacking](https://medium.com/@kumawatabhijeet2002/day-15-of-30-days-30-vulnerabilities-clickjacking-33e38c25d528?source=rss------bug_bounty-5) 
-
- - 💯August 19, 2024 - [Advanced Techniques for Mitigating Web Cache Poisoning Attacks](https://cyberw1ng.medium.com/advanced-techniques-for-mitigating-web-cache-poisoning-attacks-8f818fd7eb00?source=rss------bug_bounty-5) 
+ - 💯August 21, 2024 - [Forging a Path to Account Takeover: Copy Password Reset Link Vulnerability worth $$.](https://medium.com/@bilalresearcher/forging-a-path-to-account-takeover-copy-password-reset-link-vulnerability-worth-3135c3df60d6?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
