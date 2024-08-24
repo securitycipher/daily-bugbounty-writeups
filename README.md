@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 23, 2024 - [Elevate Your Cybersecurity Skills with Expert Training and Penetration Testing!](https://imranthe3rd3ye.medium.com/elevate-your-cybersecurity-skills-with-expert-training-and-penetration-testing-b16e8b122642?source=rss------bug_bounty-5) 
+ - 💯August 24, 2024 - [Practical Bug Bounty — TCM Academy | Module 8](https://medium.com/@awabhassan/practical-bug-bounty-tcm-academy-module-8-44663b4f87e3?source=rss------bug_bounty-5) 
 
- - 💯August 23, 2024 - [Monitoring Gists for secrets with Trufflehog](https://medium.com/@learntheshell/monitoring-gists-with-trufflehog-612b7d9dbab5?source=rss------bug_bounty-5) 
+ - 💯August 24, 2024 - [Cross-Site Origin Policy &lpar;CORS&rpar;](https://itsravikiran25.medium.com/cross-site-origin-policy-cors-c82e4b0208f8?source=rss------bug_bounty-5) 
 
- - 💯August 23, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-81&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-81-833084004f21?source=rss------bug_bounty-5) 
+ - 💯August 24, 2024 - [What Really Provides Security in the Cloud?](https://medium.com/@paritoshblogs/what-really-provides-security-in-the-cloud-2f0cc83d113a?source=rss------bug_bounty-5) 
 
- - 💯August 23, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-80&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-80-ae2ad3c7f971?source=rss------bug_bounty-5) 
+ - 💯August 23, 2024 - [Stealing Admin Cookies: An XSS Challenge from TCM Security’s Practical Bug Bounty Course](https://medium.com/@trixiahorner/stealing-admin-cookies-an-xss-challenge-from-tcm-securitys-practical-bug-bounty-course-b08a990cca84?source=rss------bug_bounty-5) 
 
- - 💯August 23, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-79&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-79-415c1bd4f7c3?source=rss------bug_bounty-5) 
+ - 💯August 23, 2024 - [Web Cache Poisoning: Understanding the Threat and How to Protect Your Website](https://cyberw1ng.medium.com/web-cache-poisoning-understanding-the-threat-and-how-to-protect-your-website-82ebaba2f0e8?source=rss------bug_bounty-5) 
 
- - 💯August 23, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-78&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-78-85e87ffc94f9?source=rss------bug_bounty-5) 
+ - 💯August 23, 2024 - [Day 16 of 30 Days — 30 Vulnerabilities | Subdomain Takeover](https://medium.com/@kumawatabhijeet2002/day-16-of-30-days-30-vulnerabilities-subdomain-takeover-01088ad1d525?source=rss------bug_bounty-5) 
 
- - 💯August 23, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-77&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-77-b9b1354812cc?source=rss------bug_bounty-5) 
+ - 💯August 23, 2024 - [how i got into the server of our university.](https://medium.com/@mesterx54/how-i-got-into-the-server-of-our-university-aae2782bcc64?source=rss------bug_bounty-5) 
 
- - 💯August 23, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-76&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-76-07a4d8f583c0?source=rss------bug_bounty-5) 
+ - 💯August 23, 2024 - [How I Got an Appreciation Letter from NASA for Finding a Simple Bug](https://infosecwriteups.com/how-i-got-an-appreciation-letter-from-nasa-for-finding-a-simple-bug-8812852d0337?source=rss------bug_bounty-5) 
 
- - 💯August 23, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-75&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-75-8d5930bd46dc?source=rss------bug_bounty-5) 
+ - 💯August 23, 2024 - [Hidden in Plain Sight: Uncovering RCE on a Forgotten Axis2 Instance](https://medium.com/@domenicoveneziano/hidden-in-plain-sight-uncovering-rce-on-a-forgotten-axis2-instance-86ddc91f1415?source=rss------bug_bounty-5) 
 
- - 💯August 23, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-74&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-74-778fd4767e52?source=rss------bug_bounty-5) 
+ - 💯August 23, 2024 - [Finally, SSL Pinning for Flutter Bypassed After Frustration..](https://wahaz.medium.com/finally-ssl-pinning-for-flutter-bypassed-after-frustration-4573e15ed18e?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
