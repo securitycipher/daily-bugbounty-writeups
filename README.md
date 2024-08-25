@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 24, 2024 - [Practical Bug Bounty — TCM Academy | Module 8](https://medium.com/@awabhassan/practical-bug-bounty-tcm-academy-module-8-44663b4f87e3?source=rss------bug_bounty-5) 
+ - 💯August 25, 2024 - [How to get your first valid bug by reading disclosed reports](https://anonysm.medium.com/how-to-get-your-first-valid-bug-by-reading-disclosed-reports-2663c9987bf3?source=rss------bug_bounty-5) 
 
- - 💯August 24, 2024 - [Cross-Site Origin Policy &lpar;CORS&rpar;](https://itsravikiran25.medium.com/cross-site-origin-policy-cors-c82e4b0208f8?source=rss------bug_bounty-5) 
+ - 💯August 25, 2024 - [How do I chain multiple Nuclei templates together in a single scan?](https://medium.com/@sherlock297/how-do-i-chain-multiple-nuclei-templates-together-in-a-single-scan-621a3fb8787f?source=rss------bug_bounty-5) 
 
- - 💯August 24, 2024 - [What Really Provides Security in the Cloud?](https://medium.com/@paritoshblogs/what-really-provides-security-in-the-cloud-2f0cc83d113a?source=rss------bug_bounty-5) 
+ - 💯August 24, 2024 - [Chain of Rate Limit Bypass and Weak Token Expiry Leads To Account Take Over](https://medium.com/@bilalresearcher/chain-of-rate-limit-bypass-and-weak-token-expiry-leads-to-account-take-over-0cf794fef31c?source=rss------bug_bounty-5) 
 
- - 💯August 23, 2024 - [Stealing Admin Cookies: An XSS Challenge from TCM Security’s Practical Bug Bounty Course](https://medium.com/@trixiahorner/stealing-admin-cookies-an-xss-challenge-from-tcm-securitys-practical-bug-bounty-course-b08a990cca84?source=rss------bug_bounty-5) 
+ - 💯August 24, 2024 - [CSRF Bypass Combined with IDOR To Complete Account Takeover!](https://medium.com/@bilalresearcher/csrf-bypass-combined-with-idor-to-complete-account-takeover-588b34b9cf60?source=rss------bug_bounty-5) 
 
- - 💯August 23, 2024 - [Web Cache Poisoning: Understanding the Threat and How to Protect Your Website](https://cyberw1ng.medium.com/web-cache-poisoning-understanding-the-threat-and-how-to-protect-your-website-82ebaba2f0e8?source=rss------bug_bounty-5) 
+ - 💯August 24, 2024 - [User information disclosure via message reactions](https://medium.com/@bilalresearcher/user-information-disclosure-via-message-reactions-affc72cfd8de?source=rss------bug_bounty-5) 
 
- - 💯August 23, 2024 - [Day 16 of 30 Days — 30 Vulnerabilities | Subdomain Takeover](https://medium.com/@kumawatabhijeet2002/day-16-of-30-days-30-vulnerabilities-subdomain-takeover-01088ad1d525?source=rss------bug_bounty-5) 
+ - 💯August 24, 2024 - [IDOR Lead to Data Leak](https://medium.com/@bilalresearcher/idor-lead-to-data-leak-6943ade0a3d6?source=rss------bug_bounty-5) 
 
- - 💯August 23, 2024 - [how i got into the server of our university.](https://medium.com/@mesterx54/how-i-got-into-the-server-of-our-university-aae2782bcc64?source=rss------bug_bounty-5) 
+ - 💯August 24, 2024 - [XSS &amp; IDOR &amp; CSRF to ATO](https://medium.com/@bilalresearcher/xss-idor-csrf-to-ato-0e898876789d?source=rss------bug_bounty-5) 
 
- - 💯August 23, 2024 - [How I Got an Appreciation Letter from NASA for Finding a Simple Bug](https://infosecwriteups.com/how-i-got-an-appreciation-letter-from-nasa-for-finding-a-simple-bug-8812852d0337?source=rss------bug_bounty-5) 
+ - 💯August 24, 2024 - [How I Turned a Rate-Limit Bypass into an Account Takeover](https://medium.com/@bilalresearcher/how-i-turned-a-rate-limit-bypass-into-an-account-takeover-5a50b0f4dc6a?source=rss------bug_bounty-5) 
 
- - 💯August 23, 2024 - [Hidden in Plain Sight: Uncovering RCE on a Forgotten Axis2 Instance](https://medium.com/@domenicoveneziano/hidden-in-plain-sight-uncovering-rce-on-a-forgotten-axis2-instance-86ddc91f1415?source=rss------bug_bounty-5) 
+ - 💯August 24, 2024 - [$$ Bypassing SSRF Restrictions on a Google Product: A Journey Through DNS Rebinding](https://medium.com/@bilalresearcher/bypassing-ssrf-restrictions-on-a-google-product-a-journey-through-dns-rebinding-caaf00ebe479?source=rss------bug_bounty-5) 
 
- - 💯August 23, 2024 - [Finally, SSL Pinning for Flutter Bypassed After Frustration..](https://wahaz.medium.com/finally-ssl-pinning-for-flutter-bypassed-after-frustration-4573e15ed18e?source=rss------bug_bounty-5) 
+ - 💯August 24, 2024 - [Discovering a Session Persistence Vulnerability That Led to a $$ Bounty](https://medium.com/@bilalresearcher/discovering-a-session-persistence-vulnerability-that-led-to-a-bounty-bbf3dd526f01?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
