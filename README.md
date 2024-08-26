@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 25, 2024 - [How to get your first valid bug by reading disclosed reports](https://anonysm.medium.com/how-to-get-your-first-valid-bug-by-reading-disclosed-reports-2663c9987bf3?source=rss------bug_bounty-5) 
+ - 💯August 26, 2024 - [Password Reset Glitch Leads to Instant Account Takeover](https://bevijaygupta.medium.com/password-reset-glitch-leads-to-instant-account-takeover-a4e67b667eaf?source=rss------bug_bounty-5) 
 
- - 💯August 25, 2024 - [How do I chain multiple Nuclei templates together in a single scan?](https://medium.com/@sherlock297/how-do-i-chain-multiple-nuclei-templates-together-in-a-single-scan-621a3fb8787f?source=rss------bug_bounty-5) 
+ - 💯August 26, 2024 - [DNS enumeration methodology and techniques](https://systemweakness.com/dns-enumeration-methodology-and-techniques-1945fa4164fd?source=rss------bug_bounty-5) 
 
- - 💯August 24, 2024 - [Chain of Rate Limit Bypass and Weak Token Expiry Leads To Account Take Over](https://medium.com/@bilalresearcher/chain-of-rate-limit-bypass-and-weak-token-expiry-leads-to-account-take-over-0cf794fef31c?source=rss------bug_bounty-5) 
+ - 💯August 26, 2024 - [Account Take Over | P1 — Critical](https://irsyadsec.medium.com/account-take-over-p1-critical-5468ce8218b9?source=rss------bug_bounty-5) 
 
- - 💯August 24, 2024 - [CSRF Bypass Combined with IDOR To Complete Account Takeover!](https://medium.com/@bilalresearcher/csrf-bypass-combined-with-idor-to-complete-account-takeover-588b34b9cf60?source=rss------bug_bounty-5) 
+ - 💯August 26, 2024 - [Understanding Robots.txt: The Key to Managing Web Crawlers](https://medium.com/@kanishk.k1410/understanding-robots-txt-the-key-to-managing-web-crawlers-04eda892ec92?source=rss------bug_bounty-5) 
 
- - 💯August 24, 2024 - [User information disclosure via message reactions](https://medium.com/@bilalresearcher/user-information-disclosure-via-message-reactions-affc72cfd8de?source=rss------bug_bounty-5) 
+ - 💯August 26, 2024 - [From Developer to Hacker — Entering the Red team](https://medium.com/@jonathanmondaut/from-developer-to-hacker-entering-the-red-team-8b50989b9464?source=rss------bug_bounty-5) 
 
- - 💯August 24, 2024 - [IDOR Lead to Data Leak](https://medium.com/@bilalresearcher/idor-lead-to-data-leak-6943ade0a3d6?source=rss------bug_bounty-5) 
+ - 💯August 26, 2024 - [New Malware Uses PHP Exploit to Backdoor Windows Systems - Stay Informed!](https://medium.com/@realahmedmoses/new-malware-uses-php-exploit-to-backdoor-windows-systems-stay-informed-8df12e89391a?source=rss------bug_bounty-5) 
 
- - 💯August 24, 2024 - [XSS &amp; IDOR &amp; CSRF to ATO](https://medium.com/@bilalresearcher/xss-idor-csrf-to-ato-0e898876789d?source=rss------bug_bounty-5) 
+ - 💯August 26, 2024 - [Day 17 of 30 Days — 30 Vulnerabilities | Path/Directory Traversal](https://medium.com/@kumawatabhijeet2002/day-17-of-30-days-30-vulnerabilities-path-directory-traversal-008e92c07f23?source=rss------bug_bounty-5) 
 
- - 💯August 24, 2024 - [How I Turned a Rate-Limit Bypass into an Account Takeover](https://medium.com/@bilalresearcher/how-i-turned-a-rate-limit-bypass-into-an-account-takeover-5a50b0f4dc6a?source=rss------bug_bounty-5) 
+ - 💯August 26, 2024 - [Thief Raccoon — Login Phishing Tool](https://medium.com/@bountyget/thief-raccoon-login-phishing-tool-59c574687aae?source=rss------bug_bounty-5) 
 
- - 💯August 24, 2024 - [$$ Bypassing SSRF Restrictions on a Google Product: A Journey Through DNS Rebinding](https://medium.com/@bilalresearcher/bypassing-ssrf-restrictions-on-a-google-product-a-journey-through-dns-rebinding-caaf00ebe479?source=rss------bug_bounty-5) 
+ - 💯August 25, 2024 - [LOLbins / LOLBAS Attack !](https://medium.com/@reemmoslem34/lolbins-lolbas-attack-006aad1ac364?source=rss------bug_bounty-5) 
 
- - 💯August 24, 2024 - [Discovering a Session Persistence Vulnerability That Led to a $$ Bounty](https://medium.com/@bilalresearcher/discovering-a-session-persistence-vulnerability-that-led-to-a-bounty-bbf3dd526f01?source=rss------bug_bounty-5) 
+ - 💯August 25, 2024 - [Intruder + Frida to Account Takeover](https://medium.com/@bilalresearcher/intruder-frida-to-account-takeover-548d4dd785ef?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
