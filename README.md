@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 26, 2024 - [Password Reset Glitch Leads to Instant Account Takeover](https://bevijaygupta.medium.com/password-reset-glitch-leads-to-instant-account-takeover-a4e67b667eaf?source=rss------bug_bounty-5) 
+ - 💯August 27, 2024 - [Critical Security Vulnerability Discovered on Reserve Bank of India’s Website: A Wake-Up Call…](https://medium.com/@psychomong/critical-security-vulnerability-discovered-on-reserve-bank-of-indias-website-a-wake-up-call-06fd08db0559?source=rss------bug_bounty-5) 
 
- - 💯August 26, 2024 - [DNS enumeration methodology and techniques](https://systemweakness.com/dns-enumeration-methodology-and-techniques-1945fa4164fd?source=rss------bug_bounty-5) 
+ - 💯August 27, 2024 - [Day 20 0f 30 Days — 30 Vulnerabilities | Host Header Injection](https://medium.com/@kumawatabhijeet2002/day-20-0f-30-days-30-vulnerabilities-host-header-injection-9bc006b4734c?source=rss------bug_bounty-5) 
 
- - 💯August 26, 2024 - [Account Take Over | P1 — Critical](https://irsyadsec.medium.com/account-take-over-p1-critical-5468ce8218b9?source=rss------bug_bounty-5) 
+ - 💯August 27, 2024 - [Day 19 of 30 Days — 30 Vulnerabilities | Rate Limiting Bypass](https://medium.com/@kumawatabhijeet2002/day-19-of-30-days-30-vulnerabilities-rate-limiting-bypass-896c8e2bdfc1?source=rss------bug_bounty-5) 
 
- - 💯August 26, 2024 - [Understanding Robots.txt: The Key to Managing Web Crawlers](https://medium.com/@kanishk.k1410/understanding-robots-txt-the-key-to-managing-web-crawlers-04eda892ec92?source=rss------bug_bounty-5) 
+ - 💯August 27, 2024 - [How To Get Stored Xss &amp; RCE Using Bypass Signature &amp; Extension Via File Upload |_|](https://medium.com/@bilalresearcher/how-to-get-stored-xss-rce-using-bypass-signature-extension-via-file-upload-9b3e8d9348cd?source=rss------bug_bounty-5) 
 
- - 💯August 26, 2024 - [From Developer to Hacker — Entering the Red team](https://medium.com/@jonathanmondaut/from-developer-to-hacker-entering-the-red-team-8b50989b9464?source=rss------bug_bounty-5) 
+ - 💯August 27, 2024 - [Find Blind XSS like a pro.](https://medium.com/@bilalresearcher/find-blind-xss-like-a-pro-ddc9ef8d5e89?source=rss------bug_bounty-5) 
 
- - 💯August 26, 2024 - [New Malware Uses PHP Exploit to Backdoor Windows Systems - Stay Informed!](https://medium.com/@realahmedmoses/new-malware-uses-php-exploit-to-backdoor-windows-systems-stay-informed-8df12e89391a?source=rss------bug_bounty-5) 
+ - 💯August 27, 2024 - [The only recon methodology you need to know.](https://medium.com/@bilalresearcher/the-only-recon-methodology-you-need-to-know-9feb257ca4a2?source=rss------bug_bounty-5) 
 
- - 💯August 26, 2024 - [Day 17 of 30 Days — 30 Vulnerabilities | Path/Directory Traversal](https://medium.com/@kumawatabhijeet2002/day-17-of-30-days-30-vulnerabilities-path-directory-traversal-008e92c07f23?source=rss------bug_bounty-5) 
+ - 💯August 27, 2024 - [Advanced Web Cache Poisoning Techniques &lpar;Part 2&rpar;: Tools, Methods, and Exploits](https://medium.com/@bilalresearcher/advanced-web-cache-poisoning-techniques-part-2-tools-methods-and-exploits-b379aeb7ab36?source=rss------bug_bounty-5) 
 
- - 💯August 26, 2024 - [Thief Raccoon — Login Phishing Tool](https://medium.com/@bountyget/thief-raccoon-login-phishing-tool-59c574687aae?source=rss------bug_bounty-5) 
+ - 💯August 27, 2024 - [Unraveling Web Cache Poisoning: A Deep Dive &lpar;Part 1&rpar;](https://medium.com/@bilalresearcher/unraveling-web-cache-poisoning-a-deep-dive-part-1-49fa00e81d1a?source=rss------bug_bounty-5) 
 
- - 💯August 25, 2024 - [LOLbins / LOLBAS Attack !](https://medium.com/@reemmoslem34/lolbins-lolbas-attack-006aad1ac364?source=rss------bug_bounty-5) 
+ - 💯August 27, 2024 - [Finding IDOR Vulnerabilities: Key Endpoints and Resources](https://medium.com/@bilalresearcher/finding-idor-vulnerabilities-key-endpoints-and-resources-e4c2457aa231?source=rss------bug_bounty-5) 
 
- - 💯August 25, 2024 - [Intruder + Frida to Account Takeover](https://medium.com/@bilalresearcher/intruder-frida-to-account-takeover-548d4dd785ef?source=rss------bug_bounty-5) 
+ - 💯August 27, 2024 - [How I was able to discover ATO Via IDOR vulnerability](https://medium.com/@bilalresearcher/how-i-was-able-to-discover-ato-via-idor-vulnerability-c31d074a62e8?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
