@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 27, 2024 - [Critical Security Vulnerability Discovered on Reserve Bank of India’s Website: A Wake-Up Call…](https://medium.com/@psychomong/critical-security-vulnerability-discovered-on-reserve-bank-of-indias-website-a-wake-up-call-06fd08db0559?source=rss------bug_bounty-5) 
+ - 💯August 28, 2024 - [The Secret to Finding Anyone’s Digital Footprint: Master OSINT in 7 Easy Steps!](https://medium.com/@paritoshblogs/the-secret-to-finding-anyones-digital-footprint-master-osint-in-7-easy-steps-bd278a058c73?source=rss------bug_bounty-5) 
 
- - 💯August 27, 2024 - [Day 20 0f 30 Days — 30 Vulnerabilities | Host Header Injection](https://medium.com/@kumawatabhijeet2002/day-20-0f-30-days-30-vulnerabilities-host-header-injection-9bc006b4734c?source=rss------bug_bounty-5) 
+ - 💯August 28, 2024 - [Day 21 of 30 Days — 30 Vulnerabilities | OAuth Misconfigurations](https://medium.com/@kumawatabhijeet2002/day-21-of-30-days-30-vulnerabilities-oauth-misconfigurations-693c16cf5476?source=rss------bug_bounty-5) 
 
- - 💯August 27, 2024 - [Day 19 of 30 Days — 30 Vulnerabilities | Rate Limiting Bypass](https://medium.com/@kumawatabhijeet2002/day-19-of-30-days-30-vulnerabilities-rate-limiting-bypass-896c8e2bdfc1?source=rss------bug_bounty-5) 
+ - 💯August 28, 2024 - [How to Scan a Range of IP Addresses with Nmap](https://medium.com/@sherlock297/how-to-scan-a-range-of-ip-addresses-with-nmap-d802dc168846?source=rss------bug_bounty-5) 
 
- - 💯August 27, 2024 - [How To Get Stored Xss &amp; RCE Using Bypass Signature &amp; Extension Via File Upload |_|](https://medium.com/@bilalresearcher/how-to-get-stored-xss-rce-using-bypass-signature-extension-via-file-upload-9b3e8d9348cd?source=rss------bug_bounty-5) 
+ - 💯August 28, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-91&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-91-bcac49fd0f29?source=rss------bug_bounty-5) 
 
- - 💯August 27, 2024 - [Find Blind XSS like a pro.](https://medium.com/@bilalresearcher/find-blind-xss-like-a-pro-ddc9ef8d5e89?source=rss------bug_bounty-5) 
+ - 💯August 28, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-90&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-90-0f7e5ae09f8c?source=rss------bug_bounty-5) 
 
- - 💯August 27, 2024 - [The only recon methodology you need to know.](https://medium.com/@bilalresearcher/the-only-recon-methodology-you-need-to-know-9feb257ca4a2?source=rss------bug_bounty-5) 
+ - 💯August 28, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-89&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-89-f7771af9355f?source=rss------bug_bounty-5) 
 
- - 💯August 27, 2024 - [Advanced Web Cache Poisoning Techniques &lpar;Part 2&rpar;: Tools, Methods, and Exploits](https://medium.com/@bilalresearcher/advanced-web-cache-poisoning-techniques-part-2-tools-methods-and-exploits-b379aeb7ab36?source=rss------bug_bounty-5) 
+ - 💯August 28, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-88&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-88-5fba54f61fd0?source=rss------bug_bounty-5) 
 
- - 💯August 27, 2024 - [Unraveling Web Cache Poisoning: A Deep Dive &lpar;Part 1&rpar;](https://medium.com/@bilalresearcher/unraveling-web-cache-poisoning-a-deep-dive-part-1-49fa00e81d1a?source=rss------bug_bounty-5) 
+ - 💯August 28, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-87&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-87-d78ff97837fd?source=rss------bug_bounty-5) 
 
- - 💯August 27, 2024 - [Finding IDOR Vulnerabilities: Key Endpoints and Resources](https://medium.com/@bilalresearcher/finding-idor-vulnerabilities-key-endpoints-and-resources-e4c2457aa231?source=rss------bug_bounty-5) 
-
- - 💯August 27, 2024 - [How I was able to discover ATO Via IDOR vulnerability](https://medium.com/@bilalresearcher/how-i-was-able-to-discover-ato-via-idor-vulnerability-c31d074a62e8?source=rss------bug_bounty-5) 
+ - 💯August 28, 2024 - [Bug Bounty Hunting — Complete Guide &lpar;Part-86&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-86-dfcf154a34d3?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
