@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯September 7, 2024 - [The Rise of AI in Cybersecurity: Opportunities and Threats](https://bootstrapsecurity.medium.com/the-rise-of-ai-in-cybersecurity-opportunities-and-threats-531b42f9bef9?source=rss------bug_bounty-5) 
+ - 💯September 8, 2024 - [0-Click Mass Account Takeover via Password Reset Functionality](https://0d-samii.medium.com/0-click-mass-account-takeover-via-password-reset-functionality-68cdf27e028d?source=rss------bug_bounty-5) 
 
- - 💯September 7, 2024 - [how i finded a google map it’s worths 300$](https://systemweakness.com/how-i-finded-a-google-map-its-worths-300-9fe5fe32e6de?source=rss------bug_bounty-5) 
+ - 💯September 8, 2024 - [Lap 1: JWT authentication bypass via unverified signature](https://abdelrahmansalaheldeen.medium.com/lap-1-jwt-authentication-bypass-via-unverified-signature-8e450a7b2f59?source=rss------bug_bounty-5) 
 
- - 💯September 7, 2024 - [Subdomain Takeover : The Hacker’s Jackpot &lpar;And How You Can Hit It Too!&rpar;](https://medium.com/@Kaizen2977/subdomain-takeover-the-hackers-jackpot-and-how-you-can-hit-it-too-76d49b916bc1?source=rss------bug_bounty-5) 
+ - 💯September 8, 2024 - [The Only Oscp Tip You Need](https://medium.com/@issam.qsous/the-only-oscp-tip-you-need-cfac65948f68?source=rss------bug_bounty-5) 
 
- - 💯September 7, 2024 - [Bug Bounty Road ️ Map ️](https://osintteam.blog/bug-bounty-road-%EF%B8%8F-map-%EF%B8%8F-b42c14750a6a?source=rss------bug_bounty-5) 
+ - 💯September 8, 2024 - [JSON Web Token attacks &lpar;JWT&rpar;](https://abdelrahmansalaheldeen.medium.com/json-web-token-attacks-jwt-c082d76f3e4c?source=rss------bug_bounty-5) 
 
- - 💯September 7, 2024 - [Users without roles are able to find out whether the “Invite other people” feature on a Pinterest…](https://rhidayah.medium.com/users-without-roles-are-able-to-find-out-whether-the-invite-other-people-feature-on-a-pinterest-b1cf86305337?source=rss------bug_bounty-5) 
+ - 💯September 7, 2024 - [cyberExploring Client-Side Desync: Understanding the Risk and Mitigating the Threat](https://cyberw1ng.medium.com/cyberexploring-client-side-desync-understanding-the-risk-and-mitigating-the-threat-b375dec78f21?source=rss------bug_bounty-5) 
 
- - 💯September 6, 2024 - [How I Explored Further and Chained HTTP Request Smuggling with Other Vulnerabilities](https://cyberw1ng.medium.com/how-i-explored-further-and-chained-http-request-smuggling-with-other-vulnerabilities-cfb974e1e8aa?source=rss------bug_bounty-5) 
+ - 💯September 7, 2024 - [Google Dorks Secrets: Discover Hidden Endpoints &amp; Parameters with Google Dorks](https://enigma96.medium.com/google-dorks-secrets-discover-hidden-endpoints-parameters-with-google-dorks-7c3bb3257ef9?source=rss------bug_bounty-5) 
 
- - 💯September 6, 2024 - [As Luck Would Have It — tales of good fortune in bug bounty](https://medium.com/@l_s_/as-luck-would-have-it-tales-of-good-fortune-in-bug-bounty-9c56d31b3ef5?source=rss------bug_bounty-5) 
+ - 💯September 7, 2024 - [Hunting in the Cyber World: Effective Recon Strategies for a Successful Bug Bounty](https://medium.com/@rootspaghetti/hunting-in-the-cyber-world-effective-recon-strategies-for-a-successful-bug-bounty-8ec5f27bd9ae?source=rss------bug_bounty-5) 
 
- - 💯September 6, 2024 - [Google Dork Mastery Part 1 : Finding Hidden Critical Files with Google Dorks Like a Pro](https://enigma96.medium.com/google-dork-mastery-part-1-finding-hidden-critical-files-with-google-dorks-like-a-pro-d28ad159e9ae?source=rss------bug_bounty-5) 
+ - 💯September 7, 2024 - [850$ IDOR:Unauthorized Session Revokation of any user](https://infosecwriteups.com/850-idor-unauthorized-session-revokation-of-any-user-93f9cb92fdfe?source=rss------bug_bounty-5) 
 
- - 💯September 6, 2024 - [Master Mobile Traffic Hacking: Intercept Android App Data with Burp Suite](https://medium.com/@WillFromSwiss/master-mobile-traffic-hacking-intercept-android-app-data-with-burp-suite-9278163310ad?source=rss------bug_bounty-5) 
+ - 💯September 7, 2024 - [Find Your First 5 Bug Bounties in Easy Ways](https://infosecwriteups.com/find-your-first-5-bug-bounties-in-easy-ways-3aaca5c57a2d?source=rss------bug_bounty-5) 
 
- - 💯September 6, 2024 - [[$12000] 3 Critical 0-click TikTok Account Takeover Vulnerabilities, 2FA bypass &amp; more security…](https://vojtechcekal.medium.com/12000-3-critical-0-click-tiktok-account-takeover-vulnerabilities-2fa-bypass-more-security-78554827cfc3?source=rss------bug_bounty-5) 
+ - 💯September 7, 2024 - [My recon methodology for hunting CVE-2021–42063 led to discovering an RXSS vulnerability in the…](https://medium.com/@karthithehacker/my-recon-methodology-for-hunting-cve-2021-42063-led-to-discovering-an-rxss-vulnerability-in-the-80bd4ca0f623?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
