@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯September 8, 2024 - [0-Click Mass Account Takeover via Password Reset Functionality](https://0d-samii.medium.com/0-click-mass-account-takeover-via-password-reset-functionality-68cdf27e028d?source=rss------bug_bounty-5) 
+ - 💯September 9, 2024 - [Mastering Reconnaissance with Nmap: Unveiling Your Target’s Secrets](https://infosecwriteups.com/mastering-reconnaissance-with-nmap-unveiling-your-targets-secrets-ec940d05a140?source=rss------bug_bounty-5) 
 
- - 💯September 8, 2024 - [Lap 1: JWT authentication bypass via unverified signature](https://abdelrahmansalaheldeen.medium.com/lap-1-jwt-authentication-bypass-via-unverified-signature-8e450a7b2f59?source=rss------bug_bounty-5) 
+ - 💯September 9, 2024 - [Self-XSS to ATO via Quick Login feature](https://thecatfather.medium.com/self-xss-to-ato-via-quick-login-feature-532df12d1c08?source=rss------bug_bounty-5) 
 
- - 💯September 8, 2024 - [The Only Oscp Tip You Need](https://medium.com/@issam.qsous/the-only-oscp-tip-you-need-cfac65948f68?source=rss------bug_bounty-5) 
+ - 💯September 9, 2024 - [Exploiting Firestore Database Rules: A Pathway to Data Breaches](https://medium.com/@S3THU/exploiting-firestore-database-rules-a-pathway-to-data-breaches-aa945476cc16?source=rss------bug_bounty-5) 
 
- - 💯September 8, 2024 - [JSON Web Token attacks &lpar;JWT&rpar;](https://abdelrahmansalaheldeen.medium.com/json-web-token-attacks-jwt-c082d76f3e4c?source=rss------bug_bounty-5) 
+ - 💯September 9, 2024 - [TryHackMe | Simple CTF | Walkthrough | By HexaHunter](https://hexahunter.medium.com/tryhackme-simple-ctf-walkthrough-by-hexahunter-b9457e4d7d16?source=rss------bug_bounty-5) 
 
- - 💯September 7, 2024 - [cyberExploring Client-Side Desync: Understanding the Risk and Mitigating the Threat](https://cyberw1ng.medium.com/cyberexploring-client-side-desync-understanding-the-risk-and-mitigating-the-threat-b375dec78f21?source=rss------bug_bounty-5) 
+ - 💯September 8, 2024 - [Post-Exploitation Techniques: What Happens After a Hack?](https://cyberw1ng.medium.com/post-exploitation-techniques-what-happens-after-a-hack-961ddc068fb6?source=rss------bug_bounty-5) 
 
- - 💯September 7, 2024 - [Google Dorks Secrets: Discover Hidden Endpoints &amp; Parameters with Google Dorks](https://enigma96.medium.com/google-dorks-secrets-discover-hidden-endpoints-parameters-with-google-dorks-7c3bb3257ef9?source=rss------bug_bounty-5) 
+ - 💯September 8, 2024 - [OWASP top 10 A08:Software and Data Integrity Failures](https://medium.com/@shivamsharma.ss484/owasp-top-10-a08-software-and-data-integrity-failures-bd41b5f9db2c?source=rss------bug_bounty-5) 
 
- - 💯September 7, 2024 - [Hunting in the Cyber World: Effective Recon Strategies for a Successful Bug Bounty](https://medium.com/@rootspaghetti/hunting-in-the-cyber-world-effective-recon-strategies-for-a-successful-bug-bounty-8ec5f27bd9ae?source=rss------bug_bounty-5) 
+ - 💯September 8, 2024 - [The Weak Link in Two-Factor Authentication: Exploiting Reusable OTPs](https://medium.com/@tusharpuri6/the-weak-link-in-two-factor-authentication-exploiting-reusable-otps-ed30bd8bf4da?source=rss------bug_bounty-5) 
 
- - 💯September 7, 2024 - [850$ IDOR:Unauthorized Session Revokation of any user](https://infosecwriteups.com/850-idor-unauthorized-session-revokation-of-any-user-93f9cb92fdfe?source=rss------bug_bounty-5) 
+ - 💯September 8, 2024 - [How i found xss in goverment website with one tools.](https://medium.com/@sulthanyluthfi/how-i-found-xss-in-goverment-website-with-one-tools-5dd5d431ed03?source=rss------bug_bounty-5) 
 
- - 💯September 7, 2024 - [Find Your First 5 Bug Bounties in Easy Ways](https://infosecwriteups.com/find-your-first-5-bug-bounties-in-easy-ways-3aaca5c57a2d?source=rss------bug_bounty-5) 
+ - 💯September 8, 2024 - [Day 30of 30 Day — 30 Vulnerabilities | Cross-Site Request Forgery &lpar;CSRF&rpar;](https://medium.com/@kumawatabhijeet2002/day-30of-30-day-30-vulnerabilities-cross-site-request-forgery-csrf-062ff53c5efd?source=rss------bug_bounty-5) 
 
- - 💯September 7, 2024 - [My recon methodology for hunting CVE-2021–42063 led to discovering an RXSS vulnerability in the…](https://medium.com/@karthithehacker/my-recon-methodology-for-hunting-cve-2021-42063-led-to-discovering-an-rxss-vulnerability-in-the-80bd4ca0f623?source=rss------bug_bounty-5) 
+ - 💯September 8, 2024 - [My recon methodology for hunting CVE-2021–42063 led to discovering an RXSS vulnerability in the…](https://medium.com/@karthithehacker/my-recon-methodology-for-hunting-cve-2021-42063-led-to-discovering-an-rxss-vulnerability-in-the-27a7aa435fd3?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
