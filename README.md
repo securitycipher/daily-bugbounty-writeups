@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯September 11, 2024 - [Introduction to Bug Bounty Hunting](https://medium.com/@kanishkar22052004/introduction-to-bug-bounty-hunting-183f133c7d0d?source=rss------bug_bounty-5) 
+ - 💯September 12, 2024 - [Mastering Dirsearch: Finding Hidden Web Directories](https://medium.com/@bootstrapsecurity/mastering-dirsearch-finding-hidden-web-directories-f57327c06fed?source=rss------bug_bounty-5) 
 
- - 💯September 11, 2024 - [Understanding the OWASP Top 10 in 2024](https://medium.com/@bootstrapsecurity/understanding-the-owasp-top-10-in-2024-245b600737f9?source=rss------bug_bounty-5) 
+ - 💯September 12, 2024 - [Computer Security: How Bureaucracies Ignore Unexploded Ordinance](https://kf106.medium.com/computer-security-how-bureaucracies-ignore-unexploded-ordinance-319e8e931ad5?source=rss------bug_bounty-5) 
 
- - 💯September 10, 2024 - [How I got RCE on an Indian university without admin credentials Tale of directory listing, SQL…](https://medium.com/@alimuhammadsecured/how-i-got-rce-on-an-indian-university-without-admin-credentials-tale-of-directory-listing-sql-1f77e2933011?source=rss------bug_bounty-5) 
+ - 💯September 12, 2024 - [The Secrets to Writing Threat Intelligence Reports That Actually Stop Cyber Attacks!](https://medium.com/@paritoshblogs/the-secrets-to-writing-threat-intelligence-reports-that-actually-stop-cyber-attacks-330fd6fc37a5?source=rss------bug_bounty-5) 
 
- - 💯September 10, 2024 - [Top Reconnaissance Tools for Ethical Security Testing](https://medium.com/@ajaynaikhack/top-reconnaissance-tools-for-ethical-security-testing-2b4088106b81?source=rss------bug_bounty-5) 
+ - 💯September 11, 2024 - [Interesting Story of an Account Takeover Vulnerability](https://medium.com/@deepanshudev369/interesting-story-of-an-account-takeover-vulnerability-140a45a058a3?source=rss------bug_bounty-5) 
 
- - 💯September 10, 2024 - [Introducing FavFreak: Unlock the Power of Favicon Hashing for Bug Bounty Hunting](https://medium.com/@unreal_umber_hyena_37/introducing-favfreak-unlock-the-power-of-favicon-hashing-for-bug-bounty-hunting-0361dbb629c3?source=rss------bug_bounty-5) 
+ - 💯September 11, 2024 - [P4 bug’s and their POC steps | Part 2](https://medium.com/@socalledhacker/p4-bugs-and-their-poc-steps-part-2-17b6583c57d9?source=rss------bug_bounty-5) 
 
- - 💯September 10, 2024 - [OWASP top 10 A09:Security Logging and Monitoring failures](https://medium.com/@shivamsharma.ss484/owasp-top-10-a09-security-logging-and-monitoring-failures-e2f4bdc50fbe?source=rss------bug_bounty-5) 
+ - 💯September 11, 2024 - [Pemburuan Hacker Penpie: Menyediakan Hingga 10% dari Dana yang Dikembalikan sebagai Hadiah](https://blog.penpiexyz.io/pemburuan-hacker-penpie-menyediakan-hingga-10-dari-dana-yang-dikembalikan-sebagai-hadiah-6e81cc0f610b?source=rss------bug_bounty-5) 
 
- - 💯September 10, 2024 - [‘find’ command for Recon](https://medium.com/@DatBoyBlu3/find-command-for-recon-4f3cf296c5d5?source=rss------bug_bounty-5) 
+ - 💯September 11, 2024 - [Primary Hacking School #1 Installing Kali](https://medium.com/@nnface/primary-hacking-school-1-installing-kali-a3e249c41730?source=rss------bug_bounty-5) 
 
- - 💯September 10, 2024 - [The “Who Needs Secure Attachments Anyway?” Saga](https://medium.com/@shobitsharma/the-who-needs-secure-attachments-anyway-saga-6026dc61a371?source=rss------bug_bounty-5) 
+ - 💯September 11, 2024 - [How I Stole a Player Spot with Simple XSS](https://medium.com/@ali_guell/how-i-stole-a-player-spot-with-simple-xss-6a8fa2776a84?source=rss------bug_bounty-5) 
 
- - 💯September 10, 2024 - [How Hackers Can Steal Your Data in 15 Seconds](https://medium.com/@kerstan/how-hackers-can-steal-your-data-in-15-seconds-798bbed9cbac?source=rss------bug_bounty-5) 
+ - 💯September 11, 2024 - [MY First Bug Hunt: A Beginner’s Guide to Cybersecurity with Google Dorks](https://medium.com/@KpCyberInfo/my-first-bug-hunt-a-beginners-guide-to-cybersecurity-with-google-dorks-b62a28214d38?source=rss------bug_bounty-5) 
 
- - 💯September 10, 2024 - [Basic Challenge Level 11](https://aftab700.medium.com/basic-challenge-level-11-eaa689246c31?source=rss------bug_bounty-5) 
+ - 💯September 11, 2024 - [How Finding an SQL Injection Vulnerability Earned a $1000 Bug Bounty](https://systemweakness.com/how-finding-an-sql-injection-vulnerability-earned-a-1000-bug-bounty-af2ee0b62f6c?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
