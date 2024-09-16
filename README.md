@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯September 15, 2024 - [Subdomain Takeovers for Beginners](https://medium.com/@hichamalmakroudi/subdomain-takeovers-for-beginners-a51ed74db543?source=rss------bug_bounty-5) 
+ - 💯September 16, 2024 - [Menguasai Reconnaissance: Metode lengkap untuk mengumpulkan informasi](https://hack4funacademy.medium.com/menguasai-reconnaissance-metode-lengkap-untuk-mengumpulkan-informasi-acdeba7dc054?source=rss------bug_bounty-5) 
 
- - 💯September 15, 2024 - [XSS — Cross Site Scripting](https://medium.com/@codingboltacademy/xss-cross-site-scripting-65e1981817df?source=rss------bug_bounty-5) 
+ - 💯September 16, 2024 - [Type of Cyber Security](https://medium.com/@RaunakGupta1922/type-of-cyber-security-c43047a34fe7?source=rss------bug_bounty-5) 
 
- - 💯September 15, 2024 - [IDOR — Broken Access Control](https://medium.com/@codingboltacademy/idor-broken-access-control-efeb6698919f?source=rss------bug_bounty-5) 
+ - 💯September 15, 2024 - [A very easy bug anyone can find](https://medium.com/@malikirtizameg/a-very-easy-bug-anyone-can-find-8d2b11a768c7?source=rss------bug_bounty-5) 
 
- - 💯September 15, 2024 - [#3 HOW TO FIND OPEN REDIRECT EASILY ???](https://medium.com/@josuofficial327/3-how-to-find-open-redirect-easily-fd8a7ea6e12b?source=rss------bug_bounty-5) 
+ - 💯September 15, 2024 - [SQL Injetion](https://medium.com/@adhikarisudip869/sql-injetion-f6f5f4291cbc?source=rss------bug_bounty-5) 
 
- - 💯September 14, 2024 - [Let the Hunt Begin with Nuclei: The Secret Weapon of the Bug Bounty World!](https://medium.com/@rootspaghetti/let-the-hunt-begin-with-nuclei-the-secret-weapon-of-the-bug-bounty-world-9b2491d3a9cb?source=rss------bug_bounty-5) 
+ - 💯September 15, 2024 - [How to Find IDOR Vulnerabilities: A Guide for Bug Bounty Hunters and Developers](https://systemweakness.com/how-to-find-idor-vulnerabilities-a-guide-for-bug-bounty-hunters-and-developers-3d2ba2a766f5?source=rss------bug_bounty-5) 
 
- - 💯September 14, 2024 - [What is Prototype Pollution?](https://systemweakness.com/what-is-prototype-pollution-4e2049f68fca?source=rss------bug_bounty-5) 
+ - 💯September 15, 2024 - [BugBounty platforms List](https://medium.com/@loyalonlytoday/bugbounty-platforms-list-ed3a5af3a8a2?source=rss------bug_bounty-5) 
 
- - 💯September 14, 2024 - [How I Discovered a Major Security Flaw in Keltron’s Server Using Google Dorking](https://medium.com/@contact.adnanks/how-i-discovered-a-major-security-flaw-in-keltrons-server-using-google-dorking-e8a8c1dae09b?source=rss------bug_bounty-5) 
+ - 💯September 15, 2024 - [Automating the CORS Vulnerability Scan](https://angixblack.medium.com/automating-the-cors-vulnerability-scan-66d57752cc36?source=rss------bug_bounty-5) 
 
- - 💯September 14, 2024 - [How I Gained Access to a Corporate CCTV Surveillance System Using Shodan](https://medium.com/@contact.adnanks/how-i-gained-access-to-a-corporate-cctv-surveillance-system-using-shodan-daac1fa3b37a?source=rss------bug_bounty-5) 
+ - 💯September 15, 2024 - [Live Bug Bounty &amp; Penetration Testing on Real Websites: Step-by-Step Guide &lpar;Part 1&rpar;](https://medium.com/@shaikhminhaz1975/live-bug-bounty-penetration-testing-on-real-websites-step-by-step-guide-part-1-971ccc9b9587?source=rss------bug_bounty-5) 
 
- - 💯September 14, 2024 - [How I Discovered a Critical Vulnerability and Took Over an Organization Using Burp Suite](https://medium.com/@contact.adnanks/how-i-discovered-a-critical-vulnerability-and-took-over-an-organization-using-burp-suite-fb2d52adc944?source=rss------bug_bounty-5) 
+ - 💯September 15, 2024 - [How i got 100$ bounty](https://medium.com/@mukkumukku110/how-i-got-100-bounty-b3dd58e82e00?source=rss------bug_bounty-5) 
 
- - 💯September 14, 2024 - [Critical Data Breach Exposed: A Deep Dive into a Government Agency’s Security Flaw &lpar;Part 2&rpar;](https://medium.com/@contact.adnanks/critical-data-breach-exposed-a-deep-dive-into-a-government-agencys-security-flaw-part-2-ba190920e945?source=rss------bug_bounty-5) 
+ - 💯September 15, 2024 - [Hunting for Corporate Accounts: Exploiting IDOR and Parameter Pollution in Web Applications](https://medium.com/@tusharpuri6/hunting-for-corporate-accounts-exploiting-idor-and-parameter-pollution-in-web-applications-1792294e0c48?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
