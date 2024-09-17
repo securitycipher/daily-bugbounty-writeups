@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯September 16, 2024 - [Menguasai Reconnaissance: Metode lengkap untuk mengumpulkan informasi](https://hack4funacademy.medium.com/menguasai-reconnaissance-metode-lengkap-untuk-mengumpulkan-informasi-acdeba7dc054?source=rss------bug_bounty-5) 
+ - 💯September 17, 2024 - [From GitHub Recon to Hotstar Admin Access: A Deep Dive into Security Flaws](https://infosecwriteups.com/from-github-recon-to-hotstar-admin-access-a-deep-dive-into-security-flaws-2e4ae0ec937e?source=rss------bug_bounty-5) 
 
- - 💯September 16, 2024 - [Type of Cyber Security](https://medium.com/@RaunakGupta1922/type-of-cyber-security-c43047a34fe7?source=rss------bug_bounty-5) 
+ - 💯September 17, 2024 - [First-Time Penetration Testing: How to Uncovered Critical Flaws at a Company &lpar;Interactive Guide&rpar;](https://medium.com/@paritoshblogs/first-time-penetration-testing-how-to-uncovered-critical-flaws-at-a-company-interactive-guide-4275f79c02ce?source=rss------bug_bounty-5) 
 
- - 💯September 15, 2024 - [A very easy bug anyone can find](https://medium.com/@malikirtizameg/a-very-easy-bug-anyone-can-find-8d2b11a768c7?source=rss------bug_bounty-5) 
+ - 💯September 17, 2024 - [Using Application Functionality to Exploit Insecure Deserialization](https://medium.com/@rcxsecurity/using-application-functionality-to-exploit-insecure-deserialization-b4e7c6abdae1?source=rss------bug_bounty-5) 
 
- - 💯September 15, 2024 - [SQL Injetion](https://medium.com/@adhikarisudip869/sql-injetion-f6f5f4291cbc?source=rss------bug_bounty-5) 
+ - 💯September 16, 2024 - [How To Get Easy critical 0 click account takeover on public bug bounty program at hackerone !](https://medium.com/@kaforybory/how-to-get-easy-critical-0-click-account-takeover-on-public-bug-bounty-program-at-hackerone-8b1859cc7738?source=rss------bug_bounty-5) 
 
- - 💯September 15, 2024 - [How to Find IDOR Vulnerabilities: A Guide for Bug Bounty Hunters and Developers](https://systemweakness.com/how-to-find-idor-vulnerabilities-a-guide-for-bug-bounty-hunters-and-developers-3d2ba2a766f5?source=rss------bug_bounty-5) 
+ - 💯September 16, 2024 - [Structure your recon files before they structure you](https://medium.com/@paractmol/structure-your-recon-files-before-they-structure-you-ba3509a182f0?source=rss------bug_bounty-5) 
 
- - 💯September 15, 2024 - [BugBounty platforms List](https://medium.com/@loyalonlytoday/bugbounty-platforms-list-ed3a5af3a8a2?source=rss------bug_bounty-5) 
+ - 💯September 16, 2024 - [How to Kick Off Your Journey into Bug Hunting: A Beginner&#39;s Guide](https://medium.com/@justluke5691/how-to-kick-off-your-journey-into-bug-hunting-a-beginners-guide-eb5a551f4edb?source=rss------bug_bounty-5) 
 
- - 💯September 15, 2024 - [Automating the CORS Vulnerability Scan](https://angixblack.medium.com/automating-the-cors-vulnerability-scan-66d57752cc36?source=rss------bug_bounty-5) 
+ - 💯September 16, 2024 - [Subdomain takeover amazon S3](https://medium.com/@hichamalmakroudi/subdomain-takeover-amazon-s3-21de0af8a1d3?source=rss------bug_bounty-5) 
 
- - 💯September 15, 2024 - [Live Bug Bounty &amp; Penetration Testing on Real Websites: Step-by-Step Guide &lpar;Part 1&rpar;](https://medium.com/@shaikhminhaz1975/live-bug-bounty-penetration-testing-on-real-websites-step-by-step-guide-part-1-971ccc9b9587?source=rss------bug_bounty-5) 
+ - 💯September 16, 2024 - [CloudSek CTF 2024 Writeup](https://naumankh4n.medium.com/cloudsek-ctf-aug-2024-writeup-6b4409675f88?source=rss------bug_bounty-5) 
 
- - 💯September 15, 2024 - [How i got 100$ bounty](https://medium.com/@mukkumukku110/how-i-got-100-bounty-b3dd58e82e00?source=rss------bug_bounty-5) 
+ - 💯September 16, 2024 - [Using Full potential of Virustotal for Bugbounty](https://medium.com/@loyalonlytoday/using-full-potential-of-virustotal-for-bugbounty-8d80221ab2e4?source=rss------bug_bounty-5) 
 
- - 💯September 15, 2024 - [Hunting for Corporate Accounts: Exploiting IDOR and Parameter Pollution in Web Applications](https://medium.com/@tusharpuri6/hunting-for-corporate-accounts-exploiting-idor-and-parameter-pollution-in-web-applications-1792294e0c48?source=rss------bug_bounty-5) 
+ - 💯September 16, 2024 - [very easy and helpfull for new hunters, how i accidently found a server side template injection](https://medium.com/@malikirtizameg/how-i-accidently-found-a-server-side-template-injection-f5e7aec0b64d?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
