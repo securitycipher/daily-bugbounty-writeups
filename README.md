@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯September 18, 2024 - [Leveling Up the Wrong Way: Exploiting API Vulnerabilities in Game Progression](https://aminudin.medium.com/leveling-up-the-wrong-way-exploiting-api-vulnerabilities-in-game-progression-19f883f48da8?source=rss------bug_bounty-5) 
+ - 💯September 19, 2024 - [Safety above all else! MoreLogin joins Bugrap Bug Bounty Platform](https://medium.com/@moreloginbrowser/safety-above-all-else-morelogin-joins-bugrap-bug-bounty-platform-cdc178fd6e7e?source=rss------bug_bounty-5) 
 
- - 💯September 18, 2024 - [Scanning ip’s got from virustotal](https://medium.com/@loyalonlytoday/scanning-ips-got-from-virustotal-7baa7398ba83?source=rss------bug_bounty-5) 
+ - 💯September 19, 2024 - [Best Bug Bounty and Pentesting Methodology for Beginners: A Step-by-Step Guide](https://bevijaygupta.medium.com/best-bug-bounty-and-pentesting-methodology-for-beginners-a-step-by-step-guide-a68170d3acc8?source=rss------bug_bounty-5) 
 
- - 💯September 18, 2024 - [10 Essential Browser Extensions for Bug Bounty Hunters](https://medium.com/@firdansp/10-essential-browser-extensions-for-bug-bounty-hunters-f17f8b001bcc?source=rss------bug_bounty-5) 
+ - 💯September 19, 2024 - [How to get shodan membership upgrade for free](https://medium.com/@hichamalmakroudi/how-to-get-shodan-membership-upgrade-for-free-4f21122d2d73?source=rss------bug_bounty-5) 
 
- - 💯September 18, 2024 - [How to Perform a Cybersecurity Risk Assessment: The Simple Guide](https://medium.com/@paritoshblogs/how-to-perform-a-cybersecurity-risk-assessment-the-simple-guide-b37d1b986682?source=rss------bug_bounty-5) 
+ - 💯September 19, 2024 - [Nikto A Powerful Web Server Scanner for Vulnerability Assessment](https://medium.com/@yashpawar1199/nikto-a-powerful-web-server-scanner-for-vulnerability-assessment-1bd257204f41?source=rss------bug_bounty-5) 
 
- - 💯September 18, 2024 - [[2,500$ Bug Bounty Write-Up] Remote Code Execution &lpar;RCE&rpar; via unclaimed Node package](https://medium.com/@p0lyxena/2-500-bug-bounty-write-up-remote-code-execution-rce-via-unclaimed-node-package-6b9108d10643?source=rss------bug_bounty-5) 
+ - 💯September 18, 2024 - [How I Utilized AI to Discover an Amazon S3 Bucket Takeover Vulnerability in Red Bull’s Bug Bounty…](https://medium.com/@mohamedsaqibc/how-i-utilized-ai-to-discover-an-amazon-s3-bucket-takeover-vulnerability-in-red-bulls-bug-bounty-503d3c4d995f?source=rss------bug_bounty-5) 
 
- - 💯September 18, 2024 - [Write up : Business Logic Flaw in Payment Discount Calculation Allows Excessive Discount…](https://medium.com/@jakboubmostefa/write-up-business-logic-flaw-in-payment-discount-calculation-allows-excessive-discount-19d567f5da18?source=rss------bug_bounty-5) 
+ - 💯September 18, 2024 - [Hunting APIs for Bounties: How to Hack and Win Big in Bug Bounties!](https://medium.com/@rootspaghetti/hunting-apis-for-bounties-how-to-hack-and-win-big-in-bug-bounties-942d0f4e0885?source=rss------bug_bounty-5) 
 
- - 💯September 17, 2024 - [A bypass on GitLab’s Login Email Verification via OAuth ROPC flow.](https://cybxis.medium.com/a-bypass-on-gitlabs-login-email-verification-via-oauth-ropc-flow-e194242cad96?source=rss------bug_bounty-5) 
+ - 💯September 18, 2024 - [P4 bug’s and their POC steps | Part 3](https://medium.com/@socalledhacker/p4-bugs-and-their-poc-steps-part-3-298087630cac?source=rss------bug_bounty-5) 
 
- - 💯September 17, 2024 - [Direct Volume Access Attack](https://medium.com/@reemmoslem34/direct-volume-access-attack-dfbb2d73e406?source=rss------bug_bounty-5) 
+ - 💯September 18, 2024 - [Real Bug Bounty &amp; Penetration Testing on Live Websites: Step-by-Step Guide &lpar;Part 2&rpar;](https://medium.com/@shaikhminhaz1975/real-bug-bounty-penetration-testing-on-live-websites-step-by-step-guide-part-2-19ca30b17b93?source=rss------bug_bounty-5) 
 
- - 💯September 17, 2024 - [Dll Side Loading Attack](https://medium.com/@reemmoslem34/dll-side-loading-attack-80ea716fd588?source=rss------bug_bounty-5) 
+ - 💯September 18, 2024 - [How Black Hat Hackers Hack into your Telegram Groups !!!](https://medium.com/@josuofficial327/how-black-hat-hackers-hack-into-your-telegram-groups-6970a93a20e1?source=rss------bug_bounty-5) 
 
- - 💯September 17, 2024 - [#5. Bug Bounty Series: $$ by AWS S3 Bucket misconfigurations](https://cyb3rmind.medium.com/5-bug-bounty-series-by-aws-s3-bucket-misconfigurations-fb645057d03e?source=rss------bug_bounty-5) 
+ - 💯September 18, 2024 - [Missing Rate Limit Vulnerability: How to Test and Identify It](https://medium.com/@octayus/missing-rate-limit-vulnerability-how-to-test-and-identify-it-2f3937e903e6?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
