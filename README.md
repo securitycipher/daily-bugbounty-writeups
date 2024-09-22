@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯September 21, 2024 - [Understanding Insecure Deserialization](https://medium.com/@kannnannmk/understanding-insecure-deserialization-faea7bc5ff5e?source=rss------bug_bounty-5) 
+ - 💯September 22, 2024 - [Port Scanning Tactics to Boost Your Bug Bounty Success](https://bevijaygupta.medium.com/port-scanning-tactics-to-boost-your-bug-bounty-success-5d46191fa92e?source=rss------bug_bounty-5) 
 
- - 💯September 21, 2024 - [Mastering Port Scanning for Bug Bounty Hunters](https://bevijaygupta.medium.com/mastering-port-scanning-for-bug-bounty-hunters-226c8d007023?source=rss------bug_bounty-5) 
+ - 💯September 22, 2024 - [Practical Incident Response: A Step-by-Step Guide](https://medium.com/@paritoshblogs/practical-incident-response-a-step-by-step-guide-290dadca6e2d?source=rss------bug_bounty-5) 
 
- - 💯September 21, 2024 - [#1 Bug Hunting: Subdomain Enumeration — Explained](https://infosecwriteups.com/1-bug-hunting-subdomain-enumeration-explained-389e6fcb3f62?source=rss------bug_bounty-5) 
+ - 💯September 22, 2024 - [TECNO Security Response Center 3rd Anniversary | Safeguarding Product Security, Grateful for Our…](https://medium.com/@security.tecno/tecno-security-response-center-3rd-anniversary-safeguarding-product-security-grateful-for-our-550016adce10?source=rss------bug_bounty-5) 
 
- - 💯September 20, 2024 - [Exploiting GraphQL API Suggestions](https://nir-choubey-2011.medium.com/exploiting-graphql-api-suggestions-7695e5b8c3ef?source=rss------bug_bounty-5) 
+ - 💯September 21, 2024 - [Persistent XSS via Cookie Injection: A Deep Dive into the Discovery](https://medium.com/@ayushkr99732/xss-via-cookie-injection-a-deep-dive-into-the-discovery-9ef70e22eceb?source=rss------bug_bounty-5) 
 
- - 💯September 20, 2024 - [Bug Bounty Dark Reality: The Hidden Truth of Successful Bug Hunting](https://medium.com/@yashpawar1199/bug-bounty-dark-reality-the-hidden-truth-of-successful-bug-hunting-0b9ed547802d?source=rss------bug_bounty-5) 
+ - 💯September 21, 2024 - [Accessing full history of Firepad users.](https://medium.com/@adityaahuja.work/accessing-full-history-of-firepad-users-ddc889e73936?source=rss------bug_bounty-5) 
 
- - 💯September 20, 2024 - [Unlocking Restricted Features: A Vulnerability Analysis of Organization’s Role Management](https://0xmatrix.medium.com/unlocking-restricted-features-a-vulnerability-analysis-of-organizations-role-management-aa6a4f7bd0d3?source=rss------bug_bounty-5) 
+ - 💯September 21, 2024 - [test:test type of bug](https://medium.com/@bxrowski0x/test-test-type-of-bug-cfb352d9bf85?source=rss------bug_bounty-5) 
 
- - 💯September 20, 2024 - [Bypassing Date Restrictions in an Educational Platform: A Logic Flaw Exploit](https://medium.com/@ahmed_ashraf/bypassing-date-restrictions-in-an-educational-platform-a-logic-flaw-exploit-fdd3d0e3a1cb?source=rss------bug_bounty-5) 
+ - 💯September 21, 2024 - [Reflected XSS into Attribute with HTML-Encoded](https://medium.com/@codingbolt.in/reflected-xss-into-attribute-with-html-encoded-ffe97e2c1439?source=rss------bug_bounty-5) 
 
- - 💯September 20, 2024 - [Finding a easy p4](https://medium.com/@loyalonlytoday/finding-a-easy-p4-e32c47c8b54a?source=rss------bug_bounty-5) 
+ - 💯September 21, 2024 - [Taking ffuf Fuzzing Further](https://medium.com/@learntheshell/taking-ffuf-fuzzing-further-016be44d0b07?source=rss------bug_bounty-5) 
 
- - 💯September 20, 2024 - [The Ultimate Guide to Forgot Password Test Cases ‍](https://medium.com/@chinmaya_ramana/the-ultimate-guide-to-forgot-password-test-cases-059e483fdc40?source=rss------bug_bounty-5) 
+ - 💯September 21, 2024 - [Finding a easy Bug](https://medium.com/@loyalonlytoday/finding-a-easy-bug-caed2e199b1d?source=rss------bug_bounty-5) 
 
- - 💯September 20, 2024 - [Clickjacking Vulnerability to trigger Reflacted XSS](https://medium.com/@g52238317/clickjacking-vulnerability-to-trigger-reflacted-xss-9029cc5fd676?source=rss------bug_bounty-5) 
+ - 💯September 21, 2024 - [DOM XSS in jQuery: The Danger of `href` Attribute with `location.search` Source](https://medium.com/@codingbolt.in/dom-xss-in-jquery-the-danger-of-href-attribute-with-location-search-source-b2d883cbec59?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
