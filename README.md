@@ -2,21 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯September 25, 2024 - [IDORS — leaking 1.5 crore user details](https://medium.com/@nireshpandian19/idors-leaking-1-5-crore-user-details-5bbc3b9368e2?source=rss------bug_bounty-5) 
+ - 💯September 26, 2024 - [Deep Dive in Reconnaissance &lpar;Chapter 1 [part-1] — Root Domain Enumeration&rpar;](https://medium.com/@bitthr3at/deep-dive-in-reconnaissance-chapter-1-part-1-root-domain-enumeration-7ddfda1283fd?source=rss------bug_bounty-5) 
 
- - 💯September 25, 2024 - [Exploring the Role of Port Scanning in Bug Bounty Hunting](https://bevijaygupta.medium.com/exploring-the-role-of-port-scanning-in-bug-bounty-hunting-169a1d723bb0?source=rss------bug_bounty-5) 
+ - 💯September 26, 2024 - [Exploiting SMTP on Metasploitable 2: Unveiling the Power of Port 25](https://medium.com/@thefellowhacker/exploiting-smtp-on-metasploitable-2-unveiling-the-power-of-port-25-4fab583855f8?source=rss------bug_bounty-5) 
 
- - 💯September 24, 2024 - [Mendapatkan Akses SMTP Melalui Celah SQL Injection](https://rdnzx.medium.com/mendapatkan-akses-smtp-melalui-celah-sql-injection-f6d593fcad5e?source=rss------bug_bounty-5) 
+ - 💯September 26, 2024 - [How to install Subdominator &amp; how to find subdomains using Subdominator !!](https://medium.com/@sherlock297/how-to-install-subdominator-how-to-find-subdomains-using-subdominator-fe9b48be2aea?source=rss------bug_bounty-5) 
 
- - 💯September 24, 2024 - [Going Crazy with Farming VDPs: Extplorer Admin Panel Bypass &amp; Remote Code Execution &lpar;RCE&rpar;](https://infosecwriteups.com/going-crazy-with-farming-vdps-extplorer-admin-panel-bypass-remote-code-execution-rce-ed6ae27bbce9?source=rss------bug_bounty-5) 
+ - 💯September 26, 2024 - [10 Essential Blog Sites For Bug Bounty Hunters](https://medium.com/@RaunakGupta1922/10-essential-blog-sites-for-bug-bounty-hunters-8309cbbe3756?source=rss------bug_bounty-5) 
 
- - 💯September 24, 2024 - [Unlock the Hidden Doors of the Android World: Legendary Recon Tools for Bug Bounty!](https://medium.com/@rootspaghetti/unlock-the-hidden-doors-of-the-android-world-legendary-recon-tools-for-bug-bounty-9065e3aa6268?source=rss------bug_bounty-5) 
+ - 💯September 25, 2024 - [How to Create a Fun, Engaging, and Long-Lasting Bug Bounty Program for Your Community](https://medium.com/@GrowthKingdom/how-to-create-a-fun-engaging-and-long-lasting-bug-bounty-program-for-your-community-f67da7fb230a?source=rss------bug_bounty-5) 
 
- - 💯September 24, 2024 - [An IDOR leads to leak users details](https://medium.com/@mohameddiv77/an-idor-leads-to-leak-users-details-b54a2280e0f9?source=rss------bug_bounty-5) 
+ - 💯September 25, 2024 - [Understanding SQL Injection: A Deep Dive into One of the Most Common Web Vulnerabilities](https://medium.com/@mrutunjayasenapati0/understanding-sql-injection-a-deep-dive-into-one-of-the-most-common-web-vulnerabilities-2c5d031180c6?source=rss------bug_bounty-5) 
 
- - 💯September 24, 2024 - [diffrent types of burpsuite extenstions for bughunting](https://medium.com/@loyalonlytoday/diffrent-types-of-burpsuite-extenstions-for-bughunting-d411b3d002e1?source=rss------bug_bounty-5) 
+ - 💯September 25, 2024 - [Exploiting cross-site scripting to steal cookies](https://medium.com/@codingbolt.in/exploiting-cross-site-scripting-to-steal-cookies-8f57e316e8d3?source=rss------bug_bounty-5) 
 
- - 💯September 24, 2024 - [Reflected XSS with some SVG markup allowed](https://medium.com/@codingbolt.in/reflected-xss-with-some-svg-markup-allowed-e7aafbf02378?source=rss------bug_bounty-5) 
+ - 💯September 25, 2024 - [Understanding Common Web Vulnerabilities: A Guide for Beginners](https://medium.com/@mrutunjayasenapati0/understanding-common-web-vulnerabilities-a-guide-for-beginners-398e8987cc4f?source=rss------bug_bounty-5) 
 
- - 💯September 24, 2024 - [Reflected XSS into HTML context with most tags and attributes blocked](https://medium.com/@codingbolt.in/reflected-xss-into-html-context-with-most-tags-and-attributes-blocked-0bb80ac37064?source=rss------bug_bounty-5) 
+ - 💯September 25, 2024 - [Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and…](https://medium.com/@codingbolt.in/reflected-xss-into-a-template-literal-with-angle-brackets-single-double-quotes-backslash-and-5acbbd9f2631?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
