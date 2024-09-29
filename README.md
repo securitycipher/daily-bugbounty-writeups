@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯September 28, 2024 - [Exploring the Role of Port Scanning in Bug Bounty Hunting](https://bevijaygupta.medium.com/exploring-the-role-of-port-scanning-in-bug-bounty-hunting-a365e9006b6e?source=rss------bug_bounty-5) 
+ - 💯September 29, 2024 - [OWASP juice-shop login as an admin using SQLi and OSINT](https://medium.com/@abdo-eg/owasp-juice-shop-login-as-an-admin-using-sqli-and-osint-90c4abc4322b?source=rss------bug_bounty-5) 
 
- - 💯September 28, 2024 - [Essential Tools for Bug Bounty Hunters](https://medium.com/@jatniwalafizza786/essential-tools-for-bug-bounty-hunters-3c2788cf64ae?source=rss------bug_bounty-5) 
+ - 💯September 29, 2024 - [H7CTF — WEB CHALLENGES](https://medium.com/@josangeorge27/h7ctf-web-challenges-db1883775dfd?source=rss------bug_bounty-5) 
 
- - 💯September 28, 2024 - [500$ Email Verification Token Leaks in Request](https://medium.com/@0xchoudhary/500-email-verification-token-leaks-in-request-4f0b5ff4b121?source=rss------bug_bounty-5) 
+ - 💯September 29, 2024 - [Essential Port Scanning Skills for Bug Bounty Hunters](https://bevijaygupta.medium.com/essential-port-scanning-skills-for-bug-bounty-hunters-f0e09f3612ce?source=rss------bug_bounty-5) 
 
- - 💯September 28, 2024 - [Top 20 Must-Have Hacking Gadgets for Cybersecurity Professionals](https://medium.com/@ajaynaikhack/top-20-must-have-hacking-gadgets-for-cybersecurity-professionals-bec4dfe896cf?source=rss------bug_bounty-5) 
+ - 💯September 29, 2024 - [Bypassing Filters: SSRF Exploitation via DNS Rebinding with Just 1 in 30 Successful Requests](https://mokhansec.medium.com/bypassing-filters-ssrf-exploitation-via-dns-rebinding-with-just-1-in-30-successful-requests-2fdc3a9cfd7d?source=rss------bug_bounty-5) 
 
- - 💯September 28, 2024 - [How Bug Bounty Programs can enable widespread fraud](https://medium.com/@hacktheplanet/how-bug-bounty-programs-can-enable-widespread-fraud-b027f36a49ef?source=rss------bug_bounty-5) 
+ - 💯September 29, 2024 - [Privacy concern bug](https://osintteam.blog/privacy-concern-bug-72b30aead215?source=rss------bug_bounty-5) 
 
- - 💯September 28, 2024 - [Stories of a sporadic bug bounty hunter](https://jayaye15.medium.com/stories-of-a-sporadic-bug-bounty-hunter-a09cd32cf0a2?source=rss------bug_bounty-5) 
+ - 💯September 29, 2024 - [How to Find Bugs and Vulnerabilities Using ChatGPT: Guaranteed Results](https://medium.com/@shaikhminhaz1975/how-to-find-bugs-and-vulnerabilities-using-chatgpt-guaranteed-results-3b630fae4691?source=rss------bug_bounty-5) 
 
- - 💯September 27, 2024 - [The Art of the Phantom Deposit: a study on vulnerabilities in crypto exchanges](https://medium.com/@silviosaturnowk/the-art-of-the-phantom-deposit-a-study-on-vulnerabilities-in-crypto-exchanges-3a356153bfe2?source=rss------bug_bounty-5) 
+ - 💯September 29, 2024 - [Find Vulnerabilities With This Single Nmap Command](https://medium.com/@josuofficial327/find-vulnerabilities-with-this-single-nmap-command-a4476c16c82c?source=rss------bug_bounty-5) 
 
- - 💯September 27, 2024 - [It’s not a bug. It really is a feature.](https://medium.com/@info_11548/its-not-a-bug-it-really-is-a-feature-b758f1454970?source=rss------bug_bounty-5) 
+ - 💯September 29, 2024 - [OWASP juice shop -How I get account takeover from XSS](https://medium.com/@abdo-eg/owasp-juice-shop-how-i-get-account-takeover-from-xss-ae3cfc978381?source=rss------bug_bounty-5) 
 
- - 💯September 27, 2024 - [Vulnerability: Multiple Vulnerabilities in Linux CUPS &lpar;CVSS 9.9&rpar;](https://infosecwriteups.com/vulnerability-multiple-vulnerabilities-in-linux-cups-cvss-9-9-49dbdcd73cb0?source=rss------bug_bounty-5) 
+ - 💯September 29, 2024 - [Hacking with Linux: Your Ultimate Guide to Cyber Security Mastery](https://medium.com/@RaunakGupta1922/hacking-with-linux-your-ultimate-guide-to-cyber-security-mastery-e8f8bb38510c?source=rss------bug_bounty-5) 
 
- - 💯September 27, 2024 - [my first easy IDOR in a big company](https://medium.com/@malikirtizameg/my-first-easy-idor-in-a-big-company-104ee6c4a7ff?source=rss------bug_bounty-5) 
+ - 💯September 28, 2024 - [How to use built with for bugbounty](https://osintteam.blog/how-to-use-built-with-for-bugbounty-9f58ba501f5a?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
