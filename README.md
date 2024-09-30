@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯September 29, 2024 - [OWASP juice-shop login as an admin using SQLi and OSINT](https://medium.com/@abdo-eg/owasp-juice-shop-login-as-an-admin-using-sqli-and-osint-90c4abc4322b?source=rss------bug_bounty-5) 
+ - 💯September 30, 2024 - [Remote code Execution](https://medium.com/@roshiniyathakula/remote-code-execution-9b2e9f26963d?source=rss------bug_bounty-5) 
 
- - 💯September 29, 2024 - [H7CTF — WEB CHALLENGES](https://medium.com/@josangeorge27/h7ctf-web-challenges-db1883775dfd?source=rss------bug_bounty-5) 
+ - 💯September 30, 2024 - [Uncovering Hidden Subdomains with Favicons: Advanced Enumeration Techniques](https://systemweakness.com/uncovering-hidden-subdomains-with-favicons-advanced-enumeration-techniques-e92cb30cbcc3?source=rss------bug_bounty-5) 
 
- - 💯September 29, 2024 - [Essential Port Scanning Skills for Bug Bounty Hunters](https://bevijaygupta.medium.com/essential-port-scanning-skills-for-bug-bounty-hunters-f0e09f3612ce?source=rss------bug_bounty-5) 
+ - 💯September 30, 2024 - [Discovering Facebook OAuth Misconfigurations: A Journey into Pre-Account Takeover](https://medium.com/@cybershree/discovering-facebook-oauth-misconfigurations-a-journey-into-pre-account-takeover-92a38254cbec?source=rss------bug_bounty-5) 
 
- - 💯September 29, 2024 - [Bypassing Filters: SSRF Exploitation via DNS Rebinding with Just 1 in 30 Successful Requests](https://mokhansec.medium.com/bypassing-filters-ssrf-exploitation-via-dns-rebinding-with-just-1-in-30-successful-requests-2fdc3a9cfd7d?source=rss------bug_bounty-5) 
+ - 💯September 30, 2024 - [Android Application Penetration Testing Part 1 ‍ | Introduction](https://dkcyberz.medium.com/android-application-penetration-testing-part-1-introduction-738351fe8806?source=rss------bug_bounty-5) 
 
- - 💯September 29, 2024 - [Privacy concern bug](https://osintteam.blog/privacy-concern-bug-72b30aead215?source=rss------bug_bounty-5) 
+ - 💯September 29, 2024 - [Mac Spoofing](https://bob218.medium.com/mac-spoofing-ad0b180f3fad?source=rss------bug_bounty-5) 
 
- - 💯September 29, 2024 - [How to Find Bugs and Vulnerabilities Using ChatGPT: Guaranteed Results](https://medium.com/@shaikhminhaz1975/how-to-find-bugs-and-vulnerabilities-using-chatgpt-guaranteed-results-3b630fae4691?source=rss------bug_bounty-5) 
+ - 💯September 29, 2024 - [Life Sucks P-1](https://medium.com/@janpreet9697/life-sucks-p-1-182d702bab02?source=rss------bug_bounty-5) 
 
- - 💯September 29, 2024 - [Find Vulnerabilities With This Single Nmap Command](https://medium.com/@josuofficial327/find-vulnerabilities-with-this-single-nmap-command-a4476c16c82c?source=rss------bug_bounty-5) 
+ - 💯September 29, 2024 - [KidRecon: The Ultimate Automated Subdomain Reconnaissance Tool for Ethical Hackers](https://angixblack.medium.com/kidrecon-the-ultimate-automated-subdomain-reconnaissance-tool-for-ethical-hackers-afb8ed8ea883?source=rss------bug_bounty-5) 
 
- - 💯September 29, 2024 - [OWASP juice shop -How I get account takeover from XSS](https://medium.com/@abdo-eg/owasp-juice-shop-how-i-get-account-takeover-from-xss-ae3cfc978381?source=rss------bug_bounty-5) 
+ - 💯September 29, 2024 - [Server-Side Request Forgery &lpar;SSRF&rpar;: How Attackers Can Exploit Internal Networks](https://systemweakness.com/server-side-request-forgery-ssrf-how-attackers-can-exploit-internal-networks-417ed78ae69b?source=rss------bug_bounty-5) 
 
- - 💯September 29, 2024 - [Hacking with Linux: Your Ultimate Guide to Cyber Security Mastery](https://medium.com/@RaunakGupta1922/hacking-with-linux-your-ultimate-guide-to-cyber-security-mastery-e8f8bb38510c?source=rss------bug_bounty-5) 
+ - 💯September 29, 2024 - [Best Bug Bounty and VA/PT Tools in 2024: Use Cases &amp; Commands](https://medium.com/@anandrishav2228/best-bug-bounty-and-va-pt-tools-in-2024-use-cases-commands-42986d594190?source=rss------bug_bounty-5) 
 
- - 💯September 28, 2024 - [How to use built with for bugbounty](https://osintteam.blog/how-to-use-built-with-for-bugbounty-9f58ba501f5a?source=rss------bug_bounty-5) 
+ - 💯September 29, 2024 - [Why is Bug Triage Important in Software Testing?](https://medium.com/@divyarajsinhdev/why-is-bug-triage-important-in-software-testing-678decfb727f?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
