@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯September 30, 2024 - [Remote code Execution](https://medium.com/@roshiniyathakula/remote-code-execution-9b2e9f26963d?source=rss------bug_bounty-5) 
+ - 💯October 1, 2024 - [Why can’t Bug Bounty Hunter find a bug?](https://m0hitrawat.medium.com/why-cant-bug-bounty-hunter-find-a-bug-b5c9bc72a30d?source=rss------bug_bounty-5) 
 
- - 💯September 30, 2024 - [Uncovering Hidden Subdomains with Favicons: Advanced Enumeration Techniques](https://systemweakness.com/uncovering-hidden-subdomains-with-favicons-advanced-enumeration-techniques-e92cb30cbcc3?source=rss------bug_bounty-5) 
+ - 💯October 1, 2024 - [Android Application Pentesting Part 2 ‍ | Android Platform Architecture](https://dkcyberz.medium.com/android-application-pentesting-part-2-android-platform-architecture-0db5e27f209a?source=rss------bug_bounty-5) 
 
- - 💯September 30, 2024 - [Discovering Facebook OAuth Misconfigurations: A Journey into Pre-Account Takeover](https://medium.com/@cybershree/discovering-facebook-oauth-misconfigurations-a-journey-into-pre-account-takeover-92a38254cbec?source=rss------bug_bounty-5) 
+ - 💯October 1, 2024 - [Mastering XSS &lpar;Cross-Site Scripting&rpar; Attacks: A Comprehensive Guide to become Professional Bug…](https://medium.com/@kumawatabhijeet2002/mastering-xss-cross-site-scripting-attacks-a-comprehensive-guide-to-become-professional-bug-6251058c576e?source=rss------bug_bounty-5) 
 
- - 💯September 30, 2024 - [Android Application Penetration Testing Part 1 ‍ | Introduction](https://dkcyberz.medium.com/android-application-penetration-testing-part-1-introduction-738351fe8806?source=rss------bug_bounty-5) 
+ - 💯October 1, 2024 - [Don’t Miss Out! The Best Platforms to Report Vulnerabilities and Earn Big!](https://medium.com/@paritoshblogs/dont-miss-out-the-best-platforms-to-report-vulnerabilities-and-earn-big-787bbb03607a?source=rss------bug_bounty-5) 
 
- - 💯September 29, 2024 - [Mac Spoofing](https://bob218.medium.com/mac-spoofing-ad0b180f3fad?source=rss------bug_bounty-5) 
+ - 💯October 1, 2024 - [Utilizing AI Model for Hacking: Bypassing CAPTCHAs using AI leads to Account Takeover | Bug Bounty](https://ph-hitachi.medium.com/utilizing-ai-model-for-hacking-bypassing-captchas-using-ai-leads-to-account-takeover-bug-bounty-028804b779a0?source=rss------bug_bounty-5) 
 
- - 💯September 29, 2024 - [Life Sucks P-1](https://medium.com/@janpreet9697/life-sucks-p-1-182d702bab02?source=rss------bug_bounty-5) 
+ - 💯October 1, 2024 - [Chaining Application-Level DoS with CSRF: A Sneaky Exploit to Block User Logins](https://medium.com/@dsmodi484/chaining-application-level-dos-with-csrf-a-sneaky-exploit-to-block-user-logins-4caaac781883?source=rss------bug_bounty-5) 
 
- - 💯September 29, 2024 - [KidRecon: The Ultimate Automated Subdomain Reconnaissance Tool for Ethical Hackers](https://angixblack.medium.com/kidrecon-the-ultimate-automated-subdomain-reconnaissance-tool-for-ethical-hackers-afb8ed8ea883?source=rss------bug_bounty-5) 
+ - 💯October 1, 2024 - [Top 10 Documentation Every Hacker Should Know](https://medium.com/@RaunakGupta1922/top-10-documentation-every-hacker-should-know-f28e73f7c207?source=rss------bug_bounty-5) 
 
- - 💯September 29, 2024 - [Server-Side Request Forgery &lpar;SSRF&rpar;: How Attackers Can Exploit Internal Networks](https://systemweakness.com/server-side-request-forgery-ssrf-how-attackers-can-exploit-internal-networks-417ed78ae69b?source=rss------bug_bounty-5) 
+ - 💯September 30, 2024 - [Prototype Pollution: How a JavaScript Quirk Can Lead to Complete Application Takeover](https://cyberw1ng.medium.com/prototype-pollution-how-a-javascript-quirk-can-lead-to-complete-application-takeover-9adb5e4f6b6b?source=rss------bug_bounty-5) 
 
- - 💯September 29, 2024 - [Best Bug Bounty and VA/PT Tools in 2024: Use Cases &amp; Commands](https://medium.com/@anandrishav2228/best-bug-bounty-and-va-pt-tools-in-2024-use-cases-commands-42986d594190?source=rss------bug_bounty-5) 
+ - 💯September 30, 2024 - [CVE-2024–23897 — Jenkins File Read Vulnerability — POC](https://medium.com/@verylazytech/cve-2024-23897-jenkins-file-read-vulnerability-poc-6a1dfdbfd6f2?source=rss------bug_bounty-5) 
 
- - 💯September 29, 2024 - [Why is Bug Triage Important in Software Testing?](https://medium.com/@divyarajsinhdev/why-is-bug-triage-important-in-software-testing-678decfb727f?source=rss------bug_bounty-5) 
+ - 💯September 30, 2024 - [XSS + OAuth Misconfigs = Token Theft and ATO](https://7odamoo.medium.com/xss-oauth-misconfigs-token-theft-and-ato-d0837c44cd31?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
