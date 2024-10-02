@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 1, 2024 - [Why can’t Bug Bounty Hunter find a bug?](https://m0hitrawat.medium.com/why-cant-bug-bounty-hunter-find-a-bug-b5c9bc72a30d?source=rss------bug_bounty-5) 
+ - 💯October 2, 2024 - [How I Earned $4000+ from a Simple Information Disclosure Bug](https://medium.com/@rajauzairabdullah/how-i-earned-4000-from-a-simple-information-disclosure-bug-d644c47803c1?source=rss------bug_bounty-5) 
 
- - 💯October 1, 2024 - [Android Application Pentesting Part 2 ‍ | Android Platform Architecture](https://dkcyberz.medium.com/android-application-pentesting-part-2-android-platform-architecture-0db5e27f209a?source=rss------bug_bounty-5) 
+ - 💯October 2, 2024 - [Seri Belajar APT &lpar;Advanced Persistent Threat&rpar; Secara Sederhana Pada Target OS Linux — Pengumpulan…](https://medium.com/@mrp.bpp/seri-belajar-apt-advanced-persistent-threat-secara-sederhana-pada-target-os-linux-pengumpulan-967c3c2f46cc?source=rss------bug_bounty-5) 
 
- - 💯October 1, 2024 - [Mastering XSS &lpar;Cross-Site Scripting&rpar; Attacks: A Comprehensive Guide to become Professional Bug…](https://medium.com/@kumawatabhijeet2002/mastering-xss-cross-site-scripting-attacks-a-comprehensive-guide-to-become-professional-bug-6251058c576e?source=rss------bug_bounty-5) 
+ - 💯October 2, 2024 - [How i got my first bounty of $$](https://rivudon.medium.com/how-i-got-my-first-bounty-of-e163f970d1e0?source=rss------bug_bounty-5) 
 
- - 💯October 1, 2024 - [Don’t Miss Out! The Best Platforms to Report Vulnerabilities and Earn Big!](https://medium.com/@paritoshblogs/dont-miss-out-the-best-platforms-to-report-vulnerabilities-and-earn-big-787bbb03607a?source=rss------bug_bounty-5) 
+ - 💯October 2, 2024 - [Mastering Code Quality](https://python.plainenglish.io/mastering-code-quality-2f595404d547?source=rss------bug_bounty-5) 
 
- - 💯October 1, 2024 - [Utilizing AI Model for Hacking: Bypassing CAPTCHAs using AI leads to Account Takeover | Bug Bounty](https://ph-hitachi.medium.com/utilizing-ai-model-for-hacking-bypassing-captchas-using-ai-leads-to-account-takeover-bug-bounty-028804b779a0?source=rss------bug_bounty-5) 
+ - 💯October 2, 2024 - [https://forms.gle/bHE9FbPTuzYzREAz7](https://medium.com/@a1il7j99h/https-forms-gle-bhe9fbptuzyzreaz7-5f9f5d561a4b?source=rss------bug_bounty-5) 
 
- - 💯October 1, 2024 - [Chaining Application-Level DoS with CSRF: A Sneaky Exploit to Block User Logins](https://medium.com/@dsmodi484/chaining-application-level-dos-with-csrf-a-sneaky-exploit-to-block-user-logins-4caaac781883?source=rss------bug_bounty-5) 
+ - 💯October 1, 2024 - [CORS Vulnerability with Trusted Insecure Protocols](https://medium.com/@rcxsecurity/cors-vulnerability-with-trusted-insecure-protocols-09df3304e3d8?source=rss------bug_bounty-5) 
 
- - 💯October 1, 2024 - [Top 10 Documentation Every Hacker Should Know](https://medium.com/@RaunakGupta1922/top-10-documentation-every-hacker-should-know-f28e73f7c207?source=rss------bug_bounty-5) 
+ - 💯October 1, 2024 - [AllSafe Challenges](https://medium.com/@soliman_almansor/all-safe-challenges-599a09cce447?source=rss------bug_bounty-5) 
 
- - 💯September 30, 2024 - [Prototype Pollution: How a JavaScript Quirk Can Lead to Complete Application Takeover](https://cyberw1ng.medium.com/prototype-pollution-how-a-javascript-quirk-can-lead-to-complete-application-takeover-9adb5e4f6b6b?source=rss------bug_bounty-5) 
+ - 💯October 1, 2024 - [Excited to announce our Industrial Security Training Program at @security_lit!](https://securitylit.medium.com/excited-to-announce-our-industrial-security-training-program-at-security-lit-82a21753634e?source=rss------bug_bounty-5) 
 
- - 💯September 30, 2024 - [CVE-2024–23897 — Jenkins File Read Vulnerability — POC](https://medium.com/@verylazytech/cve-2024-23897-jenkins-file-read-vulnerability-poc-6a1dfdbfd6f2?source=rss------bug_bounty-5) 
-
- - 💯September 30, 2024 - [XSS + OAuth Misconfigs = Token Theft and ATO](https://7odamoo.medium.com/xss-oauth-misconfigs-token-theft-and-ato-d0837c44cd31?source=rss------bug_bounty-5) 
+ - 💯October 1, 2024 - [Open Redirect Bug | wedohacks](https://wedohack.medium.com/open-redirect-bug-wedohacks-26012e51d50c?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
