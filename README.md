@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 3, 2024 - [Some XSS Situation](https://medium.com/@haticezkmnl/some-xss-situation-31fa64e113fe?source=rss------bug_bounty-5) 
+ - 💯October 4, 2024 - [Guarding the Gateway: Understanding and Preventing File Upload Attacks](https://medium.com/@wintersoldiers/guarding-the-gateway-understanding-and-preventing-file-upload-attacks-b116abd5eef0?source=rss------bug_bounty-5) 
 
- - 💯October 2, 2024 - [Reverse Shells: A Practical Guide](https://medium.com/@learntheshell/reverse-shells-a-practical-guide-af1815bc3127?source=rss------bug_bounty-5) 
+ - 💯October 4, 2024 - [Directory Brute-Forcing: All Methods You Need to Know — File Extension, Status Filter, and…](https://medium.com/@shaikhminhaz1975/well-now-that-youve-put-your-mind-in-the-right-direction-and-started-testing-a-website-the-first-c900776d6f89?source=rss------bug_bounty-5) 
 
- - 💯October 2, 2024 - [Secrets Manager exposed &lpar;HasiCorp Vault&rpar;](https://medium.com/@manumanram2/secrets-manager-exposed-hasicorp-vault-7075539a9e1e?source=rss------bug_bounty-5) 
+ - 💯October 3, 2024 - [Critical Information Disclosure Vulnerability via CNAME &lpar;AUTOMATED SCAN&rpar;](https://offsec01.medium.com/critical-information-disclosure-vulnerability-via-cname-automated-scan-be0f6597ac5e?source=rss------bug_bounty-5) 
 
- - 💯October 2, 2024 - [Bug Bounty Proqramlarına Giriş: Zəifliklərin Aşkar Edilməsi və Etik Hakerlik &lpar;Bölüm 1&rpar;](https://zeynalxan.medium.com/bug-bounty-proqramlar%C4%B1na-giri%C5%9F-z%C9%99iflikl%C9%99rin-a%C5%9Fkar-edilm%C9%99si-v%C9%99-etik-hakerlik-b%C3%B6l%C3%BCm-1-8caa7eb90dd8?source=rss------bug_bounty-5) 
+ - 💯October 3, 2024 - [Pre-Account Takeover via Facebook OAuth Misconfiguration](https://nyein-chan-aung.medium.com/pre-account-takeover-via-facebook-oauth-misconfiguration-e16b984b7953?source=rss------bug_bounty-5) 
 
- - 💯October 2, 2024 - [A Comprehensive Bug Bounty Checklist for Beginners.](https://medium.com/@anandrishav2228/a-comprehensive-bug-bounty-checklist-for-beginners-f96ba591cf3d?source=rss------bug_bounty-5) 
+ - 💯October 3, 2024 - [XML External Entity &lpar;XXE&rpar; Injection: How Malicious XML Payloads Can Breach Your Application](https://systemweakness.com/xml-external-entity-xxe-injection-how-malicious-xml-payloads-can-breach-your-application-4837f732781e?source=rss------bug_bounty-5) 
 
- - 💯October 2, 2024 - [Cross-Origin Resource Sharing &lpar;CORS&rpar; Misconfiguration: How Attackers Exploit Weak Policies to Steal…](https://cyberw1ng.medium.com/cross-origin-resource-sharing-cors-misconfiguration-how-attackers-exploit-weak-policies-to-steal-5902af92d71f?source=rss------bug_bounty-5) 
+ - 💯October 3, 2024 - [How ChatGPT Made Me a Hacker.](https://medium.com/@wajeehakhan9797/how-chatgpt-made-me-a-hacker-b89b1cce992b?source=rss------bug_bounty-5) 
 
- - 💯October 2, 2024 - [SQL injection UNION attack, finding a column containing text](https://medium.com/@codingbolt.in/sql-injection-union-attack-finding-a-column-containing-text-09d913162e0f?source=rss------bug_bounty-5) 
+ - 💯October 3, 2024 - [Critical Vulnerabilities in DrayTek Vigor Routers: Over 700,000 Devices Exposed to Remote Exploits…](https://infosecwriteups.com/critical-vulnerabilities-in-draytek-vigor-routers-over-700-000-devices-exposed-to-remote-exploits-2f3f731b50d9?source=rss------bug_bounty-5) 
 
- - 💯October 2, 2024 - [SQL injection UNION attack, determining the number of columns returned by the query](https://medium.com/@codingbolt.in/sql-injection-union-attack-determining-the-number-of-columns-returned-by-the-query-f04154bd5b3c?source=rss------bug_bounty-5) 
+ - 💯October 3, 2024 - [How I hacked RD Sharma’s Publisher Website?](https://abhayvis.medium.com/how-i-hacked-rd-sharmas-publisher-website-7a76b3cb12ae?source=rss------bug_bounty-5) 
 
- - 💯October 2, 2024 - [Exfiltration of Data from a Standalone PC](https://roadtooscp.medium.com/exfiltration-of-data-from-a-standalone-pc-00a538f0f773?source=rss------bug_bounty-5) 
-
- - 💯October 2, 2024 - [Découverte d’une vulnérabilité XSS avec contournement de la CSP via unpkg.com](https://medium.com/@Itachi0xf/d%C3%A9couverte-dune-vuln%C3%A9rabilit%C3%A9-xss-avec-contournement-de-la-csp-via-unpkg-com-02437e0eac34?source=rss------bug_bounty-5) 
+ - 💯October 3, 2024 - [Blind SQL injection with out-of-band data exfiltration](https://systemweakness.com/blind-sql-injection-with-out-of-band-data-exfiltration-0a08129bfad5?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
