@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 4, 2024 - [Guarding the Gateway: Understanding and Preventing File Upload Attacks](https://medium.com/@wintersoldiers/guarding-the-gateway-understanding-and-preventing-file-upload-attacks-b116abd5eef0?source=rss------bug_bounty-5) 
+ - 💯October 5, 2024 - [Sensitive Data Leak using Cors Misconfiguration in prominent Domain Registrar](https://infosecwriteups.com/sensitive-data-leak-using-cors-misconfiguration-in-prominent-domain-registrar-b3010e4e6501?source=rss------bug_bounty-5) 
 
- - 💯October 4, 2024 - [Directory Brute-Forcing: All Methods You Need to Know — File Extension, Status Filter, and…](https://medium.com/@shaikhminhaz1975/well-now-that-youve-put-your-mind-in-the-right-direction-and-started-testing-a-website-the-first-c900776d6f89?source=rss------bug_bounty-5) 
+ - 💯October 5, 2024 - [Write-Up — Telegram Anonymous Chat Hack Bot](https://medium.com/@EroHack/write-up-telegram-anonymous-chat-hack-bot-ad3497f813ed?source=rss------bug_bounty-5) 
 
- - 💯October 3, 2024 - [Critical Information Disclosure Vulnerability via CNAME &lpar;AUTOMATED SCAN&rpar;](https://offsec01.medium.com/critical-information-disclosure-vulnerability-via-cname-automated-scan-be0f6597ac5e?source=rss------bug_bounty-5) 
+ - 💯October 4, 2024 - [Command Injection: How Exploiting User Input Can Lead to Full System Compromise](https://systemweakness.com/command-injection-how-exploiting-user-input-can-lead-to-full-system-compromise-6becf5b981a1?source=rss------bug_bounty-5) 
 
- - 💯October 3, 2024 - [Pre-Account Takeover via Facebook OAuth Misconfiguration](https://nyein-chan-aung.medium.com/pre-account-takeover-via-facebook-oauth-misconfiguration-e16b984b7953?source=rss------bug_bounty-5) 
+ - 💯October 4, 2024 - [The Insider Threat When the Enemy Is Already Inside](https://medium.com/@Land2Cyber/the-insider-threat-when-the-enemy-is-already-inside-506a5efe7185?source=rss------bug_bounty-5) 
 
- - 💯October 3, 2024 - [XML External Entity &lpar;XXE&rpar; Injection: How Malicious XML Payloads Can Breach Your Application](https://systemweakness.com/xml-external-entity-xxe-injection-how-malicious-xml-payloads-can-breach-your-application-4837f732781e?source=rss------bug_bounty-5) 
+ - 💯October 4, 2024 - [one of the best tool for subdomains finding.](https://osintteam.blog/one-of-the-best-tool-for-subdomains-finding-0769dff261f4?source=rss------bug_bounty-5) 
 
- - 💯October 3, 2024 - [How ChatGPT Made Me a Hacker.](https://medium.com/@wajeehakhan9797/how-chatgpt-made-me-a-hacker-b89b1cce992b?source=rss------bug_bounty-5) 
+ - 💯October 4, 2024 - [easy bug bounty as a beginner part 1](https://medium.com/@canonminibeast/easy-bug-bounty-as-a-beginner-part-1-38833747da8d?source=rss------bug_bounty-5) 
 
- - 💯October 3, 2024 - [Critical Vulnerabilities in DrayTek Vigor Routers: Over 700,000 Devices Exposed to Remote Exploits…](https://infosecwriteups.com/critical-vulnerabilities-in-draytek-vigor-routers-over-700-000-devices-exposed-to-remote-exploits-2f3f731b50d9?source=rss------bug_bounty-5) 
+ - 💯October 4, 2024 - [Are you ready to take over entire infrastructure?](https://medium.com/@nebty/are-you-ready-to-take-over-entire-infrastructure-a93d2a0f902c?source=rss------bug_bounty-5) 
 
- - 💯October 3, 2024 - [How I hacked RD Sharma’s Publisher Website?](https://abhayvis.medium.com/how-i-hacked-rd-sharmas-publisher-website-7a76b3cb12ae?source=rss------bug_bounty-5) 
+ - 💯October 4, 2024 - [US Trading Account Fund Exploit: An IDOR Vulnerability Walkthrough](https://medium.com/@360Security/us-trading-account-fund-exploit-an-idor-vulnerability-walkthrough-a61ba5186874?source=rss------bug_bounty-5) 
 
- - 💯October 3, 2024 - [Blind SQL injection with out-of-band data exfiltration](https://systemweakness.com/blind-sql-injection-with-out-of-band-data-exfiltration-0a08129bfad5?source=rss------bug_bounty-5) 
+ - 💯October 4, 2024 - [Understanding Cryptographic Failures: A Key Vulnerability in Web Security](https://medium.com/@mrutunjayasenapati0/understanding-cryptographic-failures-a-key-vulnerability-in-web-security-bb024a4c41ca?source=rss------bug_bounty-5) 
+
+ - 💯October 4, 2024 - [How to choose the Correct Severity or CVSS Score for a Bug: A Practical Guide](https://medium.com/@a13h1/how-to-choose-the-correct-severity-or-cvss-score-for-a-bug-a-practical-guide-7a83be0096f3?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
