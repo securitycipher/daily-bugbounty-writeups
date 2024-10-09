@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 8, 2024 - [Unlocking Hidden Vulnerabilities: How to Automate Your Bug Bounty Game with GitHub Actions](https://theshaco.com/unlocking-hidden-vulnerabilities-how-to-automate-your-bug-bounty-game-with-github-actions-3f6c9501fe64?source=rss------bug_bounty-5) 
+ - 💯October 9, 2024 - [Port Scanning Demystified for Bug Bounty Success](https://bevijaygupta.medium.com/port-scanning-demystified-for-bug-bounty-success-a820c2c632cd?source=rss------bug_bounty-5) 
 
- - 💯October 8, 2024 - [From Ports to Payouts: Scanning Strategies for Bug Bounties](https://bevijaygupta.medium.com/from-ports-to-payouts-scanning-strategies-for-bug-bounties-a2861077a0d8?source=rss------bug_bounty-5) 
+ - 💯October 9, 2024 - [Unlock Unlimited Access to ChatGPT-4: A Step-by-Step Guide to Using Images and Files Without Limits](https://medium.com/@shaikhminhaz1975/unlock-unlimited-access-to-chatgpt-4-a-step-by-step-guide-to-using-images-and-files-without-limits-0f1db3ca57d8?source=rss------bug_bounty-5) 
 
- - 💯October 8, 2024 - [Race Condition leads to Cache Poisoning ?!](https://ltidi.medium.com/race-condition-leads-to-cache-poisoning-77bdfb9483fd?source=rss------bug_bounty-5) 
+ - 💯October 9, 2024 - [Bug Hunting Recon Methodology | Part1 | LegionHunter](https://systemweakness.com/bug-hunting-recon-methodology-part1-legionhunter-975b7bbe3231?source=rss------bug_bounty-5) 
 
- - 💯October 7, 2024 - [tool to generate xss payloads.](https://medium.com/h7w/tool-to-generate-xss-payloads-09bf1e519121?source=rss------bug_bounty-5) 
+ - 💯October 9, 2024 - [Top 10 Cybersecurity Tools Every Business Should Use in 2024](https://cyberconsultingcompany.medium.com/top-10-cybersecurity-tools-every-business-should-use-in-2024-f7b93c208722?source=rss------bug_bounty-5) 
 
- - 💯October 7, 2024 - [5 Most Usefull Programming Language For Hackers | Primary Hacking School #6](https://medium.com/@nnface/5-most-usefull-programming-language-for-hackers-primary-hacking-school-6-21b5979f0fe6?source=rss------bug_bounty-5) 
+ - 💯October 8, 2024 - [HOW TO INSTALL GO IN KALILINUX.](https://osintteam.blog/how-to-install-go-in-kalilinux-95924b5e9cde?source=rss------bug_bounty-5) 
 
- - 💯October 7, 2024 - [First Bug report as a beginner in Bug Bounty](https://blue3dot.medium.com/first-bug-report-as-a-beginner-in-bug-bounty-367e406cd960?source=rss------bug_bounty-5) 
+ - 💯October 8, 2024 - [Top 10 BurpSuite Extensions Every Bug Bounty Hunter Needs](https://osintteam.blog/top-10-burpsuite-extensions-every-bug-bounty-hunter-needs-67b6fddf612b?source=rss------bug_bounty-5) 
 
- - 💯October 7, 2024 - [How I found Cache Deception in a private bug bounty program.](https://medium.com/@mos693570/how-i-found-cache-deception-in-a-private-bug-bounty-program-0e3056d15858?source=rss------bug_bounty-5) 
+ - 💯October 8, 2024 - [Account Takeover via Hidden Parameters in BBP](https://cyb3rc4t.medium.com/account-takeover-via-hidden-parameters-in-bbp-f65ce42ca96f?source=rss------bug_bounty-5) 
 
- - 💯October 7, 2024 - [IDOR Attack Slips Through the Cracks: Vulnerability Scanners Miss Critical Security Flaw!](https://medium.com/@Aman-Gupta.cse/idor-attack-slips-through-the-cracks-vulnerability-scanners-miss-critical-security-flaw-c0061ea8c122?source=rss------bug_bounty-5) 
+ - 💯October 8, 2024 - [Using ‘Waymore’ to Uncover Archived Treasures and Customer Data](https://sl4x0.medium.com/using-waymore-to-uncover-archived-treasures-and-customer-data-a969474447a7?source=rss------bug_bounty-5) 
 
- - 💯October 7, 2024 - [How I Got my First Bounty €€ ?](https://medium.com/@muralidharan1530/how-i-got-my-first-bounty-776e8487f9a0?source=rss------bug_bounty-5) 
+ - 💯October 8, 2024 - [How I got a 5000 $ Bounty from Microsoft](https://medium.com/@bashir69emceeaka5/how-i-got-a-5000-bounty-from-microsoft-fb2e27fd40f7?source=rss------bug_bounty-5) 
 
- - 💯October 7, 2024 - [Finding DOM XSS via File Upload](https://medium.com/@0Xdarsh/finding-dom-xss-via-file-upload-2a533a97cfaa?source=rss------bug_bounty-5) 
+ - 💯October 8, 2024 - [From 401 — Unauthorized Access to 3000 $ Bounty from Microsoft.](https://medium.com/@bashir69emceeaka5/from-401-unauthorized-access-to-3000-bounty-from-microsoft-53b086379a08?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
