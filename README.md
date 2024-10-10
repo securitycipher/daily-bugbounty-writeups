@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 9, 2024 - [Port Scanning Demystified for Bug Bounty Success](https://bevijaygupta.medium.com/port-scanning-demystified-for-bug-bounty-success-a820c2c632cd?source=rss------bug_bounty-5) 
+ - 💯October 10, 2024 - [First Bug, Big Win: How a $100 IDOR Bug Kicked-off My Bug Bounty Journey](https://dukrov.medium.com/first-bug-big-win-how-a-100-idor-bug-kicked-off-my-bug-bounty-journey-69e2e7179477?source=rss------bug_bounty-5) 
 
- - 💯October 9, 2024 - [Unlock Unlimited Access to ChatGPT-4: A Step-by-Step Guide to Using Images and Files Without Limits](https://medium.com/@shaikhminhaz1975/unlock-unlimited-access-to-chatgpt-4-a-step-by-step-guide-to-using-images-and-files-without-limits-0f1db3ca57d8?source=rss------bug_bounty-5) 
+ - 💯October 10, 2024 - [How i got my first Letter of Appreciation + Hall of Fame](https://rivudon.medium.com/how-i-got-my-first-letter-of-appreciation-hall-of-fame-a3c0079e60ef?source=rss------bug_bounty-5) 
 
- - 💯October 9, 2024 - [Bug Hunting Recon Methodology | Part1 | LegionHunter](https://systemweakness.com/bug-hunting-recon-methodology-part1-legionhunter-975b7bbe3231?source=rss------bug_bounty-5) 
+ - 💯October 9, 2024 - [Finding a no ratelimit bug on invite teammate page.](https://osintteam.blog/finding-a-no-ratelimit-bug-on-invite-teammate-page-02c97e845b00?source=rss------bug_bounty-5) 
 
- - 💯October 9, 2024 - [Top 10 Cybersecurity Tools Every Business Should Use in 2024](https://cyberconsultingcompany.medium.com/top-10-cybersecurity-tools-every-business-should-use-in-2024-f7b93c208722?source=rss------bug_bounty-5) 
+ - 💯October 9, 2024 - [No Easy P1s on the fly if your site runs WP or Drupal](https://medium.com/@nireshpandian19/no-easy-p1s-on-the-fly-if-your-site-runs-wp-or-drupal-a7700650f86b?source=rss------bug_bounty-5) 
 
- - 💯October 8, 2024 - [HOW TO INSTALL GO IN KALILINUX.](https://osintteam.blog/how-to-install-go-in-kalilinux-95924b5e9cde?source=rss------bug_bounty-5) 
+ - 💯October 9, 2024 - [My Active Subdomain Enumeration Technique](https://mr-abdullah.medium.com/my-active-subdomain-enumeration-technique-57a508343fc4?source=rss------bug_bounty-5) 
 
- - 💯October 8, 2024 - [Top 10 BurpSuite Extensions Every Bug Bounty Hunter Needs](https://osintteam.blog/top-10-burpsuite-extensions-every-bug-bounty-hunter-needs-67b6fddf612b?source=rss------bug_bounty-5) 
+ - 💯October 9, 2024 - [SSRF via Flawed Request Parsing](https://medium.com/@rcxsecurity/ssrf-via-flawed-request-parsing-7b32a119f047?source=rss------bug_bounty-5) 
 
- - 💯October 8, 2024 - [Account Takeover via Hidden Parameters in BBP](https://cyb3rc4t.medium.com/account-takeover-via-hidden-parameters-in-bbp-f65ce42ca96f?source=rss------bug_bounty-5) 
+ - 💯October 9, 2024 - [Understanding Identification and Authentication Failures: A Critical Vulnerability in Web Security](https://medium.com/@mrutunjayasenapati0/understanding-identification-and-authentication-failures-a-critical-vulnerability-in-web-security-88a4bcbcc783?source=rss------bug_bounty-5) 
 
- - 💯October 8, 2024 - [Using ‘Waymore’ to Uncover Archived Treasures and Customer Data](https://sl4x0.medium.com/using-waymore-to-uncover-archived-treasures-and-customer-data-a969474447a7?source=rss------bug_bounty-5) 
+ - 💯October 9, 2024 - [Understanding Vulnerable and Outdated Components: A Critical Vulnerability in Web Security](https://medium.com/@mrutunjayasenapati0/understanding-vulnerable-and-outdated-components-a-critical-vulnerability-in-web-security-f8a9a9ae0b10?source=rss------bug_bounty-5) 
 
- - 💯October 8, 2024 - [How I got a 5000 $ Bounty from Microsoft](https://medium.com/@bashir69emceeaka5/how-i-got-a-5000-bounty-from-microsoft-fb2e27fd40f7?source=rss------bug_bounty-5) 
-
- - 💯October 8, 2024 - [From 401 — Unauthorized Access to 3000 $ Bounty from Microsoft.](https://medium.com/@bashir69emceeaka5/from-401-unauthorized-access-to-3000-bounty-from-microsoft-53b086379a08?source=rss------bug_bounty-5) 
+ - 💯October 9, 2024 - [Curated List of Awesome Hacker Search Engines for Penetration Testing and Cybersecurity…](https://osintteam.blog/curated-list-of-awesome-hacker-search-engines-for-penetration-testing-and-cybersecurity-9f0b9cb63a1d?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
