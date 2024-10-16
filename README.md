@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 15, 2024 - [How Google Dorking Helps me to Earn more than $2,000 in Bug Bounty.](https://medium.com/@anandrishav2228/how-google-dorking-helps-me-to-earn-more-than-2-000-in-bug-bounty-b2ac959b3905?source=rss------bug_bounty-5) 
+ - 💯October 16, 2024 - [Birdie Flies in to Save the Day: Our Custom Bug Tracking Tool for Android &amp; iOS Apps](https://engineering.probo.in/birdie-flies-in-to-save-the-day-our-custom-bug-tracking-tool-for-android-ios-apps-3834ab2bc434?source=rss------bug_bounty-5) 
 
- - 💯October 15, 2024 - [5 Cybersecurity Projects You Can Build This Weekend &lpar;with Python&rpar;](https://medium.com/@paritoshblogs/5-cybersecurity-projects-you-can-build-this-weekend-with-python-74bf03c3ba5d?source=rss------bug_bounty-5) 
+ - 💯October 16, 2024 - [How Website Work](https://medium.com/@Joshua_su/how-website-work-3df5e4e93a61?source=rss------bug_bounty-5) 
 
- - 💯October 14, 2024 - [0dSSRF | Automate Finding SSRF &amp; External Service Interactions &amp; Open Redirects](https://kariiem.medium.com/0dssrf-automate-finding-ssrf-external-service-interactions-open-redirects-944be6770a02?source=rss------bug_bounty-5) 
+ - 💯October 16, 2024 - [How to Find API Bugs and Earn Big with Bug Bounties upto $20,000](https://medium.com/@anandrishav2228/how-to-find-api-bugs-and-earn-big-with-bug-bounties-upto-20-000-12358743fcf9?source=rss------bug_bounty-5) 
 
- - 💯October 14, 2024 - [P4 bug’s and their POC steps | Part 6](https://medium.com/@socalledhacker/p4-bugs-and-their-poc-steps-part-6-8e3aa981673a?source=rss------bug_bounty-5) 
+ - 💯October 16, 2024 - [How I Deleted Users from the Database on Private Bug Bounty Program](https://medium.com/@sharp488/how-i-deleted-users-from-the-database-on-private-bug-bounty-program-f1939e83dd6f?source=rss------bug_bounty-5) 
 
- - 💯October 14, 2024 - [Blind SSRF Vulnerability](https://medium.com/@guravtushar231/blind-ssrf-vulnerability-97d2f1decfe6?source=rss------bug_bounty-5) 
+ - 💯October 16, 2024 - [Admin Panel Takeover Using a Leaky JS File](https://osintteam.blog/admin-panel-takeover-using-a-leaky-js-file-dc41fac0f86d?source=rss------bug_bounty-5) 
 
- - 💯October 14, 2024 - [Pokémon Developer Game Freak Hacked: 2,600 Employees’ Data Leaked!](https://medium.com/@wiretor/pok%C3%A9mon-developer-game-freak-hacked-2-600-employees-data-leaked-9e00ad9b3b0e?source=rss------bug_bounty-5) 
+ - 💯October 15, 2024 - [Attacking organisations with big scope: Part 2](https://medium.com/@sabirasdev/attacking-organisations-with-big-scope-part-2-6a0ee0387551?source=rss------bug_bounty-5) 
 
- - 💯October 14, 2024 - [Social media account hijacking — VDP](https://medium.com/@embossdotar/social-media-account-hijacking-vdp-fa674b25af44?source=rss------bug_bounty-5) 
+ - 💯October 15, 2024 - [Insufficient Workflow Validation](https://medium.com/@rcxsecurity/insufficient-workflow-validation-795d90f881dc?source=rss------bug_bounty-5) 
 
- - 💯October 14, 2024 - [Exposing 100,000 User Data : Massive API Bug Exposing](https://medium.com/@360Security/exposing-100-000-user-data-massive-api-bug-exposing-037b56cfe98d?source=rss------bug_bounty-5) 
+ - 💯October 15, 2024 - [How I Discovered My First Bug: Worth $150 for Information Exposure Through Debug Logs &lpar;CWE-215&rpar;](https://medium.com/@rupaitanudas/how-i-discovered-my-first-bug-worth-150-for-information-exposure-through-debug-logs-cwe-215-6a66dd10b21b?source=rss------bug_bounty-5) 
 
- - 💯October 14, 2024 - [JWT Authentication Bypass leads to Admin Control Panel](https://infosecwriteups.com/jwt-authentication-bypass-leads-to-admin-control-panel-dfa6efcdcbf5?source=rss------bug_bounty-5) 
+ - 💯October 15, 2024 - [How I Accessed an Admin Panel Without Touching the Keyboard](https://medium.com/@ranjanyadav2003/how-i-accessed-an-admin-panel-without-touching-the-keyboard-43ad45a06f8d?source=rss------bug_bounty-5) 
 
- - 💯October 14, 2024 - [❤Bug Bounty tool List❤](https://medium.com/@shardulsawant67/bug-bounty-tool-list-fee6620c0048?source=rss------bug_bounty-5) 
+ - 💯October 15, 2024 - [How I Accidentally Deleted My Medium Account While Hacking Medium &lpar;Oops&rpar;](https://medium.com/@vivekps143/how-i-accidentally-deleted-my-medium-account-while-hacking-medium-oops-82aa44c6bc69?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
