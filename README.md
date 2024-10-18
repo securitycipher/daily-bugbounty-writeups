@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 17, 2024 - [Electron JS Application Penetration Testing](https://infosecwriteups.com/electron-js-application-penetration-testing-b0809af324f6?source=rss------bug_bounty-5) 
+ - 💯October 18, 2024 - [Stored XSS &amp; Privilege Escalation in Profile Field -Private Program](https://cyb3rc4t.medium.com/stored-xss-privilege-escalation-in-profile-field-private-program-2bdde55e34b2?source=rss------bug_bounty-5) 
 
- - 💯October 17, 2024 - [How to Find XSS in Bug Bounty Programs: A Step-by-Step Guide with Source Code Examples](https://medium.com/@shaikhminhaz1975/how-to-find-xss-in-bug-bounty-programs-a-step-by-step-guide-with-source-code-examples-804e4b8a225d?source=rss------bug_bounty-5) 
+ - 💯October 18, 2024 - [Managing and Modifying URLs in SubScope for Bug Bounty Programs: A Comprehensive Guide](https://medium.com/@hunthubspace/managing-and-modifying-urls-in-subscope-for-bug-bounty-programs-a-comprehensive-guide-667df5ed07ab?source=rss------bug_bounty-5) 
 
- - 💯October 17, 2024 - [Your approach to finding XSS would change after you read this](https://medium.com/@nireshpandian19/your-approach-to-finding-xss-would-change-after-you-read-this-8292fcafefc1?source=rss------bug_bounty-5) 
+ - 💯October 18, 2024 - [I found this Bug in just 5 min. Only and Earn $300.](https://medium.com/@anandrishav2228/i-found-this-bug-in-just-5-min-only-and-earn-300-6b57528a7291?source=rss------bug_bounty-5) 
 
- - 💯October 17, 2024 - [Bug Bounty Tools that make you Rich and Independent and Help earn upto $100–$50,000](https://medium.com/@anandrishav2228/bug-bounty-tools-that-make-you-rich-and-independent-and-help-earn-upto-100-50-000-eddc92485bae?source=rss------bug_bounty-5) 
+ - 💯October 18, 2024 - [2FA Bypass via OAuth Linking](https://medium.com/@sharp488/2fa-bypass-via-oauth-linking-c8a640519ae8?source=rss------bug_bounty-5) 
 
- - 💯October 17, 2024 - [Bug Bounty Millionaires: Are You Missing Out on Easy Money?](https://medium.com/@paritoshblogs/bug-bounty-millionaires-are-you-missing-out-on-easy-money-e5b10a9e2cc1?source=rss------bug_bounty-5) 
+ - 💯October 17, 2024 - [$600 Bug Bounty: How I Poked Microservices and Got Paid!](https://osintteam.blog/600-bug-bounty-how-i-poked-microservices-and-got-paid-9e1bbe0f45e8?source=rss------bug_bounty-5) 
 
- - 💯October 16, 2024 - [Zero-Hero Hacker By Reading. Top 5 Books Designed For Hackers | Primary Hacking School #7](https://medium.com/@nnface/zero-hero-hacker-by-reading-top-5-books-designed-for-hackers-primary-hacking-school-7-559618b200b3?source=rss------bug_bounty-5) 
+ - 💯October 17, 2024 - [Breaking News: Sudan Brothers Charged in DDoS Attack Service Disruption!](https://medium.com/@wiretor/breaking-news-sudan-brothers-charged-in-ddos-attack-service-disruption-856290eb0dfb?source=rss------bug_bounty-5) 
 
- - 💯October 16, 2024 - [HOW I FIND XXS REFLECTED IN 5 SEC](https://medium.com/@mr.matrex00.7/xxxs-reflected-in-external-programme-1d234bd3b3c3?source=rss------bug_bounty-5) 
+ - 💯October 17, 2024 - [Vulnerability Discovered in Kubernetes Image Builder!](https://medium.com/@wiretor/vulnerability-discovered-in-kubernetes-image-builder-5846cf32cb80?source=rss------bug_bounty-5) 
 
- - 💯October 16, 2024 - [WAF Bypass — Parameter Poisoning](https://medium.com/@unrealdenis2020/waf-bypass-parameter-poisoning-21ad6e0db83c?source=rss------bug_bounty-5) 
+ - 💯October 17, 2024 - [Use Case: Bypassing In-App Purchase By Payment Client-Side Validation](https://secfathy0x1.medium.com/use-case-bypassing-in-app-purchase-by-payment-client-side-validation-e87e2c775a9c?source=rss------bug_bounty-5) 
 
- - 💯October 16, 2024 - [Hidden Reflected XSS via Android Application in VDP](https://cyb3rc4t.medium.com/hidden-reflected-xss-via-android-application-in-vdp-68f4210196f1?source=rss------bug_bounty-5) 
+ - 💯October 17, 2024 - [I Can Crash Anyone’s  Instagram Post - Zero Day-Permanent DoS | Meta | BugBounty | 2024](https://prathapilango.medium.com/i-can-crash-anyones-instagram-post-zero-day-permanent-dos-meta-bugbounty-2024-a2e50ac15caf?source=rss------bug_bounty-5) 
+
+ - 💯October 17, 2024 - [Maximizing Web3 Security with Bug Bounty Program Data](https://securrtech.medium.com/maximizing-web3-security-with-bug-bounty-program-data-1434315dbcdb?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
