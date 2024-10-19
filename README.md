@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 18, 2024 - [Stored XSS &amp; Privilege Escalation in Profile Field -Private Program](https://cyb3rc4t.medium.com/stored-xss-privilege-escalation-in-profile-field-private-program-2bdde55e34b2?source=rss------bug_bounty-5) 
+ - 💯October 19, 2024 - [How I Found My First Easy P3 Vulnerability in HackerOne Bug Bounty‍](https://medium.com/@aryan9868/how-i-found-my-first-easy-p3-vulnerability-in-hackerone-bug-bounty-f9227942c6c0?source=rss------bug_bounty-5) 
 
- - 💯October 18, 2024 - [Managing and Modifying URLs in SubScope for Bug Bounty Programs: A Comprehensive Guide](https://medium.com/@hunthubspace/managing-and-modifying-urls-in-subscope-for-bug-bounty-programs-a-comprehensive-guide-667df5ed07ab?source=rss------bug_bounty-5) 
+ - 💯October 19, 2024 - [Google Dorking Queries to find vulnurable targets](https://medium.com/@kanishk.k1410/google-dorkingqueries-to-find-vulnurable-targets-89ee672b6996?source=rss------bug_bounty-5) 
 
- - 💯October 18, 2024 - [I found this Bug in just 5 min. Only and Earn $300.](https://medium.com/@anandrishav2228/i-found-this-bug-in-just-5-min-only-and-earn-300-6b57528a7291?source=rss------bug_bounty-5) 
+ - 💯October 19, 2024 - [How a NoSQL Injection Attack Helped Me Earn $500: A Step-by-Step Guide](https://medium.com/@anandrishav2228/how-a-nosql-injection-attack-helped-me-earn-500-a-step-by-step-guide-51370a95bb93?source=rss------bug_bounty-5) 
 
- - 💯October 18, 2024 - [2FA Bypass via OAuth Linking](https://medium.com/@sharp488/2fa-bypass-via-oauth-linking-c8a640519ae8?source=rss------bug_bounty-5) 
+ - 💯October 18, 2024 - [Microsoft Unveils macOS Vulnerability: A Deep Dive into the HM Surf Flaw ️](https://medium.com/@wiretor/microsoft-unveils-macos-vulnerability-a-deep-dive-into-the-hm-surf-flaw-%EF%B8%8F-1bb8b77b2a63?source=rss------bug_bounty-5) 
 
- - 💯October 17, 2024 - [$600 Bug Bounty: How I Poked Microservices and Got Paid!](https://osintteam.blog/600-bug-bounty-how-i-poked-microservices-and-got-paid-9e1bbe0f45e8?source=rss------bug_bounty-5) 
+ - 💯October 18, 2024 - [Hong Kong Crime Ring Swindles Victims Out of $46M Using Deepfakes](https://medium.com/@wiretor/hong-kong-crime-ring-swindles-victims-out-of-46m-using-deepfakes-9dc8cb713248?source=rss------bug_bounty-5) 
 
- - 💯October 17, 2024 - [Breaking News: Sudan Brothers Charged in DDoS Attack Service Disruption!](https://medium.com/@wiretor/breaking-news-sudan-brothers-charged-in-ddos-attack-service-disruption-856290eb0dfb?source=rss------bug_bounty-5) 
+ - 💯October 18, 2024 - [Omni Family Health Impacts 470,000 Individuals](https://medium.com/@wiretor/omni-family-health-impacts-470-000-individuals-d20a82cd0ac8?source=rss------bug_bounty-5) 
 
- - 💯October 17, 2024 - [Vulnerability Discovered in Kubernetes Image Builder!](https://medium.com/@wiretor/vulnerability-discovered-in-kubernetes-image-builder-5846cf32cb80?source=rss------bug_bounty-5) 
+ - 💯October 18, 2024 - [Another Dark Reality of Bug Hunting](https://medium.com/@akashmotkar001/another-dark-reality-of-bug-hunting-6539c60dac31?source=rss------bug_bounty-5) 
 
- - 💯October 17, 2024 - [Use Case: Bypassing In-App Purchase By Payment Client-Side Validation](https://secfathy0x1.medium.com/use-case-bypassing-in-app-purchase-by-payment-client-side-validation-e87e2c775a9c?source=rss------bug_bounty-5) 
+ - 💯October 18, 2024 - [How Do Hackers Crack ANY Software](https://medium.com/h7w/how-do-hackers-crack-any-software-8e8e201bb169?source=rss------bug_bounty-5) 
 
- - 💯October 17, 2024 - [I Can Crash Anyone’s  Instagram Post - Zero Day-Permanent DoS | Meta | BugBounty | 2024](https://prathapilango.medium.com/i-can-crash-anyones-instagram-post-zero-day-permanent-dos-meta-bugbounty-2024-a2e50ac15caf?source=rss------bug_bounty-5) 
+ - 💯October 18, 2024 - [Business logic vulnerability : Permanent Comments lock](https://sayedv2.medium.com/business-logic-vulnerability-permanent-comments-lock-f118087967ba?source=rss------bug_bounty-5) 
 
- - 💯October 17, 2024 - [Maximizing Web3 Security with Bug Bounty Program Data](https://securrtech.medium.com/maximizing-web3-security-with-bug-bounty-program-data-1434315dbcdb?source=rss------bug_bounty-5) 
+ - 💯October 18, 2024 - [How I Earned $150 for Reporting a Simple Parameter Bug](https://medium.com/@janmaciejewski07/how-i-earned-150-for-reporting-a-simple-parameter-bug-90734441dcd5?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
