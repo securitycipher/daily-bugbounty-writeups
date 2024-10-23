@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 22, 2024 - [Oracle SQL Injection | Database Recon](https://systemweakness.com/oracle-sql-injection-database-recon-0c384d4a085a?source=rss------bug_bounty-5) 
+ - 💯October 23, 2024 - [How to Find CVEs, Report Them, and Leverage Them for Career Growth and Bounties of $$$.](https://medium.com/@anandrishav2228/how-to-find-cves-report-them-and-leverage-them-for-career-growth-and-bounties-of-3b62538c64d1?source=rss------bug_bounty-5) 
 
- - 💯October 22, 2024 - [Forget password OTP flaw lead to Account Takeover.](https://medium.com/@bughunt789/forget-password-otp-flaw-lead-to-account-takeover-b3f2b847952b?source=rss------bug_bounty-5) 
+ - 💯October 23, 2024 - [One Payload for Bugbounty&lpar;X$&rpar;!](https://pwndecoco.medium.com/one-payload-for-bugbounty-x-ace7dfd4859d?source=rss------bug_bounty-5) 
 
- - 💯October 22, 2024 - [How I Hacked Over 150k PII on a Program](https://medium.com/@rootplinix/how-i-hacked-over-150k-pii-on-a-program-f58b8b141d4a?source=rss------bug_bounty-5) 
+ - 💯October 23, 2024 - [How to Handle Burnout as a Bug Bounty Hunter: Step By Step guide](https://medium.com/@shaikhminhaz1975/how-to-handle-burnout-as-a-bug-bounty-hunter-step-by-step-guide-c83b06c4fc1f?source=rss------bug_bounty-5) 
 
- - 💯October 22, 2024 - [Requisições Web  —  Tudo que você deve saber para começar em cybersegurança](https://medium.com/@malwarilia/requisi%C3%A7%C3%B5es-web-tudo-que-voc%C3%AA-deve-saber-para-come%C3%A7ar-em-cyberseguran%C3%A7a-ef01a89b250c?source=rss------bug_bounty-5) 
+ - 💯October 22, 2024 - [Single endpoint leads to two bounties!&lpar;400$titlerpar;](https://medium.com/@noureldin1042/single-endpoint-leads-to-two-bounties-400-7dd96cf601c7?source=rss------bug_bounty-5) 
 
- - 💯October 22, 2024 - [Bug Bounty Methodology for SQL Injection with Waybash URLs](https://pwn0sec.medium.com/bug-bounty-methodology-for-sql-injection-with-waybash-urls-d1d13d0ebdaa?source=rss------bug_bounty-5) 
+ - 💯October 22, 2024 - [Breaking Boundaries: Discovering Session Invalidation Failures in User Roles](https://medium.com/@hawkeye69669/breaking-boundaries-discovering-session-invalidation-failures-in-user-roles-84711777f9f2?source=rss------bug_bounty-5) 
 
- - 💯October 21, 2024 - [Microsoft Blocks Windows 11 24H2 on Select ASUS Models: A Cautionary Tale for Users](https://medium.com/@wiretor/microsoft-blocks-windows-11-24h2-on-select-asus-models-a-cautionary-tale-for-users-5fc3314e0cfa?source=rss------bug_bounty-5) 
+ - 💯October 22, 2024 - [Google Warns of Samsung Zero-Day Exploited in the Wild](https://medium.com/@wiretor/google-warns-of-samsung-zero-day-exploited-in-the-wild-fb98c84b3e06?source=rss------bug_bounty-5) 
 
- - 💯October 21, 2024 - [Cisco Takes DevHub Portal Offline Following Hacker Leak of Sensitive Data](https://medium.com/@wiretor/cisco-takes-devhub-portal-offline-following-hacker-leak-of-sensitive-data-b6ca5cffe3c3?source=rss------bug_bounty-5) 
+ - 💯October 22, 2024 - [Critical Vulnerabilities Expose mbNET.mini and Helmholz Industrial Routers to Attacks](https://medium.com/@wiretor/critical-vulnerabilities-expose-mbnet-mini-and-helmholz-industrial-routers-to-attacks-feac904b23b5?source=rss------bug_bounty-5) 
 
- - 💯October 21, 2024 - [Massive WordPress Breach: Over 6,000 Sites Hacked by Infostealing Malware Plugins! ️](https://medium.com/@wiretor/massive-wordpress-breach-over-6-000-sites-hacked-by-infostealing-malware-plugins-%EF%B8%8F-2a4cb7e80d0c?source=rss------bug_bounty-5) 
+ - 💯October 22, 2024 - [Ransomware Alert: Cicada3301 Emerges as Successor to BlackCat](https://medium.com/@wiretor/ransomware-alert-cicada3301-emerges-as-successor-to-blackcat-e0e468472e08?source=rss------bug_bounty-5) 
 
- - 💯October 21, 2024 - [North Korean Hackers Exploit Microsoft Zero-Day: APT37’s “Code-on-Toast” Attack Uncovered](https://medium.com/@wiretor/north-korean-hackers-exploit-microsoft-zero-day-apt37s-code-on-toast-attack-uncovered-c10af50cf040?source=rss------bug_bounty-5) 
-
- - 💯October 21, 2024 - [How i found 22 LFI in the same program using automation tricks](https://medium.com/@zomasec/how-i-found-22-lfi-in-the-same-program-using-automation-tricks-3ea303d24f4a?source=rss------bug_bounty-5) 
+ - 💯October 22, 2024 - [Security Flaw in Styra’s OPA Exposes NTLM Hashes to Remote Attackers](https://medium.com/@wiretor/security-flaw-in-styras-opa-exposes-ntlm-hashes-to-remote-attackers-f4c9ce201de8?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
