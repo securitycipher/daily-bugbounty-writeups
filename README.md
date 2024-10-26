@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 25, 2024 - [TECNO Security Year-End Reward Sprint Preview: Grand Prizes Await You!](https://medium.com/@security.tecno/tecno-security-year-end-reward-sprint-preview-grand-prizes-await-you-7dec791e12ce?source=rss------bug_bounty-5) 
+ - 💯October 26, 2024 - [Bug Bounty with AI in Real-Time: The Future of Cybersecurity](https://prakash888kpk.medium.com/bug-bounty-with-ai-in-real-time-the-future-of-cybersecurity-b3f783c7f0de?source=rss------bug_bounty-5) 
 
- - 💯October 25, 2024 - [How I Bypassed Rate Limit on Login](https://mo9khu93r.medium.com/how-i-bypassed-rate-limit-on-login-b600b15158ef?source=rss------bug_bounty-5) 
+ - 💯October 26, 2024 - [Find CSRF and get a bounty of $900 Quickly](https://medium.com/@anandrishav2228/find-csrf-and-get-a-bounty-of-900-quickly-a9c3bf311dfb?source=rss------bug_bounty-5) 
 
- - 💯October 25, 2024 - [Red Hat SSO 7.6 Host Header Injection Vulnerability](https://medium.com/@mark.roy.1337/exploiting-and-securing-red-hat-sso-7-6-host-header-injection-vulnerability-654424f6889a?source=rss------bug_bounty-5) 
+ - 💯October 26, 2024 - [One idea Uncovers Authentication Bypass &amp; Session management flaw](https://medium.com/@CipherHawk/one-idea-uncovers-authentication-bypass-session-management-flaw-2e1536f5c52d?source=rss------bug_bounty-5) 
 
- - 💯October 24, 2024 - [Das CRUD-Prinzip](https://medium.com/@rainer_zufall111/das-crud-prinzip-786530d1a302?source=rss------bug_bounty-5) 
+ - 💯October 26, 2024 - [Firefox&amp;Chrome extensions for bugbounty hunters.&lpar;PART 2&rpar;](https://osintteam.blog/firefox-chrome-extensions-for-bugbounty-hunters-part-2-c3febcb6e64b?source=rss------bug_bounty-5) 
 
- - 💯October 24, 2024 - [How i found exposed db creds on .gov site](https://medium.com/@jenroots/how-i-found-exposed-db-creds-on-gov-site-24588d9eb9c8?source=rss------bug_bounty-5) 
+ - 💯October 26, 2024 - [Free vps for hacking and bug bounty hunting.](https://osintteam.blog/free-vps-for-hacking-and-bug-bounty-hunting-921d1dda71ce?source=rss------bug_bounty-5) 
 
- - 💯October 24, 2024 - [Cheat Sheet : Utilisation de Nuclei pour les Tests de Sécurité et b](https://medium.com/@Itachi0xf/cheat-sheet-utilisation-de-nuclei-pour-les-tests-de-s%C3%A9curit%C3%A9-et-b-e4d9d57aff32?source=rss------bug_bounty-5) 
+ - 💯October 25, 2024 - [Finding Cross-Site Scripting &lpar;XSS&rpar; vulnerabilities in Bug bounty program](https://medium.com/@curiouskhanna/finding-cross-site-scripting-xss-vulnerabilities-in-bug-bounty-program-2a40bef4c8d7?source=rss------bug_bounty-5) 
 
- - 💯October 24, 2024 - [Second Strike: Uncovering a GraphQL IDOR That Let Me Delete Anyones Post](https://dukrov.medium.com/second-strike-uncovering-a-graphql-idor-that-let-me-delete-anyones-post-7c6fefd71db7?source=rss------bug_bounty-5) 
+ - 💯October 25, 2024 - [My step by step process on how I do Bug Bounty Hunting: From finding targets to Submission of the…](https://pwndecoco.medium.com/my-step-by-step-process-on-how-i-do-bug-bounty-program-from-finding-targets-to-submission-of-the-d25939b2a1b3?source=rss------bug_bounty-5) 
 
- - 💯October 24, 2024 - [Penalized for Responsible Disclosure](https://geochen.medium.com/penalized-for-responsible-disclosure-e36b3f57dc8a?source=rss------bug_bounty-5) 
+ - 💯October 25, 2024 - [Uncovering Vulnerabilities: My Discovery of Hashed Passwords on a Dutch Government Website](https://medium.com/@anonymousshetty2003/uncovering-vulnerabilities-my-discovery-of-hashed-passwords-on-a-dutch-government-website-f30969e6ebbc?source=rss------bug_bounty-5) 
 
- - 💯October 24, 2024 - [Bug Bounty with AI: Enhancing Cybersecurity Through Artificial Intelligence](https://prakash888kpk.medium.com/bug-bounty-with-ai-enhancing-cybersecurity-through-artificial-intelligence-fc679204b800?source=rss------bug_bounty-5) 
+ - 💯October 25, 2024 - [Information Disclosure in Top 500 Company through Source Code](https://medium.com/@anonymousshetty2003/information-disclosure-in-top-500-company-through-source-code-fe91a7806acc?source=rss------bug_bounty-5) 
+
+ - 💯October 25, 2024 - [WordPress Penetration Testing: A Hacker’s Playbook](https://systemweakness.com/wordpress-penetration-testing-a-hackers-playbook-bb97b8a009b1?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
