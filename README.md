@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 26, 2024 - [Bug Bounty with AI in Real-Time: The Future of Cybersecurity](https://prakash888kpk.medium.com/bug-bounty-with-ai-in-real-time-the-future-of-cybersecurity-b3f783c7f0de?source=rss------bug_bounty-5) 
+ - 💯October 27, 2024 - [How I Leveraged HTML Injection to Create an Account Using Someone Else’s Email](https://infosecwriteups.com/how-i-leveraged-html-injection-to-create-an-account-using-someone-elses-email-b80f83ab9465?source=rss------bug_bounty-5) 
 
- - 💯October 26, 2024 - [Find CSRF and get a bounty of $900 Quickly](https://medium.com/@anandrishav2228/find-csrf-and-get-a-bounty-of-900-quickly-a9c3bf311dfb?source=rss------bug_bounty-5) 
+ - 💯October 27, 2024 - [Use Burp Suite Community version like a professional version Save upto $449](https://medium.com/@anandrishav2228/use-burp-suite-community-version-like-a-professional-version-2225e9d0404f?source=rss------bug_bounty-5) 
 
- - 💯October 26, 2024 - [One idea Uncovers Authentication Bypass &amp; Session management flaw](https://medium.com/@CipherHawk/one-idea-uncovers-authentication-bypass-session-management-flaw-2e1536f5c52d?source=rss------bug_bounty-5) 
+ - 💯October 26, 2024 - [New Cisco ASA and FTD Features: Blocking VPN Brute-Force Password Attacks!](https://medium.com/@wiretor/new-cisco-asa-and-ftd-features-blocking-vpn-brute-force-password-attacks-c9065ef3ccfd?source=rss------bug_bounty-5) 
 
- - 💯October 26, 2024 - [Firefox&amp;Chrome extensions for bugbounty hunters.&lpar;PART 2&rpar;](https://osintteam.blog/firefox-chrome-extensions-for-bugbounty-hunters-part-2-c3febcb6e64b?source=rss------bug_bounty-5) 
+ - 💯October 26, 2024 - [New Windows Driver Signature Bypass Enables Rootkit Installs!](https://medium.com/@wiretor/new-windows-driver-signature-bypass-enables-rootkit-installs-42d64a4e973a?source=rss------bug_bounty-5) 
 
- - 💯October 26, 2024 - [Free vps for hacking and bug bounty hunting.](https://osintteam.blog/free-vps-for-hacking-and-bug-bounty-hunting-921d1dda71ce?source=rss------bug_bounty-5) 
+ - 💯October 26, 2024 - [Black Basta Ransomware Targets Teams: Stay Vigilant!](https://medium.com/@wiretor/black-basta-ransomware-targets-teams-stay-vigilant-a76d8550003c?source=rss------bug_bounty-5) 
 
- - 💯October 25, 2024 - [Finding Cross-Site Scripting &lpar;XSS&rpar; vulnerabilities in Bug bounty program](https://medium.com/@curiouskhanna/finding-cross-site-scripting-xss-vulnerabilities-in-bug-bounty-program-2a40bef4c8d7?source=rss------bug_bounty-5) 
+ - 💯October 26, 2024 - [Hunting for Open Redirect Vulnerabilities: A Beginner to Expert Guide](https://medium.com/@360Security/hunting-for-open-redirect-vulnerabilities-a-beginner-to-expert-guide-c33dd1ac1875?source=rss------bug_bounty-5) 
 
- - 💯October 25, 2024 - [My step by step process on how I do Bug Bounty Hunting: From finding targets to Submission of the…](https://pwndecoco.medium.com/my-step-by-step-process-on-how-i-do-bug-bounty-program-from-finding-targets-to-submission-of-the-d25939b2a1b3?source=rss------bug_bounty-5) 
+ - 💯October 26, 2024 - [BugBounty — Mastering the Basics &lpar;along with Resources&rpar;[Part-1]](https://medium.com/@iabhipathak/bugbounty-mastering-the-basics-along-with-resources-part-1-47d30eb3d19a?source=rss------bug_bounty-5) 
 
- - 💯October 25, 2024 - [Uncovering Vulnerabilities: My Discovery of Hashed Passwords on a Dutch Government Website](https://medium.com/@anonymousshetty2003/uncovering-vulnerabilities-my-discovery-of-hashed-passwords-on-a-dutch-government-website-f30969e6ebbc?source=rss------bug_bounty-5) 
+ - 💯October 26, 2024 - [DVWA : Brute Force Vulnerability Solution &lpar;Low &amp; Medium Security Level&rpar;](https://medium.com/@Kamal_S/dvwa-brute-force-vulnerability-solution-low-medium-security-level-9c01eadf3720?source=rss------bug_bounty-5) 
 
- - 💯October 25, 2024 - [Information Disclosure in Top 500 Company through Source Code](https://medium.com/@anonymousshetty2003/information-disclosure-in-top-500-company-through-source-code-fe91a7806acc?source=rss------bug_bounty-5) 
+ - 💯October 26, 2024 - [SQL Injections and the cute $2000 bounty](https://medium.com/@nireshpandian19/sql-injections-and-the-cute-2000-bounty-2d18441ee0e3?source=rss------bug_bounty-5) 
 
- - 💯October 25, 2024 - [WordPress Penetration Testing: A Hacker’s Playbook](https://systemweakness.com/wordpress-penetration-testing-a-hackers-playbook-bb97b8a009b1?source=rss------bug_bounty-5) 
+ - 💯October 26, 2024 - [Bind Shells: A Practical Guide](https://medium.com/@learntheshell/bind-shells-a-practical-guide-9c00b3d7ad74?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
