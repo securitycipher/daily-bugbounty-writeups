@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 28, 2024 - [$150,000 Evmos Vulnerability Through Reading Documentation](https://medium.com/@jjordanjjordan/150-000-evmos-vulnerability-through-reading-documentation-d26328590a7a?source=rss------bug_bounty-5) 
+ - 💯October 29, 2024 - [Account Linked Domains Takeover](https://medium.com/@ph4nt0mbyt3/account-linked-domains-takeover-852cab92e018?source=rss------bug_bounty-5) 
 
- - 💯October 28, 2024 - [Blind Cross Site Scripting in License Application](https://medium.com/@abdullah12987654/blind-cross-site-scripting-in-license-application-aa865c0e0496?source=rss------bug_bounty-5) 
+ - 💯October 29, 2024 - [How to find Information Disclouser in any WebTech or Mobile App. and Earn upto $500-$2000](https://medium.com/@anandrishav2228/how-to-find-information-disclouser-in-any-webtech-or-mobile-app-and-earn-upto-500-2000-7bda67bbe754?source=rss------bug_bounty-5) 
 
- - 💯October 28, 2024 - [Payment Bypass via API Request to Activate Premium Plan on Private Bug Bounty Program](https://medium.com/@sharp488/payment-bypass-via-api-request-to-activate-premium-plan-on-private-bug-bounty-program-bbd7fc91ef99?source=rss------bug_bounty-5) 
+ - 💯October 29, 2024 - [From Study Stress to Critical Account Takeover: How a Gym Break and a Little Curiosity Uncovered a…](https://medium.com/@CipherHawk/from-study-stress-to-critical-account-takeover-how-a-gym-break-and-a-little-curiosity-uncovered-a-d15cfc2e142b?source=rss------bug_bounty-5) 
 
- - 💯October 28, 2024 - [How to find a Race-condition Bug and make $1300](https://medium.com/@anandrishav2228/how-to-find-a-race-condition-bug-and-make-1300-66d7e14040e9?source=rss------bug_bounty-5) 
+ - 💯October 29, 2024 - [Full Account Takeover at One of the Largest E-Commerce Companies](https://m0uka.medium.com/full-account-takeover-at-one-of-the-largest-e-commerce-companies-8cf416e9dc7e?source=rss------bug_bounty-5) 
 
- - 💯October 27, 2024 - [Fog &amp; Akira Ransomware Exploit SonicWall VPN: Is Your Network Safe?](https://medium.com/@wiretor/fog-akira-ransomware-exploit-sonicwall-vpn-is-your-network-safe-81da77b75cae?source=rss------bug_bounty-5) 
+ - 💯October 28, 2024 - [Breaking Down My Bug Bounty Find: Exploiting EC-Council’s iClass Platform](https://medium.com/@salaheddine_kalada/breaking-down-my-bug-bounty-find-exploiting-ec-councils-iclass-platform-68bd9a6c8460?source=rss------bug_bounty-5) 
 
- - 💯October 27, 2024 - [China-Backed Cyber Attack: Donald Trump and JD Vance Targeted!](https://medium.com/@wiretor/china-backed-cyber-attack-donald-trump-and-jd-vance-targeted-004518c60c89?source=rss------bug_bounty-5) 
+ - 💯October 28, 2024 - [LLM Pentest Services at Wire Tor️](https://medium.com/@wiretor/llm-pentest-services-at-wire-tor-%EF%B8%8F-e2617eb98a89?source=rss------bug_bounty-5) 
 
- - 💯October 27, 2024 - [How to find bugs in Microsoft iis page.](https://infosecwriteups.com/how-to-find-bugs-in-microsoft-iis-page-ef336a229abc?source=rss------bug_bounty-5) 
+ - 💯October 28, 2024 - [Portswigger Lab: Reflected XSS in a JavaScript URL with some characters blocked](https://medium.com/@iamdeusx/portswigger-lab-reflected-xss-in-a-javascript-url-with-some-characters-blocked-fa15ae95d90e?source=rss------bug_bounty-5) 
 
- - 💯October 27, 2024 - [Bypassing File Upload Defenses: My Journey from Simple Bypass to Near RCE](https://medium.com/@dsmodi484/bypassing-file-upload-defenses-my-journey-from-simple-bypass-to-near-rce-ffbd23400efa?source=rss------bug_bounty-5) 
+ - 💯October 28, 2024 - [Exposing a Data Leak Vulnerability: My Journey to Discovery](https://infosecwriteups.com/exposing-a-data-leak-vulnerability-my-journey-to-discovery-7be93ce2c5b0?source=rss------bug_bounty-5) 
 
- - 💯October 27, 2024 - [Supply Chain Vulnerabilities A Growing Threat to Operational Continuity](https://medium.com/@Land2Cyber/supply-chain-vulnerabilities-a-growing-threat-to-operational-continuity-cf273011defa?source=rss------bug_bounty-5) 
+ - 💯October 28, 2024 - [Ethical Hacking and Bug Bounty Programs —  Harnessing Hackers for Good](https://medium.com/@RocketMeUpCybersecurity/ethical-hacking-and-bug-bounty-programs-harnessing-hackers-for-good-ac8417374af0?source=rss------bug_bounty-5) 
 
- - 💯October 27, 2024 - [My Roadmap and the Tools I plan to use to aid my journey.](https://cybersechemmars.medium.com/my-roadmap-and-the-tools-i-plan-to-use-to-aid-my-journey-4f720504fce6?source=rss------bug_bounty-5) 
+ - 💯October 28, 2024 - [My first bug bounty](https://medium.com/@zatikyan.sevada/my-first-bug-bounty-5dc382b7cd50?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
