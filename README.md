@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 31, 2024 - [HOW I FOUND CVE-2023–35813?](https://doordiefordream.medium.com/how-i-found-cve-2023-35813-c239c2f03192?source=rss------bug_bounty-5) 
+ - 💯November 1, 2024 - [bugbountytraining靶场&lpar;三&rpar;](https://medium.com/@starkxun5215/bugbountytraining%E9%9D%B6%E5%9C%BA-%E4%B8%89-dfe55be3123f?source=rss------bug_bounty-5) 
 
- - 💯October 31, 2024 - [How HTML injection can help to make $1000.](https://medium.com/@anandrishav2228/how-html-injection-can-help-to-make-1000-531c6f7b6672?source=rss------bug_bounty-5) 
+ - 💯October 31, 2024 - [LottieFiles Hacked: A Cautionary Tale for the Crypto Community!](https://medium.com/@wiretor/lottiefiles-hacked-a-cautionary-tale-for-the-crypto-community-8cc3b6cf9148?source=rss------bug_bounty-5) 
 
- - 💯October 31, 2024 - [bugbountytraining靶场&lpar;二&rpar;](https://medium.com/@starkxun5215/bugbountytraining%E9%9D%B6%E5%9C%BA-%E4%BA%8C-669c3ac29651?source=rss------bug_bounty-5) 
+ - 💯October 31, 2024 - [Protecting E-Commerce: Understanding the Phish n’ Ships Campaign](https://medium.com/@wiretor/protecting-e-commerce-understanding-the-phish-n-ships-campaign-619cc4f3d150?source=rss------bug_bounty-5) 
 
- - 💯October 30, 2024 - [Spooktacular Halloween Sale: 50% Off!](https://medium.com/@wiretor/spooktacular-halloween-sale-50-off-f1967438dac0?source=rss------bug_bounty-5) 
+ - 💯October 31, 2024 - [Ex-Disney Employee Charged with Hacking: A Cautionary Tale!](https://medium.com/@wiretor/ex-disney-employee-charged-with-hacking-a-cautionary-tale-d9174351fd7c?source=rss------bug_bounty-5) 
 
- - 💯October 30, 2024 - [Automating Bug Bounty Hunts with Bash: A Beginner-Friendly Guide](https://pwndecoco.medium.com/automating-bug-bounty-hunts-with-bash-a-beginner-friendly-guide-3fc2b3d7f341?source=rss------bug_bounty-5) 
+ - 💯October 31, 2024 - [XML Upload Challenge: Breaking Boundaries with External Entities](https://medium.com/@josh.beck2006/xml-upload-challenge-breaking-boundaries-with-external-entities-79677649485f?source=rss------bug_bounty-5) 
 
- - 💯October 30, 2024 - [Lets Get into the Real field.](https://harshbardhanx.medium.com/lets-get-into-the-real-field-b2c9278d0b63?source=rss------bug_bounty-5) 
+ - 💯October 31, 2024 - [Hunting for IDOR and BAC Vulnerabilities in B2B Applications with Burp Suite’s Authorize Extension](https://thexssrat.medium.com/hunting-for-idor-and-bac-vulnerabilities-in-b2b-applications-with-burp-suites-authorize-extension-597877b53d94?source=rss------bug_bounty-5) 
 
- - 💯October 30, 2024 - [Email Spoofing](https://medium.com/@hacragon/email-spoofing-1a81728f92b3?source=rss------bug_bounty-5) 
+ - 💯October 31, 2024 - [Comprehensive Bug Bounty Hunting Methodology &lpar;2024 Edition&rpar;](https://xalgord.medium.com/comprehensive-bug-bounty-hunting-checklist-2024-edition-4abb3a9cbe66?source=rss------bug_bounty-5) 
 
- - 💯October 30, 2024 - [Exposed Git Configs Lead to 15,000 Stolen Cloud Credentials: The WireTor Solution](https://medium.com/@wiretor/exposed-git-configs-lead-to-15-000-stolen-cloud-credentials-the-wiretor-solution-d6de23eaca26?source=rss------bug_bounty-5) 
+ - 💯October 31, 2024 - [Tale of Zendesk 0 day and a potential 25K $ bounty](https://rikeshbaniya.medium.com/tale-of-zendesk-0-day-and-a-potential-25k-bounty-61bcf9c5dc06?source=rss------bug_bounty-5) 
 
- - 💯October 30, 2024 - [WIRE TOR — The Ethical Hacking Services](https://medium.com/@wiretor/wire-tor-the-ethical-hacking-services-bac69e4fa28a?source=rss------bug_bounty-5) 
+ - 💯October 31, 2024 - [How One Accidental Find Led to Full App Security Testing](https://medium.com/@hasirhamdan77/how-one-accidental-find-led-to-full-app-security-testing-ea1c317174cb?source=rss------bug_bounty-5) 
 
- - 💯October 30, 2024 - [Protect Yourself from Election Scams: Insights from WireTor](https://medium.com/@wiretor/protect-yourself-from-election-scams-insights-from-wiretor-1e118e682f76?source=rss------bug_bounty-5) 
+ - 💯October 31, 2024 - [0-Click ATO Via reset password weird scenario](https://medium.com/@mos693570/0-click-ato-via-reset-password-weird-scenario-9afa4a88e413?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
