@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 1, 2024 - [bugbountytraining靶场&lpar;三&rpar;](https://medium.com/@starkxun5215/bugbountytraining%E9%9D%B6%E5%9C%BA-%E4%B8%89-dfe55be3123f?source=rss------bug_bounty-5) 
+ - 💯November 2, 2024 - [AI vs. Hackers How Machine Learning Detects Network Intrusions in Real Time](https://medium.com/@Land2Cyber/ai-vs-hackers-how-machine-learning-detects-network-intrusions-in-real-time-591ec5dd6c75?source=rss------bug_bounty-5) 
 
- - 💯October 31, 2024 - [LottieFiles Hacked: A Cautionary Tale for the Crypto Community!](https://medium.com/@wiretor/lottiefiles-hacked-a-cautionary-tale-for-the-crypto-community-8cc3b6cf9148?source=rss------bug_bounty-5) 
+ - 💯November 2, 2024 - [When Trust Is Broken Network Attacks that Exploit Trusted Connections](https://medium.com/@Land2Cyber/when-trust-is-broken-network-attacks-that-exploit-trusted-connections-ae637865013b?source=rss------bug_bounty-5) 
 
- - 💯October 31, 2024 - [Protecting E-Commerce: Understanding the Phish n’ Ships Campaign](https://medium.com/@wiretor/protecting-e-commerce-understanding-the-phish-n-ships-campaign-619cc4f3d150?source=rss------bug_bounty-5) 
+ - 💯November 2, 2024 - [Packet Sniffing Why Hackers Are Obsessed with Your Network Traffic](https://medium.com/@Land2Cyber/packet-sniffing-why-hackers-are-obsessed-with-your-network-traffic-7d9ba5c461ce?source=rss------bug_bounty-5) 
 
- - 💯October 31, 2024 - [Ex-Disney Employee Charged with Hacking: A Cautionary Tale!](https://medium.com/@wiretor/ex-disney-employee-charged-with-hacking-a-cautionary-tale-d9174351fd7c?source=rss------bug_bounty-5) 
+ - 💯November 2, 2024 - [Time Based SQL Injection Bug Hunting Methodology](https://osintteam.blog/time-based-sql-injection-bug-hunting-methodology-be485de5ab9e?source=rss------bug_bounty-5) 
 
- - 💯October 31, 2024 - [XML Upload Challenge: Breaking Boundaries with External Entities](https://medium.com/@josh.beck2006/xml-upload-challenge-breaking-boundaries-with-external-entities-79677649485f?source=rss------bug_bounty-5) 
+ - 💯November 1, 2024 - [The Pen-Tester’s Muse: Writing Exploits into Earnings on Medium](https://medium.com/illumination/the-pen-testers-muse-writing-exploits-into-earnings-on-medium-a739abaab422?source=rss------bug_bounty-5) 
 
- - 💯October 31, 2024 - [Hunting for IDOR and BAC Vulnerabilities in B2B Applications with Burp Suite’s Authorize Extension](https://thexssrat.medium.com/hunting-for-idor-and-bac-vulnerabilities-in-b2b-applications-with-burp-suites-authorize-extension-597877b53d94?source=rss------bug_bounty-5) 
+ - 💯November 1, 2024 - [Reasons for Failure in Bug Bounty Programs and the Path to Success](https://medium.com/@halildeniz313/reasons-for-failure-in-bug-bounty-programs-and-the-path-to-success-af19917f4be9?source=rss------bug_bounty-5) 
 
- - 💯October 31, 2024 - [Comprehensive Bug Bounty Hunting Methodology &lpar;2024 Edition&rpar;](https://xalgord.medium.com/comprehensive-bug-bounty-hunting-checklist-2024-edition-4abb3a9cbe66?source=rss------bug_bounty-5) 
+ - 💯November 1, 2024 - [Web Application Basics — Tryhackme Walkthrough](https://medium.com/@TRedEye/web-application-basics-tryhackme-walkthrough-ee6a0cf2f1f6?source=rss------bug_bounty-5) 
 
- - 💯October 31, 2024 - [Tale of Zendesk 0 day and a potential 25K $ bounty](https://rikeshbaniya.medium.com/tale-of-zendesk-0-day-and-a-potential-25k-bounty-61bcf9c5dc06?source=rss------bug_bounty-5) 
+ - 💯November 1, 2024 - [Configuring Burp Suite with Firefox &lpar;Step-by-Step&rpar;](https://harshbardhanx.medium.com/configuring-burp-suite-with-firefox-step-by-step-40f56a706546?source=rss------bug_bounty-5) 
 
- - 💯October 31, 2024 - [How One Accidental Find Led to Full App Security Testing](https://medium.com/@hasirhamdan77/how-one-accidental-find-led-to-full-app-security-testing-ea1c317174cb?source=rss------bug_bounty-5) 
+ - 💯November 1, 2024 - [Hackers Target Critical Zero-Day Vulnerabilities in PTZ Cameras](https://medium.com/@wiretor/hackers-target-critical-zero-day-vulnerabilities-in-ptz-cameras-d2d5023d329d?source=rss------bug_bounty-5) 
 
- - 💯October 31, 2024 - [0-Click ATO Via reset password weird scenario](https://medium.com/@mos693570/0-click-ato-via-reset-password-weird-scenario-9afa4a88e413?source=rss------bug_bounty-5) 
+ - 💯November 1, 2024 - [qBittorrent Security Flaw Fixed After 14 Years Upgrade Now!](https://medium.com/@wiretor/qbittorrent-security-flaw-fixed-after-14-years-upgrade-now-bfa491d214bb?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
