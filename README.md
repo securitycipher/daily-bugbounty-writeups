@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 4, 2024 - [How to Configure Proxies in Browser for Bug-Bounty](https://medium.com/@anandrishav2228/how-to-configure-proxies-in-browser-for-bug-bounty-c175c5513e1a?source=rss------bug_bounty-5) 
+ - 💯November 5, 2024 - [How I Got Paid for an Out-of-Scope Vulnerability](https://medium.com/@abdulparkar/how-i-got-paid-for-an-out-of-scope-vulnerability-4e51eb93db5c?source=rss------bug_bounty-5) 
 
- - 💯November 4, 2024 - [Bypass the Blocked IP address while Pentesting.](https://medium.com/@anandrishav2228/bypass-the-blocked-ip-address-while-pentesting-c4c02a8dc14d?source=rss------bug_bounty-5) 
+ - 💯November 5, 2024 - [Remote Code Execution &lpar;RCE&rpar;: An In-Depth Guide with practical](https://medium.com/@anandrishav2228/remote-code-execution-rce-an-in-depth-guide-with-practical-7082a7e17e97?source=rss------bug_bounty-5) 
 
- - 💯November 4, 2024 - [Cloud flare bypass leads to Account Takeover via Password Reset Poisoning](https://medium.com/@abdulparkar/cloud-flare-bypass-leads-to-account-takeover-via-password-reset-poisoning-ba349d784b97?source=rss------bug_bounty-5) 
+ - 💯November 5, 2024 - [Essential Bug Hunting Tools for Beginners: Start Your Journey in Cybersecurity](https://myselfakash20.medium.com/essential-bug-hunting-tools-for-beginners-start-your-journey-in-cybersecurity-ea51e1f26068?source=rss------bug_bounty-5) 
 
- - 💯November 4, 2024 - [How to Find the Best Resources for Learning Bug Bounty and Cybersecurity |PRO Tip](https://medium.com/@shaikhminhaz1975/how-to-find-the-best-resources-for-learning-bug-bounty-and-cybersecurity-pro-tip-d5e915e82539?source=rss------bug_bounty-5) 
+ - 💯November 4, 2024 - [Columbus Ransomware Attack: Data of 500,000 Stolen](https://medium.com/@wiretor/columbus-ransomware-attack-data-of-500-000-stolen-93076d58689c?source=rss------bug_bounty-5) 
 
- - 💯November 4, 2024 - [Vibe Yo’Tribe](https://medium.com/@onelovemafia/vibe-yotribe-3d8a0c098ee2?source=rss------bug_bounty-5) 
+ - 💯November 4, 2024 - [Unveiling the “Pygmy Goat” Malware: A New Threat in Cybersecurity](https://medium.com/@wiretor/unveiling-the-pygmy-goat-malware-a-new-threat-in-cybersecurity-aaeb360f9497?source=rss------bug_bounty-5) 
 
- - 💯November 4, 2024 - [Panduan “Bug Bounty Programs pada Aplikasi Laravel” berdasarkan kerangka yang telah disusun:](https://medium.com/@_azwar/panduan-bug-bounty-programs-pada-aplikasi-laravel-berdasarkan-kerangka-yang-telah-disusun-7cc3b230397c?source=rss------bug_bounty-5) 
+ - 💯November 4, 2024 - [Meet “Interlock” Ransomware — A New Threat Targeting FreeBSD Servers](https://medium.com/@wiretor/meet-interlock-ransomware-a-new-threat-targeting-freebsd-servers-4be6ba312c62?source=rss------bug_bounty-5) 
 
- - 💯November 4, 2024 - [Easy logic bug that leaks the email for every user](https://medium.com/@banertheinrich/easy-logic-bug-that-leaks-the-email-for-every-user-ef2d9d0cf088?source=rss------bug_bounty-5) 
+ - 💯November 4, 2024 - [Introducing SubdomainRadar.io:](https://medium.com/@alexandrevandammepro/introducing-subdomainradar-io-727d765445f2?source=rss------bug_bounty-5) 
 
- - 💯November 3, 2024 - [Dstat.cc DDoS Site Seized &amp; Two Suspects Arrested in Germany](https://medium.com/@wiretor/dstat-cc-ddos-site-seized-two-suspects-arrested-in-germany-c8d44187b181?source=rss------bug_bounty-5) 
+ - 💯November 4, 2024 - [How I Found HTML Injection?](https://medium.com/@gitlime71/how-i-found-html-injection-bdbbf2861d95?source=rss------bug_bounty-5) 
 
- - 💯November 3, 2024 - [CRA Breach Exposed: Over 62,000 Taxpayer Accounts Compromised!](https://medium.com/@wiretor/cra-breach-exposed-over-62-000-taxpayer-accounts-compromised-62bc0cf3cb9a?source=rss------bug_bounty-5) 
+ - 💯November 4, 2024 - [Essential One-Liner Commands for Bug Bounty Hunters and Pentesters](https://systemweakness.com/essential-one-liner-commands-for-bug-bounty-hunters-and-pentesters-7648ec305c66?source=rss------bug_bounty-5) 
+
+ - 💯November 4, 2024 - [How I Found a €100 Bug at DCU: From “Not Applicable” to Cashing In!](https://medium.com/@trffnsec/how-i-found-a-100-bug-at-dcu-from-not-applicable-to-cashing-in-2e58699a8faa?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
