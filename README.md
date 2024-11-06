@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 5, 2024 - [How I Got Paid for an Out-of-Scope Vulnerability](https://medium.com/@abdulparkar/how-i-got-paid-for-an-out-of-scope-vulnerability-4e51eb93db5c?source=rss------bug_bounty-5) 
+ - 💯November 6, 2024 - [How I Earned $350 Exploiting Clickjacking Vulnerability to Trigger XSS Attack](https://medium.com/@abdulparkar/how-i-earned-350-exploiting-clickjacking-vulnerability-to-trigger-xss-attack-23b3216ca640?source=rss------bug_bounty-5) 
 
- - 💯November 5, 2024 - [Remote Code Execution &lpar;RCE&rpar;: An In-Depth Guide with practical](https://medium.com/@anandrishav2228/remote-code-execution-rce-an-in-depth-guide-with-practical-7082a7e17e97?source=rss------bug_bounty-5) 
+ - 💯November 6, 2024 - [Developers Don’t Care About Security](https://medium.com/@krishanthan2022.4.4/developers-dont-care-about-security-e4814ecc4907?source=rss------bug_bounty-5) 
 
- - 💯November 5, 2024 - [Essential Bug Hunting Tools for Beginners: Start Your Journey in Cybersecurity](https://myselfakash20.medium.com/essential-bug-hunting-tools-for-beginners-start-your-journey-in-cybersecurity-ea51e1f26068?source=rss------bug_bounty-5) 
+ - 💯November 6, 2024 - [Stored HTML Injection to Stored Url Redirection](https://medium.com/@abdullah12987654/stored-html-injection-to-stored-url-redirection-40a1c8452f12?source=rss------bug_bounty-5) 
 
- - 💯November 4, 2024 - [Columbus Ransomware Attack: Data of 500,000 Stolen](https://medium.com/@wiretor/columbus-ransomware-attack-data-of-500-000-stolen-93076d58689c?source=rss------bug_bounty-5) 
+ - 💯November 6, 2024 - [FUZZING That Leads to Internal Source Code!](https://medium.com/@rootplinix/fuzzing-that-leads-to-internal-source-code-ef992143c015?source=rss------bug_bounty-5) 
 
- - 💯November 4, 2024 - [Unveiling the “Pygmy Goat” Malware: A New Threat in Cybersecurity](https://medium.com/@wiretor/unveiling-the-pygmy-goat-malware-a-new-threat-in-cybersecurity-aaeb360f9497?source=rss------bug_bounty-5) 
+ - 💯November 6, 2024 - [OAuth Under Siege: The Dangers of Account Impersonation](https://medium.com/@ProwlSec/oauth-under-siege-the-dangers-of-account-impersonation-df0e780f1c4f?source=rss------bug_bounty-5) 
 
- - 💯November 4, 2024 - [Meet “Interlock” Ransomware — A New Threat Targeting FreeBSD Servers](https://medium.com/@wiretor/meet-interlock-ransomware-a-new-threat-targeting-freebsd-servers-4be6ba312c62?source=rss------bug_bounty-5) 
+ - 💯November 5, 2024 - [55 YouTube Channels to Learn HACKING!!!!!](https://osintteam.blog/55-youtube-channels-to-learn-hacking-b5167d3125d9?source=rss------bug_bounty-5) 
 
- - 💯November 4, 2024 - [Introducing SubdomainRadar.io:](https://medium.com/@alexandrevandammepro/introducing-subdomainradar-io-727d765445f2?source=rss------bug_bounty-5) 
+ - 💯November 5, 2024 - [How I found my first bug!](https://medium.com/@karim.engmohamed/how-i-found-my-first-bug-b1f21046deb7?source=rss------bug_bounty-5) 
 
- - 💯November 4, 2024 - [How I Found HTML Injection?](https://medium.com/@gitlime71/how-i-found-html-injection-bdbbf2861d95?source=rss------bug_bounty-5) 
+ - 💯November 5, 2024 - [Unleashing the Bug Hunter Within: A Curated Toolkit and Proven Process](https://pwndecoco.medium.com/unleashing-the-bug-hunter-within-a-curated-toolkit-and-proven-process-fb2f89c7f1f0?source=rss------bug_bounty-5) 
 
- - 💯November 4, 2024 - [Essential One-Liner Commands for Bug Bounty Hunters and Pentesters](https://systemweakness.com/essential-one-liner-commands-for-bug-bounty-hunters-and-pentesters-7648ec305c66?source=rss------bug_bounty-5) 
+ - 💯November 5, 2024 - [Google Fixes Dangerous Android Exploits](https://medium.com/@wiretor/google-fixes-dangerous-android-exploits-6e6be3465e6c?source=rss------bug_bounty-5) 
 
- - 💯November 4, 2024 - [How I Found a €100 Bug at DCU: From “Not Applicable” to Cashing In!](https://medium.com/@trffnsec/how-i-found-a-100-bug-at-dcu-from-not-applicable-to-cashing-in-2e58699a8faa?source=rss------bug_bounty-5) 
+ - 💯November 5, 2024 - [Tips to Avoid Duplicates or N/A Reports in Bug Bounty Programs](https://bitpanic.medium.com/tips-to-avoid-duplicates-or-n-a-reports-in-bug-bounty-programs-a067a4e54d5e?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
