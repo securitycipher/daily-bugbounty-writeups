@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 7, 2024 - [Google Dorking in Bug Hunting: Uncovering Hidden Vulnerabilities](https://myselfakash20.medium.com/google-dorking-in-bug-hunting-uncovering-hidden-vulnerabilities-aebe773f73be?source=rss------bug_bounty-5) 
+ - 💯November 8, 2024 - [Metasploit Guide :- Main weapon of Hackers](https://medium.com/@anandrishav2228/metasploit-guide-main-weapon-of-hackers-a791e72df686?source=rss------bug_bounty-5) 
 
- - 💯November 6, 2024 - [Behind the Scenes: How I Hacked one of the largest Amusement Park in the Philippines.](https://medium.com/hacking101/behind-the-scenes-how-i-hacked-one-of-the-largest-amusement-park-in-the-philippines-be38566ed563?source=rss------bug_bounty-5) 
+ - 💯November 8, 2024 - [Advanced Google Dorking Techniques for Bug Bounty Hunting: Finding Responsible Disclosure Programs…](https://dineshpathro9.medium.com/advanced-google-dorking-techniques-for-bug-bounty-hunting-finding-responsible-disclosure-programs-5a00a0d9d0e9?source=rss------bug_bounty-5) 
 
- - 💯November 6, 2024 - [⚠️ Cyberattack Causes Statewide Outage in Washington Courts](https://medium.com/@wiretor/%EF%B8%8F-cyberattack-causes-statewide-outage-in-washington-courts-cb9bcd6264a4?source=rss------bug_bounty-5) 
+ - 💯November 8, 2024 - [Fast Setup Mobile Apps Pentest With Burpsuite And memu](https://zucki.medium.com/fast-setup-mobile-apps-pentest-with-burpsuite-and-memu-567d661b6bb9?source=rss------bug_bounty-5) 
 
- - 💯November 6, 2024 - [Nokia Breached by IntelBroker: Source Code Allegedly Stolen](https://medium.com/@wiretor/nokia-breached-by-intelbroker-source-code-allegedly-stolen-a1fa5b62a10a?source=rss------bug_bounty-5) 
+ - 💯November 8, 2024 - [Why is recon so very important? API key exposure by only recon](https://medium.com/@karim.engmohamed/why-is-recon-so-very-important-api-key-exposure-by-only-recon-f8aff4ab1ac3?source=rss------bug_bounty-5) 
 
- - 💯November 6, 2024 - [INTERPOL Disrupts Over 22,000 Malicious Servers in Global Crackdown on Cybercrime](https://medium.com/@wiretor/interpol-disrupts-over-22-000-malicious-servers-in-global-crackdown-on-cybercrime-9f4e2840dc6e?source=rss------bug_bounty-5) 
+ - 💯November 7, 2024 - [Understanding Broken Access Control &lpar;BAC&rpar;: A Comprehensive Guide](https://thexssrat.medium.com/understanding-broken-access-control-bac-a-comprehensive-guide-c0e325c43b04?source=rss------bug_bounty-5) 
 
- - 💯November 6, 2024 - [Microchip Technology Reports $21.4 Million Loss From Ransomware Attack](https://medium.com/@wiretor/microchip-technology-reports-21-4-million-loss-from-ransomware-attack-a123d2609b91?source=rss------bug_bounty-5) 
+ - 💯November 7, 2024 - [Uygulamalarla XSS’e Gerçekçi Bir Yaklaşım](https://medium.com/@sgzldmrc/uygulamalarla-xsse-ger%C3%A7ek%C3%A7i-bir-yakla%C5%9F%C4%B1m-a3e82ae0be3a?source=rss------bug_bounty-5) 
 
- - 💯November 6, 2024 - [Bypassing Promo Code Validation via Response Manipulation Enabled the Creation of a Business…](https://anas0x1.medium.com/bypassing-promo-code-validation-via-response-manipulation-enabled-the-creation-of-a-business-3f926b19c0bb?source=rss------bug_bounty-5) 
+ - 💯November 7, 2024 - [OAuth Misconfiguration Pre-Account Takeover](https://medium.com/h7w/oauth-misconfiguration-pre-account-takeover-535beb8d1987?source=rss------bug_bounty-5) 
 
- - 💯November 6, 2024 - [IDOR Vulnerability Allowed the Deletion of Any User from an Administrator Account.](https://anas0x1.medium.com/idor-vulnerability-allowed-the-deletion-of-any-user-from-an-administrator-account-da64e79ce1b0?source=rss------bug_bounty-5) 
+ - 💯November 7, 2024 - [China-Aligned MirrorFace Hackers Target EU Diplomats with World Expo 2025 Bait](https://medium.com/@wiretor/china-aligned-mirrorface-hackers-target-eu-diplomats-with-world-expo-2025-bait-a289ad3ec600?source=rss------bug_bounty-5) 
 
- - 💯November 6, 2024 - [An IDOR and Auth Bypass That Led to Mass Account Takeover — KSFE](https://1-day.medium.com/an-idor-and-auth-bypass-that-led-to-mass-account-takeover-ksfe-db04cec8d730?source=rss------bug_bounty-5) 
+ - 💯November 7, 2024 - [How To Automate Your Broad Scope Recon](https://thexssrat.medium.com/how-to-automate-your-broad-scope-recon-a4ff998dea0e?source=rss------bug_bounty-5) 
 
- - 💯November 6, 2024 - [Most Commonly Used Tools in Bug Bounty](https://medium.com/@halildeniz313/most-commonly-used-tools-in-bug-bounty-4603382ecee3?source=rss------bug_bounty-5) 
+ - 💯November 7, 2024 - [Canada Orders TikTok to Close Canadian Operations Amid Growing Security Concerns](https://medium.com/@wiretor/canada-orders-tiktok-to-close-canadian-operations-amid-growing-security-concerns-45b40c461986?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
