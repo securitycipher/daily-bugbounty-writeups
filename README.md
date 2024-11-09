@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 8, 2024 - [Metasploit Guide :- Main weapon of Hackers](https://medium.com/@anandrishav2228/metasploit-guide-main-weapon-of-hackers-a791e72df686?source=rss------bug_bounty-5) 
+ - 💯November 9, 2024 - [Analyzing JavaScript Files for Retrieving Admin Credentials](https://medium.com/@abdullah12987654/analyzing-javascript-files-for-retrieving-admin-credentials-0c6f25ff507a?source=rss------bug_bounty-5) 
 
- - 💯November 8, 2024 - [Advanced Google Dorking Techniques for Bug Bounty Hunting: Finding Responsible Disclosure Programs…](https://dineshpathro9.medium.com/advanced-google-dorking-techniques-for-bug-bounty-hunting-finding-responsible-disclosure-programs-5a00a0d9d0e9?source=rss------bug_bounty-5) 
+ - 💯November 9, 2024 - [IDOR and Excessive Data Exposure in Mobile Application — The Tale of an IDOR # 02](https://medium.com/@abdullah12987654/idor-and-excessive-data-exposure-in-mobile-application-9bab953ea2b6?source=rss------bug_bounty-5) 
 
- - 💯November 8, 2024 - [Fast Setup Mobile Apps Pentest With Burpsuite And memu](https://zucki.medium.com/fast-setup-mobile-apps-pentest-with-burpsuite-and-memu-567d661b6bb9?source=rss------bug_bounty-5) 
+ - 💯November 9, 2024 - [BugBounty — Mastering the Basics &lpar;along with Resources&rpar;[Part-3]](https://medium.com/@iabhipathak/bugbounty-mastering-the-basics-along-with-resources-part-3-1619f6854e20?source=rss------bug_bounty-5) 
 
- - 💯November 8, 2024 - [Why is recon so very important? API key exposure by only recon](https://medium.com/@karim.engmohamed/why-is-recon-so-very-important-api-key-exposure-by-only-recon-f8aff4ab1ac3?source=rss------bug_bounty-5) 
+ - 💯November 8, 2024 - [Top Search Engines for Pentesters](https://osintteam.blog/top-search-engines-for-pentesters-6fa90ffb6aa0?source=rss------bug_bounty-5) 
 
- - 💯November 7, 2024 - [Understanding Broken Access Control &lpar;BAC&rpar;: A Comprehensive Guide](https://thexssrat.medium.com/understanding-broken-access-control-bac-a-comprehensive-guide-c0e325c43b04?source=rss------bug_bounty-5) 
+ - 💯November 8, 2024 - [Unpatched Vulnerabilities in Mazda Infotainment Systems Pose Serious Security Risks](https://medium.com/@wiretor/unpatched-vulnerabilities-in-mazda-infotainment-systems-pose-serious-security-risks-b634ae8883d8?source=rss------bug_bounty-5) 
 
- - 💯November 7, 2024 - [Uygulamalarla XSS’e Gerçekçi Bir Yaklaşım](https://medium.com/@sgzldmrc/uygulamalarla-xsse-ger%C3%A7ek%C3%A7i-bir-yakla%C5%9F%C4%B1m-a3e82ae0be3a?source=rss------bug_bounty-5) 
+ - 💯November 8, 2024 - [Texas Oilfield Supplier Newpark Resources Hit by Ransomware Attack](https://medium.com/@wiretor/texas-oilfield-supplier-newpark-resources-hit-by-ransomware-attack-fc374aa6b8dc?source=rss------bug_bounty-5) 
 
- - 💯November 7, 2024 - [OAuth Misconfiguration Pre-Account Takeover](https://medium.com/h7w/oauth-misconfiguration-pre-account-takeover-535beb8d1987?source=rss------bug_bounty-5) 
+ - 💯November 8, 2024 - [Malwarebytes Acquires AzireVPN to Enhance Privacy and Security Offerings](https://medium.com/@wiretor/malwarebytes-acquires-azirevpn-to-enhance-privacy-and-security-offerings-194b3bf42554?source=rss------bug_bounty-5) 
 
- - 💯November 7, 2024 - [China-Aligned MirrorFace Hackers Target EU Diplomats with World Expo 2025 Bait](https://medium.com/@wiretor/china-aligned-mirrorface-hackers-target-eu-diplomats-with-world-expo-2025-bait-a289ad3ec600?source=rss------bug_bounty-5) 
+ - 💯November 8, 2024 - [Hackers Leveraging Winos4.0: A Growing Threat in Post-Exploitation Attacks](https://medium.com/@wiretor/hackers-leveraging-winos4-0-a-growing-threat-in-post-exploitation-attacks-e830dac3766b?source=rss------bug_bounty-5) 
 
- - 💯November 7, 2024 - [How To Automate Your Broad Scope Recon](https://thexssrat.medium.com/how-to-automate-your-broad-scope-recon-a4ff998dea0e?source=rss------bug_bounty-5) 
+ - 💯November 8, 2024 - [A Comprehensive Toolkit for Web Penetration Testing and Bug Hunting](https://dineshpathro9.medium.com/a-comprehensive-toolkit-for-web-penetration-testing-and-bug-hunting-21a7b01d722f?source=rss------bug_bounty-5) 
 
- - 💯November 7, 2024 - [Canada Orders TikTok to Close Canadian Operations Amid Growing Security Concerns](https://medium.com/@wiretor/canada-orders-tiktok-to-close-canadian-operations-amid-growing-security-concerns-45b40c461986?source=rss------bug_bounty-5) 
+ - 💯November 8, 2024 - [Web App Fingerprinting in 9 Steps](https://bitpanic.medium.com/web-app-fingerprinting-in-9-steps-5b86615b56f7?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
