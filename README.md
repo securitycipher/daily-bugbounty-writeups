@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 10, 2024 - [Addressing OWASP Top 10 Vulnerabilities: Why You Need Wire Tor’s Pentesting Services](https://medium.com/@wiretor/addressing-owasp-top-10-vulnerabilities-why-you-need-wire-tors-pentesting-services-5d2f374c3f22?source=rss------bug_bounty-5) 
+ - 💯November 11, 2024 - [How I Found an HTML Injection in Email Vulnerability on Samsung, Leading to a $$ Payday](https://cybersecuritywriteups.com/how-an-html-injection-vulnerability-in-samsung-emails-led-to-a-payday-3dcfccc12a36?source=rss------bug_bounty-5) 
 
- - 💯November 10, 2024 - [How I Found a Critical 9.8 Bug — Directory Listing leads to Critical P1 Exposure of PII and more](https://medium.com/@enigma_/how-i-found-a-critical-9-8-9c4d14d82e20?source=rss------bug_bounty-5) 
+ - 💯November 11, 2024 - [[2024 Thanksgiving] Security Technology Research Writing Activity](https://medium.com/@security.tecno/2024-thanksgiving-security-technology-research-writing-activity-325e4b0fd9c8?source=rss------bug_bounty-5) 
 
- - 💯November 9, 2024 - [RCE by finding secret hidden files via Encryption and hashing](https://medium.com/@karim.engmohamed/%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D8%B9%D9%84%D9%8A%D9%83%D9%85-e37717c23cfd?source=rss------bug_bounty-5) 
+ - 💯November 11, 2024 - [Hacking Active Directory and Earn upto $30,000.](https://medium.com/@anandrishav2228/hacking-active-directory-and-earn-upto-30-000-9561858a3c8f?source=rss------bug_bounty-5) 
 
- - 💯November 9, 2024 - [My Obsidian Setup](https://cybersechemmars.medium.com/my-obsidian-setup-b3e96516feaa?source=rss------bug_bounty-5) 
+ - 💯November 11, 2024 - [Extract full photos/videos database from any locked Google Pixel phone](https://medium.com/@rus1r105/extract-full-photos-videos-database-from-any-locked-google-pixel-phone-be6da35ad93d?source=rss------bug_bounty-5) 
 
- - 💯November 9, 2024 - [Broken Authentication: Full Methodology for Identifying and Exploiting Vulnerabilities](https://dineshpathro9.medium.com/broken-authentication-full-methodology-for-identifying-and-exploiting-vulnerabilities-63a55c3d4399?source=rss------bug_bounty-5) 
+ - 💯November 10, 2024 - [30 Books To Learn H@acking](https://osintteam.blog/30-books-to-learn-h-acking-2911c57f148c?source=rss------bug_bounty-5) 
 
- - 💯November 9, 2024 - [Advanced Techniques for CSRF &lpar;Cross-Site Request Forgery&rpar; Attacks: A Full Methodology Guide](https://dineshpathro9.medium.com/advanced-techniques-for-csrf-cross-site-request-forgery-attacks-a-full-methodology-guide-8db29faecc01?source=rss------bug_bounty-5) 
+ - 💯November 10, 2024 - [Hackers Evade Detection with New ZIP File Concatenation Technique!](https://medium.com/@wiretor/hackers-evade-detection-with-new-zip-file-concatenation-technique-3bd29544f96e?source=rss------bug_bounty-5) 
 
- - 💯November 9, 2024 - [CVE-2023–27350 : PaperCut Tryhackme Write up](https://jawstar.medium.com/cve-2023-27350-papercut-tryhackme-write-up-2237fe48d3a7?source=rss------bug_bounty-5) 
+ - 💯November 10, 2024 - [Ethical Hacking — How It Helps Prevent Cyber Attacks](https://medium.com/@RocketMeUpCybersecurity/ethical-hacking-how-it-helps-prevent-cyber-attacks-41d3d791c7c9?source=rss------bug_bounty-5) 
 
- - 💯November 9, 2024 - [Escalating RXSS with HttpOnly SameSite Session Cookies](https://medium.com/@dhakatedeep909/escalating-rxss-with-httponly-samesite-session-cookies-a1ba3b9e50c1?source=rss------bug_bounty-5) 
+ - 💯November 10, 2024 - [Possible subdomain takeovers gives me 1000 dollars](https://medium.com/lucky-vulnerabilities/possible-subdomain-takeovers-gives-me-1000-dollars-9f3ad682ddce?source=rss------bug_bounty-5) 
 
- - 💯November 9, 2024 - [Predicting Cyber Threats: Can We Use Threat Intelligence to Forecast Attacks Like Weather?](https://medium.com/@paritoshblogs/predicting-cyber-threats-can-we-use-threat-intelligence-to-forecast-attacks-like-weather-4f57175b25ec?source=rss------bug_bounty-5) 
+ - 💯November 10, 2024 - [HackTheBox: Information Gathering](https://pad1ryoshi.medium.com/hackthebox-information-gathering-7af3526f13f5?source=rss------bug_bounty-5) 
 
- - 💯November 9, 2024 - [Critical Vulnerabilities in Aruba Access Points: What You Need to Know!](https://medium.com/@wiretor/critical-vulnerabilities-in-aruba-access-points-what-you-need-to-know-7053d6349bf1?source=rss------bug_bounty-5) 
+ - 💯November 10, 2024 - [Understanding Common Windows Commands and How Threat Actors Use Them:](https://medium.com/@wtrentond/understanding-common-windows-commands-and-how-threat-actors-use-them-34298408e163?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
