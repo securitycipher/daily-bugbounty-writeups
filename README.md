@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 11, 2024 - [How I Found an HTML Injection in Email Vulnerability on Samsung, Leading to a $$ Payday](https://cybersecuritywriteups.com/how-an-html-injection-vulnerability-in-samsung-emails-led-to-a-payday-3dcfccc12a36?source=rss------bug_bounty-5) 
+ - 💯November 12, 2024 - [Become a Writer for Cybersecurity Write-ups!](https://cybersecuritywriteups.com/become-a-writer-for-cybersecurity-write-ups-3f1e780323a8?source=rss------bug_bounty-5) 
 
- - 💯November 11, 2024 - [[2024 Thanksgiving] Security Technology Research Writing Activity](https://medium.com/@security.tecno/2024-thanksgiving-security-technology-research-writing-activity-325e4b0fd9c8?source=rss------bug_bounty-5) 
+ - 💯November 12, 2024 - [Showing Impact is Your friend &lpar;500$+500$ bounties&rpar;](https://medium.com/@noureldin1042/showing-impact-is-your-friend-500-500-bounties-2ed87f3a64b7?source=rss------bug_bounty-5) 
 
- - 💯November 11, 2024 - [Hacking Active Directory and Earn upto $30,000.](https://medium.com/@anandrishav2228/hacking-active-directory-and-earn-upto-30-000-9561858a3c8f?source=rss------bug_bounty-5) 
+ - 💯November 12, 2024 - [Mastering Reconnaissance Part 2: Advanced Scanning, Content Discovery, and Automation for Bug…](https://myselfakash20.medium.com/mastering-reconnaissance-part-2-advanced-scanning-content-discovery-and-automation-for-bug-8903a7c190a6?source=rss------bug_bounty-5) 
 
- - 💯November 11, 2024 - [Extract full photos/videos database from any locked Google Pixel phone](https://medium.com/@rus1r105/extract-full-photos-videos-database-from-any-locked-google-pixel-phone-be6da35ad93d?source=rss------bug_bounty-5) 
+ - 💯November 12, 2024 - [Your Guide to Web Reconnaissance: Mastering the Art of Information Gathering](https://medium.com/@secinfinitylabs/your-guide-to-web-reconnaissance-mastering-the-art-of-information-gathering-32dfee5f2deb?source=rss------bug_bounty-5) 
 
- - 💯November 10, 2024 - [30 Books To Learn H@acking](https://osintteam.blog/30-books-to-learn-h-acking-2911c57f148c?source=rss------bug_bounty-5) 
+ - 💯November 12, 2024 - [Top 10 Threat Actors of 2024](https://medium.com/@alexandermr289/top-10-threat-actors-of-2024-4ac605357291?source=rss------bug_bounty-5) 
 
- - 💯November 10, 2024 - [Hackers Evade Detection with New ZIP File Concatenation Technique!](https://medium.com/@wiretor/hackers-evade-detection-with-new-zip-file-concatenation-technique-3bd29544f96e?source=rss------bug_bounty-5) 
+ - 💯November 12, 2024 - [clickjacking: definição, impactos, mecanismo e prevenção](https://medium.com/@Poystick/clickjacking-defini%C3%A7%C3%A3o-impactos-mecanismo-e-preven%C3%A7%C3%A3o-46e05a89614b?source=rss------bug_bounty-5) 
 
- - 💯November 10, 2024 - [Ethical Hacking — How It Helps Prevent Cyber Attacks](https://medium.com/@RocketMeUpCybersecurity/ethical-hacking-how-it-helps-prevent-cyber-attacks-41d3d791c7c9?source=rss------bug_bounty-5) 
+ - 💯November 11, 2024 - [Server-Side Template Injection in an Unknown Language with a Documented Exploit — SSTI…](https://medium.com/@rcxsecurity/server-side-template-injection-in-an-unknown-language-with-a-documented-exploit-ssti-de01a069b946?source=rss------bug_bounty-5) 
 
- - 💯November 10, 2024 - [Possible subdomain takeovers gives me 1000 dollars](https://medium.com/lucky-vulnerabilities/possible-subdomain-takeovers-gives-me-1000-dollars-9f3ad682ddce?source=rss------bug_bounty-5) 
+ - 💯November 11, 2024 - [P4 bug’s and their POC steps | Part 7 | $Easy Money$](https://medium.com/h7w/p4-bugs-and-their-poc-steps-part-7-easy-money-d7cb9270f539?source=rss------bug_bounty-5) 
 
- - 💯November 10, 2024 - [HackTheBox: Information Gathering](https://pad1ryoshi.medium.com/hackthebox-information-gathering-7af3526f13f5?source=rss------bug_bounty-5) 
-
- - 💯November 10, 2024 - [Understanding Common Windows Commands and How Threat Actors Use Them:](https://medium.com/@wtrentond/understanding-common-windows-commands-and-how-threat-actors-use-them-34298408e163?source=rss------bug_bounty-5) 
+ - 💯November 11, 2024 - [Exposing the Dark Side of Google Dorks: How I Extracted Millions of Emails.](https://pwndecoco.medium.com/exposing-the-dark-side-of-google-dorks-how-i-extracted-millions-of-emails-0fe0f7f6db8b?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
