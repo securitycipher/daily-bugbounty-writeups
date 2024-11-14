@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 13, 2024 - [Introducing Loxs: The Ultimate Multi-Vulnerability Scanner for Web Applications](https://anishalx.medium.com/introducing-loxs-the-ultimate-multi-vulnerability-scanner-for-web-applications-907ed2b2004b?source=rss------bug_bounty-5) 
+ - 💯November 14, 2024 - [Critical File Upload Vulnerabilities: Exploits and Mitigation Strategies](https://medium.com/@security.tecno/critical-file-upload-vulnerabilities-exploits-and-mitigation-strategies-90230e8a31bf?source=rss------bug_bounty-5) 
 
- - 💯November 13, 2024 - [Breaking In with Guest: My First Bug Bounty](https://ghostman01.medium.com/guest-admin-a7c70aa10ddb?source=rss------bug_bounty-5) 
+ - 💯November 14, 2024 - [Is HackerOne Support Service Degrading?](https://medium.com/@abdulparkar/is-hackerone-support-service-degrading-cbfa6adc1027?source=rss------bug_bounty-5) 
 
- - 💯November 13, 2024 - [Exploiting SSTI Vulnerability on an E-commerce Website: A Professional Walkthrough](https://medium.com/@MianHammadx0root/exploiting-ssti-vulnerability-on-an-e-commerce-website-a-professional-walkthrough-6cc95afb2b38?source=rss------bug_bounty-5) 
+ - 💯November 14, 2024 - [ISRO: YouTube Broken Link Hijack](https://infosecwriteups.com/isro-youtube-broken-link-hijack-304a92001b47?source=rss------bug_bounty-5) 
 
- - 💯November 13, 2024 - [How I Found an SQL Injection in coupon code](https://medium.com/@gheeX/how-i-found-an-sql-injection-in-coupon-code-f31d6eb1a720?source=rss------bug_bounty-5) 
+ - 💯November 14, 2024 - [Helpful Resources for Bug Hunters](https://medium.com/meetcyber/helpful-resources-for-bug-hunters-53dbe011cdd4?source=rss------bug_bounty-5) 
 
- - 💯November 12, 2024 - [Finding more infromation about a email using a osint tool.](https://osintteam.blog/finding-more-infromation-about-a-email-using-a-osint-tool-d557a0579414?source=rss------bug_bounty-5) 
+ - 💯November 14, 2024 - [How i hacked NASA &lpar;WARNING: Dad Jokes&rpar;](https://medium.com/@rootplinix/how-i-hacked-nasa-warning-dad-jokes-7424faec5790?source=rss------bug_bounty-5) 
 
- - 💯November 12, 2024 - [️‍♂️Recon For New Bug bounty Hunters — Short Story](https://sud-defcon.medium.com/%EF%B8%8F-%EF%B8%8Frecon-for-new-bug-bounty-hunters-short-story-2992e780fbbb?source=rss------bug_bounty-5) 
+ - 💯November 14, 2024 - [Finding Security Design Flaw in a FAANG to later be ghosted by Recruiter: A funny Tale](https://medium.com/bug-bounty-hunting/finding-security-design-flaw-in-a-faang-to-later-be-ghosted-by-recruiter-a-funny-tale-73e73fb0d6aa?source=rss------bug_bounty-5) 
 
- - 💯November 12, 2024 - [Hacking Knowledge Around The Corner. From Where To Learn Hacking Skills?](https://medium.com/meetcyber/hacking-knowledge-around-the-corner-c2a48214d052?source=rss------bug_bounty-5) 
+ - 💯November 14, 2024 - [2 good tools for subdomain enumration.](https://osintteam.blog/2-good-tools-for-subdomain-enumration-ca3ee36fbf81?source=rss------bug_bounty-5) 
 
- - 💯November 12, 2024 - [Volt Typhoon Botnet Rebuilds After FBI Crackdown](https://medium.com/@wiretor/volt-typhoon-botnet-rebuilds-after-fbi-crackdown-e23a74459ff6?source=rss------bug_bounty-5) 
+ - 💯November 13, 2024 - [5 Golden Tips to Land Your First Job in Offensive Security](https://medium.com/@eran25670/5-golden-tips-to-land-your-first-job-in-offensive-security-e960b4215dc7?source=rss------bug_bounty-5) 
 
- - 💯November 12, 2024 - [North Korean Hackers Use Flutter Apps to Evade macOS Security](https://medium.com/@wiretor/north-korean-hackers-use-flutter-apps-to-evade-macos-security-e22221dd9696?source=rss------bug_bounty-5) 
+ - 💯November 13, 2024 - [Easy Bug: How I Uncovered and Re-Exploited a Resolved Vulnerability from a Disclosed Report](https://medium.com/@cvjvqmmsm/easy-bug-how-i-uncovered-and-re-exploited-a-resolved-vulnerability-from-a-disclosed-report-ab2211a98b7b?source=rss------bug_bounty-5) 
 
- - 💯November 12, 2024 - [Massive Data Breach Affects Millions of Hot Topic Customers](https://medium.com/@wiretor/massive-data-breach-affects-millions-of-hot-topic-customers-b03fe562e0f7?source=rss------bug_bounty-5) 
+ - 💯November 13, 2024 - [Common Mistakes in Coding: How to Avoid Them](https://medium.com/@kharodawalam/common-mistakes-in-coding-how-to-avoid-them-9e5c881b0473?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
