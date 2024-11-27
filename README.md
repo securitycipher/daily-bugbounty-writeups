@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 25, 2024 - [here is how I got my first bounty $$](https://medium.com/@mohanad9837/here-is-how-i-got-my-first-bounty-78c18da7feeb?source=rss------bug_bounty-5) 
+ - 💯November 27, 2024 - [The P2 Bug You Could Miss Without Reading the Documentation](https://mokhansec.medium.com/the-p2-bug-you-could-miss-without-reading-the-documentation-b0eacc3b7587?source=rss------bug_bounty-5) 
 
- - 💯November 25, 2024 - [Google dorking the right way.](https://osintteam.blog/google-dorking-the-right-way-27b0eeb31212?source=rss------bug_bounty-5) 
+ - 💯November 27, 2024 - [Private IP Disclosure in Bug Bounty Programs: Understanding the Risk and Reward](https://medium.com/@shamzen96/private-ip-disclosure-in-bug-bounty-programs-understanding-the-risk-and-reward-6441aa866db0?source=rss------bug_bounty-5) 
 
- - 💯November 25, 2024 - [Microlise Data Breach Confirmed: SafePay Ransomware Group Claims Responsibility ️](https://medium.com/@wiretor/microlise-data-breach-confirmed-safepay-ransomware-group-claims-responsibility-%EF%B8%8F-035e36e25afc?source=rss------bug_bounty-5) 
+ - 💯November 26, 2024 - [How I Hacked NASA](https://vikram1337.medium.com/how-i-hacked-nasa-74f4ada6e90c?source=rss------bug_bounty-5) 
 
- - 💯November 25, 2024 - [Bangkok Busts High-Tech SMS Scam Operation](https://medium.com/@wiretor/bangkok-busts-high-tech-sms-scam-operation-e13909a2625f?source=rss------bug_bounty-5) 
+ - 💯November 26, 2024 - [IBM Fixes RCE Vulnerabilities in Data Virtualization Manager and Security SOAR](https://medium.com/@wiretor/ibm-fixes-rce-vulnerabilities-in-data-virtualization-manager-and-security-soar-dfbc178710f5?source=rss------bug_bounty-5) 
 
- - 💯November 25, 2024 - [Finastra Data Breach: What Financial Institutions Need to Know ️](https://medium.com/@wiretor/finastra-data-breach-what-financial-institutions-need-to-know-%EF%B8%8F-df9e960c90c7?source=rss------bug_bounty-5) 
+ - 💯November 26, 2024 - [Firefox and Windows Zero-Days Exploited by Russian RomCom Hackers: A Cybersecurity Wake-Up Call!](https://medium.com/@wiretor/firefox-and-windows-zero-days-exploited-by-russian-romcom-hackers-a-cybersecurity-wake-up-call-a8029dacd27b?source=rss------bug_bounty-5) 
 
- - 💯November 25, 2024 - [SSRF To Internal Data Access Via PDF Print Feature](https://bishal0x01.medium.com/ssrf-to-internal-data-access-via-pdf-print-feature-b8e6a912844a?source=rss------bug_bounty-5) 
+ - 💯November 26, 2024 - [Critical Vulnerabilities Discovered in Popular Anti-Spam Plugin for WordPress ️](https://medium.com/@wiretor/critical-vulnerabilities-discovered-in-popular-anti-spam-plugin-for-wordpress-%EF%B8%8F-353b3a727d7e?source=rss------bug_bounty-5) 
 
- - 💯November 25, 2024 - [Bug Bounty Tips and Tricks](https://bevijaygupta.medium.com/bug-bounty-tips-and-tricks-7b25317c8e7e?source=rss------bug_bounty-5) 
+ - 💯November 26, 2024 - [Bugbounty Hunting: The First Step After Finding Your Target](https://dineshpathro9.medium.com/bugbounty-hunting-the-first-step-after-finding-your-target-998267eeeb28?source=rss------bug_bounty-5) 
 
- - 💯November 25, 2024 - [HOW I FOUND MY FIRST XSS BUG](https://medium.com/@Zeroo_sec/how-i-found-my-first-xss-bug-553225548d29?source=rss------bug_bounty-5) 
+ - 💯November 26, 2024 - [Challenges and Pitfalls of Automating Bug Bounty Submissions with AI](https://pointlessai.medium.com/challenges-and-pitfalls-of-automating-bug-bounty-submissions-with-ai-adb06ab0d2c6?source=rss------bug_bounty-5) 
 
- - 💯November 25, 2024 - [Google Dorks for Bug Bounty: The Ultimate Guide](https://systemweakness.com/google-dorks-for-bug-bounty-the-ultimate-guide-e7611b533aee?source=rss------bug_bounty-5) 
+ - 💯November 26, 2024 - [Find Website Vulnerabilities with One Hacking Tool](https://blog.cubed.run/find-website-vulnerabilities-with-one-hacking-tool-0008a908c6fd?source=rss------bug_bounty-5) 
 
- - 💯November 25, 2024 - [Privilege Escalation in Collaborative Platforms — BugBounty](https://medium.com/@Zero-Ray/privilege-escalation-in-collaborative-platforms-bugbounty-e1e240384b43?source=rss------bug_bounty-5) 
+ - 💯November 26, 2024 - [VOIP Penetration Testing Checklist](https://infosecwriteups.com/voip-penetration-testing-checklist-890bb4e09bac?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
