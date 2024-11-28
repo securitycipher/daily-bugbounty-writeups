@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 27, 2024 - [The P2 Bug You Could Miss Without Reading the Documentation](https://mokhansec.medium.com/the-p2-bug-you-could-miss-without-reading-the-documentation-b0eacc3b7587?source=rss------bug_bounty-5) 
+ - 💯November 28, 2024 - [Finding Low-Hanging Bugs: A Practical Guide with Commands](https://medium.com/@ayansheikh45689/finding-low-hanging-bugs-a-practical-guide-with-commands-d6fb9159857d?source=rss------bug_bounty-5) 
 
- - 💯November 27, 2024 - [Private IP Disclosure in Bug Bounty Programs: Understanding the Risk and Reward](https://medium.com/@shamzen96/private-ip-disclosure-in-bug-bounty-programs-understanding-the-risk-and-reward-6441aa866db0?source=rss------bug_bounty-5) 
+ - 💯November 28, 2024 - [30 Best Hacking Prompts](https://medium.com/@TahirAyoub/30-best-hacking-prompts-0c10ee61edf4?source=rss------bug_bounty-5) 
 
- - 💯November 26, 2024 - [How I Hacked NASA](https://vikram1337.medium.com/how-i-hacked-nasa-74f4ada6e90c?source=rss------bug_bounty-5) 
+ - 💯November 28, 2024 - [The More Confident You Are About Your Testing, The Bigger the Bug You Missed](https://manishsaini74.medium.com/the-more-confident-you-are-about-your-testing-the-bigger-the-bug-you-missed-189fe169c005?source=rss------bug_bounty-5) 
 
- - 💯November 26, 2024 - [IBM Fixes RCE Vulnerabilities in Data Virtualization Manager and Security SOAR](https://medium.com/@wiretor/ibm-fixes-rce-vulnerabilities-in-data-virtualization-manager-and-security-soar-dfbc178710f5?source=rss------bug_bounty-5) 
+ - 💯November 28, 2024 - [8 Shocking Ways to Protect Your Identity Online](https://medium.com/@paritoshblogs/8-shocking-ways-to-protect-your-identity-online-fe13ad3b92e1?source=rss------bug_bounty-5) 
 
- - 💯November 26, 2024 - [Firefox and Windows Zero-Days Exploited by Russian RomCom Hackers: A Cybersecurity Wake-Up Call!](https://medium.com/@wiretor/firefox-and-windows-zero-days-exploited-by-russian-romcom-hackers-a-cybersecurity-wake-up-call-a8029dacd27b?source=rss------bug_bounty-5) 
+ - 💯November 28, 2024 - [Website’s for fake mobile numbers and sms services.](https://osintteam.blog/websites-for-fake-mobile-numbers-and-sms-services-9057442ef82b?source=rss------bug_bounty-5) 
 
- - 💯November 26, 2024 - [Critical Vulnerabilities Discovered in Popular Anti-Spam Plugin for WordPress ️](https://medium.com/@wiretor/critical-vulnerabilities-discovered-in-popular-anti-spam-plugin-for-wordpress-%EF%B8%8F-353b3a727d7e?source=rss------bug_bounty-5) 
+ - 💯November 27, 2024 - [JS Review and Abuse GraphQL Result 10xBAC + Admin Panel ATO](https://medium.com/@0xbugatti/js-review-and-abuse-graphql-result-10xbac-admin-panel-ato-0f013fe471ea?source=rss------bug_bounty-5) 
 
- - 💯November 26, 2024 - [Bugbounty Hunting: The First Step After Finding Your Target](https://dineshpathro9.medium.com/bugbounty-hunting-the-first-step-after-finding-your-target-998267eeeb28?source=rss------bug_bounty-5) 
+ - 💯November 27, 2024 - [How I abled to get users/admins PII Disclosure](https://medium.com/@a7madhacck/how-i-abled-to-get-users-admins-pii-disclosure-6c02fef82c11?source=rss------bug_bounty-5) 
 
- - 💯November 26, 2024 - [Challenges and Pitfalls of Automating Bug Bounty Submissions with AI](https://pointlessai.medium.com/challenges-and-pitfalls-of-automating-bug-bounty-submissions-with-ai-adb06ab0d2c6?source=rss------bug_bounty-5) 
+ - 💯November 27, 2024 - [IDOR Allows an Admin to Add SuperAdmin &lpar;Which is not allowed&rpar;](https://medium.com/@mrro0o0tt/idor-allows-an-admin-to-add-superadmin-which-is-not-allowed-239fcc82ff69?source=rss------bug_bounty-5) 
 
- - 💯November 26, 2024 - [Find Website Vulnerabilities with One Hacking Tool](https://blog.cubed.run/find-website-vulnerabilities-with-one-hacking-tool-0008a908c6fd?source=rss------bug_bounty-5) 
+ - 💯November 27, 2024 - [Researchers Unveil “Bootkitty” — The First UEFI Bootkit Targeting Linux Kernels!](https://medium.com/@wiretor/researchers-unveil-bootkitty-the-first-uefi-bootkit-targeting-linux-kernels-30ff7b7c6819?source=rss------bug_bounty-5) 
 
- - 💯November 26, 2024 - [VOIP Penetration Testing Checklist](https://infosecwriteups.com/voip-penetration-testing-checklist-890bb4e09bac?source=rss------bug_bounty-5) 
+ - 💯November 27, 2024 - [Interpol Arrests 1,000+ in Massive ‘Operation Serengeti’ Anti-Cybercrime Crackdown](https://medium.com/@wiretor/interpol-arrests-1-000-in-massive-operation-serengeti-anti-cybercrime-crackdown-45ffa24e6f4a?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
