@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 2, 2024 - [How I got access to Credentials easily](https://medium.com/infosecmatrix/how-i-got-access-to-credentials-easily-00ced4ba15bd?source=rss------bug_bounty-5) 
+ - 💯December 3, 2024 - [The Art of Blind Command Injection: Unlocking Internal Secrets](https://medium.com/@yogeshbhandage/the-art-of-blind-command-injection-unlocking-internal-secrets-917daa755463?source=rss------bug_bounty-5) 
 
- - 💯December 2, 2024 - [How to Master Advanced Threat Hunting](https://medium.com/@paritoshblogs/how-to-master-advanced-threat-hunting-bcfb9d1e159c?source=rss------bug_bounty-5) 
+ - 💯December 3, 2024 - [Why Penetration Testing as a Service &lpar;PTaaS&rpar; Outperforms Traditional Pentest Providers](https://medium.com/@hackrate/why-penetration-testing-as-a-service-ptaas-outperforms-traditional-pentest-providers-7b1e6b0a6d0a?source=rss------bug_bounty-5) 
 
- - 💯December 1, 2024 - [Web Shell Upload via Extension Blacklist Bypass — File Upload Vulnerability](https://medium.com/@rcxsecurity/web-shell-upload-via-extension-blacklist-bypass-file-upload-vulnerability-f98ee877aff1?source=rss------bug_bounty-5) 
+ - 💯December 2, 2024 - [Unpacking an IDOR-Based Exploit in International Shipping &lpar;70 Million+ PII Data Breach&rpar;](https://medium.com/@susapr/unpacking-an-idor-based-exploit-in-international-shipping-70-million-pii-data-breach-8c29cf33347d?source=rss------bug_bounty-5) 
 
- - 💯December 1, 2024 - [The Ultimate Guide to Top Pentest-as-a-Service Providers in 2024](https://medium.com/@hackrate/the-ultimate-guide-to-top-pentest-as-a-service-providers-in-2024-f03b0408b0a5?source=rss------bug_bounty-5) 
+ - 💯December 2, 2024 - [How I got my first Hall of Fame - Bug Bounty](https://medium.com/@pranavrp77/how-i-got-my-first-hall-of-fame-bug-bounty-d296637e37dd?source=rss------bug_bounty-5) 
 
- - 💯December 1, 2024 - [SQL injection UNION attack, determining the number of columns returned by the query](https://medium.com/@Laxious8848/sql-injection-union-attack-determining-the-number-of-columns-returned-by-the-query-4792d89ad93f?source=rss------bug_bounty-5) 
+ - 💯December 2, 2024 - [From File Upload To LFI: A Journey To Exploitation](https://medium.com/@red.whisperer/from-file-upload-to-lfi-a-journey-to-exploitation-02ab5e1a7d0a?source=rss------bug_bounty-5) 
 
- - 💯December 1, 2024 - [Exploring Alternatives to Cobalt: Why Hackrate Stands Out](https://medium.com/@hackrate/exploring-alternatives-to-cobalt-why-hackrate-stands-out-67473c1e74e6?source=rss------bug_bounty-5) 
+ - 💯December 2, 2024 - [Command Injection: Mastering Exploitation Techniques with a Comprehensive Cheatsheet](https://medium.com/@verylazytech/command-injection-mastering-exploitation-techniques-with-a-comprehensive-cheatsheet-6f549fee46b8?source=rss------bug_bounty-5) 
 
- - 💯December 1, 2024 - [Russia Arrests Cybercriminal Wazawaka Tied to Ransomware Gangs](https://medium.com/@wiretor/russia-arrests-cybercriminal-wazawaka-tied-to-ransomware-gangs-9354c557f1d5?source=rss------bug_bounty-5) 
+ - 💯December 2, 2024 - [$3 Billion Crypto Exchange XT Allegedly Hacked](https://medium.com/@wiretor/3-billion-crypto-exchange-xt-allegedly-hacked-c560c9572168?source=rss------bug_bounty-5) 
 
- - 💯December 1, 2024 - [SpyLoan Android Malware Installed Over 8 Million Times on Google Play!](https://medium.com/@wiretor/spyloan-android-malware-installed-over-8-million-times-on-google-play-d0331b3c762e?source=rss------bug_bounty-5) 
+ - 💯December 2, 2024 - [Hackers Steal $17 Million from Uganda’s Central Bank](https://medium.com/@wiretor/hackers-steal-17-million-from-ugandas-central-bank-533dcbabbeff?source=rss------bug_bounty-5) 
 
- - 💯December 1, 2024 - [picoCTF Web Exploitation: Unminify](https://medium.com/@Kamal_S/picoctf-web-exploitation-unminify-6dd45341b7f5?source=rss------bug_bounty-5) 
+ - 💯December 2, 2024 - [Small Bugs, Big Bounties: A Hacker’s Guide to Quick Wins](https://infosecwriteups.com/small-bugs-big-bounties-a-hackers-guide-to-quick-wins-46a75dbc3573?source=rss------bug_bounty-5) 
 
- - 💯December 1, 2024 - [Why I Failed This November: A Clown’s Reflection on Failure](https://jackhavoltrey.medium.com/why-i-failed-this-november-a-clowns-reflection-on-failure-3223fec4451e?source=rss------bug_bounty-5) 
+ - 💯December 2, 2024 - [Critical Vulnerability Discovered in Zabbix Network Monitoring Tool](https://medium.com/@wiretor/critical-vulnerability-discovered-in-zabbix-network-monitoring-tool-df358293a1a9?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
