@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 5, 2024 - [How Note-Taking and Hacktivity Analysis Led to Privilege Escalation](https://medium.com/@ahmedsamirghallab/how-note-taking-and-hacktivity-analysis-led-to-privilege-escalation-627aaf3bbd84?source=rss------bug_bounty-5) 
+ - 💯December 6, 2024 - [How I Found 3x XSS in 6 Seconds! Without Automated Tools](https://medium.com/@embossdotar/how-i-found-3x-xss-in-6-seconds-without-automated-tools-b0c852dea66f?source=rss------bug_bounty-5) 
 
- - 💯December 5, 2024 - [Mission: Exploit – Advanced Bug Bounty Techniques Inspired by James Bond](https://bitpanic.medium.com/mission-exploit-advanced-bug-bounty-techniques-inspired-by-james-bond-a891ee3d0ef9?source=rss------bug_bounty-5) 
+ - 💯December 6, 2024 - [Why Are You Not Identifying Bugs in Website 2025](https://osintteam.blog/why-are-you-not-identifying-bugs-in-website-2025-8ff218815b7d?source=rss------bug_bounty-5) 
 
- - 💯December 5, 2024 - [How I Achieved a Full Account Takeover Through Information Disclosure](https://medium.com/@ahmedsamirghallab/how-i-achieved-a-full-account-takeover-through-information-disclosure-16c6f697b76e?source=rss------bug_bounty-5) 
+ - 💯December 5, 2024 - [From Frustration to Exploitation: How a Link Shortener Helped Me Bypass WAF](https://imooaaz.medium.com/from-frustration-to-exploitation-how-a-link-shortener-helped-me-bypass-waf-03724dca1592?source=rss------bug_bounty-5) 
 
- - 💯December 5, 2024 - [How I Turned a Low-Hanging Fruit Bug Into Mass Unauthorized Deletion of Invited Members](https://medium.com/@ahmedsamirghallab/how-i-turned-a-low-hanging-fruit-bug-into-mass-unauthorized-deletion-of-invited-members-6f195deffe11?source=rss------bug_bounty-5) 
+ - 💯December 5, 2024 - [Bug Hunting](https://medium.com/meetcyber/bug-hunting-ff366260d8df?source=rss------bug_bounty-5) 
 
- - 💯December 5, 2024 - [How To Find Sensitive Log Files Easily..](https://medium.com/@josuofficial327/how-to-find-sensitive-log-files-easily-1dd14bb5f221?source=rss------bug_bounty-5) 
+ - 💯December 5, 2024 - [Chinese Hackers Salt Typhoon Breach Global Telecom Networks](https://medium.com/@wiretor/chinese-hackers-salt-typhoon-breach-global-telecom-networks-00b40e0ce07e?source=rss------bug_bounty-5) 
 
- - 💯December 4, 2024 - [SQL injection UNION attack, finding a column containing text](https://medium.com/@Laxious8848/sql-injection-union-attack-finding-a-column-containing-text-10a0e36cc062?source=rss------bug_bounty-5) 
+ - 💯December 5, 2024 - [New DroidBot Malware Targets 77 Banking &amp; Crypto Apps!](https://medium.com/@wiretor/new-droidbot-malware-targets-77-banking-crypto-apps-1b5105a66625?source=rss------bug_bounty-5) 
 
- - 💯December 4, 2024 - [Bug Bounty Methodology Checklist for Web Applications &lpar;B2B Apps&rpar;](https://thexssrat.medium.com/bug-bounty-methodology-checklist-for-web-applications-b2b-apps-b876a20236d0?source=rss------bug_bounty-5) 
+ - 💯December 5, 2024 - [UK Cracks Down on Russian Money Laundering Networks](https://medium.com/@wiretor/uk-cracks-down-on-russian-money-laundering-networks-4dfae89f9000?source=rss------bug_bounty-5) 
 
- - 💯December 4, 2024 - [My Experience at the 2024 FIRST &amp; AfricaCERT Symposium: A CyberGirl’s Perspective- Part Final](https://medium.com/@.rai/my-experience-at-the-2024-first-africacert-symposium-a-cybergirls-perspective-part-final-b190349785b4?source=rss------bug_bounty-5) 
+ - 💯December 5, 2024 - [⚠️ Critical Zero-Day Uncovered: Mitel MiCollab Wide Open to Attackers! ⚠️](https://medium.com/@wiretor/%EF%B8%8F-critical-zero-day-uncovered-mitel-micollab-wide-open-to-attackers-%EF%B8%8F-cdc36da3552e?source=rss------bug_bounty-5) 
 
- - 💯December 4, 2024 - [Critical RCE Vulnerability in Veeam Service Provider Console — Update Now! ️](https://medium.com/@wiretor/critical-rce-vulnerability-in-veeam-service-provider-console-update-now-%EF%B8%8F-1e147e98458b?source=rss------bug_bounty-5) 
+ - 💯December 5, 2024 - [Penetration Testing on Steroids: Revolutionizing Ethical Hacking with Hackrate and HackGATE](https://medium.com/@hackrate/penetration-testing-on-steroids-revolutionizing-ethical-hacking-with-hackrate-and-hackgate-7edaf7244075?source=rss------bug_bounty-5) 
 
- - 💯December 4, 2024 - [Critical RCE Flaw Discovered in WhatsUp Gold &lpar;CVE-2024–8785&rpar; — Update Immediately! ️](https://medium.com/@wiretor/critical-rce-flaw-discovered-in-whatsup-gold-cve-2024-8785-update-immediately-%EF%B8%8F-8b6e69c183ab?source=rss------bug_bounty-5) 
+ - 💯December 5, 2024 - [Practical Bug Bounty — TCM Academy | Report writing, Bypass, Best Programs.](https://medium.com/@awabhassan/practical-bug-bounty-tcm-academy-report-writing-bypass-best-programs-710516804f53?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
