@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 6, 2024 - [How I Found 3x XSS in 6 Seconds! Without Automated Tools](https://medium.com/@embossdotar/how-i-found-3x-xss-in-6-seconds-without-automated-tools-b0c852dea66f?source=rss------bug_bounty-5) 
+ - 💯December 7, 2024 - [P3 Bug in Few Minutes](https://medium.com/meetcyber/p3-bug-in-few-minutes-006f57913f71?source=rss------bug_bounty-5) 
 
- - 💯December 6, 2024 - [Why Are You Not Identifying Bugs in Website 2025](https://osintteam.blog/why-are-you-not-identifying-bugs-in-website-2025-8ff218815b7d?source=rss------bug_bounty-5) 
+ - 💯December 7, 2024 - [From Low Privileges to Owner Rights: A Wild Journey Through an ATO Vulnerability](https://medium.com/@mrasg/from-low-privileges-to-owner-rights-a-wild-journey-through-an-ato-vulnerability-cb21c468634c?source=rss------bug_bounty-5) 
 
- - 💯December 5, 2024 - [From Frustration to Exploitation: How a Link Shortener Helped Me Bypass WAF](https://imooaaz.medium.com/from-frustration-to-exploitation-how-a-link-shortener-helped-me-bypass-waf-03724dca1592?source=rss------bug_bounty-5) 
+ - 💯December 7, 2024 - [My First Bounty of ₹₹₹](https://osintteam.blog/my-first-bounty-of-37c2d40cbdd9?source=rss------bug_bounty-5) 
 
- - 💯December 5, 2024 - [Bug Hunting](https://medium.com/meetcyber/bug-hunting-ff366260d8df?source=rss------bug_bounty-5) 
+ - 💯December 6, 2024 - [A01: Broken Access Control and A05: Security Misconfiguration Leads to Unauthenticated Access to…](https://medium.com/@enigma_/a01-broken-access-control-and-a05-security-misconfiguration-leads-to-unauthenticated-access-to-0897e3bec491?source=rss------bug_bounty-5) 
 
- - 💯December 5, 2024 - [Chinese Hackers Salt Typhoon Breach Global Telecom Networks](https://medium.com/@wiretor/chinese-hackers-salt-typhoon-breach-global-telecom-networks-00b40e0ce07e?source=rss------bug_bounty-5) 
+ - 💯December 6, 2024 - [10 Essential Tips for Bug Bounty Beginners: A Fun, Practical, and Slightly Cheeky Guide to Kicking…](https://medium.com/@mrasg/10-essential-tips-for-bug-bounty-beginners-a-fun-practical-and-slightly-cheeky-guide-to-kicking-c7da8a9b1b31?source=rss------bug_bounty-5) 
 
- - 💯December 5, 2024 - [New DroidBot Malware Targets 77 Banking &amp; Crypto Apps!](https://medium.com/@wiretor/new-droidbot-malware-targets-77-banking-crypto-apps-1b5105a66625?source=rss------bug_bounty-5) 
+ - 💯December 6, 2024 - [Atrium Health Data Breach Impacts 585,000 People: Why Healthcare Cybersecurity Needs Immediate…](https://medium.com/@wiretor/atrium-health-data-breach-impacts-585-000-people-why-healthcare-cybersecurity-needs-immediate-38a479e96e39?source=rss------bug_bounty-5) 
 
- - 💯December 5, 2024 - [UK Cracks Down on Russian Money Laundering Networks](https://medium.com/@wiretor/uk-cracks-down-on-russian-money-laundering-networks-4dfae89f9000?source=rss------bug_bounty-5) 
+ - 💯December 6, 2024 - [️ BREAKING: U.S. Arrests Scattered Spider Suspect Behind Telecom Hacks &amp; Phishing Scams ️](https://medium.com/@wiretor/%EF%B8%8F-breaking-u-s-arrests-scattered-spider-suspect-behind-telecom-hacks-phishing-scams-%EF%B8%8F-cd44ea215b09?source=rss------bug_bounty-5) 
 
- - 💯December 5, 2024 - [⚠️ Critical Zero-Day Uncovered: Mitel MiCollab Wide Open to Attackers! ⚠️](https://medium.com/@wiretor/%EF%B8%8F-critical-zero-day-uncovered-mitel-micollab-wide-open-to-attackers-%EF%B8%8F-cdc36da3552e?source=rss------bug_bounty-5) 
+ - 💯December 6, 2024 - [Now let’s set Frida For SSL Pinning Bypass.](https://aman0.medium.com/now-lets-set-frida-for-ssl-pinning-bypass-9ee8ae11b7b5?source=rss------bug_bounty-5) 
 
- - 💯December 5, 2024 - [Penetration Testing on Steroids: Revolutionizing Ethical Hacking with Hackrate and HackGATE](https://medium.com/@hackrate/penetration-testing-on-steroids-revolutionizing-ethical-hacking-with-hackrate-and-hackgate-7edaf7244075?source=rss------bug_bounty-5) 
+ - 💯December 6, 2024 - [List of Top Bug Bounty Platforms for 2024](https://medium.com/@hackrate/list-of-top-bug-bounty-platforms-for-2024-fc31553c2e78?source=rss------bug_bounty-5) 
 
- - 💯December 5, 2024 - [Practical Bug Bounty — TCM Academy | Report writing, Bypass, Best Programs.](https://medium.com/@awabhassan/practical-bug-bounty-tcm-academy-report-writing-bypass-best-programs-710516804f53?source=rss------bug_bounty-5) 
+ - 💯December 6, 2024 - [The Art of Pwning Okta For Profit and Fun](https://whoisshuvam.medium.com/the-art-of-pwning-okta-for-profit-and-fun-075dedbc4715?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
