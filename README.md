@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 12, 2024 - [How I Bypassed Email Confirmation: A Playful Journey into the World of Bug Hunting](https://medium.com/@mrasg/how-i-bypassed-email-confirmation-a-playful-journey-into-the-world-of-bug-hunting-30f72d6c2fb6?source=rss------bug_bounty-5) 
+ - 💯December 13, 2024 - [Introducing ShodanSpider v2: Your Ultimate Free Tool for CVE Searching and Shodan Data Analysis…](https://shubhamrooter.medium.com/introducing-shodanspider-v2-your-ultimate-free-tool-for-cve-searching-and-shodan-data-analysis-ba7c7b3097b0?source=rss------bug_bounty-5) 
 
- - 💯December 12, 2024 - [[Bugbounty]SQLI — Data Exfiltration via DNS](https://medium.com/@kauenavarro/bugbounty-sqli-data-exfiltration-via-dns-3e68ece08205?source=rss------bug_bounty-5) 
+ - 💯December 13, 2024 - [Reflected XSS on Gaming Blog Website](https://medium.com/@enigma_/reflected-xss-on-gaming-blog-website-edc448d613a3?source=rss------bug_bounty-5) 
 
- - 💯December 12, 2024 - [【Award-winning Survey】About Security Vulnerability Submission Function](https://medium.com/@security.tecno/award-winning-survey-about-security-vulnerability-submission-function-c3113e2baec0?source=rss------bug_bounty-5) 
+ - 💯December 12, 2024 - [€XXX bounty for 2FA disabled without password and OTP by response manipulation](https://osintteam.blog/xxx-bounty-for-2fa-disabled-without-password-and-otp-by-response-manipulation-499ba5234a4f?source=rss------bug_bounty-5) 
 
- - 💯December 11, 2024 - [How I Secured The Indian Army?](https://cybersecuritywriteups.com/how-i-secured-the-indian-army-9a80ba399202?source=rss------bug_bounty-5) 
+ - 💯December 12, 2024 - [“Bypasseando controles en un POS”](https://medium.com/@andresbe.be/bypasseando-controles-en-un-pos-un-poco-de-humo-del-bueno-b18b6ecbc775?source=rss------bug_bounty-5) 
 
- - 💯December 11, 2024 - [Data Breach: 446K Patients &amp; Employees Affected at Center for Vein Restoration](https://medium.com/@wiretor/data-breach-446k-patients-employees-affected-at-center-for-vein-restoration-a75cf6fc1a5e?source=rss------bug_bounty-5) 
+ - 💯December 12, 2024 - [How a Race Condition Became an Account Takeover Vulnerability](https://medium.com/@mrasg/how-a-race-condition-became-an-account-takeover-vulnerability-756f14990f38?source=rss------bug_bounty-5) 
 
- - 💯December 11, 2024 - [Urgent Warning: Ivanti CSA Flaw Exposes Admin Controls to Hackers!](https://medium.com/@wiretor/urgent-warning-ivanti-csa-flaw-exposes-admin-controls-to-hackers-d6937ede4389?source=rss------bug_bounty-5) 
+ - 💯December 12, 2024 - [Account Takeover using SSO Logins](https://rikeshbaniya.medium.com/account-takeover-using-sso-logins-fa35f28a358b?source=rss------bug_bounty-5) 
 
- - 💯December 11, 2024 - [Critical WPForms Flaw Exposes 6M Sites to Unauthorized Stripe Refunds](https://medium.com/@wiretor/critical-wpforms-flaw-exposes-6m-sites-to-unauthorized-stripe-refunds-da9f48a7bfd0?source=rss------bug_bounty-5) 
+ - 💯December 12, 2024 - [Hack The Box Academy — File Inclusion — Skills Assessment](https://medium.com/@d4nglz17/hack-the-box-academy-file-inclusion-skills-assessment-1ca0283a9a06?source=rss------bug_bounty-5) 
 
- - 💯December 11, 2024 - [IDOR leads to leak private user’s data](https://medium.com/@banertheinrich/idor-leads-to-leak-private-users-data-3a2b59f58826?source=rss------bug_bounty-5) 
+ - 💯December 12, 2024 - [Identity &amp; Access Alert: Microsoft MFA Bypassed via AuthQuake Attack!](https://medium.com/@wiretor/identity-access-alert-microsoft-mfa-bypassed-via-authquake-attack-fc57043fe39a?source=rss------bug_bounty-5) 
 
- - 💯December 11, 2024 - [Hackrate PTaaS Powered by HackGATE: Redefining Penetration Testing](https://medium.com/@hackrate/hackrate-ptaas-powered-by-hackgate-redefining-penetration-testing-cb91c07ecc8f?source=rss------bug_bounty-5) 
+ - 💯December 12, 2024 - [Critical Alert: Hackers Exploit Hunk Companion WordPress Plugin!](https://medium.com/@wiretor/critical-alert-hackers-exploit-hunk-companion-wordpress-plugin-50fcf5834f84?source=rss------bug_bounty-5) 
 
- - 💯December 11, 2024 - [Easy SQLI in just 30 minutes](https://medium.com/@mohammed01550038865/easy-sqli-in-just-30-minutes-0296038bb473?source=rss------bug_bounty-5) 
+ - 💯December 12, 2024 - [How to Find and Identify Race Condition Vulnerabilities as a Penetration Tester](https://cyberw1ng.medium.com/how-to-find-and-identify-race-condition-vulnerabilities-as-a-penetration-tester-9d9ecce6ed56?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
