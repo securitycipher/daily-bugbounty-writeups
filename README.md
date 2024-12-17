@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 16, 2024 - [How I Got 200 euro bounty?](https://doordiefordream.medium.com/how-i-got-200-euro-bounty-03bcce712a51?source=rss------bug_bounty-5) 
+ - 💯December 17, 2024 - [Utilizing MITRE ATT&amp;CK Framework: Examples and Practical Applications](https://medium.com/@paritoshblogs/utilizing-mitre-att-ck-framework-examples-and-practical-applications-0c4ea468ad53?source=rss------bug_bounty-5) 
 
- - 💯December 16, 2024 - [Master the Art of Cyber Defense: Top Open-Source Tools for Threat Intelligence!](https://medium.com/@paritoshblogs/master-the-art-of-cyber-defense-top-open-source-tools-for-threat-intelligence-7c575e69b853?source=rss------bug_bounty-5) 
+ - 💯December 17, 2024 - [CVE-2024–54385 | WordPress Plugin](https://medium.com/@malvinval/cve-2024-54385-wordpress-plugin-7ff0f8e5ad1d?source=rss------bug_bounty-5) 
 
- - 💯December 16, 2024 - [How I Discovered SSTI Vulnerability in Just 5 Minutes | $300 Bounty](https://medium.com/@kumawatabhijeet2002/how-i-discovered-ssti-vulnerability-in-just-5-minutes-f7ac31f3f6b0?source=rss------bug_bounty-5) 
+ - 💯December 17, 2024 - [200$ DLL Hijacking Attack](https://cybersecuritywriteups.com/200-dll-hijacking-attack-fdb4fd46fea9?source=rss------bug_bounty-5) 
 
- - 💯December 16, 2024 - [HTB University CTF 2024 Web challenges writeup: Breaking Bank[easy]](https://medium.com/@0xNayelx/htb-university-ctf-2024-web-challenges-writeup-breaking-bank-easy-1c3064092abc?source=rss------bug_bounty-5) 
+ - 💯December 17, 2024 - [OSINT AND DORKING TOOLS](https://medium.com/@reazatih/osint-and-dorking-tools-67dc970d049d?source=rss------bug_bounty-5) 
 
- - 💯December 16, 2024 - [Advanced Google Dorking | Part14](https://systemweakness.com/advanced-google-dorking-part14-79b21e11ae25?source=rss------bug_bounty-5) 
+ - 💯December 16, 2024 - [Wordlists Every Pentester Must Have !!](https://theartificialthinker.medium.com/wordlists-every-pentester-must-have-7ad4c1e46ce5?source=rss------bug_bounty-5) 
 
- - 💯December 16, 2024 - [HTB University CTF 2024 Web challenges writeup: Armaxis[very easy]](https://medium.com/@0xNayelx/htb-university-ctf-2024-web-challenges-writeup-armaxis-very-easy-404ac9f101b8?source=rss------bug_bounty-5) 
+ - 💯December 16, 2024 - [Clop Ransomware Gang Behind Major Cleo Data Breach](https://medium.com/@wiretor/clop-ransomware-gang-behind-major-cleo-data-breach-421b729bafde?source=rss------bug_bounty-5) 
 
- - 💯December 15, 2024 - [Ultimate Django Vulnerability Checklist](https://bitpanic.medium.com/ultimate-django-vulnerability-checklist-ceb7f428c45f?source=rss------bug_bounty-5) 
+ - 💯December 16, 2024 - [ConnectOnCall Breach Exposes 900K+ Records! Don’t Be Next — Get Wire Tor Protection Today](https://medium.com/@wiretor/connectoncall-breach-exposes-900k-records-dont-be-next-get-wire-tor-protection-today-d4dd7de3570d?source=rss------bug_bounty-5) 
 
- - 💯December 15, 2024 - [LKQ Hacked: Cyberattack Disrupts Canadian Unit Operations and Exposes Company Data](https://medium.com/@wiretor/lkq-hacked-cyberattack-disrupts-canadian-unit-operations-and-exposes-company-data-7db6b9763011?source=rss------bug_bounty-5) 
+ - 💯December 16, 2024 - [Winnti Hackers Strike Again: New ‘Glutton’ Backdoor Exposed!](https://medium.com/@wiretor/winnti-hackers-strike-again-new-glutton-backdoor-exposed-5cd7bbb0faf0?source=rss------bug_bounty-5) 
 
- - 💯December 15, 2024 - [Russia Blocks Viber: Latest Move to Censor Communications](https://medium.com/@wiretor/russia-blocks-viber-latest-move-to-censor-communications-9dce4d823d67?source=rss------bug_bounty-5) 
+ - 💯December 16, 2024 - [[Hacking Scope] Exposure for tons of secret documents](https://medium.com/@nagashygaballah/hacking-scope-exposure-for-tons-of-secret-documents-5ba5c3906600?source=rss------bug_bounty-5) 
 
- - 💯December 15, 2024 - [JavaScript BugBounty Method](https://medium.com/@cc1a2bb/javascript-bugbounty-method-5b789bfa7f44?source=rss------bug_bounty-5) 
+ - 💯December 16, 2024 - [Traditional Penetration Testing vs. Bug Bounty Programs](https://medium.com/@hackrate/traditional-penetration-testing-vs-bug-bounty-programs-bb792a4d0d3f?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
