@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 18, 2024 - [Mobile Application Bounty Practice: SQL Injection Principles, Vulnerability Discovery and…](https://medium.com/@security.tecno/mobile-application-bounty-practice-sql-injection-principles-vulnerability-discovery-and-3921ad2e6998?source=rss------bug_bounty-5) 
+ - 💯December 19, 2024 - [How I Got $1000 AWS Credits and Maximized Its Potential](https://medium.com/@awsdevops183/how-i-got-1000-aws-credits-and-maximized-its-potential-e08650930171?source=rss------bug_bounty-5) 
 
- - 💯December 18, 2024 - [FROM STRUGGLES TO SUCCESS: MY JOURNEY TO THE NASA HALL OF FAME](https://rootxabit.medium.com/from-struggles-to-success-my-journey-to-the-nasa-hall-of-fame-38700dd6303a?source=rss------bug_bounty-5) 
+ - 💯December 19, 2024 - [No Rate Limit Vulnerability on a US Government Website](https://medium.com/@kumawatabhijeet2002/no-rate-limit-vulnerability-on-a-us-government-website-ae47402b663d?source=rss------bug_bounty-5) 
 
- - 💯December 18, 2024 - [Admin Panel Access via Default Credentials](https://infosecwriteups.com/admin-panel-access-via-default-credentials-215b92b030bb?source=rss------bug_bounty-5) 
+ - 💯December 19, 2024 - [Essential Stuff For Your First Hacking Trip. Hacking Gadgets #2 “Assortment For The Little Hacker”](https://medium.com/h7w/essential-stuff-for-your-first-hacking-trip-hacking-gadgets-2-assortment-for-the-little-hacker-e886dba68a11?source=rss------bug_bounty-5) 
 
- - 💯December 18, 2024 - [Easiest P1 $$$!](https://medium.com/@mrsingh10978/easiest-p1-702990960a50?source=rss------bug_bounty-5) 
+ - 💯December 18, 2024 - [Turning a Known Issue into €100 Bounty: My Bug Bounty Breakthrough✨](https://medium.com/@anmolv77654/turning-a-known-issue-into-a-100-bounty-my-bug-bounty-breakthrough-3bd89c281ea9?source=rss------bug_bounty-5) 
 
- - 💯December 18, 2024 - [Successfully Gained Full Admin Access and Changed the Password Through Token Manipulation ⚔️](https://medium.com/@momenrezkk90/successfully-gained-full-admin-access-and-changed-the-password-through-token-manipulation-%EF%B8%8F-fe91fc0d9a0f?source=rss------bug_bounty-5) 
+ - 💯December 18, 2024 - [$750 Domain Hijacking Vulnerability](https://1-day.medium.com/750-domain-hijacking-vulnerability-f6e4b4445711?source=rss------bug_bounty-5) 
 
- - 💯December 17, 2024 - [Exploiting Access Control Misconfiguration: Privilege Escalation via Improper PATCH Method…](https://medium.com/@momenrezkk90/exploiting-access-control-misconfiguration-privilege-escalation-via-improper-patch-method-b653bb92ada6?source=rss------bug_bounty-5) 
+ - 💯December 18, 2024 - [Meta Hit with $264M Fine! Irish DPC Takes a Stand on Facebook Data Breach](https://medium.com/@wiretor/meta-hit-with-264m-fine-irish-dpc-takes-a-stand-on-facebook-data-breach-60cb69abe3df?source=rss------bug_bounty-5) 
 
- - 💯December 17, 2024 - [Top 5 Ways to Hack APIs and find good bugs](https://medium.com/@sreedeep200/top-5-ways-to-hack-apis-and-find-good-bugs-dfd4a7bbb623?source=rss------bug_bounty-5) 
+ - 💯December 18, 2024 - [Beware of New Ledger Phishing Attack: Protect Your Crypto Wallet!](https://medium.com/@wiretor/beware-of-new-ledger-phishing-attack-protect-your-crypto-wallet-a048705d2b58?source=rss------bug_bounty-5) 
 
- - 💯December 17, 2024 - [403 Bypass changing  http method only](https://rahman0x01.medium.com/403-bypass-changing-http-method-only-f0a32b43a3c8?source=rss------bug_bounty-5) 
+ - 💯December 18, 2024 - [This 200$ Gadget Can Hack Anything](https://osintteam.blog/this-200-gadget-can-hack-anything-c482888871e3?source=rss------bug_bounty-5) 
 
- - 💯December 17, 2024 - [Cybersecurity Alert: Texas Tech University System Data Breach Impacts 1.4 Million Patients!](https://medium.com/@wiretor/cybersecurity-alert-texas-tech-university-system-data-breach-impacts-1-4-million-patients-caceb8096be9?source=rss------bug_bounty-5) 
+ - 💯December 18, 2024 - [Best python scripts for cybersecurity analyst](https://medium.com/@paritoshblogs/best-python-scripts-for-cybersecurity-analyst-d5ebc91b4cdb?source=rss------bug_bounty-5) 
 
- - 💯December 17, 2024 - [FBI ALERT: HiatusRAT Malware Attacks Targeting Web Cameras &amp; DVRs!](https://medium.com/@wiretor/fbi-alert-hiatusrat-malware-attacks-targeting-web-cameras-dvrs-37f2eeb2bd01?source=rss------bug_bounty-5) 
+ - 💯December 18, 2024 - [Useful Wordlists for Bug Bounty Hunters](https://medium.com/@iamshafayat/useful-wordlists-for-bug-bounty-hunters-09f9b3cd2344?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
