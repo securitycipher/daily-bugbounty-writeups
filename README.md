@@ -2,23 +2,24 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 19, 2024 - [How I Got $1000 AWS Credits and Maximized Its Potential](https://medium.com/@awsdevops183/how-i-got-1000-aws-credits-and-maximized-its-potential-e08650930171?source=rss------bug_bounty-5) 
+ - 💯December 20, 2024 - [The Secret World of Hackers: A Beginner’s Guide to Understanding Cyber Attacks](https://medium.com/@paritoshblogs/the-secret-world-of-hackers-a-beginners-guide-to-understanding-cyber-attacks-81377a0b477e?source=rss------bug_bounty-5) 
 
- - 💯December 19, 2024 - [No Rate Limit Vulnerability on a US Government Website](https://medium.com/@kumawatabhijeet2002/no-rate-limit-vulnerability-on-a-us-government-website-ae47402b663d?source=rss------bug_bounty-5) 
+ - 💯December 20, 2024 - [The Most Easiest OTP Bypass Vulnerability I’ve Found: A Critical Flaw in Session Management](https://medium.com/@ajay.kumar.695632/the-most-easiest-otp-bypass-vulnerability-ive-found-a-critical-flaw-in-session-management-09b1555dbf9e?source=rss------bug_bounty-5) 
 
- - 💯December 19, 2024 - [Essential Stuff For Your First Hacking Trip. Hacking Gadgets #2 “Assortment For The Little Hacker”](https://medium.com/h7w/essential-stuff-for-your-first-hacking-trip-hacking-gadgets-2-assortment-for-the-little-hacker-e886dba68a11?source=rss------bug_bounty-5) 
+ - 💯December 20, 2024 - [Part-2 | Deep Recon Methodology for Bug Bounty Hunters](https://medium.com/@kumawatabhijeet2002/part-2-deep-recon-methodology-for-bug-bounty-hunters-644077ee41d4?source=rss------bug_bounty-5) 
 
- - 💯December 18, 2024 - [Turning a Known Issue into €100 Bounty: My Bug Bounty Breakthrough✨](https://medium.com/@anmolv77654/turning-a-known-issue-into-a-100-bounty-my-bug-bounty-breakthrough-3bd89c281ea9?source=rss------bug_bounty-5) 
+ - 💯December 20, 2024 - [Blind XXE with OOB Interaction via XML Parameter Entities](https://osintteam.blog/blind-xxe-with-oob-interaction-via-xml-parameter-entities-97244bf2b85e?source=rss------bug_bounty-5) 
 
- - 💯December 18, 2024 - [$750 Domain Hijacking Vulnerability](https://1-day.medium.com/750-domain-hijacking-vulnerability-f6e4b4445711?source=rss------bug_bounty-5) 
+ - 💯December 20, 2024 - [CSRF On Delete Profile: High Severity&lpar;7.1&rpar; HackerOne](https://medium.com/@josuofficial327/csrf-on-delete-profile-high-severity-7-1-hackerone-33bdb598ef67?source=rss------bug_bounty-5) 
 
- - 💯December 18, 2024 - [Meta Hit with $264M Fine! Irish DPC Takes a Stand on Facebook Data Breach](https://medium.com/@wiretor/meta-hit-with-264m-fine-irish-dpc-takes-a-stand-on-facebook-data-breach-60cb69abe3df?source=rss------bug_bounty-5) 
+ - 💯December 19, 2024 - [“Do Your Best, and Let Allah Do the Rest” led me to a Privilege Escalation Bug](https://medium.com/@mrasg/do-your-best-and-let-allah-do-the-rest-leads-me-to-privilege-escalation-bug-60a3c028c802?source=rss------bug_bounty-5) 
 
- - 💯December 18, 2024 - [Beware of New Ledger Phishing Attack: Protect Your Crypto Wallet!](https://medium.com/@wiretor/beware-of-new-ledger-phishing-attack-protect-your-crypto-wallet-a048705d2b58?source=rss------bug_bounty-5) 
+ - 💯December 19, 2024 - [Interpol Replaces “Pig Butchering” with “Romance Baiting” to Protect Victims](https://medium.com/@wiretor/interpol-replaces-pig-butchering-with-romance-baiting-to-protect-victims-4c702d62adaa?source=rss------bug_bounty-5) 
 
- - 💯December 18, 2024 - [This 200$ Gadget Can Hack Anything](https://osintteam.blog/this-200-gadget-can-hack-anything-c482888871e3?source=rss------bug_bounty-5) 
+ - 💯December 19, 2024 - [LFI: Identify the vulnerable endpoint and exploit that by reading
+the “/etc/passwd” file.](https://medium.com/@aburayhan01734_18069/lfi-identify-the-vulnerable-endpoint-and-exploit-that-by-reading-the-etc-passwd-file-a9d0586f85c9?source=rss------bug_bounty-5) 
 
- - 💯December 18, 2024 - [Best python scripts for cybersecurity analyst](https://medium.com/@paritoshblogs/best-python-scripts-for-cybersecurity-analyst-d5ebc91b4cdb?source=rss------bug_bounty-5) 
+ - 💯December 19, 2024 - [Beginners Guide for Exploiting Race Conditions](https://bitpanic.medium.com/beginners-guide-for-exploiting-race-conditions-ab73c843b44a?source=rss------bug_bounty-5) 
 
- - 💯December 18, 2024 - [Useful Wordlists for Bug Bounty Hunters](https://medium.com/@iamshafayat/useful-wordlists-for-bug-bounty-hunters-09f9b3cd2344?source=rss------bug_bounty-5) 
+ - 💯December 19, 2024 - [How I Found an Authentication Bypass Vulnerability in the Password Change Process](https://medium.com/@ajay.kumar.695632/how-i-found-an-authentication-bypass-vulnerability-in-the-password-change-process-160359fae1bc?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
