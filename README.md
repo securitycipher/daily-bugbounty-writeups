@@ -2,24 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 20, 2024 - [The Secret World of Hackers: A Beginner’s Guide to Understanding Cyber Attacks](https://medium.com/@paritoshblogs/the-secret-world-of-hackers-a-beginners-guide-to-understanding-cyber-attacks-81377a0b477e?source=rss------bug_bounty-5) 
+ - 💯December 21, 2024 - [Payment Bypass Guide for Bug Bounty | 69 case studies](https://medium.com/@illoyscizceneghposter/payment-bypass-guide-for-bug-bounty-69-case-studies-15379b4f76fa?source=rss------bug_bounty-5) 
 
- - 💯December 20, 2024 - [The Most Easiest OTP Bypass Vulnerability I’ve Found: A Critical Flaw in Session Management](https://medium.com/@ajay.kumar.695632/the-most-easiest-otp-bypass-vulnerability-ive-found-a-critical-flaw-in-session-management-09b1555dbf9e?source=rss------bug_bounty-5) 
+ - 💯December 21, 2024 - [The Bounty Hunters: Bug Bounty Programs](https://medium.com/@investigator515/the-bounty-hunters-bug-bounty-programs-8dcd24d5bafa?source=rss------bug_bounty-5) 
 
- - 💯December 20, 2024 - [Part-2 | Deep Recon Methodology for Bug Bounty Hunters](https://medium.com/@kumawatabhijeet2002/part-2-deep-recon-methodology-for-bug-bounty-hunters-644077ee41d4?source=rss------bug_bounty-5) 
+ - 💯December 20, 2024 - [SQL Injection via ORDER BY Parameter](https://medium.com/@mfthylmaz/sql-injection-via-order-by-parameter-a7cb7d04017f?source=rss------bug_bounty-5) 
 
- - 💯December 20, 2024 - [Blind XXE with OOB Interaction via XML Parameter Entities](https://osintteam.blog/blind-xxe-with-oob-interaction-via-xml-parameter-entities-97244bf2b85e?source=rss------bug_bounty-5) 
+ - 💯December 20, 2024 - [Android Malware on Amazon Appstore Disguised as Health App](https://medium.com/@wiretor/android-malware-on-amazon-appstore-disguised-as-health-app-3cda80dfc856?source=rss------bug_bounty-5) 
 
- - 💯December 20, 2024 - [CSRF On Delete Profile: High Severity&lpar;7.1&rpar; HackerOne](https://medium.com/@josuofficial327/csrf-on-delete-profile-high-severity-7-1-hackerone-33bdb598ef67?source=rss------bug_bounty-5) 
+ - 💯December 20, 2024 - [Ascension Data Breach: 5.6M Health Records Stolen by Black Basta Ransomware](https://medium.com/@wiretor/ascension-data-breach-5-6m-health-records-stolen-by-black-basta-ransomware-a8d2f7ba6856?source=rss------bug_bounty-5) 
 
- - 💯December 19, 2024 - [“Do Your Best, and Let Allah Do the Rest” led me to a Privilege Escalation Bug](https://medium.com/@mrasg/do-your-best-and-let-allah-do-the-rest-leads-me-to-privilege-escalation-bug-60a3c028c802?source=rss------bug_bounty-5) 
+ - 💯December 20, 2024 - [Unlocking Web Security: A Deep Dive into the OWASP Top 10](https://medium.com/@rootast/unlocking-web-security-a-deep-dive-into-the-owasp-top-10-d669199277bd?source=rss------bug_bounty-5) 
 
- - 💯December 19, 2024 - [Interpol Replaces “Pig Butchering” with “Romance Baiting” to Protect Victims](https://medium.com/@wiretor/interpol-replaces-pig-butchering-with-romance-baiting-to-protect-victims-4c702d62adaa?source=rss------bug_bounty-5) 
+ - 💯December 20, 2024 - [Discover All Paths in Next.js Websites](https://rhashibur75.medium.com/discover-all-paths-in-next-js-websites-43e319b24be9?source=rss------bug_bounty-5) 
 
- - 💯December 19, 2024 - [LFI: Identify the vulnerable endpoint and exploit that by reading
-the “/etc/passwd” file.](https://medium.com/@aburayhan01734_18069/lfi-identify-the-vulnerable-endpoint-and-exploit-that-by-reading-the-etc-passwd-file-a9d0586f85c9?source=rss------bug_bounty-5) 
+ - 💯December 20, 2024 - [Simple ATO in private program.](https://medium.com/@oXnoOneXo/simple-ato-in-private-program-890cd1485675?source=rss------bug_bounty-5) 
 
- - 💯December 19, 2024 - [Beginners Guide for Exploiting Race Conditions](https://bitpanic.medium.com/beginners-guide-for-exploiting-race-conditions-ab73c843b44a?source=rss------bug_bounty-5) 
+ - 💯December 20, 2024 - [From Comments to Command Execution: How an E-Book Platform Gave Me RCE](https://imooaaz.medium.com/from-comments-to-command-execution-how-an-e-book-platform-gave-me-rce-f27a079ca584?source=rss------bug_bounty-5) 
 
- - 💯December 19, 2024 - [How I Found an Authentication Bypass Vulnerability in the Password Change Process](https://medium.com/@ajay.kumar.695632/how-i-found-an-authentication-bypass-vulnerability-in-the-password-change-process-160359fae1bc?source=rss------bug_bounty-5) 
+ - 💯December 20, 2024 - [OSI Model Explanation](https://medium.com/@hossennaim547/osi-model-explanation-09259ce7a5af?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
