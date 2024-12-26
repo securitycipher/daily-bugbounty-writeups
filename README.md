@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 25, 2024 - [Bug Critical Flaw: Default Password to Super Admin!](https://medium.com/@firdansp/bug-critical-flaw-default-password-to-super-admin-ef20c4214231?source=rss------bug_bounty-5) 
+ - 💯December 26, 2024 - [How i Found WCP To DoS Attack Worth of $$](https://medium.com/@RekoJR/how-i-found-wcp-to-dos-attack-worth-of-f1a14553be82?source=rss------bug_bounty-5) 
 
- - 💯December 25, 2024 - [Business logic: I can order anything from your account without paying for it](https://gr3yg05t.medium.com/business-logic-i-can-order-anything-from-your-account-without-paying-for-it-86ef070e01dd?source=rss------bug_bounty-5) 
+ - 💯December 26, 2024 - [My Second Year into Bug Bounties — From Google Dorks to Manual Hunting](https://medium.com/@vedantroy/my-second-year-into-bug-bounties-from-google-dorks-to-manual-hunting-ea8f80dc5b21?source=rss------bug_bounty-5) 
 
- - 💯December 25, 2024 - [My First Encounter with Stored XSS ️‍♂️](https://infosecwriteups.com/my-first-encounter-with-stored-xss-%EF%B8%8F-%EF%B8%8F-88e167582b7e?source=rss------bug_bounty-5) 
+ - 💯December 26, 2024 - [Find XSS Vulnerabilities in Just 2 Minutes](https://coffinxp.medium.com/find-xss-vulnerabilities-in-just-2-minutes-d14b63d000b1?source=rss------bug_bounty-5) 
 
- - 💯December 24, 2024 - [Received an Appreciation Letter from NASA](https://medium.com/@kumawatabhijeet2002/received-an-appreciation-letter-from-nasa-927c3d1ae828?source=rss------bug_bounty-5) 
+ - 💯December 26, 2024 - [Uncovering Amazon S3 Bucket Vulnerabilities: A Comprehensive Guide for Ethical Hackers](https://medium.com/infosecmatrix/uncovering-amazon-s3-bucket-vulnerabilities-a-comprehensive-guide-for-ethical-hackers-124790bf9e62?source=rss------bug_bounty-5) 
 
- - 💯December 24, 2024 - [Seven Critical Vulnerabilities Found in Premium WPLMS WordPress Plugins](https://medium.com/@wiretor/seven-critical-vulnerabilities-found-in-premium-wplms-wordpress-plugins-c3ce57c55bae?source=rss------bug_bounty-5) 
+ - 💯December 25, 2024 - [Cross-Site Scripting &lpar;XSS&rpar;: Techniques, Bypasses, and Detection](https://medium.com/@rootast/cross-site-scripting-xss-techniques-bypasses-and-detection-927af5a55d02?source=rss------bug_bounty-5) 
 
- - 💯December 24, 2024 - [New Glutton Malware Exploits Popular PHP Frameworks](https://medium.com/@wiretor/new-glutton-malware-exploits-popular-php-frameworks-2a5914f89407?source=rss------bug_bounty-5) 
+ - 💯December 25, 2024 - [How Would I Start Cybersecurity If I Knew This? A 1-Year Roadmap for 2025](https://medium.com/@afilalbadr2/how-would-i-start-cybersecurity-if-i-knew-this-a-1-year-roadmap-for-2025-c069ba183dc0?source=rss------bug_bounty-5) 
 
- - 💯December 24, 2024 - [Advent of Cyber 2024 [ Day 24 ] Writeup with Answers | TryHackMe Walkthrough](https://medium.com/infosecmatrix/advent-of-cyber-2024-day-24-writeup-with-answers-tryhackme-walkthrough-18393b422649?source=rss------bug_bounty-5) 
+ - 💯December 25, 2024 - [The Ultimate Checklist for Detecting IDOR and Broken Access Control Vulnerabilities](https://thexssrat.medium.com/the-ultimate-checklist-for-detecting-idor-and-broken-access-control-vulnerabilities-b1585dd4e999?source=rss------bug_bounty-5) 
 
- - 💯December 24, 2024 - [From Broken Access Control to First Bounty](https://infosecwriteups.com/from-broken-access-control-to-first-bounty-01712b1dab53?source=rss------bug_bounty-5) 
+ - 💯December 25, 2024 - [10 Burp Suite Extensions you must have in your arsenal](https://bitpanic.medium.com/10-burp-suite-extensions-you-must-have-in-your-arsenal-a3ce81fefb05?source=rss------bug_bounty-5) 
 
- - 💯December 24, 2024 - [A Seemingly Harmless Bug That Could Cost a Company Millions](https://bitpanic.medium.com/a-seemingly-harmless-bug-that-could-cost-a-company-millions-aeada3a31bae?source=rss------bug_bounty-5) 
+ - 💯December 25, 2024 - [How I accidentally found an IDOR bug in Google slides and rewarded $3,133.70](https://medium.com/@atikqur007/how-i-accidentally-found-an-idor-bug-in-google-slides-and-rewarded-3-133-70-96866fac3af1?source=rss------bug_bounty-5) 
 
- - 💯December 24, 2024 - [Why 2025 Will Be the Year of Bug Bounty](https://medium.com/@hackrate/why-2025-will-be-the-year-of-bug-bounty-9811e3987e78?source=rss------bug_bounty-5) 
+ - 💯December 25, 2024 - [Escalating a duplicate Access Control bug to hijack Google Calendar Accounts for a €300 Bounty](https://medium.com/@saltify/escalating-a-duplicate-access-control-bug-to-hijack-google-calendar-accounts-for-a-300-bounty-a5358cfc868f?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
