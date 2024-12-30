@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 29, 2024 - [how i found the parameter tempering vulnerability?](https://doordiefordream.medium.com/how-i-found-the-parameter-tempering-vulnerability-09c4ea5f9675?source=rss------bug_bounty-5) 
+ - 💯December 30, 2024 - [DNS Tunneling to Bypass Firewall.](https://medium.com/@anandrishav2228/dns-tunneling-to-bypass-firewall-ab5e9d91bd7b?source=rss------bug_bounty-5) 
 
- - 💯December 29, 2024 - [Cross-Domain Referrer Leakage &lpar;Bug Bounty&rpar;](https://anontriager.medium.com/cross-domain-referrer-leakage-bug-bounty-5c7fb967883d?source=rss------bug_bounty-5) 
+ - 💯December 30, 2024 - [When APIs Can’t Keep Up: How I Exploited Misconfigured Rate Limits to Crash the Party](https://myselfakash20.medium.com/when-apis-cant-keep-up-how-i-exploited-misconfigured-rate-limits-to-crash-the-party-e5be48d4cacd?source=rss------bug_bounty-5) 
 
- - 💯December 29, 2024 - [How to find SSRF, Bypass Cloudflare, and extract AWS metadata](https://anontriager.medium.com/how-to-find-ssrf-bypass-cloudflare-and-extract-aws-metadata-46d1ee6d1857?source=rss------bug_bounty-5) 
+ - 💯December 30, 2024 - [Exploiting SQLi to Query Database Version on MySQL and Microsoft](https://osintteam.blog/exploiting-sqli-to-query-database-version-on-mysql-and-microsoft-8d38a3ec42b4?source=rss------bug_bounty-5) 
 
- - 💯December 29, 2024 - [Uncovering Race Conditions in Endpoint API Key Generation](https://anjarwilujeng.medium.com/uncovering-race-conditions-in-endpoint-api-key-generation-dec3abf31a83?source=rss------bug_bounty-5) 
+ - 💯December 30, 2024 - [Sql Injection Vulnerability via Registration Form](https://medium.com/@kevstrs_/sql-injection-vulnerability-via-registration-form-ccaf7bbddd0b?source=rss------bug_bounty-5) 
 
- - 💯December 29, 2024 - [Breaking app’s logic workflow to decrease the payments’ amounts](https://medium.com/@bag0zathev2/breaking-apps-logic-workflow-to-decrease-the-payments-amounts-9c9f44efe23d?source=rss------bug_bounty-5) 
+ - 💯December 30, 2024 - [How I was able to delete a production backend server in my first finding.](https://gr3yg05t.medium.com/how-i-was-able-to-delete-a-production-backend-server-in-my-first-finding-5dcce8aa093c?source=rss------bug_bounty-5) 
 
- - 💯December 29, 2024 - [Command Injection &lpar;Tryhackme and Owaspbwa&rpar;](https://medium.com/@BetterBy0x01/command-injection-tryhackme-and-owaspbwa-6765b324c99d?source=rss------bug_bounty-5) 
+ - 💯December 30, 2024 - [Triaging an LFI Vulnerability Report](https://anontriager.medium.com/triaging-an-lfi-vulnerability-report-ad9a33016f0c?source=rss------bug_bounty-5) 
 
- - 💯December 28, 2024 - [Default Credentials Put 15,000+ Four-Faith Routers at Risk](https://medium.com/@wiretor/default-credentials-put-15-000-four-faith-routers-at-risk-65d235b23cfe?source=rss------bug_bounty-5) 
+ - 💯December 30, 2024 - [US Healthcare Providers May Be Hit With New Cybersecurity Rules](https://mhmmuneef.medium.com/us-healthcare-providers-may-be-hit-with-new-cybersecurity-rules-61aa2655ea79?source=rss------bug_bounty-5) 
 
- - 💯December 28, 2024 - [✈️ Japan Airlines Hit by Cyberattack: A Wake-Up Call for Aviation Cybersecurity! ✈️](https://medium.com/@wiretor/%EF%B8%8F-japan-airlines-hit-by-cyberattack-a-wake-up-call-for-aviation-cybersecurity-%EF%B8%8F-dfddcafa3d34?source=rss------bug_bounty-5) 
+ - 💯December 30, 2024 - [️‍♂️ Enhancing Bug Bounty Programs in an AI-Driven Market](https://infosecwriteups.com/%EF%B8%8F-%EF%B8%8F-enhancing-bug-bounty-programs-in-an-ai-driven-market-e512b0b2766a?source=rss------bug_bounty-5) 
 
- - 💯December 28, 2024 - [Volkswagen Leak Reveals 800,000 Cars’ Data: Precision Geo-Locations Exposed!](https://medium.com/@wiretor/volkswagen-leak-reveals-800-000-cars-data-precision-geo-locations-exposed-80acc7587581?source=rss------bug_bounty-5) 
-
- - 💯December 28, 2024 - [Chinese Hackers Target U.S. Telecoms: What You Need to Know](https://medium.com/@wiretor/chinese-hackers-target-u-s-telecoms-what-you-need-to-know-4637ca456eeb?source=rss------bug_bounty-5) 
+ - 💯December 30, 2024 - [Mastering Wfuzz: Uncover Hidden Web Vulnerabilitiese](https://medium.com/@kumawatabhijeet2002/mastering-wfuzz-uncover-hidden-web-vulnerabilitiese-351cbbef18d6?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
