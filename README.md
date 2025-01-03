@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 2, 2025 - [A Recon Tool That Uses AI to Predict Subdomains](https://medium.com/@kumawatabhijeet2002/a-recon-tool-that-uses-ai-to-predict-subdomains-73a41aaa774d?source=rss------bug_bounty-5) 
+ - 💯January 3, 2025 - [How I Uncovered an LFI in 15 Seconds: The Tale of a Curious Hacker and an Unprepared Server](https://medium.com/@shyamfdo82/how-i-uncovered-an-lfi-in-15-seconds-the-tale-of-a-curious-hacker-and-an-unprepared-server-e49925452007?source=rss------bug_bounty-5) 
 
- - 💯January 2, 2025 - [Code Analysis can help you make $200-$500 &lpar;C,C++,Node and general codes&rpar;](https://medium.com/@anandrishav2228/code-analysis-can-help-you-make-200-500-c-c-node-and-general-codes-cb7752617931?source=rss------bug_bounty-5) 
+ - 💯January 3, 2025 - [Use SQL-Map at its best.](https://medium.com/@anandrishav2228/use-sql-map-at-its-best-64180f9ad279?source=rss------bug_bounty-5) 
 
- - 💯January 2, 2025 - [Zero Click Account Takeover](https://anontriager.medium.com/zero-click-account-takeover-7f8bdcda2236?source=rss------bug_bounty-5) 
+ - 💯January 3, 2025 - [Bug Bounty Methodology Version 2025](https://medium.com/@techinsights5/bug-bounty-methodology-version-2025-4cb701838658?source=rss------bug_bounty-5) 
 
- - 💯January 2, 2025 - [hunting #1](https://medium.com/@dark_zone/hunting-1-ee308e923359?source=rss------bug_bounty-5) 
+ - 💯January 3, 2025 - [How My Journey Started as a Bug Bounty Hunter](https://virpalsinh.medium.com/how-my-journey-started-as-a-bug-bounty-hunter-67641b57d01f?source=rss------bug_bounty-5) 
 
- - 💯January 2, 2025 - [Security Misconfiguration &lpar;Tryhackme&rpar;](https://medium.com/@BetterBy0x01/security-misconfiguration-tryhackme-9c763a743a71?source=rss------bug_bounty-5) 
+ - 💯January 3, 2025 - [What is an Advanced Persistent Threat &lpar;APT&rpar;?](https://ritikshrivas.medium.com/what-is-an-advanced-persistent-threat-apt-bbf9bb366e2d?source=rss------bug_bounty-5) 
 
- - 💯January 1, 2025 - [Dive into Go: A Full Guide for Penetration Testers, Bounty Hunters, and Developers](https://medium.com/@v1xtron/dive-into-go-a-full-guide-for-penetration-testers-bounty-hunters-and-developers-5cc013d3f5c6?source=rss------bug_bounty-5) 
+ - 💯January 3, 2025 - [P4 Bugs and POC | Part 1](https://medium.com/@kumawatabhijeet2002/p4-bugs-and-poc-part-1-0dab3517bbe9?source=rss------bug_bounty-5) 
 
- - 💯January 1, 2025 - [Welcome to our first article on this account!](https://medium.com/@Dorking1/welcome-to-our-first-article-on-this-account-f7eb4049b768?source=rss------bug_bounty-5) 
+ - 💯January 3, 2025 - [SQL Injection: A Beginner’s Guide PART 1](https://medium.com/@hamzamabdulrhman/sql-injection-a-beginners-guide-part-1-0bdb41ec8609?source=rss------bug_bounty-5) 
 
- - 💯January 1, 2025 - [This Simple GraphQL SSRF Bug Earned  $3,000 &lpar;3/30 DAYS&rpar;](https://medium.com/@zerodaystories/this-simple-graphql-ssrf-bug-earned-me-3-000-3-30-days-9bd13e2c2f9d?source=rss------bug_bounty-5) 
+ - 💯January 2, 2025 - [US Arrests Army Soldier Over AT&amp;T, Verizon Hacking | Linked to Presidential Call Log Leaks](https://medium.com/@wiretor/us-arrests-army-soldier-over-at-t-verizon-hacking-linked-to-presidential-call-log-leaks-25897c6b4e0b?source=rss------bug_bounty-5) 
 
- - 💯January 1, 2025 - [Advanced Enumeration Techniques](https://medium.com/@phirojshah20/advanced-enumeration-techniques-45cbeb429231?source=rss------bug_bounty-5) 
+ - 💯January 2, 2025 - [Rhode Islanders’ Data Breach: Protect Yourself from Cyberattacks Today!](https://medium.com/@wiretor/rhode-islanders-data-breach-protect-yourself-from-cyberattacks-today-1c0f4f79b40b?source=rss------bug_bounty-5) 
 
- - 💯January 1, 2025 - [Discovery and Probing Tools](https://medium.com/@phirojshah20/discovery-and-probing-tools-5bb0a594b5d2?source=rss------bug_bounty-5) 
+ - 💯January 2, 2025 - [Election Interference Exposed: Iranian and Russian Cyber Tactics in the Spotlight](https://medium.com/@wiretor/election-interference-exposed-iranian-and-russian-cyber-tactics-in-the-spotlight-3e9059006021?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
