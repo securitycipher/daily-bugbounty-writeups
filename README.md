@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 5, 2025 - [My First Bug Report in Microsoft Windows Task Manager](https://medium.com/@abdullah.farwees/my-first-bug-report-in-microsoft-windows-task-manager-726972722e50?source=rss------bug_bounty-5) 
+ - 💯January 6, 2025 - [Bypassing API Authentication: Exploiting Token Reuse and Expiry](https://medium.com/@bootstrapsecurity/bypassing-api-authentication-exploiting-token-reuse-and-expiry-0432e7689659?source=rss------bug_bounty-5) 
 
- - 💯January 4, 2025 - [P4 Bugs and POC | Part 5](https://medium.com/@kumawatabhijeet2002/p4-bugs-and-poc-part-5-556962ec83f7?source=rss------bug_bounty-5) 
+ - 💯January 6, 2025 - [Missing SPF BUG HUNTING](https://medium.com/@cybertips96/missing-spf-bug-hunting-121294c9572e?source=rss------bug_bounty-5) 
 
- - 💯January 4, 2025 - [What Is Cross Site Request Forgery?](https://medium.com/@dante.falls/what-is-cross-site-request-forgery-a52a48562f58?source=rss------bug_bounty-5) 
+ - 💯January 6, 2025 - [How I Found PII at NASA Using Google Dorking](https://medium.com/@salaheddine_kalada/how-i-found-pii-at-nasa-using-google-dorking-6447a89decc7?source=rss------bug_bounty-5) 
 
- - 💯January 4, 2025 - [How I Found P1 Vulnerability Using Google Dork](https://h0x1d.medium.com/how-i-found-a-p1-vulnerability-using-google-dork-33ac0250df89?source=rss------bug_bounty-5) 
+ - 💯January 6, 2025 - [P4 Bugs and POC | Part 7](https://medium.com/@kumawatabhijeet2002/p4-bugs-and-poc-part-7-a379f057ba96?source=rss------bug_bounty-5) 
 
- - 💯January 4, 2025 - [My First Year in Bug Bounty](https://cyxbugs.medium.com/my-first-year-in-bug-bounty-42f39a42fc7f?source=rss------bug_bounty-5) 
+ - 💯January 6, 2025 - [Day 27 of 30 Day — 30 Vulnerabilities | Server-Side Template Injection &lpar;SSTI&rpar;](https://it4chis3c.medium.com/day-27-of-30-day-30-vulnerabilities-server-side-template-injection-ssti-12f933587800?source=rss------bug_bounty-5) 
 
- - 💯January 4, 2025 - [Nikto : VulnerabilityScanner COMMANDS](https://jawstar.medium.com/nikto-vulnerabilityscanner-commands-578b76344097?source=rss------bug_bounty-5) 
+ - 💯January 6, 2025 - [From oos — getting bounty Improper Access Control to create an commentor account on the application.](https://medium.com/@swaroopvenkat828/from-oos-getting-bounty-improper-access-control-to-create-an-commentor-account-on-the-application-027b517928bb?source=rss------bug_bounty-5) 
 
- - 💯January 4, 2025 - [Bad Tenable Plugin Updates Take Down Nessus Agents Worldwide](https://medium.com/@wiretor/bad-tenable-plugin-updates-take-down-nessus-agents-worldwide-baf7c48c34a3?source=rss------bug_bounty-5) 
+ - 💯January 5, 2025 - [Top 8 Bug Bounty Platforms in 2025](https://hackers-guild-blog.medium.com/top-8-bug-bounty-platforms-in-2025-84a1f6b7b226?source=rss------bug_bounty-5) 
 
- - 💯January 4, 2025 - [New Android Malware Alert: FireScam Targets RuStore Users!](https://medium.com/@wiretor/new-android-malware-alert-firescam-targets-rustore-users-b5de983bd805?source=rss------bug_bounty-5) 
+ - 💯January 5, 2025 - [Bug Bounty Goldmine: The Wildest Cybersecurity Discoveries](https://medium.com/@hackrate/bug-bounty-goldmine-the-wildest-cybersecurity-discoveries-bb6d1be478dd?source=rss------bug_bounty-5) 
 
- - 💯January 4, 2025 - [Find XSS Vulnerabilities in Minutes](https://medium.com/@phirojshah20/find-xss-vulnerabilities-in-minutes-912d02d2b848?source=rss------bug_bounty-5) 
+ - 💯January 5, 2025 - [CVE-2025–0224: Provision-ISR SH-4050A-2 Server.js Information Disclosure](https://medium.com/@wiretor/cve-2025-0224-provision-isr-sh-4050a-2-server-js-information-disclosure-42df13998a66?source=rss------bug_bounty-5) 
 
- - 💯January 4, 2025 - [Detecting GraphQL Injection: Tools and Techniques for Security Testers](https://medium.com/infosecmatrix/detecting-graphql-injection-tools-and-techniques-for-security-testers-f3742d0388aa?source=rss------bug_bounty-5) 
+ - 💯January 5, 2025 - [CVE-2025–0226: Information Disclosure Vulnerability in Tsinghua Unigroup Electronic Archives…](https://medium.com/@wiretor/cve-2025-0226-information-disclosure-vulnerability-in-tsinghua-unigroup-electronic-archives-cf44084fc78c?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
