@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 6, 2025 - [Bypassing API Authentication: Exploiting Token Reuse and Expiry](https://medium.com/@bootstrapsecurity/bypassing-api-authentication-exploiting-token-reuse-and-expiry-0432e7689659?source=rss------bug_bounty-5) 
+ - 💯January 7, 2025 - [Getting Started with Bug Bounty Hunting in 2025: A Real World Guide](https://medium.com/@hackbynight/getting-started-with-bug-bounty-hunting-in-2025-a-real-world-guide-051a3fb36376?source=rss------bug_bounty-5) 
 
- - 💯January 6, 2025 - [Missing SPF BUG HUNTING](https://medium.com/@cybertips96/missing-spf-bug-hunting-121294c9572e?source=rss------bug_bounty-5) 
+ - 💯January 7, 2025 - [Server-Side Template Injection &lpar;SSTI&rpar;: Advanced Exploitation Techniques](https://medium.com/@bootstrapsecurity/server-side-template-injection-ssti-advanced-exploitation-techniques-2d8ccdf6270f?source=rss------bug_bounty-5) 
 
- - 💯January 6, 2025 - [How I Found PII at NASA Using Google Dorking](https://medium.com/@salaheddine_kalada/how-i-found-pii-at-nasa-using-google-dorking-6447a89decc7?source=rss------bug_bounty-5) 
+ - 💯January 7, 2025 - [Finding more subdomains](https://medium.com/@loyalonlytoday/finding-more-subdomains-8b1abb32f3e5?source=rss------bug_bounty-5) 
 
- - 💯January 6, 2025 - [P4 Bugs and POC | Part 7](https://medium.com/@kumawatabhijeet2002/p4-bugs-and-poc-part-7-a379f057ba96?source=rss------bug_bounty-5) 
+ - 💯January 7, 2025 - [How i found ssti injection &lpar;Server-side template injection&rpar;on yeswehack platform in public program](https://medium.com/@ravindrajatav0709/how-i-found-ssti-injection-server-side-template-injection-on-yeswehack-platform-in-public-program-bfde6a89f477?source=rss------bug_bounty-5) 
 
- - 💯January 6, 2025 - [Day 27 of 30 Day — 30 Vulnerabilities | Server-Side Template Injection &lpar;SSTI&rpar;](https://it4chis3c.medium.com/day-27-of-30-day-30-vulnerabilities-server-side-template-injection-ssti-12f933587800?source=rss------bug_bounty-5) 
+ - 💯January 7, 2025 - [Detect Open Redirect Vulnerabilities with RedirXploit](https://angixblack.medium.com/detect-open-redirect-vulnerabilities-with-redirxploit-946ac287846f?source=rss------bug_bounty-5) 
 
- - 💯January 6, 2025 - [From oos — getting bounty Improper Access Control to create an commentor account on the application.](https://medium.com/@swaroopvenkat828/from-oos-getting-bounty-improper-access-control-to-create-an-commentor-account-on-the-application-027b517928bb?source=rss------bug_bounty-5) 
+ - 💯January 6, 2025 - [How I Exposed IDOR and Path Traversal Vulnerabilities in a Parking Portal](https://medium.com/@br3ss/how-i-exposed-idor-and-path-traversal-vulnerabilities-in-a-parking-portal-0ae8e4940306?source=rss------bug_bounty-5) 
 
- - 💯January 5, 2025 - [Top 8 Bug Bounty Platforms in 2025](https://hackers-guild-blog.medium.com/top-8-bug-bounty-platforms-in-2025-84a1f6b7b226?source=rss------bug_bounty-5) 
+ - 💯January 6, 2025 - [Day 0 — 05 : M y Bug Bounty Challenge 0–100k without knowledge in one year!](https://medium.com/@dogxxx10/day-0-05-m-y-bug-bounty-challenge-0-100k-without-knowledge-in-one-year-94f090fdf54a?source=rss------bug_bounty-5) 
 
- - 💯January 5, 2025 - [Bug Bounty Goldmine: The Wildest Cybersecurity Discoveries](https://medium.com/@hackrate/bug-bounty-goldmine-the-wildest-cybersecurity-discoveries-bb6d1be478dd?source=rss------bug_bounty-5) 
+ - 💯January 6, 2025 - [P4 Bugs and POC | Part-8](https://infosecwriteups.com/p4-bugs-and-poc-part-8-2b4ed878c53a?source=rss------bug_bounty-5) 
 
- - 💯January 5, 2025 - [CVE-2025–0224: Provision-ISR SH-4050A-2 Server.js Information Disclosure](https://medium.com/@wiretor/cve-2025-0224-provision-isr-sh-4050a-2-server-js-information-disclosure-42df13998a66?source=rss------bug_bounty-5) 
+ - 💯January 6, 2025 - [How I Found My First Bug &lpar;RXSS&rpar;](https://medium.com/@a0xtrojan/how-i-found-my-first-bug-rxss-2ac44e94d628?source=rss------bug_bounty-5) 
 
- - 💯January 5, 2025 - [CVE-2025–0226: Information Disclosure Vulnerability in Tsinghua Unigroup Electronic Archives…](https://medium.com/@wiretor/cve-2025-0226-information-disclosure-vulnerability-in-tsinghua-unigroup-electronic-archives-cf44084fc78c?source=rss------bug_bounty-5) 
+ - 💯January 6, 2025 - [Hidden Dangers of XSS Vulnerabilities — Real Case](https://medium.com/meetcyber/hidden-dangers-of-xss-vulnerabilities-real-case-22177daa6fc8?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
