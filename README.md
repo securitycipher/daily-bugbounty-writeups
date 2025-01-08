@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 7, 2025 - [Getting Started with Bug Bounty Hunting in 2025: A Real World Guide](https://medium.com/@hackbynight/getting-started-with-bug-bounty-hunting-in-2025-a-real-world-guide-051a3fb36376?source=rss------bug_bounty-5) 
+ - 💯January 8, 2025 - [File Upload Vulnerabilities: Techniques and Payloads](https://medium.com/@bootstrapsecurity/file-upload-vulnerabilities-techniques-and-payloads-b0bdf97eb298?source=rss------bug_bounty-5) 
 
- - 💯January 7, 2025 - [Server-Side Template Injection &lpar;SSTI&rpar;: Advanced Exploitation Techniques](https://medium.com/@bootstrapsecurity/server-side-template-injection-ssti-advanced-exploitation-techniques-2d8ccdf6270f?source=rss------bug_bounty-5) 
+ - 💯January 8, 2025 - [ChatGPT for Bug Bounty Hunters: Custom Payloads, Automated Scripts, and More](https://medium.com/@kumawatabhijeet2002/chatgpt-for-bug-bounty-hunters-custom-payloads-automated-scripts-and-more-8a15690c3fa5?source=rss------bug_bounty-5) 
 
- - 💯January 7, 2025 - [Finding more subdomains](https://medium.com/@loyalonlytoday/finding-more-subdomains-8b1abb32f3e5?source=rss------bug_bounty-5) 
+ - 💯January 8, 2025 - [A Beginner’s Guide to Pentesting GraphQL APIs](https://infosecwriteups.com/a-beginners-guide-to-pentesting-graphql-apis-395fa1878f6a?source=rss------bug_bounty-5) 
 
- - 💯January 7, 2025 - [How i found ssti injection &lpar;Server-side template injection&rpar;on yeswehack platform in public program](https://medium.com/@ravindrajatav0709/how-i-found-ssti-injection-server-side-template-injection-on-yeswehack-platform-in-public-program-bfde6a89f477?source=rss------bug_bounty-5) 
+ - 💯January 8, 2025 - [First bounty — Second Order Stored XSS on club.paris2024.org](https://medium.com/@swaroopvenkat828/first-bounty-second-order-stored-xss-on-club-paris2024-org-9a3ad7fe7c7f?source=rss------bug_bounty-5) 
 
- - 💯January 7, 2025 - [Detect Open Redirect Vulnerabilities with RedirXploit](https://angixblack.medium.com/detect-open-redirect-vulnerabilities-with-redirxploit-946ac287846f?source=rss------bug_bounty-5) 
+ - 💯January 8, 2025 - [Weird JavaScript files](https://medium.com/@dsmodi484/weird-javascript-files-7e6e7296e914?source=rss------bug_bounty-5) 
 
- - 💯January 6, 2025 - [How I Exposed IDOR and Path Traversal Vulnerabilities in a Parking Portal](https://medium.com/@br3ss/how-i-exposed-idor-and-path-traversal-vulnerabilities-in-a-parking-portal-0ae8e4940306?source=rss------bug_bounty-5) 
+ - 💯January 8, 2025 - [Threat Hunting with MITRE ATT&amp;CK: A Proactive Approach to Cyber Defence](https://medium.com/@paritoshblogs/threat-hunting-with-mitre-att-ck-a-proactive-approach-to-cyber-defence-a84945f61bda?source=rss------bug_bounty-5) 
 
- - 💯January 6, 2025 - [Day 0 — 05 : M y Bug Bounty Challenge 0–100k without knowledge in one year!](https://medium.com/@dogxxx10/day-0-05-m-y-bug-bounty-challenge-0-100k-without-knowledge-in-one-year-94f090fdf54a?source=rss------bug_bounty-5) 
+ - 💯January 7, 2025 - [Day 06: My Bug Bounty Challenge ... 0–100k without knowledge in one year!](https://medium.com/@dogxxx10/day-06-my-bug-bounty-challenge-0-100k-without-knowledge-in-one-year-5ed71536fd89?source=rss------bug_bounty-5) 
 
- - 💯January 6, 2025 - [P4 Bugs and POC | Part-8](https://infosecwriteups.com/p4-bugs-and-poc-part-8-2b4ed878c53a?source=rss------bug_bounty-5) 
+ - 💯January 7, 2025 - [Humorous XSS Vulnerabilities in a Movie Website](https://medium.com/meetcyber/humorous-xss-vulnerabilities-in-a-movie-website-3600d7828661?source=rss------bug_bounty-5) 
 
- - 💯January 6, 2025 - [How I Found My First Bug &lpar;RXSS&rpar;](https://medium.com/@a0xtrojan/how-i-found-my-first-bug-rxss-2ac44e94d628?source=rss------bug_bounty-5) 
+ - 💯January 7, 2025 - [Beginners Introduction To Server Side Request Forgery](https://bitpanic.medium.com/beginners-introduction-to-server-side-request-forgery-85c3a35eb726?source=rss------bug_bounty-5) 
 
- - 💯January 6, 2025 - [Hidden Dangers of XSS Vulnerabilities — Real Case](https://medium.com/meetcyber/hidden-dangers-of-xss-vulnerabilities-real-case-22177daa6fc8?source=rss------bug_bounty-5) 
+ - 💯January 7, 2025 - [My Journey to Finding Two XSS Vulnerabilities on a Bug Bounty Website](https://medium.com/@mickaelbenlolo/my-journey-to-finding-two-xss-vulnerabilities-on-a-bug-bounty-website-b6a1e38425df?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
