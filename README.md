@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 11, 2025 - [LFI Bug can help you make $500 and more.&lpar;Noob-Advance&rpar;](https://medium.com/@anandrishav2228/lfi-bug-can-help-you-make-500-and-more-noob-advance-be001cb2d152?source=rss------bug_bounty-5) 
+ - 💯January 12, 2025 - [Server-Side Vulnerabilities | #5 File Upload Vulnerabilities](https://medium.com/@agapehearts/server-side-vulnerabilities-5-file-upload-vulnerabilities-7f5f68688cc7?source=rss------bug_bounty-5) 
 
- - 💯January 11, 2025 - [How to Hack Single Page Applications &lpar;SPAs&rpar;: Modern Techniques](https://medium.com/@bootstrapsecurity/how-to-hack-single-page-applications-spas-modern-techniques-4f69c020b0ff?source=rss------bug_bounty-5) 
+ - 💯January 12, 2025 - [How I Found This Crazy PII Data Leak Worth 500$](https://medium.com/@sc128496/how-i-found-this-crazy-pii-data-leak-worth-500-e39d6dd19133?source=rss------bug_bounty-5) 
 
- - 💯January 11, 2025 - [Understanding Large Language Models &lpar;LLMs&rpar;: The Power of AI in Text Generation](https://medium.com/@paritoshblogs/understanding-large-language-models-llms-the-power-of-ai-in-text-generation-dce8c1ddeb7b?source=rss------bug_bounty-5) 
+ - 💯January 12, 2025 - [The Road to CRTP Cert — Part 14](https://medium.com/@dineshkumaar478/the-road-to-crtp-cert-part-14-b7f9cb8bd87f?source=rss------bug_bounty-5) 
 
- - 💯January 11, 2025 - [From Innocent Messages to Total Takeover: How I Hacked a Professional Network!](https://medium.com/@lordofheaven1234/from-innocent-messages-to-total-takeover-how-i-hacked-a-professional-network-2033537d5d6a?source=rss------bug_bounty-5) 
+ - 💯January 12, 2025 - [The Ultimate IDOR Testing Checklist](https://medium.com/@muhammetalgan3547/the-ultimate-idor-testing-checklist-ba4a7c094def?source=rss------bug_bounty-5) 
 
- - 💯January 11, 2025 - [Server-side vulnerabilities | #4 Server-Side Request Forgery](https://medium.com/@agapehearts/server-side-vulnerabilities-4-server-side-request-forgery-71b7c525eadc?source=rss------bug_bounty-5) 
+ - 💯January 12, 2025 - [How i Hacked into NASA &amp; got Hall-Of-Fame, Acknowledgement -2025](https://medium.com/@securityinsights/how-i-hacked-into-nasa-got-hall-of-fame-acknowledgement-2025-d22815f09e29?source=rss------bug_bounty-5) 
 
- - 💯January 11, 2025 - [Crawling for Emails In Websites  — OSINT Methodology](https://osintteam.blog/crawling-for-emails-in-websites-osint-methodology-602e2b274c6e?source=rss------bug_bounty-5) 
+ - 💯January 12, 2025 - [How to find my first bounty $$$](https://systemweakness.com/how-to-find-my-first-bounty-68ba0022dcf0?source=rss------bug_bounty-5) 
 
- - 💯January 10, 2025 - [Day 09: My Bug Bounty Challenge … 0–100k without knowledge in one year!](https://medium.com/@dogxxx10/day-09-my-bug-bounty-challenge-0-100k-without-knowledge-in-one-year-220c7c6bb0cf?source=rss------bug_bounty-5) 
+ - 💯January 11, 2025 - [EXIF Metadata-Based XSS Attacks: A Web Security Research](https://medium.com/@enesonder001/exif-metadata-based-xss-attacks-a-web-security-research-e88c7ea7b69b?source=rss------bug_bounty-5) 
 
- - 💯January 10, 2025 - [Revisiting a Simple SQL Injection Methodology](https://infosecwriteups.com/revisiting-a-simple-sql-injection-methodology-ecd42634a21e?source=rss------bug_bounty-5) 
+ - 💯January 11, 2025 - [Critical IDOR Vulnerability: Unauthorized Users Can Modify Company’s PayPal Email](https://medium.com/@mahdisalhi0500/critical-idor-vulnerability-unauthorized-users-can-modify-companys-paypal-email-92bf24ae19df?source=rss------bug_bounty-5) 
 
- - 💯January 10, 2025 - [Race Condition to Bypass Rate-Limiting: A new technique made by Nillsx](https://infosecwriteups.com/race-condition-to-bypass-rate-limiting-a-new-technique-made-by-nillsx-6a60f41dbae6?source=rss------bug_bounty-5) 
+ - 💯January 11, 2025 - [Exposing the Weak Points: Vulnerabilities in REST APIs](https://bitpanic.medium.com/exposing-the-weak-points-vulnerabilities-in-rest-apis-8e4acb4861b0?source=rss------bug_bounty-5) 
 
- - 💯January 10, 2025 - [How to Identify Overlooked Bugs in Android Applications: A Bug Bounty Hunter’s Guide](https://bitpanic.medium.com/how-to-identify-overlooked-bugs-in-android-applications-a-bug-bounty-hunters-guide-5c194ed283a4?source=rss------bug_bounty-5) 
+ - 💯January 11, 2025 - [Crack the Code: Your Bug Bounty Hunting Journey Starts Here](https://it4chis3c.medium.com/crack-the-code-your-bug-bounty-hunting-journey-starts-here-e61701f8cb36?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
