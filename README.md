@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 12, 2025 - [Server-Side Vulnerabilities | #5 File Upload Vulnerabilities](https://medium.com/@agapehearts/server-side-vulnerabilities-5-file-upload-vulnerabilities-7f5f68688cc7?source=rss------bug_bounty-5) 
+ - 💯January 13, 2025 - [How I got my name on WHO’s Hall of Fame](https://infosecwriteups.com/how-i-got-my-name-on-whos-hall-of-fame-060d57662b16?source=rss------bug_bounty-5) 
 
- - 💯January 12, 2025 - [How I Found This Crazy PII Data Leak Worth 500$](https://medium.com/@sc128496/how-i-found-this-crazy-pii-data-leak-worth-500-e39d6dd19133?source=rss------bug_bounty-5) 
+ - 💯January 13, 2025 - [Stored CSRF via Uploaded HTML File in User Account Document Section](https://jxycybersec.medium.com/stored-csrf-via-uploaded-html-file-in-user-account-document-section-dbe98e9184a3?source=rss------bug_bounty-5) 
 
- - 💯January 12, 2025 - [The Road to CRTP Cert — Part 14](https://medium.com/@dineshkumaar478/the-road-to-crtp-cert-part-14-b7f9cb8bd87f?source=rss------bug_bounty-5) 
+ - 💯January 13, 2025 - [JavaScript Recon](https://anontriager.medium.com/javascript-recon-efd981a85cfc?source=rss------bug_bounty-5) 
 
- - 💯January 12, 2025 - [The Ultimate IDOR Testing Checklist](https://medium.com/@muhammetalgan3547/the-ultimate-idor-testing-checklist-ba4a7c094def?source=rss------bug_bounty-5) 
+ - 💯January 13, 2025 - [Diving in Android Security](https://anontriager.medium.com/diving-in-android-security-a93f017b16f0?source=rss------bug_bounty-5) 
 
- - 💯January 12, 2025 - [How i Hacked into NASA &amp; got Hall-Of-Fame, Acknowledgement -2025](https://medium.com/@securityinsights/how-i-hacked-into-nasa-got-hall-of-fame-acknowledgement-2025-d22815f09e29?source=rss------bug_bounty-5) 
+ - 💯January 13, 2025 - [Emerging Cyber Threats: The Latest Trends in Ransomware, Phishing, and APTs](https://medium.com/@paritoshblogs/emerging-cyber-threats-the-latest-trends-in-ransomware-phishing-and-apts-e3393f6410bc?source=rss------bug_bounty-5) 
 
- - 💯January 12, 2025 - [How to find my first bounty $$$](https://systemweakness.com/how-to-find-my-first-bounty-68ba0022dcf0?source=rss------bug_bounty-5) 
+ - 💯January 13, 2025 - [Hire a hacker](https://medium.com/@carl19722401/hire-a-hack-c54710808c3c?source=rss------bug_bounty-5) 
 
- - 💯January 11, 2025 - [EXIF Metadata-Based XSS Attacks: A Web Security Research](https://medium.com/@enesonder001/exif-metadata-based-xss-attacks-a-web-security-research-e88c7ea7b69b?source=rss------bug_bounty-5) 
+ - 💯January 13, 2025 - [From Containers to Host: Privilege Escalation Techniques in Docker](https://medium.com/@kankojoseph4/from-containers-to-host-privilege-escalation-techniques-in-docker-487fe2124b8e?source=rss------bug_bounty-5) 
 
- - 💯January 11, 2025 - [Critical IDOR Vulnerability: Unauthorized Users Can Modify Company’s PayPal Email](https://medium.com/@mahdisalhi0500/critical-idor-vulnerability-unauthorized-users-can-modify-companys-paypal-email-92bf24ae19df?source=rss------bug_bounty-5) 
+ - 💯January 12, 2025 - [Portswigger Web Security Academy : File path traversal, simple case walkthrough](https://medium.com/@Kinqdathacker/portswigger-web-security-academy-file-path-traversal-simple-case-walkthrough-d04418d04b76?source=rss------bug_bounty-5) 
 
- - 💯January 11, 2025 - [Exposing the Weak Points: Vulnerabilities in REST APIs](https://bitpanic.medium.com/exposing-the-weak-points-vulnerabilities-in-rest-apis-8e4acb4861b0?source=rss------bug_bounty-5) 
+ - 💯January 12, 2025 - [The Art of Note-Taking in Bug Bounty Hunting](https://medium.com/@mahdisalhi0500/the-art-of-note-taking-in-bug-bounty-hunting-9b28876316e3?source=rss------bug_bounty-5) 
 
- - 💯January 11, 2025 - [Crack the Code: Your Bug Bounty Hunting Journey Starts Here](https://it4chis3c.medium.com/crack-the-code-your-bug-bounty-hunting-journey-starts-here-e61701f8cb36?source=rss------bug_bounty-5) 
+ - 💯January 12, 2025 - [How i found Broken Access Control](https://medium.com/@gitlime71/how-i-found-broken-access-control-c3377d3df60e?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
