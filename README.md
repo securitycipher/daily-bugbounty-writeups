@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 13, 2025 - [How I got my name on WHO’s Hall of Fame](https://infosecwriteups.com/how-i-got-my-name-on-whos-hall-of-fame-060d57662b16?source=rss------bug_bounty-5) 
+ - 💯January 14, 2025 - [OWASP Top 10 Testing Guide V4 Checklist](https://infosecwriteups.com/owasp-top-10-testing-guide-v4-checklist-02448c971539?source=rss------bug_bounty-5) 
 
- - 💯January 13, 2025 - [Stored CSRF via Uploaded HTML File in User Account Document Section](https://jxycybersec.medium.com/stored-csrf-via-uploaded-html-file-in-user-account-document-section-dbe98e9184a3?source=rss------bug_bounty-5) 
+ - 💯January 14, 2025 - [The Road to CRTP Cert — Part 15](https://medium.com/@dineshkumaar478/the-road-to-crtp-cert-part-15-d9ab41f827a4?source=rss------bug_bounty-5) 
 
- - 💯January 13, 2025 - [JavaScript Recon](https://anontriager.medium.com/javascript-recon-efd981a85cfc?source=rss------bug_bounty-5) 
+ - 💯January 14, 2025 - [Tips to find Stored XSS [Bug_Bounty_Tips]](https://medium.com/infosec-notes/tips-to-find-stored-xss-bug-bounty-tips-86cb62a529c8?source=rss------bug_bounty-5) 
 
- - 💯January 13, 2025 - [Diving in Android Security](https://anontriager.medium.com/diving-in-android-security-a93f017b16f0?source=rss------bug_bounty-5) 
+ - 💯January 13, 2025 - [Methodology for Detecting IDOR Vulnerability](https://medium.com/@dogxxx10/methodology-for-detecting-idor-vulnerability-1590b14d45a9?source=rss------bug_bounty-5) 
 
- - 💯January 13, 2025 - [Emerging Cyber Threats: The Latest Trends in Ransomware, Phishing, and APTs](https://medium.com/@paritoshblogs/emerging-cyber-threats-the-latest-trends-in-ransomware-phishing-and-apts-e3393f6410bc?source=rss------bug_bounty-5) 
+ - 💯January 13, 2025 - [Bug Bounty vs VDP: Building Effective Security Programs with Hacker Collaboration](https://medium.com/@dzianisskliar29/bug-bounty-vs-vdp-building-effective-security-programs-with-hacker-collaboration-0a7db1b3f2df?source=rss------bug_bounty-5) 
 
- - 💯January 13, 2025 - [Hire a hacker](https://medium.com/@carl19722401/hire-a-hack-c54710808c3c?source=rss------bug_bounty-5) 
+ - 💯January 13, 2025 - [Security Session #1](https://medium.com/@mon.cybersec/security-session-1-9457a0f5bd27?source=rss------bug_bounty-5) 
 
- - 💯January 13, 2025 - [From Containers to Host: Privilege Escalation Techniques in Docker](https://medium.com/@kankojoseph4/from-containers-to-host-privilege-escalation-techniques-in-docker-487fe2124b8e?source=rss------bug_bounty-5) 
+ - 💯January 13, 2025 - [How To Bypass CSRF Defenses With XSS](https://medium.com/@dante.falls/how-to-bypass-csrf-defenses-with-xss-44a124b7646a?source=rss------bug_bounty-5) 
 
- - 💯January 12, 2025 - [Portswigger Web Security Academy : File path traversal, simple case walkthrough](https://medium.com/@Kinqdathacker/portswigger-web-security-academy-file-path-traversal-simple-case-walkthrough-d04418d04b76?source=rss------bug_bounty-5) 
+ - 💯January 13, 2025 - [Get Your First Bug Bounty with Burp Suite’s Match and Replace Feature](https://medium.com/@mahdisalhi0500/get-your-first-bug-bounty-with-burp-suites-match-and-replace-feature-7a32f81a3cb0?source=rss------bug_bounty-5) 
 
- - 💯January 12, 2025 - [The Art of Note-Taking in Bug Bounty Hunting](https://medium.com/@mahdisalhi0500/the-art-of-note-taking-in-bug-bounty-hunting-9b28876316e3?source=rss------bug_bounty-5) 
-
- - 💯January 12, 2025 - [How i found Broken Access Control](https://medium.com/@gitlime71/how-i-found-broken-access-control-c3377d3df60e?source=rss------bug_bounty-5) 
+ - 💯January 13, 2025 - [I Changed Someone’s Profile Picture… And They Had No Idea!!](https://infosecwriteups.com/i-changed-someones-profile-picture-and-they-had-no-idea-a1dc621d12c4?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
