@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 15, 2025 - [Bypassing Razer’s WAF for XSS](https://medium.com/@n45ht/bypassing-razers-waf-for-xss-afcaea744ab4?source=rss------bug_bounty-5) 
+ - 💯January 16, 2025 - [Kicking Off 2025: Findings on U.S. Department of Energy](https://cybersecuritywriteups.com/kicking-off-2025-findings-on-u-s-department-of-energy-a92149e43102?source=rss------bug_bounty-5) 
 
- - 💯January 15, 2025 - [My 2nd Bounty on the Same Company Again: ¥15,000 for a Medium Bug](https://medium.com/@dibyaranjanmohanta2806/my-2nd-bounty-on-the-same-company-again-15-000-for-a-medium-bug-e3dd70c0d40a?source=rss------bug_bounty-5) 
+ - 💯January 16, 2025 - [How to Tackle Vulnerable JavaScript Dependencies: Lessons from the Kerala Government Website](https://medium.com/@ashwin74/how-to-tackle-vulnerable-javascript-dependencies-lessons-from-the-kerala-government-website-220722709ac4?source=rss------bug_bounty-5) 
 
- - 💯January 15, 2025 - [Exploiting IDOR in a Support Portal Chatbot](https://infosecwriteups.com/exploiting-idor-in-a-support-portal-chatbot-f1d0617bace1?source=rss------bug_bounty-5) 
+ - 💯January 16, 2025 - [Finding a easy p4 it can be worth 200$](https://medium.com/infosecmatrix/finding-a-easy-p4-it-can-be-worth-200-5d65a9faad0b?source=rss------bug_bounty-5) 
 
- - 💯January 15, 2025 - [NTLM Auth Disclosing Internal System Info via HTTP/2 to HTTP/1.1 Downgrade](https://medium.com/meetcyber/ntlm-auth-disclosing-internal-system-info-via-http-2-to-http-1-1-downgrade-603cc35c2dc4?source=rss------bug_bounty-5) 
+ - 💯January 16, 2025 - [Day One — HACKER 101 MicroCMS v1 Flag 1 — CTF](https://medium.com/@devinmack39/day-one-hacker-101-microcms-v1-flag-1-ctf-eb606905eea7?source=rss------bug_bounty-5) 
 
- - 💯January 15, 2025 - [kya medium account jo suspend ho giya vo vapes aya ga .??](https://medium.com/@subhash_9358/kya-medium-account-jo-suspend-ho-giya-vo-vapes-aya-ga-1d480676922e?source=rss------bug_bounty-5) 
+ - 💯January 16, 2025 - [This is The Easiest Bug You Can Find✨](https://cybersecuritywriteups.com/this-is-the-easiest-bug-you-can-find-feadc3ef95a5?source=rss------bug_bounty-5) 
 
- - 💯January 15, 2025 - [What You Can Expect: A Personal Introduction and Blog Overview](https://medium.com/@T3chnocr4t/what-you-can-expect-a-personal-introduction-and-blog-overview-3a0a6cc984f6?source=rss------bug_bounty-5) 
+ - 💯January 16, 2025 - [Capturing of Network Traffic Using Wireshark Tool](https://mhmmuneef.medium.com/capturing-of-network-traffic-using-wireshark-tool-09a9926f18dd?source=rss------bug_bounty-5) 
 
- - 💯January 15, 2025 - [Metasploit for Beginners — A Guide to the Powerful Exploitation Framework](https://medium.com/@manishmshiva/metasploit-for-beginners-a-guide-to-the-powerful-exploitation-framework-a8b4245c8893?source=rss------bug_bounty-5) 
+ - 💯January 15, 2025 - [How i found RXSS in href Attribute](https://medium.com/@mohaned0101/how-i-found-rxss-in-href-attribute-13a85e4e2c4d?source=rss------bug_bounty-5) 
 
- - 💯January 15, 2025 - [Hack with your mind! That’s enough?](https://osintteam.blog/hack-with-your-mind-thats-enough-1c6b645d1384?source=rss------bug_bounty-5) 
+ - 💯January 15, 2025 - [Account Takeover in Mobile Apps: How to Exploit Vulnerabilities](https://medium.com/meetcyber/account-takeover-in-mobile-apps-how-to-exploit-vulnerabilities-dc1b55ef6891?source=rss------bug_bounty-5) 
 
- - 💯January 14, 2025 - [Guía: instalación de VM + Kali](https://medium.com/@mon.cybersec/gu%C3%ADa-instalaci%C3%B3n-de-vm-kali-fb7230a5263c?source=rss------bug_bounty-5) 
-
- - 💯January 14, 2025 - [The Definitive Guide to GitHub Recon: Lessons from Analyzing 100+ Reports](https://medium.com/@iamakashce19010/the-definitive-guide-to-github-recon-lessons-from-analyzing-100-reports-bd5d4891a815?source=rss------bug_bounty-5) 
+ - 💯January 15, 2025 - [Best Resources for Learning Cybersecurity: A Student’s Guide](https://medium.com/@himzyoti.talukdar1234/best-resources-for-learning-cybersecurity-a-students-guide-002694679378?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
