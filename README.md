@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 16, 2025 - [Kicking Off 2025: Findings on U.S. Department of Energy](https://cybersecuritywriteups.com/kicking-off-2025-findings-on-u-s-department-of-energy-a92149e43102?source=rss------bug_bounty-5) 
+ - 💯January 17, 2025 - [One More Easy Bug | HTML Injection](https://medium.com/@kumawatabhijeet2002/one-more-easy-bug-html-injection-4279fccabbc6?source=rss------bug_bounty-5) 
 
- - 💯January 16, 2025 - [How to Tackle Vulnerable JavaScript Dependencies: Lessons from the Kerala Government Website](https://medium.com/@ashwin74/how-to-tackle-vulnerable-javascript-dependencies-lessons-from-the-kerala-government-website-220722709ac4?source=rss------bug_bounty-5) 
+ - 💯January 17, 2025 - [Critical Vulnerability Alert: CVE-2025-22949 – Tenda AC9 Router Command Injection](https://medium.com/@muhammetalgan3547/critical-vulnerability-alert-cve-2025-22949-tenda-ac9-router-command-injection-3fe10252a835?source=rss------bug_bounty-5) 
 
- - 💯January 16, 2025 - [Finding a easy p4 it can be worth 200$](https://medium.com/infosecmatrix/finding-a-easy-p4-it-can-be-worth-200-5d65a9faad0b?source=rss------bug_bounty-5) 
+ - 💯January 17, 2025 - [Android Intent Redirection: A Hacker’s Gateway to Internal Components](https://medium.com/@0x3adly/android-intent-redirection-a-hackers-gateway-to-internal-components-ebe126bbb2e0?source=rss------bug_bounty-5) 
 
- - 💯January 16, 2025 - [Day One — HACKER 101 MicroCMS v1 Flag 1 — CTF](https://medium.com/@devinmack39/day-one-hacker-101-microcms-v1-flag-1-ctf-eb606905eea7?source=rss------bug_bounty-5) 
+ - 💯January 17, 2025 - [Day 2 — Hacker101 MicroCMS v1 Flag 3 Write-Up](https://medium.com/@devinmack39/hacker101-microcms-v1-flag-3-write-up-db82e442b922?source=rss------bug_bounty-5) 
 
- - 💯January 16, 2025 - [This is The Easiest Bug You Can Find✨](https://cybersecuritywriteups.com/this-is-the-easiest-bug-you-can-find-feadc3ef95a5?source=rss------bug_bounty-5) 
+ - 💯January 16, 2025 - [The Top 8 Kali Linux Tools For 2025](https://mhmmuneef.medium.com/the-top-8-kali-linux-tools-for-2025-d5904319b1d7?source=rss------bug_bounty-5) 
 
- - 💯January 16, 2025 - [Capturing of Network Traffic Using Wireshark Tool](https://mhmmuneef.medium.com/capturing-of-network-traffic-using-wireshark-tool-09a9926f18dd?source=rss------bug_bounty-5) 
+ - 💯January 16, 2025 - [Exploring CORS Misconfiguration Vulnerabilities in Modern Applications](https://rootast.medium.com/exploring-cors-misconfiguration-vulnerabilities-in-modern-applications-def492a23e95?source=rss------bug_bounty-5) 
 
- - 💯January 15, 2025 - [How i found RXSS in href Attribute](https://medium.com/@mohaned0101/how-i-found-rxss-in-href-attribute-13a85e4e2c4d?source=rss------bug_bounty-5) 
+ - 💯January 16, 2025 - [Hackers Leak Configs and VPN Credentials for 15,000 FortiGate Devices](https://medium.com/@wiretor/hackers-leak-configs-and-vpn-credentials-for-15-000-fortigate-devices-c9586b6e6051?source=rss------bug_bounty-5) 
 
- - 💯January 15, 2025 - [Account Takeover in Mobile Apps: How to Exploit Vulnerabilities](https://medium.com/meetcyber/account-takeover-in-mobile-apps-how-to-exploit-vulnerabilities-dc1b55ef6891?source=rss------bug_bounty-5) 
+ - 💯January 16, 2025 - [How to pass EMAPT exam](https://medium.com/@nomad8061/how-to-pass-emapt-exam-78bed982d061?source=rss------bug_bounty-5) 
 
- - 💯January 15, 2025 - [Best Resources for Learning Cybersecurity: A Student’s Guide](https://medium.com/@himzyoti.talukdar1234/best-resources-for-learning-cybersecurity-a-students-guide-002694679378?source=rss------bug_bounty-5) 
+ - 💯January 16, 2025 - [OTP BYPASS TECHNIQUE its My StOry [sweet and sour]](https://medium.com/infosec-notes/otp-bypass-technique-its-my-story-sweet-and-sour-3e96b9eb63a0?source=rss------bug_bounty-5) 
+
+ - 💯January 16, 2025 - [Java Script file analysis to find bugs](https://medium.com/@hrofficial62/java-script-file-analysis-to-find-bugs-1fb865fee83e?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
