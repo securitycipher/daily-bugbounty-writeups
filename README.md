@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 18, 2025 - [How to Stay Anonymous While Doing OSINT](https://medium.com/@paritoshblogs/how-to-stay-anonymous-while-doing-osint-519f607fa79d?source=rss------bug_bounty-5) 
+ - 💯January 19, 2025 - [Finding my First SQL Injection On HackerOne](https://infosecwriteups.com/finding-my-first-sql-injection-on-hackerone-6a031ab5aa1c?source=rss------bug_bounty-5) 
 
- - 💯January 18, 2025 - [Bug Bounty | Privilege Escalation From Admin To Owner](https://medium.com/@yog_sahare/bug-bounty-privilege-escalation-from-admin-to-owner-90d86e2395e6?source=rss------bug_bounty-5) 
+ - 💯January 19, 2025 - [Unlimited XSS | This is the Dumbest Way to Find XSS Bug](https://medium.com/readers-club/unlimited-xss-this-is-the-dumbest-way-to-find-xss-bug-6ee92de5df38?source=rss------bug_bounty-5) 
 
- - 💯January 18, 2025 - [Google XSS Game](https://medium.com/@PhilopaterSh/google-xss-game-6dbd1c8b3eb8?source=rss------bug_bounty-5) 
+ - 💯January 19, 2025 - [From Path Traversal to RCE: A $40,000 Bug Bounty Journey](https://medium.com/@ibtissamhammadi/from-path-traversal-to-rce-a-40-000-bug-bounty-journey-a8316994ab3d?source=rss------bug_bounty-5) 
 
- - 💯January 18, 2025 - [The Road to CRTP Cert — Part 16](https://medium.com/@dineshkumaar478/the-road-to-crtp-cert-part-16-edc129cf1277?source=rss------bug_bounty-5) 
+ - 💯January 19, 2025 - [Monsif Hmouri: بين الأخلاقيات التقنية والنضال من أجل العدالة](https://monsifhmouri.medium.com/monsif-hmouri-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%A3%D8%AE%D9%84%D8%A7%D9%82%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%86%D8%B6%D8%A7%D9%84-%D9%85%D9%86-%D8%A3%D8%AC%D9%84-%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9-dd651dada725?source=rss------bug_bounty-5) 
 
- - 💯January 18, 2025 - [How Did a Simple Path Traversal to RCE Bug Land Me $40K?](https://medium.com/@ibtissamhammadi/how-did-a-simple-path-traversal-to-rce-bug-land-me-40k-e20aecb162b0?source=rss------bug_bounty-5) 
+ - 💯January 18, 2025 - [How I Discovered a Password Reset Vulnerability on a Web Application](https://medium.com/@Dorking1/how-i-discovered-a-password-reset-vulnerability-on-a-web-application-14fe29f9499c?source=rss------bug_bounty-5) 
 
- - 💯January 17, 2025 - [US Sanctions Chinese Firm and Hacker Behind Treasury and Telecom Hacks](https://medium.com/@wiretor/us-sanctions-chinese-firm-and-hacker-behind-treasury-and-telecom-hacks-c25cfb0ae32a?source=rss------bug_bounty-5) 
+ - 💯January 18, 2025 - [Zero Click Account Takeover — JWT Token Manipulation via Programs HackerOne](https://medium.com/@HackerPlus/zero-click-account-takeover-jwt-token-manipulation-via-programs-hackerone-07da3868ada9?source=rss------bug_bounty-5) 
 
- - 💯January 17, 2025 - [US Cracks Down on North Korea’s IT Worker Army with New Sanctions](https://medium.com/@wiretor/us-cracks-down-on-north-koreas-it-worker-army-with-new-sanctions-e95efd40850a?source=rss------bug_bounty-5) 
+ - 💯January 18, 2025 - [Cross-Site Scripting &lpar;XSS&rpar; attacks](https://medium.com/@rishuraj2666/cross-site-scripting-xss-attacks-cbb84d7f912d?source=rss------bug_bounty-5) 
 
- - 💯January 17, 2025 - [W3 Total Cache Plugin Flaw Exposes Over 1 Million WordPress Sites to Attacks](https://medium.com/@wiretor/w3-total-cache-plugin-flaw-exposes-over-1-million-wordpress-sites-to-attacks-15e0b6ace4e0?source=rss------bug_bounty-5) 
+ - 💯January 18, 2025 - [S3Bucket Enumeration and Takeover](https://medium.com/@sahusujal.dev2004/s3bucket-enumeration-and-takeover-f1ff24ad8187?source=rss------bug_bounty-5) 
 
- - 💯January 17, 2025 - [100 Free Tools To Supercharge Your Bug Bounty Journey](https://bitpanic.medium.com/100-free-tools-to-supercharge-your-bug-bounty-journey-747ffb5d4bef?source=rss------bug_bounty-5) 
+ - 💯January 18, 2025 - [Otelier Data Breach Exposes Info, Hotel Reservations of Millions](https://medium.com/@wiretor/otelier-data-breach-exposes-info-hotel-reservations-of-millions-14e75e47e589?source=rss------bug_bounty-5) 
 
- - 💯January 17, 2025 - [Why You Should Start a Bug Bounty Program for Your Mobile Applications](https://medium.com/@hackrate/why-you-should-start-a-bug-bounty-program-for-your-mobile-applications-a476c3646978?source=rss------bug_bounty-5) 
+ - 💯January 18, 2025 - [Malicious PyPi Package Steals Discord Auth Tokens from Developers](https://medium.com/@wiretor/malicious-pypi-package-steals-discord-auth-tokens-from-developers-2a6707bb84f7?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
