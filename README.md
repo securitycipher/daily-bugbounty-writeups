@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 19, 2025 - [Finding my First SQL Injection On HackerOne](https://infosecwriteups.com/finding-my-first-sql-injection-on-hackerone-6a031ab5aa1c?source=rss------bug_bounty-5) 
+ - 💯January 20, 2025 - [Found HTML Injection in Emails! Earned HOF](https://medium.com/@dsmodi484/found-html-injection-in-emails-earned-hof-24a8a8223f29?source=rss------bug_bounty-5) 
 
- - 💯January 19, 2025 - [Unlimited XSS | This is the Dumbest Way to Find XSS Bug](https://medium.com/readers-club/unlimited-xss-this-is-the-dumbest-way-to-find-xss-bug-6ee92de5df38?source=rss------bug_bounty-5) 
+ - 💯January 20, 2025 - [Insecure Direct Object Reference &lpar;iDOR&rpar; via Programs HackerOne](https://medium.com/@HackerPlus/insecure-direct-object-reference-idor-via-programs-hackerone-3c8e261b7ca3?source=rss------bug_bounty-5) 
 
- - 💯January 19, 2025 - [From Path Traversal to RCE: A $40,000 Bug Bounty Journey](https://medium.com/@ibtissamhammadi/from-path-traversal-to-rce-a-40-000-bug-bounty-journey-a8316994ab3d?source=rss------bug_bounty-5) 
+ - 💯January 20, 2025 - [How to Prepare for Incident Response ? A Step-by-Step Guide for Students](https://mhmmuneef.medium.com/how-to-prepare-for-incident-response-a-step-by-step-guide-for-students-fcf9f77cc56b?source=rss------bug_bounty-5) 
 
- - 💯January 19, 2025 - [Monsif Hmouri: بين الأخلاقيات التقنية والنضال من أجل العدالة](https://monsifhmouri.medium.com/monsif-hmouri-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%A3%D8%AE%D9%84%D8%A7%D9%82%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%86%D8%B6%D8%A7%D9%84-%D9%85%D9%86-%D8%A3%D8%AC%D9%84-%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9-dd651dada725?source=rss------bug_bounty-5) 
+ - 💯January 20, 2025 - [How I Turned a $10 RFI Bug into a $300 RCE Bounty &lpar;Step-by-Step Guide&rpar;](https://medium.com/@ibtissamhammadi/how-i-turned-a-10-rfi-bug-into-a-300-rce-bounty-step-by-step-guide-75042267969a?source=rss------bug_bounty-5) 
 
- - 💯January 18, 2025 - [How I Discovered a Password Reset Vulnerability on a Web Application](https://medium.com/@Dorking1/how-i-discovered-a-password-reset-vulnerability-on-a-web-application-14fe29f9499c?source=rss------bug_bounty-5) 
+ - 💯January 20, 2025 - [response manipulation leads to access admin panel](https://medium.com/@ajax12395/response-manipulation-leads-to-access-admin-panel-2295655c646d?source=rss------bug_bounty-5) 
 
- - 💯January 18, 2025 - [Zero Click Account Takeover — JWT Token Manipulation via Programs HackerOne](https://medium.com/@HackerPlus/zero-click-account-takeover-jwt-token-manipulation-via-programs-hackerone-07da3868ada9?source=rss------bug_bounty-5) 
+ - 💯January 19, 2025 - [API Testing](https://0xy37.medium.com/api-testing-9de53e7736d3?source=rss------bug_bounty-5) 
 
- - 💯January 18, 2025 - [Cross-Site Scripting &lpar;XSS&rpar; attacks](https://medium.com/@rishuraj2666/cross-site-scripting-xss-attacks-cbb84d7f912d?source=rss------bug_bounty-5) 
+ - 💯January 19, 2025 - [From Low to Whoa: Elevating a P5 SSRF to a P3](https://medium.com/@loayahmed686/from-low-to-whoa-elevating-a-p5-ssrf-to-a-p3-6db1afdbde4c?source=rss------bug_bounty-5) 
 
- - 💯January 18, 2025 - [S3Bucket Enumeration and Takeover](https://medium.com/@sahusujal.dev2004/s3bucket-enumeration-and-takeover-f1ff24ad8187?source=rss------bug_bounty-5) 
+ - 💯January 19, 2025 - [Wolf Haldenstein Data Breach Impacts 3.4 Million Individuals](https://medium.com/@wiretor/wolf-haldenstein-data-breach-impacts-3-4-million-individuals-8e567c04e0b6?source=rss------bug_bounty-5) 
 
- - 💯January 18, 2025 - [Otelier Data Breach Exposes Info, Hotel Reservations of Millions](https://medium.com/@wiretor/otelier-data-breach-exposes-info-hotel-reservations-of-millions-14e75e47e589?source=rss------bug_bounty-5) 
-
- - 💯January 18, 2025 - [Malicious PyPi Package Steals Discord Auth Tokens from Developers](https://medium.com/@wiretor/malicious-pypi-package-steals-discord-auth-tokens-from-developers-2a6707bb84f7?source=rss------bug_bounty-5) 
+ - 💯January 19, 2025 - [Star Blizzard Hackers Abuse WhatsApp to Target High-Value Diplomats](https://medium.com/@wiretor/star-blizzard-hackers-abuse-whatsapp-to-target-high-value-diplomats-beed8a06a0ec?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
