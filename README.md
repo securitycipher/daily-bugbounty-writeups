@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 20, 2025 - [Found HTML Injection in Emails! Earned HOF](https://medium.com/@dsmodi484/found-html-injection-in-emails-earned-hof-24a8a8223f29?source=rss------bug_bounty-5) 
+ - 💯January 21, 2025 - [From Order to Exploit: A Deep Dive into Restaurant Network Security](https://medium.com/@davimouar/from-order-to-exploit-a-deep-dive-into-restaurant-network-security-64aeaf3a6f64?source=rss------bug_bounty-5) 
 
- - 💯January 20, 2025 - [Insecure Direct Object Reference &lpar;iDOR&rpar; via Programs HackerOne](https://medium.com/@HackerPlus/insecure-direct-object-reference-idor-via-programs-hackerone-3c8e261b7ca3?source=rss------bug_bounty-5) 
+ - 💯January 21, 2025 - [Comprehensive XSS Learning Roadmap](https://medium.com/@shuklaneel525/comprehensive-xss-learning-roadmap-6f48585d8fe8?source=rss------bug_bounty-5) 
 
- - 💯January 20, 2025 - [How to Prepare for Incident Response ? A Step-by-Step Guide for Students](https://mhmmuneef.medium.com/how-to-prepare-for-incident-response-a-step-by-step-guide-for-students-fcf9f77cc56b?source=rss------bug_bounty-5) 
+ - 💯January 21, 2025 - [Earn $1000–2000 by identifying Common vulnerability in Tech.](https://medium.com/@anandrishav2228/earn-1000-2000-by-identifying-common-vulnerability-in-tech-e8fd44da2a1c?source=rss------bug_bounty-5) 
 
- - 💯January 20, 2025 - [How I Turned a $10 RFI Bug into a $300 RCE Bounty &lpar;Step-by-Step Guide&rpar;](https://medium.com/@ibtissamhammadi/how-i-turned-a-10-rfi-bug-into-a-300-rce-bounty-step-by-step-guide-75042267969a?source=rss------bug_bounty-5) 
+ - 💯January 21, 2025 - [These Hackers Earn 7 figure income](https://medium.com/@BlackHat123/these-hackers-earn-7-figure-income-73013c4225f4?source=rss------bug_bounty-5) 
 
- - 💯January 20, 2025 - [response manipulation leads to access admin panel](https://medium.com/@ajax12395/response-manipulation-leads-to-access-admin-panel-2295655c646d?source=rss------bug_bounty-5) 
+ - 💯January 21, 2025 - [How a Routine Security Test Led to My First CVE and Bug Bounty: Lessons in API Security and Beyond](https://tech.cashfree.com/how-a-routine-security-test-led-to-my-first-cve-and-bug-bounty-lessons-in-api-security-and-beyond-8f0da2bb553e?source=rss------bug_bounty-5) 
 
- - 💯January 19, 2025 - [API Testing](https://0xy37.medium.com/api-testing-9de53e7736d3?source=rss------bug_bounty-5) 
+ - 💯January 21, 2025 - [Basic Windows CMD Commands for Hackers: A Guide to Privilege Escalation](https://medium.com/@ajudeb55/basic-windows-cmd-commands-for-hackers-a-guide-to-privilege-escalation-99ad396aadf6?source=rss------bug_bounty-5) 
 
- - 💯January 19, 2025 - [From Low to Whoa: Elevating a P5 SSRF to a P3](https://medium.com/@loayahmed686/from-low-to-whoa-elevating-a-p5-ssrf-to-a-p3-6db1afdbde4c?source=rss------bug_bounty-5) 
+ - 💯January 20, 2025 - [Incident Response in Digital Forensics | A Beginners-Friendly Guide](https://mhmmuneef.medium.com/incident-response-in-digital-forensics-a-beginners-friendly-guide-7ec0b4789519?source=rss------bug_bounty-5) 
 
- - 💯January 19, 2025 - [Wolf Haldenstein Data Breach Impacts 3.4 Million Individuals](https://medium.com/@wiretor/wolf-haldenstein-data-breach-impacts-3-4-million-individuals-8e567c04e0b6?source=rss------bug_bounty-5) 
+ - 💯January 20, 2025 - [SQL Injection Vulnerability in Microsoft’s DevBlogs [devblogs.microsoft.com]](https://zhenwarx.medium.com/sql-injection-vulnerability-in-microsofts-devblogs-devblogs-microsoft-com-690792213d1f?source=rss------bug_bounty-5) 
 
- - 💯January 19, 2025 - [Star Blizzard Hackers Abuse WhatsApp to Target High-Value Diplomats](https://medium.com/@wiretor/star-blizzard-hackers-abuse-whatsapp-to-target-high-value-diplomats-beed8a06a0ec?source=rss------bug_bounty-5) 
+ - 💯January 20, 2025 - [How I Made $500 in 30 Days Using ChatGPT as My Hacking Mentor](https://medium.com/@ibtissamhammadi/how-i-made-500-in-30-days-using-chatgpt-as-my-hacking-mentor-113226deed78?source=rss------bug_bounty-5) 
+
+ - 💯January 20, 2025 - [What is a WAF ? How it works ?](https://medium.com/@rohitmaity001/what-is-a-waf-how-it-works-931a5f6fee84?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
