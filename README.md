@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 22, 2025 - [Earn $100–500 after Pentesting OAuth](https://medium.com/@anandrishav2228/earn-100-500-after-pentesting-oauth-02018371d4c2?source=rss------bug_bounty-5) 
+ - 💯January 23, 2025 - [Easy $10,000 bounty using Wayback Machine](https://blog.bugbountyhunter.xyz/easy-10-000-bounty-using-wayback-machine-1b08e3b1cafe?source=rss------bug_bounty-5) 
 
- - 💯January 22, 2025 - [Polluting My Way to Victory: How I Found HTTP Parameter Pollution &lpar;HPP&rpar; and Exploited It Like a Pro](https://osintteam.blog/polluting-my-way-to-victory-how-i-found-http-parameter-pollution-hpp-and-exploited-it-like-a-pro-c4cf39ec90fe?source=rss------bug_bounty-5) 
+ - 💯January 23, 2025 - [Create Your Free Red Teaming Lab at Zero Cost!](https://medium.com/@paritoshblogs/create-your-free-red-teaming-lab-at-zero-cost-d2547b2de11a?source=rss------bug_bounty-5) 
 
- - 💯January 22, 2025 - [Appreciation Letter from NASA for Uncovering Unauthorized file Access](https://medium.com/@hackxb12/appreciation-letter-from-nasa-for-uncovering-unauthorized-file-access-a1d1497a33e6?source=rss------bug_bounty-5) 
+ - 💯January 22, 2025 - [Intent Redirect: Unlocking Hidden Pathways in Android Applications](https://medium.com/@k3r0/intent-redirect-unlocking-hidden-pathways-in-android-applications-8f3390965236?source=rss------bug_bounty-5) 
 
- - 💯January 22, 2025 - [Threat Hunting Using Powershell](https://medium.com/@paritoshblogs/threat-hunting-using-powershell-ce8502307b65?source=rss------bug_bounty-5) 
+ - 💯January 22, 2025 - [IPany VPN Breached in Supply-Chain Attack: Hackers Deploy SlowStepper Malware](https://medium.com/@wiretor/ipany-vpn-breached-in-supply-chain-attack-hackers-deploy-slowstepper-malware-ba0ae1c2ddb9?source=rss------bug_bounty-5) 
 
- - 💯January 22, 2025 - [Unique ways to Recon for Bug Hunters: Short series [Part 1]](https://osintteam.blog/unique-ways-to-recon-for-bug-hunters-short-series-part-1-7e91f3fcfe25?source=rss------bug_bounty-5) 
+ - 💯January 22, 2025 - [️ How to Stay Anonymous Online: A Hacker’s Perspective](https://medium.com/@atnoforcybersecurity/%EF%B8%8F-how-to-stay-anonymous-online-a-hackers-perspective-920b4bdc2401?source=rss------bug_bounty-5) 
 
- - 💯January 21, 2025 - [WordPress Hacking 2025](https://medium.com/infosec-notes/wordpress-hacking-2025-03985e7d2e08?source=rss------bug_bounty-5) 
+ - 💯January 22, 2025 - [Easy Hacking with Google Dorking — Finding NASA High P2 Vulnerability](https://abhirdd.medium.com/easy-hacking-with-google-dorking-finding-nasa-high-p2-vulnerability-8b9797eac370?source=rss------bug_bounty-5) 
 
- - 💯January 21, 2025 - [How to transition from Pentesting to Bug Bounty Hunting](https://medium.com/@hackrate/how-to-transition-from-pentesting-to-bug-bounty-hunting-f98398c4ea0a?source=rss------bug_bounty-5) 
+ - 💯January 22, 2025 - [The Biggest Bug Bounty Payouts of All Time and What We Learned](https://medium.com/@hackrate/the-biggest-bug-bounty-payouts-of-all-time-and-what-we-learned-0a35c8a327c2?source=rss------bug_bounty-5) 
 
- - 💯January 21, 2025 - [The correct approach to testing for privilege escalation bugs...❕❗](https://medium.com/@mahdisalhi0500/the-correct-approach-to-testing-for-privilege-escalation-bugs-d03bd9281a3e?source=rss------bug_bounty-5) 
+ - 💯January 22, 2025 - [How I Hacked a User Management System and Found 3 Critical GraphQL Vulnerabilities](https://medium.com/@4bdo/how-i-hacked-a-user-management-system-and-found-3-critical-graphql-vulnerabilities-4362eff1a38f?source=rss------bug_bounty-5) 
 
- - 💯January 21, 2025 - [How to Install MobSF on Kali Linux for Android Application Pentesting &lpar;2025&rpar;](https://medium.com/@usmandasthaheer/how-to-install-mobsf-on-kali-linux-for-android-application-pentesting-2025-50c4948a1c0d?source=rss------bug_bounty-5) 
+ - 💯January 22, 2025 - [Understanding Privilege Escalation in Linux and Windows Systems - [Part 1]](https://bashoverflow.medium.com/understanding-privilege-escalation-in-linux-and-windows-systems-part-1-f9c98c8a0a14?source=rss------bug_bounty-5) 
 
- - 💯January 21, 2025 - [7-Zip Fixes Bug That Bypasses Windows MoTW Security Warnings](https://medium.com/@wiretor/7-zip-fixes-bug-that-bypasses-windows-motw-security-warnings-569ac8a89068?source=rss------bug_bounty-5) 
+ - 💯January 22, 2025 - [CertificateFinder: A Game-Changer for All Hidden Subdomains&lpar;freeGUI tool&rpar;](https://anontriager.medium.com/certificatefinder-a-game-changer-for-all-hidden-subdomains-freegui-tool-c9c58c910b3c?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
