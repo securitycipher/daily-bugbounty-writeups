@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 24, 2025 - [CTF vs. Bug Bounty: Navigating Two Worlds of Cybersecurity](https://medium.com/@mehakchoradia1/ctf-vs-bug-bounty-navigating-two-worlds-of-cybersecurity-919ed152bed3?source=rss------bug_bounty-5) 
+ - 💯January 25, 2025 - [Threat Hunting with Python &lpar;Cybersecurity&rpar;](https://medium.com/@paritoshblogs/threat-hunting-with-python-cybersecurity-b90b76415972?source=rss------bug_bounty-5) 
 
- - 💯January 24, 2025 - [How I Found a Stripe Key Disclosure Leading to PII Exposure](https://medium.com/@nihaltikka/how-i-found-a-stripe-key-disclosure-leading-to-pii-exposure-6e57d5fca9d5?source=rss------bug_bounty-5) 
+ - 💯January 25, 2025 - [How I Turned a Tiny Security Flaw into a $250 Bounty](https://medium.com/@ramshath1999/how-i-turned-a-tiny-security-flaw-into-a-250-bounty-90a0227d6c6f?source=rss------bug_bounty-5) 
 
- - 💯January 24, 2025 - [$200 Easy Directory Listing Vulnerability on a US Website](https://cybersecuritywriteups.com/200-easy-directory-listing-vulnerability-on-a-us-website-7d35fcda8aa2?source=rss------bug_bounty-5) 
+ - 💯January 25, 2025 - [How I Discovered a Bypass in WhatsApp’s “View Once” Feature](https://medium.com/@ramshath1999/how-i-discovered-a-bypass-in-whatsapps-view-once-feature-aea3bdf6405a?source=rss------bug_bounty-5) 
 
- - 💯January 24, 2025 - [Making use of Javascript Source Maps &lpar;js.map&rpar; files in Bug Bounty — Information gathering tips](https://medium.com/@0x_Ju1ian/making-use-of-javascript-source-maps-js-map-files-in-bug-bounty-information-gathering-tips-87deddf1aa8d?source=rss------bug_bounty-5) 
+ - 💯January 25, 2025 - [Exploiting XSS To Steal Cookies](https://osintteam.blog/exploiting-xss-to-steal-cookies-f0aebdcd815b?source=rss------bug_bounty-5) 
 
- - 💯January 23, 2025 - [Essential Tools and Technologies Every SOC Analyst Must Master to Stay Ahead in Cybersecurity](https://mhmmuneef.medium.com/essential-tools-and-technologies-every-soc-analyst-must-master-to-stay-ahead-in-cybersecurity-50d76cc87ec5?source=rss------bug_bounty-5) 
+ - 💯January 24, 2025 - [Bypassing Rate Limit Protection to Account Takeover](https://medium.com/@sohailahmed0x0/bypassing-rate-limit-protection-to-account-takeover-fe44598fc1df?source=rss------bug_bounty-5) 
 
- - 💯January 23, 2025 - [CTI REPORT - LockBit 3.0:](https://medium.com/@muhammetalgan3547/cti-report-lockbit-3-0-33e224e1d8d6?source=rss------bug_bounty-5) 
+ - 💯January 24, 2025 - [Setting up Lab for Active Directory](https://medium.com/@sohailahmed0x0/setting-up-lab-for-active-directory-9b0cb69041cd?source=rss------bug_bounty-5) 
 
- - 💯January 23, 2025 - [How I Found a Bug in Sony and Earned Exclusive Swag!](https://medium.com/@josekuttykunnelthazhebinu/how-i-found-a-bug-in-sony-and-earned-exclusive-swag-f565d56c395e?source=rss------bug_bounty-5) 
+ - 💯January 24, 2025 - [Admin Panel Exploit to Access Logitech Dashboard](https://medium.com/@asingh25377/admin-panel-exploit-to-access-logitech-dashboard-e4c3943dbf21?source=rss------bug_bounty-5) 
 
- - 💯January 23, 2025 - [Biggest innovation in Penetration Testing so far](https://medium.com/@hackrate/biggest-innovation-in-penetration-testing-so-far-d6fac4800119?source=rss------bug_bounty-5) 
+ - 💯January 24, 2025 - [CORS Misconfigurations: How Poor Policies Open Doors to Exploits](https://medium.com/@HackerNasr/cors-misconfigurations-how-poor-policies-open-doors-to-exploits-ef0af71e0302?source=rss------bug_bounty-5) 
 
- - 💯January 23, 2025 - [How To Convert Your Android Device In A Recon Device ?](https://bitpanic.medium.com/how-to-convert-your-android-device-in-a-recon-device-4ad22c3bbdab?source=rss------bug_bounty-5) 
-
- - 💯January 23, 2025 - [Next.js, cache, and chains: the stale elixir](https://medium.com/@zhero_/next-js-cache-and-chains-the-stale-elixir-a4c6b3062e1b?source=rss------bug_bounty-5) 
+ - 💯January 24, 2025 - [Best Linux Distros for Cyber Security , Web &amp; App Development](https://bitpanic.medium.com/best-linux-distros-for-cyber-security-web-app-development-72422faa37a2?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
