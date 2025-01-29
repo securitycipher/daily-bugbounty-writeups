@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 28, 2025 - [Opengrep : A Hype and Marketing Gimmick, let’s rename it to Privategrep.](https://rohitcoder.medium.com/opengrep-a-hype-and-marketing-gimmick-lets-rename-it-to-privategrep-61225dbf9090?source=rss------bug_bounty-5) 
+ - 💯January 29, 2025 - [Uncovering SQL Injection Vulnerabilities through JavaScript File Analysis](https://medium.com/@muhammad-/uncovering-sql-injection-vulnerabilities-through-javascript-file-analysis-d07e430ef862?source=rss------bug_bounty-5) 
 
- - 💯January 28, 2025 - [20 Comprehensive Browser Extensions You Can’t Miss as a Bug Bounty Hunter](https://cybersecuritywriteups.com/20-comprehensive-browser-extensions-you-cant-miss-as-a-bug-bounty-hunter-e85b7d7c4234?source=rss------bug_bounty-5) 
+ - 💯January 29, 2025 - [Start Bug Bounty and earn $$: Top Write-Ups, POCs &amp; Tutorials](https://cybersecuritywriteups.com/start-bug-bounty-and-earn-top-write-ups-pocs-tutorials-739b8a8456ab?source=rss------bug_bounty-5) 
 
- - 💯January 28, 2025 - [️‍♂️Ultimate Guide to Finding Bugs in APIs: From Recon to Bounty](https://medium.com/@zoningxtr/ultimate-guide-to-finding-bugs-in-apis-from-recon-to-bounty-f0cc3487780b?source=rss------bug_bounty-5) 
+ - 💯January 29, 2025 - [Discovering a Critical Vulnerability in Deepseek’s Password Reset Functionality leads to Zero Click…](https://medium.com/@teamtea.ye/discovering-a-critical-vulnerability-in-deepseeks-password-reset-functionality-leads-to-zero-click-96c597fe852c?source=rss------bug_bounty-5) 
 
- - 💯January 28, 2025 - [Secondary Context Leads To Company Takeover.](https://medium.com/@Berserker1337/secondary-context-leads-to-company-takeover-0dc88ca751ea?source=rss------bug_bounty-5) 
+ - 💯January 29, 2025 - [Sensitive Information Disclosure in 5 minutes](https://medium.com/@mhaziqulkhair/sensitive-information-disclosure-in-5-minutes-0de7ce868069?source=rss------bug_bounty-5) 
 
- - 💯January 28, 2025 - [Introduction to WhiteBox Testing](https://medium.com/@huyvo2910/introduction-to-whitebox-testing-ae4316269915?source=rss------bug_bounty-5) 
+ - 💯January 28, 2025 - [Pimcore 11.4.2-SQL Injection &lpar;CVE-2024–11956&rpar;](https://medium.com/@maeitsec/pimcore-11-4-2-sql-injection-cve-2024-11956-869c7d5812d8?source=rss------bug_bounty-5) 
 
- - 💯January 28, 2025 - [Start your CTF journey now.&lpar;101&rpar;](https://medium.com/@anandrishav2228/start-your-ctf-journey-now-101-fa68ed995bca?source=rss------bug_bounty-5) 
+ - 💯January 28, 2025 - [Pimcore 11.4.2-Stored XSS &lpar;CVE-2024–11954&rpar;](https://medium.com/@maeitsec/pimcore-11-4-2-stored-xss-cve-2024-11954-fc262469e5b4?source=rss------bug_bounty-5) 
 
- - 💯January 28, 2025 - [My Journey to Finding a Bug and Earning an Appreciation Letter](https://medium.com/@sachinkewat809/my-journey-to-finding-a-bug-and-earning-an-appreciation-letter-88cac7109e0e?source=rss------bug_bounty-5) 
+ - 💯January 28, 2025 - [.DS_Store File: A Gift for Researchers and a Headache for Website Owners](https://infosecwriteups.com/ds-store-file-a-gift-for-researchers-and-a-headache-for-website-owners-219724b99043?source=rss------bug_bounty-5) 
 
- - 💯January 28, 2025 - [Rank Top 66 + 214 Rep on HackerOne](https://medium.com/meetcyber/rank-top-66-214-rep-on-hackerone-c260d244ae61?source=rss------bug_bounty-5) 
+ - 💯January 28, 2025 - [A Security Gap &lpar;PII&rpar; in a Bus Company](https://medium.com/meetcyber/a-security-gap-pii-in-a-bus-company-ecfe972875ff?source=rss------bug_bounty-5) 
 
- - 💯January 28, 2025 - [Feeding Nuclei!](https://clarkvoss.medium.com/feeding-nuclei-06192a30de1c?source=rss------bug_bounty-5) 
+ - 💯January 28, 2025 - [EU Sanctions Russian GRU Hackers for Cyberattacks Against Estonia](https://medium.com/@wiretor/eu-sanctions-russian-gru-hackers-for-cyberattacks-against-estonia-ac7fcd59f84b?source=rss------bug_bounty-5) 
 
- - 💯January 27, 2025 - [Way to find IDORs or Broken access bugs](https://medium.com/@curiouskhanna/way-to-find-idors-or-broken-access-bugs-2c9a07c32281?source=rss------bug_bounty-5) 
+ - 💯January 28, 2025 - [How do I find my first CVE ?](https://medium.com/@AhmadSopyan/how-do-i-find-my-first-cve-e368a89c93c5?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
