@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 29, 2025 - [Uncovering SQL Injection Vulnerabilities through JavaScript File Analysis](https://medium.com/@muhammad-/uncovering-sql-injection-vulnerabilities-through-javascript-file-analysis-d07e430ef862?source=rss------bug_bounty-5) 
+ - 💯January 30, 2025 - [Web Cache Deception: Understanding and Mitigating Security Risks](https://0xkratos.medium.com/web-cache-deception-understanding-and-mitigating-security-risks-c35b79963a49?source=rss------bug_bounty-5) 
 
- - 💯January 29, 2025 - [Start Bug Bounty and earn $$: Top Write-Ups, POCs &amp; Tutorials](https://cybersecuritywriteups.com/start-bug-bounty-and-earn-top-write-ups-pocs-tutorials-739b8a8456ab?source=rss------bug_bounty-5) 
+ - 💯January 30, 2025 - [️‍♂️ Mastering Recon in Bug Bounty: Tools, Techniques, and a Step-by-Step Guide](https://medium.com/@zoningxtr/%EF%B8%8F-%EF%B8%8F-mastering-recon-in-bug-bounty-tools-techniques-and-a-step-by-step-guide-d27345269a5e?source=rss------bug_bounty-5) 
 
- - 💯January 29, 2025 - [Discovering a Critical Vulnerability in Deepseek’s Password Reset Functionality leads to Zero Click…](https://medium.com/@teamtea.ye/discovering-a-critical-vulnerability-in-deepseeks-password-reset-functionality-leads-to-zero-click-96c597fe852c?source=rss------bug_bounty-5) 
+ - 💯January 30, 2025 - [AppSec Logic Master on OpenBugBounty](https://medium.com/mr-plan-publication/appsec-logic-master-on-openbugbounty-5fe67f4cd07a?source=rss------bug_bounty-5) 
 
- - 💯January 29, 2025 - [Sensitive Information Disclosure in 5 minutes](https://medium.com/@mhaziqulkhair/sensitive-information-disclosure-in-5-minutes-0de7ce868069?source=rss------bug_bounty-5) 
+ - 💯January 30, 2025 - [Bug Bounty Recon Guide — Part: 1](https://aimasterprompt.medium.com/bug-bounty-recon-guide-part-1-0927e7df82ef?source=rss------bug_bounty-5) 
 
- - 💯January 28, 2025 - [Pimcore 11.4.2-SQL Injection &lpar;CVE-2024–11956&rpar;](https://medium.com/@maeitsec/pimcore-11-4-2-sql-injection-cve-2024-11956-869c7d5812d8?source=rss------bug_bounty-5) 
+ - 💯January 30, 2025 - [From the Dark Web to Ethical Hacking: The Journey of Monsif Hmouri in Cybersecurity](https://monsifhmouri.medium.com/from-the-dark-web-to-ethical-hacking-the-journey-of-monsif-hmouri-in-cybersecurity-db0f5056b044?source=rss------bug_bounty-5) 
 
- - 💯January 28, 2025 - [Pimcore 11.4.2-Stored XSS &lpar;CVE-2024–11954&rpar;](https://medium.com/@maeitsec/pimcore-11-4-2-stored-xss-cve-2024-11954-fc262469e5b4?source=rss------bug_bounty-5) 
+ - 💯January 29, 2025 - [Race Condition Attacks: Exploiting Tiny Gaps in Business Logic](https://medium.com/@HackerNasr/race-condition-attacks-exploiting-tiny-gaps-in-business-logic-c2589b9ac2e7?source=rss------bug_bounty-5) 
 
- - 💯January 28, 2025 - [.DS_Store File: A Gift for Researchers and a Headache for Website Owners](https://infosecwriteups.com/ds-store-file-a-gift-for-researchers-and-a-headache-for-website-owners-219724b99043?source=rss------bug_bounty-5) 
+ - 💯January 29, 2025 - [Hackers exploiting flaws in SimpleHelp RMM to breach networks](https://medium.com/@wiretor/hackers-exploiting-flaws-in-simplehelp-rmm-to-breach-networks-d923ec39b353?source=rss------bug_bounty-5) 
 
- - 💯January 28, 2025 - [A Security Gap &lpar;PII&rpar; in a Bus Company](https://medium.com/meetcyber/a-security-gap-pii-in-a-bus-company-ecfe972875ff?source=rss------bug_bounty-5) 
+ - 💯January 29, 2025 - [Garmin GPS Watches Crash and Enter Reboot Loop, Users Frustrated](https://medium.com/@wiretor/garmin-gps-watches-crash-and-enter-reboot-loop-users-frustrated-d1b60092a1bb?source=rss------bug_bounty-5) 
 
- - 💯January 28, 2025 - [EU Sanctions Russian GRU Hackers for Cyberattacks Against Estonia](https://medium.com/@wiretor/eu-sanctions-russian-gru-hackers-for-cyberattacks-against-estonia-ac7fcd59f84b?source=rss------bug_bounty-5) 
+ - 💯January 29, 2025 - [Incident Response &amp; Forensics: Log Analysis, Timeline Creation, and Root Cause Analysis](https://medium.com/@paritoshblogs/incident-response-forensics-log-analysis-timeline-creation-and-root-cause-analysis-95085ab1fc49?source=rss------bug_bounty-5) 
 
- - 💯January 28, 2025 - [How do I find my first CVE ?](https://medium.com/@AhmadSopyan/how-do-i-find-my-first-cve-e368a89c93c5?source=rss------bug_bounty-5) 
+ - 💯January 29, 2025 - [The $500 Vulnerability: How Censys Search Led Me to a Quick Bug Bounty](https://medium.com/@hacker_might/the-500-vulnerability-how-censys-search-led-me-to-a-quick-bug-bounty-afabeec7a176?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
