@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 31, 2025 - [Secret Dork Hunting Methodology &lpar;Part1&rpar;](https://systemweakness.com/secret-dork-hunting-methodology-part1-6f06b5c47931?source=rss------bug_bounty-5) 
+ - 💯February 1, 2025 - [Dangerous Commands You Shouldn’t Execute in Linux](https://bitpanic.medium.com/dangerous-commands-you-shouldnt-execute-in-linux-fce596a45a8c?source=rss------bug_bounty-5) 
 
- - 💯January 31, 2025 - [AI Security: Challenges and Practical Solutions](https://medium.com/@paritoshblogs/ai-security-challenges-and-practical-solutions-8a78a348fe1d?source=rss------bug_bounty-5) 
+ - 💯February 1, 2025 - [How to Create Advanced Custom Wordlist? Dive into Recon Part 4](https://systemweakness.com/how-to-create-advanced-custom-wordlist-dive-into-recon-part-4-78c2d218a35a?source=rss------bug_bounty-5) 
 
- - 💯January 31, 2025 - [Zero Trust Security: Why It’s the Future of Cyber Protection in 2025](https://medium.com/@adibostoninstitute123/zero-trust-security-why-its-the-future-of-cyber-protection-in-2025-86b5f0e42fa4?source=rss------bug_bounty-5) 
+ - 💯February 1, 2025 - [Google: HTML Injection Bug](https://medium.com/@kumawatabhijeet2002/google-html-injection-bug-14a50e12bb96?source=rss------bug_bounty-5) 
 
- - 💯January 31, 2025 - [Finding an Easy Bug](https://cybersecuritywriteups.com/finding-an-easy-bug-a326dca448ed?source=rss------bug_bounty-5) 
+ - 💯February 1, 2025 - [The Art of Doing Source Code Review](https://green-terminals.medium.com/the-art-of-doing-source-code-review-c98ae0e35f84?source=rss------bug_bounty-5) 
 
- - 💯January 31, 2025 - [Start Web3 Bug Bounty and earn upto $1M](https://medium.com/@anandrishav2228/start-web3-bug-bounty-and-earn-upto-1m-e212f9468b88?source=rss------bug_bounty-5) 
+ - 💯February 1, 2025 - [Easy Peasy RXSS](https://medium.com/@dsmodi484/easy-peasy-rxss-2f4bb1ec1d38?source=rss------bug_bounty-5) 
 
- - 💯January 31, 2025 - [Fuzzuli: A Powerful Content Discovery Tool for Bug Bounty Hunters](https://medium.com/@commanak46/fuzzuli-a-powerful-content-discovery-tool-for-bug-bounty-hunters-f33b67dd4410?source=rss------bug_bounty-5) 
+ - 💯February 1, 2025 - [Finding an easy bug to get an easy $$](https://osintteam.blog/finding-an-easy-bug-to-get-an-easy-14f2426ba933?source=rss------bug_bounty-5) 
 
- - 💯January 31, 2025 - [OoHow to get a Job in the Cybersecurity field [With my experience]](https://medium.com/@hrofficial62/oohow-to-get-a-job-in-the-cybersecurity-field-with-my-experience-84b34ad95641?source=rss------bug_bounty-5) 
+ - 💯January 31, 2025 - [Globe Life Data Breach May Impact an Additional 850,000 Clients](https://medium.com/@wiretor/globe-life-data-breach-may-impact-an-additional-850-000-clients-822a0d4084c1?source=rss------bug_bounty-5) 
 
- - 💯January 31, 2025 - [How I used shodan to discover 3 easy bugs on VDP program?](https://medium.com/@hamdiyasin135/how-i-used-shodan-to-discover-3-easy-bugs-on-vdp-program-1ddd8b291320?source=rss------bug_bounty-5) 
+ - 💯January 31, 2025 - [Mizuno USA Data Breach: Hackers Had Access for Two Months](https://medium.com/@wiretor/mizuno-usa-data-breach-hackers-had-access-for-two-months-ed0ae492ada5?source=rss------bug_bounty-5) 
 
- - 💯January 30, 2025 - [Step-by-Step Guide to Solving HTB’s XSS Module: Section-by-Section Flag Solutions](https://medium.com/@Arsenelupin12/step-by-step-guide-to-solving-htbs-xss-module-section-by-section-flag-solutions-bc07e0cb9928?source=rss------bug_bounty-5) 
+ - 💯January 31, 2025 - [Google Blocks 2.36 Million Risky Android Apps from Play Store in 2024](https://medium.com/@wiretor/google-blocks-2-36-million-risky-android-apps-from-play-store-in-2024-8ae68808d046?source=rss------bug_bounty-5) 
 
- - 💯January 30, 2025 - [Bug Bounty Hunt : Playbook](https://santhosh-adiga-u.medium.com/bug-bounty-hunt-playbook-418866d82e84?source=rss------bug_bounty-5) 
+ - 💯January 31, 2025 - [$100 Easy Bounty p4 bug :&rpar;](https://cyberritzzz.medium.com/100-easy-bounty-p4-bug-083943865238?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
