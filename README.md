@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯February 2, 2025 - [Automate Vulnerability Detection in Burp Suite with bChecks](https://medium.com/mr-plan-publication/automate-vulnerability-detection-in-burp-suite-with-bchecks-667b6e58a70c?source=rss------bug_bounty-5) 
+ - 💯February 3, 2025 - [When the Walls Aren’t as Secure as They Seem: My Instagram Discovery](https://medium.com/@nowshekhari/when-the-walls-arent-as-secure-as-they-seem-my-instagram-discovery-cf29a7f40741?source=rss------bug_bounty-5) 
 
- - 💯February 2, 2025 - [XSS on GeeksforGeeks](https://cybersecuritywriteups.com/xss-on-geeksforgeeks-2eafcbbf90b0?source=rss------bug_bounty-5) 
+ - 💯February 3, 2025 - [Top 235 IDOR Bug Bounty Reports](https://aimasterprompt.medium.com/top-235-idor-bug-bounty-reports-e00c8061fe28?source=rss------bug_bounty-5) 
 
- - 💯February 2, 2025 - [Top 10 Bug Bounty Platforms to Earn Money Online](https://hackreveals.medium.com/top-10-bug-bounty-platforms-to-earn-money-online-fbea54cf7cbb?source=rss------bug_bounty-5) 
+ - 💯February 3, 2025 - [Manually Bypassing the Client-Side Validation leading to Command Injection](https://medium.com/@markanthonyagudo/manually-bypassing-the-client-side-validation-leading-to-command-injection-b0aa6ee531e4?source=rss------bug_bounty-5) 
 
- - 💯February 1, 2025 - [$150 Bug Bounty No Rate Limit :&rpar;](https://cyberritzzz.medium.com/150-bug-bounty-no-rate-limit-b77cc6fa7708?source=rss------bug_bounty-5) 
+ - 💯February 3, 2025 - [Blind SSRF with Out-of-Band Detection: Step-by-Step Exploitation &amp; Prevention  —  SSRF Labs](https://bashoverflow.medium.com/blind-ssrf-with-out-of-band-detection-step-by-step-exploitation-prevention-ssrf-labs-d8a4d890184d?source=rss------bug_bounty-5) 
 
- - 💯February 1, 2025 - [AI &amp; Digital Tools for Neurodiverse Bug Bounty Hunters — A Beginner’s Guide](https://medium.com/@neurodiversehackers/ai-digital-tools-for-neurodiverse-bug-bounty-hunters-a-beginners-guide-b1d24fdc7bbb?source=rss------bug_bounty-5) 
+ - 💯February 3, 2025 - [Understanding API Security with OpenAPI: A Security Engineer’s Perspective](https://medium.com/cyprox-io/understanding-api-security-with-openapi-a-security-engineers-perspective-b8083c457a8a?source=rss------bug_bounty-5) 
 
- - 💯February 1, 2025 - [Texas Governor Orders Ban on DeepSeek, RedNote for Government Devices](https://medium.com/@wiretor/texas-governor-orders-ban-on-deepseek-rednote-for-government-devices-45faa723107e?source=rss------bug_bounty-5) 
+ - 💯February 3, 2025 - [Javascript to API Bugs](https://medium.com/cyprox-io/javascript-to-api-bugs-3b5a778e51b7?source=rss------bug_bounty-5) 
 
- - 💯February 1, 2025 - [Hackers Exploit Gemini AI to Enhance Cyberattacks](https://medium.com/@wiretor/hackers-exploit-gemini-ai-to-enhance-cyberattacks-45f360de9de5?source=rss------bug_bounty-5) 
+ - 💯February 3, 2025 - [Google did an Oopsie: a simple IDOR worth $3,133.7](https://infosecwriteups.com/google-did-an-oopsie-a-simple-idor-worth-3-133-7-2abefaef954d?source=rss------bug_bounty-5) 
 
- - 💯February 1, 2025 - [Connect Burp suite to your Browser.](https://medium.com/@aravindhyox/connect-burp-suite-to-your-browser-f819fada96a5?source=rss------bug_bounty-5) 
+ - 💯February 2, 2025 - [2025: The Year to Start PTaaS](https://medium.com/@hackrate/2025-the-year-to-start-ptaas-c180f83617dd?source=rss------bug_bounty-5) 
 
- - 💯February 1, 2025 - [My Bug Hunting Methodology Approach to Finding Bugs Easily](https://medium.com/@mahdisalhi0500/my-bug-hunting-methodology-approach-to-finding-bugs-easily-30082f35b455?source=rss------bug_bounty-5) 
+ - 💯February 2, 2025 - [A $150 Bug in My Methodology!](https://medium.com/@jkooo12/a-150-bug-in-my-methodology-8a51cdac53d4?source=rss------bug_bounty-5) 
 
- - 💯February 1, 2025 - [Understanding MITRE ATT&amp;CK Groups: A Technical Analysis](https://medium.com/@paritoshblogs/understanding-mitre-att-ck-groups-a-technical-analysis-e35773a46cd5?source=rss------bug_bounty-5) 
+ - 💯February 2, 2025 - [2 Arrested in Crackdown on Nulled and Cracked Hacking Forums](https://medium.com/@wiretor/2-arrested-in-crackdown-on-nulled-and-cracked-hacking-forums-249ed458214a?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
