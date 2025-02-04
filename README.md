@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯February 3, 2025 - [When the Walls Aren’t as Secure as They Seem: My Instagram Discovery](https://medium.com/@nowshekhari/when-the-walls-arent-as-secure-as-they-seem-my-instagram-discovery-cf29a7f40741?source=rss------bug_bounty-5) 
+ - 💯February 4, 2025 - [[A Practical Guide] Exploiting SSRF with Filter Bypass via Open Redirection  —  SSRF Labs](https://bashoverflow.medium.com/a-practical-guide-exploiting-ssrf-with-filter-bypass-via-open-redirection-ssrf-labs-e0cfaa0c5774?source=rss------bug_bounty-5) 
 
- - 💯February 3, 2025 - [Top 235 IDOR Bug Bounty Reports](https://aimasterprompt.medium.com/top-235-idor-bug-bounty-reports-e00c8061fe28?source=rss------bug_bounty-5) 
+ - 💯February 4, 2025 - [Practical and Easy Steps to Find XSS with a REAL CASE Study](https://medium.com/@BugRey/practical-and-easy-steps-to-find-xss-with-a-real-case-study-6959a3fbd6bf?source=rss------bug_bounty-5) 
 
- - 💯February 3, 2025 - [Manually Bypassing the Client-Side Validation leading to Command Injection](https://medium.com/@markanthonyagudo/manually-bypassing-the-client-side-validation-leading-to-command-injection-b0aa6ee531e4?source=rss------bug_bounty-5) 
+ - 💯February 4, 2025 - [How I Hacked My Way Into College &lpar;and Became a Life Job Afterward&rpar;](https://medium.com/@shxsu1/how-i-hacked-my-way-into-college-and-became-a-life-job-afterward-aef3e0e7e843?source=rss------bug_bounty-5) 
 
- - 💯February 3, 2025 - [Blind SSRF with Out-of-Band Detection: Step-by-Step Exploitation &amp; Prevention  —  SSRF Labs](https://bashoverflow.medium.com/blind-ssrf-with-out-of-band-detection-step-by-step-exploitation-prevention-ssrf-labs-d8a4d890184d?source=rss------bug_bounty-5) 
+ - 💯February 3, 2025 - [Common Vulnerabilities Found in Bug Bounty Programs but Overlooked in Traditional Penetration…](https://medium.com/@hackrate/common-vulnerabilities-found-in-bug-bounty-programs-but-overlooked-in-traditional-penetration-10edc6a9ec1e?source=rss------bug_bounty-5) 
 
- - 💯February 3, 2025 - [Understanding API Security with OpenAPI: A Security Engineer’s Perspective](https://medium.com/cyprox-io/understanding-api-security-with-openapi-a-security-engineers-perspective-b8083c457a8a?source=rss------bug_bounty-5) 
+ - 💯February 3, 2025 - [Secator: A Powerful Security Workflow Automation Tool](https://osintteam.blog/secator-a-powerful-security-workflow-automation-tool-41995057c731?source=rss------bug_bounty-5) 
 
- - 💯February 3, 2025 - [Javascript to API Bugs](https://medium.com/cyprox-io/javascript-to-api-bugs-3b5a778e51b7?source=rss------bug_bounty-5) 
+ - 💯February 3, 2025 - [Practical Guide to Finding SQL Injection &lpar;Real Case Study&rpar;](https://medium.com/@BugRey/practical-guide-to-finding-sql-injection-real-case-study-3625bdb9d8c3?source=rss------bug_bounty-5) 
 
- - 💯February 3, 2025 - [Google did an Oopsie: a simple IDOR worth $3,133.7](https://infosecwriteups.com/google-did-an-oopsie-a-simple-idor-worth-3-133-7-2abefaef954d?source=rss------bug_bounty-5) 
+ - 💯February 3, 2025 - [Discovering and Reporting a Reflective XSS Vulnerability](https://medium.com/@debang5hu/discovering-and-reporting-a-reflective-xss-vulnerability-8c5e14206d17?source=rss------bug_bounty-5) 
 
- - 💯February 2, 2025 - [2025: The Year to Start PTaaS](https://medium.com/@hackrate/2025-the-year-to-start-ptaas-c180f83617dd?source=rss------bug_bounty-5) 
+ - 💯February 3, 2025 - [Find Primary Domains for Bug Bounty Using Censys Search: Complete Guide](https://osintteam.blog/find-primary-domains-for-bug-bounty-using-censys-search-complete-guide-a26ea5eea5c2?source=rss------bug_bounty-5) 
 
- - 💯February 2, 2025 - [A $150 Bug in My Methodology!](https://medium.com/@jkooo12/a-150-bug-in-my-methodology-8a51cdac53d4?source=rss------bug_bounty-5) 
-
- - 💯February 2, 2025 - [2 Arrested in Crackdown on Nulled and Cracked Hacking Forums](https://medium.com/@wiretor/2-arrested-in-crackdown-on-nulled-and-cracked-hacking-forums-249ed458214a?source=rss------bug_bounty-5) 
+ - 💯February 3, 2025 - [How Loose Regex Can Earn You a Bounty for an Open Redirect Filter Bypass Bug](https://medium.com/@halfcircassian/how-bad-regex-can-earn-you-a-bounty-for-an-open-redirect-filter-bypass-bug-6845a2b83f7c?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
