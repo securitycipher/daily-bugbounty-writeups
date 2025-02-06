@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯February 5, 2025 - [Bypassing OTP Verification: Exposing a Critical Authentication Flaw](https://medium.com/@amanba13.ab/bypassing-otp-verification-exposing-a-critical-authentication-flaw-80a1065a432c?source=rss------bug_bounty-5) 
+ - 💯February 6, 2025 - [The $750 API Leak: Could This Happen to You?](https://deepseng.medium.com/the-750-api-leak-could-this-happen-to-you-08fb858b4af1?source=rss------bug_bounty-5) 
 
- - 💯February 5, 2025 - [PII Exposure: The Data Heist You Never Knew Was Possible!](https://infosecwriteups.com/pii-exposure-the-data-heist-you-never-knew-was-possible-5577b84a1074?source=rss------bug_bounty-5) 
+ - 💯February 6, 2025 - [How I got an Account-Takeover By Race-conditions on Login page](https://medium.com/@krishnast545/how-i-got-an-account-takeover-by-race-conditions-on-login-page-3775faaffb4f?source=rss------bug_bounty-5) 
 
- - 💯February 5, 2025 - [Brute Forcing Financial Apps With HackerOne](https://infosecwriteups.com/brute-forcing-financial-apps-with-hackerone-86e22add374e?source=rss------bug_bounty-5) 
+ - 💯February 6, 2025 - [Extreme Recon Dorking](https://medium.com/meetcyber/extreme-recon-dorking-eace7444b7c2?source=rss------bug_bounty-5) 
 
- - 💯February 5, 2025 - [DOM-Based Reflected XSS in MTN Group’s Notification Server](https://medium.com/@regan_temudo/dom-based-reflected-xss-in-mtn-groups-notification-server-84289a87094e?source=rss------bug_bounty-5) 
+ - 💯February 5, 2025 - [All You Need To Know About Path Traversal](https://medium.com/@ossama.cybersec/all-you-need-to-know-about-path-traversal-5a01c18e01e4?source=rss------bug_bounty-5) 
 
- - 💯February 5, 2025 - [Get Easy $$ Bugs by These Dorks](https://medium.com/@kumawatabhijeet2002/get-easy-bugs-by-these-dorks-b811ca815f3c?source=rss------bug_bounty-5) 
+ - 💯February 5, 2025 - [Cyberforce 2024: How I found my first CVE OpenPLCV3](https://medium.com/@alimuhammadsecured/cyberforce-2024-how-i-found-my-first-cve-openplcv3-16c058b114b0?source=rss------bug_bounty-5) 
 
- - 💯February 5, 2025 - [FINDING A DOS BUG&lpar;STEP BY STEP&rpar;.](https://medium.com/infosecmatrix/finding-a-dos-bug-step-by-step-22216cac37d8?source=rss------bug_bounty-5) 
+ - 💯February 5, 2025 - [Netgear Warns of Zero-Day Vulnerabilities in WiFi Routers](https://medium.com/@wiretor/netgear-warns-of-zero-day-vulnerabilities-in-wifi-routers-ffc2d8299b8f?source=rss------bug_bounty-5) 
 
- - 💯February 5, 2025 - [Critical Session Management Vulnerability Leading to Account Hijacking](https://medium.com/@ahmadzuriqi4/critical-session-management-vulnerability-leading-to-account-hijacking-ec71e966265a?source=rss------bug_bounty-5) 
+ - 💯February 5, 2025 - [OTP Bypass on [Redacted]: Contact Forms to Unauthorized Calls](https://medium.com/@manav.surti.13728342/otp-bypass-on-redacted-contact-forms-to-unauthorized-calls-453d09837fa4?source=rss------bug_bounty-5) 
 
- - 💯February 4, 2025 - [The Ghost Email Heist — Stealing Accounts from the Future](https://medium.com/@shxsu1/the-ghost-email-heist-stealing-accounts-from-the-future-9fce3ae1c086?source=rss------bug_bounty-5) 
+ - 💯February 5, 2025 - [Day 1: Defeating the HttpOnly Flag for Account Takeover via RXSS](https://medium.com/@danielbelay/day-1-defeating-the-httponly-flag-for-account-takeover-via-rxss-a2fa9cbc0156?source=rss------bug_bounty-5) 
 
- - 💯February 4, 2025 - [From Rookie to Bounty: How a $400 IDOR Flaw on HackerOne Cracked Open My Cybersecurity Journey](https://medium.com/@Arsenelupin12/from-rookie-to-bounty-how-a-400-idor-flaw-on-hackerone-cracked-open-my-cybersecurity-journey-1566b8564ae4?source=rss------bug_bounty-5) 
+ - 💯February 5, 2025 - [&lpar;$$&rpar; Critical IDOR Vulnerability Leads to User Information Disclosure](https://medium.com/@Tanvir0x1/critical-idor-vulnerability-leads-to-user-information-disclosure-b0bb7f06aef5?source=rss------bug_bounty-5) 
 
- - 💯February 4, 2025 - [From alert&lpar;origin&rpar; to ATO, an XSS Story](https://medium.com/@remmy9/from-alert-origin-to-ato-an-xss-story-d6bd2684bdca?source=rss------bug_bounty-5) 
+ - 💯February 5, 2025 - [From Demo to Live: Zero-Click Account Takeover via the Same Encryption Algorithm](https://infosecwriteups.com/from-demo-to-live-zero-click-account-takeover-via-the-same-encryption-algorithm-38b6cabfb21e?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
