@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯February 6, 2025 - [The $750 API Leak: Could This Happen to You?](https://deepseng.medium.com/the-750-api-leak-could-this-happen-to-you-08fb858b4af1?source=rss------bug_bounty-5) 
+ - 💯February 7, 2025 - [How I Found an Excel Sheet with 200+ Bank Testing Account Login Details!](https://systemweakness.com/how-i-found-an-excel-sheet-with-200-bank-testing-account-login-details-883c38492424?source=rss------bug_bounty-5) 
 
- - 💯February 6, 2025 - [How I got an Account-Takeover By Race-conditions on Login page](https://medium.com/@krishnast545/how-i-got-an-account-takeover-by-race-conditions-on-login-page-3775faaffb4f?source=rss------bug_bounty-5) 
+ - 💯February 7, 2025 - [Do You Struggle Finding Internal/Hidden Subdomains? Recon part 5](https://osintteam.blog/do-you-struggle-finding-internal-hidden-subdomains-recon-part-5-b06c99a11364?source=rss------bug_bounty-5) 
 
- - 💯February 6, 2025 - [Extreme Recon Dorking](https://medium.com/meetcyber/extreme-recon-dorking-eace7444b7c2?source=rss------bug_bounty-5) 
+ - 💯February 7, 2025 - [How to Exploit Web Cache Poisoning with an Unkeyed Header Using Param Miner  —  Web Cache…](https://bashoverflow.medium.com/how-to-exploit-web-cache-poisoning-with-an-unkeyed-header-using-param-miner-web-cache-a3ffacc546a1?source=rss------bug_bounty-5) 
 
- - 💯February 5, 2025 - [All You Need To Know About Path Traversal](https://medium.com/@ossama.cybersec/all-you-need-to-know-about-path-traversal-5a01c18e01e4?source=rss------bug_bounty-5) 
+ - 💯February 7, 2025 - [50+ XSS: Mass Hunting](https://medium.com/@kumawatabhijeet2002/50-xss-mass-hunting-37e51fce5369?source=rss------bug_bounty-5) 
 
- - 💯February 5, 2025 - [Cyberforce 2024: How I found my first CVE OpenPLCV3](https://medium.com/@alimuhammadsecured/cyberforce-2024-how-i-found-my-first-cve-openplcv3-16c058b114b0?source=rss------bug_bounty-5) 
+ - 💯February 7, 2025 - [The $50,000 Mistake — A Read/Write Profile IDOR Story](https://medium.com/@shxsu1/the-50-000-mistake-a-read-write-profile-idor-story-c31c353446d4?source=rss------bug_bounty-5) 
 
- - 💯February 5, 2025 - [Netgear Warns of Zero-Day Vulnerabilities in WiFi Routers](https://medium.com/@wiretor/netgear-warns-of-zero-day-vulnerabilities-in-wifi-routers-ffc2d8299b8f?source=rss------bug_bounty-5) 
+ - 💯February 7, 2025 - [[PART 2] Anyone can use unlimited Trial Premium on accounts that have used Trial Premium before](https://aidilarf.medium.com/part-2-anyone-can-use-unlimited-trial-premium-on-accounts-that-have-used-trial-premium-before-b1ac65c9a2d6?source=rss------bug_bounty-5) 
 
- - 💯February 5, 2025 - [OTP Bypass on [Redacted]: Contact Forms to Unauthorized Calls](https://medium.com/@manav.surti.13728342/otp-bypass-on-redacted-contact-forms-to-unauthorized-calls-453d09837fa4?source=rss------bug_bounty-5) 
+ - 💯February 6, 2025 - [The Importance of Proxy Usage in Bug Hunting](https://medium.com/meetcyber/the-importance-of-proxy-usage-in-bug-hunting-9896618da7fc?source=rss------bug_bounty-5) 
 
- - 💯February 5, 2025 - [Day 1: Defeating the HttpOnly Flag for Account Takeover via RXSS](https://medium.com/@danielbelay/day-1-defeating-the-httponly-flag-for-account-takeover-via-rxss-a2fa9cbc0156?source=rss------bug_bounty-5) 
+ - 💯February 6, 2025 - [Search Engines Every Pentester Should Know](https://osintteam.blog/search-engines-every-pentester-should-know-faabe0c7fb64?source=rss------bug_bounty-5) 
 
- - 💯February 5, 2025 - [&lpar;$$&rpar; Critical IDOR Vulnerability Leads to User Information Disclosure](https://medium.com/@Tanvir0x1/critical-idor-vulnerability-leads-to-user-information-disclosure-b0bb7f06aef5?source=rss------bug_bounty-5) 
+ - 💯February 6, 2025 - [Automating Google Dorking for Bug Bounty](https://osintteam.blog/automating-google-dorking-for-bug-bounty-2339abb4b910?source=rss------bug_bounty-5) 
 
- - 💯February 5, 2025 - [From Demo to Live: Zero-Click Account Takeover via the Same Encryption Algorithm](https://infosecwriteups.com/from-demo-to-live-zero-click-account-takeover-via-the-same-encryption-algorithm-38b6cabfb21e?source=rss------bug_bounty-5) 
+ - 💯February 6, 2025 - [Day 2: Account Takeover via Stored XSS](https://medium.com/@danielbelay/day-2-account-takeover-via-stored-xss-ac62c49b20c1?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
