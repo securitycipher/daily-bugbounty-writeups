@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯February 9, 2025 - [From Duplicate to Letter of Appreciation: How I Hacked NASA](https://medium.com/@cyberhrsh/from-duplicate-to-letter-of-appreciation-how-i-hacked-nasa-3f8b5a6c105c?source=rss------bug_bounty-5) 
+ - 💯February 10, 2025 - [Bypassed Cloudflare: XSS Pop-Up](https://cybersecuritywriteups.com/bypassed-cloudflare-xss-pop-up-f9c67952abcf?source=rss------bug_bounty-5) 
 
- - 💯February 9, 2025 - [Solidity: The Language That Powers the Crypto Revolution](https://medium.com/@legendh238/imagine-youre-in-a-futuristic-city-where-every-transaction-contract-and-agreement-is-1a1b49c873aa?source=rss------bug_bounty-5) 
+ - 💯February 10, 2025 - [HTML Injection in Email Invitations: A Security Flaw Exploited](https://medium.com/@muralidharan1530/html-injection-in-email-invitations-a-security-flaw-exploited-39394f6ac266?source=rss------bug_bounty-5) 
 
- - 💯February 9, 2025 - [Takeover fresh install nextcloud server admin.](https://medium.com/@nanwinata/takeover-fresh-install-nextcloud-server-admin-142b5c179fe4?source=rss------bug_bounty-5) 
+ - 💯February 10, 2025 - [GetSubDomains: A Fast &amp; Efficient Subdomain Enumeration Tool ️](https://yogsec.medium.com/getsubdomains-a-fast-efficient-subdomain-enumeration-tool-%EF%B8%8F-11c7d8003931?source=rss------bug_bounty-5) 
 
- - 💯February 9, 2025 - [How I Found Reflected XSS Vulnerability on Australian Government. [CVE-2022–35653]](https://systemweakness.com/how-i-found-reflected-xss-vulnerability-on-australian-government-cve-2022-35653-ead0e56db243?source=rss------bug_bounty-5) 
+ - 💯February 10, 2025 - [ERC-20, ERC-721, ERC-1155: How Token Standards Introduce Unique Security Risks](https://securrtech.medium.com/erc-20-erc-721-erc-1155-how-token-standards-introduce-unique-security-risks-ed9fe5083200?source=rss------bug_bounty-5) 
 
- - 💯February 9, 2025 - [BUG BOUNTY Roadmap](https://medium.com/@codingbolt.in/bug-bounty-roadamp-4acc1220e123?source=rss------bug_bounty-5) 
+ - 💯February 10, 2025 - [The 7 Most Hilarious Bugs I’ve Encountered in My Career](https://blog.stackademic.com/the-7-most-hilarious-bugs-ive-encountered-in-my-career-128aa23532ab?source=rss------bug_bounty-5) 
 
- - 💯February 9, 2025 - [️‍♂️My Journey of Securing WHO](https://infosecwriteups.com/%EF%B8%8F-%EF%B8%8Fmy-journey-of-securing-who-85f36c6caf0f?source=rss------bug_bounty-5) 
+ - 💯February 9, 2025 - [The Art of Recon: Hunting Bugs Before They Hide &lpar;Part One&rpar;](https://zeusvuln.medium.com/the-art-of-recon-hunting-bugs-before-they-hide-part-one-1df269ab1d68?source=rss------bug_bounty-5) 
 
- - 💯February 9, 2025 - [Easy $250: Discovered Exposed .env Files](https://cybersecuritywriteups.com/easy-250-discovered-exposed-env-files-47e0d425795d?source=rss------bug_bounty-5) 
+ - 💯February 9, 2025 - [Exploiting an IDOR Vulnerability in Target.com Account Management System](https://bugbountylogs.medium.com/exploiting-an-idor-vulnerability-in-target-com-account-management-system-a5bec149e69f?source=rss------bug_bounty-5) 
 
- - 💯February 9, 2025 - [How I got Bounty and Hall of Fame for finding easy bugs](https://infosecwriteups.com/how-i-got-bounty-and-hall-of-fame-for-finding-easy-bugs-1a72aefe6c3a?source=rss------bug_bounty-5) 
+ - 💯February 9, 2025 - [SQL Injection and Stored Cross-Site Scripting Vulnerability in Super Store Finder Plugin](https://medium.com/@wiretor/sql-injection-and-stored-cross-site-scripting-vulnerability-in-super-store-finder-plugin-214237191b5a?source=rss------bug_bounty-5) 
 
- - 💯February 9, 2025 - [How to find bugs in the Microsoft IIS page.](https://infosecwriteups.com/how-to-find-bugs-in-the-microsoft-iis-page-120c2050b66f?source=rss------bug_bounty-5) 
+ - 💯February 9, 2025 - [Massive Data Breach: 882,000 Patients Affected in US Health System Cyberattack](https://medium.com/@wiretor/massive-data-breach-882-000-patients-affected-in-us-health-system-cyberattack-ce8ddca0edc0?source=rss------bug_bounty-5) 
+
+ - 💯February 9, 2025 - [Day 5: Chaining Bugs from Self-XSS to Full Account Takeover](https://medium.com/@danielbelay/day-5-chaining-bugs-from-self-xss-to-full-account-takeover-d01ab3759e06?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
