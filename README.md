@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯February 12, 2025 - [Day 7: Drag &amp; Drop XSS + Cookie Bomb for OAuth Hijacking](https://medium.com/@danielbelay/day-7-drag-drop-xss-cookie-bomb-for-oauth-hijacking-a9b828cd9c54?source=rss------bug_bounty-5) 
+ - 💯February 13, 2025 - [️‍♂️ How to Information Gathering in Bug Hunting on Target](https://medium.com/@vipulsonule71/%EF%B8%8F-%EF%B8%8F-how-to-information-gathering-in-bug-hunting-on-target-00de7e20afc0?source=rss------bug_bounty-5) 
 
- - 💯February 12, 2025 - [Accessing Admin Portal Without Credentials via Long Redirection Response](https://systemweakness.com/accessing-admin-portal-without-credentials-via-long-redirection-response-da79d84bb93a?source=rss------bug_bounty-5) 
+ - 💯February 13, 2025 - [Threat Actor Attribution: A Detailed Guide](https://medium.com/@paritoshblogs/threat-actor-attribution-a-detailed-guide-39f5b81086ac?source=rss------bug_bounty-5) 
 
- - 💯February 12, 2025 - [Exploiting crAPI with jwt_tool](https://medium.com/@samhilliard/in-this-post-ill-show-you-how-to-use-jwt-tool-to-analyze-and-exploit-jwt-vulnerabilities-in-97c62a0e6ac5?source=rss------bug_bounty-5) 
+ - 💯February 13, 2025 - [Mastering SQL Injection: Detection, Exploitation &amp; Automation Guide](https://rootxabit.medium.com/mastering-sql-injection-detection-exploitation-automation-guide-7f0195fe435d?source=rss------bug_bounty-5) 
 
- - 💯February 12, 2025 - [Earn $5000 using Subdomain Takeover: Step By Step Guide](https://cybersecuritywriteups.com/earn-5000-using-subdomain-takeover-step-by-step-guide-eec3e8e6336d?source=rss------bug_bounty-5) 
+ - 💯February 13, 2025 - [$10.5k Bounty Story](https://aimasterprompt.medium.com/10-5k-bounty-story-aa55497d77b6?source=rss------bug_bounty-5) 
 
- - 💯February 12, 2025 - [N#S# server security misconfiguration.](https://medium.com/@hunter_sv/nasa-server-security-misconfiguration-4b7b9b7331b5?source=rss------bug_bounty-5) 
+ - 💯February 13, 2025 - [Earn $$ by Finding CSRF Vulnerabilities!](https://infosecwriteups.com/earn-by-finding-csrf-vulnerabilities-638f876918cf?source=rss------bug_bounty-5) 
 
- - 💯February 12, 2025 - [BFAC: The Ultimate Tool to Uncover Hidden Backup Files](https://osintteam.blog/bfac-the-ultimate-tool-to-uncover-hidden-backup-files-4a0de1f9e8de?source=rss------bug_bounty-5) 
+ - 💯February 13, 2025 - [Powerful Burp Suite Extensions](https://osintteam.blog/powerful-burp-suite-extensions-d1c960f376b5?source=rss------bug_bounty-5) 
 
- - 💯February 12, 2025 - [How I Found an ATO in a Public Program](https://medium.com/@khaledahmed_56157/how-i-found-an-ato-in-a-public-program-5209be3140f4?source=rss------bug_bounty-5) 
+ - 💯February 12, 2025 - [Hacking tools — Art of my creation](https://medium.com/@zatikyan.sevada/hacking-tools-art-of-my-creation-2f47ab1eca18?source=rss------bug_bounty-5) 
 
- - 💯February 11, 2025 - [How a Simple Clickjacking Bug Can Lead to Big Security Risks](https://cyberw1ng.medium.com/how-a-simple-clickjacking-bug-can-lead-to-big-security-risks-a61882702370?source=rss------bug_bounty-5) 
+ - 💯February 12, 2025 - [$10,500 SSO Misconfiguration Bug on Grammarly](https://osintteam.blog/10-500-sso-misconfiguration-bug-on-grammarly-438f2cb87a0c?source=rss------bug_bounty-5) 
 
- - 💯February 11, 2025 - [Best Port Scanner for Bug Bounty: How to Install and Use Naabu Efficiently](https://medium.com/@hacker_might/best-port-scanner-for-bug-bounty-how-to-install-and-use-naabu-efficiently-4bffdab35ed5?source=rss------bug_bounty-5) 
+ - 💯February 12, 2025 - [Bug Bounty in 2025: Part 1 — Mastering Regex for Security](https://medium.com/@halfcircassian/bug-bounty-in-2025-part-1-mastering-regex-for-security-3d58bcf51102?source=rss------bug_bounty-5) 
 
- - 💯February 11, 2025 - [Burp Suite — Creación de Issues Manuales](https://medium.com/@ArtsSEC/burp-suite-creaci%C3%B3n-de-issues-manuales-ac65c5767852?source=rss------bug_bounty-5) 
+ - 💯February 12, 2025 - [Facebook Bug Bounty: Can You Really Earn $500 for Finding Bugs](https://medium.com/@ibtissamhammadi/facebook-bug-bounty-can-you-really-earn-500-for-finding-bugs-4e71c81af2a2?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
