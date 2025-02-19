@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯February 18, 2025 - [Improper Authentication: Account TakeOver](https://medium.com/@mvenkata.bharath/improper-authentication-account-takeover-5dc9095c0b28?source=rss------bug_bounty-5) 
+ - 💯February 19, 2025 - [How to Find Subdomain Takeover in Bug Hunting](https://medium.com/@vipulsonule71/how-to-find-subdomain-takeover-in-bug-hunting-863b39a68755?source=rss------bug_bounty-5) 
 
- - 💯February 18, 2025 - [Insecure Direct Object Reference — Simple case](https://medium.com/@mvenkata.bharath/insecure-direct-object-reference-simple-case-1bc2afd4e362?source=rss------bug_bounty-5) 
+ - 💯February 19, 2025 - [Inside Agoda’s Bug Bounty Program: How We Stay Ahead of Cyber Threats](https://medium.com/agoda-engineering/how-agoda-works-with-hackers-to-strengthen-its-security-2e4129299b8b?source=rss------bug_bounty-5) 
 
- - 💯February 18, 2025 - [Instagram Authentication Flaw in Android App](https://medium.com/@akashkarmakar787/instagram-authentication-flaw-in-android-app-cf2a59e6a175?source=rss------bug_bounty-5) 
+ - 💯February 19, 2025 - [How easy is it to earn from bug bounties? The truth behind ethical hacking rewards](https://infosecwriteups.com/how-easy-is-it-to-earn-from-bug-bounties-the-truth-behind-ethical-hacking-rewards-1a88e1f58444?source=rss------bug_bounty-5) 
 
- - 💯February 18, 2025 - [How I Bypassed BookMyShow’s OTP Limit with Just a Space &amp; Got ₹1000 for It!](https://infosecwriteups.com/how-i-bypassed-bookmyshows-otp-limit-with-just-a-space-got-1000-for-it-70eab29fb6aa?source=rss------bug_bounty-5) 
+ - 💯February 19, 2025 - [Learn how to find one of the easy p4 bug](https://cybersecuritywriteups.com/learn-how-to-find-one-of-the-easy-p4-bug-4f6bdf29044c?source=rss------bug_bounty-5) 
 
- - 💯February 18, 2025 - [No email verification leads to an Oauth account takeover.](https://infosecwriteups.com/no-email-verification-leads-to-an-oauth-account-takeover-02eb30496939?source=rss------bug_bounty-5) 
+ - 💯February 19, 2025 - [OTP Login Rate Limit Bypass — The Easiest Bug for Beginners to Discover](https://infosecwriteups.com/otp-login-rate-limit-bypass-the-easiest-bug-for-beginners-to-discover-74cbf2432b72?source=rss------bug_bounty-5) 
 
- - 💯February 18, 2025 - [Android App Endpoint API Discovery Using Static Analysis Methods](https://medium.com/@BugRey/android-app-endpoint-api-discovery-using-static-analysis-methods-2cb2c83ccfbb?source=rss------bug_bounty-5) 
+ - 💯February 19, 2025 - [How I Earned a Hall of Fame Spot at UNESCO by Bypassing 403 Forbidden](https://infosecwriteups.com/how-i-earned-a-hall-of-fame-spot-at-unesco-by-bypassing-403-forbidden-fdb2185383f7?source=rss------bug_bounty-5) 
 
- - 💯February 18, 2025 - [Practical Guide Arbitrary File Upload](https://medium.com/@BugRey/practical-guide-arbitrary-file-upload-7c6a6e6becd6?source=rss------bug_bounty-5) 
+ - 💯February 19, 2025 - [Free VPS for penetration testing and bug bounty part 2](https://infosecwriteups.com/free-vps-for-penetration-testing-and-bug-bounty-part-2-d88e7ec00e2c?source=rss------bug_bounty-5) 
 
- - 💯February 18, 2025 - [Monday Vulnerability Disclosure &lpar;February 17, 2025&rpar;](https://medium.com/@bombhajohn/monday-vulnerability-disclosure-february-17-2025-08d7fe29c39b?source=rss------bug_bounty-5) 
+ - 💯February 19, 2025 - [Insecure Deserialization + Lab Resolution](https://medium.com/@0xpedrop/insecure-deserialization-lab-resolution-1f53adbf26a1?source=rss------bug_bounty-5) 
 
- - 💯February 18, 2025 - [✨$500 HTML Injection in Snapchat](https://cybersecuritywriteups.com/500-html-injection-in-snapchat-c546282f1f60?source=rss------bug_bounty-5) 
+ - 💯February 19, 2025 - [Unauthorized Access to Internal Panel via Response Manipulation](https://0onoproblem.medium.com/unauthorized-access-to-internal-panel-via-response-manipulation-0b6baaae9346?source=rss------bug_bounty-5) 
 
- - 💯February 17, 2025 - [Open Redirect to Xss](https://medium.com/@0x_karim/open-redirect-to-xss-d35eb8eb1cf4?source=rss------bug_bounty-5) 
+ - 💯February 19, 2025 - [$1000 Bounty: Command Injection Vulnerability](https://medium.com/infosecmatrix/1000-bounty-command-injection-vulnerability-b190222bf07a?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
