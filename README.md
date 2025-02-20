@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯February 19, 2025 - [How to Find Subdomain Takeover in Bug Hunting](https://medium.com/@vipulsonule71/how-to-find-subdomain-takeover-in-bug-hunting-863b39a68755?source=rss------bug_bounty-5) 
+ - 💯February 19, 2025 - [How a GraphQL Misconfiguration Exposed Sensitive Information: A $25,000 Bug Bounty Report](https://cyberw1ng.medium.com/how-a-graphql-misconfiguration-exposed-sensitive-information-a-25-000-bug-bounty-report-a8207bc7ff11?source=rss------bug_bounty-5) 
 
- - 💯February 19, 2025 - [Inside Agoda’s Bug Bounty Program: How We Stay Ahead of Cyber Threats](https://medium.com/agoda-engineering/how-agoda-works-with-hackers-to-strengthen-its-security-2e4129299b8b?source=rss------bug_bounty-5) 
+ - 💯February 19, 2025 - [Did You Know … A Woman Launched the U.S. Government’s First Bug Bounty Program](https://medium.com/did-you-know-short-fun-facts/did-you-know-a-woman-launched-the-u-s-governments-first-bug-bounty-program-3b7a32ebf00b?source=rss------bug_bounty-5) 
 
- - 💯February 19, 2025 - [How easy is it to earn from bug bounties? The truth behind ethical hacking rewards](https://infosecwriteups.com/how-easy-is-it-to-earn-from-bug-bounties-the-truth-behind-ethical-hacking-rewards-1a88e1f58444?source=rss------bug_bounty-5) 
+ - 💯February 19, 2025 - [“There is no subdomain with no usage” How understanding this rule led to 5 Criticals](https://kalawy.medium.com/there-is-no-subdomain-with-no-usage-how-understanding-this-rule-led-to-5-criticals-59e815ca6df2?source=rss------bug_bounty-5) 
 
- - 💯February 19, 2025 - [Learn how to find one of the easy p4 bug](https://cybersecuritywriteups.com/learn-how-to-find-one-of-the-easy-p4-bug-4f6bdf29044c?source=rss------bug_bounty-5) 
+ - 💯February 19, 2025 - [EASY P3 “Broken Access Control”](https://medium.com/@a0xtrojan/easy-p3-broken-access-control-7c28702cb1ee?source=rss------bug_bounty-5) 
 
- - 💯February 19, 2025 - [OTP Login Rate Limit Bypass — The Easiest Bug for Beginners to Discover](https://infosecwriteups.com/otp-login-rate-limit-bypass-the-easiest-bug-for-beginners-to-discover-74cbf2432b72?source=rss------bug_bounty-5) 
+ - 💯February 19, 2025 - [Bug Bounty Hunting — Complete Guide &lpar;Part-102&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-102-33f5cc96116c?source=rss------bug_bounty-5) 
 
- - 💯February 19, 2025 - [How I Earned a Hall of Fame Spot at UNESCO by Bypassing 403 Forbidden](https://infosecwriteups.com/how-i-earned-a-hall-of-fame-spot-at-unesco-by-bypassing-403-forbidden-fdb2185383f7?source=rss------bug_bounty-5) 
+ - 💯February 19, 2025 - [How I Found a CSRF via a misconfiguration in graphql](https://medium.com/@ismailismailgamal52/how-i-found-a-csrf-via-a-misconfiguration-in-graphql-42676a1e12b7?source=rss------bug_bounty-5) 
 
- - 💯February 19, 2025 - [Free VPS for penetration testing and bug bounty part 2](https://infosecwriteups.com/free-vps-for-penetration-testing-and-bug-bounty-part-2-d88e7ec00e2c?source=rss------bug_bounty-5) 
+ - 💯February 19, 2025 - [The Web Application Hacker’s Handbook: Web Application &lpar;In&rpar;security](https://medium.com/@muhammad4208/the-web-application-hackers-handbook-web-application-in-security-b2e7df531100?source=rss------bug_bounty-5) 
 
- - 💯February 19, 2025 - [Insecure Deserialization + Lab Resolution](https://medium.com/@0xpedrop/insecure-deserialization-lab-resolution-1f53adbf26a1?source=rss------bug_bounty-5) 
+ - 💯February 19, 2025 - [Subdomain Enumeration: Expanding the Attack Surface](https://medium.com/@muhammad4208/subdomain-enumeration-expanding-the-attack-surface-5fefe74f1d83?source=rss------bug_bounty-5) 
 
- - 💯February 19, 2025 - [Unauthorized Access to Internal Panel via Response Manipulation](https://0onoproblem.medium.com/unauthorized-access-to-internal-panel-via-response-manipulation-0b6baaae9346?source=rss------bug_bounty-5) 
-
- - 💯February 19, 2025 - [$1000 Bounty: Command Injection Vulnerability](https://medium.com/infosecmatrix/1000-bounty-command-injection-vulnerability-b190222bf07a?source=rss------bug_bounty-5) 
+ - 💯February 19, 2025 - [How I Stumbled Upon India’s Government Data Leak – and Why It’s a Wake-Up Call](https://medium.com/@warisjeet31/how-i-stumbled-upon-indias-government-data-leak-and-why-it-s-a-wake-up-call-c90695d84a29?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
