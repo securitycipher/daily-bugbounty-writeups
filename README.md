@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯February 25, 2025 - [Extracting DOM XSS Vulnerabilities from JavaScript Files](https://z0enix.medium.com/extracting-dom-xss-vulnerabilities-from-javascript-files-606b0d888740?source=rss------bug_bounty-5) 
+ - 💯February 27, 2025 - [Sensitive Information Disclosure on Out of scope domain Bug Bounty Writeup &lpar;$$ USD Reward &rpar;](https://medium.com/@rushikeshchaudhari124/sensitive-information-disclosure-on-out-of-scope-domain-bug-bounty-writeup-usd-reward-58adec34acfb?source=rss------bug_bounty-5) 
 
- - 💯February 25, 2025 - [How I Made $1000+ from a Simple XSS Bug — My Bug Bounty Journey](https://krishna-cyber.medium.com/how-i-made-1000-from-a-simple-xss-bug-my-bug-bounty-journey-82283becb91b?source=rss------bug_bounty-5) 
+ - 💯February 27, 2025 - [How I Found an Open Redirect Vulnerability Easily &lpar;Worth $500!&rpar;](https://medium.com/@Abhijeet_kumawat_/how-i-found-an-open-redirect-vulnerability-easily-worth-500-44cda132819b?source=rss------bug_bounty-5) 
 
- - 💯February 25, 2025 - [PostgreSQL Penetration Testing: A Comprehensive Guide](https://infosecwriteups.com/postgresql-penetration-testing-a-comprehensive-guide-33d21c4dceba?source=rss------bug_bounty-5) 
+ - 💯February 27, 2025 - [$1000–$25k worth API Bug Attack &amp; Chaining Strategies](https://infosecwriteups.com/1000-25k-worth-api-bug-attack-chaining-strategies-ded4121b5791?source=rss------bug_bounty-5) 
 
- - 💯February 25, 2025 - [How I Discovered a Facebook Privacy Loophole and Earned $1000](https://infosecwriteups.com/how-i-discovered-a-facebook-privacy-loophole-and-earned-1000-44318d196bfc?source=rss------bug_bounty-5) 
+ - 💯February 27, 2025 - [How to Find XSS Vulnerabilities in React JS Websites](https://medium.com/h7w/how-to-find-xss-vulnerabilities-in-react-js-websites-46f843bb932e?source=rss------bug_bounty-5) 
 
- - 💯February 25, 2025 - [Android Security Vulnerabilities and Exploitation](https://infosecwriteups.com/android-security-vulnerabilities-and-exploitation-4ef95e970e2f?source=rss------bug_bounty-5) 
+ - 💯February 26, 2025 - [Cloud Reconnaissance: How to Gather Information from Cloud Services](https://cyberw1ng.medium.com/cloud-reconnaissance-how-to-gather-information-from-cloud-services-34b2e9d42ea0?source=rss------bug_bounty-5) 
 
- - 💯February 25, 2025 - [Mastering Subdomain Enumeration](https://infosecwriteups.com/mastering-subdomain-enumeration-05fa958567cd?source=rss------bug_bounty-5) 
+ - 💯February 26, 2025 - [How to Hack a Website](https://medium.com/@vipulsonule71/how-to-hack-a-website-1685484b8c6d?source=rss------bug_bounty-5) 
 
- - 💯February 25, 2025 - [Part 1- Exploiting Content Injection &amp; Info Disclosure: A High-Impact Bug Worth Big Rewards!](https://hackersatty.medium.com/part-1-exploiting-content-injection-info-disclosure-a-high-impact-bug-worth-big-rewards-34a25519ecc7?source=rss------bug_bounty-5) 
+ - 💯February 26, 2025 - [Don’t miss this while working on a bounty target!](https://medium.com/@sb12121111/dont-miss-this-while-working-on-a-bounty-target-fa8c8368129c?source=rss------bug_bounty-5) 
 
- - 💯February 25, 2025 - [Bypassing IP-Based OTP rate limits: A Bug bounty hunter’s guide](https://infosecwriteups.com/bypassing-ip-based-otp-rate-limits-a-bug-bounty-hunters-guide-16ce8a1f2c71?source=rss------bug_bounty-5) 
+ - 💯February 26, 2025 - [The $500 Cache Trick: How I Turned Cache Deception into Cold, Hard Cash!](https://osintteam.blog/the-500-cache-trick-how-i-turned-cache-deception-into-cold-hard-cash-13a49a2a6d78?source=rss------bug_bounty-5) 
 
- - 💯February 25, 2025 - [A simple tool for GitHub Dorking that will be helpful in your bug bounty journey.](https://infosecwriteups.com/a-simple-tool-for-github-dorking-that-will-be-helpful-in-your-bug-bounty-journey-d1720c15fc6d?source=rss------bug_bounty-5) 
+ - 💯February 26, 2025 - [Bug Bounty Hunting — Complete Guide &lpar;Part-109&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-109-1840bb5bf3e0?source=rss------bug_bounty-5) 
 
- - 💯February 25, 2025 - [Bug Bounty Hunting — Complete Guide &lpar;Part-72&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-72-6c721aa447b0?source=rss------bug_bounty-5) 
+ - 💯February 26, 2025 - [When a Tiny Sensitive Leak Gave Me a Big $$ Surprise‍️](https://medium.com/@iski/when-a-tiny-sensitive-leak-gave-me-a-big-surprise-%EF%B8%8F-a5feb54d8d82?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
