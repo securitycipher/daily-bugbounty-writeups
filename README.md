@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯February 27, 2025 - [Sensitive Information Disclosure on Out of scope domain Bug Bounty Writeup &lpar;$$ USD Reward &rpar;](https://medium.com/@rushikeshchaudhari124/sensitive-information-disclosure-on-out-of-scope-domain-bug-bounty-writeup-usd-reward-58adec34acfb?source=rss------bug_bounty-5) 
+ - 💯February 28, 2025 - [Best VPS for Bug Bounty &amp; Pentesting](https://medium.com/meetcyber/best-vps-for-bug-bounty-pentesting-2b556c375f28?source=rss------bug_bounty-5) 
 
- - 💯February 27, 2025 - [How I Found an Open Redirect Vulnerability Easily &lpar;Worth $500!&rpar;](https://medium.com/@Abhijeet_kumawat_/how-i-found-an-open-redirect-vulnerability-easily-worth-500-44cda132819b?source=rss------bug_bounty-5) 
+ - 💯February 28, 2025 - [root-me | web-server | lab-3 | HTTP — Open redirect walkthrough](https://medium.com/@ssh_fsociety/root-me-web-server-lab-3-http-open-redirect-walkthrough-25cdcfb53100?source=rss------bug_bounty-5) 
 
- - 💯February 27, 2025 - [$1000–$25k worth API Bug Attack &amp; Chaining Strategies](https://infosecwriteups.com/1000-25k-worth-api-bug-attack-chaining-strategies-ded4121b5791?source=rss------bug_bounty-5) 
+ - 💯February 28, 2025 - [CSRF in 2025: “Solved” But Still Bypassable](https://infosecwriteups.com/csrf-in-2025-solved-but-still-bypassable-942ca382ab77?source=rss------bug_bounty-5) 
 
- - 💯February 27, 2025 - [How to Find XSS Vulnerabilities in React JS Websites](https://medium.com/h7w/how-to-find-xss-vulnerabilities-in-react-js-websites-46f843bb932e?source=rss------bug_bounty-5) 
+ - 💯February 28, 2025 - [Finding an api key in a .js file in the comments](https://infosecwriteups.com/finding-an-api-key-in-a-js-file-in-the-comments-67b30af1d451?source=rss------bug_bounty-5) 
 
- - 💯February 26, 2025 - [Cloud Reconnaissance: How to Gather Information from Cloud Services](https://cyberw1ng.medium.com/cloud-reconnaissance-how-to-gather-information-from-cloud-services-34b2e9d42ea0?source=rss------bug_bounty-5) 
+ - 💯February 28, 2025 - [Find related files to your bug bounty target](https://infosecwriteups.com/find-related-files-to-your-bug-bounty-target-4752d769eecc?source=rss------bug_bounty-5) 
 
- - 💯February 26, 2025 - [How to Hack a Website](https://medium.com/@vipulsonule71/how-to-hack-a-website-1685484b8c6d?source=rss------bug_bounty-5) 
+ - 💯February 28, 2025 - [Day 20: Admin Account Takeover via Weird Password Reset Functionality](https://medium.com/@danielbelay/day-20-admin-account-takeover-via-weird-password-reset-functionality-33afb15fa4c0?source=rss------bug_bounty-5) 
 
- - 💯February 26, 2025 - [Don’t miss this while working on a bounty target!](https://medium.com/@sb12121111/dont-miss-this-while-working-on-a-bounty-target-fa8c8368129c?source=rss------bug_bounty-5) 
+ - 💯February 28, 2025 - [$500 How I Found XSS Using ChatGPT](https://medium.com/@Abhijeet_kumawat_/500-how-i-found-xss-using-chatgpt-54b5492af41a?source=rss------bug_bounty-5) 
 
- - 💯February 26, 2025 - [The $500 Cache Trick: How I Turned Cache Deception into Cold, Hard Cash!](https://osintteam.blog/the-500-cache-trick-how-i-turned-cache-deception-into-cold-hard-cash-13a49a2a6d78?source=rss------bug_bounty-5) 
+ - 💯February 27, 2025 - [Hands-On Web Exploitation Course by NahamSec](https://medium.com/@julius.grosserode.19/hands-on-web-exploitation-course-by-nahamsec-8807aad7de58?source=rss------bug_bounty-5) 
 
- - 💯February 26, 2025 - [Bug Bounty Hunting — Complete Guide &lpar;Part-109&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-109-1840bb5bf3e0?source=rss------bug_bounty-5) 
+ - 💯February 27, 2025 - [CSRF | NahamSec Course](https://medium.com/@julius.grosserode.19/csrf-nahamsec-course-f04b49eca048?source=rss------bug_bounty-5) 
 
- - 💯February 26, 2025 - [When a Tiny Sensitive Leak Gave Me a Big $$ Surprise‍️](https://medium.com/@iski/when-a-tiny-sensitive-leak-gave-me-a-big-surprise-%EF%B8%8F-a5feb54d8d82?source=rss------bug_bounty-5) 
+ - 💯February 27, 2025 - [25,000$ Bounty — Simple SSRF Led to AWS Credentials Exposure](https://osintteam.blog/25-000-bounty-simple-ssrf-led-to-aws-credentials-exposure-a6938e0875f9?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
