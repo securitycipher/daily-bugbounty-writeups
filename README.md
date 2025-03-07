@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 6, 2025 - [Use this unique way to find broken link hijacking bugs.](https://infosecwriteups.com/use-this-unique-way-to-find-broken-link-hijacking-bugs-3081878839d4?source=rss------bug_bounty-5) 
+ - 💯March 7, 2025 - [Anonymous access on SMB [Ejpt exam notes]](https://medium.com/@hrofficial62/anonymous-access-on-smb-ejpt-exam-notes-b898d6f508fc?source=rss------bug_bounty-5) 
 
- - 💯March 6, 2025 - [Finding the origin IP part 2](https://infosecwriteups.com/finding-the-origin-ip-part-2-c96d7488c40e?source=rss------bug_bounty-5) 
+ - 💯March 7, 2025 - [Understanding DDoS Attacks: A Threat to Online Services](https://medium.com/@HexaGaurd/understanding-ddos-attacks-a-threat-to-online-services-a837e459a311?source=rss------bug_bounty-5) 
 
- - 💯March 6, 2025 - [How To Find Low-Hanging Bugs?](https://cybersecuritywriteups.com/how-to-find-low-hanging-bugs-6e8b3eb8b3ca?source=rss------bug_bounty-5) 
+ - 💯March 7, 2025 - [I Found Exposing API Keys and Tokens in a Private Program](https://cybersecuritywriteups.com/i-found-exposing-api-keys-and-tokens-in-a-private-program-1d02ef9e49d0?source=rss------bug_bounty-5) 
 
- - 💯March 6, 2025 - [My First Bug Bounty Win: How I Found and Reported a Security Vulnerability](https://heinhtetagg.medium.com/my-first-bug-bounty-win-how-i-found-and-reported-a-security-vulnerability-c41fdfd717c2?source=rss------bug_bounty-5) 
+ - 💯March 7, 2025 - [I hacked space x and rewarded 2500$ Bypassing Full Payment to Regain Internet Access](https://bytesnull44.medium.com/i-hacked-space-x-and-rewarded-2500-bypassing-full-payment-to-regain-internet-access-bd6120483a06?source=rss------bug_bounty-5) 
 
- - 💯March 6, 2025 - [CORS Exploitation Walkthrough | Bypass &amp; Exploit Misconfigured CORS | Ethical Hacking Tutorial](https://medium.com/@spector-sec/cors-exploitation-walkthrough-bypass-exploit-misconfigured-cors-ethical-hacking-tutorial-db15994788d3?source=rss------bug_bounty-5) 
+ - 💯March 7, 2025 - [The Art of SSTI: From Detection to Domination](https://zeusvuln.medium.com/the-art-of-ssti-from-detection-to-domination-f5fdd2411439?source=rss------bug_bounty-5) 
 
- - 💯March 6, 2025 - [Stored xss using PDF  a bug?](https://medium.com/@dsmodi484/stored-xss-using-pdf-a-bug-0690125015bb?source=rss------bug_bounty-5) 
+ - 💯March 6, 2025 - [How I Discovered a Stored XSS Vulnerability in JS Files](https://cybersecuritywriteups.com/how-i-discovered-a-stored-xss-vulnerability-in-js-files-7b527d2c8962?source=rss------bug_bounty-5) 
 
- - 💯March 6, 2025 - [How to Find Your First Bug ️‍♂️](https://medium.com/@vipulsonule71/how-to-find-your-first-bug-%EF%B8%8F-%EF%B8%8F-d6a0b0ef40b3?source=rss------bug_bounty-5) 
+ - 💯March 6, 2025 - [Information Disclosure: AWS Sensitive API Key Leakage](https://osintteam.blog/information-disclosure-aws-sensitive-api-key-leakage-0b60d3af5109?source=rss------bug_bounty-5) 
 
- - 💯March 6, 2025 - [Exposed Files: The Gift That Keeps on Giving](https://medium.com/@mahad.ahmed0x1/exposed-files-the-gift-that-keeps-on-giving-d0394df80f12?source=rss------bug_bounty-5) 
+ - 💯March 6, 2025 - [“Unlock Bug Bounty Rewards by Hunting Exposed debug.log](https://krishna-cyber.medium.com/unlock-bug-bounty-rewards-by-hunting-exposed-debug-log-0d50382a64d1?source=rss------bug_bounty-5) 
 
- - 💯March 5, 2025 - [The Prefix, The Suffix, and the SQL Injection That Almost Got Away](https://clarkvoss.medium.com/the-prefix-the-suffix-and-the-sql-injection-that-almost-got-away-b76376cb74e1?source=rss------bug_bounty-5) 
+ - 💯March 6, 2025 - [✨ Cyber Guardians Unleashed: The Dynamic Duo of SOC &amp; SIEM ✨](https://krishna-cyber.medium.com/cyber-guardians-unleashed-the-dynamic-duo-of-soc-siem-80e3ccdc4c62?source=rss------bug_bounty-5) 
 
- - 💯March 5, 2025 - [Automating Information Gathering in Cloud Environments](https://cyberw1ng.medium.com/automating-information-gathering-in-cloud-environments-ee1e56a4f6bd?source=rss------bug_bounty-5) 
+ - 💯March 6, 2025 - [Easy Account Takeover Using OTP Bypass](https://medium.com/@dharineeshj2/easy-account-takeover-using-otp-bypass-4de2079fb9b1?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
