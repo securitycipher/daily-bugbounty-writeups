@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 11, 2025 - [PHOTOGRAPHER 1 BY OFFSEC](https://medium.com/@mickeylance001/photographer-1-by-offsec-27dbcc716805?source=rss------bug_bounty-5) 
+ - 💯March 12, 2025 - [Understanding Basic Chmod](https://medium.com/pndsec/understanding-basic-chmod-8b93a82baf95?source=rss------bug_bounty-5) 
 
- - 💯March 11, 2025 - [绕过JsBridge鉴权实现账户接管](https://medium.com/@xiaoshi666/%E7%BB%95%E8%BF%87jsbridge%E9%89%B4%E6%9D%83%E5%AE%9E%E7%8E%B0%E8%B4%A6%E6%88%B7%E6%8E%A5%E7%AE%A1-cf421b291484?source=rss------bug_bounty-5) 
+ - 💯March 12, 2025 - [Found Bug in Car and make $20,000 and more.](https://medium.com/@anandrishav2228/found-bug-in-car-and-make-20-000-and-more-6c71152bca80?source=rss------bug_bounty-5) 
 
- - 💯March 11, 2025 - [Mastering XSS Attacks To Become Professional Bug Bounty Hunter](https://cybersecuritywriteups.com/mastering-xss-attacks-to-become-professional-bug-bounty-hunter-816f018643b3?source=rss------bug_bounty-5) 
+ - 💯March 12, 2025 - [How I Bypassed Cloudflare WAF and Achieve XSS | $500 bounty](https://cybersecuritywriteups.com/how-i-bypassed-cloudflare-waf-and-achieve-xss-500-bounty-32914f652901?source=rss------bug_bounty-5) 
 
- - 💯March 11, 2025 - [How to Write Effective Prompts for ChatGPT in Bug Bounty Hunting](https://medium.com/@ajudeb55/how-to-write-effective-prompts-for-chatgpt-in-bug-bounty-hunting-b885dcf4f743?source=rss------bug_bounty-5) 
+ - 💯March 12, 2025 - [Earn $$ Hunting Bugs! A Beginner’s Guide to Bug Bounty Success](https://medium.com/@paritoshblogs/earn-hunting-bugs-a-beginners-guide-to-bug-bounty-success-6ba585935178?source=rss------bug_bounty-5) 
 
- - 💯March 11, 2025 - [Exposed! A Massive Data Leak Uncovered with Just a Simple Google Dork ️](https://medium.com/@dharineeshj2/exposed-a-massive-data-leak-uncovered-with-just-a-simple-google-dork-%EF%B8%8F-a103b640e2e5?source=rss------bug_bounty-5) 
+ - 💯March 12, 2025 - [Zero-Click Account Takeover via Auth Bypass](https://medium.com/@hossam_hamada/zero-click-account-takeover-via-auth-bypass-c3130fb5a5e0?source=rss------bug_bounty-5) 
 
- - 💯March 11, 2025 - [IDOR Unlocked: Accessing Unauthorized Data with a Simple Tweak!](https://medium.com/@dharineeshj2/idor-unlocked-accessing-unauthorized-data-with-a-simple-tweak-a6a5a01a341f?source=rss------bug_bounty-5) 
+ - 💯March 12, 2025 - [Turn website feedback into instant, actionable tickets.](https://medium.com/@readybready4/turn-website-feedback-into-instant-actionable-tickets-40ef4bc14be6?source=rss------bug_bounty-5) 
 
- - 💯March 11, 2025 - [Linux Privilege Escalation [Part-1] | EJPT Notes](https://medium.com/@hrofficial62/linux-privilege-escalation-part-1-ejpt-notes-7f978d958888?source=rss------bug_bounty-5) 
+ - 💯March 12, 2025 - [Cómo conseguí mi primera vulnerabilidad válida para Adobe](https://medium.com/@juanfelipeoz.rar/c%C3%B3mo-consegu%C3%AD-mi-primera-vulnerabilidad-v%C3%A1lida-para-adobe-2d6617ec51e5?source=rss------bug_bounty-5) 
 
- - 💯March 10, 2025 - [Race Conditions in Bug Bounty: From Beginner to Advanced](https://systemweakness.com/race-conditions-in-bug-bounty-from-beginner-to-advanced-4b48586dfc73?source=rss------bug_bounty-5) 
+ - 💯March 12, 2025 - [100$ reward from hacking the earning site](https://bytesnull44.medium.com/100-reward-from-hacking-the-earning-site-803b49028df7?source=rss------bug_bounty-5) 
 
- - 💯March 10, 2025 - [Extracting Forensic Evidence from Smartwatch Data: A CID Hackathon Experience](https://infosecwriteups.com/extracting-forensic-evidence-from-smartwatch-data-a-cid-hackathon-experience-8a45b6ef7d5b?source=rss------bug_bounty-5) 
+ - 💯March 11, 2025 - [Beyond Alert Boxes: Exploiting DOM XSS for Full Account Takeover](https://ehteshamulhaq198.medium.com/beyond-alert-boxes-exploiting-dom-xss-for-full-account-takeover-094e1507d206?source=rss------bug_bounty-5) 
+
+ - 💯March 11, 2025 - [Critical SQL Injection Exploit in URL Paths: Bounty Report](https://cyberw1ng.medium.com/critical-sql-injection-exploit-in-url-paths-bounty-report-6bf36e066f1f?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
