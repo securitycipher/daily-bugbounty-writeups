@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 12, 2025 - [Understanding Basic Chmod](https://medium.com/pndsec/understanding-basic-chmod-8b93a82baf95?source=rss------bug_bounty-5) 
+ - 💯March 13, 2025 - [How to Earn Money in Bug Hunting Using Automated Tools](https://medium.com/@vipulsonule71/how-to-earn-money-in-bug-hunting-using-automated-tools-93382ffcd7ed?source=rss------bug_bounty-5) 
 
- - 💯March 12, 2025 - [Found Bug in Car and make $20,000 and more.](https://medium.com/@anandrishav2228/found-bug-in-car-and-make-20-000-and-more-6c71152bca80?source=rss------bug_bounty-5) 
+ - 💯March 13, 2025 - [How I Bypassed Email Uniqueness: Exploiting Weak Access Control in a Bug Bounty Program](https://saconychukwu.medium.com/how-i-bypassed-email-uniqueness-exploiting-weak-access-control-in-a-bug-bounty-program-28177f3c0b29?source=rss------bug_bounty-5) 
 
- - 💯March 12, 2025 - [How I Bypassed Cloudflare WAF and Achieve XSS | $500 bounty](https://cybersecuritywriteups.com/how-i-bypassed-cloudflare-waf-and-achieve-xss-500-bounty-32914f652901?source=rss------bug_bounty-5) 
+ - 💯March 13, 2025 - [Bypass the Rate limiting mechanism and earn bounty of $5000 and more.](https://medium.com/@anandrishav2228/bypass-the-rate-limiting-mechanism-and-earn-bounty-of-5000-and-more-dad3ef6db3ad?source=rss------bug_bounty-5) 
 
- - 💯March 12, 2025 - [Earn $$ Hunting Bugs! A Beginner’s Guide to Bug Bounty Success](https://medium.com/@paritoshblogs/earn-hunting-bugs-a-beginners-guide-to-bug-bounty-success-6ba585935178?source=rss------bug_bounty-5) 
+ - 💯March 13, 2025 - [How I found my 2nd SQL injection vulnerability on the Indian Government website!](https://hiddendom.medium.com/how-i-found-my-2nd-sql-injection-vulnerability-on-the-indian-government-website-e617e682e953?source=rss------bug_bounty-5) 
 
- - 💯March 12, 2025 - [Zero-Click Account Takeover via Auth Bypass](https://medium.com/@hossam_hamada/zero-click-account-takeover-via-auth-bypass-c3130fb5a5e0?source=rss------bug_bounty-5) 
+ - 💯March 13, 2025 - [How I Hacked NASA And Received an Appreciation Letter](https://medium.com/@Abhijeet_kumawat_/how-i-hacked-nasa-and-received-an-appreciation-letter-2d4a78a4a1f6?source=rss------bug_bounty-5) 
 
- - 💯March 12, 2025 - [Turn website feedback into instant, actionable tickets.](https://medium.com/@readybready4/turn-website-feedback-into-instant-actionable-tickets-40ef4bc14be6?source=rss------bug_bounty-5) 
+ - 💯March 13, 2025 - [Bug Bounty](https://medium.com/@hihiprocybertech/bug-bounty-0e661e725299?source=rss------bug_bounty-5) 
 
- - 💯March 12, 2025 - [Cómo conseguí mi primera vulnerabilidad válida para Adobe](https://medium.com/@juanfelipeoz.rar/c%C3%B3mo-consegu%C3%AD-mi-primera-vulnerabilidad-v%C3%A1lida-para-adobe-2d6617ec51e5?source=rss------bug_bounty-5) 
+ - 💯March 13, 2025 - [Unauthenticated API Leaks Private Property Data](https://medium.com/@banertheinrich/unauthenticated-api-leaks-private-property-data-f125e8fe0c4d?source=rss------bug_bounty-5) 
 
- - 💯March 12, 2025 - [100$ reward from hacking the earning site](https://bytesnull44.medium.com/100-reward-from-hacking-the-earning-site-803b49028df7?source=rss------bug_bounty-5) 
+ - 💯March 12, 2025 - [Simple SQL Injection: Exploiting and Preventing One of the Most Dangerous Web Vulnerabilities](https://cyberw1ng.medium.com/simple-sql-injection-exploiting-and-preventing-one-of-the-most-dangerous-web-vulnerabilities-f61c6841348a?source=rss------bug_bounty-5) 
 
- - 💯March 11, 2025 - [Beyond Alert Boxes: Exploiting DOM XSS for Full Account Takeover](https://ehteshamulhaq198.medium.com/beyond-alert-boxes-exploiting-dom-xss-for-full-account-takeover-094e1507d206?source=rss------bug_bounty-5) 
+ - 💯March 12, 2025 - [What $5,000 Vulnerability Did Everyone Else Miss](https://medium.com/@ibtissamhammadi/what-5-000-vulnerability-did-everyone-else-miss-1afd570a280b?source=rss------bug_bounty-5) 
 
- - 💯March 11, 2025 - [Critical SQL Injection Exploit in URL Paths: Bounty Report](https://cyberw1ng.medium.com/critical-sql-injection-exploit-in-url-paths-bounty-report-6bf36e066f1f?source=rss------bug_bounty-5) 
+ - 💯March 12, 2025 - [Investigating Nmap Scans with Wireshark](https://medium.com/@thecyberghost/investigating-nmap-scans-with-wireshark-bfe77af6441a?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
