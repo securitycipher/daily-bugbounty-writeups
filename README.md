@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 13, 2025 - [How to Earn Money in Bug Hunting Using Automated Tools](https://medium.com/@vipulsonule71/how-to-earn-money-in-bug-hunting-using-automated-tools-93382ffcd7ed?source=rss------bug_bounty-5) 
+ - 💯March 14, 2025 - [How I Found a Critical Billing Bug but Ended Up with a Duplicate](https://medium.com/@aminouji23/how-i-found-a-critical-billing-bug-but-ended-up-with-a-duplicate-ac6934fab714?source=rss------bug_bounty-5) 
 
- - 💯March 13, 2025 - [How I Bypassed Email Uniqueness: Exploiting Weak Access Control in a Bug Bounty Program](https://saconychukwu.medium.com/how-i-bypassed-email-uniqueness-exploiting-weak-access-control-in-a-bug-bounty-program-28177f3c0b29?source=rss------bug_bounty-5) 
+ - 💯March 14, 2025 - [Metasploit 101: Hack Systems, Test Security, and Stay Ahead!](https://medium.com/@paritoshblogs/metasploit-101-hack-systems-test-security-and-stay-ahead-799922167146?source=rss------bug_bounty-5) 
 
- - 💯March 13, 2025 - [Bypass the Rate limiting mechanism and earn bounty of $5000 and more.](https://medium.com/@anandrishav2228/bypass-the-rate-limiting-mechanism-and-earn-bounty-of-5000-and-more-dad3ef6db3ad?source=rss------bug_bounty-5) 
+ - 💯March 14, 2025 - [The Ultimate Burp Suite Playbook — Hidden Features &amp; Automation!](https://medium.com/@paritoshblogs/the-ultimate-burp-suite-playbook-hidden-features-automation-e9a07944dbd4?source=rss------bug_bounty-5) 
 
- - 💯March 13, 2025 - [How I found my 2nd SQL injection vulnerability on the Indian Government website!](https://hiddendom.medium.com/how-i-found-my-2nd-sql-injection-vulnerability-on-the-indian-government-website-e617e682e953?source=rss------bug_bounty-5) 
+ - 💯March 14, 2025 - [When Code Flaws Strike: How Tiny Bugs Lead to Admin Account Takeovers](https://krishna-cyber.medium.com/when-code-flaws-strike-how-tiny-bugs-lead-to-admin-account-takeovers-74124a437ba3?source=rss------bug_bounty-5) 
 
- - 💯March 13, 2025 - [How I Hacked NASA And Received an Appreciation Letter](https://medium.com/@Abhijeet_kumawat_/how-i-hacked-nasa-and-received-an-appreciation-letter-2d4a78a4a1f6?source=rss------bug_bounty-5) 
+ - 💯March 14, 2025 - [Mastering JSRecon: A Comprehensive Guide to Identifying Sensitive Data in JavaScript Files](https://systemweakness.com/mastering-jsrecon-a-comprehensive-guide-to-identifying-sensitive-data-in-javascript-files-352771f10659?source=rss------bug_bounty-5) 
 
- - 💯March 13, 2025 - [Bug Bounty](https://medium.com/@hihiprocybertech/bug-bounty-0e661e725299?source=rss------bug_bounty-5) 
+ - 💯March 14, 2025 - [Part-2 | Mastering 403 Forbidden Bypass Techniques✨](https://cybersecuritywriteups.com/part-2-mastering-403-forbidden-bypass-techniques-707e7880fa22?source=rss------bug_bounty-5) 
 
- - 💯March 13, 2025 - [Unauthenticated API Leaks Private Property Data](https://medium.com/@banertheinrich/unauthenticated-api-leaks-private-property-data-f125e8fe0c4d?source=rss------bug_bounty-5) 
+ - 💯March 13, 2025 - [Hackyholidays CTF &lpar;Grinch Network&rpar; Write-Up | Part 2| Hacker101 CTF](https://medium.com/@sari.mmusab/hackyholidays-ctf-grinch-network-write-up-part-2-hacker101-ctf-89d394702807?source=rss------bug_bounty-5) 
 
- - 💯March 12, 2025 - [Simple SQL Injection: Exploiting and Preventing One of the Most Dangerous Web Vulnerabilities](https://cyberw1ng.medium.com/simple-sql-injection-exploiting-and-preventing-one-of-the-most-dangerous-web-vulnerabilities-f61c6841348a?source=rss------bug_bounty-5) 
+ - 💯March 13, 2025 - [Proffesional Hacker’s Breakout. NnFace’s Advices #3 “The Curve of Hacking”](https://osintteam.blog/proffesional-hackers-breakout-nnface-s-advices-3-the-curve-of-hacking-b28c9875145e?source=rss------bug_bounty-5) 
 
- - 💯March 12, 2025 - [What $5,000 Vulnerability Did Everyone Else Miss](https://medium.com/@ibtissamhammadi/what-5-000-vulnerability-did-everyone-else-miss-1afd570a280b?source=rss------bug_bounty-5) 
+ - 💯March 13, 2025 - [Cracking the Cache: A Bug Bounty Hunter’s Guide to Web Cache Vulnerabilities &lpar;With Real-World…](https://osintteam.blog/cracking-the-cache-a-bug-bounty-hunters-guide-to-web-cache-vulnerabilities-with-real-world-33bb7b47ff1c?source=rss------bug_bounty-5) 
 
- - 💯March 12, 2025 - [Investigating Nmap Scans with Wireshark](https://medium.com/@thecyberghost/investigating-nmap-scans-with-wireshark-bfe77af6441a?source=rss------bug_bounty-5) 
+ - 💯March 13, 2025 - [Understanding SQL Injection: A Deep Dive into Exploitation and Prevention](https://cyberw1ng.medium.com/understanding-sql-injection-a-deep-dive-into-exploitation-and-prevention-0d3712bc6b93?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
