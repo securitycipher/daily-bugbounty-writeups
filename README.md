@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 17, 2025 - [Subdomain Found! Now What? Next Steps for Bug Hunters](https://infosecwriteups.com/subdomain-found-now-what-next-steps-for-bug-hunters-df8fd79c73b7?source=rss------bug_bounty-5) 
+ - 💯March 18, 2025 - [Mastering F5 ASM: Web Application Security Like a Pro!](https://medium.com/@deepdive4learn/mastering-f5-asm-web-application-security-like-a-pro-2f390613b68a?source=rss------bug_bounty-5) 
 
- - 💯March 17, 2025 - [[Best of February — M3Di] From Forest to Code: Transformational Security Researcher Growth Notes](https://medium.com/@security.tecno/best-of-february-m3di-from-forest-to-code-transformational-security-researcher-growth-notes-5079ac24d1b4?source=rss------bug_bounty-5) 
+ - 💯March 18, 2025 - [ChatGPT Jailbreaking: A Sneaky Loophole That Exposes Ethical Gaps](https://medium.com/@dharineeshj2/chatgpt-jailbreaking-a-sneaky-loophole-that-exposes-ethical-gaps-1f3dcf015bf6?source=rss------bug_bounty-5) 
 
- - 💯March 17, 2025 - [Introduction to web3](https://doordiefordream.medium.com/introduction-to-web3-b78aa109ced0?source=rss------bug_bounty-5) 
+ - 💯March 18, 2025 - [CRLF Injection: Guide to Finding &amp; Exploiting Vulnerabilities](https://infosecwriteups.com/crlf-injection-guide-to-finding-exploiting-vulnerabilities-ec2d55805cc4?source=rss------bug_bounty-5) 
 
- - 💯March 17, 2025 - [How I Made $3000 in 3 Minutes with SQLi](https://medium.com/@ibtissamhammadi/how-i-made-3000-in-3-minutes-with-sqli-d32c7f29c869?source=rss------bug_bounty-5) 
+ - 💯March 18, 2025 - [ZeroCopter Programs for Bug Hunting](https://osintteam.blog/zerocopter-programs-for-bug-hunting-6b73c4d97fe5?source=rss------bug_bounty-5) 
 
- - 💯March 17, 2025 - [Bug Bounty: Cookie timeline utilization when the system uses multiple authentication cookies](https://medium.com/@smilemil/bug-bounty-cookie-timeline-utilization-when-the-system-uses-multiple-authentication-cookies-7d2e6cc68c34?source=rss------bug_bounty-5) 
+ - 💯March 18, 2025 - [Dark Web and Phishing Kits: Exploring the Underground Market for Phishing Tools](https://medium.com/@paritoshblogs/dark-web-and-phishing-kits-exploring-the-underground-market-for-phishing-tools-a645a9b962f1?source=rss------bug_bounty-5) 
 
- - 💯March 16, 2025 - [How a Logic Flaw Allowed Attackers to Hijack Accounts](https://osintteam.blog/how-a-logic-flaw-allowed-attackers-to-hijack-accounts-39509d7340e6?source=rss------bug_bounty-5) 
+ - 💯March 18, 2025 - [How to Hacking Amazon Simple Notification Service @amazon](https://medium.com/@mo7mead/how-to-hacking-amazon-simple-notification-service-amazon-14ff463c402c?source=rss------bug_bounty-5) 
 
- - 💯March 16, 2025 - [How I Found an Open Redirect Vulnerability Easily &lpar;Worth $500!&rpar;](https://infosecwriteups.com/how-i-found-an-open-redirect-vulnerability-easily-worth-500-274999bb6527?source=rss------bug_bounty-5) 
+ - 💯March 17, 2025 - [How to Earn $3000/Hour with a Critical Vulnerability](https://medium.com/@ibtissamhammadi/how-to-earn-3000-hour-with-a-critical-vulnerability-7fe0f262d3e5?source=rss------bug_bounty-5) 
 
- - 💯March 16, 2025 - [CSRF in JSON Requests: A Real-World Exploit on Payout Features](https://medium.com/@mohamed.yasser442200/csrf-in-json-requests-a-real-world-exploit-on-payout-features-2829086ace5c?source=rss------bug_bounty-5) 
+ - 💯March 17, 2025 - [How I Discovered a P4 Bug on the U.S. Social Security Administration](https://osintteam.blog/how-i-discovered-a-p4-bug-on-the-u-s-social-security-administration-8236ecd2a003?source=rss------bug_bounty-5) 
 
- - 💯March 16, 2025 - [Mastering Web Recon with WebCopilot](https://osintteam.blog/mastering-web-recon-with-webcopilot-78da58bfb428?source=rss------bug_bounty-5) 
+ - 💯March 17, 2025 - [$$ For Full Account Take-over, 2fa bypass, Sensitive data Exposure via Critical CORS…](https://mr-pwner.medium.com/for-full-account-take-over-2fa-bypass-sensitive-data-exposure-via-critical-cors-310ee989179a?source=rss------bug_bounty-5) 
+
+ - 💯March 17, 2025 - [Critical IDOR: Unrestricted Access to All Company Published Files](https://medium.com/@0xAhM3D/critical-idor-unrestricted-access-to-all-company-published-files-c8db77070e87?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
