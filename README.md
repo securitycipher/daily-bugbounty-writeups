@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 18, 2025 - [Mastering F5 ASM: Web Application Security Like a Pro!](https://medium.com/@deepdive4learn/mastering-f5-asm-web-application-security-like-a-pro-2f390613b68a?source=rss------bug_bounty-5) 
+ - 💯March 19, 2025 - [The Role of Ethical Hackers in Web3 Security](https://medium.com/@somtoochukwu65/the-role-of-ethical-hackers-in-web3-security-4b12579da1ef?source=rss------bug_bounty-5) 
 
- - 💯March 18, 2025 - [ChatGPT Jailbreaking: A Sneaky Loophole That Exposes Ethical Gaps](https://medium.com/@dharineeshj2/chatgpt-jailbreaking-a-sneaky-loophole-that-exposes-ethical-gaps-1f3dcf015bf6?source=rss------bug_bounty-5) 
+ - 💯March 19, 2025 - [A great tool that will be helpful in your bug bounty&amp;pentesting journey.](https://infosecwriteups.com/a-great-tool-that-will-be-helpful-in-your-bug-bounty-pentesting-journey-8ce118f4ea00?source=rss------bug_bounty-5) 
 
- - 💯March 18, 2025 - [CRLF Injection: Guide to Finding &amp; Exploiting Vulnerabilities](https://infosecwriteups.com/crlf-injection-guide-to-finding-exploiting-vulnerabilities-ec2d55805cc4?source=rss------bug_bounty-5) 
+ - 💯March 19, 2025 - [Users Without Roles/Member Roles Can Create Private Repositories And Secret Teams In Github…](https://infosecwriteups.com/users-without-roles-member-roles-can-create-private-repositories-and-secret-teams-in-github-8fec746ac684?source=rss------bug_bounty-5) 
 
- - 💯March 18, 2025 - [ZeroCopter Programs for Bug Hunting](https://osintteam.blog/zerocopter-programs-for-bug-hunting-6b73c4d97fe5?source=rss------bug_bounty-5) 
+ - 💯March 19, 2025 - [Active Directory Federation Services &lpar;AD FS&rpar;](https://medium.com/@paritoshblogs/active-directory-federation-services-ad-fs-1b7c38929964?source=rss------bug_bounty-5) 
 
- - 💯March 18, 2025 - [Dark Web and Phishing Kits: Exploring the Underground Market for Phishing Tools](https://medium.com/@paritoshblogs/dark-web-and-phishing-kits-exploring-the-underground-market-for-phishing-tools-a645a9b962f1?source=rss------bug_bounty-5) 
+ - 💯March 19, 2025 - [[CVE Anniversary Activity] CVE report analysis, exclusive activity is now open!](https://medium.com/@security.tecno/cve-exclusive-activity-analyze-12-cve-reports-and-start-a-reward-activity-4bab97436b06?source=rss------bug_bounty-5) 
 
- - 💯March 18, 2025 - [How to Hacking Amazon Simple Notification Service @amazon](https://medium.com/@mo7mead/how-to-hacking-amazon-simple-notification-service-amazon-14ff463c402c?source=rss------bug_bounty-5) 
+ - 💯March 19, 2025 - [From SSRF to $$: How I Hacked Autodesk’s Rendering Service and Earned a Bug Bounty](https://cybersecuritywriteups.com/from-ssrf-to-how-i-hacked-autodesks-rendering-service-and-earned-a-bug-bounty-da444900f7d9?source=rss------bug_bounty-5) 
 
- - 💯March 17, 2025 - [How to Earn $3000/Hour with a Critical Vulnerability](https://medium.com/@ibtissamhammadi/how-to-earn-3000-hour-with-a-critical-vulnerability-7fe0f262d3e5?source=rss------bug_bounty-5) 
+ - 💯March 19, 2025 - [BugYatri  - web2 &amp; web3 BugBounty Platform for BugHunters!!!](https://medium.com/@bugyatri/bugyatri-web2-web3-bugbounty-platform-for-bughunters-476826513b6f?source=rss------bug_bounty-5) 
 
- - 💯March 17, 2025 - [How I Discovered a P4 Bug on the U.S. Social Security Administration](https://osintteam.blog/how-i-discovered-a-p4-bug-on-the-u-s-social-security-administration-8236ecd2a003?source=rss------bug_bounty-5) 
+ - 💯March 19, 2025 - [No Rate Limiting on Login Endpoint — A Brute Force Vulnerability](https://medium.com/@cybermanx07/no-rate-limiting-on-login-endpoint-a-brute-force-vulnerability-d1300848b445?source=rss------bug_bounty-5) 
 
- - 💯March 17, 2025 - [$$ For Full Account Take-over, 2fa bypass, Sensitive data Exposure via Critical CORS…](https://mr-pwner.medium.com/for-full-account-take-over-2fa-bypass-sensitive-data-exposure-via-critical-cors-310ee989179a?source=rss------bug_bounty-5) 
-
- - 💯March 17, 2025 - [Critical IDOR: Unrestricted Access to All Company Published Files](https://medium.com/@0xAhM3D/critical-idor-unrestricted-access-to-all-company-published-files-c8db77070e87?source=rss------bug_bounty-5) 
+ - 💯March 18, 2025 - [Open Redirect Vulnerability: A Detailed Overview and How I Discovered It](https://theindiannetwork.medium.com/open-redirect-vulnerability-a-detailed-overview-and-how-i-discovered-it-b95a228f6047?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
