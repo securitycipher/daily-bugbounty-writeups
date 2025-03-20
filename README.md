@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 19, 2025 - [The Role of Ethical Hackers in Web3 Security](https://medium.com/@somtoochukwu65/the-role-of-ethical-hackers-in-web3-security-4b12579da1ef?source=rss------bug_bounty-5) 
+ - 💯March 20, 2025 - [How I Made $1,000,000 in Bug Bounties — Finding a Simple $500,000+ Vulnerability with Just a…](https://theindiannetwork.medium.com/how-i-made-1-000-000-in-bug-bounties-finding-a-simple-500-000-vulnerability-with-just-a-d5e224041c6e?source=rss------bug_bounty-5) 
 
- - 💯March 19, 2025 - [A great tool that will be helpful in your bug bounty&amp;pentesting journey.](https://infosecwriteups.com/a-great-tool-that-will-be-helpful-in-your-bug-bounty-pentesting-journey-8ce118f4ea00?source=rss------bug_bounty-5) 
+ - 💯March 20, 2025 - [How I Earned $2000 from SQL Injection: A Bug Hunter’s Guide](https://theindiannetwork.medium.com/how-i-earned-2000-from-sql-injection-a-bug-hunters-guide-3fb2bb0c51bd?source=rss------bug_bounty-5) 
 
- - 💯March 19, 2025 - [Users Without Roles/Member Roles Can Create Private Repositories And Secret Teams In Github…](https://infosecwriteups.com/users-without-roles-member-roles-can-create-private-repositories-and-secret-teams-in-github-8fec746ac684?source=rss------bug_bounty-5) 
+ - 💯March 20, 2025 - [From Zero to Hero: Hunting High-Paying Open Redirect Bugs in Web Apps](https://infosecwriteups.com/from-zero-to-hero-hunting-high-paying-open-redirect-bugs-in-web-apps-fdb80286236e?source=rss------bug_bounty-5) 
 
- - 💯March 19, 2025 - [Active Directory Federation Services &lpar;AD FS&rpar;](https://medium.com/@paritoshblogs/active-directory-federation-services-ad-fs-1b7c38929964?source=rss------bug_bounty-5) 
+ - 💯March 20, 2025 - [How I Made $5000 in 1 Hour Finding 5 SQLi Vulnerabilities Manually](https://medium.com/@ibtissamhammadi/how-i-made-5000-in-1-hour-finding-5-sqli-vulnerabilities-manually-bfbff1c02a47?source=rss------bug_bounty-5) 
 
- - 💯March 19, 2025 - [[CVE Anniversary Activity] CVE report analysis, exclusive activity is now open!](https://medium.com/@security.tecno/cve-exclusive-activity-analyze-12-cve-reports-and-start-a-reward-activity-4bab97436b06?source=rss------bug_bounty-5) 
+ - 💯March 20, 2025 - [Mobile Number Verification Bypass CWE-840 Business Logic Error](https://medium.com/@VulnRAM/mobile-number-verification-bypass-cwe-840-business-logic-error-1cd80b0bced5?source=rss------bug_bounty-5) 
 
- - 💯March 19, 2025 - [From SSRF to $$: How I Hacked Autodesk’s Rendering Service and Earned a Bug Bounty](https://cybersecuritywriteups.com/from-ssrf-to-how-i-hacked-autodesks-rendering-service-and-earned-a-bug-bounty-da444900f7d9?source=rss------bug_bounty-5) 
+ - 💯March 19, 2025 - [File Inclusion Vulnerabilities: Advanced Exploitation and Mitigation Techniques](https://osintteam.blog/file-inclusion-vulnerabilities-advanced-exploitation-and-mitigation-techniques-6b47cb6547fd?source=rss------bug_bounty-5) 
 
- - 💯March 19, 2025 - [BugYatri  - web2 &amp; web3 BugBounty Platform for BugHunters!!!](https://medium.com/@bugyatri/bugyatri-web2-web3-bugbounty-platform-for-bughunters-476826513b6f?source=rss------bug_bounty-5) 
+ - 💯March 19, 2025 - [♂️ “From Zero to Hero: How 2FA Bypass Turned Me Into a Bug Bounty Legend”](https://osintteam.blog/%EF%B8%8F-from-zero-to-hero-how-2fa-bypass-turned-me-into-a-bug-bounty-legend-8eb0b815aaf9?source=rss------bug_bounty-5) 
 
- - 💯March 19, 2025 - [No Rate Limiting on Login Endpoint — A Brute Force Vulnerability](https://medium.com/@cybermanx07/no-rate-limiting-on-login-endpoint-a-brute-force-vulnerability-d1300848b445?source=rss------bug_bounty-5) 
+ - 💯March 19, 2025 - [“Unveiled: The Dark Side of Bugcrowd — Unfair Rejections and a Warning to Hackers”](https://monsifhmouri.medium.com/unveiled-the-dark-side-of-bugcrowd-unfair-rejections-and-a-warning-to-hackers-ca9d8572ad63?source=rss------bug_bounty-5) 
 
- - 💯March 18, 2025 - [Open Redirect Vulnerability: A Detailed Overview and How I Discovered It](https://theindiannetwork.medium.com/open-redirect-vulnerability-a-detailed-overview-and-how-i-discovered-it-b95a228f6047?source=rss------bug_bounty-5) 
+ - 💯March 19, 2025 - [$12,900 in Bounties in My First Month of Bug Hunting with Ax Framework](https://medium.com/@EthicalOffsec/12-900-in-bounties-in-my-first-month-of-bug-hunting-with-ax-framework-6d530d25c1c2?source=rss------bug_bounty-5) 
+
+ - 💯March 19, 2025 - [$50K Bounty Just for GitHub Access Token exposure](https://medium.com/@hrofficial62/50k-bounty-just-for-github-access-token-exposure-d92dcc34eb4d?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
