@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 21, 2025 - [Exploiting Blind XSS in a Signup Page: Admin Panel Takeover and Real-World Impact &lpar;$3000 P2 Private…](https://medium.com/@MianHammadx0root/exploiting-blind-xss-in-a-signup-page-admin-panel-takeover-and-real-world-impact-3000-p2-private-110205e3674b?source=rss------bug_bounty-5) 
+ - 💯March 22, 2025 - [Common and Security Vulnerabilities in Restaking Layers](https://securrtech.medium.com/common-and-security-vulnerabilities-in-restaking-layers-110c61049892?source=rss------bug_bounty-5) 
 
- - 💯March 21, 2025 - [The Essential Guide to Bug Bounties and Responsible Disclosure](https://medium.com/@locamartin/the-essential-guide-to-bug-bounties-and-responsible-disclosure-b4d34053c139?source=rss------bug_bounty-5) 
+ - 💯March 22, 2025 - [Information Disclosure — Exposed Order Details via Shipping Status API](https://medium.com/@mIna_x1/information-disclosure-exposed-order-details-via-shipping-status-api-7fd177364d12?source=rss------bug_bounty-5) 
 
- - 💯March 21, 2025 - [How I Made $1000 in Just 30 Minutes by Discovering an Account Takeover &lpar;ATO&rpar; Vulnerability!](https://theindiannetwork.medium.com/how-i-made-1000-in-just-30-minutes-by-discovering-an-account-takeover-ato-vulnerability-84afd6c5d9ab?source=rss------bug_bounty-5) 
+ - 💯March 22, 2025 - [LegionHunter VPS Setup Script for Bug Bounty &amp; Pentesting](https://medium.com/developersglobal/legionhunter-vps-setup-script-for-bug-bounty-pentesting-298d3ef16964?source=rss------bug_bounty-5) 
 
- - 💯March 21, 2025 - [From Lockdown to Payday: Hacking a Porn Site for $1,500](https://stevenfloresca.medium.com/from-lockdown-to-payday-hacking-a-porn-site-for-1-500-899bf57cc556?source=rss------bug_bounty-5) 
+ - 💯March 22, 2025 - [Microsoft 365 Copilot For Work: Image Data Exfiltration From SharePoint](https://infosecwriteups.com/microsoft-365-copilot-for-work-image-data-exfiltration-from-sharepoint-644bc818a5db?source=rss------bug_bounty-5) 
 
- - 💯March 21, 2025 - [Find Private Bug Bounty Programs without an invite](https://osintteam.blog/find-private-bug-bounty-programs-without-an-invite-d2baf4c3be06?source=rss------bug_bounty-5) 
+ - 💯March 22, 2025 - [Discovering and Exploiting a Path Traversal Vulnerability in Chromium’s md_browser Tool](https://medium.com/@piyushbhor22/chromiums-path-traversal-vulnerability-ece8be276859?source=rss------bug_bounty-5) 
 
- - 💯March 21, 2025 - [File Upload Bypass: Pulling off The Ultimate Disrespect](https://sudosuraj.medium.com/file-upload-bypass-pulling-off-the-ultimate-disrespect-d7200be31717?source=rss------bug_bounty-5) 
+ - 💯March 22, 2025 - [Breaking Down CVSS: Understanding Vulnerability Scores Like a Hacker](https://medium.com/@jkyne6368/breaking-down-cvss-understanding-vulnerability-scores-like-a-hacker-de85b114d07c?source=rss------bug_bounty-5) 
 
- - 💯March 21, 2025 - [best google dorking](https://mknayek101.medium.com/best-google-dorking-00ccc375d415?source=rss------bug_bounty-5) 
+ - 💯March 22, 2025 - [How I Found a $4,837 SQLi Bug in Just 17 Minutes](https://medium.com/@ibtissamhammadi/how-i-found-a-4-837-sqli-bug-in-just-17-minutes-8a4c778d2057?source=rss------bug_bounty-5) 
 
- - 💯March 21, 2025 - [How I Earned $700 in Just 10 Minutes by Finding a Path Traversal Vulnerability](https://theindiannetwork.medium.com/how-i-earned-700-in-just-10-minutes-by-finding-a-path-traversal-vulnerability-ef311fe25515?source=rss------bug_bounty-5) 
+ - 💯March 21, 2025 - [How to Get Root Privilege after getting foothold [ EJPT Notes]](https://infosecwriteups.com/how-to-get-root-privilege-after-getting-foothold-ejpt-notes-ce526a535ca3?source=rss------bug_bounty-5) 
 
- - 💯March 20, 2025 - [Cryptographic Failures: A Comprehensive Guide](https://cyberw1ng.medium.com/cryptographic-failures-a-comprehensive-guide-410064fe6e4e?source=rss------bug_bounty-5) 
+ - 💯March 21, 2025 - [Bug Hunting with HTTPX: A Powerful Security Tool in 2025 ✅](https://medium.com/@cybertips96/bug-hunting-with-httpx-a-powerful-security-tool-in-2025-1b20a8425f62?source=rss------bug_bounty-5) 
+
+ - 💯March 21, 2025 - [Cryptographic Failures: Advanced Insights and Real-World Attacks](https://osintteam.blog/cryptographic-failures-advanced-insights-and-real-world-attacks-bb6230f9f5be?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
