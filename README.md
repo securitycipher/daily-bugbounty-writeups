@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 22, 2025 - [Common and Security Vulnerabilities in Restaking Layers](https://securrtech.medium.com/common-and-security-vulnerabilities-in-restaking-layers-110c61049892?source=rss------bug_bounty-5) 
+ - 💯March 23, 2025 - [Network Pentesting -Active/Passive Information gathering like Pro  Part -2](https://medium.com/@Cyber_siva/network-pentesting-active-passive-information-gathering-like-pro-part-2-cdbeec6b9300?source=rss------bug_bounty-5) 
 
- - 💯March 22, 2025 - [Information Disclosure — Exposed Order Details via Shipping Status API](https://medium.com/@mIna_x1/information-disclosure-exposed-order-details-via-shipping-status-api-7fd177364d12?source=rss------bug_bounty-5) 
+ - 💯March 23, 2025 - [12 Windows Command Line Hacks for Incident Responders](https://medium.com/@paritoshblogs/12-windows-command-line-hacks-for-incident-responders-d9e95ef1c3a3?source=rss------bug_bounty-5) 
 
- - 💯March 22, 2025 - [LegionHunter VPS Setup Script for Bug Bounty &amp; Pentesting](https://medium.com/developersglobal/legionhunter-vps-setup-script-for-bug-bounty-pentesting-298d3ef16964?source=rss------bug_bounty-5) 
+ - 💯March 22, 2025 - [Next.js and the corrupt middleware: the authorizing artifact](https://medium.com/@zhero_/next-js-and-the-corrupt-middleware-the-authorizing-artifact-14e6fb688d26?source=rss------bug_bounty-5) 
 
- - 💯March 22, 2025 - [Microsoft 365 Copilot For Work: Image Data Exfiltration From SharePoint](https://infosecwriteups.com/microsoft-365-copilot-for-work-image-data-exfiltration-from-sharepoint-644bc818a5db?source=rss------bug_bounty-5) 
+ - 💯March 22, 2025 - [How a Security Researcher Earned $1,900 Bounty for Privilege Escalation](https://cyberw1ng.medium.com/how-a-security-researcher-earned-1-900-bounty-for-privilege-escalation-d430e24e8b1b?source=rss------bug_bounty-5) 
 
- - 💯March 22, 2025 - [Discovering and Exploiting a Path Traversal Vulnerability in Chromium’s md_browser Tool](https://medium.com/@piyushbhor22/chromiums-path-traversal-vulnerability-ece8be276859?source=rss------bug_bounty-5) 
+ - 💯March 22, 2025 - [Shhh…Be Quiet Hacker.](https://medium.com/meetcyber/shhh-be-quiet-hacker-4048643f590d?source=rss------bug_bounty-5) 
 
- - 💯March 22, 2025 - [Breaking Down CVSS: Understanding Vulnerability Scores Like a Hacker](https://medium.com/@jkyne6368/breaking-down-cvss-understanding-vulnerability-scores-like-a-hacker-de85b114d07c?source=rss------bug_bounty-5) 
+ - 💯March 22, 2025 - [Unauthorized Access to “About” Feature via Parameter Manipulation](https://mmnahian.medium.com/unauthorized-access-to-about-feature-via-parameter-manipulation-b85b08796b87?source=rss------bug_bounty-5) 
 
- - 💯March 22, 2025 - [How I Found a $4,837 SQLi Bug in Just 17 Minutes](https://medium.com/@ibtissamhammadi/how-i-found-a-4-837-sqli-bug-in-just-17-minutes-8a4c778d2057?source=rss------bug_bounty-5) 
+ - 💯March 22, 2025 - [PAT-tastrophe: How We Hacked Virtuals’ $4.6B Agentic AI &amp; Cryptocurrency Ecosystem](https://medium.com/@gonzo-hacks/pat-tastrophe-how-we-hacked-virtuals-4-6b-agentic-ai-cryptocurrency-ecosystem-f850b544d0f5?source=rss------bug_bounty-5) 
 
- - 💯March 21, 2025 - [How to Get Root Privilege after getting foothold [ EJPT Notes]](https://infosecwriteups.com/how-to-get-root-privilege-after-getting-foothold-ejpt-notes-ce526a535ca3?source=rss------bug_bounty-5) 
+ - 💯March 22, 2025 - [Web Hacking Series - Part 1: HTTP Basics – The Invisible Language of the Web](https://medium.com/@cybertips96/web-hacking-series-part-1-http-basics-the-invisible-language-of-the-web-7e007fd06e7b?source=rss------bug_bounty-5) 
 
- - 💯March 21, 2025 - [Bug Hunting with HTTPX: A Powerful Security Tool in 2025 ✅](https://medium.com/@cybertips96/bug-hunting-with-httpx-a-powerful-security-tool-in-2025-1b20a8425f62?source=rss------bug_bounty-5) 
-
- - 💯March 21, 2025 - [Cryptographic Failures: Advanced Insights and Real-World Attacks](https://osintteam.blog/cryptographic-failures-advanced-insights-and-real-world-attacks-bb6230f9f5be?source=rss------bug_bounty-5) 
+ - 💯March 22, 2025 - [The Ultimate Guide to Bug Bounty Hunting: How to Get Started and Succeed](https://medium.com/@HexaGaurd/the-ultimate-guide-to-bug-bounty-hunting-how-to-get-started-and-succeed-74bb31926190?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
