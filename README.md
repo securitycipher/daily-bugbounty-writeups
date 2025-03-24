@@ -2,21 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 23, 2025 - [Network Pentesting -Active/Passive Information gathering like Pro  Part -2](https://medium.com/@Cyber_siva/network-pentesting-active-passive-information-gathering-like-pro-part-2-cdbeec6b9300?source=rss------bug_bounty-5) 
+ - 💯March 24, 2025 - [How I Found a Major Security Flaw in a Popular Platform… And They Ignored It.](https://medium.com/@rakshitshetty59/how-i-found-a-major-security-flaw-in-a-popular-platform-and-they-ignored-it-dd569ce694ce?source=rss------bug_bounty-5) 
 
- - 💯March 23, 2025 - [12 Windows Command Line Hacks for Incident Responders](https://medium.com/@paritoshblogs/12-windows-command-line-hacks-for-incident-responders-d9e95ef1c3a3?source=rss------bug_bounty-5) 
+ - 💯March 24, 2025 - [Account Take-over Via Password Reset Poisoning](https://medium.com/@umd04843/account-take-over-via-password-reset-poisoning-e2a8a2f8a642?source=rss------bug_bounty-5) 
 
- - 💯March 22, 2025 - [Next.js and the corrupt middleware: the authorizing artifact](https://medium.com/@zhero_/next-js-and-the-corrupt-middleware-the-authorizing-artifact-14e6fb688d26?source=rss------bug_bounty-5) 
+ - 💯March 24, 2025 - [Think You’re Ready for Real-World Hacking? Think Again](https://medium.com/@timsuxwales/think-youre-ready-for-real-world-hacking-think-again-1565c6bb27ed?source=rss------bug_bounty-5) 
 
- - 💯March 22, 2025 - [How a Security Researcher Earned $1,900 Bounty for Privilege Escalation](https://cyberw1ng.medium.com/how-a-security-researcher-earned-1-900-bounty-for-privilege-escalation-d430e24e8b1b?source=rss------bug_bounty-5) 
+ - 💯March 24, 2025 - [Metasploit Framework Commands for Penetration Testing](https://medium.com/@paritoshblogs/metasploit-framework-commands-for-penetration-testing-505ef6063698?source=rss------bug_bounty-5) 
 
- - 💯March 22, 2025 - [Shhh…Be Quiet Hacker.](https://medium.com/meetcyber/shhh-be-quiet-hacker-4048643f590d?source=rss------bug_bounty-5) 
+ - 💯March 24, 2025 - [Authentication](https://medium.com/@520hazem/authentication-ac63cf7ed785?source=rss------bug_bounty-5) 
 
- - 💯March 22, 2025 - [Unauthorized Access to “About” Feature via Parameter Manipulation](https://mmnahian.medium.com/unauthorized-access-to-about-feature-via-parameter-manipulation-b85b08796b87?source=rss------bug_bounty-5) 
+ - 💯March 24, 2025 - [How to Find Hidden API Endpoints That Lead to Critical Bugs](https://bitpanic.medium.com/how-to-find-hidden-api-endpoints-that-lead-to-critical-bugs-97a38ca40efe?source=rss------bug_bounty-5) 
 
- - 💯March 22, 2025 - [PAT-tastrophe: How We Hacked Virtuals’ $4.6B Agentic AI &amp; Cryptocurrency Ecosystem](https://medium.com/@gonzo-hacks/pat-tastrophe-how-we-hacked-virtuals-4-6b-agentic-ai-cryptocurrency-ecosystem-f850b544d0f5?source=rss------bug_bounty-5) 
+ - 💯March 23, 2025 - [OSINT Techniques for Finding Leaked Credentials on Telegram](https://medium.com/@0xblackd3v/osint-techniques-for-finding-leaked-credentials-on-telegram-abefee04e19e?source=rss------bug_bounty-5) 
 
- - 💯March 22, 2025 - [Web Hacking Series - Part 1: HTTP Basics – The Invisible Language of the Web](https://medium.com/@cybertips96/web-hacking-series-part-1-http-basics-the-invisible-language-of-the-web-7e007fd06e7b?source=rss------bug_bounty-5) 
+ - 💯March 23, 2025 - [Understanding Privilege Escalation in Web Applications](https://cyberw1ng.medium.com/understanding-privilege-escalation-in-web-applications-c560e641b93b?source=rss------bug_bounty-5) 
 
- - 💯March 22, 2025 - [The Ultimate Guide to Bug Bounty Hunting: How to Get Started and Succeed](https://medium.com/@HexaGaurd/the-ultimate-guide-to-bug-bounty-hunting-how-to-get-started-and-succeed-74bb31926190?source=rss------bug_bounty-5) 
+ - 💯March 23, 2025 - [Hacking with GitHub’s hidden gems for subdomain enumeration.](https://medium.com/h7w/hacking-with-githubs-hidden-gems-for-subdomain-enumeration-a1266d4a019c?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
