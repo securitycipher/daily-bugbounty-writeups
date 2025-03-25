@@ -2,21 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 24, 2025 - [How I Found a Major Security Flaw in a Popular Platform… And They Ignored It.](https://medium.com/@rakshitshetty59/how-i-found-a-major-security-flaw-in-a-popular-platform-and-they-ignored-it-dd569ce694ce?source=rss------bug_bounty-5) 
+ - 💯March 25, 2025 - [The Dark Side of Bug Bounty Hunting: Frustrations No One Talks About](https://osintteam.blog/the-dark-side-of-bug-bounty-hunting-frustrations-no-one-talks-about-ad1b502a5815?source=rss------bug_bounty-5) 
 
- - 💯March 24, 2025 - [Account Take-over Via Password Reset Poisoning](https://medium.com/@umd04843/account-take-over-via-password-reset-poisoning-e2a8a2f8a642?source=rss------bug_bounty-5) 
+ - 💯March 25, 2025 - [Uncovering a Hidden Logic Flow-A Deep Dive into Exploitation!](https://medium.com/@AhmedSamy-X/uncovering-a-hidden-logic-flow-a-deep-dive-into-exploitation-824e1dec12cc?source=rss------bug_bounty-5) 
 
- - 💯March 24, 2025 - [Think You’re Ready for Real-World Hacking? Think Again](https://medium.com/@timsuxwales/think-youre-ready-for-real-world-hacking-think-again-1565c6bb27ed?source=rss------bug_bounty-5) 
+ - 💯March 25, 2025 - [Discovering publicly exposed data in AWS S3 and Google Cloud Storage](https://kkamalesh117.medium.com/discovering-publicly-exposed-data-in-aws-s3-and-google-cloud-storage-5f9583807e7d?source=rss------bug_bounty-5) 
 
- - 💯March 24, 2025 - [Metasploit Framework Commands for Penetration Testing](https://medium.com/@paritoshblogs/metasploit-framework-commands-for-penetration-testing-505ef6063698?source=rss------bug_bounty-5) 
+ - 💯March 25, 2025 - [AI vs. Bug Hunters: How ChatGPT is Rewriting the Rules of Vulnerability Discovery](https://medium.com/meetcyber/ai-vs-bug-hunters-how-chatgpt-is-rewriting-the-rules-of-vulnerability-discovery-6eae02514f6c?source=rss------bug_bounty-5) 
 
- - 💯March 24, 2025 - [Authentication](https://medium.com/@520hazem/authentication-ac63cf7ed785?source=rss------bug_bounty-5) 
+ - 💯March 25, 2025 - [Private Keys vs Seed Phrases: What You Need to Know](https://medium.com/@itsamanyadav/private-keys-vs-seed-phrases-what-you-need-to-know-71fc6bb70cc4?source=rss------bug_bounty-5) 
 
- - 💯March 24, 2025 - [How to Find Hidden API Endpoints That Lead to Critical Bugs](https://bitpanic.medium.com/how-to-find-hidden-api-endpoints-that-lead-to-critical-bugs-97a38ca40efe?source=rss------bug_bounty-5) 
+ - 💯March 24, 2025 - [CVE-2025–29927 — Bypass de Middleware en Next.js](https://medium.com/@juanfelipeoz.rar/cve-2025-29927-bypass-de-middleware-en-next-js-80e900285cf5?source=rss------bug_bounty-5) 
 
- - 💯March 23, 2025 - [OSINT Techniques for Finding Leaked Credentials on Telegram](https://medium.com/@0xblackd3v/osint-techniques-for-finding-leaked-credentials-on-telegram-abefee04e19e?source=rss------bug_bounty-5) 
+ - 💯March 24, 2025 - [Automated Information Gathering from Websites](https://cyberw1ng.medium.com/automated-information-gathering-from-websites-9c2975861497?source=rss------bug_bounty-5) 
 
- - 💯March 23, 2025 - [Understanding Privilege Escalation in Web Applications](https://cyberw1ng.medium.com/understanding-privilege-escalation-in-web-applications-c560e641b93b?source=rss------bug_bounty-5) 
+ - 💯March 24, 2025 - [CSRF](https://medium.com/@520hazem/dw-98bdac9232c6?source=rss------bug_bounty-5) 
 
- - 💯March 23, 2025 - [Hacking with GitHub’s hidden gems for subdomain enumeration.](https://medium.com/h7w/hacking-with-githubs-hidden-gems-for-subdomain-enumeration-a1266d4a019c?source=rss------bug_bounty-5) 
+ - 💯March 24, 2025 - [Bug Find](https://medium.com/@ashrafulhossainrafi22/bug-find-47717daa7977?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
