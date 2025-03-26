@@ -2,21 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 25, 2025 - [The Dark Side of Bug Bounty Hunting: Frustrations No One Talks About](https://osintteam.blog/the-dark-side-of-bug-bounty-hunting-frustrations-no-one-talks-about-ad1b502a5815?source=rss------bug_bounty-5) 
+ - 💯March 26, 2025 - [Top 10 Vulnerabilities Every Bug Hunter Should Exploit in 2025](https://medium.com/@vipulsonule71/top-10-vulnerabilities-every-bug-hunter-should-exploit-in-2025-df28045f6fca?source=rss------bug_bounty-5) 
 
- - 💯March 25, 2025 - [Uncovering a Hidden Logic Flow-A Deep Dive into Exploitation!](https://medium.com/@AhmedSamy-X/uncovering-a-hidden-logic-flow-a-deep-dive-into-exploitation-824e1dec12cc?source=rss------bug_bounty-5) 
+ - 💯March 26, 2025 - [How SSRF Leads to RCE in a .NET Application](https://medium.com/@0xUN7H1NK4BLE/how-ssrf-leads-to-rce-in-a-net-application-ee1b13812245?source=rss------bug_bounty-5) 
 
- - 💯March 25, 2025 - [Discovering publicly exposed data in AWS S3 and Google Cloud Storage](https://kkamalesh117.medium.com/discovering-publicly-exposed-data-in-aws-s3-and-google-cloud-storage-5f9583807e7d?source=rss------bug_bounty-5) 
+ - 💯March 26, 2025 - [&lpar;Ⅱ&rpar; Android Identity Authentication: A Game of Cat and Mouse between Developers and “Hackers”](https://medium.com/@security.tecno/%E2%85%B1-android-identity-authentication-a-game-of-cat-and-mouse-between-developers-and-hackers-b1b1789453b0?source=rss------bug_bounty-5) 
 
- - 💯March 25, 2025 - [AI vs. Bug Hunters: How ChatGPT is Rewriting the Rules of Vulnerability Discovery](https://medium.com/meetcyber/ai-vs-bug-hunters-how-chatgpt-is-rewriting-the-rules-of-vulnerability-discovery-6eae02514f6c?source=rss------bug_bounty-5) 
+ - 💯March 26, 2025 - [500s for $560: How I Turned Twitter into My Cash Piñata](https://stevenfloresca.medium.com/500s-for-560-how-i-turned-twitter-into-my-cash-pi%C3%B1ata-3054e5fd66d0?source=rss------bug_bounty-5) 
 
- - 💯March 25, 2025 - [Private Keys vs Seed Phrases: What You Need to Know](https://medium.com/@itsamanyadav/private-keys-vs-seed-phrases-what-you-need-to-know-71fc6bb70cc4?source=rss------bug_bounty-5) 
+ - 💯March 26, 2025 - [How Hackers Abuse XML-RPC to Launch Bruteforce and DDoS Attacks](https://infosecwriteups.com/how-hackers-abuse-xml-rpc-to-launch-bruteforce-and-ddos-attacks-40be5b310960?source=rss------bug_bounty-5) 
 
- - 💯March 24, 2025 - [CVE-2025–29927 — Bypass de Middleware en Next.js](https://medium.com/@juanfelipeoz.rar/cve-2025-29927-bypass-de-middleware-en-next-js-80e900285cf5?source=rss------bug_bounty-5) 
+ - 💯March 26, 2025 - [I Asked for 200 OK, Apache Gave Me Its Diary Instead](https://medium.com/@iski/i-asked-for-200-ok-apache-gave-me-its-diary-instead-6e5b114a6f46?source=rss------bug_bounty-5) 
 
- - 💯March 24, 2025 - [Automated Information Gathering from Websites](https://cyberw1ng.medium.com/automated-information-gathering-from-websites-9c2975861497?source=rss------bug_bounty-5) 
+ - 💯March 26, 2025 - [Domain and Subdomain Enumeration: A Practical Guide for Effective Reconnaissance](https://osintteam.blog/domain-and-subdomain-enumeration-a-practical-guide-for-effective-reconnaissance-9660c40f4e37?source=rss------bug_bounty-5) 
 
- - 💯March 24, 2025 - [CSRF](https://medium.com/@520hazem/dw-98bdac9232c6?source=rss------bug_bounty-5) 
+ - 💯March 26, 2025 - [Stealing Money at the Speed of Light: Exploiting Race Conditions for Financial Fraud in…](https://myselfakash20.medium.com/stealing-money-at-the-speed-of-light-exploiting-race-conditions-for-financial-fraud-in-a14c2086f5c0?source=rss------bug_bounty-5) 
 
- - 💯March 24, 2025 - [Bug Find](https://medium.com/@ashrafulhossainrafi22/bug-find-47717daa7977?source=rss------bug_bounty-5) 
+ - 💯March 26, 2025 - [From Blind XSS to Full Server Takeover](https://medium.com/@0xnuy/from-blind-xss-to-full-server-takeover-0f63ead701ab?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
