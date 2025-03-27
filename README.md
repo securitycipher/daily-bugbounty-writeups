@@ -2,21 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 26, 2025 - [Top 10 Vulnerabilities Every Bug Hunter Should Exploit in 2025](https://medium.com/@vipulsonule71/top-10-vulnerabilities-every-bug-hunter-should-exploit-in-2025-df28045f6fca?source=rss------bug_bounty-5) 
+ - 💯March 27, 2025 - [How to Choose the Right Bug Bounty Programs as a Beginner](https://osintteam.blog/how-to-choose-the-right-bug-bounty-programs-as-a-beginner-3cdfdd86b0c3?source=rss------bug_bounty-5) 
 
- - 💯March 26, 2025 - [How SSRF Leads to RCE in a .NET Application](https://medium.com/@0xUN7H1NK4BLE/how-ssrf-leads-to-rce-in-a-net-application-ee1b13812245?source=rss------bug_bounty-5) 
+ - 💯March 27, 2025 - [How I Found a CSRF Vulnerability in Profile Picture Deletion](https://medium.com/@EL_cazad0r/how-i-found-a-csrf-vulnerability-in-profile-picture-deletion-b95bf8e6d579?source=rss------bug_bounty-5) 
 
- - 💯March 26, 2025 - [&lpar;Ⅱ&rpar; Android Identity Authentication: A Game of Cat and Mouse between Developers and “Hackers”](https://medium.com/@security.tecno/%E2%85%B1-android-identity-authentication-a-game-of-cat-and-mouse-between-developers-and-hackers-b1b1789453b0?source=rss------bug_bounty-5) 
+ - 💯March 27, 2025 - [How AI is Changing the Bug Bounty Landscape &lpar;And Why Hackers Aren’t Mad About It&rpar;](https://cybersecuritywriteups.com/how-ai-is-changing-the-bug-bounty-landscape-and-why-hackers-arent-mad-about-it-34e2936cf640?source=rss------bug_bounty-5) 
 
- - 💯March 26, 2025 - [500s for $560: How I Turned Twitter into My Cash Piñata](https://stevenfloresca.medium.com/500s-for-560-how-i-turned-twitter-into-my-cash-pi%C3%B1ata-3054e5fd66d0?source=rss------bug_bounty-5) 
+ - 💯March 27, 2025 - [Information Disclosure leads To Unauthorized Access &lpar;easy github dork&rpar;](https://medium.com/@Oiluminado_x86/information-disclosure-leads-to-unauthorized-access-easy-github-dork-7fb94821d30c?source=rss------bug_bounty-5) 
 
- - 💯March 26, 2025 - [How Hackers Abuse XML-RPC to Launch Bruteforce and DDoS Attacks](https://infosecwriteups.com/how-hackers-abuse-xml-rpc-to-launch-bruteforce-and-ddos-attacks-40be5b310960?source=rss------bug_bounty-5) 
+ - 💯March 27, 2025 - [From 0 to 100K: How Gamification is Turning Bug Hunting into a Crypto-Style Grind](https://medium.com/meetcyber/from-0-to-100k-how-gamification-is-turning-bug-hunting-into-a-crypto-style-grind-253e30b7e828?source=rss------bug_bounty-5) 
 
- - 💯March 26, 2025 - [I Asked for 200 OK, Apache Gave Me Its Diary Instead](https://medium.com/@iski/i-asked-for-200-ok-apache-gave-me-its-diary-instead-6e5b114a6f46?source=rss------bug_bounty-5) 
+ - 💯March 27, 2025 - [How I Made $1,000 in a Day Exposing a Critical Vulnerability](https://medium.com/@ibtissamhammadi/how-i-made-1-000-in-a-day-exposing-a-critical-vulnerability-3742ac0e58df?source=rss------bug_bounty-5) 
 
- - 💯March 26, 2025 - [Domain and Subdomain Enumeration: A Practical Guide for Effective Reconnaissance](https://osintteam.blog/domain-and-subdomain-enumeration-a-practical-guide-for-effective-reconnaissance-9660c40f4e37?source=rss------bug_bounty-5) 
+ - 💯March 26, 2025 - [Inayat hussain chohan &lpar;Security Researcher’s journey &rpar;](https://inayathussain.medium.com/inayat-hussain-chohan-security-researchers-journey-1bf0499e27d9?source=rss------bug_bounty-5) 
 
- - 💯March 26, 2025 - [Stealing Money at the Speed of Light: Exploiting Race Conditions for Financial Fraud in…](https://myselfakash20.medium.com/stealing-money-at-the-speed-of-light-exploiting-race-conditions-for-financial-fraud-in-a14c2086f5c0?source=rss------bug_bounty-5) 
+ - 💯March 26, 2025 - [Zero to Hero in bug bounty by ‘Vibe Coding’](https://medium.com/@nsteckercs/zero-to-hero-in-bug-bounty-by-vibe-coding-b74efc9a1259?source=rss------bug_bounty-5) 
 
- - 💯March 26, 2025 - [From Blind XSS to Full Server Takeover](https://medium.com/@0xnuy/from-blind-xss-to-full-server-takeover-0f63ead701ab?source=rss------bug_bounty-5) 
+ - 💯March 26, 2025 - [The Power of Nuclei for Bug Bounty Hunting](https://cyberw1ng.medium.com/the-power-of-nuclei-for-bug-bounty-hunting-ded98a8a47a7?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
