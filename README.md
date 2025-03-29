@@ -2,21 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 28, 2025 - [Practical OSINT Commands for Cyber Investigations](https://medium.com/@paritoshblogs/practical-osint-commands-for-cyber-investigations-3e6b039b4b4b?source=rss------bug_bounty-5) 
+ - 💯March 29, 2025 - [Bug Bounty Tips: Subdomain Takeover — Explanation, Steps &amp; Mitigation](https://frostyxsec.medium.com/bug-bounty-tips-subdomain-takeover-explanation-steps-mitigation-d5be0ea7f8b1?source=rss------bug_bounty-5) 
 
- - 💯March 28, 2025 - [DOM-Based Cross-Site Scripting &lpar;XSS&rpar;](https://medium.com/@anandrishav2228/dom-based-cross-site-scripting-xss-828c223a80f3?source=rss------bug_bounty-5) 
+ - 💯March 29, 2025 - [Access Control in Smart Contracts: Why It’s Non-Negotiable](https://securrtech.medium.com/access-control-in-smart-contracts-why-its-non-negotiable-79af14523f28?source=rss------bug_bounty-5) 
 
- - 💯March 28, 2025 - [Understanding Web Request Methods and Responses](https://medium.com/@aashifm/understanding-web-request-methods-and-responses-4a7abc8e1cba?source=rss------bug_bounty-5) 
+ - 💯March 29, 2025 - [Will AI Steal My Job as a Bug Hunter? The Truth About ChatGPT &amp; Cybersecurity](https://medium.com/dare-to-be-better/will-ai-steal-my-job-as-a-bug-hunter-the-truth-about-chatgpt-cybersecurity-48897ec03ace?source=rss------bug_bounty-5) 
 
- - 💯March 28, 2025 - [Earn $1000: Account Takeover by This Methodology](https://infosecwriteups.com/earn-1000-account-takeover-by-this-methodology-cc1cbf6d9eae?source=rss------bug_bounty-5) 
+ - 💯March 29, 2025 - [150,000 Websites Hijacked by JavaScript Injection: How Hackers Are Promoting Chinese Gambling Sites](https://medium.com/@Cyber-AppSec/150-000-websites-hijacked-by-javascript-injection-how-hackers-are-promoting-chinese-gambling-sites-0e1e8eb2b990?source=rss------bug_bounty-5) 
 
- - 💯March 28, 2025 - [Finding Information Disclosure Bugs Like a Pro](https://osintteam.blog/finding-information-disclosure-bugs-like-a-pro-19f9840d3f63?source=rss------bug_bounty-5) 
+ - 💯March 29, 2025 - [Bug Hunting &amp; Automation](https://medium.com/h7w/bug-hunting-automation-a284c3ff1967?source=rss------bug_bounty-5) 
 
- - 💯March 27, 2025 - [Advanced Techniques &amp; Use Cases of Nuclei for Bug Bounty](https://cyberw1ng.medium.com/advanced-techniques-use-cases-of-nuclei-for-bug-bounty-22be32c09d1b?source=rss------bug_bounty-5) 
+ - 💯March 28, 2025 - [How I Found a $10,000 Typo: A Beginner’s Guide to Bug Bounty Hunting](https://medium.com/meetcyber/how-i-found-a-10-000-typo-a-beginners-guide-to-bug-bounty-hunting-4550f5af21fa?source=rss------bug_bounty-5) 
 
- - 💯March 27, 2025 - [Account Takeover via Leaked Email Verification Token](https://medium.com/@kalvik/account-takeover-via-leaked-email-verification-token-2612fef3e2d4?source=rss------bug_bounty-5) 
+ - 💯March 28, 2025 - [️Insecure Direct Object Reference &lpar;IDOR&rpar; — Unauthorized Account Access](https://medium.com/@Oiluminado_x86/%EF%B8%8Finsecure-direct-object-reference-idor-unauthorized-account-access-dd4018b98fa9?source=rss------bug_bounty-5) 
 
- - 💯March 27, 2025 - [Bug Bounty Hunting — Complete Guide &lpar;Part-124&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-124-5dcab5e4c9a1?source=rss------bug_bounty-5) 
+ - 💯March 28, 2025 - [How To Deal With Open Ports &amp; Nmap Like a Pro?](https://medium.com/@nnface/how-to-deal-with-open-ports-nmap-like-a-pro-6126ef0d9339?source=rss------bug_bounty-5) 
 
- - 💯March 27, 2025 - [How I found 4 vulnerabilities in only 1 day?](https://systemweakness.com/how-i-found-4-vulnerabilities-in-only-1-day-473a870b583a?source=rss------bug_bounty-5) 
+ - 💯March 28, 2025 - [Part 3: Advanced Techniques &amp; Use Cases of Nuclei for Bug Bounty](https://cyberw1ng.medium.com/part-3-advanced-techniques-use-cases-of-nuclei-for-bug-bounty-1fb810800b8c?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
