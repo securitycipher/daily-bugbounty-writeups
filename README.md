@@ -2,21 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 29, 2025 - [Bug Bounty Tips: Subdomain Takeover — Explanation, Steps &amp; Mitigation](https://frostyxsec.medium.com/bug-bounty-tips-subdomain-takeover-explanation-steps-mitigation-d5be0ea7f8b1?source=rss------bug_bounty-5) 
+ - 💯March 30, 2025 - [Recently, I explored an efficient Small Scope Recon approach!](https://medium.com/@parthchheda777/recently-i-explored-an-efficient-small-scope-recon-approach-3c46a3bc549e?source=rss------bug_bounty-5) 
 
- - 💯March 29, 2025 - [Access Control in Smart Contracts: Why It’s Non-Negotiable](https://securrtech.medium.com/access-control-in-smart-contracts-why-its-non-negotiable-79af14523f28?source=rss------bug_bounty-5) 
+ - 💯March 30, 2025 - [Unauthorized Therapist Association Vulnerability](https://medium.com/@EL_cazad0r/unauthorized-therapist-association-vulnerability-bd2979914af1?source=rss------bug_bounty-5) 
 
- - 💯March 29, 2025 - [Will AI Steal My Job as a Bug Hunter? The Truth About ChatGPT &amp; Cybersecurity](https://medium.com/dare-to-be-better/will-ai-steal-my-job-as-a-bug-hunter-the-truth-about-chatgpt-cybersecurity-48897ec03ace?source=rss------bug_bounty-5) 
+ - 💯March 30, 2025 - [The Dark Side of Bug Bounty: From Rewards to Punishment](https://medium.com/@krivadna_87390/the-dark-side-of-bug-bounty-from-rewards-to-punishment-544a1a6f526e?source=rss------bug_bounty-5) 
 
- - 💯March 29, 2025 - [150,000 Websites Hijacked by JavaScript Injection: How Hackers Are Promoting Chinese Gambling Sites](https://medium.com/@Cyber-AppSec/150-000-websites-hijacked-by-javascript-injection-how-hackers-are-promoting-chinese-gambling-sites-0e1e8eb2b990?source=rss------bug_bounty-5) 
+ - 💯March 30, 2025 - [This Tool Helped me to find ORIGIN IP&lpar;Automated way&rpar;](https://infosecwriteups.com/this-tool-helped-me-to-find-origin-ip-automated-way-9a95632d65fe?source=rss------bug_bounty-5) 
 
- - 💯March 29, 2025 - [Bug Hunting &amp; Automation](https://medium.com/h7w/bug-hunting-automation-a284c3ff1967?source=rss------bug_bounty-5) 
+ - 💯March 30, 2025 - [Understanding Length Extension Attacks](https://medium.com/@mark-r/understanding-length-extension-attacks-855084c0170d?source=rss------bug_bounty-5) 
 
- - 💯March 28, 2025 - [How I Found a $10,000 Typo: A Beginner’s Guide to Bug Bounty Hunting](https://medium.com/meetcyber/how-i-found-a-10-000-typo-a-beginners-guide-to-bug-bounty-hunting-4550f5af21fa?source=rss------bug_bounty-5) 
+ - 💯March 29, 2025 - [Top 5 Websites for Information Gathering — Part 1](https://cyberw1ng.medium.com/top-5-websites-for-information-gathering-part-1-90b36746f5b5?source=rss------bug_bounty-5) 
 
- - 💯March 28, 2025 - [️Insecure Direct Object Reference &lpar;IDOR&rpar; — Unauthorized Account Access](https://medium.com/@Oiluminado_x86/%EF%B8%8Finsecure-direct-object-reference-idor-unauthorized-account-access-dd4018b98fa9?source=rss------bug_bounty-5) 
+ - 💯March 29, 2025 - [Mastering Logic Bugs: A Checklist for Bug Hunters PART 2 { IDOR ‍}](https://medium.com/@mahdisalhi0500/mastering-logic-bugs-a-checklist-for-bug-hunters-part-2-idor-6f411e90509d?source=rss------bug_bounty-5) 
 
- - 💯March 28, 2025 - [How To Deal With Open Ports &amp; Nmap Like a Pro?](https://medium.com/@nnface/how-to-deal-with-open-ports-nmap-like-a-pro-6126ef0d9339?source=rss------bug_bounty-5) 
+ - 💯March 29, 2025 - [“No Good Deed Goes Unnoticed? Not in Cybersecurity.” : An unlucky hacker’s Story](https://medium.com/@nijina7/no-good-deed-goes-unnoticed-not-in-cybersecurity-an-unlucky-hackers-story-3ebbb74e5b9e?source=rss------bug_bounty-5) 
 
- - 💯March 28, 2025 - [Part 3: Advanced Techniques &amp; Use Cases of Nuclei for Bug Bounty](https://cyberw1ng.medium.com/part-3-advanced-techniques-use-cases-of-nuclei-for-bug-bounty-1fb810800b8c?source=rss------bug_bounty-5) 
+ - 💯March 29, 2025 - [Reflected XSS via X-Forwarded-For Header on https://api.target.com/ip](https://medium.com/@ugs20b126_cic.rajesh/reflected-xss-via-x-forwarded-for-header-on-https-api-target-com-ip-96642a4a49ed?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
