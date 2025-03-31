@@ -2,21 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 30, 2025 - [Recently, I explored an efficient Small Scope Recon approach!](https://medium.com/@parthchheda777/recently-i-explored-an-efficient-small-scope-recon-approach-3c46a3bc549e?source=rss------bug_bounty-5) 
+ - 💯March 31, 2025 - [Never Underestimate Any API Key Leak. This is why I Got a Hall of Fame from “Your Dost”](https://hiddendom.medium.com/never-underestimate-any-api-key-leak-this-is-why-i-got-a-hall-of-fame-from-your-dost-25ef5a32dc7e?source=rss------bug_bounty-5) 
 
- - 💯March 30, 2025 - [Unauthorized Therapist Association Vulnerability](https://medium.com/@EL_cazad0r/unauthorized-therapist-association-vulnerability-bd2979914af1?source=rss------bug_bounty-5) 
+ - 💯March 31, 2025 - [Advanced Fuzzing to find entry points to serious bugs!](https://aarnavsaboo.medium.com/fuzz-yo-67c26b24c7a0?source=rss------bug_bounty-5) 
 
- - 💯March 30, 2025 - [The Dark Side of Bug Bounty: From Rewards to Punishment](https://medium.com/@krivadna_87390/the-dark-side-of-bug-bounty-from-rewards-to-punishment-544a1a6f526e?source=rss------bug_bounty-5) 
+ - 💯March 31, 2025 - [AI-Powered SaaS Security: The Key to Protecting an Expanding Attack Surface](https://medium.com/@Cyber-AppSec/ai-powered-saas-security-the-key-to-protecting-an-expanding-attack-surface-9d3e4a34364d?source=rss------bug_bounty-5) 
 
- - 💯March 30, 2025 - [This Tool Helped me to find ORIGIN IP&lpar;Automated way&rpar;](https://infosecwriteups.com/this-tool-helped-me-to-find-origin-ip-automated-way-9a95632d65fe?source=rss------bug_bounty-5) 
+ - 💯March 31, 2025 - [How I Hacked the IRCTC eCatering Portal](https://medium.com/@deepak7903800/how-i-hacked-the-irctc-ecatering-portal-e25aeb074b7e?source=rss------bug_bounty-5) 
 
- - 💯March 30, 2025 - [Understanding Length Extension Attacks](https://medium.com/@mark-r/understanding-length-extension-attacks-855084c0170d?source=rss------bug_bounty-5) 
+ - 💯March 31, 2025 - [Next.js Middleware Authentication Bypass &lpar;CVE-2025–29927&rpar;: Exploitation, Impact, and Mitigation](https://medium.com/@prashunbaral/next-js-middleware-authentication-bypass-cve-2025-29927-exploitation-impact-and-mitigation-2810f6f76bd9?source=rss------bug_bounty-5) 
 
- - 💯March 29, 2025 - [Top 5 Websites for Information Gathering — Part 1](https://cyberw1ng.medium.com/top-5-websites-for-information-gathering-part-1-90b36746f5b5?source=rss------bug_bounty-5) 
+ - 💯March 31, 2025 - [IDOR Vulnerability in Payment Gateway Exposing User Order Details](https://medium.com/@Oiluminado_x86/idor-vulnerability-in-payment-gateway-exposing-user-order-details-d96d8e9453b8?source=rss------bug_bounty-5) 
 
- - 💯March 29, 2025 - [Mastering Logic Bugs: A Checklist for Bug Hunters PART 2 { IDOR ‍}](https://medium.com/@mahdisalhi0500/mastering-logic-bugs-a-checklist-for-bug-hunters-part-2-idor-6f411e90509d?source=rss------bug_bounty-5) 
+ - 💯March 30, 2025 - [Bug Bounty Hunter’s Nightmare: The Dark Secrets No One Talks About! ⚠️](https://theindiannetwork.medium.com/bug-bounty-hunters-nightmare-the-dark-secrets-no-one-talks-about-%EF%B8%8F-f20971abcbee?source=rss------bug_bounty-5) 
 
- - 💯March 29, 2025 - [“No Good Deed Goes Unnoticed? Not in Cybersecurity.” : An unlucky hacker’s Story](https://medium.com/@nijina7/no-good-deed-goes-unnoticed-not-in-cybersecurity-an-unlucky-hackers-story-3ebbb74e5b9e?source=rss------bug_bounty-5) 
+ - 💯March 30, 2025 - [I Bypassed Admin Panel &amp; Stole Data in Minutes! Easility Worth $7500 &lpar;Real-World Exploit&rpar;](https://theindiannetwork.medium.com/i-bypassed-admin-panel-stole-data-in-minutes-easility-worth-7500-real-world-exploit-da9b23fcdb4a?source=rss------bug_bounty-5) 
 
- - 💯March 29, 2025 - [Reflected XSS via X-Forwarded-For Header on https://api.target.com/ip](https://medium.com/@ugs20b126_cic.rajesh/reflected-xss-via-x-forwarded-for-header-on-https-api-target-com-ip-96642a4a49ed?source=rss------bug_bounty-5) 
+ - 💯March 30, 2025 - [Eldoria Realms — HackTheBox — Cyber Apocalypse 2025](https://medium.com/@dassomnath/eldoria-realms-hackthebox-cyber-apocalypse-2025-ecde31783ec9?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
