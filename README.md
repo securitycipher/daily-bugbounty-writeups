@@ -2,21 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯April 1, 2025 - [PATH HIJACKING TECHNIQUE THAT HELPS IN PRIVILEGE ESCALATION](https://infosecwriteups.com/path-hijacking-technique-that-helps-in-privilege-escalation-b2e12207ea7a?source=rss------bug_bounty-5) 
+ - 💯April 2, 2025 - [How I Discovered a Critical Store XSS Vulnerability and Earned a $7,000 Bounty — My Struggle…](https://theindiannetwork.medium.com/how-i-discovered-a-critical-store-xss-vulnerability-and-earned-a-7-000-bounty-my-struggle-38d67b6f8ec8?source=rss------bug_bounty-5) 
 
- - 💯April 1, 2025 - [dKargo Warehouse Testnet Bug Bounty Program](https://medium.com/dkargo-eng/dkargo-warehouse-testnet-bug-bounty-program-9d70de4d2e7f?source=rss------bug_bounty-5) 
+ - 💯April 2, 2025 - [How I Found an SMTP Injection Bug &amp; Earned $800 in Just 30 Minutes!](https://theindiannetwork.medium.com/ehow-i-found-an-smtp-injection-bug-earned-800-in-just-30-minutes-562f7e3b9a4a?source=rss------bug_bounty-5) 
 
- - 💯April 1, 2025 - [2FA Bypass By Response Manipulation](https://medium.com/@FuzzyyDuck/2fa-bypass-by-response-manipulation-f599c2e3341f?source=rss------bug_bounty-5) 
+ - 💯April 2, 2025 - [Reverse Shell Commands and How to Detect Them](https://medium.com/@paritoshblogs/reverse-shell-commands-and-how-to-detect-them-084884150776?source=rss------bug_bounty-5) 
 
- - 💯April 1, 2025 - [Best Tools for Bug Bounty Hunters: A Professional Guide](https://theindiannetwork.medium.com/best-tools-for-bug-bounty-hunters-a-professional-guide-b939335f4b9d?source=rss------bug_bounty-5) 
+ - 💯April 2, 2025 - [Web Security Vulnerabilities Every Pentester Should Know :](https://medium.com/@shamzen96/web-security-vulnerabilities-every-pentester-should-know-742f1e0fda42?source=rss------bug_bounty-5) 
 
- - 💯March 31, 2025 - [ClatScope: The Ultimate OSINT Tool for Bug Bounty Hunters &amp; Cyber Sleuths!](https://medium.com/@pentesterclubpvtltd/clatscope-the-ultimate-osint-tool-for-bug-bounty-hunters-cyber-sleuths-7a1ea4dbbb65?source=rss------bug_bounty-5) 
+ - 💯April 2, 2025 - [5 Critical AWS Vulnerabilities You’re Responsible For &lpar;And How to Fix Them&rpar;](https://medium.com/@Cyber-AppSec/5-critical-aws-vulnerabilities-youre-responsible-for-and-how-to-fix-them-f7500c3e41fb?source=rss------bug_bounty-5) 
 
- - 💯March 31, 2025 - [Eyes OSINT: The Ultimate Bug Bounty Tool for Hackers &amp; Cyber Sleuths!](https://medium.com/@pentesterclubpvtltd/eyes-osint-the-ultimate-bug-bounty-tool-for-hackers-cyber-sleuths-4bcd8c89b428?source=rss------bug_bounty-5) 
+ - 💯April 2, 2025 - [How This Simple Account Takeover Gave Me 800 EUR](https://medium.com/@dineshnarasimhan27/how-this-simple-account-takeover-gave-me-800-eur-7d88a2d13a56?source=rss------bug_bounty-5) 
 
- - 💯March 31, 2025 - [Master NFS Enumeration with RPCScan &amp; SuperEnum | Ultimate Bug Bounty &amp; Pentesting Guide!](https://medium.com/@pentesterclubpvtltd/master-nfs-enumeration-with-rpcscan-superenum-ultimate-bug-bounty-pentesting-guide-aa4da7cf077c?source=rss------bug_bounty-5) 
+ - 💯April 2, 2025 - [Price Tampering Vulnerability in the Supreme Court of India](https://medium.com/@deepak7903800/price-tampering-vulnerability-in-the-supreme-court-of-india-4bd3046b2bb9?source=rss------bug_bounty-5) 
 
- - 💯March 31, 2025 - [I Found a Critical Bug in JWT Authentication and Earned $10,000 — Here’s How You Can Too!](https://theindiannetwork.medium.com/i-found-a-critical-bug-in-jwt-authentication-and-earned-10-000-heres-how-you-can-too-8cec94913727?source=rss------bug_bounty-5) 
+ - 💯April 2, 2025 - [You Say Premium Features? Well, Not Anymore](https://medium.com/@ahmed_salem/you-say-premium-features-well-not-anymore-e15d5afc14c9?source=rss------bug_bounty-5) 
 
- - 💯March 31, 2025 - [My First Bug Bounty Success: Earning $500 by Uncovering a DoS Vulnerability](https://medium.com/@entit_y/my-first-bug-bounty-success-earning-500-by-uncovering-a-dos-vulnerability-f0456eb72576?source=rss------bug_bounty-5) 
+ - 💯April 2, 2025 - [How I Uncovered a Sneaky DOM XSS Bug in a Popular Social Media Platform — And Scored a $4,000 Bug…](https://theindiannetwork.medium.com/how-i-uncovered-a-sneaky-dom-xss-bug-in-a-popular-social-media-platform-and-scored-a-4-000-bug-892c7a9f3694?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
