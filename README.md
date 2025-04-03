@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯April 2, 2025 - [How I Discovered a Critical Store XSS Vulnerability and Earned a $7,000 Bounty — My Struggle…](https://theindiannetwork.medium.com/how-i-discovered-a-critical-store-xss-vulnerability-and-earned-a-7-000-bounty-my-struggle-38d67b6f8ec8?source=rss------bug_bounty-5) 
+ - 💯April 3, 2025 - [Reverse Engineering a Browser Extension Led Me to a Dangerous Exploit! &lpar;$25,000 Bounty&rpar;](https://theindiannetwork.medium.com/reverse-engineering-a-browser-extension-led-me-to-a-dangerous-exploit-25-000-bounty-c7dda4601753?source=rss------bug_bounty-5) 
 
- - 💯April 2, 2025 - [How I Found an SMTP Injection Bug &amp; Earned $800 in Just 30 Minutes!](https://theindiannetwork.medium.com/ehow-i-found-an-smtp-injection-bug-earned-800-in-just-30-minutes-562f7e3b9a4a?source=rss------bug_bounty-5) 
+ - 💯April 3, 2025 - [React Router and the Remix’ed path](https://medium.com/@zhero_/react-router-and-the-remixed-path-daa48d6bd6a9?source=rss------bug_bounty-5) 
 
- - 💯April 2, 2025 - [Reverse Shell Commands and How to Detect Them](https://medium.com/@paritoshblogs/reverse-shell-commands-and-how-to-detect-them-084884150776?source=rss------bug_bounty-5) 
+ - 💯April 3, 2025 - [How I Found a CSRF Vulnerability Leading to Account Takeover &lpar;$2,000 Bounty&rpar;](https://medium.com/@nareshkandula54/how-i-found-a-csrf-vulnerability-leading-to-account-takeover-2-000-bounty-3dc408f2f134?source=rss------bug_bounty-5) 
 
- - 💯April 2, 2025 - [Web Security Vulnerabilities Every Pentester Should Know :](https://medium.com/@shamzen96/web-security-vulnerabilities-every-pentester-should-know-742f1e0fda42?source=rss------bug_bounty-5) 
+ - 💯April 3, 2025 - [Unauthenticated Admin Profile Disclosure via GraphQL IDOR — A Real-World Bug Bounty Find.](https://medium.com/@yasser0hamoda1/unauthenticated-admin-profile-disclosure-via-graphql-idor-a-real-world-bug-bounty-find-f8647eae5237?source=rss------bug_bounty-5) 
 
- - 💯April 2, 2025 - [5 Critical AWS Vulnerabilities You’re Responsible For &lpar;And How to Fix Them&rpar;](https://medium.com/@Cyber-AppSec/5-critical-aws-vulnerabilities-youre-responsible-for-and-how-to-fix-them-f7500c3e41fb?source=rss------bug_bounty-5) 
+ - 💯April 3, 2025 - [Mobile Application Bounty Practice: SQL Injection Principles, Vulnerability Discovery and…](https://medium.com/@cadeeper/mobile-application-bounty-practice-sql-injection-principles-vulnerability-discovery-and-cd3e77ef380b?source=rss------bug_bounty-5) 
 
- - 💯April 2, 2025 - [How This Simple Account Takeover Gave Me 800 EUR](https://medium.com/@dineshnarasimhan27/how-this-simple-account-takeover-gave-me-800-eur-7d88a2d13a56?source=rss------bug_bounty-5) 
+ - 💯April 2, 2025 - [Understanding HTTP Headers: A Bug Bounty Hunter’s Guide to Hidden Secrets️](https://medium.com/@kazixabbir/understanding-http-headers-a-bug-bounty-hunters-guide-to-hidden-secrets-%EF%B8%8F-f52c5b297668?source=rss------bug_bounty-5) 
 
- - 💯April 2, 2025 - [Price Tampering Vulnerability in the Supreme Court of India](https://medium.com/@deepak7903800/price-tampering-vulnerability-in-the-supreme-court-of-india-4bd3046b2bb9?source=rss------bug_bounty-5) 
+ - 💯April 2, 2025 - [Overprivileged API and Remote Code Execution &lpar;RCE&rpar;](https://medium.com/@rkvb/overprivileged-api-and-remote-code-execution-rce-0fa5e52b022d?source=rss------bug_bounty-5) 
 
- - 💯April 2, 2025 - [You Say Premium Features? Well, Not Anymore](https://medium.com/@ahmed_salem/you-say-premium-features-well-not-anymore-e15d5afc14c9?source=rss------bug_bounty-5) 
+ - 💯April 2, 2025 - [In-Depth Explanation of Each TCP Flag](https://medium.com/@zoningxtr/in-depth-explanation-of-each-tcp-flag-622d589b60e4?source=rss------bug_bounty-5) 
 
- - 💯April 2, 2025 - [How I Uncovered a Sneaky DOM XSS Bug in a Popular Social Media Platform — And Scored a $4,000 Bug…](https://theindiannetwork.medium.com/how-i-uncovered-a-sneaky-dom-xss-bug-in-a-popular-social-media-platform-and-scored-a-4-000-bug-892c7a9f3694?source=rss------bug_bounty-5) 
+ - 💯April 2, 2025 - [The “Oops, I Own Your Account” Password Reset Bug](https://medium.com/@dineshkumar_56604/the-oops-i-own-your-account-password-reset-bug-8d7d5fea980a?source=rss------bug_bounty-5) 
+
+ - 💯April 2, 2025 - [“Hacking the Hackers!” — Saving the HackerOne from Data Breach](https://medium.com/@avinash_/hacking-the-hackers-saving-the-hackerone-from-data-breach-75e313fa4898?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
