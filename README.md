@@ -2,23 +2,19 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯April 3, 2025 - [Reverse Engineering a Browser Extension Led Me to a Dangerous Exploit! &lpar;$25,000 Bounty&rpar;](https://theindiannetwork.medium.com/reverse-engineering-a-browser-extension-led-me-to-a-dangerous-exploit-25-000-bounty-c7dda4601753?source=rss------bug_bounty-5) 
+ - 💯April 4, 2025 - [A tool that will help to analyze security headers of your target domains.](https://medium.com/@loyalonlytoday/a-tool-that-will-help-to-analyze-security-headers-of-your-target-domains-86aa06a3fa5c?source=rss------bug_bounty-5) 
 
- - 💯April 3, 2025 - [React Router and the Remix’ed path](https://medium.com/@zhero_/react-router-and-the-remixed-path-daa48d6bd6a9?source=rss------bug_bounty-5) 
+ - 💯April 4, 2025 - [Google Rate Limit Bypass: Triggering Infinite Spam Requests](https://medium.com/@AhmedSamy-X/google-rate-limit-bypass-triggering-infinite-spam-requests-c360019b9c7f?source=rss------bug_bounty-5) 
 
- - 💯April 3, 2025 - [How I Found a CSRF Vulnerability Leading to Account Takeover &lpar;$2,000 Bounty&rpar;](https://medium.com/@nareshkandula54/how-i-found-a-csrf-vulnerability-leading-to-account-takeover-2-000-bounty-3dc408f2f134?source=rss------bug_bounty-5) 
+ - 💯April 3, 2025 - [JWT Token Manipulation: Explotando Vulnerabilidades en la Autenticación Web](https://medium.com/@zsodex/jwt-token-manipulation-explotando-vulnerabilidades-en-la-autenticaci%C3%B3n-web-7f416c1db6b6?source=rss------bug_bounty-5) 
 
- - 💯April 3, 2025 - [Unauthenticated Admin Profile Disclosure via GraphQL IDOR — A Real-World Bug Bounty Find.](https://medium.com/@yasser0hamoda1/unauthenticated-admin-profile-disclosure-via-graphql-idor-a-real-world-bug-bounty-find-f8647eae5237?source=rss------bug_bounty-5) 
+ - 💯April 3, 2025 - [Bug bounty: It’s not competition, it’s constant evolution](https://medium.com/@ce.barquet/bug-bounty-its-not-competition-it-s-constant-evolution-ffa674462689?source=rss------bug_bounty-5) 
 
- - 💯April 3, 2025 - [Mobile Application Bounty Practice: SQL Injection Principles, Vulnerability Discovery and…](https://medium.com/@cadeeper/mobile-application-bounty-practice-sql-injection-principles-vulnerability-discovery-and-cd3e77ef380b?source=rss------bug_bounty-5) 
+ - 💯April 3, 2025 - [Developers Mistake Leads to Bountiesss$$…](https://infosecwriteups.com/developers-mistake-leads-to-bountiesss-088cf2c2ce51?source=rss------bug_bounty-5) 
 
- - 💯April 2, 2025 - [Understanding HTTP Headers: A Bug Bounty Hunter’s Guide to Hidden Secrets️](https://medium.com/@kazixabbir/understanding-http-headers-a-bug-bounty-hunters-guide-to-hidden-secrets-%EF%B8%8F-f52c5b297668?source=rss------bug_bounty-5) 
+ - 💯April 3, 2025 - [Same OTP for Email &amp; Phone? Yep, That’s a Bug!](https://strangerwhite.medium.com/same-otp-for-email-phone-yep-thats-a-bug-f346668bece6?source=rss------bug_bounty-5) 
 
- - 💯April 2, 2025 - [Overprivileged API and Remote Code Execution &lpar;RCE&rpar;](https://medium.com/@rkvb/overprivileged-api-and-remote-code-execution-rce-0fa5e52b022d?source=rss------bug_bounty-5) 
+ - 💯April 3, 2025 - [Silent Sabotage: Exploiting Stored XSS in a Chat Feature](https://medium.com/@youssefhussein212103168/silent-sabotage-exploiting-stored-xss-in-a-chat-feature-71108606b10b?source=rss------bug_bounty-5) 
 
- - 💯April 2, 2025 - [In-Depth Explanation of Each TCP Flag](https://medium.com/@zoningxtr/in-depth-explanation-of-each-tcp-flag-622d589b60e4?source=rss------bug_bounty-5) 
-
- - 💯April 2, 2025 - [The “Oops, I Own Your Account” Password Reset Bug](https://medium.com/@dineshkumar_56604/the-oops-i-own-your-account-password-reset-bug-8d7d5fea980a?source=rss------bug_bounty-5) 
-
- - 💯April 2, 2025 - [“Hacking the Hackers!” — Saving the HackerOne from Data Breach](https://medium.com/@avinash_/hacking-the-hackers-saving-the-hackerone-from-data-breach-75e313fa4898?source=rss------bug_bounty-5) 
+ - 💯April 3, 2025 - [How I Turned a 403 Forbidden Into a Goldmine](https://infosecwriteups.com/how-i-turned-a-403-forbidden-into-a-goldmine-738cdf1407aa?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
