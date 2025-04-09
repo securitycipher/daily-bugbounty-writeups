@@ -2,21 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯April 8, 2025 - [AI vs. Hackers: Can AI Help in Bug Bounty or Is It Just a Hype?](https://infosecwriteups.com/ai-vs-hackers-can-ai-help-in-bug-bounty-or-is-it-just-a-hype-04ce56b454d6?source=rss------bug_bounty-5) 
+ - 💯April 9, 2025 - [I Bypassed 2FA Using an Old Secret Key — Here’s How I Earned $500](https://medium.com/@whitehat29/i-bypassed-2fa-using-an-old-secret-key-heres-how-i-earned-500-cd92c9158f1a?source=rss------bug_bounty-5) 
 
- - 💯April 8, 2025 - [How Hackers Find Social Accounts &amp; Passwords](https://medium.com/@vipulsonule71/how-hackers-find-social-accounts-passwords-1156e14e2faf?source=rss------bug_bounty-5) 
+ - 💯April 9, 2025 - [️‍♂️ How Hackers Use Subdomain Takeover for Full Domain Control](https://medium.com/@vipulsonule71/%EF%B8%8F-%EF%B8%8F-how-hackers-use-subdomain-takeover-for-full-domain-control-c620b100c928?source=rss------bug_bounty-5) 
 
- - 💯April 8, 2025 - [Helpful website to find bug bounty and VDP programs](https://medium.com/meetcyber/helpful-website-to-find-bug-bounty-and-vdp-programs-eef63aca3b04?source=rss------bug_bounty-5) 
+ - 💯April 9, 2025 - [⏳ The 3-Minute Bug: How I Found a Critical Vulnerability Without a Single Tool](https://infosecwriteups.com/the-3-minute-bug-how-i-found-a-critical-vulnerability-without-a-single-tool-750a7b2913e8?source=rss------bug_bounty-5) 
 
- - 💯April 8, 2025 - [SQL injection attack, querying the database type and version on Oracle — PortSwigger](https://arayofhope7.medium.com/sql-injection-attack-querying-the-database-type-and-version-on-oracle-portswigger-904487db7d3d?source=rss------bug_bounty-5) 
+ - 💯April 9, 2025 - [Token Tampering leads to change the user details](https://levi4.medium.com/token-tampering-leads-to-change-the-user-details-7bf8b5754bde?source=rss------bug_bounty-5) 
 
- - 💯April 8, 2025 - [A Beginner&#39;s Guide to Bug Bounties.](https://medium.com/@richard_wachara/a-beginners-guide-to-bug-bounties-f710b10ae188?source=rss------bug_bounty-5) 
+ - 💯April 9, 2025 - [SQL injection attack, querying the database type and version on MySQL and Microsoft](https://arayofhope7.medium.com/sql-injection-attack-querying-the-database-type-and-version-on-mysql-and-microsoft-85081e7eef71?source=rss------bug_bounty-5) 
 
- - 💯April 8, 2025 - [Living off the Land Binaries &lpar;LOLBins&rpar;: How Attackers Use Built-In Tools Against You](https://medium.com/@paritoshblogs/living-off-the-land-binaries-lolbins-how-attackers-use-built-in-tools-against-you-24c0cb91ba20?source=rss------bug_bounty-5) 
+ - 💯April 9, 2025 - [OWASP Top 10 Manual Testing](https://medium.com/@shamzen96/owasp-top-10-manual-testing-caf675448569?source=rss------bug_bounty-5) 
 
- - 💯April 8, 2025 - [HTTP Status Codes: Overlooked Clues in Bug Bounty](https://medium.com/@cadeeper/http-status-codes-overlooked-clues-in-bug-bounty-f5b0efd556fc?source=rss------bug_bounty-5) 
+ - 💯April 9, 2025 - [This is how i use browser to fetch JS endpoints for good paying bugs](https://infosecwriteups.com/this-is-how-i-use-browser-to-fetch-js-endpoints-for-good-paying-bugs-6bd91563f7bf?source=rss------bug_bounty-5) 
 
- - 💯April 7, 2025 - [Automating Google Dorking with Python](https://cyberw1ng.medium.com/automating-google-dorking-with-python-fcd8601fe1f0?source=rss------bug_bounty-5) 
+ - 💯April 9, 2025 - [Google Patches Two Actively Exploited Android Vulnerabilities — Here’s What You Need to Know](https://medium.com/@Cyber-AppSec/google-patches-two-actively-exploited-android-vulnerabilities-heres-what-you-need-to-know-7350b60e5803?source=rss------bug_bounty-5) 
 
- - 💯April 7, 2025 - [How AI Helped Me to Bypass 403 — Forbidden](https://infosecwriteups.com/how-ai-helped-me-to-bypass-403-forbidden-06becd32b999?source=rss------bug_bounty-5) 
+ - 💯April 9, 2025 - [Account Manipulation Lead to Anonymous Account existence](https://medium.com/@ziademad1923/account-manipulation-lead-to-anonymous-account-existence-211c1ff390a6?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
