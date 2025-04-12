@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯April 11, 2025 - [How I Bypassed YouTube Video Ads Using API Manipulation — My Google VRP Discovery &lpar;Video PoC…](https://muneebalamkhan.medium.com/how-i-bypassed-youtube-video-ads-using-api-manipulation-my-google-vrp-discovery-video-poc-9eaf91f23596?source=rss------bug_bounty-5) 
+ - 💯April 12, 2025 - [Static vs Dynamic Analysis: A Web3 Security Perspective](https://securrtech.medium.com/static-vs-dynamic-analysis-a-web3-security-perspective-e0c11bbdde99?source=rss------bug_bounty-5) 
 
- - 💯April 11, 2025 - [Oops. Team Closed it as NA](https://infosecwriteups.com/oops-team-closed-it-as-na-547d6b20a5d7?source=rss------bug_bounty-5) 
+ - 💯April 12, 2025 - [Subdomain takeover](https://medium.com/@parthchheda777/subdomain-takeover-6642736285fc?source=rss------bug_bounty-5) 
 
- - 💯April 11, 2025 - [SQL injection attack, listing the database contents on Oracle — Portswigger](https://arayofhope7.medium.com/sql-injection-attack-listing-the-database-contents-on-oracle-portswigger-501f25bda8fd?source=rss------bug_bounty-5) 
+ - 💯April 12, 2025 - [SQL injection UNION attack, determining the number of columns returned by the query](https://arayofhope7.medium.com/sql-injection-union-attack-determining-the-number-of-columns-returned-by-the-query-01321d3953cb?source=rss------bug_bounty-5) 
 
- - 💯April 11, 2025 - [I Made $5,382 in 30 Days Hunting Bugs](https://infosecwriteups.com/i-made-5-382-in-30-days-hunting-bugs-ba770a5d895a?source=rss------bug_bounty-5) 
+ - 💯April 12, 2025 - [This Was My First Account Takeover Without Any Tool: A Remarkable Experience](https://medium.com/@dineshnarasimhan27/this-was-my-first-account-takeover-without-any-tool-a-remarkable-experience-1a224d8efb73?source=rss------bug_bounty-5) 
 
- - 💯April 11, 2025 - [How I Pick a Good Bug Bounty Program and Earn $$](https://medium.com/@YourFinalSin/how-i-pick-a-good-bug-bounty-program-and-earn-dc7610bff549?source=rss------bug_bounty-5) 
+ - 💯April 12, 2025 - [Effective tool for bug hunters](https://medium.com/@loyalonlytoday/effective-tool-for-bug-hunters-7544a430617d?source=rss------bug_bounty-5) 
 
- - 💯April 11, 2025 - [How I Found a Reflected XSS Bug in 45 Minutes Using ChatGPT — and Earned $800](https://theindiannetwork.medium.com/how-i-found-a-reflected-xss-bug-in-45-minutes-using-chatgpt-and-earned-800-bc700c4baea8?source=rss------bug_bounty-5) 
+ - 💯April 12, 2025 - [A tool that will find secrets, endpoints, and API keys from a list of URLs&lpar;Bug Bounty Hunting&rpar;](https://medium.com/@loyalonlytoday/a-tool-that-will-find-secrets-endpoints-and-api-keys-from-a-list-of-urls-bug-bounty-hunting-ccaec4babfe1?source=rss------bug_bounty-5) 
 
- - 💯April 11, 2025 - [A few online tools to find subdomains easily&lpar;bug bounty hunting&rpar;](https://medium.com/@loyalonlytoday/a-few-online-tools-to-find-subdomains-easily-bug-bounty-hunting-64b15b2c2dcf?source=rss------bug_bounty-5) 
+ - 💯April 11, 2025 - [IPsec/IKE VPN — Port 500/UDP — How to exploit?](https://medium.com/@verylazytech/ipsec-ike-vpn-port-500-udp-how-to-exploit-dd240223757d?source=rss------bug_bounty-5) 
 
- - 💯April 11, 2025 - [How I Earned $1,000 by Exploiting a Hidden Subdomain and Chaining a CORS Misconfiguration with IDOR](https://theindiannetwork.medium.com/how-i-earned-1-000-by-exploiting-a-hidden-subdomain-and-chaining-a-cors-misconfiguration-with-idor-1dc83adf927c?source=rss------bug_bounty-5) 
+ - 💯April 11, 2025 - [Custom Headers: The Sneaky Trick Every Hacker Should Know](https://medium.com/@RoBoHackermann/custom-headers-the-sneaky-trick-every-hacker-should-know-a685246cc3d0?source=rss------bug_bounty-5) 
 
- - 💯April 11, 2025 - [OTP BYPASS METHODOLOGIES](https://infosecwriteups.com/otp-bypass-methodologies-3ed951d1eb12?source=rss------bug_bounty-5) 
+ - 💯April 11, 2025 - [Mastering Reflected XSS with Nuclei: From Zero to $1,500 Bounty!](https://krishna-cyber.medium.com/mastering-reflected-xss-with-nuclei-from-zero-to-1-500-bounty-eb5115a1aaf0?source=rss------bug_bounty-5) 
 
- - 💯April 10, 2025 - [The OWASP Methodology for Web Application Penetration Testing](https://osintteam.blog/the-owasp-methodology-for-web-application-penetration-testing-de23c07ed4bf?source=rss------bug_bounty-5) 
+ - 💯April 11, 2025 - [Mastering Google Dorking for Bug Bounty Hunters: Secrets the Pros Use!](https://cybersecuritywriteups.com/mastering-google-dorking-for-bug-bounty-hunters-secrets-the-pros-use-5798df19f343?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
