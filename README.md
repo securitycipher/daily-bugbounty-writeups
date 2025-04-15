@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯April 14, 2025 - [Uncovering Hidden APIs: How One Forgotten Endpoint Made Me $500](https://infosecwriteups.com/uncovering-hidden-apis-how-one-forgotten-endpoint-made-me-500-424e6388c406?source=rss------bug_bounty-5) 
+ - 💯April 15, 2025 - [How I Built a Recon Flow Out of Rage and Spite](https://myselfakash20.medium.com/how-i-built-a-recon-flow-out-of-rage-and-spite-18ddd367149e?source=rss------bug_bounty-5) 
 
- - 💯April 14, 2025 - [Understanding CVE-2025–29927: Next.js Security Vulnerability](https://medium.com/@dasmanish6176/understanding-cve-2025-29927-next-js-security-vulnerability-6a6e20a7bcb0?source=rss------bug_bounty-5) 
+ - 💯April 15, 2025 - [How I Exploited Rate Limiting to Access Admin Features &lpar;Real Case Study&rpar;](https://infosecwriteups.com/how-i-exploited-rate-limiting-to-access-admin-features-real-case-study-fe25cb965a0a?source=rss------bug_bounty-5) 
 
- - 💯April 14, 2025 - [From Admin to Ghost: Post-Removal Access Control Bypass in Team Management Functionality](https://medium.com/@nhlimon37/from-admin-to-ghost-post-removal-access-control-bypass-in-team-management-functionality-155e3d7faf0d?source=rss------bug_bounty-5) 
+ - 💯April 15, 2025 - [“How to Find Hidden API Endpoints and Secrets in JavaScript Files for Bug Bounties &amp; Web App…](https://hackersatty.medium.com/how-to-find-hidden-api-endpoints-and-secrets-in-javascript-files-for-bug-bounties-web-app-f4ea92d16954?source=rss------bug_bounty-5) 
 
- - 💯April 14, 2025 - [From “Buck Bounty?” to My First Real Bug Bounty](https://medium.com/@bgsswqyh/from-buck-bounty-to-my-first-real-bug-bounty-7490f1907541?source=rss------bug_bounty-5) 
+ - 💯April 15, 2025 - [BugBounty Directory](https://medium.com/@abhishekY495/bugbounty-directory-35609687204c?source=rss------bug_bounty-5) 
 
- - 💯April 14, 2025 - [SQL injection UNION attack, retrieving data from other tables — Portswigger](https://arayofhope7.medium.com/sql-injection-union-attack-retrieving-data-from-other-tables-portswigger-ab892f5a9527?source=rss------bug_bounty-5) 
+ - 💯April 15, 2025 - [Why Most PoCs Fail: The Invisible Wall Called SSP](https://medium.com/@pch.neurodive.fuk060/why-most-pocs-fail-the-invisible-wall-called-ssp-06c489ebfdba?source=rss------bug_bounty-5) 
 
- - 💯April 14, 2025 - [​​How I Earned $800 in 10 Minutes with an IDOR Vulnerability — Just by Going the Extra Mile​​](https://medium.com/@cadeeper/how-i-earned-800-in-10-minutes-with-an-idor-vulnerability-just-by-going-the-extra-mile-b8208bec852f?source=rss------bug_bounty-5) 
+ - 💯April 15, 2025 - [IRC — Ports 194,6667,6660–7000 — How to exploit?](https://medium.com/@verylazytech/irc-ports-194-6667-6660-7000-how-to-exploit-5ecac016b853?source=rss------bug_bounty-5) 
 
- - 💯April 14, 2025 - [SQL Injection Leads to $$ Bounty: How I Found a Critical Bug](https://medium.com/@arrheniuspaelongan09/sql-injection-leads-to-bounty-how-i-found-a-critical-bug-cbacc35a2f19?source=rss------bug_bounty-5) 
+ - 💯April 14, 2025 - [Attacking Common Services &lpar;skill assessment→Easy Level&rpar; Hack The Box Writeup/Walkthrough by…](https://medium.com/@prarabdhsrivastava1403/attacking-common-services-skill-assessment-easy-level-hack-the-box-writeup-walkthrough-by-40cb4ae57d70?source=rss------bug_bounty-5) 
 
- - 💯April 14, 2025 - [Check Point Firewall — Port 264 — How to exploit?](https://medium.com/@verylazytech/check-point-firewall-port-264-how-to-exploit-10453634fb26?source=rss------bug_bounty-5) 
+ - 💯April 14, 2025 - [Udemy Promo OFFER](https://medium.com/@deepdive4learn/udemy-promo-offer-bbf015f60c6a?source=rss------bug_bounty-5) 
 
- - 💯April 13, 2025 - [How to Perform Triage on a Compromised Windows Machine](https://medium.com/@paritoshblogs/how-to-perform-triage-on-a-compromised-windows-machine-a358edfefd4b?source=rss------bug_bounty-5) 
+ - 💯April 14, 2025 - [Are You Safe? The Terrifying Truth Behind Silent Attacks](https://medium.com/@Zo0L/are-you-safe-the-terrifying-truth-behind-silent-attacks-544d63139019?source=rss------bug_bounty-5) 
+
+ - 💯April 14, 2025 - [Crafting Engaging Web Application Challenges for Your College CTF](https://medium.com/@shashank_d_s/crafting-engaging-web-application-challenges-for-your-college-ctf-b712e10b9ed6?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
