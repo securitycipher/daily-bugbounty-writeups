@@ -2,19 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯April 19, 2025 - [Exposed Secrets in JavaScript Files](https://medium.com/@Abhijeet_kumawat_/exposed-secrets-in-javascript-files-430a76834952?source=rss------bug_bounty-5) 
+ - 💯April 20, 2025 - [The Critical Role of Information Security Across the Software Development Lifecycle &lpar;SDLC&rpar;](https://medium.com/@rezauditore/the-critical-role-of-information-security-across-the-software-development-lifecycle-sdlc-1e69fc1f59b6?source=rss------bug_bounty-5) 
 
- - 💯April 19, 2025 - [Buy Any Product for Free via Price Tampering](https://medium.com/@shyam.sam0704/buy-any-product-for-free-via-price-tampering-75326ff7a767?source=rss------bug_bounty-5) 
+ - 💯April 20, 2025 - [Chaining Bugs Like a Hacker: IDOR to Account Takeover in 10 Minutes](https://infosecwriteups.com/chaining-bugs-like-a-hacker-idor-to-account-takeover-in-10-minutes-db0cba198007?source=rss------bug_bounty-5) 
 
- - 💯April 19, 2025 - [A list of good wordlists for bug bounty hunters](https://medium.com/@loyalonlytoday/a-list-of-good-wordlists-for-bug-bounty-hunters-7a6562df2aba?source=rss------bug_bounty-5) 
+ - 💯April 20, 2025 - [Get a Free Ubuntu VPS Forever for Your Projects with Superfast Internet](https://r4gh4v.medium.com/get-a-free-ubuntu-vps-forever-for-your-projects-with-superfast-internet-06259b8777f1?source=rss------bug_bounty-5) 
 
- - 💯April 18, 2025 - [F5 BIGIP PROMO CODES- UDEMY](https://medium.com/@deepdive4learn/f5-bigip-promo-codes-udemy-6ed8534d230d?source=rss------bug_bounty-5) 
+ - 💯April 20, 2025 - [That One Time a Forgotten Endpoint Earned Me $$$](https://medium.com/@dhirenkumar/that-one-time-a-forgotten-endpoint-earned-me-5367838d3ea8?source=rss------bug_bounty-5) 
 
- - 💯April 18, 2025 - [⚠️ CVE-2025-24054: Actively Exploited Vulnerability Stealing NTLM Credentials – What You Need to…](https://chintalatarakaram.medium.com/%EF%B8%8F-cve-2025-24054-actively-exploited-vulnerability-stealing-ntlm-credentials-what-you-need-to-631ac46f45e3?source=rss------bug_bounty-5) 
+ - 💯April 20, 2025 - [MOBSF Installation Guide 2025 Apple Silicons MACS](https://medium.com/offensive-black-hat-hacking-security/mobsf-installation-guide-2025-apple-silicons-macs-0f4718f15004?source=rss------bug_bounty-5) 
 
- - 💯April 18, 2025 - [Header-Fusion](https://medium.com/@bineeg/header-fusion-3c11da41582e?source=rss------bug_bounty-5) 
+ - 💯April 20, 2025 - [Finding a Password Bypass on Instagram in less than 3 days](https://medium.com/@hacktheplanet/finding-a-password-bypass-on-instagram-in-less-than-3-days-b84569c242ce?source=rss------bug_bounty-5) 
 
- - 💯April 18, 2025 - [Race condtion &amp; Logic Bug lead to Pre-ATO](https://medium.com/@yassentaalab51/race-condtion-logic-bug-lead-to-pre-ato-4fb85dfb4bcc?source=rss------bug_bounty-5) 
+ - 💯April 20, 2025 - [The $12,000 Redirect, a Misconfigured URL](https://medium.com/@dhirenkumar/the-12-000-redirect-a-misconfigured-url-f27cba89b622?source=rss------bug_bounty-5) 
 
- - 💯April 18, 2025 - [How to Find Hidden APIs and Abuse Them in Web Apps](https://medium.com/@vipulsonule71/how-to-find-hidden-apis-and-abuse-them-in-web-apps-42bd8cd91552?source=rss------bug_bounty-5) 
+ - 💯April 19, 2025 - [All about Multi-factor Authentication](https://hassanjawaid.medium.com/all-about-multi-factor-authentication-a131d6c20bf5?source=rss------bug_bounty-5) 
+
+ - 💯April 19, 2025 - [Blind SQL injection with conditional responses — Zero to Hero Blind Injection — Portswigger](https://arayofhope7.medium.com/blind-sql-injection-with-conditional-responses-zero-to-hero-blind-injection-portswigger-dad0cab48d57?source=rss------bug_bounty-5) 
+
+ - 💯April 19, 2025 - [Android Application Analysis: Tools, Techniques and Tips](https://medium.com/@mayank_prajapati/android-application-analysis-tools-techniques-and-tips-435dcf144c9c?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
