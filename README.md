@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯April 22, 2025 - [How Did I Hack a Website Just by Reading Its JavaScript](https://medium.com/developersglobal/how-did-i-hack-a-website-just-by-reading-its-javascript-809f5f755e3d?source=rss------bug_bounty-5) 
+ - 💯April 23, 2025 - [️XSS Prevention 101: Why Using .value Keeps Your JavaScript Secure&quot;](https://medium.com/@zoningxtr/%EF%B8%8Fxss-prevention-101-why-using-value-keeps-your-javascript-secure-52d9e062ca13?source=rss------bug_bounty-5) 
 
- - 💯April 22, 2025 - [How to Start Bug Bounty in 2025 &lpar;No Experience, No Problem&rpar;](https://infosecwriteups.com/how-to-start-bug-bounty-in-2025-no-experience-no-problem-89adc68da592?source=rss------bug_bounty-5) 
+ - 💯April 23, 2025 - [How I Found Multiple Bugs On Dell Using Reconnaissance &lpar;OSINT&rpar;](https://medium.com/@root0x30/how-i-found-multiple-bugs-on-dell-using-reconnaissance-osint-b71e06fa9031?source=rss------bug_bounty-5) 
 
- - 💯April 22, 2025 - [Spotting Beaconing Behaviour in Windows Systems: Analysing Timing Patterns in Network Connections](https://medium.com/@paritoshblogs/spotting-beaconing-behaviour-in-windows-systems-analysing-timing-patterns-in-network-connections-b41d187b346e?source=rss------bug_bounty-5) 
+ - 💯April 23, 2025 - [Securing HTML Forms Against XSS: A Practical Guide with DOM Methods, Safe JavaScript, and…](https://medium.com/@zoningxtr/securing-html-forms-against-xss-a-practical-guide-with-dom-methods-safe-javascript-and-74596ebc9064?source=rss------bug_bounty-5) 
 
- - 💯April 22, 2025 - [When System Information is Revealed Unknowingly!!](https://spider7.medium.com/silent-leaks-ketika-informasi-sistem-dibuka-tanpa-disadari-1b1343d7a1ae?source=rss------bug_bounty-5) 
+ - 💯April 23, 2025 - [FOFA Recon for Hidden HackerOne &amp; Bugcrowd Programs](https://medium.com/meetcyber/fofa-recon-for-hidden-hackerone-bugcrowd-programs-e285610bf8a5?source=rss------bug_bounty-5) 
 
- - 💯April 21, 2025 - [Stop Paying for Dozens of Subdomain Tools and Do All Your Enumeration and Recon in One Place](https://medium.com/@alexandrevandammepro/stop-paying-for-dozens-of-subdomain-tools-and-do-all-your-enumeration-and-recon-in-one-place-19412c592375?source=rss------bug_bounty-5) 
+ - 💯April 23, 2025 - [❌ Top 10 Mistakes Beginners Make in Bug Bounty — Avoid These!](https://infosecwriteups.com/top-10-mistakes-beginners-make-in-bug-bounty-avoid-these-5140f8a5b22b?source=rss------bug_bounty-5) 
 
- - 💯April 21, 2025 - [Next.js CVE-2025–29927 hackinghub walkthrough](https://medium.com/@abhishek-ji/next-js-cve-2025-29927-hackinghub-walkthrough-f7893cdd90c4?source=rss------bug_bounty-5) 
+ - 💯April 23, 2025 - [No rate limit](https://medium.com/@eng.mahmoudbughunter/no-rate-limit-dbb663690fe6?source=rss------bug_bounty-5) 
 
- - 💯April 21, 2025 - [The Blank Page That Hid a Bug](https://infosecwriteups.com/when-a-blank-page-that-hid-a-bug-c0214390d68c?source=rss------bug_bounty-5) 
+ - 💯April 23, 2025 - [A list of search engines for OSINT investigators and ethical hackers&lpar;PART 1&rpar;](https://medium.com/@loyalonlytoday/a-list-of-search-engines-for-osint-investigators-and-ethical-hackers-part-1-4b035cfc271a?source=rss------bug_bounty-5) 
 
- - 💯April 21, 2025 - [Open Redirect Vulnerabilities: How Small Bugs Lead to Big Rewards](https://medium.com/@vipulsonule71/open-redirect-vulnerabilities-how-small-bugs-lead-to-big-rewards-8d925553dabd?source=rss------bug_bounty-5) 
+ - 💯April 22, 2025 - [Day 12 Blind SQL injection with conditional errors — Zero to Hero Blind Injection — Portswigger](https://arayofhope7.medium.com/day-12-blind-sql-injection-with-conditional-errors-zero-to-hero-blind-injection-portswigger-e94f9e3977a5?source=rss------bug_bounty-5) 
 
- - 💯April 21, 2025 - [️ Breaking the Chain of Command: A Critical Team Management DoS via Role Update Abuse](https://medium.com/@nhlimon37/%EF%B8%8F-breaking-the-chain-of-command-a-critical-team-management-dos-via-role-update-abuse-94c1188629b9?source=rss------bug_bounty-5) 
+ - 💯April 22, 2025 - [‍Crack Into Cybersecurity: A Beginner’s Roadmap Powered by AI](https://medium.com/@aashish21/crack-into-cybersecurity-a-beginners-roadmap-powered-by-ai-f5dc949595a6?source=rss------bug_bounty-5) 
 
- - 💯April 21, 2025 - [How I Changed Other Users’ Names on a data integration platform’s team management system as an…](https://medium.com/@nhlimon37/how-i-changed-other-users-names-on-a-data-integration-platform-s-team-management-system-as-an-6a47cb98d0e1?source=rss------bug_bounty-5) 
+ - 💯April 22, 2025 - [Why Did This Simple Bug Pay $5K in 24 Hours](https://medium.com/@ibtissamhammadi/why-did-this-simple-bug-pay-5k-in-24-hours-cc35a761ae12?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
