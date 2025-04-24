@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯April 23, 2025 - [️XSS Prevention 101: Why Using .value Keeps Your JavaScript Secure&quot;](https://medium.com/@zoningxtr/%EF%B8%8Fxss-prevention-101-why-using-value-keeps-your-javascript-secure-52d9e062ca13?source=rss------bug_bounty-5) 
+ - 💯April 24, 2025 - [Arjun: The Ultimate Parameter Discovery Tool For Bug Hunters](https://medium.com/@lancersiromony/arjun-the-ultimate-parameter-discovery-tool-for-bug-hunters-6ead8aaf295b?source=rss------bug_bounty-5) 
 
- - 💯April 23, 2025 - [How I Found Multiple Bugs On Dell Using Reconnaissance &lpar;OSINT&rpar;](https://medium.com/@root0x30/how-i-found-multiple-bugs-on-dell-using-reconnaissance-osint-b71e06fa9031?source=rss------bug_bounty-5) 
+ - 💯April 24, 2025 - [Bug Bounty: failure experience records](https://medium.com/@smilemil/bug-bounty-failure-experience-records-62e928efd54a?source=rss------bug_bounty-5) 
 
- - 💯April 23, 2025 - [Securing HTML Forms Against XSS: A Practical Guide with DOM Methods, Safe JavaScript, and…](https://medium.com/@zoningxtr/securing-html-forms-against-xss-a-practical-guide-with-dom-methods-safe-javascript-and-74596ebc9064?source=rss------bug_bounty-5) 
+ - 💯April 24, 2025 - [I Used AI to Write a Payload… And It Worked &lpar;Sort of&rpar;](https://infosecwriteups.com/i-used-ai-to-write-a-payload-and-it-worked-sort-of-55b6860d8be9?source=rss------bug_bounty-5) 
 
- - 💯April 23, 2025 - [FOFA Recon for Hidden HackerOne &amp; Bugcrowd Programs](https://medium.com/meetcyber/fofa-recon-for-hidden-hackerone-bugcrowd-programs-e285610bf8a5?source=rss------bug_bounty-5) 
+ - 💯April 24, 2025 - [Hijacking Trust: The Parallels Between Use-After-Free and Insecure Deserialization](https://medium.com/@MasoudAbdaal/hijacking-trust-the-parallels-between-use-after-free-and-insecure-deserialization-a12c587a2987?source=rss------bug_bounty-5) 
 
- - 💯April 23, 2025 - [❌ Top 10 Mistakes Beginners Make in Bug Bounty — Avoid These!](https://infosecwriteups.com/top-10-mistakes-beginners-make-in-bug-bounty-avoid-these-5140f8a5b22b?source=rss------bug_bounty-5) 
+ - 💯April 24, 2025 - [A list of search engines for OSINT investigators and ethical hackers&lpar;PART 2&rpar;](https://medium.com/@loyalonlytoday/a-list-of-search-engines-for-osint-investigators-and-ethical-hackers-part-2-1dd7b3d54b6f?source=rss------bug_bounty-5) 
 
- - 💯April 23, 2025 - [No rate limit](https://medium.com/@eng.mahmoudbughunter/no-rate-limit-dbb663690fe6?source=rss------bug_bounty-5) 
+ - 💯April 23, 2025 - [learning how systems fall apart](https://medium.com/@orxxin/learning-how-systems-fall-apart-b7fd9e42bbb7?source=rss------bug_bounty-5) 
 
- - 💯April 23, 2025 - [A list of search engines for OSINT investigators and ethical hackers&lpar;PART 1&rpar;](https://medium.com/@loyalonlytoday/a-list-of-search-engines-for-osint-investigators-and-ethical-hackers-part-1-4b035cfc271a?source=rss------bug_bounty-5) 
+ - 💯April 23, 2025 - [CSRF Vulnerability in EchoStar Company](https://medium.com/@youssefmohamed_84205/csrf-vulnerability-in-echostar-company-ffecbc6edc24?source=rss------bug_bounty-5) 
 
- - 💯April 22, 2025 - [Day 12 Blind SQL injection with conditional errors — Zero to Hero Blind Injection — Portswigger](https://arayofhope7.medium.com/day-12-blind-sql-injection-with-conditional-errors-zero-to-hero-blind-injection-portswigger-e94f9e3977a5?source=rss------bug_bounty-5) 
+ - 💯April 23, 2025 - [️ How I Emulated a Real XSS Vulnerability with Just an &lt;img&gt; Tag — A Practical Guide to…](https://medium.com/@zoningxtr/%EF%B8%8F-how-i-emulated-a-real-xss-vulnerability-with-just-an-img-tag-a-practical-guide-to-7fb69d4ec46f?source=rss------bug_bounty-5) 
 
- - 💯April 22, 2025 - [‍Crack Into Cybersecurity: A Beginner’s Roadmap Powered by AI](https://medium.com/@aashish21/crack-into-cybersecurity-a-beginners-roadmap-powered-by-ai-f5dc949595a6?source=rss------bug_bounty-5) 
+ - 💯April 23, 2025 - [Unauthorized Users Could Disclose Information and Execute GraphQL Operations After Permission…](https://medium.com/@blackarazi/unauthorized-users-could-disclose-information-and-execute-graphql-operations-after-permission-961094edf7c8?source=rss------bug_bounty-5) 
 
- - 💯April 22, 2025 - [Why Did This Simple Bug Pay $5K in 24 Hours](https://medium.com/@ibtissamhammadi/why-did-this-simple-bug-pay-5k-in-24-hours-cc35a761ae12?source=rss------bug_bounty-5) 
+ - 💯April 23, 2025 - [One Root Cause, Many Faces: The 6 Silent CSRF That Got Buried](https://hamdiyasin135.medium.com/one-root-cause-many-faces-the-6-silent-csrf-that-got-buried-2dec4472744a?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
