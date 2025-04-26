@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯April 25, 2025 - [Most Pro Hacker Adviced Beginners To Start with on VDP Program I Taked This Advice and After Three…](https://medium.com/@youssefmohamed_84205/most-pro-hacker-adviced-beginners-to-start-with-on-vdp-program-i-taked-this-advice-and-after-three-bbc216680b6f?source=rss------bug_bounty-5) 
+ - 💯April 26, 2025 - [⏱️ There were no visible errors, no hints… only the server’s hesitation told me the truth.](https://infosecwriteups.com/%EF%B8%8F-there-were-no-visible-errors-no-hints-only-the-servers-hesitation-told-me-the-truth-7b4987f10444?source=rss------bug_bounty-5) 
 
- - 💯April 25, 2025 - [From Casual Curiosity to Crucial Findings: vibe pentesting uncovers serious vulnerabilities in…](https://medium.com/@kushjain0107/from-casual-curiosity-to-crucial-findings-vibe-pentesting-uncovers-serious-vulnerabilities-in-7c032383d227?source=rss------bug_bounty-5) 
+ - 💯April 26, 2025 - [Path Traversal Attack: How I Accessed Admin Secrets](https://infosecwriteups.com/path-traversal-attack-how-i-accessed-admin-secrets-fa5de1865031?source=rss------bug_bounty-5) 
 
- - 💯April 25, 2025 - [The Fastest Way to Learn Web Hacking in 2025 &lpar;With Free Resources&rpar;](https://infosecwriteups.com/the-fastest-way-to-learn-web-hacking-in-2025-with-free-resources-88c8e74a3889?source=rss------bug_bounty-5) 
+ - 💯April 26, 2025 - [Symbolic Execution vs Traditional Static Analysis in Smart Contract Security](https://securrtech.medium.com/symbolic-execution-vs-traditional-static-analysis-in-smart-contract-security-97a9289bbd48?source=rss------bug_bounty-5) 
 
- - 💯April 25, 2025 - [Earn your First $5000 Bug-Bounty.](https://medium.com/@anandrishav2228/earn-your-first-5000-bug-bounty-c49495337ef0?source=rss------bug_bounty-5) 
+ - 💯April 26, 2025 - [Millions of Records Exposed via SQL Injection in a Tamil Nadu Government Portal](https://medium.com/@dharineeshj2/millions-of-records-exposed-via-sql-injection-in-a-tamil-nadu-government-portal-0981d3827ed2?source=rss------bug_bounty-5) 
 
- - 💯April 25, 2025 - [Hunting Fileless Malware on Windows Systems](https://medium.com/@paritoshblogs/hunting-fileless-malware-on-windows-systems-2243d81b1e2d?source=rss------bug_bounty-5) 
+ - 💯April 26, 2025 - [Microsoft Is Paying Up to $30,000 for AI Security Flaws](https://medium.com/@Cyber-AppSec/microsoft-is-paying-up-to-30-000-for-ai-security-flaws-d4f1fec247d6?source=rss------bug_bounty-5) 
 
- - 💯April 25, 2025 - [How i found a RXSS by webpack](https://medium.com/@yubanbanz/how-i-found-a-rxss-by-webpack-7e2217a3976d?source=rss------bug_bounty-5) 
+ - 💯April 25, 2025 - [OOP in Programming](https://medium.com/@migo.ee0/oop-in-programming-bc0ca618db63?source=rss------bug_bounty-5) 
 
- - 💯April 25, 2025 - [How to Find Hidden HackerOne &amp; Bugcrowd Programs](https://medium.com/@ibtissamhammadi/how-to-find-hidden-hackerone-bugcrowd-programs-0149457cf048?source=rss------bug_bounty-5) 
+ - 💯April 25, 2025 - [Next.js Middleware Vulnerability: How CVE-2025–29927 Enables Authorization Bypass](https://medium.com/@nitinsgavane/next-js-middleware-vulnerability-how-cve-2025-29927-enables-authorization-bypass-1e0293d10e24?source=rss------bug_bounty-5) 
 
- - 💯April 25, 2025 - [How I Found phpinfo Exposure In telkomsigma.co.id](https://firdausmuhammadismail.medium.com/how-i-found-phpinfo-in-telkomsigma-co-id-49c89a1b0404?source=rss------bug_bounty-5) 
+ - 💯April 25, 2025 - [From 403 Forbidden to PII Exposure: How I Escalated a Low-Severity Bug to a High P2](https://medium.com/@arrasgotcha/from-403-forbidden-to-pii-exposure-how-i-escalated-a-low-severity-bug-to-a-high-p2-915a9b814ce6?source=rss------bug_bounty-5) 
 
- - 💯April 24, 2025 - [Inject, Exploit, Repeat: Real-World Adventures in XSS](https://medium.com/@es0557533/inject-exploit-repeat-real-world-adventures-in-xss-a8fd8f7066c8?source=rss------bug_bounty-5) 
+ - 💯April 25, 2025 - [Null Byte Injection Attack](https://medium.com/@adhamhashem2024/null-byte-injection-attack-a01de121e376?source=rss------bug_bounty-5) 
 
- - 💯April 24, 2025 - [Bug Hunting for Real: Tools, Tactics, and Truths No One Talks About](https://ehteshamulhaq198.medium.com/bug-hunting-for-real-tools-tactics-and-truths-no-one-talks-about-661f6786d5b3?source=rss------bug_bounty-5) 
+ - 💯April 25, 2025 - [We share a pool of $500k in the Bug Bounty event](https://medium.com/@kiyotosage/we-share-a-pool-of-500k-in-the-bug-bounty-event-3adf9e9cce0b?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
