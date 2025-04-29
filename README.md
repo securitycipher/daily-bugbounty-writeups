@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯April 28, 2025 - [How I Found a Broken Access Control That Exposed Interview Answers?](https://osintteam.blog/how-i-found-a-broken-access-control-vulnerability-that-exposed-interview-answers-e353128f6883?source=rss------bug_bounty-5) 
+ - 💯April 29, 2025 - [How can i find a Jenkins dashboard and ended up with Reverse Shell on shodan](https://medium.com/@fakechan443/how-can-i-find-a-jenkins-dashboard-and-ended-up-with-reverse-shell-with-shodan-31fcfb8db8b4?source=rss------bug_bounty-5) 
 
- - 💯April 28, 2025 - [How i Access The Deleted Files of Someone in Google Drive | Bug Bounty](https://ph-hitachi.medium.com/how-i-access-the-deleted-files-of-someone-in-google-drive-bug-bounty-eac134df1de4?source=rss------bug_bounty-5) 
+ - 💯April 29, 2025 - [Shadow Copy Forensics: Detecting and Investigating VSS Tampering](https://medium.com/@paritoshblogs/shadow-copy-forensics-detecting-and-investigating-vss-tampering-17c5bf555230?source=rss------bug_bounty-5) 
 
- - 💯April 28, 2025 - [How to Master Subdomain Takeovers in 2025](https://infosecwriteups.com/how-to-master-subdomain-takeovers-in-2025-023f9f4817af?source=rss------bug_bounty-5) 
+ - 💯April 29, 2025 - [SyncVault Bug Bounty Challenge](https://medium.com/@syncvault/syncvault-bug-bounty-challenge-bfd466be173c?source=rss------bug_bounty-5) 
 
- - 💯April 28, 2025 - [$500 Bounty: For a Simple Open Redirect](https://infosecwriteups.com/500-bounty-for-a-simple-open-redirect-a34051071a5c?source=rss------bug_bounty-5) 
+ - 💯April 29, 2025 - [️ The ULTIMATE Web App Hacking Checklist for Bug Bounty Hunters](https://redxcybersec.medium.com/%EF%B8%8F-the-ultimate-web-app-hacking-checklist-for-bug-bounty-hunters-a495b436ab6f?source=rss------bug_bounty-5) 
 
- - 💯April 28, 2025 - [☁️How to Setup a Custom Subdomain on xss.ht — A Complete Hacker&#39;s Guide](https://infosecwriteups.com/%EF%B8%8Fhow-to-setup-a-custom-subdomain-on-xss-ht-a-complete-hackers-guide-a0018704c391?source=rss------bug_bounty-5) 
+ - 💯April 29, 2025 - [GraphQL API hacking Series for Bug Hunters Part 02](https://medium.com/@lancersiromony/graphql-api-hacking-series-for-bug-hunters-part-02-837e0bc3be06?source=rss------bug_bounty-5) 
 
- - 💯April 28, 2025 - [Hunting Suspicious DLL Side-Loading Activity](https://medium.com/@paritoshblogs/hunting-suspicious-dll-side-loading-activity-5d919f018ac6?source=rss------bug_bounty-5) 
+ - 💯April 29, 2025 - [$100 Password Reset Flaw](https://osintteam.blog/100-password-reset-flaw-7827effebca2?source=rss------bug_bounty-5) 
 
- - 💯April 28, 2025 - [$500 XSS Payload in Slack](https://osintteam.blog/500-xss-payload-in-slack-0b99de50f4df?source=rss------bug_bounty-5) 
+ - 💯April 29, 2025 - [Password Recovery? More Like Account Delivery Host Header Injection Madness](https://medium.com/@loayahmed686/password-recovery-more-like-account-delivery-host-header-injection-madness-b0d0eb3a3b6d?source=rss------bug_bounty-5) 
 
- - 💯April 28, 2025 - [How I Made $12k in 48 Hours — By Recovering ‘Deleted’ Files](https://medium.com/@ibtissamhammadi/how-i-made-12k-in-48-hours-by-recovering-deleted-files-57bf7289ab9e?source=rss------bug_bounty-5) 
+ - 💯April 29, 2025 - [$500,000 to Catch STON.fi Bugs?! Let’s Get Hunting, STONfiers!](https://medium.com/@savesjustice/500-000-to-catch-ston-fi-bugs-lets-get-hunting-stonfiers-8e3c2ba6ad55?source=rss------bug_bounty-5) 
 
- - 💯April 27, 2025 - [Manual Testing for Privilege Escalation and Broken Access Control My &lpar;Methodology&rpar;](https://medium.com/@kroush333/manual-testing-for-privilege-escalation-and-broken-access-control-my-methodology-a3b9f41b82a2?source=rss------bug_bounty-5) 
+ - 💯April 29, 2025 - [Find .JS files of your bug bounty target&lpar;JS FILES RECON&rpar;](https://medium.com/@loyalonlytoday/find-js-files-of-your-bug-bounty-target-js-files-recon-306c3b169bae?source=rss------bug_bounty-5) 
 
- - 💯April 27, 2025 - [Hacking APIs: Attackers exploiting SSRF](https://iaraoz.medium.com/hacking-apis-attackers-exploiting-ssrf-57624d575987?source=rss------bug_bounty-5) 
+ - 💯April 28, 2025 - [How You Can Earn Up to $100,000 with STON.fi Bug Bounty Program](https://medium.com/@vlad2566/how-you-can-earn-up-to-100-000-with-ston-fi-bug-bounty-program-18861e0285e5?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
