@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 1, 2025 - [Crack Windows Password [Ethical Hacking Article]](https://infosecwriteups.com/crack-windows-password-ethical-hacking-article-cb3f0593fe58?source=rss------bug_bounty-5) 
+ - 💯May 2, 2025 - [$300 Bounty: SSRF to Cloud Metadata](https://infosecwriteups.com/300-bounty-ssrf-to-cloud-metadata-4c6a7dda9818?source=rss------bug_bounty-5) 
 
- - 💯May 1, 2025 - [Lab: Finding and exploiting an unused API endpoint](https://infosecwriteups.com/lab-finding-and-exploiting-an-unused-api-endpoint-79fa6744f21e?source=rss------bug_bounty-5) 
+ - 💯May 2, 2025 - [️‍♂️ Subdomain Enumeration Automation for Bug Bounty: Save Time, Hack Smart!](https://medium.com/@shadyfarouk1986/%EF%B8%8F-%EF%B8%8F-subdomain-enumeration-automation-for-bug-bounty-save-time-hack-smart-dd5d97eba1dc?source=rss------bug_bounty-5) 
 
- - 💯May 1, 2025 - [$500 Bounty: Hijacking HackerOne via window.opener](https://infosecwriteups.com/500-bounty-hijacking-hackerone-via-window-opener-e16700108e12?source=rss------bug_bounty-5) 
+ - 💯May 2, 2025 - [$400 Bounty: OAuth Token Theft in One Click](https://osintteam.blog/400-bounty-oauth-token-theft-in-one-click-4eb29b16d6dc?source=rss------bug_bounty-5) 
 
- - 💯May 1, 2025 - [How I bypassed an IP block… without changing my IP?](https://infosecwriteups.com/how-i-bypassed-an-ip-block-without-changing-my-ip-e8082a43957b?source=rss------bug_bounty-5) 
+ - 💯May 2, 2025 - [From File Upload to Credential Theft: My $1,000 Bounty Journey with Stored XSS](https://osintteam.blog/from-file-upload-to-credential-theft-my-1-000-bounty-journey-with-stored-xss-76d70ac53817?source=rss------bug_bounty-5) 
 
- - 💯May 1, 2025 - [From JS File to Jackpot: How I Found API Keys and Secrets Hidden in Production Code](https://infosecwriteups.com/from-js-file-to-jackpot-how-i-found-api-keys-and-secrets-hidden-in-production-code-87af8750b751?source=rss------bug_bounty-5) 
+ - 💯May 2, 2025 - [The Ultimate Guide to 403 Forbidden Bypass &lpar;2025 Edition&rpar;](https://osintteam.blog/the-ultimate-guide-to-403-forbidden-bypass-2025-edition-1b2e852e503e?source=rss------bug_bounty-5) 
 
- - 💯May 1, 2025 - [Techniques Implemented last month as a Bug Hunter](https://cybersecuritywriteups.com/techniques-implemented-last-month-as-a-bug-hunter-f0e6af9cb12e?source=rss------bug_bounty-5) 
+ - 💯May 2, 2025 - [Finding more subdomains&lpar;part 4&rpar;](https://medium.com/@loyalonlytoday/finding-more-subdomains-part-4-a9bdde09f052?source=rss------bug_bounty-5) 
 
- - 💯May 1, 2025 - [Bypassing Email Verification to Hijack Any Account — No User Interaction Needed](https://medium.com/@Tanvir0x1/bypassing-email-verification-to-hijack-any-account-no-user-interaction-needed-58539b18f36a?source=rss------bug_bounty-5) 
+ - 💯May 2, 2025 - [Missed Horizontal Privilege Escalation in a Bug Bounty Program!](https://spider7.medium.com/missed-horizontal-privilege-escalation-in-a-bug-bounty-program-d7134b2ffa01?source=rss------bug_bounty-5) 
 
- - 💯May 1, 2025 - [Session Reuse After Logout: Vulnerability Report on Improper Session Invalidation](https://medium.com/@FufuFaf1/session-reuse-after-logout-vulnerability-report-on-improper-session-invalidation-3e6a8d3d1707?source=rss------bug_bounty-5) 
+ - 💯May 1, 2025 - [Need guidance in bug bounty](https://medium.com/@shahin3541/need-guidance-in-bug-bounty-a5171d591dec?source=rss------bug_bounty-5) 
 
- - 💯May 1, 2025 - [SSRF PAYLOADS [ HARVEST CRITICAL FILES AND CREDENTIAL](https://medium.com/@rr-1k/ssrf-payloads-harvest-critical-files-and-credential-261e5b2beda4?source=rss------bug_bounty-5) 
-
- - 💯May 1, 2025 - [Important tool for Pentesters &amp; Bug hunters](https://medium.com/@loyalonlytoday/important-tool-for-pentesters-bug-hunters-ea33ab1269b6?source=rss------bug_bounty-5) 
+ - 💯May 1, 2025 - [How I Found a $5K Bug in JavaScript — A Bug Bounty Story](https://krishna-cyber.medium.com/how-i-found-a-5k-bug-in-javascript-a-bug-bounty-story-dba44140efab?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
