@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 2, 2025 - [$300 Bounty: SSRF to Cloud Metadata](https://infosecwriteups.com/300-bounty-ssrf-to-cloud-metadata-4c6a7dda9818?source=rss------bug_bounty-5) 
+ - 💯May 3, 2025 - [Bugged by Backup Files: How .zip and .bak Gave Me the Source Code](https://infosecwriteups.com/bugged-by-backup-files-how-zip-and-bak-gave-me-the-source-code-872a376b0b2b?source=rss------bug_bounty-5) 
 
- - 💯May 2, 2025 - [️‍♂️ Subdomain Enumeration Automation for Bug Bounty: Save Time, Hack Smart!](https://medium.com/@shadyfarouk1986/%EF%B8%8F-%EF%B8%8F-subdomain-enumeration-automation-for-bug-bounty-save-time-hack-smart-dd5d97eba1dc?source=rss------bug_bounty-5) 
+ - 💯May 3, 2025 - [How I Found Internal Dashboards Using Google Dorks + OSINT](https://infosecwriteups.com/how-i-found-internal-dashboards-using-google-dorks-osint-5f2c9515fcd6?source=rss------bug_bounty-5) 
 
- - 💯May 2, 2025 - [$400 Bounty: OAuth Token Theft in One Click](https://osintteam.blog/400-bounty-oauth-token-theft-in-one-click-4eb29b16d6dc?source=rss------bug_bounty-5) 
+ - 💯May 3, 2025 - [IDOR Attacks Made Simple: How Hackers Access Unauthorized Data](https://infosecwriteups.com/idor-attacks-made-simple-how-hackers-access-unauthorized-data-ca1158d18190?source=rss------bug_bounty-5) 
 
- - 💯May 2, 2025 - [From File Upload to Credential Theft: My $1,000 Bounty Journey with Stored XSS](https://osintteam.blog/from-file-upload-to-credential-theft-my-1-000-bounty-journey-with-stored-xss-76d70ac53817?source=rss------bug_bounty-5) 
+ - 💯May 3, 2025 - [$4,323 Bounty Alert](https://infosecwriteups.com/4-323-bounty-alert-4af6e66bb8c1?source=rss------bug_bounty-5) 
 
- - 💯May 2, 2025 - [The Ultimate Guide to 403 Forbidden Bypass &lpar;2025 Edition&rpar;](https://osintteam.blog/the-ultimate-guide-to-403-forbidden-bypass-2025-edition-1b2e852e503e?source=rss------bug_bounty-5) 
+ - 💯May 3, 2025 - [Breaking in Unpardoned.](https://medium.com/h7w/breaking-in-unpardoned-02f64d4f412e?source=rss------bug_bounty-5) 
 
- - 💯May 2, 2025 - [Finding more subdomains&lpar;part 4&rpar;](https://medium.com/@loyalonlytoday/finding-more-subdomains-part-4-a9bdde09f052?source=rss------bug_bounty-5) 
+ - 💯May 3, 2025 - [$750 Bounty: Two-factor Authentication](https://osintteam.blog/750-bounty-two-factor-authentication-5241a45e7fc1?source=rss------bug_bounty-5) 
 
- - 💯May 2, 2025 - [Missed Horizontal Privilege Escalation in a Bug Bounty Program!](https://spider7.medium.com/missed-horizontal-privilege-escalation-in-a-bug-bounty-program-d7134b2ffa01?source=rss------bug_bounty-5) 
+ - 💯May 2, 2025 - [Privilege Escalation to Super Admin via Mass Assessment in a Multi-Tenant Laravel App](https://medium.com/@rahulms_71093/privilege-escalation-to-super-admin-via-mass-assessment-in-a-multi-tenant-laravel-app-526d1309de73?source=rss------bug_bounty-5) 
 
- - 💯May 1, 2025 - [Need guidance in bug bounty](https://medium.com/@shahin3541/need-guidance-in-bug-bounty-a5171d591dec?source=rss------bug_bounty-5) 
+ - 💯May 2, 2025 - [The Ultimate Web Application Hacking Checklist &lpar;2025 Edition&rpar;](https://medium.com/@ZishanAdThandar/the-ultimate-web-application-hacking-checklist-2025-edition-eea1a0a23977?source=rss------bug_bounty-5) 
 
- - 💯May 1, 2025 - [How I Found a $5K Bug in JavaScript — A Bug Bounty Story](https://krishna-cyber.medium.com/how-i-found-a-5k-bug-in-javascript-a-bug-bounty-story-dba44140efab?source=rss------bug_bounty-5) 
+ - 💯May 2, 2025 - [Breaking OTPs in the Real World: How Design Flaws Led to Full Account Takeover](https://medium.com/@Arioex/breaking-otps-in-the-real-world-how-design-flaws-led-to-full-account-takeover-46a09f95eaba?source=rss------bug_bounty-5) 
+
+ - 💯May 2, 2025 - [How I Built the Ultimate Web Hacking Checklist — And Why It’s Helping Bug Bounty Hunters Win More](https://medium.com/@ZishanAdThandar/how-i-built-the-ultimate-web-hacking-checklist-and-why-its-helping-bug-bounty-hunters-win-more-d6ef0cb8dc4b?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
