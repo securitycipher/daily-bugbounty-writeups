@@ -2,23 +2,19 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 3, 2025 - [Bugged by Backup Files: How .zip and .bak Gave Me the Source Code](https://infosecwriteups.com/bugged-by-backup-files-how-zip-and-bak-gave-me-the-source-code-872a376b0b2b?source=rss------bug_bounty-5) 
+ - 💯May 4, 2025 - [WordPress User Enumeration via author-sitemap.xml on Payapps.com](https://medium.com/@regan_temudo/wordpress-user-enumeration-via-author-sitemap-xml-on-payapps-com-5ffad0ca1cc2?source=rss------bug_bounty-5) 
 
- - 💯May 3, 2025 - [How I Found Internal Dashboards Using Google Dorks + OSINT](https://infosecwriteups.com/how-i-found-internal-dashboards-using-google-dorks-osint-5f2c9515fcd6?source=rss------bug_bounty-5) 
+ - 💯May 4, 2025 - [$800 Bounty: Account Takeover in Shopify](https://infosecwriteups.com/800-bounty-account-takeover-in-shopify-f4394ee37975?source=rss------bug_bounty-5) 
 
- - 💯May 3, 2025 - [IDOR Attacks Made Simple: How Hackers Access Unauthorized Data](https://infosecwriteups.com/idor-attacks-made-simple-how-hackers-access-unauthorized-data-ca1158d18190?source=rss------bug_bounty-5) 
+ - 💯May 4, 2025 - [$3750 Bounty: Account Creation with Invalid Email Addresses](https://infosecwriteups.com/3750-bounty-account-creation-with-invalid-email-addresses-aca169eddcc7?source=rss------bug_bounty-5) 
 
- - 💯May 3, 2025 - [$4,323 Bounty Alert](https://infosecwriteups.com/4-323-bounty-alert-4af6e66bb8c1?source=rss------bug_bounty-5) 
+ - 💯May 4, 2025 - [Using VirusTotal Graphs and Retro Hunt for IOC Discovery](https://medium.com/@paritoshblogs/using-virustotal-graphs-and-retro-hunt-for-ioc-discovery-d1c4b4e209b4?source=rss------bug_bounty-5) 
 
- - 💯May 3, 2025 - [Breaking in Unpardoned.](https://medium.com/h7w/breaking-in-unpardoned-02f64d4f412e?source=rss------bug_bounty-5) 
+ - 💯May 4, 2025 - [Bypassing 2FA in a Public Bug Bounty Program: A $6000 Journey](https://mokhansec.medium.com/bypassing-2fa-in-a-public-bug-bounty-program-a-6000-journey-bae8a5418461?source=rss------bug_bounty-5) 
 
- - 💯May 3, 2025 - [$750 Bounty: Two-factor Authentication](https://osintteam.blog/750-bounty-two-factor-authentication-5241a45e7fc1?source=rss------bug_bounty-5) 
+ - 💯May 4, 2025 - [Mastering Event Handlers in JavaScript and HTML: The Complete Guide with Examples](https://medium.com/@zoningxtr/mastering-event-handlers-in-javascript-and-html-the-complete-guide-with-examples-60ef2c4d025b?source=rss------bug_bounty-5) 
 
- - 💯May 2, 2025 - [Privilege Escalation to Super Admin via Mass Assessment in a Multi-Tenant Laravel App](https://medium.com/@rahulms_71093/privilege-escalation-to-super-admin-via-mass-assessment-in-a-multi-tenant-laravel-app-526d1309de73?source=rss------bug_bounty-5) 
+ - 💯May 4, 2025 - [Mastering Boundary Value Analysis: Guide to Uncovering Hidden Bugs](https://medium.com/@sajith-dilshan/mastering-boundary-value-analysis-guide-to-uncovering-hidden-bugs-4eb58b43899b?source=rss------bug_bounty-5) 
 
- - 💯May 2, 2025 - [The Ultimate Web Application Hacking Checklist &lpar;2025 Edition&rpar;](https://medium.com/@ZishanAdThandar/the-ultimate-web-application-hacking-checklist-2025-edition-eea1a0a23977?source=rss------bug_bounty-5) 
-
- - 💯May 2, 2025 - [Breaking OTPs in the Real World: How Design Flaws Led to Full Account Takeover](https://medium.com/@Arioex/breaking-otps-in-the-real-world-how-design-flaws-led-to-full-account-takeover-46a09f95eaba?source=rss------bug_bounty-5) 
-
- - 💯May 2, 2025 - [How I Built the Ultimate Web Hacking Checklist — And Why It’s Helping Bug Bounty Hunters Win More](https://medium.com/@ZishanAdThandar/how-i-built-the-ultimate-web-hacking-checklist-and-why-its-helping-bug-bounty-hunters-win-more-d6ef0cb8dc4b?source=rss------bug_bounty-5) 
+ - 💯May 4, 2025 - [$505 Bounty: Denial of Service Vulnerability](https://osintteam.blog/505-bounty-denial-of-service-vulnerability-bd6daef5fe8a?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
