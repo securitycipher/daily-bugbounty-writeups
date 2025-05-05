@@ -2,19 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 4, 2025 - [WordPress User Enumeration via author-sitemap.xml on Payapps.com](https://medium.com/@regan_temudo/wordpress-user-enumeration-via-author-sitemap-xml-on-payapps-com-5ffad0ca1cc2?source=rss------bug_bounty-5) 
+ - 💯May 5, 2025 - [Snapdroid: One-Click Android PoC Capture for Bug Bounty Hunters &amp; Pentesters](https://medium.com/@dr34mb0y/snapdroid-one-click-android-poc-capture-for-bug-bounty-hunters-pentesters-2f7a44bf5582?source=rss------bug_bounty-5) 
 
- - 💯May 4, 2025 - [$800 Bounty: Account Takeover in Shopify](https://infosecwriteups.com/800-bounty-account-takeover-in-shopify-f4394ee37975?source=rss------bug_bounty-5) 
+ - 💯May 5, 2025 - [Stop Wasting Time: Build a CTI Collection Plan That Actually Works!](https://medium.com/@paritoshblogs/stop-wasting-time-build-a-cti-collection-plan-that-actually-works-6edb5181a383?source=rss------bug_bounty-5) 
 
- - 💯May 4, 2025 - [$3750 Bounty: Account Creation with Invalid Email Addresses](https://infosecwriteups.com/3750-bounty-account-creation-with-invalid-email-addresses-aca169eddcc7?source=rss------bug_bounty-5) 
+ - 💯May 4, 2025 - [Best Bug Bounty Programs to Kickstart Your Bug Bounty Journey](https://ismailtasdelen.medium.com/best-bug-bounty-programs-to-kickstart-your-bug-bounty-journey-4673d1192389?source=rss------bug_bounty-5) 
 
- - 💯May 4, 2025 - [Using VirusTotal Graphs and Retro Hunt for IOC Discovery](https://medium.com/@paritoshblogs/using-virustotal-graphs-and-retro-hunt-for-ioc-discovery-d1c4b4e209b4?source=rss------bug_bounty-5) 
+ - 💯May 4, 2025 - [SQLi in .gov.in Exposed Millions of Aadhaar, Bank Data and Personal Data](https://medium.com/@pkhuyar/sqli-in-gov-in-exposed-millions-of-aadhaar-bank-data-and-personal-data-0bde62a649aa?source=rss------bug_bounty-5) 
 
- - 💯May 4, 2025 - [Bypassing 2FA in a Public Bug Bounty Program: A $6000 Journey](https://mokhansec.medium.com/bypassing-2fa-in-a-public-bug-bounty-program-a-6000-journey-bae8a5418461?source=rss------bug_bounty-5) 
+ - 💯May 4, 2025 - [Understanding Server Side Template Injection &lpar;SSTI&rpar;](https://medium.com/@natarajanck2/understanding-server-side-template-injection-ssti-1cb0465dd46d?source=rss------bug_bounty-5) 
 
- - 💯May 4, 2025 - [Mastering Event Handlers in JavaScript and HTML: The Complete Guide with Examples](https://medium.com/@zoningxtr/mastering-event-handlers-in-javascript-and-html-the-complete-guide-with-examples-60ef2c4d025b?source=rss------bug_bounty-5) 
+ - 💯May 4, 2025 - [MQTT &lpar;Message Queuing Telemetry Transport&rpar; — Port 1883 — How to exploit?](https://medium.com/@verylazytech/mqtt-message-queuing-telemetry-transport-port-1883-how-to-exploit-3ee2f6510bf4?source=rss------bug_bounty-5) 
 
- - 💯May 4, 2025 - [Mastering Boundary Value Analysis: Guide to Uncovering Hidden Bugs](https://medium.com/@sajith-dilshan/mastering-boundary-value-analysis-guide-to-uncovering-hidden-bugs-4eb58b43899b?source=rss------bug_bounty-5) 
+ - 💯May 4, 2025 - [CLOUD OSINT](https://medium.com/@rr-1k/cloud-osint-0e259c256008?source=rss------bug_bounty-5) 
 
- - 💯May 4, 2025 - [$505 Bounty: Denial of Service Vulnerability](https://osintteam.blog/505-bounty-denial-of-service-vulnerability-bd6daef5fe8a?source=rss------bug_bounty-5) 
+ - 💯May 4, 2025 - [How I Found My Favorite Bug in a Top Bug Bounty Program](https://medium.com/@mahdisalhi0500/how-i-found-my-favorite-bug-in-a-top-bug-bounty-program-bbeb36e898f8?source=rss------bug_bounty-5) 
+
+ - 💯May 4, 2025 - [Beautiful open redirect on Google.com](https://biswajeetray7.medium.com/beautiful-open-redirect-on-google-com-752c98a80b7d?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
