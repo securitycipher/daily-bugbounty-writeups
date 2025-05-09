@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 8, 2025 - [A Guide to SQL Injection Attacks: Hackers Don’t Want You to Know This!](https://infosecwriteups.com/a-guide-to-sql-injection-attacks-hackers-dont-want-you-to-know-this-a9837f711f6b?source=rss------bug_bounty-5) 
+ - 💯May 9, 2025 - [JS File Reconnaissance In Web Hacking](https://medium.com/@SysSecureLabs/js-file-reconnaissance-in-web-hacking-436215909594?source=rss------bug_bounty-5) 
 
- - 💯May 8, 2025 - [Tool Review — TraceWeb.io Extension](https://infosecwriteups.com/tool-review-traceweb-io-extension-5fdf79396e21?source=rss------bug_bounty-5) 
+ - 💯May 9, 2025 - [$50,000 Bounty: GitHub Access Token](https://infosecwriteups.com/50-000-bounty-github-access-token-c29cb6f00182?source=rss------bug_bounty-5) 
 
- - 💯May 8, 2025 - [$100 Bounty: How a Spoofed Email Could Change Any Username on HackerOne](https://infosecwriteups.com/100-bounty-how-a-spoofed-email-could-change-any-username-on-hackerone-8efd98ab44f5?source=rss------bug_bounty-5) 
+ - 💯May 9, 2025 - [$840 Bounty: How I Stole OAuth Tokens from Twitter](https://infosecwriteups.com/840-bounty-how-i-stole-oauth-tokens-from-twitter-733f82857eda?source=rss------bug_bounty-5) 
 
- - 💯May 8, 2025 - [Bug Hunting in JS Files: Tricks, Tools, and Real-World POCs](https://infosecwriteups.com/bug-hunting-in-js-files-tricks-tools-and-real-world-pocs-70406e3eb72e?source=rss------bug_bounty-5) 
+ - 💯May 9, 2025 - [OttoKit WordPress Plugin Hacked: How 100K+ Sites Fell Prey to Sneaky Exploits ️‍♂️](https://ismailtasdelen.medium.com/ottokit-wordpress-plugin-hacked-how-100k-sites-fell-prey-to-sneaky-exploits-%EF%B8%8F-%EF%B8%8F-3c8ddac468e8?source=rss------bug_bounty-5) 
 
- - 💯May 8, 2025 - [Shifting Left with Vulnerability Management: Security as Code](https://medium.com/@paritoshblogs/shifting-left-with-vulnerability-management-security-as-code-353c206db2de?source=rss------bug_bounty-5) 
+ - 💯May 9, 2025 - [️Recon Automation Like a Pro: My 5-Stage System to Catch More Bugs](https://infosecwriteups.com/%EF%B8%8Frecon-automation-like-a-pro-my-5-stage-system-to-catch-more-bugs-4fff7b7c4726?source=rss------bug_bounty-5) 
 
- - 💯May 8, 2025 - [No Auth, No Problem: The API Vulnerability That Led to Full Account Takeover](https://akr3ch.medium.com/no-auth-no-problem-the-api-vulnerability-that-led-to-full-account-takeover-199c6d7e7fa7?source=rss------bug_bounty-5) 
+ - 💯May 9, 2025 - [Improve your cybersecurity skills](https://medium.com/@loyalonlytoday/improve-your-cybersecurity-skills-5cdb31d40a4f?source=rss------bug_bounty-5) 
 
- - 💯May 7, 2025 - [OttoKit WordPress Plugin Exploit Hackers Create Rogue Admin Account](https://wiretor.medium.com/ottokit-wordpress-plugin-exploit-hackers-create-rogue-admin-account-7e654c49e719?source=rss------bug_bounty-5) 
+ - 💯May 9, 2025 - [XSS Explained: A Complete Guide to Cross-Site Scripting with Practical Examples](https://medium.com/@mazene432/xss-explained-a-complete-guide-to-cross-site-scripting-with-practical-examples-80453349b35f?source=rss------bug_bounty-5) 
 
- - 💯May 7, 2025 - [Compress-a-thon — Web Exploitation — Pentathon 2025](https://medium.com/@dassomnath/compress-a-thon-web-exploitation-pentathon-2025-fea9adf9fa6b?source=rss------bug_bounty-5) 
+ - 💯May 8, 2025 - [$5000 Bounty: Critical Stored XSS](https://osintteam.blog/5000-bounty-critical-stored-xss-e93c1730eccc?source=rss------bug_bounty-5) 
 
- - 💯May 7, 2025 - [Docker — Port 2375,2376 — How to exploit?](https://medium.com/@verylazytech/docker-port-2375-2376-how-to-exploit-8faa8d70a7ab?source=rss------bug_bounty-5) 
-
- - 💯May 7, 2025 - [Discovering a Blind XSS Vulnerability in the Platform AI](https://medium.com/@Saeiez/discovering-a-blind-xss-vulnerability-in-the-platform-1fa45a6621db?source=rss------bug_bounty-5) 
+ - 💯May 8, 2025 - [Mastering Host Header Injection: Techniques, Payloads and Real-World Scenarios](https://osintteam.blog/mastering-host-header-injection-techniques-payloads-and-real-world-scenarios-e00c9e1f85cd?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
