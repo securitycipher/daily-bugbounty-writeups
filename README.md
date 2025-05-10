@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 9, 2025 - [JS File Reconnaissance In Web Hacking](https://medium.com/@SysSecureLabs/js-file-reconnaissance-in-web-hacking-436215909594?source=rss------bug_bounty-5) 
+ - 💯May 10, 2025 - [Blind XXE Attacks via Out-of-Band Interaction Using Burp Collaborator](https://bashoverflow.medium.com/blind-xxe-attacks-via-out-of-band-interaction-using-burp-collaborator-af0abd7c7d25?source=rss------bug_bounty-5) 
 
- - 💯May 9, 2025 - [$50,000 Bounty: GitHub Access Token](https://infosecwriteups.com/50-000-bounty-github-access-token-c29cb6f00182?source=rss------bug_bounty-5) 
+ - 💯May 10, 2025 - [Securing and Consuming APIs in the Cloud: A Complete Journey from Provider to Customer](https://medium.com/@zoningxtr/securing-and-consuming-apis-in-the-cloud-a-complete-journey-from-provider-to-customer-d7c0f736b84d?source=rss------bug_bounty-5) 
 
- - 💯May 9, 2025 - [$840 Bounty: How I Stole OAuth Tokens from Twitter](https://infosecwriteups.com/840-bounty-how-i-stole-oauth-tokens-from-twitter-733f82857eda?source=rss------bug_bounty-5) 
+ - 💯May 10, 2025 - [Hidden HackerOne &amp; Bugcrowd Programs: How to Get Private Invites](https://infosecwriteups.com/hidden-hackerone-bugcrowd-programs-how-to-get-private-invites-74f8e8ce38c4?source=rss------bug_bounty-5) 
 
- - 💯May 9, 2025 - [OttoKit WordPress Plugin Hacked: How 100K+ Sites Fell Prey to Sneaky Exploits ️‍♂️](https://ismailtasdelen.medium.com/ottokit-wordpress-plugin-hacked-how-100k-sites-fell-prey-to-sneaky-exploits-%EF%B8%8F-%EF%B8%8F-3c8ddac468e8?source=rss------bug_bounty-5) 
+ - 💯May 10, 2025 - [How to Build an Internal Security Review Checklist Before Every Deployment ✅](https://securrtech.medium.com/how-to-build-an-internal-security-review-checklist-before-every-deployment-2c84910293aa?source=rss------bug_bounty-5) 
 
- - 💯May 9, 2025 - [️Recon Automation Like a Pro: My 5-Stage System to Catch More Bugs](https://infosecwriteups.com/%EF%B8%8Frecon-automation-like-a-pro-my-5-stage-system-to-catch-more-bugs-4fff7b7c4726?source=rss------bug_bounty-5) 
+ - 💯May 10, 2025 - [Core Banking System Architecture Explained: Layers, Components, and Security](https://medium.com/@zoningxtr/core-banking-system-architecture-explained-layers-components-and-security-72368ff7aed8?source=rss------bug_bounty-5) 
 
- - 💯May 9, 2025 - [Improve your cybersecurity skills](https://medium.com/@loyalonlytoday/improve-your-cybersecurity-skills-5cdb31d40a4f?source=rss------bug_bounty-5) 
+ - 💯May 10, 2025 - [Beyond Patch Tuesday: Managing Vulnerabilities in Real-Time](https://medium.com/@paritoshblogs/beyond-patch-tuesday-managing-vulnerabilities-in-real-time-63dbfa6ac92f?source=rss------bug_bounty-5) 
 
- - 💯May 9, 2025 - [XSS Explained: A Complete Guide to Cross-Site Scripting with Practical Examples](https://medium.com/@mazene432/xss-explained-a-complete-guide-to-cross-site-scripting-with-practical-examples-80453349b35f?source=rss------bug_bounty-5) 
+ - 💯May 10, 2025 - [More Than Broken Access: The Real Power of IDORs](https://medium.com/@xerox0x1/more-than-broken-access-the-real-power-of-idors-a50763e9ff8d?source=rss------bug_bounty-5) 
 
- - 💯May 8, 2025 - [$5000 Bounty: Critical Stored XSS](https://osintteam.blog/5000-bounty-critical-stored-xss-e93c1730eccc?source=rss------bug_bounty-5) 
+ - 💯May 9, 2025 - [$15,000 Bounty: Found a Critical Vulnerability in Snapchat](https://medium.com/meetcyber/15-000-bounty-found-a-critical-vulnerability-in-snapchat-377176a0f0eb?source=rss------bug_bounty-5) 
 
- - 💯May 8, 2025 - [Mastering Host Header Injection: Techniques, Payloads and Real-World Scenarios](https://osintteam.blog/mastering-host-header-injection-techniques-payloads-and-real-world-scenarios-e00c9e1f85cd?source=rss------bug_bounty-5) 
+ - 💯May 9, 2025 - [Mastering 403 Bypasses](https://medium.com/@XEyeSecurity/mastering-403-bypasses-cf6d1919404e?source=rss------bug_bounty-5) 
+
+ - 💯May 9, 2025 - [⚔️ How I Hijacked Password Reset Links with One Sneaky Header Injection](https://root-geek.medium.com/%EF%B8%8F-how-i-hijacked-password-reset-links-with-one-sneaky-header-injection-47a0db51bfd9?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
