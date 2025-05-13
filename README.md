@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 11, 2025 - [Confessions of a Bug Bounty Hunter: Tales from the Digital Jungle](https://bevijaygupta.medium.com/confessions-of-a-bug-bounty-hunter-tales-from-the-digital-jungle-892e188bc282?source=rss------bug_bounty-5) 
+ - 💯May 13, 2025 - [Researcher Yuvi — My Cybersecurity Journey at 16](https://medium.com/@codewithyuvi/researcher-yuvi-my-cybersecurity-journey-at-16-e3dde09fba78?source=rss------bug_bounty-5) 
 
- - 💯May 11, 2025 - [5 Places XSS Hides in Modern Bootstrap Apps &lpar;and How to Find Them&rpar;](https://medium.com/@killuaX/5-places-xss-hides-in-modern-bootstrap-apps-and-how-to-find-them-d22ec62c8359?source=rss------bug_bounty-5) 
+ - 💯May 13, 2025 - [Bypassing CSRF Protections](https://medium.com/@itamar.yochpaz/bypassing-csrf-protections-7db64f26b9e5?source=rss------bug_bounty-5) 
 
- - 💯May 11, 2025 - [API Key Exposure in NASA GitHub Repository Leads to Unauthorized Access to Academic Data](https://infosecwriteups.com/api-key-exposure-in-nasa-github-repository-leads-to-unauthorized-access-to-academic-data-816bfb6ffede?source=rss------bug_bounty-5) 
+ - 💯May 13, 2025 - [$256 Bounty : XSS via Web Cache Poisoning in Discourse](https://infosecwriteups.com/256-bounty-xss-via-web-cache-poisoning-in-discourse-594d5961555e?source=rss------bug_bounty-5) 
 
- - 💯May 11, 2025 - [$16,000 Bounty: Stored XSS in GitLab](https://infosecwriteups.com/16-000-bounty-stored-xss-in-gitlab-a0f57e5c4245?source=rss------bug_bounty-5) 
+ - 💯May 13, 2025 - [How Hackers Bypass Login Pages with SQL, Logic Flaws, and Headers](https://infosecwriteups.com/how-hackers-bypass-login-pages-with-sql-logic-flaws-and-headers-567a5649e701?source=rss------bug_bounty-5) 
 
- - 💯May 10, 2025 - [$9,400 Bounty: XSS in Shopify’s Jamf Pro via Exposed Swagger UI](https://osintteam.blog/9-400-bounty-xss-in-shopifys-jamf-pro-via-exposed-swagger-ui-7b029a4be766?source=rss------bug_bounty-5) 
+ - 💯May 13, 2025 - [Forget Me Not: How Broken Logout Functionality Let Me Ride Sessions Forever](https://infosecwriteups.com/forget-me-not-how-broken-logout-functionality-let-me-ride-sessions-forever-3435e6d98845?source=rss------bug_bounty-5) 
 
- - 💯May 10, 2025 - [Making Your First $1,000 in Bug Bounties: A Practical Roadmap for Aspiring Hackers](https://medium.com/@maxwellcross/making-your-first-1-000-in-bug-bounties-a-practical-roadmap-for-aspiring-hackers-0b74a89c76a9?source=rss------bug_bounty-5) 
+ - 💯May 13, 2025 - [The $1,000 Recon Trick: One Command That Changed My Hunting Game](https://infosecwriteups.com/the-1-000-recon-trick-one-command-that-changed-my-hunting-game-58527a7f6d7c?source=rss------bug_bounty-5) 
 
- - 💯May 10, 2025 - [HTML Injection](https://medium.com/@fatimahasan022/html-injection-33a2ba6d7562?source=rss------bug_bounty-5) 
+ - 💯May 13, 2025 - [Inside the Shadows: Why HTTP Smuggling Still Breaks the Web](https://medium.com/@es0557533/inside-the-shadows-why-http-smuggling-still-breaks-the-web-c81c69577fdd?source=rss------bug_bounty-5) 
 
- - 💯May 10, 2025 - [LockBit Ransomware Gang Hacked: Internal Data &amp; Victim Chats Leaked](https://wiretor.medium.com/lockbit-ransomware-gang-hacked-internal-data-victim-chats-leaked-05b1adc7e123?source=rss------bug_bounty-5) 
+ - 💯May 13, 2025 - [The Human Firewall: Why Your Employees Are Both Your Greatest Vulnerability and Asset](https://infosecwriteups.com/the-human-firewall-why-your-employees-are-both-your-greatest-vulnerability-and-asset-76a93b879bae?source=rss------bug_bounty-5) 
 
- - 💯May 10, 2025 - [How I Earned 100 euros in 4 Hours as a Beginner Bug Bounty Hunter](https://medium.com/@nn.nkp007/how-i-earned-100-euros-in-4-hours-as-a-beginner-bug-bounty-hunter-623530ba8bf5?source=rss------bug_bounty-5) 
+ - 💯May 12, 2025 - [$1,120 Bounty: Clickjacking Vulnerability in Twitter Periscope](https://osintteam.blog/1-120-bounty-clickjacking-vulnerability-in-twitter-periscope-b46e8dfc8915?source=rss------bug_bounty-5) 
+
+ - 💯May 12, 2025 - [Unauthenticated Cache Purging Vulnerability](https://00x.medium.com/unauthenticated-cache-purging-vulnerability-29f2641fcbb8?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
