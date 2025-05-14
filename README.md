@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 13, 2025 - [Researcher Yuvi — My Cybersecurity Journey at 16](https://medium.com/@codewithyuvi/researcher-yuvi-my-cybersecurity-journey-at-16-e3dde09fba78?source=rss------bug_bounty-5) 
+ - 💯May 14, 2025 - [Title: Filter Failure: From HTML Injection to Full-Blown XSS via Rich Text Editors](https://infosecwriteups.com/title-filter-failure-from-html-injection-to-full-blown-xss-via-rich-text-editors-af6809e248b4?source=rss------bug_bounty-5) 
 
- - 💯May 13, 2025 - [Bypassing CSRF Protections](https://medium.com/@itamar.yochpaz/bypassing-csrf-protections-7db64f26b9e5?source=rss------bug_bounty-5) 
+ - 💯May 14, 2025 - [Ethical Hacking Guide: Penetration Testing Apache Tomcat &lpar;2025 Edition&rpar;](https://medium.com/@verylazytech/ethical-hacking-guide-penetration-testing-apache-tomcat-2025-edition-01dc367f070c?source=rss------bug_bounty-5) 
 
- - 💯May 13, 2025 - [$256 Bounty : XSS via Web Cache Poisoning in Discourse](https://infosecwriteups.com/256-bounty-xss-via-web-cache-poisoning-in-discourse-594d5961555e?source=rss------bug_bounty-5) 
+ - 💯May 14, 2025 - [My First Year in Bug Bounty $$](https://infosecwriteups.com/my-first-year-in-bug-bounty-9c87e0b68ac4?source=rss------bug_bounty-5) 
 
- - 💯May 13, 2025 - [How Hackers Bypass Login Pages with SQL, Logic Flaws, and Headers](https://infosecwriteups.com/how-hackers-bypass-login-pages-with-sql-logic-flaws-and-headers-567a5649e701?source=rss------bug_bounty-5) 
+ - 💯May 14, 2025 - [JWT Exploitation: How I Forged Tokens and Took Over Accounts](https://infosecwriteups.com/jwt-exploitation-how-i-forged-tokens-and-took-over-accounts-2e7ab1cf4df8?source=rss------bug_bounty-5) 
 
- - 💯May 13, 2025 - [Forget Me Not: How Broken Logout Functionality Let Me Ride Sessions Forever](https://infosecwriteups.com/forget-me-not-how-broken-logout-functionality-let-me-ride-sessions-forever-3435e6d98845?source=rss------bug_bounty-5) 
+ - 💯May 13, 2025 - [Introducing DomainRecon: Your Advanced WHOIS &amp; DNS Intelligence Tool](https://medium.com/@N0aziXss/introducing-domainrecon-your-advanced-whois-dns-intelligence-tool-9e2dc63ae774?source=rss------bug_bounty-5) 
 
- - 💯May 13, 2025 - [The $1,000 Recon Trick: One Command That Changed My Hunting Game](https://infosecwriteups.com/the-1-000-recon-trick-one-command-that-changed-my-hunting-game-58527a7f6d7c?source=rss------bug_bounty-5) 
+ - 💯May 13, 2025 - [Upload Vulns](https://medium.com/@julius.grosserode.19/upload-vulns-3c139f507b28?source=rss------bug_bounty-5) 
 
- - 💯May 13, 2025 - [Inside the Shadows: Why HTTP Smuggling Still Breaks the Web](https://medium.com/@es0557533/inside-the-shadows-why-http-smuggling-still-breaks-the-web-c81c69577fdd?source=rss------bug_bounty-5) 
+ - 💯May 13, 2025 - [$$ bounty via unique username bypass](https://medium.com/legionhunters/bounty-via-unique-username-bypass-26f2c76f5ee7?source=rss------bug_bounty-5) 
 
- - 💯May 13, 2025 - [The Human Firewall: Why Your Employees Are Both Your Greatest Vulnerability and Asset](https://infosecwriteups.com/the-human-firewall-why-your-employees-are-both-your-greatest-vulnerability-and-asset-76a93b879bae?source=rss------bug_bounty-5) 
+ - 💯May 13, 2025 - [My Exceptional SSRF Finding](https://medium.com/@nocley/my-exceptional-ssrf-finding-73e8039e3a22?source=rss------bug_bounty-5) 
 
- - 💯May 12, 2025 - [$1,120 Bounty: Clickjacking Vulnerability in Twitter Periscope](https://osintteam.blog/1-120-bounty-clickjacking-vulnerability-in-twitter-periscope-b46e8dfc8915?source=rss------bug_bounty-5) 
+ - 💯May 13, 2025 - [ASUS DriverHub Vulnerability Exposes Users to Remote Code Execution](https://wiretor.medium.com/asus-driverhub-vulnerability-exposes-users-to-remote-code-execution-1f924851eeac?source=rss------bug_bounty-5) 
 
- - 💯May 12, 2025 - [Unauthenticated Cache Purging Vulnerability](https://00x.medium.com/unauthenticated-cache-purging-vulnerability-29f2641fcbb8?source=rss------bug_bounty-5) 
+ - 💯May 13, 2025 - [Bug Bounty Roadmap 2025: The Complete Guide to Becoming a Professional Ethical Hacker](https://medium.com/@jiniyaasma8/bug-bounty-roadmap-2025-the-complete-guide-to-becoming-a-professional-ethical-hacker-a6ff0abc69ef?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
