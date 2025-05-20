@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 19, 2025 - [Vulnerability Analysis using Nikto&lpar;0](https://medium.com/@anandrishav2228/vulnerability-analysis-using-nikto-0-4cb6745f8932?source=rss------bug_bounty-5) 
+ - 💯May 20, 2025 - [SAPRouter — Port 3299 — How to expliot?](https://medium.com/@verylazytech/saprouter-port-3299-how-to-expliot-c3da21064ab3?source=rss------bug_bounty-5) 
 
- - 💯May 19, 2025 - [Unleash Python for Deeper Web App Recon: Automating Sublist3r &amp; AltDNS Like a Pro](https://medium.com/@jensbeckerdev/unleash-python-for-deeper-web-app-recon-automating-sublist3r-altdns-like-a-pro-93509a0a4dc3?source=rss------bug_bounty-5) 
+ - 💯May 20, 2025 - [⚔️ The Brutal Truth About Bug Bounty That Nobody Tells Beginners](https://infosecwriteups.com/%EF%B8%8F-the-brutal-truth-about-bug-bounty-that-nobody-tells-beginners-10e419514165?source=rss------bug_bounty-5) 
 
- - 💯May 19, 2025 - [I Broke Rate Limits and Accessed 1000+ User Records — Responsibly](https://infosecwriteups.com/i-broke-rate-limits-and-accessed-1000-user-records-responsibly-8c45f20729ba?source=rss------bug_bounty-5) 
+ - 💯May 20, 2025 - [Mastering SQL Injection Recon: Step-by-Step Guide for Bug Bounty Hunters](https://infosecwriteups.com/mastering-sql-injection-recon-step-by-step-guide-for-bug-bounty-hunters-9f493fb058dd?source=rss------bug_bounty-5) 
 
- - 💯May 19, 2025 - [Basic Authentication Bypassed via Simple Misconfiguration](https://m7moudx22.medium.com/basic-authentication-bypassed-via-simple-misconfiguration-6a19002aef4f?source=rss------bug_bounty-5) 
+ - 💯May 20, 2025 - [Easy Account Takeover via OTP in Response — A Developer’s Oops Moment](https://infosecwriteups.com/easy-account-takeover-via-otp-in-response-a-developers-oops-moment-91130d5e5686?source=rss------bug_bounty-5) 
 
- - 💯May 19, 2025 - [How to make good money with Bug Bounty: A beginner’s guide](https://osintteam.blog/how-to-make-good-money-with-bug-bounty-a-beginners-guide-0c91e9198f2b?source=rss------bug_bounty-5) 
+ - 💯May 20, 2025 - [️ How Hackers Bypass Web Application Firewalls &lpar;WAFs&rpar; in 2025](https://infosecwriteups.com/%EF%B8%8F-how-hackers-bypass-web-application-firewalls-wafs-in-2025-c2a5052044c9?source=rss------bug_bounty-5) 
 
- - 💯May 19, 2025 - [$2,480 Bounty: How a Race Condition in curl’s fopen&lpar;&rpar; Led to Cookie Theft and File Overwrites](https://osintteam.blog/2-480-bounty-how-a-race-condition-in-curls-fopen-led-to-cookie-theft-and-file-overwrites-1bdaab1a584c?source=rss------bug_bounty-5) 
+ - 💯May 20, 2025 - [Graph-QL Vulnerability can help you make $$](https://medium.com/@anandrishav2228/graph-ql-vulnerability-can-help-you-make-cfc79270e79d?source=rss------bug_bounty-5) 
 
- - 💯May 19, 2025 - [Domina los Google Dorks: Técnicas de Búsqueda para Ciberseguridad y OSINT](https://medium.com/@jpablo13/domina-los-google-dorks-t%C3%A9cnicas-de-b%C3%BAsqueda-para-ciberseguridad-y-osint-3206fe84f956?source=rss------bug_bounty-5) 
+ - 💯May 20, 2025 - [Hacking Oauth:A bug bounty hunter guide](https://infosecwriteups.com/hacking-oauth-a-bug-bounty-hunter-guide-31a7b1a0cf88?source=rss------bug_bounty-5) 
 
- - 💯May 18, 2025 - [Hacking APIs : Nuclei for REST/API Penetration Testing](https://iaraoz.medium.com/hacking-apis-nuclei-for-rest-api-penetration-testing-0b11bbd2eed5?source=rss------bug_bounty-5) 
+ - 💯May 20, 2025 - [Master Google Dorks — Search Techniques for Cybersecurity and OSINT](https://medium.com/@jpablo13/master-google-dorks-search-techniques-for-cybersecurity-and-osint-7ced756d02ca?source=rss------bug_bounty-5) 
 
- - 💯May 18, 2025 - [Think You’re Safe? Think Again: Cybersecurity Myths](https://medium.com/meetcyber/think-youre-safe-think-again-cybersecurity-myths-69090b7e7afa?source=rss------bug_bounty-5) 
+ - 💯May 19, 2025 - [XSS &lpar;Cross-Site-Scripting&rpar; Nedir?](https://medium.com/@ozanturancakir.it/xss-cross-site-scripting-nedir-87a9bee41ae2?source=rss------bug_bounty-5) 
 
- - 💯May 18, 2025 - [Open Redirect Vulnerability in OAuth Flow on Lichess4545.com](https://medium.com/@regan_temudo/open-redirect-vulnerability-in-oauth-flow-on-lichess4545-com-0e78c2d97397?source=rss------bug_bounty-5) 
+ - 💯May 19, 2025 - [Reverse Shell: Estudo prático para Entusiastas e Profissionais de Segurança](https://medium.com/@correa-sergio/reverse-shell-estudo-pr%C3%A1tico-para-entusiastas-e-profissionais-de-seguran%C3%A7a-cd83585f103d?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
