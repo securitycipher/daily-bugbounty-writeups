@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 21, 2025 - [WayBackLister : Innovative Directory Bruteforcing Technique](https://medium.com/@abhirupkonwar04/waybacklister-innovative-directory-bruteforcing-technique-43535da40bc4?source=rss------bug_bounty-5) 
+ - 💯May 22, 2025 - [How to Use FOFA, Shodan.io, and Hunter.io for Advanced Cyber Reconnaissance](https://medium.com/@verylazytech/how-to-use-fofa-shodan-io-and-hunter-io-for-advanced-cyber-reconnaissance-602c23093fce?source=rss------bug_bounty-5) 
 
- - 💯May 21, 2025 - [Demystifying Cookies: The Complete Guide for Bug Bounty Hunters](https://infosecwriteups.com/demystifying-cookies-the-complete-guide-for-bug-bounty-hunters-7ac5827b8173?source=rss------bug_bounty-5) 
+ - 💯May 22, 2025 - [Risk Appetite vs. Risk Tolerance: What’s the Difference and Why It Matters](https://medium.com/@paritoshblogs/risk-appetite-vs-risk-tolerance-whats-the-difference-and-why-it-matters-7a52aabbf7d9?source=rss------bug_bounty-5) 
 
- - 💯May 21, 2025 - [$2,500 Bounty: DOM-Based XSS via postMessage on Upserve’s Login Page](https://infosecwriteups.com/2-500-bounty-dom-based-xss-via-postmessage-on-upserves-login-page-dc899778ed31?source=rss------bug_bounty-5) 
+ - 💯May 22, 2025 - [Exploit PORT : 5900 , 59001 | VNC Port exploit &lpar;Series:1/ [article:3]&rpar;](https://medium.com/@hrofficial62/exploit-port-5900-59001-vnc-port-exploit-series-1-article-3-c07d09ebdf5b?source=rss------bug_bounty-5) 
 
- - 💯May 21, 2025 - [They Missed This One Tiny Parameter — I Made $500 Instantly](https://infosecwriteups.com/they-missed-this-one-tiny-parameter-i-made-500-instantly-f2f7d1c1c1d9?source=rss------bug_bounty-5) 
+ - 💯May 22, 2025 - [️How I Bypassed OTP Verification Without Any Code Injection](https://infosecwriteups.com/%EF%B8%8Fhow-i-bypassed-otp-verification-without-any-code-injection-1fb28a705cd4?source=rss------bug_bounty-5) 
 
- - 💯May 21, 2025 - [$500 Bounty: DOM-Based XSS in HackerOne’s Careers Page](https://osintteam.blog/500-bounty-dom-based-xss-in-hackerones-careers-page-019f78c5e213?source=rss------bug_bounty-5) 
+ - 💯May 22, 2025 - [The $2,000 SQLi Story: Hours, Payloads, and Pure Stubbornness](https://medium.com/meetcyber/the-2-000-sqli-story-hours-payloads-and-pure-stubbornness-05eab4c7b968?source=rss------bug_bounty-5) 
 
- - 💯May 21, 2025 - [How Hackers Discover Hidden Admin Panels and Secret Files ️‍♂️](https://osintteam.blog/how-hackers-discover-hidden-admin-panels-and-secret-files-%EF%B8%8F-%EF%B8%8F-c2b12ab0b841?source=rss------bug_bounty-5) 
+ - 💯May 22, 2025 - [How i can bypassing strong WAF in XSS with simple payload](https://medium.com/@0xRedFox29/how-i-can-bypassing-strong-waf-in-xss-with-simple-payload-7ef5d22ca626?source=rss------bug_bounty-5) 
 
- - 💯May 21, 2025 - [$3,500 Bounty: Stored XSS in GitLab’s RDoc Wiki via Malicious Image Links](https://medium.com/h7w/3-500-bounty-stored-xss-in-gitlabs-rdoc-wiki-via-malicious-image-links-c394d4730d2a?source=rss------bug_bounty-5) 
+ - 💯May 22, 2025 - [$13,950 Bounty: Stored XSS in GitLab Notes with a Clever CSP Bypass via &lt;base&gt;](https://osintteam.blog/13-950-bounty-stored-xss-in-gitlab-notes-with-a-clever-csp-bypass-via-base-9ca1f49994e3?source=rss------bug_bounty-5) 
 
- - 💯May 21, 2025 - [How I Earned my Second Bounty of €2000 by Discovering an Authorization Bypass Vulnerability in a…](https://medium.com/@sohelparashar/how-i-earned-my-second-bounty-of-2000-by-discovering-an-authorization-bypass-vulnerability-in-a-8b20570004d8?source=rss------bug_bounty-5) 
+ - 💯May 22, 2025 - [This is how I got 16 CVEs in 2 months](https://medium.com/@rayhanhanaputra/this-is-how-i-got-16-cves-in-2-months-491be07793b0?source=rss------bug_bounty-5) 
 
- - 💯May 21, 2025 - [$2,400 in 60 Minutes: Hacking a Management Backend by Tweaking a Single Response Packet](https://medium.com/@cadeeper/0x00-368daffa75f7?source=rss------bug_bounty-5) 
-
- - 💯May 21, 2025 - [I Slipped an Item Into a Stranger’s Cart&lpar;Well, Almost&rpar;](https://medium.com/@nizarkadiri70/i-slipped-an-item-into-a-strangers-cart-well-almost-4f1f5397a64b?source=rss------bug_bounty-5) 
+ - 💯May 21, 2025 - [Reflected Chaos: How One XSS Vector Spawned Three CVEs](https://medium.com/@bonghaxor_34691/reflected-chaos-how-one-xss-vector-spawned-three-cves-f20e2df3275f?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
