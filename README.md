@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 22, 2025 - [How to Use FOFA, Shodan.io, and Hunter.io for Advanced Cyber Reconnaissance](https://medium.com/@verylazytech/how-to-use-fofa-shodan-io-and-hunter-io-for-advanced-cyber-reconnaissance-602c23093fce?source=rss------bug_bounty-5) 
+ - 💯May 23, 2025 - [I Gave Myself 60 Minutes to Find a Bug — This Is What Happened](https://infosecwriteups.com/i-gave-myself-60-minutes-to-find-a-bug-this-is-what-happened-e5fa76563a33?source=rss------bug_bounty-5) 
 
- - 💯May 22, 2025 - [Risk Appetite vs. Risk Tolerance: What’s the Difference and Why It Matters](https://medium.com/@paritoshblogs/risk-appetite-vs-risk-tolerance-whats-the-difference-and-why-it-matters-7a52aabbf7d9?source=rss------bug_bounty-5) 
+ - 💯May 23, 2025 - [Bug Bounty VS Pentester](https://medium.com/@nishanthannisha008/bug-bounty-vs-pentester-4e471e126319?source=rss------bug_bounty-5) 
 
- - 💯May 22, 2025 - [Exploit PORT : 5900 , 59001 | VNC Port exploit &lpar;Series:1/ [article:3]&rpar;](https://medium.com/@hrofficial62/exploit-port-5900-59001-vnc-port-exploit-series-1-article-3-c07d09ebdf5b?source=rss------bug_bounty-5) 
+ - 💯May 23, 2025 - [Find your bug bounty target hidden directories](https://medium.com/@loyalonlytoday/find-your-bug-bounty-target-hidden-directories-f132f70bafe1?source=rss------bug_bounty-5) 
 
- - 💯May 22, 2025 - [️How I Bypassed OTP Verification Without Any Code Injection](https://infosecwriteups.com/%EF%B8%8Fhow-i-bypassed-otp-verification-without-any-code-injection-1fb28a705cd4?source=rss------bug_bounty-5) 
+ - 💯May 23, 2025 - [GarnGIT: Instantly Scan Solidity Contracts for Vulnerabilities and Bug Bounty Targets](https://medium.com/@n8p006/h1-garngit-instantly-scan-solidity-contracts-for-vulnerabilities-and-bug-bounty-targets-h1-9076374b70d1?source=rss------bug_bounty-5) 
 
- - 💯May 22, 2025 - [The $2,000 SQLi Story: Hours, Payloads, and Pure Stubbornness](https://medium.com/meetcyber/the-2-000-sqli-story-hours-payloads-and-pure-stubbornness-05eab4c7b968?source=rss------bug_bounty-5) 
+ - 💯May 22, 2025 - [Unlocking Hidden Web Paths: How Ethical Hackers Use xnLinkFinder to Discover Easy Bugs](https://chintalatarakaram.medium.com/unlocking-hidden-web-paths-how-ethical-hackers-use-xnlinkfinder-to-discover-easy-bugs-aae02c8716b9?source=rss------bug_bounty-5) 
 
- - 💯May 22, 2025 - [How i can bypassing strong WAF in XSS with simple payload](https://medium.com/@0xRedFox29/how-i-can-bypassing-strong-waf-in-xss-with-simple-payload-7ef5d22ca626?source=rss------bug_bounty-5) 
+ - 💯May 22, 2025 - [$7,500 Bounty — XSS → RCE in Steam’s React Chat Client](https://osintteam.blog/7-500-bounty-xss-rce-in-steams-react-chat-client-1394aaecaec4?source=rss------bug_bounty-5) 
 
- - 💯May 22, 2025 - [$13,950 Bounty: Stored XSS in GitLab Notes with a Clever CSP Bypass via &lt;base&gt;](https://osintteam.blog/13-950-bounty-stored-xss-in-gitlab-notes-with-a-clever-csp-bypass-via-base-9ca1f49994e3?source=rss------bug_bounty-5) 
+ - 💯May 22, 2025 - [Why reporting an #issue or #bug should be &lpar;as similar as possible&rpar; like going to the Doctor](https://medium.com/@isabeldpp/why-reporting-an-issue-or-bug-should-be-as-similar-as-possible-like-going-to-the-doctor-8868fa939a50?source=rss------bug_bounty-5) 
 
- - 💯May 22, 2025 - [This is how I got 16 CVEs in 2 months](https://medium.com/@rayhanhanaputra/this-is-how-i-got-16-cves-in-2-months-491be07793b0?source=rss------bug_bounty-5) 
+ - 💯May 22, 2025 - [DOM-Based XSS in Single Page Applications &lpar;SPAs&rpar;: A Complete Guide for Beginners &amp; Bug Bounty…](https://medium.com/@asifebrahim580/dom-based-xss-in-single-page-applications-spas-a-complete-guide-for-beginners-bug-bounty-56d4e496a0a0?source=rss------bug_bounty-5) 
 
- - 💯May 21, 2025 - [Reflected Chaos: How One XSS Vector Spawned Three CVEs](https://medium.com/@bonghaxor_34691/reflected-chaos-how-one-xss-vector-spawned-three-cves-f20e2df3275f?source=rss------bug_bounty-5) 
+ - 💯May 22, 2025 - [$500 bounty External Link Bypass inPrivate Program](https://zetanine.medium.com/external-link-bypass-vulnerability-inprivate-program-b42a5dd10504?source=rss------bug_bounty-5) 
+
+ - 💯May 22, 2025 - [Unveiling HTTP Parameter Pollution &lpar;HPP&rpar;: A Simple Explanation with a Real-Life Example](https://medium.com/@natarajanck2/unveiling-http-parameter-pollution-hpp-a-simple-explanation-with-a-real-life-example-422dfcac7895?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
