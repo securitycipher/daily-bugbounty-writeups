@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 23, 2025 - [I Gave Myself 60 Minutes to Find a Bug — This Is What Happened](https://infosecwriteups.com/i-gave-myself-60-minutes-to-find-a-bug-this-is-what-happened-e5fa76563a33?source=rss------bug_bounty-5) 
+ - 💯May 24, 2025 - [Escalating impact: Full Account Takeover via Stored XSS](https://rajukani100.medium.com/escalating-impact-full-account-takeover-via-stored-xss-24e5aee209f6?source=rss------bug_bounty-5) 
 
- - 💯May 23, 2025 - [Bug Bounty VS Pentester](https://medium.com/@nishanthannisha008/bug-bounty-vs-pentester-4e471e126319?source=rss------bug_bounty-5) 
+ - 💯May 24, 2025 - [FOFA Dorking | Part4](https://medium.com/legionhunters/fofa-dorking-part4-7d0a09995407?source=rss------bug_bounty-5) 
 
- - 💯May 23, 2025 - [Find your bug bounty target hidden directories](https://medium.com/@loyalonlytoday/find-your-bug-bounty-target-hidden-directories-f132f70bafe1?source=rss------bug_bounty-5) 
+ - 💯May 24, 2025 - [Bug Bounty in 2025: Hunting Business Logic Flaws the Right Way](https://medium.com/@kailasv678/bug-bounty-in-2025-hunting-business-logic-flaws-the-right-way-614aba550f7b?source=rss------bug_bounty-5) 
 
- - 💯May 23, 2025 - [GarnGIT: Instantly Scan Solidity Contracts for Vulnerabilities and Bug Bounty Targets](https://medium.com/@n8p006/h1-garngit-instantly-scan-solidity-contracts-for-vulnerabilities-and-bug-bounty-targets-h1-9076374b70d1?source=rss------bug_bounty-5) 
+ - 💯May 23, 2025 - [Hacking APIs: Exploiting Business Logic Flaws](https://iaraoz.medium.com/hacking-apis-exploiting-business-logic-flaws-c40872ce5600?source=rss------bug_bounty-5) 
 
- - 💯May 22, 2025 - [Unlocking Hidden Web Paths: How Ethical Hackers Use xnLinkFinder to Discover Easy Bugs](https://chintalatarakaram.medium.com/unlocking-hidden-web-paths-how-ethical-hackers-use-xnlinkfinder-to-discover-easy-bugs-aae02c8716b9?source=rss------bug_bounty-5) 
+ - 💯May 23, 2025 - [How I Use LLMs to Supercharge My Bug Bounty Recon](https://bitpanic.medium.com/how-i-use-llms-to-supercharge-my-bug-bounty-recon-3f9892c6b5a0?source=rss------bug_bounty-5) 
 
- - 💯May 22, 2025 - [$7,500 Bounty — XSS → RCE in Steam’s React Chat Client](https://osintteam.blog/7-500-bounty-xss-rce-in-steams-react-chat-client-1394aaecaec4?source=rss------bug_bounty-5) 
+ - 💯May 23, 2025 - [Reverse Engineering Başlanğıcı: Easy Keygen Analizi &lpar;IDA Pro və x32dbg ilə&rpar;](https://medium.com/@elmin.farzaliyev/reverse-engineering-ba%C5%9Flan%C4%9F%C4%B1c%C4%B1-easy-keygen-analizi-ida-pro-v%C9%99-x32dbg-il%C9%99-37315ccedcc3?source=rss------bug_bounty-5) 
 
- - 💯May 22, 2025 - [Why reporting an #issue or #bug should be &lpar;as similar as possible&rpar; like going to the Doctor](https://medium.com/@isabeldpp/why-reporting-an-issue-or-bug-should-be-as-similar-as-possible-like-going-to-the-doctor-8868fa939a50?source=rss------bug_bounty-5) 
+ - 💯May 23, 2025 - [️ The Ultimate Bug Bounty Checklist for Beginners](https://medium.com/@hackerfromhills/%EF%B8%8F-the-ultimate-bug-bounty-checklist-for-beginners-3fafc9ea5fc5?source=rss------bug_bounty-5) 
 
- - 💯May 22, 2025 - [DOM-Based XSS in Single Page Applications &lpar;SPAs&rpar;: A Complete Guide for Beginners &amp; Bug Bounty…](https://medium.com/@asifebrahim580/dom-based-xss-in-single-page-applications-spas-a-complete-guide-for-beginners-bug-bounty-56d4e496a0a0?source=rss------bug_bounty-5) 
+ - 💯May 23, 2025 - [Beyond the First $1,000: What Resilience Really Means in Bug Bounty Hunting](https://medium.com/@kailasv678/beyond-the-first-1-000-what-resilience-really-means-in-bug-bounty-hunting-92c54a9f8f04?source=rss------bug_bounty-5) 
 
- - 💯May 22, 2025 - [$500 bounty External Link Bypass inPrivate Program](https://zetanine.medium.com/external-link-bypass-vulnerability-inprivate-program-b42a5dd10504?source=rss------bug_bounty-5) 
-
- - 💯May 22, 2025 - [Unveiling HTTP Parameter Pollution &lpar;HPP&rpar;: A Simple Explanation with a Real-Life Example](https://medium.com/@natarajanck2/unveiling-http-parameter-pollution-hpp-a-simple-explanation-with-a-real-life-example-422dfcac7895?source=rss------bug_bounty-5) 
+ - 💯May 23, 2025 - [Amass Subdomain Enumeration : A Bug Hunter’s Guide](https://medium.com/@shaheeryasirofficial/amass-subdomain-enumeration-a-bug-hunters-guide-3271ab5bf597?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
