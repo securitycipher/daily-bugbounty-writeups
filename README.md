@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 25, 2025 - [Unlimited XSS | This is the Dumbest Way to Find XSS Bug](https://infosecwriteups.com/unlimited-xss-this-is-the-dumbest-way-to-find-xss-bug-2202b3621c6d?source=rss------bug_bounty-5) 
+ - 💯May 27, 2025 - [How Improper Regex Usage Can Open Your System to Vulnerabilities](https://zvitox.medium.com/how-improper-regex-usage-can-open-your-system-to-vulnerabilities-c7c5b1541c52?source=rss------bug_bounty-5) 
 
- - 💯May 25, 2025 - [AN EASY 2FA BYPASS](https://sijojohnson.medium.com/an-easy-2fa-bypass-261261ca2eab?source=rss------bug_bounty-5) 
+ - 💯May 27, 2025 - [The Image That Spoke JavaScript](https://infosecwriteups.com/the-image-that-spoke-javascript-bdbd368921e4?source=rss------bug_bounty-5) 
 
- - 💯May 25, 2025 - [Uncovering a Parameter Tampering Vulnerability: A Journey in Ethical Hacking An ethical…](https://samfrancissam06.medium.com/uncovering-a-parameter-tampering-vulnerability-a-journey-in-ethical-hacking-an-ethical-d7b06703e27a?source=rss------bug_bounty-5) 
+ - 💯May 27, 2025 - [Breaking Twitter’s VPN: $20,160 Bounty for a Pre-Auth RCE via Pulse Secure Chain](https://infosecwriteups.com/breaking-twitters-vpn-20-160-bounty-for-a-pre-auth-rce-via-pulse-secure-chain-ab0ad708e988?source=rss------bug_bounty-5) 
 
- - 💯May 25, 2025 - [Subdomain Takeover of fr1.vpn.zomans.com — $350 Bounty](https://osintteam.blog/subdomain-takeover-of-fr1-vpn-zomans-com-350-bounty-638d959e11dc?source=rss------bug_bounty-5) 
+ - 💯May 27, 2025 - [I Hacked Indian Government Websites and became Admin Ethically.](https://infosecwriteups.com/i-hacked-indian-government-websites-and-became-admin-ethically-af6f68c06de3?source=rss------bug_bounty-5) 
 
- - 💯May 24, 2025 - [Here&#39;s How I Got My First Bounty: €1000 by Exploiting a Stored XSS](https://medium.com/@sohelparashar/heres-how-i-got-my-first-bounty-1000-db3264adeac0?source=rss------bug_bounty-5) 
+ - 💯May 27, 2025 - [Demystifying Cookies : The Complete Guide for Bug Bounty Hunters — Part 1](https://infosecwriteups.com/demystifying-cookies-the-complete-guide-for-bug-bounty-hunters-part-1-c24d2670413a?source=rss------bug_bounty-5) 
 
- - 💯May 24, 2025 - [How a Business Logic Error Earned me my First 100$ in a Bug Bounty Private Program](https://medium.com/@charlocomse/how-a-business-logic-error-earned-me-my-first-100-in-a-bug-bounty-private-program-7a13af06f7d1?source=rss------bug_bounty-5) 
+ - 💯May 27, 2025 - [Race Condition Vulnerability](https://medium.com/@anandrishav2228/race-condition-vulnerability-db1a936f17aa?source=rss------bug_bounty-5) 
 
- - 💯May 24, 2025 - [How Bug Bounty Platforms May Be Stifling New Researchers](https://medium.com/cloud-security/how-bug-bounty-platforms-may-be-stifling-new-researchers-cf21be1277da?source=rss------bug_bounty-5) 
+ - 💯May 27, 2025 - [Find Secrets in Hidden Directories Using Fuzzing ️](https://infosecwriteups.com/find-secrets-in-hidden-directories-using-fuzzing-%EF%B8%8F-1666d6f34fd8?source=rss------bug_bounty-5) 
 
- - 💯May 24, 2025 - [From Click to Critical: How I Found PII Without Even Trying — $1,100 Bounty, My First Bounty on…](https://dukrov.medium.com/from-click-to-critical-how-i-found-pii-without-even-trying-1-100-bounty-my-first-bounty-on-651902f7238c?source=rss------bug_bounty-5) 
+ - 💯May 27, 2025 - [️‍♂️ Bug Bounty Recon Methodology for example.com – A Beginner-Friendly Guide](https://medium.com/@asifebrahim580/%EF%B8%8F-%EF%B8%8F-bug-bounty-recon-methodology-for-example-com-a-beginner-friendly-guide-a46a916ea1f3?source=rss------bug_bounty-5) 
 
- - 💯May 24, 2025 - [How I Found Dom Xss on School Website.](https://medium.com/@debug0xa/how-i-found-dom-xss-on-school-website-defcaa2a4455?source=rss------bug_bounty-5) 
+ - 💯May 27, 2025 - [Logged Out But Still In: How I Exploited a JWT Flaw to Bypass Authentication](https://medium.com/@kailasv678/logged-out-but-still-in-how-i-exploited-a-jwt-flaw-to-bypass-authentication-5e062396923f?source=rss------bug_bounty-5) 
 
- - 💯May 24, 2025 - [Race Conditions: The Silent Exploit That Can Break Systems &lpar;and Earn Bounties&rpar;](https://infosecwriteups.com/race-conditions-the-silent-exploit-that-can-break-systems-and-earn-bounties-a35e7677c96a?source=rss------bug_bounty-5) 
+ - 💯May 27, 2025 - [A Bug Bounty Beginner&#39;s Setback - And a Request for Support](https://medium.com/@aashifm/a-bug-bounty-beginners-setback-and-a-request-for-support-509ea402b1f8?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
