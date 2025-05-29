@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 28, 2025 - [Broken Access Control: The Quiet Killer in Web Applications](https://medium.com/@aashifm/broken-access-control-the-quiet-killer-in-web-applications-79cb85f72cd8?source=rss------bug_bounty-5) 
+ - 💯May 29, 2025 - [7 Principles of Software Testing Every QA Should Know](https://medium.com/@prafullamishra827/7-principles-of-software-testing-every-qa-should-know-c38255e81415?source=rss------bug_bounty-5) 
 
- - 💯May 28, 2025 - [I Tried 10 Recon Tools for 7 Days — Here’s What Actually Found Bugs](https://infosecwriteups.com/i-tried-10-recon-tools-for-7-days-heres-what-actually-found-bugs-9013b4cd2396?source=rss------bug_bounty-5) 
+ - 💯May 29, 2025 - [Logic Flaw: Deleting HackerOne Team Reports Without Access Rights](https://infosecwriteups.com/logic-flaw-deleting-hackerone-team-reports-without-access-rights-1c4755a23af8?source=rss------bug_bounty-5) 
 
- - 💯May 28, 2025 - [$500 Bounty: Shopify Referrer Leak: Hijacking Storefront Access with a Single Token](https://infosecwriteups.com/500-bounty-shopify-referrer-leak-hijacking-storefront-access-with-a-single-token-4edc0de09cff?source=rss------bug_bounty-5) 
+ - 💯May 29, 2025 - [HTTP Host Header Attack?](https://medium.com/@anandrishav2228/http-host-header-attack-2949e597437f?source=rss------bug_bounty-5) 
 
- - 💯May 28, 2025 - [Hacking Insights: Gaining Access to University of Hyderabad Ganglia Dashboard](https://infosecwriteups.com/hacking-insights-gaining-access-to-university-of-hyderabad-ganglia-dashboard-bdc15f3a82fe?source=rss------bug_bounty-5) 
+ - 💯May 29, 2025 - [Uncovering Amazon S3 Bucket Vulnerabilities: A Comprehensive Guide for Ethical Hackers](https://infosecwriteups.com/uncovering-amazon-s3-bucket-vulnerabilities-a-comprehensive-guide-for-ethical-hackers-0fc903ac21d0?source=rss------bug_bounty-5) 
 
- - 💯May 28, 2025 - [$750 Bounty: for HTTP Reset Password Link in Mattermost](https://infosecwriteups.com/750-bounty-for-http-reset-password-link-in-mattermost-3cc3acdb0f85?source=rss------bug_bounty-5) 
+ - 💯May 29, 2025 - [CVE-2025–4687 &lpar; Pre-Account takeover through invite on Teletonika RMS website &rpar;](https://jowin922.medium.com/cve-2025-4687-pre-account-takeover-through-invite-on-teletonika-rms-website-972335378829?source=rss------bug_bounty-5) 
 
- - 💯May 28, 2025 - [Finding Broken Access Control in DoD](https://azraeldeathangel.medium.com/finding-broken-access-control-in-dod-c569305f9099?source=rss------bug_bounty-5) 
+ - 💯May 29, 2025 - [EG-CERT CTF25 Flog: Nowadays Arch Issues](https://dphoeniixx.medium.com/eg-cert-ctf25-flog-nowadays-arch-issues-acd6afa46b63?source=rss------bug_bounty-5) 
 
- - 💯May 28, 2025 - [Roadmap Cybersecurity Menuju Pentester Profesional &lpar;2025–2030&rpar;](https://medium.com/@riskiardiansyah51938/roadmap-cybersecurity-menuju-pentester-profesional-2025-2030-8fec44f6ff23?source=rss------bug_bounty-5) 
+ - 💯May 29, 2025 - [$1,000 Bounty: Created Support Tickets on Behalf of Any HackerOne User via Email](https://osintteam.blog/1-000-bounty-created-support-tickets-on-behalf-of-any-hackerone-user-via-email-d8b6f90f0757?source=rss------bug_bounty-5) 
 
- - 💯May 28, 2025 - [Exploiting the Menu: Breaking Restaurant Delivery Systems](https://medium.com/@davimouar/exploiting-the-menu-breaking-restaurant-delivery-systems-37c473849ac8?source=rss------bug_bounty-5) 
+ - 💯May 29, 2025 - [️ Sensitive Data Exposure via WP-JSON in WordPress](https://medium.com/@noorsaper64/%EF%B8%8F-sensitive-data-exposure-via-wp-json-in-wordpress-d1dee7318d3b?source=rss------bug_bounty-5) 
 
- - 💯May 28, 2025 - [Reflected XSS and Blind OS Command Injection](https://osintteam.blog/reflected-xss-and-blind-os-command-injection-a056c75f99be?source=rss------bug_bounty-5) 
+ - 💯May 28, 2025 - [Android Pentesting Setup Up Burpsuite Intercept](https://medium.com/@muhammadhuzaifa02134182093/android-pentesting-setup-up-burpsuite-intercept-53b37ea9762c?source=rss------bug_bounty-5) 
 
- - 💯May 28, 2025 - [Ciphered Chaos: Bit-Flipping in the Wild](https://batee5a.medium.com/ciphered-chaos-bit-flipping-in-the-wild-345cda16c19e?source=rss------bug_bounty-5) 
+ - 💯May 28, 2025 - [HackingHub Lab: Scam Artists — API Hacking &amp; Reverse Proxy Basics.NahamSec](https://medium.com/@ethicalrohit/hackinghub-lab-scam-artists-api-hacking-reverse-proxy-basics-nahamsec-b9b6ffd9cf90?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
