@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯June 1, 2025 - [Authentication Token Reuse — A Silent 2FA Killer](https://medium.com/@nareshkumar76191/authentication-token-reuse-a-silent-2fa-killer-e52bef4c599a?source=rss------bug_bounty-5) 
+ - 💯June 2, 2025 - [Key things to know before Starting Bug bounty hunting journey](https://medium.com/@gabbytech01/started-my-bug-bounty-hunting-journey-fee-months-back-and-here-are-the-tips-i-have-for-you-d52cd6ffc2bd?source=rss------bug_bounty-5) 
 
- - 💯June 1, 2025 - [The Best Bug Bounty Tools in 2025 &lpar;With Pro Tips to Use Them Effectively&rpar;](https://medium.com/@kailasv678/the-best-bug-bounty-tools-in-2025-with-pro-tips-to-use-them-effectively-e525878969e1?source=rss------bug_bounty-5) 
+ - 💯June 2, 2025 - [$540 Bounty: How a Misconfigured Warning Endpoint in Apache Airflow Exposed DAG Secrets](https://infosecwriteups.com/540-bounty-how-a-misconfigured-warning-endpoint-in-apache-airflow-exposed-dag-secrets-ceafdad57673?source=rss------bug_bounty-5) 
 
- - 💯June 1, 2025 - [Open Redirect + Referer Header = $3,000 Access Token Leak](https://osintteam.blog/open-redirect-referer-header-3-000-access-token-leak-dd45ba4bdb0c?source=rss------bug_bounty-5) 
+ - 💯June 2, 2025 - [Easiest Bug: Improper Token invalidation.](https://infosecwriteups.com/easiest-bug-improper-token-invalidation-378e1bc60d94?source=rss------bug_bounty-5) 
 
- - 💯June 1, 2025 - [How a Path Normalization Flaw in Stripe’s Node.js SDK Leaked PII”](https://osintteam.blog/how-a-path-normalization-flaw-in-stripes-node-js-sdk-leaked-pii-6aec960a70f3?source=rss------bug_bounty-5) 
+ - 💯June 2, 2025 - [How to Start Bug Bounty with Zero Knowledge](https://infosecwriteups.com/how-to-start-bug-bounty-with-zero-knowledge-bfa8c98d897e?source=rss------bug_bounty-5) 
 
- - 💯June 1, 2025 - [Reality of Bug Bounty 2025](https://osintteam.blog/reality-of-bug-bounty-2025-c920bf9944fb?source=rss------bug_bounty-5) 
+ - 💯June 2, 2025 - [Reconocimiento Web con Katana: Guía Completa para Empezar en Bug Bounty](https://medium.com/@jpablo13/reconocimiento-web-con-katana-gu%C3%ADa-completa-para-empezar-en-bug-bounty-0728cfd8f7f4?source=rss------bug_bounty-5) 
 
- - 💯May 31, 2025 - [Business Logic Bug: Enforce victim to accept the invitation](https://medium.com/@pent0ss/business-logic-bug-enforce-victim-to-accept-the-invitation-3e7811978ad0?source=rss------bug_bounty-5) 
+ - 💯June 1, 2025 - [Logged in Without Logging In: A $xxx Improper Authentication Flaw in TVA’s Portal](https://medium.com/h7w/logged-in-without-logging-in-a-xxx-improper-authentication-flaw-in-tvas-portal-4c54c87bd512?source=rss------bug_bounty-5) 
 
- - 💯May 31, 2025 - [For my self : My Journey Back](https://medium.com/@0xTrk/for-my-self-my-journey-back-6158e81cc88e?source=rss------bug_bounty-5) 
+ - 💯June 1, 2025 - [The Ultimate Guide to Starting a Career in Website Application Bug Bounty Hunting &lpar; For Absolute…](https://medium.com/@40sp3l/the-ultimate-guide-to-starting-a-career-in-website-application-bug-bounty-hunting-for-absolute-760fc66d3fca?source=rss------bug_bounty-5) 
 
- - 💯May 31, 2025 - [System Integration Blind Spots](https://medium.com/@khode4li/inconsistencies-663e5da2c8c5?source=rss------bug_bounty-5) 
+ - 💯June 1, 2025 - [How to find Jupyter Notebook RCE manually?](https://medium.com/@josekuttykunnelthazhebinu/how-to-find-jupyter-notebook-rce-manually-4fb337998dc1?source=rss------bug_bounty-5) 
 
- - 💯May 31, 2025 - [How I have found my first valid bug that got paid.](https://imran404.medium.com/how-i-have-found-my-first-valid-bug-that-got-paid-7c0f8d40d568?source=rss------bug_bounty-5) 
+ - 💯June 1, 2025 - [Tilde Games: Exploiting 8.3 Shortnames on IIS Servers](https://infosecwriteups.com/tilde-games-exploiting-8-3-shortnames-on-iis-servers-6f232071e01f?source=rss------bug_bounty-5) 
 
- - 💯May 31, 2025 - [How to Make Money with Hacking &lpar;ethical way&rpar;](https://medium.com/@cypher.one/how-to-make-money-with-hacking-ethical-way-ca8b188b3963?source=rss------bug_bounty-5) 
+ - 💯June 1, 2025 - [A CSRF Story I Encountered on My Bug Bounty Journey](https://enes478.medium.com/a-csrf-story-i-encountered-on-my-bug-bounty-journey-6a037b4025ee?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
