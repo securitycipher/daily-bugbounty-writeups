@@ -2,23 +2,24 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯June 2, 2025 - [Key things to know before Starting Bug bounty hunting journey](https://medium.com/@gabbytech01/started-my-bug-bounty-hunting-journey-fee-months-back-and-here-are-the-tips-i-have-for-you-d52cd6ffc2bd?source=rss------bug_bounty-5) 
+ - 💯June 3, 2025 - [OAuth Misuse: Chaining Redirect URIs and Silent Logins into Full Account Takeover](https://medium.com/h7w/oauth-misuse-chaining-redirect-uris-and-silent-logins-into-full-account-takeover-91b68f68227b?source=rss------bug_bounty-5) 
 
- - 💯June 2, 2025 - [$540 Bounty: How a Misconfigured Warning Endpoint in Apache Airflow Exposed DAG Secrets](https://infosecwriteups.com/540-bounty-how-a-misconfigured-warning-endpoint-in-apache-airflow-exposed-dag-secrets-ceafdad57673?source=rss------bug_bounty-5) 
+ - 💯June 3, 2025 - [Hunting for Secrets in Source Maps &lpar;.map Files&rpar;](https://osintteam.blog/hunting-for-secrets-in-source-maps-map-files-de969e4b0cdb?source=rss------bug_bounty-5) 
 
- - 💯June 2, 2025 - [Easiest Bug: Improper Token invalidation.](https://infosecwriteups.com/easiest-bug-improper-token-invalidation-378e1bc60d94?source=rss------bug_bounty-5) 
+ - 💯June 3, 2025 - [Remote File Inclusion &lpar;RFI&rpar; Lab — Docker Custom Setup and Exploitation](https://1xf4lc0n.medium.com/remote-file-inclusion-rfi-lab-docker-custom-setup-and-exploitation-44a4e12628fa?source=rss------bug_bounty-5) 
 
- - 💯June 2, 2025 - [How to Start Bug Bounty with Zero Knowledge](https://infosecwriteups.com/how-to-start-bug-bounty-with-zero-knowledge-bfa8c98d897e?source=rss------bug_bounty-5) 
+ - 💯June 3, 2025 - [404 to $4,000: Exposed .git, .env, and Hidden Dev Files via Predictable Paths”](https://infosecwriteups.com/404-to-4-000-exposed-git-env-and-hidden-dev-files-via-predictable-paths-f5723b3ad3f8?source=rss------bug_bounty-5) 
 
- - 💯June 2, 2025 - [Reconocimiento Web con Katana: Guía Completa para Empezar en Bug Bounty](https://medium.com/@jpablo13/reconocimiento-web-con-katana-gu%C3%ADa-completa-para-empezar-en-bug-bounty-0728cfd8f7f4?source=rss------bug_bounty-5) 
+ - 💯June 3, 2025 - [How One Path Traversal in Grafana Unleashed XSS, Open Redirect and SSRF &lpar;CVE-2025–4123&rpar;](https://infosecwriteups.com/how-one-path-traversal-in-grafana-unleashed-xss-open-redirect-and-ssrf-cve-2025-4123-b35245dccaab?source=rss------bug_bounty-5) 
 
- - 💯June 1, 2025 - [Logged in Without Logging In: A $xxx Improper Authentication Flaw in TVA’s Portal](https://medium.com/h7w/logged-in-without-logging-in-a-xxx-improper-authentication-flaw-in-tvas-portal-4c54c87bd512?source=rss------bug_bounty-5) 
+ - 💯June 3, 2025 - [Webhook Vulnerabilities: Hidden Vulnerabilities in Automation Pipelines](https://infosecwriteups.com/webhook-vulnerabilities-hidden-vulnerabilities-in-automation-pipelines-724d09ec6130?source=rss------bug_bounty-5) 
 
- - 💯June 1, 2025 - [The Ultimate Guide to Starting a Career in Website Application Bug Bounty Hunting &lpar; For Absolute…](https://medium.com/@40sp3l/the-ultimate-guide-to-starting-a-career-in-website-application-bug-bounty-hunting-for-absolute-760fc66d3fca?source=rss------bug_bounty-5) 
+ - 💯June 3, 2025 - [The Glitch  in the System: Unmasking the Dark Side of Bug Bounties
+We’ve all seen those…](https://medium.com/@padhyepushkar/the-glitch-in-the-system-unmasking-the-dark-side-of-bug-bounties-weve-all-seen-those-6e878e2da70d?source=rss------bug_bounty-5) 
 
- - 💯June 1, 2025 - [How to find Jupyter Notebook RCE manually?](https://medium.com/@josekuttykunnelthazhebinu/how-to-find-jupyter-notebook-rce-manually-4fb337998dc1?source=rss------bug_bounty-5) 
+ - 💯June 3, 2025 - [2. Setting Up the Ultimate Hacker’s Lab &lpar;Free Tools Only&rpar;](https://infosecwriteups.com/2-setting-up-the-ultimate-hackers-lab-free-tools-only-35b6d7f7f6bc?source=rss------bug_bounty-5) 
 
- - 💯June 1, 2025 - [Tilde Games: Exploiting 8.3 Shortnames on IIS Servers](https://infosecwriteups.com/tilde-games-exploiting-8-3-shortnames-on-iis-servers-6f232071e01f?source=rss------bug_bounty-5) 
+ - 💯June 3, 2025 - [Web Reconnaissance with Katana: A Complete Guide to Getting Started with Bug Bounty](https://medium.com/@jpablo13/web-reconnaissance-with-katana-a-complete-guide-to-getting-started-with-bug-bounty-b9f2499e4c00?source=rss------bug_bounty-5) 
 
- - 💯June 1, 2025 - [A CSRF Story I Encountered on My Bug Bounty Journey](https://enes478.medium.com/a-csrf-story-i-encountered-on-my-bug-bounty-journey-6a037b4025ee?source=rss------bug_bounty-5) 
+ - 💯June 2, 2025 - [Sometimes an informative report can also get you $ in Bug Bounty.](https://medium.com/@charlocomse/sometimes-an-informative-report-can-also-get-you-in-bug-bounty-6aa2cda9ec7b?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
