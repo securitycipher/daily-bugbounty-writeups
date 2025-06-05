@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯June 4, 2025 - [Unlocking the Dark Web: A Curated .onion](https://adityaax.medium.com/unlocking-the-dark-web-a-curated-onion-bdc8bb7fa755?source=rss------bug_bounty-5) 
+ - 💯June 5, 2025 - [⚡ Race Condition That Leads to Privilege Escalation](https://medium.com/@FufuFaf1/race-condition-that-leads-to-privilege-escalation-b2f5ef484768?source=rss------bug_bounty-5) 
 
- - 💯June 4, 2025 - [Exploiting CORS Vulnerability — How to Test Cross-Origin Resource Sharing Vulnerability](https://medium.com/@hrofficial62/exploiting-cors-vulnerability-how-to-test-cross-origin-resource-sharing-vulnerability-fd816fb4f1d6?source=rss------bug_bounty-5) 
+ - 💯June 5, 2025 - [Cookie Attributes — More Than Just Name &amp; Value](https://infosecwriteups.com/cookie-attributes-more-than-just-name-value-a95591be6fba?source=rss------bug_bounty-5) 
 
- - 💯June 4, 2025 - [I responsibly reported two critical security vulnerabilities to AiSensy on 24 May 2025.](https://medium.com/@adithsuhassv/i-responsibly-reported-two-critical-security-vulnerabilities-to-aisensy-on-24-may-2025-82a527be61df?source=rss------bug_bounty-5) 
+ - 💯June 5, 2025 - [Bypassing HackerOne Report Ban Using API Key](https://infosecwriteups.com/bypassing-hackerone-report-ban-using-api-key-061711e873c6?source=rss------bug_bounty-5) 
 
- - 💯June 4, 2025 - [How Did I Hack a Website Just by Reading JS Files](https://infosecwriteups.com/how-did-i-hack-a-website-just-by-reading-js-files-80f73cbfd4c1?source=rss------bug_bounty-5) 
+ - 💯June 5, 2025 - [Create own Hacking SERVER Instead of Portswigger exploit server](https://medium.com/@hrofficial62/create-own-hacking-server-instead-of-portswigger-exploit-server-78b46172e2f6?source=rss------bug_bounty-5) 
 
- - 💯June 4, 2025 - [OWASP Top 10 —](https://medium.com/@hackerfromhills/owasp-top-10-f9462ba19f45?source=rss------bug_bounty-5) 
+ - 💯June 5, 2025 - [Global CMS Chaos: How I Scored a $15,000 Bounty Across Two Programs](https://stevenfloresca.medium.com/global-cms-chaos-how-i-scored-a-15-000-bounty-across-two-programs-b535d1f0b888?source=rss------bug_bounty-5) 
 
- - 💯June 4, 2025 - [Again I Found more than 10+ : Target Info, Vulnerability Description, Steps to Reproduce &amp; POC.](https://medium.com/@ravindrajatav0709/again-i-found-more-than-10-target-info-vulnerability-description-steps-to-reproduce-poc-0ee92851b4e7?source=rss------bug_bounty-5) 
+ - 💯June 4, 2025 - [How my curiosity gave me 2 CVEs!](https://snehbavarva.medium.com/how-my-curiosity-gave-me-2-cves-99c420827411?source=rss------bug_bounty-5) 
 
- - 💯June 3, 2025 - [5 Minutes, 3 Sites, 1 WordPress Vulnerability: My Bug Bounty Win](https://markazgasimov.medium.com/5-minutes-3-sites-1-wordpress-vulnerability-my-bug-bounty-win-9d4d90042833?source=rss------bug_bounty-5) 
+ - 💯June 4, 2025 - [How Can You Earn $9,860 Bug Bounty Hunting Ethically](https://medium.com/@ibtissamhammadi1/how-can-you-earn-9-860-bug-bounty-hunting-ethically-b2457b2e3dae?source=rss------bug_bounty-5) 
 
- - 💯June 3, 2025 - [Your 30-Day Bug Bounty Kickstart for 2025 &lpar;Using Only Free Tools&rpar;](https://medium.com/@vivekps143/your-30-day-bug-bounty-kickstart-for-2025-using-only-free-tools-5a323ff82bbc?source=rss------bug_bounty-5) 
+ - 💯June 4, 2025 - [Security Vulnerability in Google Chat’s Absolute Poll Allows Unauthorized Poll Closure](https://medium.com/@ahmedna126/security-vulnerability-in-google-chats-absolute-poll-allows-unauthorized-poll-closure-7abcaf94197e?source=rss------bug_bounty-5) 
 
- - 💯June 3, 2025 - [The Ultimate Guide to Local File Inclusion &lpar;LFI&rpar;  — From Basics to Real-World Exploits &amp;…](https://medium.com/@zoningxtr/the-ultimate-guide-to-local-file-inclusion-lfi-from-basics-to-real-world-exploits-cc8d0f6d922b?source=rss------bug_bounty-5) 
+ - 💯June 4, 2025 - [Inside the Gate: How I Witnessed a Tool Bypass a Metro Entry Without Ticket — And Why It’s a…](https://yeswehack.medium.com/inside-the-gate-how-i-witnessed-a-tool-bypass-a-metro-entry-without-ticket-and-why-its-a-f795a29f0280?source=rss------bug_bounty-5) 
 
- - 💯June 3, 2025 - [How Hackers Help NASA Stay Secure: Inside the NASA VDP](https://medium.com/@aashifm/how-hackers-help-nasa-stay-secure-inside-the-nasa-vdp-07ec255c46f3?source=rss------bug_bounty-5) 
+ - 💯June 4, 2025 - [☠️ CORS of Destruction: How Misconfigured Origins Let Me Read Everything](https://infosecwriteups.com/%EF%B8%8F-cors-of-destruction-how-misconfigured-origins-let-me-read-everything-15a49261a32a?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
