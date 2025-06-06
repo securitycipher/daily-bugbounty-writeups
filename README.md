@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯June 5, 2025 - [⚡ Race Condition That Leads to Privilege Escalation](https://medium.com/@FufuFaf1/race-condition-that-leads-to-privilege-escalation-b2f5ef484768?source=rss------bug_bounty-5) 
+ - 💯June 6, 2025 - [Solution Of Lab: Unprotected admin functionality](https://medium.com/@cyberawareness/solution-of-lab-unprotected-admin-functionality-0807ffba7c4a?source=rss------bug_bounty-5) 
 
- - 💯June 5, 2025 - [Cookie Attributes — More Than Just Name &amp; Value](https://infosecwriteups.com/cookie-attributes-more-than-just-name-value-a95591be6fba?source=rss------bug_bounty-5) 
+ - 💯June 6, 2025 - [One Click Account takeover](https://medium.com/@sangpalisha/one-click-account-takeover-38db9005533c?source=rss------bug_bounty-5) 
 
- - 💯June 5, 2025 - [Bypassing HackerOne Report Ban Using API Key](https://infosecwriteups.com/bypassing-hackerone-report-ban-using-api-key-061711e873c6?source=rss------bug_bounty-5) 
+ - 💯June 6, 2025 - [Why I’m Preparing for OSCP After Years of Theory and Breaks](https://medium.com/@sivaaditya456/why-im-preparing-for-oscp-after-years-of-theory-and-breaks-6f125dbdec67?source=rss------bug_bounty-5) 
 
- - 💯June 5, 2025 - [Create own Hacking SERVER Instead of Portswigger exploit server](https://medium.com/@hrofficial62/create-own-hacking-server-instead-of-portswigger-exploit-server-78b46172e2f6?source=rss------bug_bounty-5) 
+ - 💯June 6, 2025 - [How I Hacked 100+ Accounts Using Just XSS](https://infosecwriteups.com/how-i-hacked-100-accounts-using-just-xss-7cd61aa785c9?source=rss------bug_bounty-5) 
 
- - 💯June 5, 2025 - [Global CMS Chaos: How I Scored a $15,000 Bounty Across Two Programs](https://stevenfloresca.medium.com/global-cms-chaos-how-i-scored-a-15-000-bounty-across-two-programs-b535d1f0b888?source=rss------bug_bounty-5) 
+ - 💯June 6, 2025 - [How Simple RECON Earned Me ₹XX,000 at Zerodha](https://infosecwriteups.com/how-simple-recon-earned-me-xx-000-at-zerodha-3172aea39c3e?source=rss------bug_bounty-5) 
 
- - 💯June 4, 2025 - [How my curiosity gave me 2 CVEs!](https://snehbavarva.medium.com/how-my-curiosity-gave-me-2-cves-99c420827411?source=rss------bug_bounty-5) 
+ - 💯June 6, 2025 - [Hacking Tools Running Commands.](https://medium.com/@anandrishav2228/hacking-tools-running-commands-7c2d249dbc18?source=rss------bug_bounty-5) 
 
- - 💯June 4, 2025 - [How Can You Earn $9,860 Bug Bounty Hunting Ethically](https://medium.com/@ibtissamhammadi1/how-can-you-earn-9-860-bug-bounty-hunting-ethically-b2457b2e3dae?source=rss------bug_bounty-5) 
+ - 💯June 5, 2025 - [From NA to P3: Unlocking a Premium Feature](https://medium.com/@drhatab/from-na-to-p3-unlocking-a-premium-bug-245936116acb?source=rss------bug_bounty-5) 
 
- - 💯June 4, 2025 - [Security Vulnerability in Google Chat’s Absolute Poll Allows Unauthorized Poll Closure](https://medium.com/@ahmedna126/security-vulnerability-in-google-chats-absolute-poll-allows-unauthorized-poll-closure-7abcaf94197e?source=rss------bug_bounty-5) 
+ - 💯June 5, 2025 - [Roadmap to eJPTv2 Success](https://medium.com/@hrofficial62/roadmap-to-ejptv2-success-dabf0fe9d62b?source=rss------bug_bounty-5) 
 
- - 💯June 4, 2025 - [Inside the Gate: How I Witnessed a Tool Bypass a Metro Entry Without Ticket — And Why It’s a…](https://yeswehack.medium.com/inside-the-gate-how-i-witnessed-a-tool-bypass-a-metro-entry-without-ticket-and-why-its-a-f795a29f0280?source=rss------bug_bounty-5) 
+ - 💯June 5, 2025 - [Google Dorking for Hackers: Secrets, Recon, and Digital Power](https://medium.com/@0xYooZy/google-dorking-for-hackers-secrets-recon-and-digital-power-06a537e1d6bb?source=rss------bug_bounty-5) 
 
- - 💯June 4, 2025 - [☠️ CORS of Destruction: How Misconfigured Origins Let Me Read Everything](https://infosecwriteups.com/%EF%B8%8F-cors-of-destruction-how-misconfigured-origins-let-me-read-everything-15a49261a32a?source=rss------bug_bounty-5) 
+ - 💯June 5, 2025 - [Exploring a Web3 Smart Contract Issue: Gas Exploitation via Unchecked Loops](https://vinaysati.medium.com/exploring-a-web3-smart-contract-issue-gas-exploitation-via-unchecked-loops-492f2899b417?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
