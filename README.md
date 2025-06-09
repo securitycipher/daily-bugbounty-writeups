@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯June 6, 2025 - [Solution Of Lab: Unprotected admin functionality](https://medium.com/@cyberawareness/solution-of-lab-unprotected-admin-functionality-0807ffba7c4a?source=rss------bug_bounty-5) 
+ - 💯June 9, 2025 - [How I Earned $26.91 on Medium Just by Sharing My Bug Bounty Journey](https://medium.com/@vivekps143/how-i-earned-26-91-on-medium-just-by-sharing-my-bug-bounty-journey-776a6b25ce28?source=rss------bug_bounty-5) 
 
- - 💯June 6, 2025 - [One Click Account takeover](https://medium.com/@sangpalisha/one-click-account-takeover-38db9005533c?source=rss------bug_bounty-5) 
+ - 💯June 9, 2025 - [Everything You Need to Know About XSS — with AI Prompts](https://medium.com/@narendarlb123/everything-you-need-to-know-about-xss-with-ai-prompts-438a76ed695f?source=rss------bug_bounty-5) 
 
- - 💯June 6, 2025 - [Why I’m Preparing for OSCP After Years of Theory and Breaks](https://medium.com/@sivaaditya456/why-im-preparing-for-oscp-after-years-of-theory-and-breaks-6f125dbdec67?source=rss------bug_bounty-5) 
+ - 💯June 9, 2025 - [Bypassing Rewrite Rules in Web Servers + WAF Bypass for bug Bounties](https://medium.com/@d1lv3rdn4/bypassing-rewrite-rules-in-web-servers-waf-bypass-for-bug-bounties-ec885c1b2630?source=rss------bug_bounty-5) 
 
- - 💯June 6, 2025 - [How I Hacked 100+ Accounts Using Just XSS](https://infosecwriteups.com/how-i-hacked-100-accounts-using-just-xss-7cd61aa785c9?source=rss------bug_bounty-5) 
+ - 💯June 9, 2025 - [How a Simple Git Leak Led to AWS Keys &amp; Database Credentials](https://medium.com/@shehzadinfosec1337/how-a-simple-git-leak-led-to-aws-keys-database-credentials-1f24ed5bd665?source=rss------bug_bounty-5) 
 
- - 💯June 6, 2025 - [How Simple RECON Earned Me ₹XX,000 at Zerodha](https://infosecwriteups.com/how-simple-recon-earned-me-xx-000-at-zerodha-3172aea39c3e?source=rss------bug_bounty-5) 
+ - 💯June 9, 2025 - [How I bypassed the same open redirect endpoint not once, not twice… but FOUR times](https://ektuhacker.medium.com/how-i-bypassed-the-same-open-redirect-endpoint-not-once-not-twice-but-four-times-1299a56c75f4?source=rss------bug_bounty-5) 
 
- - 💯June 6, 2025 - [Hacking Tools Running Commands.](https://medium.com/@anandrishav2228/hacking-tools-running-commands-7c2d249dbc18?source=rss------bug_bounty-5) 
+ - 💯June 9, 2025 - [Earned My First 3-Digit Bounty with a Reflected XSS: Here’s How I Did It](https://medium.com/@MrLoser/earned-my-first-3-digit-bounty-with-a-reflected-xss-heres-how-i-did-it-372a35573d55?source=rss------bug_bounty-5) 
 
- - 💯June 5, 2025 - [From NA to P3: Unlocking a Premium Feature](https://medium.com/@drhatab/from-na-to-p3-unlocking-a-premium-bug-245936116acb?source=rss------bug_bounty-5) 
+ - 💯June 9, 2025 - [My Laptop Died, So I Hacked with My Phone. No Excuse](https://infosecwriteups.com/my-laptop-died-so-i-hacked-with-my-phone-no-excuse-8dc8d030e43e?source=rss------bug_bounty-5) 
 
- - 💯June 5, 2025 - [Roadmap to eJPTv2 Success](https://medium.com/@hrofficial62/roadmap-to-ejptv2-success-dabf0fe9d62b?source=rss------bug_bounty-5) 
+ - 💯June 9, 2025 - [$500 OTP Bypass: Found It, Proved It, Then…](https://medium.com/@kailasv678/500-otp-bypass-found-it-proved-it-then-3930c9e45d4f?source=rss------bug_bounty-5) 
 
- - 💯June 5, 2025 - [Google Dorking for Hackers: Secrets, Recon, and Digital Power](https://medium.com/@0xYooZy/google-dorking-for-hackers-secrets-recon-and-digital-power-06a537e1d6bb?source=rss------bug_bounty-5) 
+ - 💯June 9, 2025 - [Time Is a Bug: Exploiting Trials Without Touching a Single Tool](https://strangerwhite.medium.com/time-is-a-bug-exploiting-trials-without-touching-a-single-tool-9a019bda8c02?source=rss------bug_bounty-5) 
 
- - 💯June 5, 2025 - [Exploring a Web3 Smart Contract Issue: Gas Exploitation via Unchecked Loops](https://vinaysati.medium.com/exploring-a-web3-smart-contract-issue-gas-exploitation-via-unchecked-loops-492f2899b417?source=rss------bug_bounty-5) 
+ - 💯June 9, 2025 - [A simple Bug Bounty Recon &amp; Exploitation Workflow — A Field Guide](https://medium.com/@d1lv3rdn4/a-simple-bug-bounty-recon-exploitation-workflow-a-field-guide-3061fd0acfc9?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
