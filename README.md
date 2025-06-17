@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯June 16, 2025 - [HUNTR — Bug Bounty Platform for AI/ML](https://medium.com/meetcyber/huntr-bug-bounty-platform-for-ai-ml-c0e4413a7bec?source=rss------bug_bounty-5) 
+ - 💯June 17, 2025 - [AI MEET HACKING — KALI GPT ⚠️](https://medium.com/@patilvedant9112/ai-meet-hacking-kali-gpt-%EF%B8%8F-0d726e73b733?source=rss------bug_bounty-5) 
 
- - 💯June 16, 2025 - [Discovering SQLMC: A Lightweight Tool for Fast SQL Injection Discovery](https://infosecwriteups.com/discovering-sqlmc-a-lightweight-tool-for-fast-sql-injection-discovery-a4042040a932?source=rss------bug_bounty-5) 
+ - 💯June 17, 2025 - [Proxy Misconfiguration + SSRF: How I Chained Two Bugs Into Internal Admin Panel Access](https://infosecwriteups.com/proxy-misconfiguration-ssrf-how-i-chained-two-bugs-into-internal-admin-panel-access-cf0e43bf79e4?source=rss------bug_bounty-5) 
 
- - 💯June 16, 2025 - [Advanced Bug Bounty Recon Playbook &lpar;2025 Edition&rpar; — PART 2](https://medium.com/infosec-ninja/advanced-bug-bounty-recon-playbook-2025-edition-part-2-39faaf2b7fc2?source=rss------bug_bounty-5) 
+ - 💯June 17, 2025 - [Remote Code Execution in Pentaho Business Server](https://infosecwriteups.com/remote-code-execution-in-pentaho-business-server-d5abb6529f73?source=rss------bug_bounty-5) 
 
- - 💯June 16, 2025 - [How to Run SQLMAP from Anywhere in Windows CMD &lpar;Complete Setup Guide&rpar;](https://medium.com/@devanshpatel930/how-to-run-sqlmap-from-anywhere-in-windows-cmd-complete-setup-guide-eee9d61f6303?source=rss------bug_bounty-5) 
+ - 💯June 17, 2025 - [CTF Day&lpar;17&rpar;](https://medium.com/@ahmednarmer1/ctf-day-17-24ec4fd7a7e5?source=rss------bug_bounty-5) 
 
- - 💯June 15, 2025 - [Banner Grabbing in 2025: Still a Goldmine for Attackers?](https://cyberw1ng.medium.com/banner-grabbing-in-2025-still-a-goldmine-for-attackers-b08b21ec723a?source=rss------bug_bounty-5) 
+ - 💯June 17, 2025 - [Server‑Side Parameter Pollution: Hijacking Query Strings for Admin‑Level Access](https://osintteam.blog/server-side-parameter-pollution-hijacking-query-strings-for-admin-level-access-c4048a15974f?source=rss------bug_bounty-5) 
 
- - 💯June 15, 2025 - [I Found a $4,200 Bug in 15 Minutes](https://medium.com/@ibtissamhammadi1/i-found-a-4-200-bug-in-15-minutes-8d1ce968cf6b?source=rss------bug_bounty-5) 
+ - 💯June 17, 2025 - [Cómo Usar Subfinder para Bug Bounty: Guía Completa con Ejemplos y Tips Avanzados](https://medium.com/@jpablo13/c%C3%B3mo-usar-subfinder-para-bug-bounty-gu%C3%ADa-completa-con-ejemplos-y-tips-avanzados-d9260eeb06a1?source=rss------bug_bounty-5) 
 
- - 💯June 15, 2025 - [“Why IDORs Are Everywhere — And How to Find Them”](https://hettt.medium.com/why-idors-are-everywhere-and-how-to-find-them-3ba45128e0f3?source=rss------bug_bounty-5) 
+ - 💯June 16, 2025 - [Reflected XSS Exposed: How a Simple Query Parameter Exposed Informatica’s](https://osintteam.blog/reflected-xss-exposed-how-a-simple-query-parameter-exposed-informaticas-6d5b495d9fd6?source=rss------bug_bounty-5) 
 
- - 💯June 15, 2025 - [I’m Starting a Daily Cybersecurity Series — From SCRATCH!](https://medium.com/@cyberx595/im-starting-a-daily-cybersecurity-series-from-0-65f09ca0aa1b?source=rss------bug_bounty-5) 
+ - 💯June 16, 2025 - [Fuzzing Hidden HTTP Methods for Admin Access](https://osintteam.blog/fuzzing-hidden-http-methods-for-admin-access-ff83f3db6083?source=rss------bug_bounty-5) 
 
- - 💯June 15, 2025 - [Subdomain Enumeration with Sublist3r: Uncovering the Hidden Layers](https://medium.com/@0xYooZy/subdomain-enumeration-with-sublist3r-uncovering-the-hidden-layers-7b7b83e9f238?source=rss------bug_bounty-5) 
+ - 💯June 16, 2025 - [DNS: The Underestimated Attack Surface in Networking](https://medium.com/h7w/dns-the-underestimated-attack-surface-in-networking-b418f8ced713?source=rss------bug_bounty-5) 
 
- - 💯June 15, 2025 - [How I Chained Recon and IDOR to Access 100&#39;s of Credit Cards](https://medium.com/@XCriminal/how-i-chained-recon-and-idor-to-access-100s-of-credit-cards-0ca50eb82a74?source=rss------bug_bounty-5) 
+ - 💯June 16, 2025 - [One Bug Leads to Two Bounties: The Simple Trick That Could Make You Rich](https://medium.com/@mahdisalhi0500/one-bug-leads-to-two-bounties-the-simple-trick-that-could-make-you-rich-46bb1107c98c?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
