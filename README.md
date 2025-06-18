@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯June 17, 2025 - [AI MEET HACKING — KALI GPT ⚠️](https://medium.com/@patilvedant9112/ai-meet-hacking-kali-gpt-%EF%B8%8F-0d726e73b733?source=rss------bug_bounty-5) 
+ - 💯June 18, 2025 - [When Session Fixation Meets Session Confusion: A Case of Cross-User Control](https://infosecwriteups.com/when-session-fixation-meets-session-confusion-a-case-of-cross-user-control-bb2cd0d478e8?source=rss------bug_bounty-5) 
 
- - 💯June 17, 2025 - [Proxy Misconfiguration + SSRF: How I Chained Two Bugs Into Internal Admin Panel Access](https://infosecwriteups.com/proxy-misconfiguration-ssrf-how-i-chained-two-bugs-into-internal-admin-panel-access-cf0e43bf79e4?source=rss------bug_bounty-5) 
+ - 💯June 18, 2025 - [How I hacked a State Results NIC portal with a simple SQL injection](https://infosecwriteups.com/how-i-hacked-a-state-results-nic-portal-with-a-simple-sql-injection-e095725a091e?source=rss------bug_bounty-5) 
 
- - 💯June 17, 2025 - [Remote Code Execution in Pentaho Business Server](https://infosecwriteups.com/remote-code-execution-in-pentaho-business-server-d5abb6529f73?source=rss------bug_bounty-5) 
+ - 💯June 18, 2025 - [How I Hacked Accounts Using Host Header Injection in Password Reset Link — $$](https://infosecwriteups.com/how-i-hacked-accounts-using-host-header-injection-in-password-reset-link-2774431eed89?source=rss------bug_bounty-5) 
 
- - 💯June 17, 2025 - [CTF Day&lpar;17&rpar;](https://medium.com/@ahmednarmer1/ctf-day-17-24ec4fd7a7e5?source=rss------bug_bounty-5) 
+ - 💯June 18, 2025 - [How I Found a Location Spoofing Vulnerability in a Chrome Extension](https://medium.com/@FufuFaf1/how-i-found-a-location-spoofing-vulnerability-in-a-chrome-extension-6b53c56548ad?source=rss------bug_bounty-5) 
 
- - 💯June 17, 2025 - [Server‑Side Parameter Pollution: Hijacking Query Strings for Admin‑Level Access](https://osintteam.blog/server-side-parameter-pollution-hijacking-query-strings-for-admin-level-access-c4048a15974f?source=rss------bug_bounty-5) 
+ - 💯June 18, 2025 - [Click Account Takeover &lpar;ATO&rpar;](https://medium.com/@anandrishav2228/click-account-takeover-ato-532065b4696d?source=rss------bug_bounty-5) 
 
- - 💯June 17, 2025 - [Cómo Usar Subfinder para Bug Bounty: Guía Completa con Ejemplos y Tips Avanzados](https://medium.com/@jpablo13/c%C3%B3mo-usar-subfinder-para-bug-bounty-gu%C3%ADa-completa-con-ejemplos-y-tips-avanzados-d9260eeb06a1?source=rss------bug_bounty-5) 
+ - 💯June 18, 2025 - [BI.ZONE Bug Bounty Platform](https://medium.com/@abhirupkonwar04/bi-zone-bug-bounty-platform-c1c3a6619696?source=rss------bug_bounty-5) 
 
- - 💯June 16, 2025 - [Reflected XSS Exposed: How a Simple Query Parameter Exposed Informatica’s](https://osintteam.blog/reflected-xss-exposed-how-a-simple-query-parameter-exposed-informaticas-6d5b495d9fd6?source=rss------bug_bounty-5) 
+ - 💯June 18, 2025 - [CTF Day&lpar;18&rpar;](https://medium.com/@ahmednarmer1/ctf-day-18-36150509f6cc?source=rss------bug_bounty-5) 
 
- - 💯June 16, 2025 - [Fuzzing Hidden HTTP Methods for Admin Access](https://osintteam.blog/fuzzing-hidden-http-methods-for-admin-access-ff83f3db6083?source=rss------bug_bounty-5) 
+ - 💯June 18, 2025 - [Multi-Step Process with No Access Control on One Step](https://infosecwriteups.com/multi-step-process-with-no-access-control-on-one-step-a17dba1a4415?source=rss------bug_bounty-5) 
 
- - 💯June 16, 2025 - [DNS: The Underestimated Attack Surface in Networking](https://medium.com/h7w/dns-the-underestimated-attack-surface-in-networking-b418f8ced713?source=rss------bug_bounty-5) 
+ - 💯June 18, 2025 - [How to Use Subfinder for Bug Bounty: Complete Guide with Examples and Advanced Tips](https://medium.com/@jpablo13/how-to-use-subfinder-for-bug-bounty-complete-guide-with-examples-and-advanced-tips-779596c456bc?source=rss------bug_bounty-5) 
 
- - 💯June 16, 2025 - [One Bug Leads to Two Bounties: The Simple Trick That Could Make You Rich](https://medium.com/@mahdisalhi0500/one-bug-leads-to-two-bounties-the-simple-trick-that-could-make-you-rich-46bb1107c98c?source=rss------bug_bounty-5) 
+ - 💯June 17, 2025 - [HackTheBox “Down” Walkthrough | TheHiker](https://medium.com/@The_Hiker/hackthebox-down-walkthrough-thehiker-189802e3e5b8?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
