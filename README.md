@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯June 24, 2025 - [DOM XSS in document.write sink using source location.search — PortSwigger⚡](https://medium.com/@RootPwned/dom-xss-in-document-write-sink-using-source-location-search-portswigger-b36e2c7425a1?source=rss------bug_bounty-5) 
+ - 💯June 25, 2025 - [Hacking Topmate.io](https://green-terminals.medium.com/hacking-topmate-io-3f6f8252a742?source=rss------bug_bounty-5) 
 
- - 💯June 24, 2025 - [How Getting Stuck Led Me to a $3,XXX Bounty: The Recon That Almost Meant Nothing](https://kongsec.medium.com/how-getting-stuck-led-me-to-a-3-xxx-bounty-the-recon-that-almost-meant-nothing-a03a354df2cf?source=rss------bug_bounty-5) 
+ - 💯June 25, 2025 - [Web App Pentesting vs Android App Pentesting: A Brutally Honest Breakdown](https://medium.com/@anandrishav2228/web-app-pentesting-vs-android-app-pentesting-a-brutally-honest-breakdown-3da9fdcb3937?source=rss------bug_bounty-5) 
 
- - 💯June 24, 2025 - [Remote File Inclusion &lpar;RFI&rpar; — Full Breakdown for Beginners](https://medium.com/@SKaif009/remote-file-inclusion-rfi-full-breakdown-for-beginners-7f89c55e3b2a?source=rss------bug_bounty-5) 
+ - 💯June 25, 2025 - [THE PHILOSOPHY OF ATTACK: A DEEP DIVE INTO THE GENTIL SECURITY HACKING METHODOLOGY](https://gentilsecurity.medium.com/the-philosophy-of-attack-a-deep-dive-into-the-gentil-security-hacking-methodology-37024510b549?source=rss------bug_bounty-5) 
 
- - 💯June 24, 2025 - [You’re Missing Bugs If You’re Not Reconning Like This](https://su6osec.medium.com/youre-missing-bugs-if-you-re-not-reconning-like-this-c037e0fbbb8a?source=rss------bug_bounty-5) 
+ - 💯June 25, 2025 - [Subdomain Takeovers in 2025](https://su6osec.medium.com/subdomain-takeovers-in-2025-1effb9fb56df?source=rss------bug_bounty-5) 
 
- - 💯June 24, 2025 - [️ Stop API Key Leaks Before They Cost You — Meet KeySentry](https://infosecwriteups.com/%EF%B8%8F-stop-api-key-leaks-before-they-cost-you-meet-keysentry-5521f6c75ab0?source=rss------bug_bounty-5) 
+ - 💯June 25, 2025 - [Exposure Protocol: Information Disclosure in the Wild [Part 4]](https://infosecwriteups.com/exposure-protocol-information-disclosure-in-the-wild-part-4-509a7e6bb1de?source=rss------bug_bounty-5) 
 
- - 💯June 24, 2025 - [How I Found an Unauthenticated API in a Popular Open-Source Project Used by Redacted.com](https://medium.com/@SumitChauhan3754/how-i-found-an-unauthenticated-api-in-a-popular-open-source-project-used-by-redacted-com-b318ebdaf1c0?source=rss------bug_bounty-5) 
+ - 💯June 25, 2025 - [From Confusion to First Bounty](https://medium.com/@ikajakam/from-confusion-to-first-bounty-b721b9025b7b?source=rss------bug_bounty-5) 
 
- - 💯June 24, 2025 - [Nuclei para Bug Bounty: La Guía Definitiva para la Detección de Vulnerabilidades Automatizada](https://medium.com/@jpablo13/nuclei-para-bug-bounty-la-gu%C3%ADa-definitiva-para-la-detecci%C3%B3n-de-vulnerabilidades-automatizada-0e0ad42283ec?source=rss------bug_bounty-5) 
+ - 💯June 25, 2025 - [Nuclei for Bug Bounty: The Ultimate Guide to Automated Vulnerability Detection](https://medium.com/@jpablo13/nuclei-for-bug-bounty-the-ultimate-guide-to-automated-vulnerability-detection-acf0e28b7eac?source=rss------bug_bounty-5) 
 
- - 💯June 23, 2025 - [Real-Time Stealer-Log Monitoring with LeakRadar.io: Detect Leaks Before Attackers Do](https://medium.com/@alexandrevandammepro/real-time-stealer-log-monitoring-with-leakradar-io-detect-leaks-before-attackers-do-44c2ec9687a0?source=rss------bug_bounty-5) 
+ - 💯June 24, 2025 - [How I Found My First Critical Bug Bounty | Unauthenticated Arbitrary File Upload Lead To LFI via…](https://medium.com/@terp0x0/how-i-found-my-first-critical-bug-bounty-unauthenticated-arbitrary-file-upload-lead-to-lfi-via-5f33c80fc44f?source=rss------bug_bounty-5) 
 
- - 💯June 23, 2025 - [Fuzzing Everything](https://pad1ryoshi.medium.com/fuzzing-everything-67ab1c0f4b6a?source=rss------bug_bounty-5) 
+ - 💯June 24, 2025 - [Race Condition 101: How I Exploited a Real Bug Bounty Scenario to Break Backend Validation](https://keroayman77.medium.com/race-condition-101-how-i-exploited-a-real-bug-bounty-scenario-to-break-backend-validation-c39352815f0a?source=rss------bug_bounty-5) 
 
- - 💯June 23, 2025 - [Top 10 Free Ethical Hacking Courses You Can Start Today &lpar;2025&rpar;](https://medium.com/@verylazytech/top-10-free-ethical-hacking-courses-you-can-start-today-2025-2b557fb062ea?source=rss------bug_bounty-5) 
+ - 💯June 24, 2025 - [How to Automate SQLi &amp; XSS Hunting](https://medium.com/@ibtissamhammadi1/how-to-automate-sqli-xss-hunting-9ad7bfbc50b6?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
