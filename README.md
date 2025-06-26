@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯June 25, 2025 - [Hacking Topmate.io](https://green-terminals.medium.com/hacking-topmate-io-3f6f8252a742?source=rss------bug_bounty-5) 
+ - 💯June 26, 2025 - [Beyond the Popup: Turning Stored XSS into Remote Code Execution](https://medium.com/@ramshath1999/beyond-the-popup-turning-stored-xss-into-remote-code-execution-483839d06f58?source=rss------bug_bounty-5) 
 
- - 💯June 25, 2025 - [Web App Pentesting vs Android App Pentesting: A Brutally Honest Breakdown](https://medium.com/@anandrishav2228/web-app-pentesting-vs-android-app-pentesting-a-brutally-honest-breakdown-3da9fdcb3937?source=rss------bug_bounty-5) 
+ - 💯June 26, 2025 - [2025 Bug Bounty Methodology, Toolsets and Persistent Recon](https://ravi73079.medium.com/2025-bug-bounty-methodology-toolsets-and-persistent-recon-d991e39e52ce?source=rss------bug_bounty-5) 
 
- - 💯June 25, 2025 - [THE PHILOSOPHY OF ATTACK: A DEEP DIVE INTO THE GENTIL SECURITY HACKING METHODOLOGY](https://gentilsecurity.medium.com/the-philosophy-of-attack-a-deep-dive-into-the-gentil-security-hacking-methodology-37024510b549?source=rss------bug_bounty-5) 
+ - 💯June 26, 2025 - [Undust: URL Pattern Generator](https://medium.com/meetcyber/undust-url-pattern-generator-a570adb14fe4?source=rss------bug_bounty-5) 
 
- - 💯June 25, 2025 - [Subdomain Takeovers in 2025](https://su6osec.medium.com/subdomain-takeovers-in-2025-1effb9fb56df?source=rss------bug_bounty-5) 
+ - 💯June 26, 2025 - [How I Found XSS — CVE-2025–0133 Using Shodan](https://ch4ndan.medium.com/how-i-found-xss-cve-2025-0133-using-shodan-39a37eae7807?source=rss------bug_bounty-5) 
 
- - 💯June 25, 2025 - [Exposure Protocol: Information Disclosure in the Wild [Part 4]](https://infosecwriteups.com/exposure-protocol-information-disclosure-in-the-wild-part-4-509a7e6bb1de?source=rss------bug_bounty-5) 
+ - 💯June 26, 2025 - [Machine Learning in Threat Detection: Smarter, Faster, and Less Noisy](https://medium.com/@paritoshblogs/machine-learning-in-threat-detection-smarter-faster-and-less-noisy-3fdd39c54fd7?source=rss------bug_bounty-5) 
 
- - 💯June 25, 2025 - [From Confusion to First Bounty](https://medium.com/@ikajakam/from-confusion-to-first-bounty-b721b9025b7b?source=rss------bug_bounty-5) 
+ - 💯June 26, 2025 - [Web Cache Deception: When a 404 Still Leaks Sensitive Data ️️‍♂️](https://medium.com/@chorfimajd22/web-cache-deception-when-a-404-still-leaks-sensitive-data-%EF%B8%8F-%EF%B8%8F-%EF%B8%8F-61338e04b10f?source=rss------bug_bounty-5) 
 
- - 💯June 25, 2025 - [Nuclei for Bug Bounty: The Ultimate Guide to Automated Vulnerability Detection](https://medium.com/@jpablo13/nuclei-for-bug-bounty-the-ultimate-guide-to-automated-vulnerability-detection-acf0e28b7eac?source=rss------bug_bounty-5) 
+ - 💯June 25, 2025 - [Joining the Same Organization Multiple Times Using a Race Condition](https://medium.com/@khaledelnabet/joining-the-same-organization-multiple-times-using-a-race-condition-8844d219b769?source=rss------bug_bounty-5) 
 
- - 💯June 24, 2025 - [How I Found My First Critical Bug Bounty | Unauthenticated Arbitrary File Upload Lead To LFI via…](https://medium.com/@terp0x0/how-i-found-my-first-critical-bug-bounty-unauthenticated-arbitrary-file-upload-lead-to-lfi-via-5f33c80fc44f?source=rss------bug_bounty-5) 
+ - 💯June 25, 2025 - [Bug Bounty Journey — Valid Report Part 7](https://medium.com/@0xF3r4t/bug-bounty-journey-valid-report-part-7-02f45eefea7e?source=rss------bug_bounty-5) 
 
- - 💯June 24, 2025 - [Race Condition 101: How I Exploited a Real Bug Bounty Scenario to Break Backend Validation](https://keroayman77.medium.com/race-condition-101-how-i-exploited-a-real-bug-bounty-scenario-to-break-backend-validation-c39352815f0a?source=rss------bug_bounty-5) 
+ - 💯June 25, 2025 - [Bypassing the Group Member Limit via Race Condition](https://medium.com/@khaledelnabet/bypassing-the-group-member-limit-via-race-condition-2442ad33739e?source=rss------bug_bounty-5) 
 
- - 💯June 24, 2025 - [How to Automate SQLi &amp; XSS Hunting](https://medium.com/@ibtissamhammadi1/how-to-automate-sqli-xss-hunting-9ad7bfbc50b6?source=rss------bug_bounty-5) 
+ - 💯June 25, 2025 - [Hacking APIs | Insecure Deserialization](https://medium.com/@aminefarah802/hacking-apis-1b809d9d5aa0?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
