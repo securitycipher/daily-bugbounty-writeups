@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯June 26, 2025 - [Beyond the Popup: Turning Stored XSS into Remote Code Execution](https://medium.com/@ramshath1999/beyond-the-popup-turning-stored-xss-into-remote-code-execution-483839d06f58?source=rss------bug_bounty-5) 
+ - 💯June 28, 2025 - [Insecure WebSocket Communication leaks PII and why you should never ignore Burp’s WebSocket history…](https://bunny0417.medium.com/insecure-websocket-communication-leaks-pii-and-why-you-should-never-ignore-burps-websocket-history-39ea4df9d11f?source=rss------bug_bounty-5) 
 
- - 💯June 26, 2025 - [2025 Bug Bounty Methodology, Toolsets and Persistent Recon](https://ravi73079.medium.com/2025-bug-bounty-methodology-toolsets-and-persistent-recon-d991e39e52ce?source=rss------bug_bounty-5) 
+ - 💯June 28, 2025 - [️ How I Took Over an Account by Bypassing Email Verification – A Privilege Escalation Story](https://medium.com/@whoadnan01/%EF%B8%8F-how-i-took-over-an-account-by-bypassing-email-verification-a-privilege-escalation-story-5c056c55bbc5?source=rss------bug_bounty-5) 
 
- - 💯June 26, 2025 - [Undust: URL Pattern Generator](https://medium.com/meetcyber/undust-url-pattern-generator-a570adb14fe4?source=rss------bug_bounty-5) 
+ - 💯June 28, 2025 - [Credential Stuffing Attacks: What They Are and How to Detect Them Practically](https://medium.com/@paritoshblogs/credential-stuffing-attacks-what-they-are-and-how-to-detect-them-practically-f51247d5bb5c?source=rss------bug_bounty-5) 
 
- - 💯June 26, 2025 - [How I Found XSS — CVE-2025–0133 Using Shodan](https://ch4ndan.medium.com/how-i-found-xss-cve-2025-0133-using-shodan-39a37eae7807?source=rss------bug_bounty-5) 
+ - 💯June 28, 2025 - [Redirection Gone Wrong: How Trust and the Referer Can Be Weaponized](https://medium.com/@es0557533/redirection-gone-wrong-how-trust-and-the-referer-can-be-weaponized-e329621e9cb6?source=rss------bug_bounty-5) 
 
- - 💯June 26, 2025 - [Machine Learning in Threat Detection: Smarter, Faster, and Less Noisy](https://medium.com/@paritoshblogs/machine-learning-in-threat-detection-smarter-faster-and-less-noisy-3fdd39c54fd7?source=rss------bug_bounty-5) 
+ - 💯June 28, 2025 - [TryHackMe FFUF Room Walkthrough](https://medium.com/@MUHTADIN/tryhackme-ffuf-room-walkthrough-bb107d902fc1?source=rss------bug_bounty-5) 
 
- - 💯June 26, 2025 - [Web Cache Deception: When a 404 Still Leaks Sensitive Data ️️‍♂️](https://medium.com/@chorfimajd22/web-cache-deception-when-a-404-still-leaks-sensitive-data-%EF%B8%8F-%EF%B8%8F-%EF%B8%8F-61338e04b10f?source=rss------bug_bounty-5) 
+ - 💯June 28, 2025 - [METABIGOR - OSINT Tool](https://medium.com/meetcyber/metabigor-osint-tool-cdacb8fb3023?source=rss------bug_bounty-5) 
 
- - 💯June 25, 2025 - [Joining the Same Organization Multiple Times Using a Race Condition](https://medium.com/@khaledelnabet/joining-the-same-organization-multiple-times-using-a-race-condition-8844d219b769?source=rss------bug_bounty-5) 
+ - 💯June 28, 2025 - [FFUF: Fuzzing eficaz para Pentesting y Bug Bounty](https://medium.com/@jpablo13/ffuf-fuzzing-eficaz-para-pentesting-y-bug-bounty-ccb96fa8d5a8?source=rss------bug_bounty-5) 
 
- - 💯June 25, 2025 - [Bug Bounty Journey — Valid Report Part 7](https://medium.com/@0xF3r4t/bug-bounty-journey-valid-report-part-7-02f45eefea7e?source=rss------bug_bounty-5) 
+ - 💯June 27, 2025 - [Unmask GitLab’s $16,000 Bounty: Arbitrary File Read in Project Import](https://medium.com/h7w/unmask-gitlabs-16-000-bounty-arbitrary-file-read-in-project-import-e428cd876797?source=rss------bug_bounty-5) 
 
- - 💯June 25, 2025 - [Bypassing the Group Member Limit via Race Condition](https://medium.com/@khaledelnabet/bypassing-the-group-member-limit-via-race-condition-2442ad33739e?source=rss------bug_bounty-5) 
+ - 💯June 27, 2025 - [Passive Recon for Bug Bounty: Best Tools and Real-World Tactics](https://cyberw1ng.medium.com/passive-recon-for-bug-bounty-best-tools-and-real-world-tactics-9dcd7386eb16?source=rss------bug_bounty-5) 
 
- - 💯June 25, 2025 - [Hacking APIs | Insecure Deserialization](https://medium.com/@aminefarah802/hacking-apis-1b809d9d5aa0?source=rss------bug_bounty-5) 
+ - 💯June 27, 2025 - [Exposure Protocol: Information Disclosure in the Wild [Part 4] ️](https://infosecwriteups.com/exposure-protocol-information-disclosure-in-the-wild-part-4-%EF%B8%8F-779babe65576?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
