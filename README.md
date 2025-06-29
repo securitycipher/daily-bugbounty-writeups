@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯June 28, 2025 - [Insecure WebSocket Communication leaks PII and why you should never ignore Burp’s WebSocket history…](https://bunny0417.medium.com/insecure-websocket-communication-leaks-pii-and-why-you-should-never-ignore-burps-websocket-history-39ea4df9d11f?source=rss------bug_bounty-5) 
+ - 💯June 29, 2025 - [“The Illusion of 100% Recon — Why Most Hackers Miss What Really Matters”](https://su6osec.medium.com/the-illusion-of-100-recon-why-most-hackers-miss-what-really-matters-3e832da2ae02?source=rss------bug_bounty-5) 
 
- - 💯June 28, 2025 - [️ How I Took Over an Account by Bypassing Email Verification – A Privilege Escalation Story](https://medium.com/@whoadnan01/%EF%B8%8F-how-i-took-over-an-account-by-bypassing-email-verification-a-privilege-escalation-story-5c056c55bbc5?source=rss------bug_bounty-5) 
+ - 💯June 29, 2025 - [Phishing via Swagger UI — Exploiting Misconfigurations for Fun &amp; Bounties](https://medium.com/@tsxninja2004/phishing-via-swagger-ui-exploiting-misconfigurations-for-fun-bounties-5442f26a7b81?source=rss------bug_bounty-5) 
 
- - 💯June 28, 2025 - [Credential Stuffing Attacks: What They Are and How to Detect Them Practically](https://medium.com/@paritoshblogs/credential-stuffing-attacks-what-they-are-and-how-to-detect-them-practically-f51247d5bb5c?source=rss------bug_bounty-5) 
+ - 💯June 29, 2025 - [AI Powered Android APK Vulnerability Detection Tool](https://medium.com/ai-apocalypse/ai-powered-android-apk-vulnerability-detection-tool-b371aaee3552?source=rss------bug_bounty-5) 
 
- - 💯June 28, 2025 - [Redirection Gone Wrong: How Trust and the Referer Can Be Weaponized](https://medium.com/@es0557533/redirection-gone-wrong-how-trust-and-the-referer-can-be-weaponized-e329621e9cb6?source=rss------bug_bounty-5) 
+ - 💯June 29, 2025 - [Leaked API Key in Public JavaScript Leads to Potential Abuse](https://medium.com/@aashifm/leaked-api-key-in-public-javascript-leads-to-potential-abuse-e2f255ee0ee5?source=rss------bug_bounty-5) 
 
- - 💯June 28, 2025 - [TryHackMe FFUF Room Walkthrough](https://medium.com/@MUHTADIN/tryhackme-ffuf-room-walkthrough-bb107d902fc1?source=rss------bug_bounty-5) 
+ - 💯June 29, 2025 - [Wishlist Logic bug: How I Manipulated Item Quantities Without Access](https://nanashi0.medium.com/wishlist-logic-bug-how-i-manipulated-item-quantities-without-access-2ebf5aec1971?source=rss------bug_bounty-5) 
 
- - 💯June 28, 2025 - [METABIGOR - OSINT Tool](https://medium.com/meetcyber/metabigor-osint-tool-cdacb8fb3023?source=rss------bug_bounty-5) 
+ - 💯June 29, 2025 - [FFUF: Effective Fuzzing for Pentesting and Bug Bounty](https://medium.com/@jpablo13/ffuf-effective-fuzzing-for-pentesting-and-bug-bounty-5225c4d3c56b?source=rss------bug_bounty-5) 
 
- - 💯June 28, 2025 - [FFUF: Fuzzing eficaz para Pentesting y Bug Bounty](https://medium.com/@jpablo13/ffuf-fuzzing-eficaz-para-pentesting-y-bug-bounty-ccb96fa8d5a8?source=rss------bug_bounty-5) 
+ - 💯June 28, 2025 - [Message Box | hackinghub | write-up](https://medium.com/@sari.mmusab/message-box-hackinghub-write-up-f127bb87299c?source=rss------bug_bounty-5) 
 
- - 💯June 27, 2025 - [Unmask GitLab’s $16,000 Bounty: Arbitrary File Read in Project Import](https://medium.com/h7w/unmask-gitlabs-16-000-bounty-arbitrary-file-read-in-project-import-e428cd876797?source=rss------bug_bounty-5) 
+ - 💯June 28, 2025 - [Behind the Race Condition Bug](https://nanashi0.medium.com/behind-the-race-condition-bug-ab21bd27240b?source=rss------bug_bounty-5) 
 
- - 💯June 27, 2025 - [Passive Recon for Bug Bounty: Best Tools and Real-World Tactics](https://cyberw1ng.medium.com/passive-recon-for-bug-bounty-best-tools-and-real-world-tactics-9dcd7386eb16?source=rss------bug_bounty-5) 
+ - 💯June 28, 2025 - [How I Chained a Simple Text Injection with OAuth Misconfiguration on NASA](https://insomnia-x.medium.com/how-i-chained-a-simple-text-injection-with-oauth-misconfiguration-on-nasa-497223652bde?source=rss------bug_bounty-5) 
 
- - 💯June 27, 2025 - [Exposure Protocol: Information Disclosure in the Wild [Part 4] ️](https://infosecwriteups.com/exposure-protocol-information-disclosure-in-the-wild-part-4-%EF%B8%8F-779babe65576?source=rss------bug_bounty-5) 
+ - 💯June 28, 2025 - [Stored XSS via Profile Name Field](https://markazgasimov.medium.com/stored-xss-via-profile-name-field-4235fd476617?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
