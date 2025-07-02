@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 1, 2025 - [Authentication Bypass via Email Domain Suffix Manipulation](https://bishal0x01.medium.com/authentication-bypass-via-email-domain-suffix-manipulation-c866501c7b4b?source=rss------bug_bounty-5) 
+ - 💯July 2, 2025 - [SSRF 2.0: Bypassing Internal Protections via Redirect Loops](https://medium.com/@narendarlb123/ssrf-2-0-bypassing-internal-protections-via-redirect-loops-ddbfdb9a8ce6?source=rss------bug_bounty-5) 
 
- - 💯July 1, 2025 - [JavaScript Files: A Pentester’s Treasure Trove](https://medium.com/@narendarlb123/javascript-files-a-pentesters-treasure-trove-ec4c393a23c5?source=rss------bug_bounty-5) 
+ - 💯July 2, 2025 - [Burp Extensions You’re Not Using &lpar;But Should&rpar;: Secret Weapons for Modern Web Apps](https://infosecwriteups.com/burp-extensions-youre-not-using-but-should-secret-weapons-for-modern-web-apps-dd7e8b7de642?source=rss------bug_bounty-5) 
 
- - 💯July 1, 2025 - [Top 10 Ways to Achieve Remote Code Execution &lpar;RCE&rpar; on Web Applications](https://fdzdev.medium.com/top-10-ways-to-achieve-remote-code-execution-rce-on-web-applications-d923246b916b?source=rss------bug_bounty-5) 
+ - 💯July 2, 2025 - [How to use FOFA for security research](https://infosecwriteups.com/how-to-use-fofa-for-security-research-dafb8e00aa14?source=rss------bug_bounty-5) 
 
- - 💯July 1, 2025 - [Zoomex partners with HackenProof to launch a new Vulnerability Bounty Program!](https://medium.com/@zoomexofficial/zoomex-partners-with-hackenproof-to-launch-a-new-vulnerability-bounty-program-a6725b3cfa8a?source=rss------bug_bounty-5) 
+ - 💯July 2, 2025 - [Day 7: Reflected XSS into attribute with angle brackets HTML-encoded: Zero to Hero Series —…](https://infosecwriteups.com/day-7-reflected-xss-into-attribute-with-angle-brackets-html-encoded-zero-to-hero-series-8b0c775fc7b5?source=rss------bug_bounty-5) 
 
- - 💯July 1, 2025 - [SQL Injection Praktikası: Manual Hücum Nümunəsi](https://medium.com/@natiqsalifov29/sql-injection-praktikas%C4%B1-manual-h%C3%BCcum-n%C3%BCmun%C9%99si-6835517f78c5?source=rss------bug_bounty-5) 
+ - 💯July 2, 2025 - [️ How I Achieved Full Account Takeover via Horizontal Privilege Escalation on an Authenticated…](https://medium.com/@hacker_space11/%EF%B8%8F-how-i-achieved-full-account-takeover-via-horizontal-privilege-escalation-on-an-authenticated-d727f52d8fd2?source=rss------bug_bounty-5) 
 
- - 💯July 1, 2025 - [My 6-Month Bug Bounty Review ️‍♂️](https://medium.com/@dsmodi484/my-6-month-bug-bounty-review-%EF%B8%8F-%EF%B8%8F-8469f3ca230f?source=rss------bug_bounty-5) 
+ - 💯July 2, 2025 - [Bypassing Payment for Project Creation](https://medium.com/@Eyax0/bypassing-payment-for-project-creation-81b5e0f02c4c?source=rss------bug_bounty-5) 
 
- - 💯July 1, 2025 - [Massive Data Leak using Unauthenticated ARC GIS REST service](https://infosecwriteups.com/massive-data-leak-using-unauthenticated-arc-gis-rest-service-7a59ca13ca28?source=rss------bug_bounty-5) 
+ - 💯July 2, 2025 - [Bypassing GraphQL Brute Force Protections](https://osintteam.blog/bypassing-graphql-brute-force-protections-fdccecc50c81?source=rss------bug_bounty-5) 
 
- - 💯July 1, 2025 - [The HTTP Basics to Advanced: Beginner Friendly Guide to How the Web Works](https://medium.com/@secshubhamsharma/the-http-basics-to-advanced-beginner-friendly-guide-to-how-the-web-works-816ed26017e8?source=rss------bug_bounty-5) 
+ - 💯July 2, 2025 - [Write-up Hack the system Sattracker](https://medium.com/@D4LTON/write-up-hack-the-system-sattracker-52f042be40b9?source=rss------bug_bounty-5) 
 
- - 💯July 1, 2025 - [Hacking APIs: Broken Object Property Level Authorization](https://iaraoz.medium.com/hacking-apis-broken-object-property-level-authorization-ac4f0c14975e?source=rss------bug_bounty-5) 
-
- - 💯July 1, 2025 - [Accidental Exposure of Private GraphQL Fields](https://infosecwriteups.com/accidental-exposure-of-private-graphql-fields-4224a916140a?source=rss------bug_bounty-5) 
+ - 💯July 2, 2025 - [gf: Your Essential Ally for Vulnerability Recognition and Detection in Bug Bounty](https://medium.com/@jpablo13/gf-your-essential-ally-for-vulnerability-recognition-and-detection-in-bug-bounty-a12f04a110ff?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
