@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 3, 2025 - [CSRF to ATO: How I Took Over Accounts on Target.com with One POST Request](https://medium.com/@SKaif009/csrf-to-ato-how-i-took-over-accounts-on-target-com-with-one-post-request-3ab95112900c?source=rss------bug_bounty-5) 
+ - 💯July 4, 2025 - [Bug Bounty Lessons from Two Out-of-Scope Reports: A Learning Journey, Not Just a Win Story](https://medium.com/@a5adujjaman/bug-bounty-lessons-from-two-out-of-scope-reports-a-learning-journey-not-just-a-win-story-9db3e40ae587?source=rss------bug_bounty-5) 
 
- - 💯July 3, 2025 - [One SSRF to Rule Them All](https://infosecwriteups.com/one-ssrf-to-rule-them-all-f6563afce506?source=rss------bug_bounty-5) 
+ - 💯July 4, 2025 - [Account Takeover via OTP Brute Force in E-commerce Platform .](https://waleedosamaeg.medium.com/account-takeover-via-otp-brute-force-in-e-commerce-platform-7f764a2fb664?source=rss------bug_bounty-5) 
 
- - 💯July 3, 2025 - [Fake Logins, Real Costs: The OTP Bug Worth €X,XXX](https://infosecwriteups.com/fake-logins-real-costs-the-otp-bug-worth-x-xxx-74a422791385?source=rss------bug_bounty-5) 
+ - 💯July 4, 2025 - [GoBuster: Tu Herramienta Esencial para la Enumeración Web, el Pentesting y Bug Bounty](https://medium.com/@jpablo13/gobuster-tu-herramienta-esencial-para-la-enumeraci%C3%B3n-web-el-pentesting-y-bug-bounty-73ba413f3330?source=rss------bug_bounty-5) 
 
- - 💯July 3, 2025 - [How a Simple IDOR in a Payment Flow Led to Order Manipulation and PII Exposure](https://medium.com/@aryaveersinghrathore_1/how-a-simple-idor-in-a-payment-flow-led-to-order-manipulation-and-pii-exposure-ec3ed410b08d?source=rss------bug_bounty-5) 
+ - 💯July 3, 2025 - [How I Unlocked Premium Features for Free via a Simple API Trick &lpar;Privilege Escalation Story&rpar;](https://medium.com/@FufuFaf1/how-i-unlocked-premium-features-for-free-via-a-simple-api-trick-privilege-escalation-story-ac1b4edba454?source=rss------bug_bounty-5) 
 
- - 💯July 3, 2025 - [Hunting Reflected XSS in PAN-OS: A Case Study on CVE-2025–0133](https://medium.com/@sangpalisha/hunting-reflected-xss-in-pan-os-a-case-study-on-cve-2025-0133-6f693d211a16?source=rss------bug_bounty-5) 
+ - 💯July 3, 2025 - [Consulta DNS e Enumeração com Nameservers](https://medium.com/@jjrsilv/consulta-dns-e-enumera%C3%A7%C3%A3o-com-nameservers-2869ae149dac?source=rss------bug_bounty-5) 
 
- - 💯July 3, 2025 - [Performing CSRF Exploits Over GraphQL](https://infosecwriteups.com/performing-csrf-exploits-over-graphql-d6e1165d44dd?source=rss------bug_bounty-5) 
+ - 💯July 3, 2025 - [Bypassing Purchase Verification to Access Game Download Page via Fuzzing](https://medium.com/@yossefmohamedsalah2001/bypassing-purchase-verification-to-access-game-download-page-via-fuzzing-99d83d6052cc?source=rss------bug_bounty-5) 
 
- - 💯July 3, 2025 - [This Simple IDOR Let Me Access Private User Photos &lpar;Earned $500&rpar;](https://jalwan.medium.com/this-simple-idor-let-me-access-private-user-photos-earned-500-d0537edba677?source=rss------bug_bounty-5) 
+ - 💯July 3, 2025 - [Cariddi: Ultimate Bug Bounty Recon](https://medium.com/meetcyber/cariddi-ultimate-bug-bounty-recon-354f44f8bc9d?source=rss------bug_bounty-5) 
 
- - 💯July 3, 2025 - [Want to Be a Hacker &lpar;The Good Kind&rpar;? Your Bug Bounty Adventure Map Starts Now!](https://medium.com/@0m3g4___/want-to-be-a-hacker-the-good-kind-your-bug-bounty-adventure-map-starts-now-32fab9fb3ff4?source=rss------bug_bounty-5) 
+ - 💯July 3, 2025 - [From LFI to RCE via PHP Sessions &lpar;PHP 5&rpar; — A Complete Guide with Real Examples](https://medium.com/@zoningxtr/from-lfi-to-rce-via-php-sessions-php-5-a-complete-guide-with-real-examples-6ced00a1ae10?source=rss------bug_bounty-5) 
 
- - 💯July 3, 2025 - [How to Find Domains Owned by a Company](https://medium.com/@j4xx3n/how-to-find-domains-owned-by-a-company-3ae0e5cb2ced?source=rss------bug_bounty-5) 
+ - 💯July 3, 2025 - [The Bug You’ll Never See — Until You Flip the Flag](https://su6osec.medium.com/the-bug-youll-never-see-until-you-flip-the-flag-fbec93ad5fa9?source=rss------bug_bounty-5) 
 
- - 💯July 3, 2025 - [Cybersecurity dan Penetration Testing](https://medium.com/@mluqmaan22/cybersecurity-dan-penetration-testing-e50d8afa61bc?source=rss------bug_bounty-5) 
+ - 💯July 3, 2025 - [From LFI to RCE via expect:// PHP Wrapper — A Deep Dive with Practical Examples ✨](https://medium.com/@zoningxtr/from-lfi-to-rce-via-expect-php-wrapper-a-deep-dive-with-practical-examples-699690073fe8?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
