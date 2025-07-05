@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 4, 2025 - [Bug Bounty Lessons from Two Out-of-Scope Reports: A Learning Journey, Not Just a Win Story](https://medium.com/@a5adujjaman/bug-bounty-lessons-from-two-out-of-scope-reports-a-learning-journey-not-just-a-win-story-9db3e40ae587?source=rss------bug_bounty-5) 
+ - 💯July 5, 2025 - [OWASP Pentest Series &lpar;12/12&rpar;](https://medium.com/@thezeeshankhan/owasp-pentest-series-12-12-62246e07f700?source=rss------bug_bounty-5) 
 
- - 💯July 4, 2025 - [Account Takeover via OTP Brute Force in E-commerce Platform .](https://waleedosamaeg.medium.com/account-takeover-via-otp-brute-force-in-e-commerce-platform-7f764a2fb664?source=rss------bug_bounty-5) 
+ - 💯July 5, 2025 - [Exposed WordPress XML-RPC on akcmv.gov.lv: Brute Force and DDoS Risks](https://medium.com/@gourisankara357/exposed-wordpress-xml-rpc-on-akcmv-gov-lv-brute-force-and-ddos-risks-554c2a29edcf?source=rss------bug_bounty-5) 
 
- - 💯July 4, 2025 - [GoBuster: Tu Herramienta Esencial para la Enumeración Web, el Pentesting y Bug Bounty](https://medium.com/@jpablo13/gobuster-tu-herramienta-esencial-para-la-enumeraci%C3%B3n-web-el-pentesting-y-bug-bounty-73ba413f3330?source=rss------bug_bounty-5) 
+ - 💯July 5, 2025 - [RFD Vulnerability Hunting](https://medium.com/meetcyber/rfd-vulnerability-hunting-4d5d3747b659?source=rss------bug_bounty-5) 
 
- - 💯July 3, 2025 - [How I Unlocked Premium Features for Free via a Simple API Trick &lpar;Privilege Escalation Story&rpar;](https://medium.com/@FufuFaf1/how-i-unlocked-premium-features-for-free-via-a-simple-api-trick-privilege-escalation-story-ac1b4edba454?source=rss------bug_bounty-5) 
+ - 💯July 5, 2025 - [Hunting SSRF in a Single Page Application &lpar;SPA&rpar; — A Bug Bounty Breakdown](https://medium.com/@jabaribrown62/hunting-ssrf-in-a-single-page-application-spa-a-bug-bounty-breakdown-33187d2e4fb0?source=rss------bug_bounty-5) 
 
- - 💯July 3, 2025 - [Consulta DNS e Enumeração com Nameservers](https://medium.com/@jjrsilv/consulta-dns-e-enumera%C3%A7%C3%A3o-com-nameservers-2869ae149dac?source=rss------bug_bounty-5) 
+ - 💯July 5, 2025 - [From LFI to RCE via File Uploads — A Complete Step-by-Step Guide ️](https://medium.com/@zoningxtr/from-lfi-to-rce-via-file-uploads-a-complete-step-by-step-guide-%EF%B8%8F-20637a1efa29?source=rss------bug_bounty-5) 
 
- - 💯July 3, 2025 - [Bypassing Purchase Verification to Access Game Download Page via Fuzzing](https://medium.com/@yossefmohamedsalah2001/bypassing-purchase-verification-to-access-game-download-page-via-fuzzing-99d83d6052cc?source=rss------bug_bounty-5) 
+ - 💯July 5, 2025 - [$1,000 Bounty: Stored XSS in Trix Editor v2.1.1 via Malicious Paste Payload](https://medium.com/h7w/1-000-bounty-stored-xss-in-trix-editor-v2-1-1-via-malicious-paste-payload-4fa413fcde28?source=rss------bug_bounty-5) 
 
- - 💯July 3, 2025 - [Cariddi: Ultimate Bug Bounty Recon](https://medium.com/meetcyber/cariddi-ultimate-bug-bounty-recon-354f44f8bc9d?source=rss------bug_bounty-5) 
+ - 💯July 5, 2025 - [Browser Extension Recon: Finding Bugs in Official Extensions of Web Platforms](https://osintteam.blog/browser-extension-recon-finding-bugs-in-official-extensions-of-web-platforms-c2a1a0e2203a?source=rss------bug_bounty-5) 
 
- - 💯July 3, 2025 - [From LFI to RCE via PHP Sessions &lpar;PHP 5&rpar; — A Complete Guide with Real Examples](https://medium.com/@zoningxtr/from-lfi-to-rce-via-php-sessions-php-5-a-complete-guide-with-real-examples-6ced00a1ae10?source=rss------bug_bounty-5) 
+ - 💯July 5, 2025 - [$2,000 Bounty: 0000 OTP Bypass Leads to Phone Number Takeover in inDrive](https://osintteam.blog/2-000-bounty-0000-otp-bypass-leads-to-phone-number-takeover-in-indrive-99f29f46e793?source=rss------bug_bounty-5) 
 
- - 💯July 3, 2025 - [The Bug You’ll Never See — Until You Flip the Flag](https://su6osec.medium.com/the-bug-youll-never-see-until-you-flip-the-flag-fbec93ad5fa9?source=rss------bug_bounty-5) 
+ - 💯July 5, 2025 - [Just Wanted to Be a Driver, Ended Up Discovering a Time Capsule](https://infosecwriteups.com/just-wanted-to-be-a-driver-ended-up-discovering-a-time-capsule-085808a4baa8?source=rss------bug_bounty-5) 
 
- - 💯July 3, 2025 - [From LFI to RCE via expect:// PHP Wrapper — A Deep Dive with Practical Examples ✨](https://medium.com/@zoningxtr/from-lfi-to-rce-via-expect-php-wrapper-a-deep-dive-with-practical-examples-699690073fe8?source=rss------bug_bounty-5) 
+ - 💯July 5, 2025 - [$2,000 Bounty: Breaking Capability Enforcement in CosmWasm Contracts](https://infosecwriteups.com/2-000-bounty-breaking-capability-enforcement-in-cosmwasm-contracts-ddea3aa5d3dc?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
