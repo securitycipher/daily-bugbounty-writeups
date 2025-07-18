@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 17, 2025 - [De datos a información: cómo transformé mi fase de reconocimiento en Bug Bounty](https://gorkaaa.medium.com/de-datos-a-informaci%C3%B3n-c%C3%B3mo-transform%C3%A9-mi-fase-de-reconocimiento-en-bug-bounty-abe0d8355d05?source=rss------bug_bounty-5) 
+ - 💯July 18, 2025 - [De reconocimiento pasivo a investigativo: transformando mi fase de reconocimiento en Bug Bounty](https://gorkaaa.medium.com/de-reconocimiento-pasivo-a-investigativo-transformando-mi-fase-de-reconocimiento-en-bug-bounty-72226de48526?source=rss------bug_bounty-5) 
 
- - 💯July 17, 2025 - [Bug Bounty Quick Start: 12 One-Liners to Go From Recon to Exploitation](https://medium.com/@khanshadan.313/bug-bounty-quick-start-12-one-liners-to-go-from-recon-to-exploitation-6e8142ad69ef?source=rss------bug_bounty-5) 
+ - 💯July 18, 2025 - [How I Found My First Critical Bug: Account Takeover via Email Verification Bypass](https://medium.com/@4m3n_d/how-i-found-my-first-critical-bug-account-takeover-via-email-verification-bypass-7481b814f902?source=rss------bug_bounty-5) 
 
- - 💯July 17, 2025 - [From 404 to Jackpot: A Bug That Taught Me More Than a Bounty Ever Could](https://medium.com/@krypto.sec/from-404-to-jackpot-a-bug-that-taught-me-more-than-a-bounty-ever-could-f25889ec1e48?source=rss------bug_bounty-5) 
+ - 💯July 18, 2025 - [Top Dark Web Forums With .onion Links to Explore in 2025](https://adityaax.medium.com/top-dark-web-forums-with-onion-links-to-explore-in-2025-9ad4daab27f3?source=rss------bug_bounty-5) 
 
- - 💯July 17, 2025 - [Google Drive Auth Bypass: How View-Only Folder Sharing Leaked Google Form Responses &lpar;$5000 Bug&rpar;](https://infosecwriteups.com/google-drive-auth-bypass-how-view-only-folder-sharing-leaked-google-form-responses-5000-bug-fa99c7bbfdf4?source=rss------bug_bounty-5) 
+ - 💯July 18, 2025 - [$2,000 |critical Samsung Bug Bounty: Bypassing Plan Restrictions via Business Logic Flaw](https://medium.com/@aminefarah802/2-000-critical-samsung-bug-bounty-bypassing-plan-restrictions-via-business-logic-flaw-e18eace8a6cf?source=rss------bug_bounty-5) 
 
- - 💯July 17, 2025 - [CTF Day&lpar;34&rpar;](https://medium.com/@ahmednarmer1/ctf-day-34-8334270d207b?source=rss------bug_bounty-5) 
+ - 💯July 18, 2025 - [Mastering the Hunt: The Ultimate Guide to Modern Bug Bounty Hunting](https://osintteam.blog/mastering-the-hunt-the-ultimate-guide-to-modern-bug-bounty-hunting-416357b08abb?source=rss------bug_bounty-5) 
 
- - 💯July 17, 2025 - [CSRF via Image Tags in Email Clients](https://infosecwriteups.com/csrf-via-image-tags-in-email-clients-e61de514b64f?source=rss------bug_bounty-5) 
+ - 💯July 18, 2025 - [SSRF via PDF Export in Analytics Dashboard](https://medium.com/h7w/ssrf-via-pdf-export-in-analytics-dashboard-54e304b438f9?source=rss------bug_bounty-5) 
 
- - 💯July 16, 2025 - [CTF Day&lpar;33&rpar;](https://medium.com/@ahmednarmer1/ctf-day-33-aef2b1477fa5?source=rss------bug_bounty-5) 
+ - 💯July 18, 2025 - [$240 Bounty: Denial of Service Vulnerability in Python](https://medium.com/h7w/240-bounty-denial-of-service-vulnerability-in-python-f42b24cfa066?source=rss------bug_bounty-5) 
 
- - 💯July 16, 2025 - [Apex Domain Bruteforcing for Wide Recon](https://medium.com/@sepix/apex-domain-bruteforcing-for-wide-recon-d5460bc1b5b1?source=rss------bug_bounty-5) 
+ - 💯July 18, 2025 - [Insecure Design &lpar;OWASP A04&rpar;: Guía de Hacking, Bug Bounty y Prevención](https://medium.com/@jpablo13/dise%C3%B1o-inseguro-gu%C3%ADa-de-hacking-bug-bounty-y-prevenci%C3%B3n-b8a50b23fb71?source=rss------bug_bounty-5) 
 
- - 💯July 16, 2025 - [The Anatomy of a Critical Bug](https://infosecwriteups.com/the-anatomy-of-a-critical-bug-388329a1c55a?source=rss------bug_bounty-5) 
+ - 💯July 17, 2025 - [Bug Bounty Journey — Valid Report Part 8](https://medium.com/@0xF3r4t/bug-bounty-journey-valid-report-part-8-0edfa67082b2?source=rss------bug_bounty-5) 
+
+ - 💯July 17, 2025 - [Introduction](https://medium.com/@chorfimajd22/introduction-dd73e4ae2897?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
