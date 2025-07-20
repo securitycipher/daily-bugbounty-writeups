@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 19, 2025 - [Abusing Broken Access Control and SQL Injection in the Wild](https://systemweakness.com/abusing-broken-access-control-and-sql-injection-in-the-wild-891559e13199?source=rss------bug_bounty-5) 
+ - 💯July 20, 2025 - [So… I Could Reset Someone Else’s Password by Accident?](https://medium.com/@viratavi1223/so-i-could-reset-someone-elses-password-by-accident-c140a41a8b8a?source=rss------bug_bounty-5) 
 
- - 💯July 19, 2025 - [KoiLoader Malware: Turning Financial Statements into Security Nightmares](https://medium.com/@devanshpatel930/koiloader-malware-turning-financial-statements-into-security-nightmares-503176ce92e1?source=rss------bug_bounty-5) 
+ - 💯July 20, 2025 - [El bug no está en el código, está en cómo se pensó el sistema](https://gorkaaa.medium.com/el-bug-no-est%C3%A1-en-el-c%C3%B3digo-est%C3%A1-en-c%C3%B3mo-se-pens%C3%B3-el-sistema-e4f986b89ce6?source=rss------bug_bounty-5) 
 
- - 💯July 19, 2025 - [No ataques endpoints. Ataca supuestos: reinventando mi enfoque en Bug Bounty](https://gorkaaa.medium.com/no-ataques-endpoints-ataca-supuestos-reinventando-mi-enfoque-en-bug-bounty-bb9a0deb2acc?source=rss------bug_bounty-5) 
+ - 💯July 20, 2025 - [Did Your Exposed JS Files Just Get Your App Hacked?](https://infosecwriteups.com/did-your-exposed-js-files-just-get-your-app-hacked-2f8c43789091?source=rss------bug_bounty-5) 
 
- - 💯July 19, 2025 - [Begin Your Bug Bounty Journey [in 2025]](https://medium.com/@hrofficial62/begin-your-bug-bounty-journey-in-2025-54635a59eccc?source=rss------bug_bounty-5) 
+ - 💯July 20, 2025 - [Remote Code Execution via Misconfigured File Upload Using Encrypted Payload &lpar;AK47WebShell&rpar;](https://medium.com/@maheshwaripuneet028/remote-code-execution-via-misconfigured-file-upload-using-encrypted-payload-ak47webshell-d34fe7bd72f3?source=rss------bug_bounty-5) 
 
- - 💯July 19, 2025 - [How to Start Bug Hunting: A Beginner’s Guide to Ethical Hacking](https://medium.com/@CYberVIaz/how-to-start-bug-hunting-a-beginners-guide-to-ethical-hacking-17930bb79690?source=rss------bug_bounty-5) 
+ - 💯July 20, 2025 - [Stop Employee Account Takeovers Before They Start](https://medium.com/@alexandrevandammepro/stop-employee-account-takeovers-before-they-start-0805a91db60e?source=rss------bug_bounty-5) 
 
- - 💯July 19, 2025 - [2FA simple bypass [ES] [PortSwigger]](https://h0lm3s.medium.com/2fa-simple-bypass-es-portswigger-12a5671d0eb8?source=rss------bug_bounty-5) 
+ - 💯July 19, 2025 - [$300 Bounty: Limited LFI via Markdown in GSA Dashboard](https://medium.com/h7w/300-bounty-limited-lfi-via-markdown-in-gsa-dashboard-34aee1b2de23?source=rss------bug_bounty-5) 
 
- - 💯July 19, 2025 - [$5375 Bounty: IDOR — Creating a Share Link for Any Campaign Planner in Facebook Business…](https://medium.com/@muriarfad/5375-bounty-idor-creating-a-share-link-for-any-campaign-planner-in-facebook-business-03f0994d4d16?source=rss------bug_bounty-5) 
+ - 💯July 19, 2025 - [$1000 Bounty: From 403 to Source Code](https://osintteam.blog/1000-bounty-from-403-to-source-code-28e9a9c572d8?source=rss------bug_bounty-5) 
 
- - 💯July 19, 2025 - [Insecure Design &lpar;OWASP A04&rpar;: Hacking, Bug Bounty, and Prevention Guide](https://medium.com/@jpablo13/insecure-design-owasp-a04-hacking-bug-bounty-and-prevention-guide-4d4851d73677?source=rss------bug_bounty-5) 
+ - 💯July 19, 2025 - [How I found a loophole in Google’s region restrictions — and yes, it’s triaged now.](https://mfaizananwar.medium.com/how-i-found-a-loophole-in-googles-region-restrictions-and-yes-it-s-triaged-now-3cd5dc76e15a?source=rss------bug_bounty-5) 
 
- - 💯July 19, 2025 - [$500 Bounty: Excessive Memory Usage in Messenger and Facebook App When Rendering Invalid GIFs](https://medium.com/@muriarfad/500-bounty-excessive-memory-usage-in-messenger-and-facebook-app-when-rendering-invalid-gifs-b1f1bf15ba18?source=rss------bug_bounty-5) 
+ - 💯July 19, 2025 - [MISSION ACCOMPLISHED: Cyber Sentinel Initiative Complete!](https://medium.com/@kohihamed3/mission-accomplished-cyber-sentinel-initiative-complete-3acc0eaabd28?source=rss------bug_bounty-5) 
 
- - 💯July 18, 2025 - [Break into any Microsoft building: Leaking PII in Microsoft Guest Check-In](https://medium.com/@faav/break-into-any-microsoft-building-leaking-pii-in-microsoft-guest-check-in-6f3dbd72d385?source=rss------bug_bounty-5) 
+ - 💯July 19, 2025 - [I Found a Critical Bug in Just 30 Minutes](https://medium.com/@ibtissamhammadi1/i-found-a-critical-bug-in-just-30-minutes-b7dd320cf38f?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
