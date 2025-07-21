@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 20, 2025 - [So… I Could Reset Someone Else’s Password by Accident?](https://medium.com/@viratavi1223/so-i-could-reset-someone-elses-password-by-accident-c140a41a8b8a?source=rss------bug_bounty-5) 
+ - 💯July 21, 2025 - [DOGE Data Breach: A Cybersecurity Wake-Up Call](https://medium.com/@kalariyahet23/introduction-0fc5099a4b51?source=rss------bug_bounty-5) 
 
- - 💯July 20, 2025 - [El bug no está en el código, está en cómo se pensó el sistema](https://gorkaaa.medium.com/el-bug-no-est%C3%A1-en-el-c%C3%B3digo-est%C3%A1-en-c%C3%B3mo-se-pens%C3%B3-el-sistema-e4f986b89ce6?source=rss------bug_bounty-5) 
+ - 💯July 21, 2025 - [CTF Day&lpar;38&rpar;](https://medium.com/@ahmednarmer1/ctf-day-38-89735a37ed5f?source=rss------bug_bounty-5) 
 
- - 💯July 20, 2025 - [Did Your Exposed JS Files Just Get Your App Hacked?](https://infosecwriteups.com/did-your-exposed-js-files-just-get-your-app-hacked-2f8c43789091?source=rss------bug_bounty-5) 
+ - 💯July 21, 2025 - [DeepSeek AI: Security Flaws and Privacy Risks Exposed](https://medium.com/@kalariyahet23/deepseek-ai-security-flaws-and-privacy-risks-exposed-57a6836940ea?source=rss------bug_bounty-5) 
 
- - 💯July 20, 2025 - [Remote Code Execution via Misconfigured File Upload Using Encrypted Payload &lpar;AK47WebShell&rpar;](https://medium.com/@maheshwaripuneet028/remote-code-execution-via-misconfigured-file-upload-using-encrypted-payload-ak47webshell-d34fe7bd72f3?source=rss------bug_bounty-5) 
+ - 💯July 21, 2025 - [How I Got $25K just in 14 Days from “Hacking”? [Bahasa Indonesia]](https://ronafebriana.medium.com/how-i-got-25k-just-in-14-days-from-hacking-bahasa-indonesia-63eff69bdd6e?source=rss------bug_bounty-5) 
 
- - 💯July 20, 2025 - [Stop Employee Account Takeovers Before They Start](https://medium.com/@alexandrevandammepro/stop-employee-account-takeovers-before-they-start-0805a91db60e?source=rss------bug_bounty-5) 
+ - 💯July 21, 2025 - [404 to Fortune: How a Broken Link Uncovered Internal APIs &amp; Staged Dev Dumps](https://infosecwriteups.com/404-to-fortune-how-a-broken-link-uncovered-internal-apis-staged-dev-dumps-235aa80c2406?source=rss------bug_bounty-5) 
 
- - 💯July 19, 2025 - [$300 Bounty: Limited LFI via Markdown in GSA Dashboard](https://medium.com/h7w/300-bounty-limited-lfi-via-markdown-in-gsa-dashboard-34aee1b2de23?source=rss------bug_bounty-5) 
+ - 💯July 21, 2025 - [CTF Day&lpar;37&rpar;](https://medium.com/@ahmednarmer1/ctf-day-37-9587a06c6498?source=rss------bug_bounty-5) 
 
- - 💯July 19, 2025 - [$1000 Bounty: From 403 to Source Code](https://osintteam.blog/1000-bounty-from-403-to-source-code-28e9a9c572d8?source=rss------bug_bounty-5) 
+ - 💯July 21, 2025 - [How I Found a Business Logic Flaw in a Growing EdTech Website &lpar;P1 Bug&rpar;](https://medium.com/legionhunters/how-i-found-a-business-logic-flaw-in-a-growing-edtech-website-p1-bug-097a75290e72?source=rss------bug_bounty-5) 
 
- - 💯July 19, 2025 - [How I found a loophole in Google’s region restrictions — and yes, it’s triaged now.](https://mfaizananwar.medium.com/how-i-found-a-loophole-in-googles-region-restrictions-and-yes-it-s-triaged-now-3cd5dc76e15a?source=rss------bug_bounty-5) 
+ - 💯July 21, 2025 - [Bug Hunter’s  Career is going to End Be Alert ! [in 2025]](https://infosecwriteups.com/bug-hunters-career-is-going-to-end-be-alert-in-2025-aa05dc8a6f13?source=rss------bug_bounty-5) 
 
- - 💯July 19, 2025 - [MISSION ACCOMPLISHED: Cyber Sentinel Initiative Complete!](https://medium.com/@kohihamed3/mission-accomplished-cyber-sentinel-initiative-complete-3acc0eaabd28?source=rss------bug_bounty-5) 
+ - 💯July 21, 2025 - [How I Found a Bug in 1 minute](https://infosecwriteups.com/how-i-found-a-bug-in-1-minute-c81dc179d0aa?source=rss------bug_bounty-5) 
 
- - 💯July 19, 2025 - [I Found a Critical Bug in Just 30 Minutes](https://medium.com/@ibtissamhammadi1/i-found-a-critical-bug-in-just-30-minutes-b7dd320cf38f?source=rss------bug_bounty-5) 
+ - 💯July 21, 2025 - [$500 Bounty: DOM-Based XSS in Gatecoin’s Charting Library](https://infosecwriteups.com/500-bounty-dom-based-xss-in-gatecoins-charting-library-e21e40c4f270?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
