@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 23, 2025 - [CTF Day&lpar;40&rpar;](https://medium.com/@ahmednarmer1/ctf-day-40-74dc4866e071?source=rss------bug_bounty-5) 
+ - 💯July 25, 2025 - [️‍♂️ How I Discovered a Critical SQL Injection in Redacted.com and Extracted Oracle DB Data](https://elcazad0r.medium.com/%EF%B8%8F-%EF%B8%8F-how-i-discovered-a-critical-sql-injection-in-redacted-com-and-extracted-oracle-db-data-4c2f171bae7d?source=rss------bug_bounty-5) 
 
- - 💯July 23, 2025 - [Easy $370 Bug Bounty Income | A Must-Try for Beginners](https://medium.com/@rashad.desk/easy-370-bug-bounty-income-a-must-try-for-beginners-a87f73fc0fcc?source=rss------bug_bounty-5) 
+ - 💯July 25, 2025 - [One Tool to Rule JWTs — Easy JWT Pentesting with JWTAuditor](https://infosecwriteups.com/one-tool-to-rule-jwts-easy-jwt-pentesting-with-jwtauditor-3483b37b01a3?source=rss------bug_bounty-5) 
 
- - 💯July 23, 2025 - [How I Got a $250 Premium Plan for Just $12 — No Coupons, No Hacks, Just Logic](https://zuksh.medium.com/how-i-got-a-250-premium-plan-for-just-12-no-coupons-no-hacks-just-logic-b271c4de74e6?source=rss------bug_bounty-5) 
+ - 💯July 25, 2025 - [Your Attack Surface Is a Jungle — And It’s Eating You Alive](https://medium.com/@paritoshblogs/your-attack-surface-is-a-jungle-and-its-eating-you-alive-a07465bbebc7?source=rss------bug_bounty-5) 
 
- - 💯July 23, 2025 - [“JS is the New S3”: How I Mined Tokens, PII &amp; DevOps Secrets From JavaScript for Bounties](https://medium.com/@narendarlb123/js-is-the-new-s3-how-i-mined-tokens-pii-devops-secrets-from-javascript-for-bounties-13b6bdf1b829?source=rss------bug_bounty-5) 
+ - 💯July 25, 2025 - [Routing-Based SSRF  —  Host Header Injection Leads to Internal Access](https://infosecwriteups.com/routing-based-ssrf-host-header-injection-leads-to-internal-access-b65a1c8b1b42?source=rss------bug_bounty-5) 
 
- - 💯July 23, 2025 - [Cybersécurité en Suisse : actualités du 23 juil 2025](https://marcbarbezat.medium.com/cybers%C3%A9curit%C3%A9-en-suisse-actualit%C3%A9s-du-23-juil-2025-8ab7e47d3445?source=rss------bug_bounty-5) 
+ - 💯July 25, 2025 - [How I Discovered a Critical Security Flaw | Unauthenticated File Download via Public File URL](https://medium.com/@gowthami09027/how-i-discovered-a-critical-security-flaw-unauthenticated-file-download-via-public-file-url-ac49d53c1cda?source=rss------bug_bounty-5) 
 
- - 💯July 23, 2025 - [SSRF to S3 to Shell: The One-Key Takeover That Started With a Misconfigured Proxy](https://medium.com/@narendarlb123/ssrf-to-s3-to-shell-the-one-key-takeover-that-started-with-a-misconfigured-proxy-c3149003630c?source=rss------bug_bounty-5) 
+ - 💯July 25, 2025 - [I Got Into the Hall of Fame on NASA’s Vulnerability Disclosure Program Just by Dorking — Here’s How](https://medium.com/@BugRey/i-got-into-the-hall-of-fame-on-nasas-vulnerability-disclosure-program-just-by-dorking-here-s-how-149dbe15636f?source=rss------bug_bounty-5) 
 
- - 💯July 23, 2025 - [Shodan Sniper: How I Found 3 Bugs Without Touching a Browser](https://medium.com/@narendarlb123/shodan-sniper-how-i-found-3-bugs-without-touching-a-browser-1844d3f756f6?source=rss------bug_bounty-5) 
+ - 💯July 25, 2025 - [These 10 Burp Extensions Changed the Way I Do Bug Bounties](https://medium.com/@omaroymdm/these-10-burp-extensions-changed-the-way-i-do-bug-bounties-54daf5b08b15?source=rss------bug_bounty-5) 
 
- - 💯July 23, 2025 - [The Psychology of Bug Bounties: Why I Keep Hunting Even Without Rewards](https://medium.com/@viratavi1223/the-psychology-of-bug-bounties-why-i-keep-hunting-even-without-rewards-75fb455827c8?source=rss------bug_bounty-5) 
+ - 💯July 25, 2025 - [Unpacking the Bypass: Client-Side Premium Authentication Compromise in Truecaller’s Android…](https://cyphernova1337.medium.com/unpacking-the-bypass-client-side-premium-authentication-compromise-in-truecallers-android-d7af697be07e?source=rss------bug_bounty-5) 
 
- - 💯July 23, 2025 - [Referer-Based Access Control: Exploit Referer Headers to Bypass Access Control](https://infosecwriteups.com/referer-based-access-control-exploit-referer-headers-to-bypass-access-control-dacd57ab832a?source=rss------bug_bounty-5) 
+ - 💯July 25, 2025 - [Vulnerable and Outdated Components &lpar;OWASP A06&rpar;: Guía de Hacking y Bug Bounty](https://medium.com/@jpablo13/vulnerable-and-outdated-components-owasp-a06-gu%C3%ADa-de-hacking-y-bug-bounty-1a7daca12822?source=rss------bug_bounty-5) 
 
- - 💯July 23, 2025 - [API vulnerability make me $500.](https://medium.com/@anandrishav2228/api-vulnerability-make-me-500-b58e1f235ecf?source=rss------bug_bounty-5) 
+ - 💯July 24, 2025 - [How I Chained 2FA Bypasses in a Crypto P2P System to Steal User USDT](https://0xbartita.medium.com/how-i-chained-2fa-bypasses-in-a-crypto-p2p-system-to-steal-user-usdt-ed68ee078998?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
