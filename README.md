@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 30, 2025 - [Gift payment 7,000 USDT TRC20 u can use &lpar;Okx web3 wallet&rpar;](https://medium.com/@miyaclark889/gift-payment-7-000-usdt-trc20-u-can-use-okx-web3-wallet-e553adcd452a?source=rss------bug_bounty-5) 
+ - 💯July 31, 2025 - [How I Got Easy Admin Panel Access &amp; Database Credentials — Bug Bounty Hunting](https://medium.com/@pranavrp77/how-i-got-easy-admin-panel-access-database-credentials-bug-bounty-hunting-a16935d0d3b8?source=rss------bug_bounty-5) 
 
- - 💯July 30, 2025 - [‍ BugBounty-Cuando no sabes por dónde seguir, mira atrás](https://gorkaaa.medium.com/bugbounty-cuando-no-sabes-por-d%C3%B3nde-seguir-mira-atr%C3%A1s-d5ff15ab2e5b?source=rss------bug_bounty-5) 
+ - 💯July 31, 2025 - [This is How I *ALMOST* found my first bug.](https://medium.com/@riazrabia/this-is-how-i-almost-found-my-first-bug-f3cfb9efdf0d?source=rss------bug_bounty-5) 
 
- - 💯July 30, 2025 - [Old Bugs, New Tricks: Why DOM XSS &lpar;and Friends&rpar; Still Pay in 2025](https://medium.com/@vivekps143/old-bugs-new-tricks-why-dom-xss-and-friends-still-pay-in-2025-d5fc18718266?source=rss------bug_bounty-5) 
+ - 💯July 31, 2025 - [No, no todo fallo en login es una SQLi](https://gorkaaa.medium.com/no-no-todo-fallo-en-login-es-una-sqli-a21592652d96?source=rss------bug_bounty-5) 
 
- - 💯July 30, 2025 - [How I Earned a $4,000 Bug Bounty Using a Simple Yet Overlooked Method](https://medium.com/@ekenejosepha1/how-i-earned-a-4-000-bug-bounty-using-a-simple-yet-overlooked-method-27197ace1eeb?source=rss------bug_bounty-5) 
+ - 💯July 31, 2025 - [CSRF in Disguise: How a Tracking Pixel Let Me Steal User Actions Like a Spy](https://infosecwriteups.com/csrf-in-disguise-how-a-tracking-pixel-let-me-steal-user-actions-like-a-spy-28c084002d1e?source=rss------bug_bounty-5) 
 
- - 💯July 30, 2025 - [3. Understanding Reconnaissance: Finding the Unseen](https://infosecwriteups.com/3-understanding-reconnaissance-finding-the-unseen-8c7a91b89c35?source=rss------bug_bounty-5) 
+ - 💯July 31, 2025 - [Refactoring Roulette: When to Rewrite, When to Patch](https://medium.com/@man.from.titanic/refactoring-roulette-when-to-rewrite-when-to-patch-b10c7ef2b75d?source=rss------bug_bounty-5) 
 
- - 💯July 30, 2025 - [Prompt Engineering Toolkit &lpar;2025 Edition&rpar;](https://medium.com/meetcyber/prompt-engineering-toolkit-2025-edition-0b9ed2e01047?source=rss------bug_bounty-5) 
+ - 💯July 31, 2025 - [Stored DOM XSS: A Hidden Threat in Blog Comments](https://infosecwriteups.com/stored-dom-xss-a-hidden-threat-in-blog-comments-50aca72e40fd?source=rss------bug_bounty-5) 
 
- - 💯July 30, 2025 - [Meta Madness: How Hidden Metadata Gave Me Access to Private Docs ️](https://infosecwriteups.com/meta-madness-how-hidden-metadata-gave-me-access-to-private-docs-%EF%B8%8F-3160044d9ef0?source=rss------bug_bounty-5) 
+ - 💯July 31, 2025 - [12 ~/.bashrc Hacks Hackers Can’t Live Without](https://medium.com/@verylazytech/12-bashrc-hacks-hackers-cant-live-without-09e89bb00f45?source=rss------bug_bounty-5) 
 
- - 💯July 30, 2025 - [From Insecure Storage to Secure Practices: A Follow-Up](https://medium.com/@gowthami09027/from-insecure-storage-to-secure-practices-a-follow-up-fda2f5bc043f?source=rss------bug_bounty-5) 
+ - 💯July 30, 2025 - [My Recon methodology for Bug bounty Hunting](https://medium.com/@curiouskhanna/my-recon-methodology-for-bug-bounty-hunting-0cfbd603cfac?source=rss------bug_bounty-5) 
 
- - 💯July 30, 2025 - [SSRF via Host Header Injection — A Prank Gone Vulnerable](https://medium.com/@syedshorox27/ssrf-via-host-header-injection-a-prank-gone-vulnerable-52eb514f664d?source=rss------bug_bounty-5) 
+ - 💯July 30, 2025 - [Embarking on the Bug Bounty Journey: A Deep Dive into the Top Platforms](https://medium.com/@sl0th0x87/embarking-on-the-bug-bounty-journey-a-deep-dive-into-the-top-platforms-8d62a14cd2a6?source=rss------bug_bounty-5) 
 
- - 💯July 30, 2025 - [Identification and Authentication Failures &lpar;OWASP A07&rpar;: For hacking, bug bounty and web development](https://medium.com/@jpablo13/identification-and-authentication-failures-owasp-a07-for-hacking-bug-bounty-and-web-development-52a707be67af?source=rss------bug_bounty-5) 
+ - 💯July 30, 2025 - [WebSockets, Protobuf, and a Hidden SQL Injection: My Unexpected Bug Hunting Journey](https://medium.com/@momenrezkk90/websockets-protobuf-and-a-hidden-sql-injection-my-unexpected-bug-hunting-journey-c22e935cca72?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
