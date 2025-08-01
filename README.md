@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 31, 2025 - [How I Got Easy Admin Panel Access &amp; Database Credentials — Bug Bounty Hunting](https://medium.com/@pranavrp77/how-i-got-easy-admin-panel-access-database-credentials-bug-bounty-hunting-a16935d0d3b8?source=rss------bug_bounty-5) 
+ - 💯August 1, 2025 - [Hacked the AI, Got the Bounty: Obfuscation &amp; Prompt Injection Techniques for Red Teamers](https://medium.com/@cybertechajju/hacked-the-ai-got-the-bounty-obfuscation-prompt-injection-techniques-for-red-teamers-9715be4f23e4?source=rss------bug_bounty-5) 
 
- - 💯July 31, 2025 - [This is How I *ALMOST* found my first bug.](https://medium.com/@riazrabia/this-is-how-i-almost-found-my-first-bug-f3cfb9efdf0d?source=rss------bug_bounty-5) 
+ - 💯August 1, 2025 - [The Epic Tale of a JWT Key Left on a Confluence Wiki Page — Totally Secure, Right?](https://medium.com/@devanshpatel930/the-epic-tale-of-a-jwt-key-left-on-a-confluence-wiki-page-totally-secure-right-141189f1d9c3?source=rss------bug_bounty-5) 
 
- - 💯July 31, 2025 - [No, no todo fallo en login es una SQLi](https://gorkaaa.medium.com/no-no-todo-fallo-en-login-es-una-sqli-a21592652d96?source=rss------bug_bounty-5) 
+ - 💯August 1, 2025 - [Reflected XSS in HTML Context with Most Tags and Attributes Blocked](https://bashoverflow.medium.com/reflected-xss-in-html-context-with-most-tags-and-attributes-blocked-b601de27500a?source=rss------bug_bounty-5) 
 
- - 💯July 31, 2025 - [CSRF in Disguise: How a Tracking Pixel Let Me Steal User Actions Like a Spy](https://infosecwriteups.com/csrf-in-disguise-how-a-tracking-pixel-let-me-steal-user-actions-like-a-spy-28c084002d1e?source=rss------bug_bounty-5) 
+ - 💯August 1, 2025 - [I Dropped Out to Learn Cybersecurity &lpar;Without a Degree&rpar; — And Landed Paid Work](https://infosecwriteups.com/i-dropped-out-to-learn-cybersecurity-without-a-degree-and-landed-paid-work-60bdacc56b3b?source=rss------bug_bounty-5) 
 
- - 💯July 31, 2025 - [Refactoring Roulette: When to Rewrite, When to Patch](https://medium.com/@man.from.titanic/refactoring-roulette-when-to-rewrite-when-to-patch-b10c7ef2b75d?source=rss------bug_bounty-5) 
+ - 💯August 1, 2025 - [How I Hacked a $500 Bug Using Just an Email Field](https://infosecwriteups.com/how-i-hacked-a-500-bug-using-just-an-email-field-e5a0cb89e051?source=rss------bug_bounty-5) 
 
- - 💯July 31, 2025 - [Stored DOM XSS: A Hidden Threat in Blog Comments](https://infosecwriteups.com/stored-dom-xss-a-hidden-threat-in-blog-comments-50aca72e40fd?source=rss------bug_bounty-5) 
+ - 💯August 1, 2025 - [Linktree Username Validation Bypass: A Hidden Threat with a Leading Space](https://infosecwriteups.com/linktree-username-validation-bypass-a-hidden-threat-with-a-leading-space-52537955f79e?source=rss------bug_bounty-5) 
 
- - 💯July 31, 2025 - [12 ~/.bashrc Hacks Hackers Can’t Live Without](https://medium.com/@verylazytech/12-bashrc-hacks-hackers-cant-live-without-09e89bb00f45?source=rss------bug_bounty-5) 
+ - 💯August 1, 2025 - [How a Small Open Redirect Flaw Became a $1000 rXSS Payday](https://infosecwriteups.com/how-a-small-open-redirect-flaw-became-a-1000-rxss-payday-6960e4610f8f?source=rss------bug_bounty-5) 
 
- - 💯July 30, 2025 - [My Recon methodology for Bug bounty Hunting](https://medium.com/@curiouskhanna/my-recon-methodology-for-bug-bounty-hunting-0cfbd603cfac?source=rss------bug_bounty-5) 
+ - 💯August 1, 2025 - [Secrets in GitHub Repos: How Hackers Find API Keys &amp; Config Files](https://infosecwriteups.com/secrets-in-github-repos-how-hackers-find-api-keys-config-files-859fec498fdf?source=rss------bug_bounty-5) 
 
- - 💯July 30, 2025 - [Embarking on the Bug Bounty Journey: A Deep Dive into the Top Platforms](https://medium.com/@sl0th0x87/embarking-on-the-bug-bounty-journey-a-deep-dive-into-the-top-platforms-8d62a14cd2a6?source=rss------bug_bounty-5) 
+ - 💯August 1, 2025 - [Recon in Minutes: Automating Subdomain Discovery for Penetration Tests](https://medium.com/@yauagroups/recon-in-minutes-automating-subdomain-discovery-for-penetration-tests-65fe2b095667?source=rss------bug_bounty-5) 
 
- - 💯July 30, 2025 - [WebSockets, Protobuf, and a Hidden SQL Injection: My Unexpected Bug Hunting Journey](https://medium.com/@momenrezkk90/websockets-protobuf-and-a-hidden-sql-injection-my-unexpected-bug-hunting-journey-c22e935cca72?source=rss------bug_bounty-5) 
+ - 💯August 1, 2025 - [Stop Guessing What 404 Means! The Ultimate Guide to HTTP Status Codes You Need to Bookmark](https://medium.com/@paritoshblogs/stop-guessing-what-404-means-the-ultimate-guide-to-http-status-codes-you-need-to-bookmark-48d080202674?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
