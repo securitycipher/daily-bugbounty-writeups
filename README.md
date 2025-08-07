@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 3, 2025 - [Beyond Recon: 4 Battle-Tested Bug Bounty Strategies](https://medium.com/@aufzayed/beyond-recon-4-battle-tested-bug-bounty-strategies-bb24bb437b2c?source=rss------bug_bounty-5) 
+ - 💯August 7, 2025 - [Juicy 401: The Unauthorized Goldmine](https://medium.com/meetcyber/juicy-401-the-unauthorized-goldmine-2021900bf910?source=rss------bug_bounty-5) 
 
- - 💯August 3, 2025 - [“Juicy 404s”: How Broken Pages Spilled Secrets and Gave Me Admin Access](https://systemweakness.com/juicy-404s-how-broken-pages-spilled-secrets-and-gave-me-admin-access-d87c938ac26b?source=rss------bug_bounty-5) 
+ - 💯August 7, 2025 - [S3 Subdomain Takeover!!!](https://medium.com/@0xchoudhary/s3-subdomain-takeover-0e2b1bba25f4?source=rss------bug_bounty-5) 
 
- - 💯August 3, 2025 - [“GitHub Recon: Hacking the Frontend Without Touching the App”](https://javascript.plainenglish.io/github-recon-hacking-the-frontend-without-touching-the-app-5d8798d5ac64?source=rss------bug_bounty-5) 
+ - 💯August 7, 2025 - [How Nmap $4,000 Helped Me Earn in a Single Bug Bounty — Full Recon Walkthrough](https://medium.com/@sales.mohammedgabic/how-nmap-4-000-helped-me-earn-in-a-single-bug-bounty-full-recon-walkthrough-49c3f9709cee?source=rss------bug_bounty-5) 
 
- - 💯August 3, 2025 - [How I Bypassed OTP Verification with Just a Script Tag](https://medium.com/@ivoaabreu/how-i-bypassed-otp-verification-with-just-a-script-tag-7cbb880060c3?source=rss------bug_bounty-5) 
+ - 💯August 7, 2025 - [How I Found a SQL Injection on an E-Commerce Platform — Step-by-Step Bug Bounty Guide](https://medium.com/@sales.mohammedgabic/how-i-found-a-sql-injection-on-an-e-commerce-platform-step-by-step-bug-bounty-guide-d9fa3a705b9b?source=rss------bug_bounty-5) 
 
- - 💯August 3, 2025 - [How Race Conditions Let You Snatch Unlimited Free Domains](https://osintteam.blog/how-race-conditions-let-you-snatch-unlimited-free-domains-963deec411a5?source=rss------bug_bounty-5) 
+ - 💯August 7, 2025 - [How I Earned $1,375 from a Remote Code Execution &lpar;RCE&rpar; Bug — A Bug Bounty Story](https://medium.com/@ekenejosepha1/how-i-earned-1-375-from-a-remote-code-execution-rce-bug-a-bug-bounty-story-b5c912395278?source=rss------bug_bounty-5) 
 
- - 💯August 2, 2025 - [The Silent Threat: How a Simple Zip File Triggered Google Web Designer’s Weakness️](https://shabertseng.medium.com/the-silent-threat-how-a-simple-zip-file-triggered-google-web-designers-weakness-%EF%B8%8F-e1b18db76533?source=rss------bug_bounty-5) 
+ - 💯August 7, 2025 - [️‍♂️ 20 Recon Tools Every Bug Bounty Hunter Should Know &lpar;With Real Use Cases&rpar;](https://medium.com/@ekenejosepha1/%EF%B8%8F-%EF%B8%8F-20-recon-tools-every-bug-bounty-hunter-should-know-with-real-use-cases-27f68beb035c?source=rss------bug_bounty-5) 
 
- - 💯August 2, 2025 - [I Wrote a Eulogy for Manual Recon](https://medium.com/@ibtissamhammadi1/i-wrote-a-eulogy-for-manual-recon-73c2bfa992ae?source=rss------bug_bounty-5) 
+ - 💯August 7, 2025 - [How Nmap Helped Me Land My First $2,000 Bug Bounty &lpar;Beginner-Friendly Pentest Story&rpar;](https://medium.com/@ekenejosepha1/how-nmap-helped-me-land-my-first-2-000-bug-bounty-beginner-friendly-pentest-story-0f6289d1659b?source=rss------bug_bounty-5) 
 
- - 💯August 2, 2025 - [Client-Side Lies: Hacking the Logic Behind PortSwigger’s Business Flaw Lab](https://medium.com/@surveishtiyak/client-side-lies-hacking-the-logic-behind-portswiggers-business-flaw-lab-30da3638d0b3?source=rss------bug_bounty-5) 
+ - 💯August 7, 2025 - [Earned $3,500 : How I Gained Shell Access on a Company](https://medium.com/@carylrobert16/how-i-gained-shell-access-on-a-company-server-and-earned-3-500-legally-bug-bounty-case-study-63ea522b4bed?source=rss------bug_bounty-5) 
 
- - 💯August 2, 2025 - [From a Boring Engagement to Uncovering a High Severity CVE](https://m3m0o.medium.com/from-a-boring-engagement-to-uncovering-a-high-severity-cve-6ed52b5f618f?source=rss------bug_bounty-5) 
+ - 💯August 7, 2025 - [Picture Perfect Exploit: How Image Uploads Turned Into Shell Access](https://infosecwriteups.com/picture-perfect-exploit-how-image-uploads-turned-into-shell-access-473659d49020?source=rss------bug_bounty-5) 
 
- - 💯August 2, 2025 - [️ JavaScript Recon via GitHub: Finding Secrets Before You Even Hit the App](https://medium.com/@narendarlb123/%EF%B8%8F-javascript-recon-via-github-finding-secrets-before-you-even-hit-the-app-cb88e36bc0d7?source=rss------bug_bounty-5) 
+ - 💯August 7, 2025 - [&lpar;Access Control&rpar; Lab: Method-based access control can be circumvented | 2025](https://medium.com/@robohunt/access-control-lab-method-based-access-control-can-be-circumvented-2025-a04d76831cac?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
