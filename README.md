@@ -2,24 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 12, 2025 - [Dorks For Sensitive Information Disclosure Part-3](https://medium.com/@devanshpatel930/dorks-for-sensitive-information-disclosure-part-3-a687a9c5a3bf?source=rss------bug_bounty-5) 
+ - 💯August 13, 2025 - [The Wild Story of How a Website Bug Could Let Strangers Unlock Cars Anywhere](https://medium.com/readers-club/the-wild-story-of-how-a-website-bug-could-let-strangers-unlock-cars-anywhere-1ec09756291e?source=rss------bug_bounty-5) 
 
- - 💯August 12, 2025 - [A Deep Dive into Improper Authentication](https://infosecwriteups.com/a-deep-dive-into-improper-authentication-a68a92929f33?source=rss------bug_bounty-5) 
+ - 💯August 13, 2025 - [Bug Bounty Nightmare: How A Vulnerability Disclosure Turned into Nightmare !](https://devprogramming.medium.com/bug-bounty-nightmare-how-a-vulnerability-disclosure-turned-into-nightmare-dca809fa00d6?source=rss------bug_bounty-5) 
 
- - 💯August 12, 2025 - [Logs Don’t Lie: How a GraphQL Debug Endpoint Spilled the Entire Database ️](https://infosecwriteups.com/logs-dont-lie-how-a-graphql-debug-endpoint-spilled-the-entire-database-%EF%B8%8F-a4b859ec6a1c?source=rss------bug_bounty-5) 
+ - 💯August 13, 2025 - [Password Reset Poisoning via Middleware: The Hidden Flaw That Can Lead to Account Takeover](https://infosecwriteups.com/password-reset-poisoning-via-middleware-the-hidden-flaw-that-can-lead-to-account-takeover-899416465d45?source=rss------bug_bounty-5) 
 
- - 💯August 12, 2025 - [7 Easy Bugs That Still Work in 2025](https://systemweakness.com/7-easy-bugs-that-still-work-in-2025-00619d93a5a3?source=rss------bug_bounty-5) 
+ - 💯August 13, 2025 - [Understanding DOM-Based XSS in Acronis Promo Page: A Deep Dive](https://medium.com/h7w/understanding-dom-based-xss-in-acronis-promo-page-a-deep-dive-568d2ee1284e?source=rss------bug_bounty-5) 
 
- - 💯August 12, 2025 - [Prompt Engineering Toolkit &lpar;2025 Edition&rpar;](https://medium.com/meetcyber/prompt-engineering-toolkit-2025-edition-8c3372944618?source=rss------bug_bounty-5) 
+ - 💯August 12, 2025 - [From Shodan to Securing Government Systems: BFLA + Stored XSS Write-Up](https://medium.com/@eclipsedmarauder/from-shodan-to-securing-government-systems-bfla-stored-xss-write-up-ab3bfd4e703d?source=rss------bug_bounty-5) 
 
- - 💯August 12, 2025 - [Bug Bounty + AI =  This Prompt List Will Change Your Game](https://javascript.plainenglish.io/bug-bounty-ai-this-prompt-list-will-change-your-game-4005a77d09bf?source=rss------bug_bounty-5) 
+ - 💯August 12, 2025 - [Google Cloud Partner API Credentials Found in Public Repo](https://enterlectury.medium.com/google-cloud-partner-api-credentials-found-in-public-repo-45517dc54213?source=rss------bug_bounty-5) 
 
- - 💯August 12, 2025 - [How ExpressVPN Vulnerability Enables Silent Card Abuse — And Calls It “Expected Behavior”](https://medium.com/@krivadna/how-expressvpn-vulnerability-enables-silent-card-abuse-and-calls-it-expected-behavior-7650a0b7a304?source=rss------bug_bounty-5) 
+ - 💯August 12, 2025 - [My 100 Hour Rule for Bug Bounty !](https://devprogramming.medium.com/my-100-hour-rule-for-bug-bounty-046f96fc7791?source=rss------bug_bounty-5) 
 
- - 💯August 12, 2025 - [Day5 Recon: Hacking Hidden Endpoints: How to Use Burp Suite &amp; OWASP ZAP for Web Spidering and…](https://infosecwriteups.com/day5-recon-hacking-hidden-endpoints-how-to-use-burp-suite-owasp-zap-for-web-spidering-and-2a69aa4ffd3d?source=rss------bug_bounty-5) 
+ - 💯August 12, 2025 - [Hacking Flutter apps: Static, dynamic and beyond](https://manasharsh.medium.com/hacking-flutter-apps-static-dynamic-and-beyond-893c7a733353?source=rss------bug_bounty-5) 
 
- - 💯August 12, 2025 - [A New Write-Up for a Vulnerability
-Sensitive Information Leakage via Referrer Header in Password…](https://medium.com/@yousefezzeldin/a-new-write-up-for-a-vulnerability-sensitive-information-leakage-via-referrer-header-in-password-96ff2ef64b24?source=rss------bug_bounty-5) 
-
- - 💯August 12, 2025 - [How to Find Hidden Paths to Domain Admin in Minutes &lpar;With BloodHound&rpar;](https://medium.com/@paritoshblogs/how-to-find-hidden-paths-to-domain-admin-in-minutes-with-bloodhound-34a69de1be12?source=rss------bug_bounty-5) 
+ - 💯August 12, 2025 - [Informational Finding #1: Clickjacking on Non-Sensitive Action](https://medium.com/@shakthisv90/informational-finding-1-clickjacking-on-non-sensitive-action-fac4e1885202?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
