@@ -2,21 +2,24 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 13, 2025 - [The Wild Story of How a Website Bug Could Let Strangers Unlock Cars Anywhere](https://medium.com/readers-club/the-wild-story-of-how-a-website-bug-could-let-strangers-unlock-cars-anywhere-1ec09756291e?source=rss------bug_bounty-5) 
+ - 💯August 14, 2025 - [Day6 Recon: How to Find Exposed Cloud Storage &amp; Hidden Third-Party Assets &lpar;With Real Demos&rpar;
+ From…](https://infosecwriteups.com/day6-recon-how-to-find-exposed-cloud-storage-hidden-third-party-assets-with-real-demos-from-798219ba4d7f?source=rss------bug_bounty-5) 
 
- - 💯August 13, 2025 - [Bug Bounty Nightmare: How A Vulnerability Disclosure Turned into Nightmare !](https://devprogramming.medium.com/bug-bounty-nightmare-how-a-vulnerability-disclosure-turned-into-nightmare-dca809fa00d6?source=rss------bug_bounty-5) 
+ - 💯August 14, 2025 - [Mastering Nmap: The Ultimate Guide to Network Scanning and Vulnerability Detection](https://infosecwriteups.com/mastering-nmap-the-ultimate-guide-to-network-scanning-and-vulnerability-detection-769d1d2eecff?source=rss------bug_bounty-5) 
 
- - 💯August 13, 2025 - [Password Reset Poisoning via Middleware: The Hidden Flaw That Can Lead to Account Takeover](https://infosecwriteups.com/password-reset-poisoning-via-middleware-the-hidden-flaw-that-can-lead-to-account-takeover-899416465d45?source=rss------bug_bounty-5) 
+ - 💯August 14, 2025 - [️ How to Bypass Web Application Firewalls &lpar;WAFs&rpar;](https://infosecwriteups.com/%EF%B8%8F-how-to-bypass-web-application-firewalls-wafs-8346e6e79dd3?source=rss------bug_bounty-5) 
 
- - 💯August 13, 2025 - [Understanding DOM-Based XSS in Acronis Promo Page: A Deep Dive](https://medium.com/h7w/understanding-dom-based-xss-in-acronis-promo-page-a-deep-dive-568d2ee1284e?source=rss------bug_bounty-5) 
+ - 💯August 14, 2025 - [Top 5 Bug Bounty Tips](https://medium.com/@anandrishav2228/top-5-bug-bounty-tips-b01e7d765090?source=rss------bug_bounty-5) 
 
- - 💯August 12, 2025 - [From Shodan to Securing Government Systems: BFLA + Stored XSS Write-Up](https://medium.com/@eclipsedmarauder/from-shodan-to-securing-government-systems-bfla-stored-xss-write-up-ab3bfd4e703d?source=rss------bug_bounty-5) 
+ - 💯August 14, 2025 - [IDOR via Websockets allow me to takeover any users account](https://teamdh49.medium.com/idor-via-websockets-allow-me-to-takeover-any-users-account-b0dc23c8bcf5?source=rss------bug_bounty-5) 
 
- - 💯August 12, 2025 - [Google Cloud Partner API Credentials Found in Public Repo](https://enterlectury.medium.com/google-cloud-partner-api-credentials-found-in-public-repo-45517dc54213?source=rss------bug_bounty-5) 
+ - 💯August 14, 2025 - [CVE-2023–38646 – Pre-Auth RCE in Metabase: One Token to Rule Them All](https://medium.com/@24bkdoor/cve-2023-38646-pre-auth-rce-in-metabase-one-token-to-rule-them-all-9bc6b5caa9c1?source=rss------bug_bounty-5) 
 
- - 💯August 12, 2025 - [My 100 Hour Rule for Bug Bounty !](https://devprogramming.medium.com/my-100-hour-rule-for-bug-bounty-046f96fc7791?source=rss------bug_bounty-5) 
+ - 💯August 13, 2025 - [Logical 2FA Bypass via Missing clientId Parameter in Profile Update Endpoint](https://medium.com/@mhmodgm54/logical-2fa-bypass-via-missing-clientid-parameter-in-profile-update-endpoint-3f054bc651d6?source=rss------bug_bounty-5) 
 
- - 💯August 12, 2025 - [Hacking Flutter apps: Static, dynamic and beyond](https://manasharsh.medium.com/hacking-flutter-apps-static-dynamic-and-beyond-893c7a733353?source=rss------bug_bounty-5) 
+ - 💯August 13, 2025 - [Path Confusion: The Subtle Trick That Fooled the Cache](https://medium.com/@Xt3sY/path-confusion-the-subtle-trick-that-fooled-the-cache-ebcfd1826923?source=rss------bug_bounty-5) 
 
- - 💯August 12, 2025 - [Informational Finding #1: Clickjacking on Non-Sensitive Action](https://medium.com/@shakthisv90/informational-finding-1-clickjacking-on-non-sensitive-action-fac4e1885202?source=rss------bug_bounty-5) 
+ - 💯August 13, 2025 - [IDOR in Invitation Flow Leads to Denial of Signup and Account Manipulation](https://medium.com/@mhmodgm54/idor-in-invitation-flow-leads-to-denial-of-signup-and-account-manipulation-98c51e0dd942?source=rss------bug_bounty-5) 
+
+ - 💯August 13, 2025 - [From Simple Restriction Bypass to Internal Privilege Escalation to High Impact IDOR](https://medium.com/@Alharbe0/from-simple-restriction-bypass-to-internal-privilege-escalation-to-high-impact-idor-e7b8366ac70d?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
