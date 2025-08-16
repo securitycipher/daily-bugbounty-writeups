@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 15, 2025 - [Dumping the content of a table, without Sql injection](https://medium.com/@ugs20b126_cic.rajesh/dumping-the-content-of-a-table-without-sql-injection-2601480bcc1e?source=rss------bug_bounty-5) 
+ - 💯August 16, 2025 - [Bug Bounty: Lo que parece innecesario para el usuario, a veces es esencial para el atacante](https://gorkaaa.medium.com/bug-bounty-lo-que-parece-innecesario-para-el-usuario-a-veces-es-esencial-para-el-atacante-32961185d286?source=rss------bug_bounty-5) 
 
- - 💯August 15, 2025 - [CVE-2025–31560: Salon Booking System &lt;= 10.11 – Authenticated Privilege Escalation](https://revan-ar.medium.com/cve-2025-31560-salon-booking-system-10-11-authenticated-privilege-escalation-625aeb91c71b?source=rss------bug_bounty-5) 
+ - 💯August 16, 2025 - [Server-side Template Injection Using Documentation: Uncover The Hidden Dangers of SSTI](https://infosecwriteups.com/server-side-template-injection-using-documentation-uncover-the-hidden-dangers-of-ssti-566e7159edb7?source=rss------bug_bounty-5) 
 
- - 💯August 14, 2025 - [Recon Methodology: JavaScript File Hunting](https://medium.com/@marduk.i.am/recon-methodology-javascript-file-hunting-254127ecd211?source=rss------bug_bounty-5) 
+ - 💯August 16, 2025 - [HexStrike AI v6.0: Turning GPT, Claude, and Copilot into Autonomous Cybersecurity Experts](https://medium.com/@Iampreth/hexstrike-ai-v6-0-turning-gpt-claude-and-copilot-into-autonomous-cybersecurity-experts-5cdbb917066a?source=rss------bug_bounty-5) 
 
- - 💯August 14, 2025 - [Three Hunts, No Bounties — and Why I’m Still Excited](https://medium.com/@Far_Horizon/three-hunts-no-bounties-and-why-im-still-excited-9714dc631a41?source=rss------bug_bounty-5) 
+ - 💯August 16, 2025 - [Dorks For Sensitive Information Disclosure Part-1](https://teamdh49.medium.com/dorks-for-sensitive-information-disclosure-part-1-185e19512f33?source=rss------bug_bounty-5) 
 
- - 💯August 14, 2025 - [OAuth Login Bypasses &amp; Account Linking Chaos — A Bug Bounty Adventure](https://sohanxp56.medium.com/oauth-login-bypasses-account-linking-chaos-a-bug-bounty-adventure-bf0cf0b28d72?source=rss------bug_bounty-5) 
+ - 💯August 16, 2025 - [Shodan’t Have Shown That: How an Exposed Device Led to Source Code](https://teamdh49.medium.com/shodant-have-shown-that-how-an-exposed-device-led-to-source-code-3371c1160439?source=rss------bug_bounty-5) 
 
- - 💯August 14, 2025 - [️ Satellite of Secrets: Finding Open Admin Consoles in IoT Dashboards](https://infosecwriteups.com/%EF%B8%8F-satellite-of-secrets-finding-open-admin-consoles-in-iot-dashboards-bc6b880edabd?source=rss------bug_bounty-5) 
+ - 💯August 15, 2025 - [The Hidden World of Bug Bounty Scams](https://medium.com/@symbionyman/the-hidden-world-of-bug-bounty-scams-797ad0f47676?source=rss------bug_bounty-5) 
 
- - 💯August 14, 2025 - [Account Deletion Security Pitfalls — A Bug Bounty Case Study](https://sohanxp56.medium.com/account-deletion-security-pitfalls-a-bug-bounty-case-study-8ab8fe7ac8f5?source=rss------bug_bounty-5) 
+ - 💯August 15, 2025 - [How to Earn from Apple’s ₹17.5 Crore Security Bounty Program](https://medium.com/@likhoindustry/how-to-earn-from-apples-17-5-crore-security-bounty-program-4271b7aed532?source=rss------bug_bounty-5) 
 
- - 💯August 14, 2025 - [Transitioning From OffSec to Red Teaming](https://medium.com/@ty.anderson.3/transitioning-from-offsec-to-red-teaming-165fc2e968f8?source=rss------bug_bounty-5) 
+ - 💯August 15, 2025 - [Bug Bounty: XSS Exploitation — From Alert Boxes to Full Control!](https://medium.com/@rajkumarkumawat.workup/bug-bounty-xss-exploitation-from-alert-boxes-to-full-control-6530d83cafa6?source=rss------bug_bounty-5) 
 
- - 💯August 14, 2025 - [Bug Bounty Recon tool 2](https://prabhjeetlearning.medium.com/bug-bounty-recon-tool-2-ab71da332ac9?source=rss------bug_bounty-5) 
+ - 💯August 15, 2025 - [Chaining Misconfigurations: From File Uploads to Account Takeover](https://alvandyhamed.medium.com/chaining-misconfigurations-from-file-uploads-to-account-takeover-6ed4ae03d8d1?source=rss------bug_bounty-5) 
+
+ - 💯August 15, 2025 - [Reflected XSS Filter Bypass in Search Functionality](https://kashsecurity.medium.com/reflected-xss-filter-bypass-in-search-functionality-be2d511e7621?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
