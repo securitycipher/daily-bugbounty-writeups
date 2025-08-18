@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 17, 2025 - [Cada funcionalidad es una promesa: ¿la cumple para todos?](https://gorkaaa.medium.com/cada-funcionalidad-es-una-promesa-la-cumple-para-todos-9125ef7b7e92?source=rss------bug_bounty-5) 
+ - 💯August 18, 2025 - [CTF for beginners](https://medium.com/@vulnhunter10/ctf-for-beginners-3b9b3f2a8a15?source=rss------bug_bounty-5) 
 
- - 💯August 17, 2025 - [JavaScript leads to Admin](https://infosecwriteups.com/javascript-leads-to-admin-f7afecc21d02?source=rss------bug_bounty-5) 
+ - 💯August 18, 2025 - [VirtualHost And Subdomains](https://prioff.medium.com/virtualhost-and-subdomains-36e2e156fa4e?source=rss------bug_bounty-5) 
 
- - 💯August 17, 2025 - [The Hidden Risk of Non-HttpOnly Cookies — and How I Found One](https://medium.com/@amitgy04/the-hidden-risk-of-non-httponly-cookies-and-how-i-found-one-382eebec998f?source=rss------bug_bounty-5) 
+ - 💯August 18, 2025 - [⚡ 10 JavaScript Mistakes Even Senior Developers Still Make &lpar;And How to Avoid Them&rpar;](https://javascript.plainenglish.io/10-javascript-mistakes-even-senior-developers-still-make-and-how-to-avoid-them-e5977848f327?source=rss------bug_bounty-5) 
 
- - 💯August 17, 2025 - [My First 150 Days Bug Bounty Hunting](https://medium.com/@YourFinalSin/my-first-150-days-bug-bounty-hunting-034623c89836?source=rss------bug_bounty-5) 
+ - 💯August 18, 2025 - [Ghosts in the Heap: Memory Leaks in JavaScript &lpar;and How to Hunt Them Like a Pro&rpar;](https://javascript.plainenglish.io/ghosts-in-the-heap-memory-leaks-in-javascript-and-how-to-hunt-them-like-a-pro-0519d95d1630?source=rss------bug_bounty-5) 
 
- - 💯August 17, 2025 - [ndroid Hackers Are Spying on Your Phone — Here’s How to Protect Yourself](https://medium.com/@syedmhatim/ndroid-hackers-are-spying-on-your-phone-heres-how-to-protect-yourself-04a1302642af?source=rss------bug_bounty-5) 
+ - 💯August 18, 2025 - [Google Dorks Reloaded &lpar;2025&rpar;: The Red-Team OSINT Playbook for Secrets in Plain Sight](https://medium.com/meetcyber/google-dorks-reloaded-2025-the-red-team-osint-playbook-for-secrets-in-plain-sight-faf5d510cd25?source=rss------bug_bounty-5) 
 
- - 💯August 17, 2025 - [Vamp Byte #1 — What is a Favicon Hash in OSINT?](https://codewithvamp.medium.com/vamp-byte-1-what-is-a-favicon-hash-in-osint-daf0279ad129?source=rss------bug_bounty-5) 
+ - 💯August 18, 2025 - [Shodan Diaries: What I Found on the Internet Without Knocking](https://medium.com/meetcyber/shodan-diaries-what-i-found-on-the-internet-without-knocking-f22612cae508?source=rss------bug_bounty-5) 
 
- - 💯August 17, 2025 - [Server-side Template Injection in an Unknown Language with a Documented Exploit](https://infosecwriteups.com/server-side-template-injection-in-an-unknown-language-with-a-documented-exploit-1890eb486513?source=rss------bug_bounty-5) 
+ - 💯August 18, 2025 - [Web Pentest Playbook — From Recon to Root &lpar;ATT&amp;CK-Aligned&rpar;](https://medium.com/meetcyber/web-pentest-playbook-from-recon-to-root-att-ck-aligned-23a1359445d3?source=rss------bug_bounty-5) 
 
- - 💯August 17, 2025 - [Just bought Shodan Lifetime Membership for $5](https://medium.com/@abhirupkonwar04/just-bought-shodan-lifetime-membership-for-5-fef8a9b8de2d?source=rss------bug_bounty-5) 
+ - 💯August 18, 2025 - [The Web Pentest Kill Chain: From Recon to Root with MITRE ATT&amp;CK](https://javascript.plainenglish.io/the-web-pentest-kill-chain-from-recon-to-root-with-mitre-att-ck-e9324597c8d7?source=rss------bug_bounty-5) 
 
- - 💯August 16, 2025 - [I Built a SQL Injection That Bypassed Every WAF](https://medium.com/@ibtissamhammadi1/i-built-a-sql-injection-that-bypassed-every-waf-01bee29f2d84?source=rss------bug_bounty-5) 
+ - 💯August 18, 2025 - [The Psychology of Phishing: Why Even Security Pros Still Click](https://javascript.plainenglish.io/the-psychology-of-phishing-why-even-security-pros-still-click-b313fcb189f1?source=rss------bug_bounty-5) 
+
+ - 💯August 18, 2025 - [How I Discovered a Critical SQL Injection in a Private Bug Bounty Program](https://medium.com/@salaheddine_kalada/how-i-discovered-a-critical-sql-injection-in-a-private-bug-bounty-program-d1f4735c0b59?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
