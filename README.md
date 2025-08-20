@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 19, 2025 - [The Ultimate Guide to API Hacking in 2025: From Basics to Advanced Exploits](https://samael0x4.medium.com/the-ultimate-guide-to-api-hacking-in-2025-from-basics-to-advanced-exploits-fa31be273c5f?source=rss------bug_bounty-5) 
+ - 💯August 20, 2025 - [The Future of Bug Bounties: Are They Keeping Up with Hackers?](https://medium.com/@dutttarush9360/the-future-of-bug-bounties-are-they-keeping-up-with-hackers-a6669fe7e855?source=rss------bug_bounty-5) 
 
- - 💯August 19, 2025 - [Quick Recon Win: Chaining Subfinder + Httpx-toolkit + Nuclei for Fast Results](https://cyberdardan.medium.com/quick-recon-win-chaining-subfinder-httpx-toolkit-nuclei-for-fast-results-461bb34f56c9?source=rss------bug_bounty-5) 
+ - 💯August 20, 2025 - [️‍♂️ Passive Reconnaissance in Penetration Testing: The Art of Staying Unseen &lpar;Part 1&rpar;](https://medium.com/@vivekbhatt2002/%EF%B8%8F-%EF%B8%8F-passive-reconnaissance-in-penetration-testing-the-art-of-staying-unseen-part-1-b5b7ee706f24?source=rss------bug_bounty-5) 
 
- - 💯August 19, 2025 - [When the Price Goes Wrong: $9K Bounty from 2 Price Manipulation Bugs.](https://medium.com/@r00t_ak/when-the-price-goes-wrong-9k-bounty-from-2-price-manipulation-bugs-f557383afc01?source=rss------bug_bounty-5) 
+ - 💯August 20, 2025 - [Query Gone Wild: How I Turned a Forgotten GraphQL Endpoint into Full Account Access](https://infosecwriteups.com/query-gone-wild-how-i-turned-a-forgotten-graphql-endpoint-into-full-account-access-9d79d1f42970?source=rss------bug_bounty-5) 
 
- - 💯August 19, 2025 - [Server-Side Template Injection in a Sandboxed Environment: Escaping Freemarker Template…](https://infosecwriteups.com/server-side-template-injection-in-a-sandboxed-environment-escaping-freemarker-template-b704536b5181?source=rss------bug_bounty-5) 
+ - 💯August 20, 2025 - [Bypassing Authentication with a Single Request: A Real Bug Bounty Story](https://cybersecuritywriteups.com/bypassing-authentication-with-a-single-request-a-real-bug-bounty-story-9526dc2484d4?source=rss------bug_bounty-5) 
 
- - 💯August 19, 2025 - [When the Interview Fails but the Security Does Too](https://medium.com/legionhunters/when-the-interview-fails-but-the-security-does-too-d871ccc47da8?source=rss------bug_bounty-5) 
+ - 💯August 20, 2025 - [HTMLI To PII Leak | Bug Bounty Story](https://medium.com/legionhunters/htmli-to-pii-leak-bug-bounty-story-1f4364bcc270?source=rss------bug_bounty-5) 
 
- - 💯August 19, 2025 - [Amass:Guía Completa para el Reconocimiento de Subdominios y el Mapeo de la Superficie de Ataque](https://infosecwriteups.com/amass-gu%C3%ADa-completa-para-el-reconocimiento-de-subdominios-y-el-mapeo-de-la-superficie-de-ataque-401a71021cf2?source=rss------bug_bounty-5) 
+ - 💯August 20, 2025 - [️ Path Traversal in Web Applications: When Hackers Walk Through Your Folders](https://sukhveersingh97997.medium.com/%EF%B8%8F-path-traversal-in-web-applications-when-hackers-walk-through-your-folders-60b2c4537d00?source=rss------bug_bounty-5) 
 
- - 💯August 18, 2025 - [Mastering Nmap &lpar;Part 1&rpar; in 2025: Host Discovery &amp; Recon for Bug Bounty Hunters](https://medium.com/@appsecvenue/mastering-nmap-part-1-in-2025-host-discovery-recon-for-bug-bounty-hunters-1af4a3e451a1?source=rss------bug_bounty-5) 
+ - 💯August 20, 2025 - [Amass: Complete Guide to Subdomain Recognition and Attack Surface Mapping](https://medium.com/@jpablo13/amass-complete-guide-to-subdomain-recognition-and-attack-surface-mapping-c1736db05f88?source=rss------bug_bounty-5) 
 
- - 💯August 18, 2025 - [Subdomain Takeover Explained  &lpar;And How Hackers Earn $$ From It&rpar;](https://osintteam.blog/subdomain-takeover-explained-and-how-hackers-earn-from-it-85bc47553d35?source=rss------bug_bounty-5) 
+ - 💯August 19, 2025 - [Oh-My-WebServer TryHackMe Writeup](https://medium.com/@mehdi.benfredj15/oh-my-webserver-tryhackme-writeup-47a30ce2ec08?source=rss------bug_bounty-5) 
 
- - 💯August 18, 2025 - [Cache Control the P4 Bug](https://osintteam.blog/cache-control-the-p4-bug-dfe254bb72d3?source=rss------bug_bounty-5) 
-
- - 💯August 18, 2025 - [Exploit the game Blindly : With Blind XSS](https://medium.com/legionhunters/exploit-the-game-blindly-with-blind-xss-1f82479dfbc4?source=rss------bug_bounty-5) 
+ - 💯August 19, 2025 - [APIs Pentesting &lpar;Part 1&rpar; |What is API &amp; APIs Architectures](https://medium.com/@hamzamabdulrhman/apis-pentesting-part-1-what-is-api-apis-architectures-22fffa3b79a0?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
