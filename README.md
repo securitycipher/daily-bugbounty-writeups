@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 20, 2025 - [The Future of Bug Bounties: Are They Keeping Up with Hackers?](https://medium.com/@dutttarush9360/the-future-of-bug-bounties-are-they-keeping-up-with-hackers-a6669fe7e855?source=rss------bug_bounty-5) 
+ - 💯August 21, 2025 - [¿La IA va a reemplazar a los Bug Bounty Hunters?](https://gorkaaa.medium.com/la-ia-va-a-reemplazar-a-los-bug-bounty-hunters-8d43f5ec456e?source=rss------bug_bounty-5) 
 
- - 💯August 20, 2025 - [️‍♂️ Passive Reconnaissance in Penetration Testing: The Art of Staying Unseen &lpar;Part 1&rpar;](https://medium.com/@vivekbhatt2002/%EF%B8%8F-%EF%B8%8F-passive-reconnaissance-in-penetration-testing-the-art-of-staying-unseen-part-1-b5b7ee706f24?source=rss------bug_bounty-5) 
+ - 💯August 21, 2025 - [When Rate Limits Fail: How Attackers Still Brute Force APIs &lpar;and What You Missed&rpar;](https://javascript.plainenglish.io/when-rate-limits-fail-how-attackers-still-brute-force-apis-and-what-you-missed-fe5f35906611?source=rss------bug_bounty-5) 
 
- - 💯August 20, 2025 - [Query Gone Wild: How I Turned a Forgotten GraphQL Endpoint into Full Account Access](https://infosecwriteups.com/query-gone-wild-how-i-turned-a-forgotten-graphql-endpoint-into-full-account-access-9d79d1f42970?source=rss------bug_bounty-5) 
+ - 💯August 21, 2025 - [“The Day I Stumbled Upon an Invisible Backdoor: Exploiting File Downloads via IDOR”](https://medium.com/meetcyber/the-day-i-stumbled-upon-an-invisible-backdoor-exploiting-file-downloads-via-idor-a25d959e956d?source=rss------bug_bounty-5) 
 
- - 💯August 20, 2025 - [Bypassing Authentication with a Single Request: A Real Bug Bounty Story](https://cybersecuritywriteups.com/bypassing-authentication-with-a-single-request-a-real-bug-bounty-story-9526dc2484d4?source=rss------bug_bounty-5) 
+ - 💯August 21, 2025 - [HackerOne Got You Down? Here’s Where to Look Next](https://medium.com/@CtrlC3/hackerone-got-you-down-heres-where-to-look-next-19ca6aad9e4f?source=rss------bug_bounty-5) 
 
- - 💯August 20, 2025 - [HTMLI To PII Leak | Bug Bounty Story](https://medium.com/legionhunters/htmli-to-pii-leak-bug-bounty-story-1f4364bcc270?source=rss------bug_bounty-5) 
+ - 💯August 21, 2025 - [How I Found My First Critical Vulnerability](https://cybersecuritywriteups.com/how-i-found-my-first-critical-vulnerability-e7407f715fc9?source=rss------bug_bounty-5) 
 
- - 💯August 20, 2025 - [️ Path Traversal in Web Applications: When Hackers Walk Through Your Folders](https://sukhveersingh97997.medium.com/%EF%B8%8F-path-traversal-in-web-applications-when-hackers-walk-through-your-folders-60b2c4537d00?source=rss------bug_bounty-5) 
+ - 💯August 21, 2025 - [️ Cybersecurity in 2025: 7 Free Tools Every Beginner Should Master](https://medium.com/@parthpatel1207/%EF%B8%8F-cybersecurity-in-2025-7-free-tools-every-beginner-should-master-9b76dcfe7adf?source=rss------bug_bounty-5) 
 
- - 💯August 20, 2025 - [Amass: Complete Guide to Subdomain Recognition and Attack Surface Mapping](https://medium.com/@jpablo13/amass-complete-guide-to-subdomain-recognition-and-attack-surface-mapping-c1736db05f88?source=rss------bug_bounty-5) 
+ - 💯August 21, 2025 - [6. Subdomain Enumeration Like a Pro](https://medium.com/@kumawatabhijeet2002/6-subdomain-enumeration-like-a-pro-8461c8a92e25?source=rss------bug_bounty-5) 
 
- - 💯August 19, 2025 - [Oh-My-WebServer TryHackMe Writeup](https://medium.com/@mehdi.benfredj15/oh-my-webserver-tryhackme-writeup-47a30ce2ec08?source=rss------bug_bounty-5) 
+ - 💯August 21, 2025 - [Arbitrary URL Injection via Link Input Field | bug bounty writeup](https://medium.com/@RaunakGupta1922/arbitrary-url-injection-via-link-input-field-bug-bounty-writeup-08d87dab2011?source=rss------bug_bounty-5) 
 
- - 💯August 19, 2025 - [APIs Pentesting &lpar;Part 1&rpar; |What is API &amp; APIs Architectures](https://medium.com/@hamzamabdulrhman/apis-pentesting-part-1-what-is-api-apis-architectures-22fffa3b79a0?source=rss------bug_bounty-5) 
+ - 💯August 21, 2025 - [Your Domain, My Playground: Hijacking Your Link Previews ‍](https://shubhangborkar.medium.com/your-domain-my-playground-hijacking-your-link-previews-fdca8272bb4e?source=rss------bug_bounty-5) 
+
+ - 💯August 21, 2025 - [Web Cache Poisoning via an Unkeyed Query Parameter](https://bashoverflow.medium.com/web-cache-poisoning-via-an-unkeyed-query-parameter-543c4016b920?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
