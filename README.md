@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 22, 2025 - [How a Simple Endpoint Copy Turned Into Bonus Bounty$$](https://medium.com/@whitehat29/how-a-simple-endpoint-copy-turned-into-bonus-bounty-a35906b2c611?source=rss------bug_bounty-5) 
+ - 💯August 23, 2025 - [Tip de Bug Bounty: los fallos viven en los flujos secundarios](https://gorkaaa.medium.com/tip-de-bug-bounty-los-fallos-viven-en-los-flujos-secundarios-6a689523ec63?source=rss------bug_bounty-5) 
 
- - 💯August 22, 2025 - [The API Attack Surge of 2025: Why Your SaaS Isn’t Safe](https://medium.com/@paritoshblogs/the-api-attack-surge-of-2025-why-your-saas-isnt-safe-74f33bbc87be?source=rss------bug_bounty-5) 
+ - 💯August 23, 2025 - [SQL Injection: Beyond Basics &lpar;Bug Bounty Hunter’s Guide&rpar;](https://sukhveersingh97997.medium.com/sql-injection-beyond-basics-bug-bounty-hunters-guide-5853d2d39b52?source=rss------bug_bounty-5) 
 
- - 💯August 22, 2025 - [FOFA: La Guía Definitiva para el Reconocimiento de Activos en Bug Bounty y OSINT](https://medium.com/@jpablo13/fofa-la-gu%C3%ADa-definitiva-para-el-reconocimiento-de-activos-en-bug-bounty-y-osint-948bcae4fe5b?source=rss------bug_bounty-5) 
+ - 💯August 23, 2025 - [Unlimited Trials: Exploiting Email Alias Normalization in Redacted.com](https://osintteam.blog/unlimited-trials-exploiting-email-alias-normalization-in-redacted-com-c77cc24dc09d?source=rss------bug_bounty-5) 
 
- - 💯August 21, 2025 - [What is a CSRF attack?](https://medium.com/@jpgbwgbz/what-is-a-csrf-attack-89f67ea5d4b1?source=rss------bug_bounty-5) 
+ - 💯August 23, 2025 - [FOFA: The Definitive Guide to Asset Recognition in Bug Bounty and OSINT](https://medium.com/@jpablo13/fofa-the-definitive-guide-to-asset-recognition-in-bug-bounty-and-osint-dc0448055220?source=rss------bug_bounty-5) 
 
- - 💯August 21, 2025 - [Reflected XSS on Starbucks](https://medium.com/@0x0mahmoud/reflected-xss-on-starbucks-1bcd07aa53f5?source=rss------bug_bounty-5) 
+ - 💯August 22, 2025 - [When a Valid Critical Goes Nowhere: Lessons from 14 Weeks in ImmuneFi Limbo](https://medium.com/@sillencedogood/when-a-valid-critical-goes-nowhere-lessons-from-14-weeks-in-immunefi-limbo-7764039316a2?source=rss------bug_bounty-5) 
 
- - 💯August 21, 2025 - [1,130 Bounty: Critical XSS Vulnerability in GitLab’s](https://medium.com/h7w/1-130-bounty-critical-xss-vulnerability-in-gitlabs-439e1206d8c8?source=rss------bug_bounty-5) 
+ - 💯August 22, 2025 - [Portswigger HTTP Host Header Attacks Labs — Expert](https://medium.com/@sl0th0x87/portswigger-http-host-header-attacks-labs-expert-f773ffad923d?source=rss------bug_bounty-5) 
 
- - 💯August 21, 2025 - [A Deep Dive into Admin Panel Exploitation](https://medium.com/h7w/a-deep-dive-into-admin-panel-exploitation-8c8998c6aa53?source=rss------bug_bounty-5) 
+ - 💯August 22, 2025 - [Portswigger Business logic vulnerabilities Labs — Expert](https://medium.com/@sl0th0x87/portswigger-business-logic-vulnerabilities-labs-expert-b233d942e574?source=rss------bug_bounty-5) 
 
- - 💯August 21, 2025 - [LINUX CREDENTIAL HUNTING](https://medium.com/@P4RAD0X/linux-credential-hunting-65f8ee1d22d8?source=rss------bug_bounty-5) 
+ - 💯August 22, 2025 - [From Days to Minutes: Building DNS-Helix, a High-Speed Subdomain Discovery Tool](https://cyphernova1337.medium.com/from-days-to-minutes-building-dns-helix-a-high-speed-subdomain-discovery-tool-84bf2fcc3bd9?source=rss------bug_bounty-5) 
 
- - 💯August 21, 2025 - [WordPress Enumeration Before Exploitation: A Step-by-Step Guide for Security Professionals &lpar;Part 1&rpar;](https://medium.com/@verylazytech/wordpress-enumeration-before-exploitation-a-step-by-step-guide-for-security-professionals-part-1-664926fbacf0?source=rss------bug_bounty-5) 
+ - 💯August 22, 2025 - [Portswigger Web LLM Attacks Labs — Expert](https://medium.com/@sl0th0x87/portswigger-web-llm-attacks-labs-expert-3eba30e89830?source=rss------bug_bounty-5) 
 
- - 💯August 21, 2025 - [Ditch Intelx.io: 3 Better &lpar;and Cheaper&rpar; Alternatives in 2025](https://medium.com/@jeosantos2005/ditch-intelx-io-3-better-and-cheaper-alternatives-in-2025-b25be5174bbd?source=rss------bug_bounty-5) 
+ - 💯August 22, 2025 - [Portswigger Server-side template injection — Expert](https://medium.com/@sl0th0x87/portswigger-server-side-template-injection-expert-41103b47147f?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
