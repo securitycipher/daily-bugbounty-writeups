@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 23, 2025 - [Tip de Bug Bounty: los fallos viven en los flujos secundarios](https://gorkaaa.medium.com/tip-de-bug-bounty-los-fallos-viven-en-los-flujos-secundarios-6a689523ec63?source=rss------bug_bounty-5) 
+ - 💯August 24, 2025 - [GeoServer Exploits and Increasing Cybercrime Campaigns](https://medium.com/@shalomo.social/geoserver-exploits-and-increasing-cybercrime-campaigns-0325095af5da?source=rss------bug_bounty-5) 
 
- - 💯August 23, 2025 - [SQL Injection: Beyond Basics &lpar;Bug Bounty Hunter’s Guide&rpar;](https://sukhveersingh97997.medium.com/sql-injection-beyond-basics-bug-bounty-hunters-guide-5853d2d39b52?source=rss------bug_bounty-5) 
+ - 💯August 24, 2025 - [Bug Bounty: Subdomain Takeover: Cómo detectar y explotar subdominios huérfanos](https://gorkaaa.medium.com/bug-bounty-subdomain-takeover-c%C3%B3mo-detectar-y-explotar-subdominios-hu%C3%A9rfanos-722d1af41e8e?source=rss------bug_bounty-5) 
 
- - 💯August 23, 2025 - [Unlimited Trials: Exploiting Email Alias Normalization in Redacted.com](https://osintteam.blog/unlimited-trials-exploiting-email-alias-normalization-in-redacted-com-c77cc24dc09d?source=rss------bug_bounty-5) 
+ - 💯August 24, 2025 - [Recon Roulette: Spinning Old Subdomains into a Fresh Critical Takeover](https://infosecwriteups.com/recon-roulette-spinning-old-subdomains-into-a-fresh-critical-takeover-47dab541e5b6?source=rss------bug_bounty-5) 
 
- - 💯August 23, 2025 - [FOFA: The Definitive Guide to Asset Recognition in Bug Bounty and OSINT](https://medium.com/@jpablo13/fofa-the-definitive-guide-to-asset-recognition-in-bug-bounty-and-osint-dc0448055220?source=rss------bug_bounty-5) 
+ - 💯August 24, 2025 - [“My Burp Suite Pro Playbook: Hacking APIs &amp; Hijacking Sessions for Bounties”](https://infosecwriteups.com/my-burp-suite-pro-playbook-hacking-apis-hijacking-sessions-for-bounties-33b68c59f6cd?source=rss------bug_bounty-5) 
 
- - 💯August 22, 2025 - [When a Valid Critical Goes Nowhere: Lessons from 14 Weeks in ImmuneFi Limbo](https://medium.com/@sillencedogood/when-a-valid-critical-goes-nowhere-lessons-from-14-weeks-in-immunefi-limbo-7764039316a2?source=rss------bug_bounty-5) 
+ - 💯August 24, 2025 - [Improper Access Control &lpar;CWE-284&rpar;: The Pentester’s Guide to Breaking Authorization in Web…](https://medium.com/@vivekbhatt2002/improper-access-control-cwe-284-the-pentesters-guide-to-breaking-authorization-in-web-c99adb33a286?source=rss------bug_bounty-5) 
 
- - 💯August 22, 2025 - [Portswigger HTTP Host Header Attacks Labs — Expert](https://medium.com/@sl0th0x87/portswigger-http-host-header-attacks-labs-expert-f773ffad923d?source=rss------bug_bounty-5) 
+ - 💯August 24, 2025 - [7. Understanding HTTP Requests: The Language of the Web](https://infosecwriteups.com/7-understanding-http-requests-the-language-of-the-web-167b4210b700?source=rss------bug_bounty-5) 
 
- - 💯August 22, 2025 - [Portswigger Business logic vulnerabilities Labs — Expert](https://medium.com/@sl0th0x87/portswigger-business-logic-vulnerabilities-labs-expert-b233d942e574?source=rss------bug_bounty-5) 
+ - 💯August 24, 2025 - [Learn Bug Bounty from Zero: A Step-by-Step Approach](https://medium.com/@rashad.desk/learn-bug-bounty-from-zero-a-step-by-step-approach-f1b241f4ed53?source=rss------bug_bounty-5) 
 
- - 💯August 22, 2025 - [From Days to Minutes: Building DNS-Helix, a High-Speed Subdomain Discovery Tool](https://cyphernova1337.medium.com/from-days-to-minutes-building-dns-helix-a-high-speed-subdomain-discovery-tool-84bf2fcc3bd9?source=rss------bug_bounty-5) 
+ - 💯August 24, 2025 - [Unauthenticated OTP Spam via Multi-Endpoint Rate Limit Bypass](https://medium.com/legionhunters/unauthenticated-otp-spam-via-multi-endpoint-rate-limit-bypass-577027c197c0?source=rss------bug_bounty-5) 
 
- - 💯August 22, 2025 - [Portswigger Web LLM Attacks Labs — Expert](https://medium.com/@sl0th0x87/portswigger-web-llm-attacks-labs-expert-3eba30e89830?source=rss------bug_bounty-5) 
+ - 💯August 24, 2025 - [Automating Recon with GitHub Actions, Subfinder, Httpx, and Nuclei](https://engsooncheah.medium.com/automating-recon-with-github-actions-subfinder-httpx-and-nuclei-ac1bc8c664b1?source=rss------bug_bounty-5) 
 
- - 💯August 22, 2025 - [Portswigger Server-side template injection — Expert](https://medium.com/@sl0th0x87/portswigger-server-side-template-injection-expert-41103b47147f?source=rss------bug_bounty-5) 
+ - 💯August 24, 2025 - [Accessing Employee GitHub SSH Key](https://ghostman01.medium.com/accessing-employee-github-ssh-key-4e125faba413?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
