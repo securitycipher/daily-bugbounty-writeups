@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 25, 2025 - [‍♂️ Tip de Bug Bounty: Nunca ignores los mensajes de error](https://gorkaaa.medium.com/%EF%B8%8F-tip-de-bug-bounty-nunca-ignores-los-mensajes-de-error-6e57f2b82f76?source=rss------bug_bounty-5) 
+ - 💯August 26, 2025 - [Bug Bounty XSS con postMessage: cuando la confianza entre ventanas se convierte en vulnerabilidad](https://gorkaaa.medium.com/bug-bounty-xss-con-postmessage-cuando-la-confianza-entre-ventanas-se-convierte-en-vulnerabilidad-f18822acf0ab?source=rss------bug_bounty-5) 
 
- - 💯August 25, 2025 - [️‍♂️ OWASP Top 10 for Web LLM Apps &lpar;2025&rpar; — The Field Manual](https://medium.com/meetcyber/%EF%B8%8F-%EF%B8%8F-owasp-top-10-for-web-llm-apps-2025-the-field-manual-9c8092dc8f36?source=rss------bug_bounty-5) 
+ - 💯August 26, 2025 - [The Psychology of Bug Bounty Hunting: Why Mindset Beats Tools](https://sukhveersingh97997.medium.com/the-psychology-of-bug-bounty-hunting-why-mindset-beats-tools-5278ea7fa528?source=rss------bug_bounty-5) 
 
- - 💯August 25, 2025 - [10 Bug Bounty Myths That Are Stopping You From Earning Your First $1,000](https://sukhveersingh97997.medium.com/10-bug-bounty-myths-that-are-stopping-you-from-earning-your-first-1-000-53a9b49e4478?source=rss------bug_bounty-5) 
+ - 💯August 26, 2025 - [️‍♂️ The Forgotten API Endpoints — Deep Recon &amp; Defense Playbook](https://medium.com/meetcyber/%EF%B8%8F-%EF%B8%8F-the-forgotten-api-endpoints-deep-recon-defense-playbook-1507ff2da8a1?source=rss------bug_bounty-5) 
 
- - 💯August 25, 2025 - [Breaking Down BugBazaar: Lessons from a Vulnerable Android E-Commerce App](https://medium.com/@vicky210490/breaking-down-bugbazaar-lessons-from-a-vulnerable-android-e-commerce-app-2ceaca1c2759?source=rss------bug_bounty-5) 
+ - 💯August 26, 2025 - [️ The Forgotten API Endpoints: How Recon Finds Gold Where Developers Don’t Look](https://medium.com/codetodeploy/%EF%B8%8F-the-forgotten-api-endpoints-how-recon-finds-gold-where-developers-dont-look-58fb04b97a51?source=rss------bug_bounty-5) 
 
- - 💯August 25, 2025 - [SQL Injection Lab — TryHackMe — Walkthrough &amp; answers](https://medium.com/@tapasviMadhak/sql-injection-lab-tryhackme-walkthrough-answers-c0ed7fc3bd33?source=rss------bug_bounty-5) 
+ - 💯August 26, 2025 - [️ OSINT-Driven API Recon: Finding Endpoints Without Touching the Target](https://javascript.plainenglish.io/%EF%B8%8F-osint-driven-api-recon-finding-endpoints-without-touching-the-target-d98dbb8c262e?source=rss------bug_bounty-5) 
 
- - 💯August 25, 2025 - [Account Verification Bypass through JWT Misuse &amp; CWE-347](https://medium.com/@RaunakGupta1922/account-verification-bypass-through-jwt-misuse-cwe-398-d302276b80bf?source=rss------bug_bounty-5) 
+ - 💯August 26, 2025 - [Did you know that the first bug was actually a bug? Here’s the story.](https://medium.com/@abdullahsaifullah988/did-you-know-that-the-first-bug-was-actually-a-bug-heres-the-story-c9844f254f2c?source=rss------bug_bounty-5) 
 
- - 💯August 25, 2025 - [Your PT1 Guide](https://medium.com/meetcyber/your-pt1-guide-627f67a71b05?source=rss------bug_bounty-5) 
+ - 💯August 26, 2025 - [#Another Bug Bounty Win: Responsible Disclosure of Potential Template Injection Got me 250$](https://medium.com/@ch1ta/another-bug-bounty-win-responsible-disclosure-of-potential-template-injection-got-me-250-a1d7be3cc781?source=rss------bug_bounty-5) 
 
- - 💯August 24, 2025 - [How I Was Able to Take Over Accounts Without Email or Password](https://medium.com/@zyad_ibrahim333/how-i-was-able-to-take-over-accounts-without-email-or-password-5d7434d7a049?source=rss------bug_bounty-5) 
+ - 💯August 26, 2025 - [When Ads Lie: How I Found a Click Fraud Weakness in a Major E-Commerce Site](https://infosecwriteups.com/when-ads-lie-how-i-found-a-click-fraud-weakness-in-a-major-e-commerce-site-4e8c26e16780?source=rss------bug_bounty-5) 
 
- - 💯August 24, 2025 - [Full Account Takeover &lpar;0-Click ATO&rpar; — My Story with a Critical Vulnerability](https://nayefhamouda.medium.com/full-account-takeover-0-click-ato-my-story-with-a-critical-vulnerability-6e7ff9a9eaa5?source=rss------bug_bounty-5) 
+ - 💯August 26, 2025 - [8. Intro to XSS: How I Found My First Bug](https://infosecwriteups.com/8-intro-to-xss-how-i-found-my-first-bug-0046a4dbec4b?source=rss------bug_bounty-5) 
 
- - 💯August 24, 2025 - [How We Bypassed Rate Limits To Flood OTP Systems](https://medium.com/@ibtissamhammadi1/how-we-bypassed-rate-limits-to-flood-otp-systems-157aa822b72e?source=rss------bug_bounty-5) 
+ - 💯August 26, 2025 - [The Thousand Dollar Bug](https://medium.com/@RaunakGupta1922/the-thousand-dollar-bug-07955ff2ba57?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
