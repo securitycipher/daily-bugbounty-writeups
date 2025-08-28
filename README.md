@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 27, 2025 - [Bug Bounty Un buen hacker no fuerza puertas, encuentra las que nunca cerraron](https://gorkaaa.medium.com/bug-bounty-un-buen-hacker-no-fuerza-puertas-encuentra-las-que-nunca-cerraron-743232169bd8?source=rss------bug_bounty-5) 
+ - 💯August 28, 2025 - [Bug Bounty Broken Access Control: la vulnerabilidad que abre más puertas de las que imaginas](https://gorkaaa.medium.com/bug-bounty-broken-access-control-la-vulnerabilidad-que-abre-m%C3%A1s-puertas-de-las-que-imaginas-52ede8b6bc4a?source=rss------bug_bounty-5) 
 
- - 💯August 27, 2025 - [️ Passive Recon Superpowers: Finding APIs Without Sending a Single Request](https://javascript.plainenglish.io/%EF%B8%8F-passive-recon-superpowers-finding-apis-without-sending-a-single-request-308e410aebdf?source=rss------bug_bounty-5) 
+ - 💯August 28, 2025 - [Hacking by Breaking: The Dark Art of Error Fuzzing](https://javascript.plainenglish.io/hacking-by-breaking-the-dark-art-of-error-fuzzing-e05f5722fac1?source=rss------bug_bounty-5) 
 
- - 💯August 27, 2025 - [Recon on Mobile APIs: The Hidden Attack Surface in Your Pocket](https://medium.com/meetcyber/recon-on-mobile-apis-the-hidden-attack-surface-in-your-pocket-7145915edcbe?source=rss------bug_bounty-5) 
+ - 💯August 28, 2025 - [The Hunter’s Diary: A Bug Bounty Journey from Curiosity to Critical Hit](https://medium.com/@djhacker4397/the-hunters-diary-a-bug-bounty-journey-from-curiosity-to-critical-hit-f3c4900f225b?source=rss------bug_bounty-5) 
 
- - 💯August 27, 2025 - [️‍♂️ Chaining Recon Data: From Swagger JSON to Full API Map](https://medium.com/codetodeploy/%EF%B8%8F-%EF%B8%8F-chaining-recon-data-from-swagger-json-to-full-api-map-ad23aa1e4601?source=rss------bug_bounty-5) 
+ - 💯August 28, 2025 - [⚡ One Click to Chaos: How I Chained CSRF with Open Redirects for Account Takeover](https://infosecwriteups.com/one-click-to-chaos-how-i-chained-csrf-with-open-redirects-for-account-takeover-fd9d5d753402?source=rss------bug_bounty-5) 
 
- - 💯August 27, 2025 - [Web Security 2025: 5 Red-Hot Attacks &amp; Techniques You Can Cash In On Right Now](https://medium.com/@vivekps143/web-security-2025-5-red-hot-attacks-techniques-you-can-cash-in-on-right-now-4741b4ca434a?source=rss------bug_bounty-5) 
+ - 💯August 28, 2025 - [The First Crack:  How Exploits Actually Work](https://darkpurple.medium.com/the-first-crack-how-exploits-actually-work-d8eeb5879176?source=rss------bug_bounty-5) 
 
- - 💯August 27, 2025 - [From CNAME to Cash: Hijacking Misconfigured DNS Records for Maximum Impact](https://infosecwriteups.com/from-cname-to-cash-hijacking-misconfigured-dns-records-for-maximum-impact-41352654f85c?source=rss------bug_bounty-5) 
+ - 💯August 28, 2025 - [Top 10 Error Handling Leaks Red Teamers Exploit](https://javascript.plainenglish.io/top-10-error-handling-leaks-red-teamers-exploit-348289e76bdd?source=rss------bug_bounty-5) 
 
- - 💯August 27, 2025 - [Detecting Malware with Memory Forensics: A Deep Dive](https://medium.com/@paritoshblogs/detecting-malware-with-memory-forensics-a-deep-dive-dfd1458a8c37?source=rss------bug_bounty-5) 
+ - 💯August 28, 2025 - [Your 404s Are Talking Too Much: Error Handling as a Security Control](https://medium.com/meetcyber/your-404s-are-talking-too-much-error-handling-as-a-security-control-a4265e11d531?source=rss------bug_bounty-5) 
 
- - 💯August 27, 2025 - [The Hacker’s Toolkit for 2025: 15 Tools I Can’t Live Without](https://sukhveersingh97997.medium.com/the-hackers-toolkit-for-2025-15-tools-i-can-t-live-without-00df61e39c53?source=rss------bug_bounty-5) 
+ - 💯August 28, 2025 - [⚡ Broken API Dependencies: Recon via Third-Party Calls](https://systemweakness.com/broken-api-dependencies-recon-via-third-party-calls-c60a5c45eb82?source=rss------bug_bounty-5) 
 
- - 💯August 27, 2025 - [Securing an Application Built with AI: Lessons from a Real-World Test](https://medium.com/@gabbytech01/securing-an-application-built-with-ai-lessons-from-a-real-world-test-400648df34f8?source=rss------bug_bounty-5) 
+ - 💯August 28, 2025 - [How to Hunt an Attacker’s C2 IP Address Like a Threat Hunter](https://medium.com/@paritoshblogs/how-to-hunt-an-attackers-c2-ip-address-like-a-threat-hunter-2589c39b0e72?source=rss------bug_bounty-5) 
 
- - 💯August 27, 2025 - [Shodan’s Guide for Cybersecurity Professionals: From Basic Search to Advanced Reconnaissance](https://medium.com/@jpablo13/shodans-guide-for-cybersecurity-professionals-from-basic-search-to-advanced-reconnaissance-dbeeee21c638?source=rss------bug_bounty-5) 
+ - 💯August 28, 2025 - [Top 5 Malware Outbreaks of 2025 &lpar;So Far&rpar; — and Lessons Learned](https://medium.com/@paritoshblogs/top-5-malware-outbreaks-of-2025-so-far-and-lessons-learned-e4a611aab399?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
