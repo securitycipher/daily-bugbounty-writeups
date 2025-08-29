@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 28, 2025 - [Bug Bounty Broken Access Control: la vulnerabilidad que abre más puertas de las que imaginas](https://gorkaaa.medium.com/bug-bounty-broken-access-control-la-vulnerabilidad-que-abre-m%C3%A1s-puertas-de-las-que-imaginas-52ede8b6bc4a?source=rss------bug_bounty-5) 
+ - 💯August 29, 2025 - [Unsafe Request Handling in Account Deletion Flow Got me 91 $](https://ch1ta.medium.com/unsafe-request-handling-in-account-deletion-flow-got-me-91-7cb365d375d0?source=rss------bug_bounty-5) 
 
- - 💯August 28, 2025 - [Hacking by Breaking: The Dark Art of Error Fuzzing](https://javascript.plainenglish.io/hacking-by-breaking-the-dark-art-of-error-fuzzing-e05f5722fac1?source=rss------bug_bounty-5) 
+ - 💯August 29, 2025 - [Bug Bounty Enumeración de JavaScript: cómo encontrar endpoints y secretos escondidos](https://gorkaaa.medium.com/bug-bounty-enumeraci%C3%B3n-de-javascript-c%C3%B3mo-encontrar-endpoints-y-secretos-escondidos-47cb9f5affde?source=rss------bug_bounty-5) 
 
- - 💯August 28, 2025 - [The Hunter’s Diary: A Bug Bounty Journey from Curiosity to Critical Hit](https://medium.com/@djhacker4397/the-hunters-diary-a-bug-bounty-journey-from-curiosity-to-critical-hit-f3c4900f225b?source=rss------bug_bounty-5) 
+ - 💯August 29, 2025 - [To Each Their Own in Hacking: Choosing Your Path in Cybersecurity](https://medium.com/@hrofficial62/to-each-their-own-in-hacking-choosing-your-path-in-cybersecurity-50f9a6b0b27c?source=rss------bug_bounty-5) 
 
- - 💯August 28, 2025 - [⚡ One Click to Chaos: How I Chained CSRF with Open Redirects for Account Takeover](https://infosecwriteups.com/one-click-to-chaos-how-i-chained-csrf-with-open-redirects-for-account-takeover-fd9d5d753402?source=rss------bug_bounty-5) 
+ - 💯August 29, 2025 - [9. The Secret Power of Google Dorking](https://infosecwriteups.com/9-the-secret-power-of-google-dorking-736325566220?source=rss------bug_bounty-5) 
 
- - 💯August 28, 2025 - [The First Crack:  How Exploits Actually Work](https://darkpurple.medium.com/the-first-crack-how-exploits-actually-work-d8eeb5879176?source=rss------bug_bounty-5) 
+ - 💯August 29, 2025 - [Token Tales: Finding Hidden API Keys in JavaScript and Turning Them Into Gold](https://infosecwriteups.com/token-tales-finding-hidden-api-keys-in-javascript-and-turning-them-into-gold-e4e93c51e52b?source=rss------bug_bounty-5) 
 
- - 💯August 28, 2025 - [Top 10 Error Handling Leaks Red Teamers Exploit](https://javascript.plainenglish.io/top-10-error-handling-leaks-red-teamers-exploit-348289e76bdd?source=rss------bug_bounty-5) 
+ - 💯August 29, 2025 - [TryHackMe | Web Security Essentials | Walkthrough](https://medium.com/@sampatil8554/%EF%B8%8F-web-security-essentials-a-beginners-guide-with-tryhackme-d23ac015c044?source=rss------bug_bounty-5) 
 
- - 💯August 28, 2025 - [Your 404s Are Talking Too Much: Error Handling as a Security Control](https://medium.com/meetcyber/your-404s-are-talking-too-much-error-handling-as-a-security-control-a4265e11d531?source=rss------bug_bounty-5) 
+ - 💯August 29, 2025 - [Guía de Assetfinder: Descubre subdominios rápidamente para Bug Bounty y Red Team](https://medium.com/@jpablo13/gu%C3%ADa-de-assetfinder-descubre-subdominios-r%C3%A1pidamente-para-bug-bounty-y-red-team-c571f108e67a?source=rss------bug_bounty-5) 
 
- - 💯August 28, 2025 - [⚡ Broken API Dependencies: Recon via Third-Party Calls](https://systemweakness.com/broken-api-dependencies-recon-via-third-party-calls-c60a5c45eb82?source=rss------bug_bounty-5) 
+ - 💯August 28, 2025 - [Automating Credential Stuffing Attacks with Burp Suite Intruder](https://systemweakness.com/automating-credential-stuffing-attacks-with-burp-suite-intruder-3aa74cf0c2d1?source=rss------bug_bounty-5) 
 
- - 💯August 28, 2025 - [How to Hunt an Attacker’s C2 IP Address Like a Threat Hunter](https://medium.com/@paritoshblogs/how-to-hunt-an-attackers-c2-ip-address-like-a-threat-hunter-2589c39b0e72?source=rss------bug_bounty-5) 
+ - 💯August 28, 2025 - [Injection &lpar;OWASP Top 10 #3&rpar; — Simplified](https://medium.com/@chai.exe/injection-owasp-top-10-3-simplified-42bf04981a1a?source=rss------bug_bounty-5) 
 
- - 💯August 28, 2025 - [Top 5 Malware Outbreaks of 2025 &lpar;So Far&rpar; — and Lessons Learned](https://medium.com/@paritoshblogs/top-5-malware-outbreaks-of-2025-so-far-and-lessons-learned-e4a611aab399?source=rss------bug_bounty-5) 
+ - 💯August 28, 2025 - [XSS Stored Bypass cookie http only via all accounts take over](https://medium.com/@VulnRAM/xss-stored-bypass-cookie-http-only-via-all-accounts-take-over-ef7134f139d1?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
