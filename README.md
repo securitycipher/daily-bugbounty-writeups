@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 31, 2025 - [Bug Bounty Web Cache Deception: cuando la caché filtra datos privados](https://gorkaaa.medium.com/bug-bounty-web-cache-deception-cuando-la-cach%C3%A9-filtra-datos-privados-f8f72e6200b5?source=rss------bug_bounty-5) 
+ - 💯September 1, 2025 - [HTB-LAB Local File Inclusion &lpar;LFI&rpar;](https://medium.com/@kamelgaceb25/htb-lab-local-file-inclusion-lfi-5061ab1b4299?source=rss------bug_bounty-5) 
 
- - 💯August 31, 2025 - [How I Exploited a JWT Misconfiguration for Account Takeover and Admin Access in 5 Minutes](https://medium.com/@P4RAD0X/how-i-exploited-a-jwt-misconfiguration-for-account-takeover-and-admin-access-in-5-minutes-c2974899f4ec?source=rss------bug_bounty-5) 
+ - 💯September 1, 2025 - [How I Bypassed VPN Detection, Broke Client-Side Crypto and Found Multiple IDORS](https://medium.com/@wajidareeb/bypassed-vpn-detection-clientside-crypto-and-found-idors-5cdf0cd4ac84?source=rss------bug_bounty-5) 
 
- - 💯August 31, 2025 - [Payload Party: Chaining Tiny Bugs Into a Full-Blown Account Takeover](https://infosecwriteups.com/payload-party-chaining-tiny-bugs-into-a-full-blown-account-takeover-f85d646f3666?source=rss------bug_bounty-5) 
+ - 💯September 1, 2025 - [Puzzle to Pwnage: Decoding Hidden Endpoints for Maximum Exploitation](https://infosecwriteups.com/puzzle-to-pwnage-decoding-hidden-endpoints-for-maximum-exploitation-1d2841383ddc?source=rss------bug_bounty-5) 
 
- - 💯August 31, 2025 - [How I Found an Exposed User Database via an Unprotected API &lpar;And How to Prevent It&rpar; in a private…](https://medium.com/@InsbatArshad/how-i-found-an-exposed-user-database-via-an-unprotected-api-and-how-to-prevent-it-in-a-private-77dd95a1101c?source=rss------bug_bounty-5) 
+ - 💯September 1, 2025 - [Sensitive Endpoint Wordlist for Bug Hunting](https://infosecwriteups.com/sensitive-endpoint-wordlist-for-bug-hunting-1acb50034629?source=rss------bug_bounty-5) 
 
- - 💯August 31, 2025 - [The Broken Directory Bug](https://infosecwriteups.com/the-broken-directory-bug-184f37087479?source=rss------bug_bounty-5) 
+ - 💯September 1, 2025 - [Anatomy of Email Security Vulnerabilities: How Spoofing, Protocol Weaknesses, and Misconfigurations…](https://medium.com/@mohamednfe78/anatomy-of-email-security-vulnerabilities-how-spoofing-protocol-weaknesses-and-misconfigurations-e3264c712479?source=rss------bug_bounty-5) 
 
- - 💯August 30, 2025 - [How a Forgotten Subdomain Led to Critical Access](https://medium.com/readers-club/how-a-forgotten-subdomain-led-to-critical-access-116a78401065?source=rss------bug_bounty-5) 
+ - 💯September 1, 2025 - [Why Ransomware Gangs Are Now Targeting APIs and SaaS Apps](https://medium.com/@paritoshblogs/why-ransomware-gangs-are-now-targeting-apis-and-saas-apps-eb08cd045ad2?source=rss------bug_bounty-5) 
 
- - 💯August 30, 2025 - [Hacking APIs: Building a Custom Nuclei Workflow for API Pentesting](https://iaraoz.medium.com/hacking-apis-building-a-custom-nuclei-workflow-for-api-pentesting-ff616e29f784?source=rss------bug_bounty-5) 
+ - 💯August 31, 2025 - [I Almost Closed the Tab on My Biggest Bug Bounty](https://medium.com/@ibtissamhammadi1/i-almost-closed-the-tab-on-my-biggest-bug-bounty-8685ef3d2f46?source=rss------bug_bounty-5) 
 
- - 💯August 30, 2025 - [Mastering Nmap &lpar;Part 3&rpar; in 2025:: Vulnerability Detection &amp; Exploitation with NSE](https://medium.com/@appsecvenue/mastering-nmap-part-3-in-2025-vulnerability-detection-exploitation-with-nse-6e3b899eb64d?source=rss------bug_bounty-5) 
+ - 💯August 31, 2025 - [Union-based SQL injection](https://medium.com/@MohammedMHassan/union-based-sql-injection-2e0cc3b18939?source=rss------bug_bounty-5) 
 
- - 💯August 30, 2025 - [$500 Bounty for Stored SVG-based Script Execution Vulnerability in target.com’s Chat System](https://ch1ta.medium.com/500-bounty-for-stored-svg-based-script-execution-vulnerability-in-target-coms-chat-system-8358d0d6fc35?source=rss------bug_bounty-5) 
+ - 💯August 31, 2025 - [My Experience of Hacking Dutch Government &lpar;DNS Hijacking&rpar;](https://nahid0x1.medium.com/my-experience-of-hacking-dutch-government-dns-hijacking-d25239af5500?source=rss------bug_bounty-5) 
 
- - 💯August 30, 2025 - [SSRF](https://medium.com/@MohammedMHassan/ssrf-7c3f196e8d45?source=rss------bug_bounty-5) 
+ - 💯August 31, 2025 - [The Complete Path to Cybersecurity: From Beginner to Expert](https://medium.com/@MianHammadx0root/the-complete-path-to-cybersecurity-from-beginner-to-expert-e84fafff26ed?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
