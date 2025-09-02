@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯September 1, 2025 - [HTB-LAB Local File Inclusion &lpar;LFI&rpar;](https://medium.com/@kamelgaceb25/htb-lab-local-file-inclusion-lfi-5061ab1b4299?source=rss------bug_bounty-5) 
+ - 💯September 2, 2025 - [Cómo redactar un buen reporte de Bug Bounty &lpar;paso a paso&rpar;](https://gorkaaa.medium.com/c%C3%B3mo-redactar-un-buen-reporte-de-bug-bounty-paso-a-paso-288016837dff?source=rss------bug_bounty-5) 
 
- - 💯September 1, 2025 - [How I Bypassed VPN Detection, Broke Client-Side Crypto and Found Multiple IDORS](https://medium.com/@wajidareeb/bypassed-vpn-detection-clientside-crypto-and-found-idors-5cdf0cd4ac84?source=rss------bug_bounty-5) 
+ - 💯September 2, 2025 - [Why Most of them fails in Bug Bounty — Deep dive into the reason behind it](https://infosecwriteups.com/why-most-of-them-fails-in-bug-bounty-deep-dive-into-the-reason-behind-it-78f1d47327a1?source=rss------bug_bounty-5) 
 
- - 💯September 1, 2025 - [Puzzle to Pwnage: Decoding Hidden Endpoints for Maximum Exploitation](https://infosecwriteups.com/puzzle-to-pwnage-decoding-hidden-endpoints-for-maximum-exploitation-1d2841383ddc?source=rss------bug_bounty-5) 
+ - 💯September 2, 2025 - [Bug Bounty: checklist template for SwiftnessX](https://medium.com/@smilemil/bug-bounty-checklist-template-for-swiftnessx-b51abfc2549f?source=rss------bug_bounty-5) 
 
- - 💯September 1, 2025 - [Sensitive Endpoint Wordlist for Bug Hunting](https://infosecwriteups.com/sensitive-endpoint-wordlist-for-bug-hunting-1acb50034629?source=rss------bug_bounty-5) 
+ - 💯September 2, 2025 - [Guía completa de Sublist3r: Cómo enumerar subdominios para Bug Bounty y OSINT](https://medium.com/@jpablo13/gu%C3%ADa-completa-de-sublist3r-c%C3%B3mo-enumerar-subdominios-para-bug-bounty-y-osint-4e26f38a884f?source=rss------bug_bounty-5) 
 
- - 💯September 1, 2025 - [Anatomy of Email Security Vulnerabilities: How Spoofing, Protocol Weaknesses, and Misconfigurations…](https://medium.com/@mohamednfe78/anatomy-of-email-security-vulnerabilities-how-spoofing-protocol-weaknesses-and-misconfigurations-e3264c712479?source=rss------bug_bounty-5) 
+ - 💯September 1, 2025 - [️TryHackMe Hack2Win Challenge: Room 1, Day 1 - Hydra](https://medium.com/@chai.exe/%EF%B8%8Ftryhackme-hack2win-challenge-room-1-day-1-7767be169816?source=rss------bug_bounty-5) 
 
- - 💯September 1, 2025 - [Why Ransomware Gangs Are Now Targeting APIs and SaaS Apps](https://medium.com/@paritoshblogs/why-ransomware-gangs-are-now-targeting-apis-and-saas-apps-eb08cd045ad2?source=rss------bug_bounty-5) 
+ - 💯September 1, 2025 - [Content Discovery as a Strategy](https://osintteam.blog/content-discovery-as-a-strategy-662b13ddd46a?source=rss------bug_bounty-5) 
 
- - 💯August 31, 2025 - [I Almost Closed the Tab on My Biggest Bug Bounty](https://medium.com/@ibtissamhammadi1/i-almost-closed-the-tab-on-my-biggest-bug-bounty-8685ef3d2f46?source=rss------bug_bounty-5) 
+ - 💯September 1, 2025 - [How to Spot Easy Website Bugs with Real Examples](https://osintteam.blog/how-to-spot-easy-website-bugs-with-real-examples-2507f6688e25?source=rss------bug_bounty-5) 
 
- - 💯August 31, 2025 - [Union-based SQL injection](https://medium.com/@MohammedMHassan/union-based-sql-injection-2e0cc3b18939?source=rss------bug_bounty-5) 
+ - 💯September 1, 2025 - [The Digital Bounty Hunter: How to Find and Report Bugs for Cash](https://medium.com/write-earn/the-digital-bounty-hunter-how-to-find-and-report-bugs-for-cash-9fe3539d7015?source=rss------bug_bounty-5) 
 
- - 💯August 31, 2025 - [My Experience of Hacking Dutch Government &lpar;DNS Hijacking&rpar;](https://nahid0x1.medium.com/my-experience-of-hacking-dutch-government-dns-hijacking-d25239af5500?source=rss------bug_bounty-5) 
+ - 💯September 1, 2025 - [Web Security Tip: Stop Cross-Site Scripting &lpar;XSS&rpar; with X-XSS-Protection &amp; Content Security…](https://medium.com/@zoningxtr/web-security-tip-stop-cross-site-scripting-xss-with-x-xss-protection-content-security-2707d1d8fe1e?source=rss------bug_bounty-5) 
 
- - 💯August 31, 2025 - [The Complete Path to Cybersecurity: From Beginner to Expert](https://medium.com/@MianHammadx0root/the-complete-path-to-cybersecurity-from-beginner-to-expert-e84fafff26ed?source=rss------bug_bounty-5) 
+ - 💯September 1, 2025 - [5 XSS refletidos e 1 HTML Injection em menos de 10 minutos](https://medium.com/@Ranskyth/5-xss-refletidos-em-menos-de-30-minutos-f0b6a4267576?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
