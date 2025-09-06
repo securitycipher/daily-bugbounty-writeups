@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯September 5, 2025 - [When the Back Button Becomes Dangerous: My Safari Bug Bounty Journey](https://medium.com/@syarifsajjad07/when-the-back-button-becomes-dangerous-my-safari-bug-bounty-journey-8b7dee70debb?source=rss------bug_bounty-5) 
+ - 💯September 6, 2025 - [Is Your API Key Alive or Dead? — Validate in Minutes with SecurityToolkits API Key Testing Tool](https://medium.com/@thirdeye1910/is-your-api-key-alive-or-dead-validate-in-minutes-with-securitytoolkits-api-key-testing-tool-0f887686fe3c?source=rss------bug_bounty-5) 
 
- - 💯September 5, 2025 - [☁️ Cloud Chaos: How Misconfigured Buckets Spilled Sensitive Data Everywhere](https://medium.com/@iski/%EF%B8%8F-cloud-chaos-how-misconfigured-buckets-spilled-sensitive-data-everywhere-39f0099e1012?source=rss------bug_bounty-5) 
+ - 💯September 6, 2025 - [“Day 30: The Finale — The Bug That Almost Broke the Internet &lpar;Or Just My Testing Account&rpar;”](https://infosecwriteups.com/day-30-the-finale-the-bug-that-almost-broke-the-internet-or-just-my-testing-account-d63112e13427?source=rss------bug_bounty-5) 
 
- - 💯September 5, 2025 - [Hunting GraphQL Gold: Uncovering Hidden Vulnerabilities in Modern APIs](https://infosecwriteups.com/hunting-graphql-gold-uncovering-hidden-vulnerabilities-in-modern-apis-ae3c3dbf462d?source=rss------bug_bounty-5) 
+ - 💯September 6, 2025 - [How to Discover a Website’s Hidden Origin Server](https://infosecwriteups.com/how-to-discover-a-websites-hidden-origin-server-3e3f25d5be39?source=rss------bug_bounty-5) 
 
- - 💯September 5, 2025 - [Intercepting Thick Client TCP and TLS Traffic](https://infosecwriteups.com/intercepting-thick-client-tcp-and-tls-traffic-72fab07fffe7?source=rss------bug_bounty-5) 
+ - 💯September 6, 2025 - [Phish and Fetch: Turning Weak Email Validations Into Full System Access](https://infosecwriteups.com/phish-and-fetch-turning-weak-email-validations-into-full-system-access-eb2fcd2743f2?source=rss------bug_bounty-5) 
 
- - 💯September 5, 2025 - [How a Simple Race Condition Vulnerability Down a SaaS Global Platform](https://infosecwriteups.com/how-a-simple-race-condition-vulnerability-down-a-saas-global-platform-8093528b403f?source=rss------bug_bounty-5) 
+ - 💯September 6, 2025 - [OSINT — A Beginner’s Guide to Open Source Intelligence.](https://infosecwriteups.com/osint-a-beginners-guide-to-open-source-intelligence-a510063b9474?source=rss------bug_bounty-5) 
 
- - 💯September 5, 2025 - [Bypassing Physical Security in Red Team Engagements — 2025](https://infosecwriteups.com/bypassing-physical-security-in-red-team-engagements-2025-d284c2fc4fa8?source=rss------bug_bounty-5) 
+ - 💯September 6, 2025 - [5 Reasons Why Smart Companies Will Choose Bugthrive for Their Bug Bounty Program Management](https://medium.com/@ProwlSec/5-reasons-why-smart-companies-will-choose-bugthrive-for-their-bug-bounty-program-management-0554c0ec38fc?source=rss------bug_bounty-5) 
 
- - 💯September 5, 2025 - [Micro-CMS v1](https://medium.com/@dasmanish6176/micro-cms-v1-46466e09d4e3?source=rss------bug_bounty-5) 
+ - 💯September 6, 2025 - [Cybersecurity Essentials 101- Conquering the CIA Triad](https://medium.com/@stotraa/cybersecurity-essentials-101-conquering-the-cia-triad-0c3e97331bd7?source=rss------bug_bounty-5) 
 
- - 💯September 5, 2025 - [11. Secrets in JS Files — And How to Find Them](https://infosecwriteups.com/11-secrets-in-js-files-and-how-to-find-them-f4088cf71610?source=rss------bug_bounty-5) 
+ - 💯September 6, 2025 - [When Supabase Api Key Misuse Turns Vibecoding Into Vibeleaking](https://medium.com/@parthh_rana/when-supabase-api-key-misuse-turns-vibecoding-into-vibeleaking-8cb049046135?source=rss------bug_bounty-5) 
 
- - 💯September 5, 2025 - [A little something to get you started](https://medium.com/@dasmanish6176/a-little-something-to-get-you-started-d1c91463ca83?source=rss------bug_bounty-5) 
+ - 💯September 6, 2025 - [The Ultimate SQLMap Guide: Detecting and Exploiting SQL Injection](https://medium.com/meetcyber/the-ultimate-sqlmap-guide-detecting-and-exploiting-sql-injection-0499a6091022?source=rss------bug_bounty-5) 
+
+ - 💯September 6, 2025 - [iOS Penetration Testing — Part 2 &lpar;Advanced Guide&rpar;](https://p4n7h3rx.medium.com/ios-penetration-testing-part-2-advanced-guide-e769cbafcf04?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
