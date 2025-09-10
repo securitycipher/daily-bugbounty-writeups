@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯September 9, 2025 - [Console Chronicles: How Browser DevTools Unlocked a $XXXX Bounty](https://medium.com/@iski/console-chronicles-how-browser-devtools-unlocked-a-xxxx-bounty-2536fe09615d?source=rss------bug_bounty-5) 
+ - 💯September 10, 2025 - [Side-Channel Recon: How Attackers Use Timing, Headers, and Metadata for Infiltration](https://javascript.plainenglish.io/side-channel-recon-how-attackers-use-timing-headers-and-metadata-for-infiltration-58c4428dc9fa?source=rss------bug_bounty-5) 
 
- - 💯September 9, 2025 - [How a Failed Payment on a Train Platform Earned Me $400](https://infosecwriteups.com/how-a-failed-payment-on-a-train-platform-earned-me-400-23241d204550?source=rss------bug_bounty-5) 
+ - 💯September 10, 2025 - [✅ Securing OAuth &amp; SSO: A Step-by-Step Guide and Checklist](https://medium.com/meetcyber/securing-oauth-sso-a-step-by-step-guide-and-checklist-4e9390933957?source=rss------bug_bounty-5) 
 
- - 💯September 9, 2025 - [Scan Less, Find More: DNS Deduplication for Large Scopes](https://medium.com/@2s1one/scan-less-find-more-dns-deduplication-for-large-scopes-efbe1cdf57e9?source=rss------bug_bounty-5) 
+ - 💯September 10, 2025 - [Regular User Can Invite Admin — Resulting in Full Organization Compromise](https://medium.com/@0xammarsaber/regular-user-can-invite-admin-resulting-in-full-organization-compromise-050dd57f9e01?source=rss------bug_bounty-5) 
 
- - 💯September 9, 2025 - [Reflected XSS Vulnerability Bypassing Amazon CloudFront via Safari Browser](https://infosecwriteups.com/reflected-xss-vulnerability-bypassing-amazon-cloudfront-via-safari-browser-5416b5b64be2?source=rss------bug_bounty-5) 
+ - 💯September 10, 2025 - [Identity Attacks in a Passwordless World: How OAuth &amp; SSO Flaws Are Exploited](https://javascript.plainenglish.io/identity-attacks-in-a-passwordless-world-how-oauth-sso-flaws-are-exploited-97eabe15b64e?source=rss------bug_bounty-5) 
 
- - 💯September 9, 2025 - [13. My First Private Program Experience &lpar;and Mistakes I Made&rpar;](https://infosecwriteups.com/13-my-first-private-program-experience-and-mistakes-i-made-a5d8d6b325a7?source=rss------bug_bounty-5) 
+ - 💯September 10, 2025 - [IDOR: How I Could Delete Any Product Image on an E-Commerce Platform](https://infosecwriteups.com/idor-how-i-could-delete-any-product-image-on-an-e-commerce-platform-8998453a50ea?source=rss------bug_bounty-5) 
 
- - 💯September 9, 2025 - [Window Object Subdomain Recon Tip](https://medium.com/ai-apocalypse/window-object-subdomain-recon-tip-cf74d746ca59?source=rss------bug_bounty-5) 
+ - 💯September 10, 2025 - [When Bots Turn Malicious: The Rise of AI-Powered Credential Stuffing Attacks](https://systemweakness.com/when-bots-turn-malicious-the-rise-of-ai-powered-credential-stuffing-attacks-2e24e658e31f?source=rss------bug_bounty-5) 
 
- - 💯September 9, 2025 - [How I Discovered a Public API Data Exposure on India’s Government Website &lpar;And Got It Fixed&rpar;](https://medium.com/@uday637/how-i-discovered-a-public-api-data-exposure-on-indias-government-website-and-got-it-fixed-d6d4989d486f?source=rss------bug_bounty-5) 
+ - 💯September 10, 2025 - [Recon Beyond Robots.txt: Discovering Hidden Paths Using AI Crawlers](https://medium.com/meetcyber/recon-beyond-robots-txt-discovering-hidden-paths-using-ai-crawlers-d988fb84c37f?source=rss------bug_bounty-5) 
 
- - 💯September 9, 2025 - [SQL for Bug Bounty Hunters 2.0](https://infosecwriteups.com/sql-for-bug-bounty-hunters-2-0-f7e136c0e5c9?source=rss------bug_bounty-5) 
+ - 💯September 10, 2025 - [I Found An Unintended Solution For The XSS Lab In PortSwigger.](https://medium.com/@RaunakGupta1922/i-found-an-unintended-solution-for-the-xss-lab-in-portswigger-77b1f4d8512c?source=rss------bug_bounty-5) 
 
- - 💯September 9, 2025 - [Web Cache Poisoning via Fat GET Requests: Exploiting Cache Key Flaws](https://infosecwriteups.com/web-cache-poisoning-via-fat-get-requests-exploiting-cache-key-flaws-37e8d5030a2d?source=rss------bug_bounty-5) 
+ - 💯September 10, 2025 - [How I Got My First $250 Bug Bounty](https://medium.com/@cyberhead/how-i-got-my-first-250-bug-bounty-63f500fb4bf8?source=rss------bug_bounty-5) 
 
- - 💯September 9, 2025 - [How to Stop Wasting Hours on Silent Bugs: Debugging Strategies That Actually Work](https://javascript.plainenglish.io/how-to-stop-wasting-hours-on-silent-bugs-debugging-strategies-that-actually-work-9aa3ece04e9b?source=rss------bug_bounty-5) 
+ - 💯September 10, 2025 - [Interesting OTP Validation Logic  Flaw: Registering Any Victim’s Email Without Inbox Access …](https://medium.com/@divyanksitapara088/interesting-otp-validation-logic-flaw-registering-any-victims-email-without-inbox-access-90f7ec989b1e?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
