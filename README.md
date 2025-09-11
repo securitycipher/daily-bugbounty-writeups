@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯September 10, 2025 - [Side-Channel Recon: How Attackers Use Timing, Headers, and Metadata for Infiltration](https://javascript.plainenglish.io/side-channel-recon-how-attackers-use-timing-headers-and-metadata-for-infiltration-58c4428dc9fa?source=rss------bug_bounty-5) 
+ - 💯September 11, 2025 - [️‍♂️ Forgotten But Dangerous: How an Old Staging Domain Handed Me Production Secrets](https://medium.com/@iski/%EF%B8%8F-%EF%B8%8F-forgotten-but-dangerous-how-an-old-staging-domain-handed-me-production-secrets-ced7be8dcd2f?source=rss------bug_bounty-5) 
 
- - 💯September 10, 2025 - [✅ Securing OAuth &amp; SSO: A Step-by-Step Guide and Checklist](https://medium.com/meetcyber/securing-oauth-sso-a-step-by-step-guide-and-checklist-4e9390933957?source=rss------bug_bounty-5) 
+ - 💯September 11, 2025 - [Nano-Bots](https://medium.com/@nexusphere/nano-bots-ab9a270ce8f5?source=rss------bug_bounty-5) 
 
- - 💯September 10, 2025 - [Regular User Can Invite Admin — Resulting in Full Organization Compromise](https://medium.com/@0xammarsaber/regular-user-can-invite-admin-resulting-in-full-organization-compromise-050dd57f9e01?source=rss------bug_bounty-5) 
+ - 💯September 11, 2025 - [TO BECOME A SOC EXPERT](https://medium.com/@VulnHunt3r/to-become-a-soc-expert-23df20bd7cfe?source=rss------bug_bounty-5) 
 
- - 💯September 10, 2025 - [Identity Attacks in a Passwordless World: How OAuth &amp; SSO Flaws Are Exploited](https://javascript.plainenglish.io/identity-attacks-in-a-passwordless-world-how-oauth-sso-flaws-are-exploited-97eabe15b64e?source=rss------bug_bounty-5) 
+ - 💯September 11, 2025 - [Advanced Free Resources for Bug Bounty Hunters](https://infosecwriteups.com/advanced-free-resources-for-bug-bounty-hunters-b830c4a99e2f?source=rss------bug_bounty-5) 
 
- - 💯September 10, 2025 - [IDOR: How I Could Delete Any Product Image on an E-Commerce Platform](https://infosecwriteups.com/idor-how-i-could-delete-any-product-image-on-an-e-commerce-platform-8998453a50ea?source=rss------bug_bounty-5) 
+ - 💯September 11, 2025 - [Millions of Travel Records Leaked: Navan’s Website Dangerous Vulnerability”](https://medium.com/@halalalimii/millions-of-travel-records-leaked-navans-website-dangerous-vulnerability-538464bd366c?source=rss------bug_bounty-5) 
 
- - 💯September 10, 2025 - [When Bots Turn Malicious: The Rise of AI-Powered Credential Stuffing Attacks](https://systemweakness.com/when-bots-turn-malicious-the-rise-of-ai-powered-credential-stuffing-attacks-2e24e658e31f?source=rss------bug_bounty-5) 
+ - 💯September 11, 2025 - [Race Condition in Team Invitations Vulnerability](https://ch1ta.medium.com/race-condition-in-team-invitations-vulnerability-cc088303d5f8?source=rss------bug_bounty-5) 
 
- - 💯September 10, 2025 - [Recon Beyond Robots.txt: Discovering Hidden Paths Using AI Crawlers](https://medium.com/meetcyber/recon-beyond-robots-txt-discovering-hidden-paths-using-ai-crawlers-d988fb84c37f?source=rss------bug_bounty-5) 
+ - 💯September 10, 2025 - [Race Conditions Are Not Just for Bypassing Plan Limits!!](https://medium.com/@mahdisalhi0500/race-conditions-are-not-just-for-bypassing-plan-limits-1cd63aa0d6f7?source=rss------bug_bounty-5) 
 
- - 💯September 10, 2025 - [I Found An Unintended Solution For The XSS Lab In PortSwigger.](https://medium.com/@RaunakGupta1922/i-found-an-unintended-solution-for-the-xss-lab-in-portswigger-77b1f4d8512c?source=rss------bug_bounty-5) 
+ - 💯September 10, 2025 - [Cross-Site Scripting &lpar;XSS&rpar; remains one of the most common and dangerous web application…](https://medium.com/@cyberindaboski/cross-site-scripting-xss-remains-one-of-the-most-common-and-dangerous-web-application-9b325b9b2c39?source=rss------bug_bounty-5) 
 
- - 💯September 10, 2025 - [How I Got My First $250 Bug Bounty](https://medium.com/@cyberhead/how-i-got-my-first-250-bug-bounty-63f500fb4bf8?source=rss------bug_bounty-5) 
+ - 💯September 10, 2025 - [Next.js Middleware SSRF via Header Injection](https://medium.com/@cybersecplayground/next-js-middleware-ssrf-via-header-injection-6cf03b58a90d?source=rss------bug_bounty-5) 
 
- - 💯September 10, 2025 - [Interesting OTP Validation Logic  Flaw: Registering Any Victim’s Email Without Inbox Access …](https://medium.com/@divyanksitapara088/interesting-otp-validation-logic-flaw-registering-any-victims-email-without-inbox-access-90f7ec989b1e?source=rss------bug_bounty-5) 
+ - 💯September 10, 2025 - [GraphQL Explained Simply: Why It’s a Game-Changer for API Endpoints and Why &lpar;Bug Hunters Love…](https://medium.com/@zoningxtr/graphql-explained-simply-why-its-a-game-changer-for-api-endpoints-and-why-bug-hunters-love-9d0d8a529804?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
