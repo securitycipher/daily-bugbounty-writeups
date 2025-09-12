@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯September 11, 2025 - [️‍♂️ Forgotten But Dangerous: How an Old Staging Domain Handed Me Production Secrets](https://medium.com/@iski/%EF%B8%8F-%EF%B8%8F-forgotten-but-dangerous-how-an-old-staging-domain-handed-me-production-secrets-ced7be8dcd2f?source=rss------bug_bounty-5) 
+ - 💯September 12, 2025 - [ZIP Slip Surprise: How I Turned a File Upload into Remote Code Execution](https://medium.com/@iski/zip-slip-surprise-how-i-turned-a-file-upload-into-remote-code-execution-1cdad896c54c?source=rss------bug_bounty-5) 
 
- - 💯September 11, 2025 - [Nano-Bots](https://medium.com/@nexusphere/nano-bots-ab9a270ce8f5?source=rss------bug_bounty-5) 
+ - 💯September 12, 2025 - [I Bypassed a Login Page With a Single Request](https://infosecwriteups.com/i-bypassed-a-login-page-with-a-single-request-cf7b415b2423?source=rss------bug_bounty-5) 
 
- - 💯September 11, 2025 - [TO BECOME A SOC EXPERT](https://medium.com/@VulnHunt3r/to-become-a-soc-expert-23df20bd7cfe?source=rss------bug_bounty-5) 
+ - 💯September 12, 2025 - [Smuggle Your Way to Bounties: Mastering HTTP Request Smuggling in 2025](https://infosecwriteups.com/smuggle-your-way-to-bounties-mastering-http-request-smuggling-in-2025-6218e1adc444?source=rss------bug_bounty-5) 
 
- - 💯September 11, 2025 - [Advanced Free Resources for Bug Bounty Hunters](https://infosecwriteups.com/advanced-free-resources-for-bug-bounty-hunters-b830c4a99e2f?source=rss------bug_bounty-5) 
+ - 💯September 12, 2025 - [Wfuzz: Fuzzing Web para Pentesting y Bug Bounty](https://medium.com/@jpablo13/wfuzz-fuzzing-web-para-pentesting-y-bug-bounty-81723a6b0d16?source=rss------bug_bounty-5) 
 
- - 💯September 11, 2025 - [Millions of Travel Records Leaked: Navan’s Website Dangerous Vulnerability”](https://medium.com/@halalalimii/millions-of-travel-records-leaked-navans-website-dangerous-vulnerability-538464bd366c?source=rss------bug_bounty-5) 
+ - 💯September 11, 2025 - [Server-Side Request Forgery &lpar;SSRF&rpar; Explained: From Basics to Advanced Attacks](https://medium.com/@mazene432/server-side-request-forgery-ssrf-explained-from-basics-to-advanced-attacks-771aef68b415?source=rss------bug_bounty-5) 
 
- - 💯September 11, 2025 - [Race Condition in Team Invitations Vulnerability](https://ch1ta.medium.com/race-condition-in-team-invitations-vulnerability-cc088303d5f8?source=rss------bug_bounty-5) 
+ - 💯September 11, 2025 - [The Dark Side of Bug Bounties: Burnout &amp; Ethical Dilemmas](https://osintteam.blog/the-dark-side-of-bug-bounties-burnout-ethical-dilemmas-55e7d99ee9d3?source=rss------bug_bounty-5) 
 
- - 💯September 10, 2025 - [Race Conditions Are Not Just for Bypassing Plan Limits!!](https://medium.com/@mahdisalhi0500/race-conditions-are-not-just-for-bypassing-plan-limits-1cd63aa0d6f7?source=rss------bug_bounty-5) 
+ - 💯September 11, 2025 - [One Click Account Takeover: how an insecure password-reset flow + mass assignment leads to full…](https://medium.com/@0xmekky/one-click-account-takeover-how-an-insecure-password-reset-flow-mass-assignment-leads-to-full-62f1bf17821d?source=rss------bug_bounty-5) 
 
- - 💯September 10, 2025 - [Cross-Site Scripting &lpar;XSS&rpar; remains one of the most common and dangerous web application…](https://medium.com/@cyberindaboski/cross-site-scripting-xss-remains-one-of-the-most-common-and-dangerous-web-application-9b325b9b2c39?source=rss------bug_bounty-5) 
+ - 💯September 11, 2025 - [El mejor camino para entrar es entender por qué otros no lo ven](https://gorkaaa.medium.com/el-mejor-camino-para-entrar-es-entender-por-qu%C3%A9-otros-no-lo-ven-87c051c7011c?source=rss------bug_bounty-5) 
 
- - 💯September 10, 2025 - [Next.js Middleware SSRF via Header Injection](https://medium.com/@cybersecplayground/next-js-middleware-ssrf-via-header-injection-6cf03b58a90d?source=rss------bug_bounty-5) 
+ - 💯September 11, 2025 - [Case-Sensitivity Display name is worth 150$ bounty](https://medium.com/@mohaned0101/case-sensitivity-display-name-is-worth-150-bounty-6871aab8a39c?source=rss------bug_bounty-5) 
 
- - 💯September 10, 2025 - [GraphQL Explained Simply: Why It’s a Game-Changer for API Endpoints and Why &lpar;Bug Hunters Love…](https://medium.com/@zoningxtr/graphql-explained-simply-why-its-a-game-changer-for-api-endpoints-and-why-bug-hunters-love-9d0d8a529804?source=rss------bug_bounty-5) 
+ - 💯September 11, 2025 - [“Beyond the Obvious: How a Dead-End XXE Led to a Critical SQLi Goldmine”](https://infosecwriteups.com/beyond-the-obvious-how-a-dead-end-xxe-led-to-a-critical-sqli-goldmine-d368f5ddaadc?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
