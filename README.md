@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯September 15, 2025 - [⌛ Pending Invite Hijack — Takeover via Improper Identity Linking](https://medium.com/@bassemwanies2002/pending-invite-hijack-takeover-via-improper-identity-linking-905619fff772?source=rss------bug_bounty-5) 
+ - 💯September 16, 2025 - [Web shell upload via path traversal &lpar;Portswigger Lab Walkthrough&rpar;](https://medium.com/@cybernerddd/web-shell-upload-via-path-traversal-portswigger-lab-walkthrough-dc009a66c350?source=rss------bug_bounty-5) 
 
- - 💯September 15, 2025 - [Bug Bounty for Nuclei Template Contribution](https://medium.com/meetcyber/bug-bounty-for-nuclei-template-contribution-f7cdb38c2436?source=rss------bug_bounty-5) 
+ - 💯September 16, 2025 - [TO BECOME A SOC EXPERT&lpar;DAY-4&rpar;](https://medium.com/@VulnHunt3r/to-become-a-soc-expert-day-4-54d9ba95acee?source=rss------bug_bounty-5) 
 
- - 💯September 15, 2025 - [Healthcheck in the Wild — How an Unauthenticated Endpoint Leaked Internal Server Details](https://medium.com/@bassemwanies2002/healthcheck-in-the-wild-how-an-unauthenticated-endpoint-leaked-internal-server-details-0d4d4a3374ea?source=rss------bug_bounty-5) 
+ - 💯September 16, 2025 - [When a Chatbot Becomes an Impostor](https://medium.com/@devanshpatel930/when-a-chatbot-becomes-an-impostor-736eedb29373?source=rss------bug_bounty-5) 
 
- - 💯September 15, 2025 - [The Linux Starter Pack: Everything You Need to Begin](https://medium.com/@21bec131/the-linux-starter-pack-everything-you-need-to-begin-6d2a10b5c7c6?source=rss------bug_bounty-5) 
+ - 💯September 16, 2025 - [️ Ghost Subdomain: How I Became an Accidental Cloud Landlord Through Abandoned DNS Records](https://medium.com/@iski/%EF%B8%8F-ghost-subdomain-how-i-became-an-accidental-cloud-landlord-through-abandoned-dns-records-23e18afaa087?source=rss------bug_bounty-5) 
 
- - 💯September 15, 2025 - [Secrets in Plain Sight: How I Found a Hardcoded API Key in a Public JS File](https://medium.com/@bassemwanies2002/secrets-in-plain-sight-how-i-found-a-hardcoded-api-key-in-a-public-js-file-51656593bbb9?source=rss------bug_bounty-5) 
+ - 💯September 16, 2025 - [Gemini Pro’s Student Verification Loophole: A Bug, or a Feature?](https://jasim0021.medium.com/gemini-pros-student-verification-loophole-a-bug-or-a-feature-f2d425d33925?source=rss------bug_bounty-5) 
 
- - 💯September 15, 2025 - [Bug Bounty: Finding the testing focus by filtering for the amount of URL paths](https://medium.com/@smilemil/bug-bounty-finding-the-testing-focus-by-filtering-for-the-amount-of-url-paths-46eb7d65f8f0?source=rss------bug_bounty-5) 
+ - 💯September 16, 2025 - [Guía completa de Masscan: Escaneo de puertos a alta velocidad para profesionales de ciberseguridad](https://medium.com/@jpablo13/gu%C3%ADa-completa-de-masscan-escaneo-de-puertos-a-alta-velocidad-para-profesionales-de-ciberseguridad-6b0fa492433b?source=rss------bug_bounty-5) 
 
- - 💯September 15, 2025 - [15. Bug Bounty Mindset: How to Think Like a Hacker](https://infosecwriteups.com/15-bug-bounty-mindset-how-to-think-like-a-hacker-9d3e413be5ab?source=rss------bug_bounty-5) 
+ - 💯September 15, 2025 - [I Started Bug Hunting on an External Program… And Accidentally Collected 5 Bounties  &lpar;5 Bugs…](https://medium.com/@k4r33m/i-started-bug-hunting-on-an-external-program-and-accidentally-collected-5-bounties-5-bugs-cfc87f105144?source=rss------bug_bounty-5) 
 
- - 💯September 15, 2025 - [TO BECOME A SOC EXPERT&lpar;DAY-3&rpar;](https://medium.com/@VulnHunt3r/to-become-a-soc-expert-day3-9b19398926e0?source=rss------bug_bounty-5) 
+ - 💯September 15, 2025 - [First Blood in Cyshield CTF &lpar;Helwan University &rpar; —  OS Command Injection → flag &lpar;only solve &rpar;](https://medium.com/@zeyad.karim02013/first-blood-in-cyshield-ctf-helwan-university-os-command-injection-flag-only-solve-73ba55b83df1?source=rss------bug_bounty-5) 
 
- - 💯September 15, 2025 - [Reflections of Doom: How a Tiny DOM XSS Turned Into Complete Account Takeover](https://medium.com/@iski/reflections-of-doom-how-a-tiny-dom-xss-turned-into-complete-account-takeover-2318f116f257?source=rss------bug_bounty-5) 
+ - 💯September 15, 2025 - [How I Got My First Valid Bug &lpar;and Yes, It Was Just a &#39;&rpar;](https://medium.com/@harshilsecops/how-i-got-my-first-valid-bug-and-yes-it-was-just-a-7347f5d2a120?source=rss------bug_bounty-5) 
 
- - 💯September 15, 2025 - [Beginner’s Guide: API Pentesting with Postman + Burp](https://medium.com/@gowthami09027/beginners-guide-api-pentesting-with-postman-burp-fc2417b0c50a?source=rss------bug_bounty-5) 
+ - 💯September 15, 2025 - [WAF Bypass + XSS + Business Logic Flaw = Account Takeover](https://medium.com/@ghostxploiter/waf-bypass-xss-business-logic-flaw-account-takeover-04577cb53b18?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
