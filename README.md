@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯September 16, 2025 - [Web shell upload via path traversal &lpar;Portswigger Lab Walkthrough&rpar;](https://medium.com/@cybernerddd/web-shell-upload-via-path-traversal-portswigger-lab-walkthrough-dc009a66c350?source=rss------bug_bounty-5) 
+ - 💯September 17, 2025 - [️ The Broken Link Jackpot: How a 404 Can Become a Security Goldmine!](https://medium.com/@somnadh0000/%EF%B8%8F-the-broken-link-jackpot-how-a-404-can-become-a-security-goldmine-16ac517fccda?source=rss------bug_bounty-5) 
 
- - 💯September 16, 2025 - [TO BECOME A SOC EXPERT&lpar;DAY-4&rpar;](https://medium.com/@VulnHunt3r/to-become-a-soc-expert-day-4-54d9ba95acee?source=rss------bug_bounty-5) 
+ - 💯September 17, 2025 - [16. Real Bug Bounty Stories &lpar;from My Reports&rpar;](https://infosecwriteups.com/16-real-bug-bounty-stories-from-my-reports-52e1f7535ef7?source=rss------bug_bounty-5) 
 
- - 💯September 16, 2025 - [When a Chatbot Becomes an Impostor](https://medium.com/@devanshpatel930/when-a-chatbot-becomes-an-impostor-736eedb29373?source=rss------bug_bounty-5) 
+ - 💯September 17, 2025 - [Easiest Account Lockout Bypass](https://medium.com/@manav_24/easiest-account-lockout-bypass-ea2c82fb66c6?source=rss------bug_bounty-5) 
 
- - 💯September 16, 2025 - [️ Ghost Subdomain: How I Became an Accidental Cloud Landlord Through Abandoned DNS Records](https://medium.com/@iski/%EF%B8%8F-ghost-subdomain-how-i-became-an-accidental-cloud-landlord-through-abandoned-dns-records-23e18afaa087?source=rss------bug_bounty-5) 
+ - 💯September 17, 2025 - [Complete Guide to Masscan: High-Speed Port Scanning for Cybersecurity Professionals](https://medium.com/meetcyber/complete-guide-to-masscan-high-speed-port-scanning-for-cybersecurity-professionals-9bb4f61c6173?source=rss------bug_bounty-5) 
 
- - 💯September 16, 2025 - [Gemini Pro’s Student Verification Loophole: A Bug, or a Feature?](https://jasim0021.medium.com/gemini-pros-student-verification-loophole-a-bug-or-a-feature-f2d425d33925?source=rss------bug_bounty-5) 
+ - 💯September 16, 2025 - [How Bug Hunters Can Find Off-Platform Apps — Privately, Ethically, and Legally — and Get to the…](https://medium.com/@dexblood.reza/how-bug-hunters-can-find-off-platform-apps-privately-ethically-and-legally-and-get-to-the-6e0feabf25e9?source=rss------bug_bounty-5) 
 
- - 💯September 16, 2025 - [Guía completa de Masscan: Escaneo de puertos a alta velocidad para profesionales de ciberseguridad](https://medium.com/@jpablo13/gu%C3%ADa-completa-de-masscan-escaneo-de-puertos-a-alta-velocidad-para-profesionales-de-ciberseguridad-6b0fa492433b?source=rss------bug_bounty-5) 
+ - 💯September 16, 2025 - [When “Delete for Everyone” Doesn’t Delete: My Experience Reporting a Vulnerability in WhatsApp Web](https://medium.com/@bruzistico_/when-delete-for-everyone-doesnt-delete-my-experience-reporting-a-vulnerability-in-whatsapp-web-7e9d86e74134?source=rss------bug_bounty-5) 
 
- - 💯September 15, 2025 - [I Started Bug Hunting on an External Program… And Accidentally Collected 5 Bounties  &lpar;5 Bugs…](https://medium.com/@k4r33m/i-started-bug-hunting-on-an-external-program-and-accidentally-collected-5-bounties-5-bugs-cfc87f105144?source=rss------bug_bounty-5) 
+ - 💯September 16, 2025 - [How AI Chat Bot Help Me To Hack The Website](https://medium.com/@yr9364536/how-ai-chat-bot-help-me-to-hack-the-website-632e6afd1b35?source=rss------bug_bounty-5) 
 
- - 💯September 15, 2025 - [First Blood in Cyshield CTF &lpar;Helwan University &rpar; —  OS Command Injection → flag &lpar;only solve &rpar;](https://medium.com/@zeyad.karim02013/first-blood-in-cyshield-ctf-helwan-university-os-command-injection-flag-only-solve-73ba55b83df1?source=rss------bug_bounty-5) 
+ - 💯September 16, 2025 - [Escalating LFI/SSRF via Linux Local Processes Enumeration](https://medium.com/@RandomFlawsFinder/escalating-lfi-ssrf-via-linux-local-processes-enumeration-e522d0ffd6df?source=rss------bug_bounty-5) 
 
- - 💯September 15, 2025 - [How I Got My First Valid Bug &lpar;and Yes, It Was Just a &#39;&rpar;](https://medium.com/@harshilsecops/how-i-got-my-first-valid-bug-and-yes-it-was-just-a-7347f5d2a120?source=rss------bug_bounty-5) 
+ - 💯September 16, 2025 - [How a Single Server Mistake Broke Our CORS Policy](https://medium.com/@yr9364536/how-a-single-server-mistake-broke-our-cors-policy-27e24b7c4eb7?source=rss------bug_bounty-5) 
 
- - 💯September 15, 2025 - [WAF Bypass + XSS + Business Logic Flaw = Account Takeover](https://medium.com/@ghostxploiter/waf-bypass-xss-business-logic-flaw-account-takeover-04577cb53b18?source=rss------bug_bounty-5) 
+ - 💯September 16, 2025 - [CTF → Pentest: Translating CTF Patterns into Real-World Exploits](https://infosecwriteups.com/ctf-pentest-translating-ctf-patterns-into-real-world-exploits-c74ba79dcf4e?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
