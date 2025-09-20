@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯September 19, 2025 - [CVE-2025–57644 — Remote Code Execution &amp; SSRF in Accela](https://medium.com/@anvarkh/cve-2025-57644-remote-code-execution-ssrf-in-accela-eedc6bc4adfb?source=rss------bug_bounty-5) 
+ - 💯September 20, 2025 - [Master WPScan in Bug Bounty: Essential Guide to Vulnerability Scanning](https://medium.com/meetcyber/master-wpscan-in-bug-bounty-essential-guide-to-vulnerability-scanning-6c68a4a19b3a?source=rss------bug_bounty-5) 
 
- - 💯September 19, 2025 - [The Secret Life of Subdomains : From Takeover to $$ Bounties](https://infosecwriteups.com/the-secret-life-of-subdomains-from-takeover-to-bounties-24498e87f6c4?source=rss------bug_bounty-5) 
+ - 💯September 19, 2025 - [Weaponizing Burp Intruder: Credential Stuffing done Right](https://medium.com/@dr_1n-ctrl/weaponizing-burp-intruder-credential-stuffing-done-right-f91fa3121bb9?source=rss------bug_bounty-5) 
 
- - 💯September 19, 2025 - [From Recon to Root ⚡: A Beginner’s Journey Into CTF Hacking](https://infosecwriteups.com/from-recon-to-root-a-beginners-journey-into-ctf-hacking-575374698b02?source=rss------bug_bounty-5) 
+ - 💯September 19, 2025 - [How I Turned Forgotten Internet Archives into a Critical Account Takeover Vulnerability](https://medium.com/@ahmednasser211022/how-i-turned-forgotten-internet-archives-into-a-critical-account-takeover-vulnerability-9cfc846f0685?source=rss------bug_bounty-5) 
 
- - 💯September 19, 2025 - [TO BECOME A SOC EXPERT&lpar;DAY-6&rpar;](https://medium.com/@VulnHunt3r/to-become-a-soc-expert-day-6-e8f880df0e48?source=rss------bug_bounty-5) 
+ - 💯September 19, 2025 - [HOW TO START BUG BOUNTY? ‍ A ROADMAP FOR ETHICAL HACKERS](https://medium.com/@loeyberryp/how-to-start-bug-bounty-a-roadmap-for-ethical-hackers-f26363317205?source=rss------bug_bounty-5) 
 
- - 💯September 19, 2025 - [From Query Param to Cookie Poisoning: How WAFs Fail at Security](https://medium.com/@blogwithsarthak/from-query-param-to-cookie-poisoning-how-wafs-fail-at-security-69f784822635?source=rss------bug_bounty-5) 
+ - 💯September 19, 2025 - [Advanced Bug Hunting: Tips, Tricks and Methodology](https://osintteam.blog/advanced-bug-hunting-tips-tricks-and-methodology-9962b05ee740?source=rss------bug_bounty-5) 
 
- - 💯September 19, 2025 - [The Hidden Password Cracking Tool That Every Cybersecurity Expert Uses &lpar;But Never Talks About&rpar;…](https://medium.com/@qaafqasim/the-hidden-password-cracking-tool-that-every-cybersecurity-expert-uses-but-never-talks-about-896af2d8fa2b?source=rss------bug_bounty-5) 
+ - 💯September 19, 2025 - [Day 7: How a 13-Year-Old Kid Found a Bug in Google](https://medium.com/@viratavi1223/how-a-13-year-old-kid-found-a-bug-in-google-086fcd84227a?source=rss------bug_bounty-5) 
 
- - 💯September 19, 2025 - [Domina WPScan en Bug Bounty: Guía esencial para el escaneo de vulnerabilidades](https://medium.com/@jpablo13/domina-wpscan-en-bug-bounty-gu%C3%ADa-esencial-para-el-escaneo-de-vulnerabilidades-2d78e5003351?source=rss------bug_bounty-5) 
+ - 💯September 19, 2025 - [Stored XSS in Email Notifications on Insightly CRM](https://medium.com/@regan_temudo/stored-xss-in-email-notifications-on-insightly-crm-8088ab4eaa2c?source=rss------bug_bounty-5) 
 
- - 💯September 18, 2025 - [10 Istilah IT yang Sering Kamu Dengar &lpar;dan Artinya&rpar;](https://medium.com/@jadihacker/10-istilah-it-yang-sering-kamu-dengar-dan-artinya-4a8cd5d1b22d?source=rss------bug_bounty-5) 
+ - 💯September 19, 2025 - [5 Easy Cybersecurity Tasks That Can Pay Your Rent](https://medium.com/meetcyber/5-easy-cybersecurity-tasks-that-can-pay-your-rent-159432b2d71a?source=rss------bug_bounty-5) 
 
- - 💯September 18, 2025 - [Advanced OAuth Secrets Leads To Account Takeover&lpar;ATO&rpar;](https://medium.com/@0xMado-1Tap/advanced-oauth-secrets-leads-to-account-takeover-ato-42ff288a7763?source=rss------bug_bounty-5) 
+ - 💯September 19, 2025 - [Bug Bounty Bootcamp — Chapter 4](https://clawshea.medium.com/bug-bounty-bootcamp-chapter-4-653b232a34d6?source=rss------bug_bounty-5) 
+
+ - 💯September 19, 2025 - [7 AI + LLM Project Ideas Every Security Professional Should Try in 2025](https://medium.com/@paritoshblogs/7-ai-llm-project-ideas-every-security-professional-should-try-in-2025-abc154cebeb4?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
