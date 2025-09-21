@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯September 20, 2025 - [Master WPScan in Bug Bounty: Essential Guide to Vulnerability Scanning](https://medium.com/meetcyber/master-wpscan-in-bug-bounty-essential-guide-to-vulnerability-scanning-6c68a4a19b3a?source=rss------bug_bounty-5) 
+ - 💯September 21, 2025 - [Advent of Cyber ’24 Side Quest | TryHackMe](https://medium.com/@dhruva0/advent-of-cyber-24-side-quest-tryhackme-74960d917fd0?source=rss------bug_bounty-5) 
 
- - 💯September 19, 2025 - [Weaponizing Burp Intruder: Credential Stuffing done Right](https://medium.com/@dr_1n-ctrl/weaponizing-burp-intruder-credential-stuffing-done-right-f91fa3121bb9?source=rss------bug_bounty-5) 
+ - 💯September 21, 2025 - [Is it easy to discover a critical vulnerability [P1] ?](https://medium.com/@pandurangisuprit/is-it-easy-to-discover-a-critical-vulnerability-p1-e68c76974124?source=rss------bug_bounty-5) 
 
- - 💯September 19, 2025 - [How I Turned Forgotten Internet Archives into a Critical Account Takeover Vulnerability](https://medium.com/@ahmednasser211022/how-i-turned-forgotten-internet-archives-into-a-critical-account-takeover-vulnerability-9cfc846f0685?source=rss------bug_bounty-5) 
+ - 💯September 21, 2025 - [Unauthorized Unsubscription and Message of Employee](https://infosecwriteups.com/unauthorized-unsubscription-employee-bf36d81e3e8d?source=rss------bug_bounty-5) 
 
- - 💯September 19, 2025 - [HOW TO START BUG BOUNTY? ‍ A ROADMAP FOR ETHICAL HACKERS](https://medium.com/@loeyberryp/how-to-start-bug-bounty-a-roadmap-for-ethical-hackers-f26363317205?source=rss------bug_bounty-5) 
+ - 💯September 21, 2025 - [My $$$ Blind Xss Tips.](https://systemweakness.com/my-blind-xss-tips-481aa48d9651?source=rss------bug_bounty-5) 
 
- - 💯September 19, 2025 - [Advanced Bug Hunting: Tips, Tricks and Methodology](https://osintteam.blog/advanced-bug-hunting-tips-tricks-and-methodology-9962b05ee740?source=rss------bug_bounty-5) 
+ - 💯September 20, 2025 - [I Found A Security Flaw Just By Reading JavaScript Files](https://medium.com/@ibtissamhammadi1/i-found-a-security-flaw-just-by-reading-javascript-files-71c0be5b28d5?source=rss------bug_bounty-5) 
 
- - 💯September 19, 2025 - [Day 7: How a 13-Year-Old Kid Found a Bug in Google](https://medium.com/@viratavi1223/how-a-13-year-old-kid-found-a-bug-in-google-086fcd84227a?source=rss------bug_bounty-5) 
+ - 💯September 20, 2025 - [Logical 2FA / Email Verification Bypass via Pre-2FA JWT Acceptance](https://medium.com/@mhmodgm54/logical-2fa-email-verification-bypass-via-pre-2fa-jwt-acceptanceintroduction-49f6b129fd32?source=rss------bug_bounty-5) 
 
- - 💯September 19, 2025 - [Stored XSS in Email Notifications on Insightly CRM](https://medium.com/@regan_temudo/stored-xss-in-email-notifications-on-insightly-crm-8088ab4eaa2c?source=rss------bug_bounty-5) 
+ - 💯September 20, 2025 - [4 Ways AI is Quietly Revolutionizing Cybersecurity &lpar;And It’s Not What You Think&rpar;](https://medium.com/@ujjwal-sinha/4-ways-ai-is-quietly-revolutionizing-cybersecurity-and-its-not-what-you-think-bc76e0401e19?source=rss------bug_bounty-5) 
 
- - 💯September 19, 2025 - [5 Easy Cybersecurity Tasks That Can Pay Your Rent](https://medium.com/meetcyber/5-easy-cybersecurity-tasks-that-can-pay-your-rent-159432b2d71a?source=rss------bug_bounty-5) 
+ - 💯September 20, 2025 - [Bug Bounty Programs and Responsible Disclosure](https://medium.com/@botumeren1/bug-bounty-programs-and-responsible-disclosure-0bc18bf6c64f?source=rss------bug_bounty-5) 
 
- - 💯September 19, 2025 - [Bug Bounty Bootcamp — Chapter 4](https://clawshea.medium.com/bug-bounty-bootcamp-chapter-4-653b232a34d6?source=rss------bug_bounty-5) 
+ - 💯September 20, 2025 - [CVE-2025–29927: Explotando un middleware vulnerable paso a paso](https://gorkaaa.medium.com/cve-2025-29927-explotando-un-middleware-vulnerable-paso-a-paso-e65a2a58f735?source=rss------bug_bounty-5) 
 
- - 💯September 19, 2025 - [7 AI + LLM Project Ideas Every Security Professional Should Try in 2025](https://medium.com/@paritoshblogs/7-ai-llm-project-ideas-every-security-professional-should-try-in-2025-abc154cebeb4?source=rss------bug_bounty-5) 
+ - 💯September 20, 2025 - [How I Passed the eWPT in 1.5 Months: Study Strategy + Exam Tips](https://medium.com/@thirupathi5605/how-i-passed-the-ewpt-in-1-5-months-study-strategy-exam-tips-bc3ef417f28d?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
