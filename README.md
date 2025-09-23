@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯September 22, 2025 - [SQL Injection UNION Attack — Determining the Number of Columns Returned By Query](https://osintteam.blog/sql-injection-union-attack-determining-the-number-of-columns-returned-by-query-d12ad1117cb9?source=rss------bug_bounty-5) 
+ - 💯September 23, 2025 - [Mask Off: How I Exploited Broken OAuth to Login as Anyone](https://medium.com/@iski/mask-off-how-i-exploited-broken-oauth-to-login-as-anyone-f1ce3c88d9b2?source=rss------bug_bounty-5) 
 
- - 💯September 22, 2025 - [The Weird Signup Bug That Let Me Delete Anyone’s Account](https://medium.com/@cyberhead/the-weird-signup-bug-that-let-me-delete-anyones-account-ce3945ed91af?source=rss------bug_bounty-5) 
+ - 💯September 23, 2025 - [HAIDAKHAN COMPLETE DATABASE HACKED !!](https://medium.com/@krivadna/haidakhan-complete-database-hacked-db5d2731b236?source=rss------bug_bounty-5) 
 
- - 💯September 22, 2025 - [Cross-Site Scripting &lpar;XSS&rpar;: Still Alive in 2025](https://medium.com/@hinan.mohamed/cross-site-scripting-xss-still-alive-in-2025-37d68eb91da3?source=rss------bug_bounty-5) 
+ - 💯September 23, 2025 - [SQL Injection UNION Attack: Finding a Column Containing Text](https://osintteam.blog/sql-injection-union-attack-finding-a-column-containing-text-662cea789110?source=rss------bug_bounty-5) 
 
- - 💯September 22, 2025 - [Analytics Gone Wild: How I Turned a Tracking Pixel Into a User Data Firehose](https://medium.com/@iski/analytics-gone-wild-how-i-turned-a-tracking-pixel-into-a-user-data-firehose-f178d83a1f75?source=rss------bug_bounty-5) 
+ - 💯September 23, 2025 - [XSStrike: Guía completa para la detección y explotación de XSS](https://medium.com/@jpablo13/xsstrike-gu%C3%ADa-completa-para-la-detecci%C3%B3n-y-explotaci%C3%B3n-de-xss-ff1447a69eac?source=rss------bug_bounty-5) 
 
- - 💯September 22, 2025 - [️ How to Hunt Living-off-the-Land Attacks Like a Pro &lpar;Before They Hunt You&rpar;](https://medium.com/@paritoshblogs/%EF%B8%8F-how-to-hunt-living-off-the-land-attacks-like-a-pro-before-they-hunt-you-545ed594f579?source=rss------bug_bounty-5) 
+ - 💯September 22, 2025 - [Bug Bounty Hunting for GenAI](https://medium.com/@cocopelly255/bug-bounty-hunting-for-genai-78b66f0b3323?source=rss------bug_bounty-5) 
 
- - 💯September 22, 2025 - [20+ cURL Hacks That Will Make You a Bug Bounty Pro](https://medium.com/@qaafqasim/20-curl-hacks-that-will-make-you-a-bug-bounty-pro-186ecc51bff5?source=rss------bug_bounty-5) 
+ - 💯September 22, 2025 - [Nmap Essentials](https://medium.com/@learningit15/nmap-essentials-43e8f0b6c0f1?source=rss------bug_bounty-5) 
 
- - 💯September 21, 2025 - [Weird Endpoint Behavior — What it tells you](https://medium.com/@cybersecplayground/weird-endpoint-behavior-what-it-tells-you-b1be8200480e?source=rss------bug_bounty-5) 
+ - 💯September 22, 2025 - [The $0 Bug That Turned Into a Career-Changing Opportunity](https://osintteam.blog/the-0-bug-that-turned-into-a-career-changing-opportunity-be976f0b7d3f?source=rss------bug_bounty-5) 
 
- - 💯September 21, 2025 - [My First Bug: Email Enumeration via Password Reset](https://medium.com/@zouhairake/my-first-bug-email-enumeration-via-password-reset-9a6341a9fff3?source=rss------bug_bounty-5) 
+ - 💯September 22, 2025 - [LFI + RCE en Node.js, Python y PHP — Nuevo vídeo este martes 23](https://gorkaaa.medium.com/lfi-rce-en-node-js-python-y-php-nuevo-v%C3%ADdeo-este-martes-23-370c1a0e84d9?source=rss------bug_bounty-5) 
 
- - 💯September 21, 2025 - [My Bug In Deleted Files Made Me $47,500](https://medium.com/@ibtissamhammadi1/my-bug-in-deleted-files-made-me-47-500-e1f144981757?source=rss------bug_bounty-5) 
-
- - 💯September 21, 2025 - [Nueva comunidad en Discord para Bug Bounty y Pentesting](https://gorkaaa.medium.com/nueva-comunidad-en-discord-para-bug-bounty-y-pentesting-49f8f0a14a56?source=rss------bug_bounty-5) 
+ - 💯September 22, 2025 - [Stronger Infrastructure, Stronger Hackers: Build Resilience to Build Skill](https://medium.com/@iserjaoui/stronger-infrastructure-stronger-hackers-build-resilience-to-build-skill-b1584db39c44?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
