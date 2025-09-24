@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯September 23, 2025 - [Mask Off: How I Exploited Broken OAuth to Login as Anyone](https://medium.com/@iski/mask-off-how-i-exploited-broken-oauth-to-login-as-anyone-f1ce3c88d9b2?source=rss------bug_bounty-5) 
+ - 💯September 24, 2025 - [Chaining Leaks to Unauthenticated Database Access: A Collaborative Bug Hunt](https://cybersecuritywriteups.com/chaining-leaks-to-unauthenticated-database-access-a-collaborative-bug-hunt-725f9849fd04?source=rss------bug_bounty-5) 
 
- - 💯September 23, 2025 - [HAIDAKHAN COMPLETE DATABASE HACKED !!](https://medium.com/@krivadna/haidakhan-complete-database-hacked-db5d2731b236?source=rss------bug_bounty-5) 
+ - 💯September 24, 2025 - [API Pentesting Part-2: Replay Attack- No Expiry on Authentication Headers &lpar;HMAC SHA-256&rpar;](https://medium.com/@gowthami09027/api-pentesting-part-2-replay-attack-no-expiry-on-authentication-headers-hmac-sha-256-dd619b52cdc7?source=rss------bug_bounty-5) 
 
- - 💯September 23, 2025 - [SQL Injection UNION Attack: Finding a Column Containing Text](https://osintteam.blog/sql-injection-union-attack-finding-a-column-containing-text-662cea789110?source=rss------bug_bounty-5) 
+ - 💯September 24, 2025 - [Cache Clash: How CDN Misconfigurations Let Me Hijack Thousands of User Sessions](https://medium.com/@iski/cache-clash-how-cdn-misconfigurations-let-me-hijack-thousands-of-user-sessions-52e09bc0b0a2?source=rss------bug_bounty-5) 
 
- - 💯September 23, 2025 - [XSStrike: Guía completa para la detección y explotación de XSS](https://medium.com/@jpablo13/xsstrike-gu%C3%ADa-completa-para-la-detecci%C3%B3n-y-explotaci%C3%B3n-de-xss-ff1447a69eac?source=rss------bug_bounty-5) 
+ - 💯September 24, 2025 - [18. Secrets of Rate Limiting and Bruteforce](https://infosecwriteups.com/18-secrets-of-rate-limiting-and-bruteforce-6dbb17e1a951?source=rss------bug_bounty-5) 
 
- - 💯September 22, 2025 - [Bug Bounty Hunting for GenAI](https://medium.com/@cocopelly255/bug-bounty-hunting-for-genai-78b66f0b3323?source=rss------bug_bounty-5) 
+ - 💯September 24, 2025 - [SQL Injection UNION Attack: Retrieving Data from Other Tables](https://infosecwriteups.com/sql-injection-union-attack-retrieving-data-from-other-tables-aa79bd7862b6?source=rss------bug_bounty-5) 
 
- - 💯September 22, 2025 - [Nmap Essentials](https://medium.com/@learningit15/nmap-essentials-43e8f0b6c0f1?source=rss------bug_bounty-5) 
+ - 💯September 24, 2025 - [Mastering XSStrike: Detecting and Exploiting XSS Vulnerabilities](https://medium.com/meetcyber/mastering-xsstrike-detecting-and-exploiting-xss-vulnerabilities-74dd1ec3e5a9?source=rss------bug_bounty-5) 
 
- - 💯September 22, 2025 - [The $0 Bug That Turned Into a Career-Changing Opportunity](https://osintteam.blog/the-0-bug-that-turned-into-a-career-changing-opportunity-be976f0b7d3f?source=rss------bug_bounty-5) 
+ - 💯September 23, 2025 - [Auth Bypasses: Logic Flaws, Race Conditions, and Deserialization. What you need to know](https://medium.com/@Tenebris_Venator/auth-bypasses-logic-flaws-race-conditions-and-deserialization-what-you-need-to-know-d1efddc16eb5?source=rss------bug_bounty-5) 
 
- - 💯September 22, 2025 - [LFI + RCE en Node.js, Python y PHP — Nuevo vídeo este martes 23](https://gorkaaa.medium.com/lfi-rce-en-node-js-python-y-php-nuevo-v%C3%ADdeo-este-martes-23-370c1a0e84d9?source=rss------bug_bounty-5) 
+ - 💯September 23, 2025 - [CSRF Vulnerability Leads to Course DoS](https://exploit5lovers.medium.com/csrf-vulnerability-leads-to-course-dos-70809362a7ec?source=rss------bug_bounty-5) 
 
- - 💯September 22, 2025 - [Stronger Infrastructure, Stronger Hackers: Build Resilience to Build Skill](https://medium.com/@iserjaoui/stronger-infrastructure-stronger-hackers-build-resilience-to-build-skill-b1584db39c44?source=rss------bug_bounty-5) 
+ - 💯September 23, 2025 - [LFI + RCE en Node.js, Python y PHP — Laboratorio real paso a paso](https://gorkaaa.medium.com/lfi-rce-en-node-js-python-y-php-laboratorio-real-paso-a-paso-4a3b4f1089c3?source=rss------bug_bounty-5) 
+
+ - 💯September 23, 2025 - [Portswigger OAuth Authentication Labs — Expert](https://medium.com/@sl0th0x87/portswigger-oauth-authentication-labs-expert-e766a7402222?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
