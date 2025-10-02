@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 1, 2025 - [The Dopamine Trap: Why Most Hackers Quit Before They Find the Big Bugs](https://su6osec.medium.com/the-dopamine-trap-why-most-hackers-quit-before-they-find-the-big-bugs-873ca6185799?source=rss------bug_bounty-5) 
+ - 💯October 2, 2025 - [Endless Cashback Glitch:How I Unlocked Unlimited Free Orders with One Simple Trick](https://strangerwhite.medium.com/endless-cashback-glitch-how-i-unlocked-unlimited-free-orders-with-one-simple-trick-d150c5db0a92?source=rss------bug_bounty-5) 
 
- - 💯October 1, 2025 - [How to Learn Bug Bounty In Easy Way: A Simple Guide for Beginners](https://medium.com/@kakashi.kx/how-to-learn-bug-bounty-in-easy-way-a-simple-guide-for-beginners-a15d3e87a4fe?source=rss------bug_bounty-5) 
+ - 💯October 2, 2025 - [️ Debug Disaster: How Leftover Dev Tools Turned Me Into a Production Data Superhero](https://medium.com/@iski/%EF%B8%8F-debug-disaster-how-leftover-dev-tools-turned-me-into-a-production-data-superhero-716b5f4155f4?source=rss------bug_bounty-5) 
 
- - 💯October 1, 2025 - [CORS Misadventures: How Misconfigured Origins Turned Me Into an Accidental Admin](https://infosecwriteups.com/cors-misadventures-how-misconfigured-origins-turned-me-into-an-accidental-admin-2107aa1768d6?source=rss------bug_bounty-5) 
+ - 💯October 2, 2025 - [The Validation Trap: Why Hackers Chase Hall of Fame Instead of Real Bugs](https://su6osec.medium.com/the-validation-trap-why-hackers-chase-hall-of-fame-instead-of-real-bugs-010fb3a4bd76?source=rss------bug_bounty-5) 
 
- - 💯October 1, 2025 - [Feroxbuster: An Ultra-Fast Web Content Fuzzer](https://medium.com/@jpablo13/feroxbuster-an-ultra-fast-web-content-fuzzer-7a50d98dcf60?source=rss------bug_bounty-5) 
+ - 💯October 2, 2025 - [Cybersecurity Awareness Month: Building a Culture of Cyber Resilience](https://medium.com/@paritoshblogs/cybersecurity-awareness-month-building-a-culture-of-cyber-resilience-8eabd9d4f4fe?source=rss------bug_bounty-5) 
 
- - 💯September 30, 2025 - [Full Red Teaming Senaryo “Web’den AD’ye”](https://medium.com/@NadirSensoy/full-red-teaming-senaryo-webten-ad-ye-7ba580d7e978?source=rss------bug_bounty-5) 
+ - 💯October 2, 2025 - [Errors to API Exposure](https://infosecwriteups.com/errors-to-api-exposure-cbcf2b73946e?source=rss------bug_bounty-5) 
 
- - 💯September 30, 2025 - [HTMLI → XSS → SSTI → RCE — Laboratorio práctico paso a paso](https://gorkaaa.medium.com/htmli-xss-ssti-rce-laboratorio-pr%C3%A1ctico-paso-a-paso-edd26e47ffdd?source=rss------bug_bounty-5) 
+ - 💯October 1, 2025 - [GraphQL API Testing](https://medium.com/@0cifer_l/graphql-api-testing-cad073477417?source=rss------bug_bounty-5) 
 
- - 💯September 30, 2025 - [Turning Blind Error Based SQL Injection into Exploitable Boolean One Part 2: MySQL](https://ozguralp.medium.com/turning-blind-error-based-sql-injection-into-exploitable-boolean-one-part-2-mysql-ecf1dbe5352f?source=rss------bug_bounty-5) 
+ - 💯October 1, 2025 - [From Google Dork to Rickroll: PDF.js misconfiguration for quick Bug Bounties](https://medium.com/@BobaF3tt/from-google-dork-to-rickroll-pdf-js-misconfiguration-for-quick-bug-bounties-f6473a2bdda4?source=rss------bug_bounty-5) 
 
- - 💯September 30, 2025 - [Introduction to Bug Bounty: Techniques &amp; Tools for Beginners](https://medium.com/@theceosmind/introduction-to-bug-bounty-techniques-tools-for-beginners-579e396cbb58?source=rss------bug_bounty-5) 
+ - 💯October 1, 2025 - [Reflected XSS — Part 2](https://medium.com/@file_d0t_bug/reflected-xss-part-2-0a0b2cb0a314?source=rss------bug_bounty-5) 
 
- - 💯September 30, 2025 - [How I accessed the/etc/folder from .git Folder misconfiguration](https://medium.com/@yossefmohamedsalah2001/how-i-accessed-the-etc-folder-from-git-folder-misconfiguration-06fd44fc22d8?source=rss------bug_bounty-5) 
+ - 💯October 1, 2025 - [Blind SQL Injection Walkthrough — DVWA &lpar;Low, Medium, High&rpar;](https://medium.com/@vaishnavkp1998/blind-sql-injection-walkthrough-dvwa-low-medium-high-4044a1c85df1?source=rss------bug_bounty-5) 
 
- - 💯September 30, 2025 - [I Used This Recon Protocol And Identified 18 Bugs In 48 Hours](https://medium.com/@ibtissamhammadi1/i-used-this-recon-protocol-and-identified-18-bugs-in-48-hours-7ee5bd1979dc?source=rss------bug_bounty-5) 
+ - 💯October 1, 2025 - [My Journey: From a Rural Village to Cybersecurity &amp; Beyond](https://inayathussain.medium.com/my-journey-from-a-rural-village-to-cybersecurity-beyond-790057b3ab07?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
