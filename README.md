@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 2, 2025 - [Endless Cashback Glitch:How I Unlocked Unlimited Free Orders with One Simple Trick](https://strangerwhite.medium.com/endless-cashback-glitch-how-i-unlocked-unlimited-free-orders-with-one-simple-trick-d150c5db0a92?source=rss------bug_bounty-5) 
+ - 💯October 3, 2025 - [Rate Limits? Never Heard of Them: How I Brute-Forced My Way Through Every Account](https://medium.com/@iski/rate-limits-never-heard-of-them-how-i-brute-forced-my-way-through-every-account-b6865f86dd42?source=rss------bug_bounty-5) 
 
- - 💯October 2, 2025 - [️ Debug Disaster: How Leftover Dev Tools Turned Me Into a Production Data Superhero](https://medium.com/@iski/%EF%B8%8F-debug-disaster-how-leftover-dev-tools-turned-me-into-a-production-data-superhero-716b5f4155f4?source=rss------bug_bounty-5) 
+ - 💯October 3, 2025 - [Broken Access Control — The Ultimate Practical Guide](https://kd-200.medium.com/broken-access-control-the-ultimate-practical-guide-6d58add0c991?source=rss------bug_bounty-5) 
 
- - 💯October 2, 2025 - [The Validation Trap: Why Hackers Chase Hall of Fame Instead of Real Bugs](https://su6osec.medium.com/the-validation-trap-why-hackers-chase-hall-of-fame-instead-of-real-bugs-010fb3a4bd76?source=rss------bug_bounty-5) 
+ - 💯October 3, 2025 - [A New Home for Free Learning: Introducing Live.dinesh049.shop](https://teamdh49.medium.com/a-new-home-for-free-learning-introducing-live-dinesh049-shop-78a3c4c43837?source=rss------bug_bounty-5) 
 
- - 💯October 2, 2025 - [Cybersecurity Awareness Month: Building a Culture of Cyber Resilience](https://medium.com/@paritoshblogs/cybersecurity-awareness-month-building-a-culture-of-cyber-resilience-8eabd9d4f4fe?source=rss------bug_bounty-5) 
+ - 💯October 3, 2025 - [Starting Over at 22: My 100 Days Back Into Cybersecurity](https://medium.com/@glavnikandrej1/starting-over-at-22-my-100-days-back-into-cybersecurity-236272f09da4?source=rss------bug_bounty-5) 
 
- - 💯October 2, 2025 - [Errors to API Exposure](https://infosecwriteups.com/errors-to-api-exposure-cbcf2b73946e?source=rss------bug_bounty-5) 
+ - 💯October 3, 2025 - [Findomain: Herramienta Fundamental para la Enumeración Pasiva de Subdominios](https://medium.com/@jpablo13/findomain-herramienta-fundamental-para-la-enumeraci%C3%B3n-pasiva-de-subdominios-fdb15a37f667?source=rss------bug_bounty-5) 
 
- - 💯October 1, 2025 - [GraphQL API Testing](https://medium.com/@0cifer_l/graphql-api-testing-cad073477417?source=rss------bug_bounty-5) 
+ - 💯October 2, 2025 - [When the Artist Becomes the Exploit: Jailbreaking LLM Guardrails Through Roleplay and World…](https://medium.com/@chris.huffstetler/when-the-artist-becomes-the-exploit-jailbreaking-llm-guardrails-through-roleplay-and-world-d54f53a79756?source=rss------bug_bounty-5) 
 
- - 💯October 1, 2025 - [From Google Dork to Rickroll: PDF.js misconfiguration for quick Bug Bounties](https://medium.com/@BobaF3tt/from-google-dork-to-rickroll-pdf-js-misconfiguration-for-quick-bug-bounties-f6473a2bdda4?source=rss------bug_bounty-5) 
+ - 💯October 2, 2025 - [⚡️ Burp Suite como un pro: workflow real y sin perder el tiempo](https://gorkaaa.medium.com/%EF%B8%8F-burp-suite-como-un-pro-workflow-real-y-sin-perder-el-tiempo-952bfb65446a?source=rss------bug_bounty-5) 
 
- - 💯October 1, 2025 - [Reflected XSS — Part 2](https://medium.com/@file_d0t_bug/reflected-xss-part-2-0a0b2cb0a314?source=rss------bug_bounty-5) 
+ - 💯October 2, 2025 - [My first 5-Minute Bug Bounty](https://systemweakness.com/my-first-5-minute-bug-bounty-1465e2cb517c?source=rss------bug_bounty-5) 
 
- - 💯October 1, 2025 - [Blind SQL Injection Walkthrough — DVWA &lpar;Low, Medium, High&rpar;](https://medium.com/@vaishnavkp1998/blind-sql-injection-walkthrough-dvwa-low-medium-high-4044a1c85df1?source=rss------bug_bounty-5) 
+ - 💯October 2, 2025 - [Introduction to Symbolic Execution: How It Works, Tools &amp; a Practical Angr Walkthrough](https://ari5ti.medium.com/introduction-to-symbolic-execution-how-it-works-tools-a-practical-angr-walkthrough-0acd3e30ab62?source=rss------bug_bounty-5) 
 
- - 💯October 1, 2025 - [My Journey: From a Rural Village to Cybersecurity &amp; Beyond](https://inayathussain.medium.com/my-journey-from-a-rural-village-to-cybersecurity-beyond-790057b3ab07?source=rss------bug_bounty-5) 
+ - 💯October 2, 2025 - [Master Web Fuzzing: A Cheat‑Sheet to Finding Hidden Paths](https://osintteam.blog/master-web-fuzzing-a-cheat-sheet-to-finding-hidden-paths-6c2bcf521c44?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
