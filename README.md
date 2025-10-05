@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 4, 2025 - [AI vs AI: How ChatGPT and I Became Bug Hunting Buddies to Find What Scanners Missed](https://medium.com/@iski/ai-vs-ai-how-chatgpt-and-i-became-bug-hunting-buddies-to-find-what-scanners-missed-806b61707131?source=rss------bug_bounty-5) 
+ - 💯October 5, 2025 - [️ Shadow Endpoints: How I Found the Internet’s Best Kept API Secrets](https://medium.com/@iski/%EF%B8%8F-shadow-endpoints-how-i-found-the-internets-best-kept-api-secrets-78d68808abc6?source=rss------bug_bounty-5) 
 
- - 💯October 4, 2025 - [Findomain: Essential Tool for Passive Subdomain Enumeration](https://medium.com/meetcyber/findomain-essential-tool-for-passive-subdomain-enumeration-2c1e78e71214?source=rss------bug_bounty-5) 
+ - 💯October 5, 2025 - [How I Found My First $100 Bug — by Accident, with Two Accounts and a Race Condition](https://medium.com/@Abhiii_Sharma/how-i-found-my-first-100-bug-by-accident-with-two-accounts-and-a-race-condition-793171607fe9?source=rss------bug_bounty-5) 
 
- - 💯October 3, 2025 - [How I Discovered an Information Disclosure Vulnerability in Jira Instance &lpar;CVE-2020–14179&rpar;](https://medium.com/@akashutosh659/how-i-discovered-an-information-disclosure-vulnerability-in-jira-instance-cve-2020-14179-644b14386e38?source=rss------bug_bounty-5) 
+ - 💯October 4, 2025 - [Why a 500 Error is a Bug Hunter’s Signal](https://medium.com/@cybersecplayground/why-a-500-error-is-a-bug-hunters-signal-8e35ab2bc703?source=rss------bug_bounty-5) 
 
- - 💯October 3, 2025 - [CVE-2022–26134: The Confluence RCE That Shook Enterprise Security](https://medium.com/@VampireXRay/cve-2022-26134-the-confluence-rce-that-shook-enterprise-security-2b58c5385011?source=rss------bug_bounty-5) 
+ - 💯October 4, 2025 - [Simple Guide to AI Powered Threats](https://medium.com/@ibtissamhammadi1/simple-guide-to-ai-powered-threats-849f64e52757?source=rss------bug_bounty-5) 
 
- - 💯October 3, 2025 - [ffuf Tool Explained: Finding Hidden Doors on the Web](https://medium.com/@natarajanck2/ffuf-tool-explained-finding-hidden-doors-on-the-web-37e7dc76e97c?source=rss------bug_bounty-5) 
+ - 💯October 4, 2025 - [How a Password Change Feature Led to Full Account Takeover &lpar;CVSS 8.3&rpar;](https://osintteam.blog/how-a-password-change-feature-led-to-full-account-takeover-cvss-8-3-f1a74c3fc210?source=rss------bug_bounty-5) 
 
- - 💯October 3, 2025 - [Image XSS on Exif.tools | Hacking exif.tools by image injection by CYBER KALKI](https://medium.com/@krivadna/image-xss-on-exif-tools-hacking-exif-tools-by-image-injection-by-cyber-kalki-63b7d1261a19?source=rss------bug_bounty-5) 
+ - 💯October 4, 2025 - [HTML Injection &amp; Content Spoofing: How Attackers Trick Users &lpar;and how to find &amp; fix it&rpar;](https://medium.com/@omniaelagroudy/html-injection-content-spoofing-how-attackers-trick-users-and-how-to-find-fix-it-cea458c951dd?source=rss------bug_bounty-5) 
 
- - 💯October 3, 2025 - [️‍♂️ How I Built Bug-hunter MVP — Minimal Docker Starter for Bug Bounty Hunters](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/%EF%B8%8F-%EF%B8%8F-how-i-built-bug-hunter-mvp-minimal-docker-starter-for-bug-bounty-hunters-f3228baf2238?source=rss------bug_bounty-5) 
+ - 💯October 4, 2025 - [Imagery HTB WriteUp: Season 9 Machine 2](https://medium.com/@abhishek-ji/imagery-htb-writeup-season-9-machine-2-6e09f640a993?source=rss------bug_bounty-5) 
 
- - 💯October 3, 2025 - [How The Web Works [Part 3]](https://medium.com/@robin_root/how-the-web-works-part-3-309c98d85ea0?source=rss------bug_bounty-5) 
+ - 💯October 4, 2025 - [Bug Bounty: De HTMLI a RCE — Guía práctica y paso a paso](https://gorkaaa.medium.com/bug-bounty-de-htmli-a-rce-gu%C3%ADa-pr%C3%A1ctica-y-paso-a-paso-d6d499c8ef68?source=rss------bug_bounty-5) 
 
- - 💯October 3, 2025 - [How to Understand RaaS in Simple Steps](https://medium.com/@ibtissamhammadi1/how-to-understand-raas-in-simple-steps-50ae0eb411a2?source=rss------bug_bounty-5) 
+ - 💯October 4, 2025 - [Forgot password link doesn’t expire after used.](https://medium.com/@edahmed008/forgot-password-link-doesnt-expire-after-used-e55f0c5fe96f?source=rss------bug_bounty-5) 
 
- - 💯October 3, 2025 - [Hidden Parameters in Mobile Apps: Mining APIs Through APK Reverse Engineering](https://medium.com/meetcyber/hidden-parameters-in-mobile-apps-mining-apis-through-apk-reverse-engineering-3e23e3c30f96?source=rss------bug_bounty-5) 
+ - 💯October 4, 2025 - [Secrets of the Digital Underground: Ethical Hacking in the Age of AI &amp; Quantum Computing](https://muhamadaliofficial.medium.com/secrets-of-the-digital-underground-ethical-hacking-in-the-age-of-ai-quantum-computing-e80e3872f212?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
