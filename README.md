@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 5, 2025 - [️ Shadow Endpoints: How I Found the Internet’s Best Kept API Secrets](https://medium.com/@iski/%EF%B8%8F-shadow-endpoints-how-i-found-the-internets-best-kept-api-secrets-78d68808abc6?source=rss------bug_bounty-5) 
+ - 💯October 6, 2025 - [The ML Blindspot: How I Found Machine Learning APIs Leaking Training Data Like My Ex Leaks…](https://medium.com/@iski/the-ml-blindspot-how-i-found-machine-learning-apis-leaking-training-data-like-my-ex-leaks-e0d577481f2b?source=rss------bug_bounty-5) 
 
- - 💯October 5, 2025 - [How I Found My First $100 Bug — by Accident, with Two Accounts and a Race Condition](https://medium.com/@Abhiii_Sharma/how-i-found-my-first-100-bug-by-accident-with-two-accounts-and-a-race-condition-793171607fe9?source=rss------bug_bounty-5) 
+ - 💯October 6, 2025 - [How I Passed the EWPTX &lpar;and What Actually Matters&rpar;](https://medium.com/@juanfelipeoz.rar/how-i-passed-the-ewptx-and-what-actually-matters-c4d6ad439c90?source=rss------bug_bounty-5) 
 
- - 💯October 4, 2025 - [Why a 500 Error is a Bug Hunter’s Signal](https://medium.com/@cybersecplayground/why-a-500-error-is-a-bug-hunters-signal-8e35ab2bc703?source=rss------bug_bounty-5) 
+ - 💯October 5, 2025 - [The OTP That Told on Itself — How I Bypassed Email Verification with One Wrong Code](https://msnrasel1.medium.com/the-otp-that-told-on-itself-how-i-bypassed-email-verification-with-one-wrong-code-67236eb803a1?source=rss------bug_bounty-5) 
 
- - 💯October 4, 2025 - [Simple Guide to AI Powered Threats](https://medium.com/@ibtissamhammadi1/simple-guide-to-ai-powered-threats-849f64e52757?source=rss------bug_bounty-5) 
+ - 💯October 5, 2025 - [The Dark Side of Bug Bounties: How HackerOne’s Ruthless Triage Team Took Down Real Cybercriminal&lpar;s&rpar;](https://medium.com/@justas_b1/the-dark-side-of-bug-bounties-how-hackerones-ruthless-triage-team-took-down-real-cybercriminal-s-0f4464632afe?source=rss------bug_bounty-5) 
 
- - 💯October 4, 2025 - [How a Password Change Feature Led to Full Account Takeover &lpar;CVSS 8.3&rpar;](https://osintteam.blog/how-a-password-change-feature-led-to-full-account-takeover-cvss-8-3-f1a74c3fc210?source=rss------bug_bounty-5) 
+ - 💯October 5, 2025 - [I Found a Critical Bug in 7 Minutes with This Subdomain Enumeration Method](https://medium.com/@ibtissamhammadi1/i-found-a-critical-bug-in-7-minutes-with-this-subdomain-enumeration-method-c1d3e7514397?source=rss------bug_bounty-5) 
 
- - 💯October 4, 2025 - [HTML Injection &amp; Content Spoofing: How Attackers Trick Users &lpar;and how to find &amp; fix it&rpar;](https://medium.com/@omniaelagroudy/html-injection-content-spoofing-how-attackers-trick-users-and-how-to-find-fix-it-cea458c951dd?source=rss------bug_bounty-5) 
+ - 💯October 5, 2025 - [Week 9 of My 90-Day Challenge: Last-Minute Prep and New Burp Features](https://medium.com/@sl0th0x87/week-9-of-my-90-day-challenge-last-minute-prep-and-new-burp-features-129f46c77e45?source=rss------bug_bounty-5) 
 
- - 💯October 4, 2025 - [Imagery HTB WriteUp: Season 9 Machine 2](https://medium.com/@abhishek-ji/imagery-htb-writeup-season-9-machine-2-6e09f640a993?source=rss------bug_bounty-5) 
+ - 💯October 5, 2025 - [6 Platforms Every Bug Bounty Hunter Should Know.](https://osintteam.blog/6-platforms-every-bug-bounty-hunter-should-know-d401b8485009?source=rss------bug_bounty-5) 
 
- - 💯October 4, 2025 - [Bug Bounty: De HTMLI a RCE — Guía práctica y paso a paso](https://gorkaaa.medium.com/bug-bounty-de-htmli-a-rce-gu%C3%ADa-pr%C3%A1ctica-y-paso-a-paso-d6d499c8ef68?source=rss------bug_bounty-5) 
+ - 💯October 5, 2025 - [Access Control Vulnerabilities&lpar;Through Burp Suite Labs&rpar; Pt. 1: Vertical Privilege Escalation](https://medium.com/@heckthwrld/access-control-vulnerabilities-through-burp-suite-labs-pt-1-vertical-privilege-escalation-63acbce0afce?source=rss------bug_bounty-5) 
 
- - 💯October 4, 2025 - [Forgot password link doesn’t expire after used.](https://medium.com/@edahmed008/forgot-password-link-doesnt-expire-after-used-e55f0c5fe96f?source=rss------bug_bounty-5) 
-
- - 💯October 4, 2025 - [Secrets of the Digital Underground: Ethical Hacking in the Age of AI &amp; Quantum Computing](https://muhamadaliofficial.medium.com/secrets-of-the-digital-underground-ethical-hacking-in-the-age-of-ai-quantum-computing-e80e3872f212?source=rss------bug_bounty-5) 
+ - 💯October 5, 2025 - [DNS Tunnelling — covert channels over DNS](https://medium.com/@paritoshblogs/dns-tunnelling-covert-channels-over-dns-4a1fdae35ce7?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
