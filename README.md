@@ -2,21 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 6, 2025 - [The ML Blindspot: How I Found Machine Learning APIs Leaking Training Data Like My Ex Leaks…](https://medium.com/@iski/the-ml-blindspot-how-i-found-machine-learning-apis-leaking-training-data-like-my-ex-leaks-e0d577481f2b?source=rss------bug_bounty-5) 
+ - 💯October 7, 2025 - [Hidden API Endpoints: The Hacker’s Secret Weapon](https://infosecwriteups.com/hidden-api-endpoints-the-hackers-secret-weapon-a9ee297a29c2?source=rss------bug_bounty-5) 
 
- - 💯October 6, 2025 - [How I Passed the EWPTX &lpar;and What Actually Matters&rpar;](https://medium.com/@juanfelipeoz.rar/how-i-passed-the-ewptx-and-what-actually-matters-c4d6ad439c90?source=rss------bug_bounty-5) 
+ - 💯October 7, 2025 - [How a Single Signup Flaw Exposed 162,481 User Records](https://infosecwriteups.com/how-a-single-signup-flaw-exposed-162-481-user-records-070238ff9f4a?source=rss------bug_bounty-5) 
 
- - 💯October 5, 2025 - [The OTP That Told on Itself — How I Bypassed Email Verification with One Wrong Code](https://msnrasel1.medium.com/the-otp-that-told-on-itself-how-i-bypassed-email-verification-with-one-wrong-code-67236eb803a1?source=rss------bug_bounty-5) 
+ - 💯October 7, 2025 - [Fastly Subdomain Takeover leading to $$ Bounty Reward](https://medium.com/@sohailahmed0x0/fastly-subdomain-takeover-leading-to-bounty-reward-5fff711d0518?source=rss------bug_bounty-5) 
 
- - 💯October 5, 2025 - [The Dark Side of Bug Bounties: How HackerOne’s Ruthless Triage Team Took Down Real Cybercriminal&lpar;s&rpar;](https://medium.com/@justas_b1/the-dark-side-of-bug-bounties-how-hackerones-ruthless-triage-team-took-down-real-cybercriminal-s-0f4464632afe?source=rss------bug_bounty-5) 
+ - 💯October 7, 2025 - [20. Common Payloads and Wordlists That Save Me Hours](https://infosecwriteups.com/20-common-payloads-and-wordlists-that-save-me-hours-1535800eb8f2?source=rss------bug_bounty-5) 
 
- - 💯October 5, 2025 - [I Found a Critical Bug in 7 Minutes with This Subdomain Enumeration Method](https://medium.com/@ibtissamhammadi1/i-found-a-critical-bug-in-7-minutes-with-this-subdomain-enumeration-method-c1d3e7514397?source=rss------bug_bounty-5) 
+ - 💯October 7, 2025 - [Google Launches Revolutionary AI Security Arsenal: CodeMender Leads the Charge Against Cyber…](https://medium.com/@Techsankar381/google-launches-revolutionary-ai-security-arsenal-codemender-leads-the-charge-against-cyber-1e24c0f4bf3d?source=rss------bug_bounty-5) 
 
- - 💯October 5, 2025 - [Week 9 of My 90-Day Challenge: Last-Minute Prep and New Burp Features](https://medium.com/@sl0th0x87/week-9-of-my-90-day-challenge-last-minute-prep-and-new-burp-features-129f46c77e45?source=rss------bug_bounty-5) 
+ - 💯October 7, 2025 - [Wafw00f: Desvelando el Escudo Oculto de las Aplicaciones Web](https://medium.com/@jpablo13/wafw00f-desvelando-el-escudo-oculto-de-las-aplicaciones-web-8ca26fdaa6ca?source=rss------bug_bounty-5) 
 
- - 💯October 5, 2025 - [6 Platforms Every Bug Bounty Hunter Should Know.](https://osintteam.blog/6-platforms-every-bug-bounty-hunter-should-know-d401b8485009?source=rss------bug_bounty-5) 
+ - 💯October 6, 2025 - [Series: Business Logic Flaws Uncovered](https://osintteam.blog/series-business-logic-flaws-uncovered-14b3bd5ee60c?source=rss------bug_bounty-5) 
 
- - 💯October 5, 2025 - [Access Control Vulnerabilities&lpar;Through Burp Suite Labs&rpar; Pt. 1: Vertical Privilege Escalation](https://medium.com/@heckthwrld/access-control-vulnerabilities-through-burp-suite-labs-pt-1-vertical-privilege-escalation-63acbce0afce?source=rss------bug_bounty-5) 
+ - 💯October 6, 2025 - [TO BECOME A SOC EXPERT&lpar;DAY-8&rpar;](https://medium.com/@VulnHunt3r/to-become-a-soc-expert-day-8-f7bd3b16287f?source=rss------bug_bounty-5) 
 
- - 💯October 5, 2025 - [DNS Tunnelling — covert channels over DNS](https://medium.com/@paritoshblogs/dns-tunnelling-covert-channels-over-dns-4a1fdae35ce7?source=rss------bug_bounty-5) 
+ - 💯October 6, 2025 - [GraphQL Security Checklist: Find Hidden Endpoints, Prevent Brute-Force and CSRF](https://pyus3r.medium.com/graphql-security-checklist-find-hidden-endpoints-prevent-brute-force-and-csrf-7716e619d803?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
