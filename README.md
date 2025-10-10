@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 9, 2025 - [⏱️ Race Condition Vulnerability: When Speed Becomes the Enemy](https://medium.com/@somnadh0000/%EF%B8%8F-race-condition-vulnerability-when-speed-becomes-the-enemy-69315f95b13c?source=rss------bug_bounty-5) 
+ - 💯October 10, 2025 - [From Recon to Exploit: A Technical Playbook for Bug Bounty Hunters](https://su6osec.medium.com/from-recon-to-exploit-a-technical-playbook-for-bug-bounty-hunters-4e0ca2834b36?source=rss------bug_bounty-5) 
 
- - 💯October 9, 2025 - [TO BECOME A SOC EXPERT&lpar;DAY-9&rpar;](https://medium.com/@VulnHunt3r/to-become-a-soc-expert-day-9-a601e9e69681?source=rss------bug_bounty-5) 
+ - 💯October 10, 2025 - [I Found the Admin Panel. Then I Owned Everything.](https://medium.com/@youssefawad1357/i-found-the-admin-panel-then-i-owned-everything-95f6d367060a?source=rss------bug_bounty-5) 
 
- - 💯October 9, 2025 - [How to Start Bug Bounty Hunting in 2026](https://su6osec.medium.com/how-to-start-bug-bounty-hunting-in-2026-31c97f44925a?source=rss------bug_bounty-5) 
+ - 💯October 10, 2025 - [How Hackers Turn DNS Into a Backdoor &lpar;2025 Playbook&rpar;](https://medium.com/@verylazytech/how-hackers-turn-dns-into-a-backdoor-2025-playbook-6d3a61532bbd?source=rss------bug_bounty-5) 
 
- - 💯October 9, 2025 - [IDOR Epidemic: How I Found 57 Insecure Direct Object References in One Codebase](https://medium.com/@iski/idor-epidemic-how-i-found-57-insecure-direct-object-references-in-one-codebase-0bfab17d156a?source=rss------bug_bounty-5) 
+ - 💯October 10, 2025 - [GetAllUrls &lpar;gau&rpar;: El Detector de Endpoints Antiguos y Olvidados en Bug Bounty](https://medium.com/@jpablo13/getallurls-gau-el-detector-de-endpoints-antiguos-y-olvidados-en-bug-bounty-cec72c694bac?source=rss------bug_bounty-5) 
 
- - 💯October 9, 2025 - [I Opened a Random URL in Incognito and Found a $750 Vulnerability](https://vijetareigns.medium.com/i-opened-a-random-url-in-incognito-and-found-a-750-vulnerability-d8b04b0457c9?source=rss------bug_bounty-5) 
+ - 💯October 9, 2025 - [How I Hacked an Admin Panel with Millions of Dollars](https://zhenwarx.medium.com/how-i-hacked-an-admin-panel-with-millions-of-dollars-749f92c106ab?source=rss------bug_bounty-5) 
 
- - 💯October 9, 2025 - [21. Tips for Staying Consistent and Avoiding Burnout](https://infosecwriteups.com/21-tips-for-staying-consistent-and-avoiding-burnout-a6ebeef29c4f?source=rss------bug_bounty-5) 
+ - 💯October 9, 2025 - [Server-Side Template Injection &lpar;SSTI&rpar; Hackvisor Lab](https://medium.com/@yossefmohamedsalah2001/server-side-template-injection-ssti-hackvisor-lab-50d42ec27639?source=rss------bug_bounty-5) 
 
- - 💯October 9, 2025 - [Epsilon](https://goodnightdev.medium.com/epsilon-fd4d616fe9cd?source=rss------bug_bounty-5) 
+ - 💯October 9, 2025 - [0-click Account Takeover via Punycode](https://medium.com/@0x_s3fo/0-click-account-takeover-via-punycode-39b9a5cfbfb1?source=rss------bug_bounty-5) 
 
- - 💯October 9, 2025 - [How I Automate Recon and Save 10+ Hours of Manual Work Weekly](https://levelup.gitconnected.com/how-i-automate-recon-and-save-10-hours-of-manual-work-weekly-a7f5833b7417?source=rss------bug_bounty-5) 
+ - 💯October 9, 2025 - [Business Logic Error - Bypassing Payment with Test Cards](https://infosecwriteups.com/business-logic-error-bypassing-payment-with-test-cards-77c6e3c36f16?source=rss------bug_bounty-5) 
 
- - 💯October 8, 2025 - [How I Became Silico: From Gaming Dreams to Red Team Reality](https://medium.com/@silicoindustries/silico-story-db4c5292a356?source=rss------bug_bounty-5) 
+ - 💯October 9, 2025 - [Unlimited File Upload Vulnerability: From Images to Web Threats](https://medium.com/@muhadnan2828/unlimited-file-upload-vulnerability-from-images-to-web-threats-fd621156a1db?source=rss------bug_bounty-5) 
+
+ - 💯October 9, 2025 - [7 Realistic Mobile Security Interview Questions with Answers &lpar;Part 2&rpar;](https://medium.com/@cybersenpai/7-realistic-mobile-security-interview-questions-with-answers-part-2-caf1643387de?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
