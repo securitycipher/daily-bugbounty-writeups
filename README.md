@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 10, 2025 - [From Recon to Exploit: A Technical Playbook for Bug Bounty Hunters](https://su6osec.medium.com/from-recon-to-exploit-a-technical-playbook-for-bug-bounty-hunters-4e0ca2834b36?source=rss------bug_bounty-5) 
+ - 💯October 11, 2025 - [PoC: IDOR Leads to XSS on Profile Dashboard](https://medium.com/@jensonsantoso19/poc-idor-leads-to-xss-on-profile-dashboard-f4356a17aea7?source=rss------bug_bounty-5) 
 
- - 💯October 10, 2025 - [I Found the Admin Panel. Then I Owned Everything.](https://medium.com/@youssefawad1357/i-found-the-admin-panel-then-i-owned-everything-95f6d367060a?source=rss------bug_bounty-5) 
+ - 💯October 11, 2025 - [Advanced Nuclei Templates: How to Write Target‑Specific Scans](https://su6osec.medium.com/advanced-nuclei-templates-how-to-write-target-specific-scans-acedaaf0742e?source=rss------bug_bounty-5) 
 
- - 💯October 10, 2025 - [How Hackers Turn DNS Into a Backdoor &lpar;2025 Playbook&rpar;](https://medium.com/@verylazytech/how-hackers-turn-dns-into-a-backdoor-2025-playbook-6d3a61532bbd?source=rss------bug_bounty-5) 
+ - 💯October 11, 2025 - [CSRF Where to Look](https://medium.com/@ikajakam/csrf-where-to-look-918d16ac4862?source=rss------bug_bounty-5) 
 
- - 💯October 10, 2025 - [GetAllUrls &lpar;gau&rpar;: El Detector de Endpoints Antiguos y Olvidados en Bug Bounty](https://medium.com/@jpablo13/getallurls-gau-el-detector-de-endpoints-antiguos-y-olvidados-en-bug-bounty-cec72c694bac?source=rss------bug_bounty-5) 
+ - 💯October 11, 2025 - [GetAllUrls &lpar;gau&rpar;: The Detector of Old and Forgotten Endpoints in Bug Bounty](https://medium.com/meetcyber/getallurls-gau-the-detector-of-old-and-forgotten-endpoints-in-bug-bounty-8f8a40a92606?source=rss------bug_bounty-5) 
 
- - 💯October 9, 2025 - [How I Hacked an Admin Panel with Millions of Dollars](https://zhenwarx.medium.com/how-i-hacked-an-admin-panel-with-millions-of-dollars-749f92c106ab?source=rss------bug_bounty-5) 
+ - 💯October 10, 2025 - [Hidden in Plain Sight: Chaining CSS Override to XSS &amp; Email Bombing](https://medium.com/@pauldipesh29/hidden-in-plain-sight-chaining-css-override-to-xss-email-bombing-9e43be1826a7?source=rss------bug_bounty-5) 
 
- - 💯October 9, 2025 - [Server-Side Template Injection &lpar;SSTI&rpar; Hackvisor Lab](https://medium.com/@yossefmohamedsalah2001/server-side-template-injection-ssti-hackvisor-lab-50d42ec27639?source=rss------bug_bounty-5) 
+ - 💯October 10, 2025 - [$35,000 por este fallo en GitLab — Análisis completo y lecciones reales](https://gorkaaa.medium.com/35-000-por-este-fallo-en-gitlab-an%C3%A1lisis-completo-y-lecciones-reales-601d5cc6a593?source=rss------bug_bounty-5) 
 
- - 💯October 9, 2025 - [0-click Account Takeover via Punycode](https://medium.com/@0x_s3fo/0-click-account-takeover-via-punycode-39b9a5cfbfb1?source=rss------bug_bounty-5) 
+ - 💯October 10, 2025 - [The Danger of Using Old Code: Vulnerable and Outdated Components in the OWASP Top 10](https://medium.com/@cybersenpai/the-danger-of-using-old-code-vulnerable-and-outdated-components-in-the-owasp-top-10-5d08d9eaf253?source=rss------bug_bounty-5) 
 
- - 💯October 9, 2025 - [Business Logic Error - Bypassing Payment with Test Cards](https://infosecwriteups.com/business-logic-error-bypassing-payment-with-test-cards-77c6e3c36f16?source=rss------bug_bounty-5) 
+ - 💯October 10, 2025 - [The Ultimate Beginner’s Guide to Bug Bounty Hunting](https://medium.com/data-and-beyond/the-ultimate-beginners-guide-to-bug-bounty-hunting-7951c7b6e037?source=rss------bug_bounty-5) 
 
- - 💯October 9, 2025 - [Unlimited File Upload Vulnerability: From Images to Web Threats](https://medium.com/@muhadnan2828/unlimited-file-upload-vulnerability-from-images-to-web-threats-fd621156a1db?source=rss------bug_bounty-5) 
+ - 💯October 10, 2025 - [Neural Network Nightmare: How Image Recognition APIs Were Secretly Spying on Everyone](https://medium.com/@iski/neural-network-nightmare-how-image-recognition-apis-were-secretly-spying-on-everyone-f42e379999c5?source=rss------bug_bounty-5) 
 
- - 💯October 9, 2025 - [7 Realistic Mobile Security Interview Questions with Answers &lpar;Part 2&rpar;](https://medium.com/@cybersenpai/7-realistic-mobile-security-interview-questions-with-answers-part-2-caf1643387de?source=rss------bug_bounty-5) 
+ - 💯October 10, 2025 - [SQL Injection UNION Attack — MySQL/Microsoft Version](https://medium.com/@cipher0x00/sql-injection-union-attack-mysql-microsoft-version-b725dd640d18?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
