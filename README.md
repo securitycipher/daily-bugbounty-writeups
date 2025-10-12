@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 11, 2025 - [PoC: IDOR Leads to XSS on Profile Dashboard](https://medium.com/@jensonsantoso19/poc-idor-leads-to-xss-on-profile-dashboard-f4356a17aea7?source=rss------bug_bounty-5) 
+ - 💯October 12, 2025 - [I turned a URL tweak into $800: How I found an IDOR and got paid — step-by-step &lpar;for beginners!&rpar;](https://medium.com/@zoningxtr/i-turned-a-url-tweak-into-800-how-i-found-an-idor-and-got-paid-step-by-step-for-beginners-86aa5443711e?source=rss------bug_bounty-5) 
 
- - 💯October 11, 2025 - [Advanced Nuclei Templates: How to Write Target‑Specific Scans](https://su6osec.medium.com/advanced-nuclei-templates-how-to-write-target-specific-scans-acedaaf0742e?source=rss------bug_bounty-5) 
+ - 💯October 12, 2025 - [XSS &amp; CSRF for Beginners: Finding Easy Bug Bounties](https://medium.com/@luismiguel.poncedeleon/xss-csrf-for-beginners-finding-easy-bug-bounties-ba61674ed8a0?source=rss------bug_bounty-5) 
 
- - 💯October 11, 2025 - [CSRF Where to Look](https://medium.com/@ikajakam/csrf-where-to-look-918d16ac4862?source=rss------bug_bounty-5) 
+ - 💯October 12, 2025 - [you won’t find any vulnerabilities without this technique](https://medium.com/@shaikhminhaz1975/you-wont-find-any-vulnerabilities-without-this-technique-65da99920b64?source=rss------bug_bounty-5) 
 
- - 💯October 11, 2025 - [GetAllUrls &lpar;gau&rpar;: The Detector of Old and Forgotten Endpoints in Bug Bounty](https://medium.com/meetcyber/getallurls-gau-the-detector-of-old-and-forgotten-endpoints-in-bug-bounty-8f8a40a92606?source=rss------bug_bounty-5) 
+ - 💯October 12, 2025 - [Active Recon for Bug Bounties: Port Scanning, Service Fingerprinting &amp; Prioritization ⚡️](https://su6osec.medium.com/active-recon-for-bug-bounties-port-scanning-service-fingerprinting-prioritization-%EF%B8%8F-33f2194de489?source=rss------bug_bounty-5) 
 
- - 💯October 10, 2025 - [Hidden in Plain Sight: Chaining CSS Override to XSS &amp; Email Bombing](https://medium.com/@pauldipesh29/hidden-in-plain-sight-chaining-css-override-to-xss-email-bombing-9e43be1826a7?source=rss------bug_bounty-5) 
+ - 💯October 12, 2025 - [Attacking iOS: Elite Recon and Exploitation Guide For Bug Bounty Hunters](https://anontriager.medium.com/attacking-ios-elite-recon-and-exploitation-guide-for-bug-bounty-hunters-0c67e2160484?source=rss------bug_bounty-5) 
 
- - 💯October 10, 2025 - [$35,000 por este fallo en GitLab — Análisis completo y lecciones reales](https://gorkaaa.medium.com/35-000-por-este-fallo-en-gitlab-an%C3%A1lisis-completo-y-lecciones-reales-601d5cc6a593?source=rss------bug_bounty-5) 
+ - 💯October 12, 2025 - [Cross-Site Request Forgery &lpar;CSRF&rpar;](https://medium.com/@raihan408548/cross-site-request-forgery-csrf-958e968dc693?source=rss------bug_bounty-5) 
 
- - 💯October 10, 2025 - [The Danger of Using Old Code: Vulnerable and Outdated Components in the OWASP Top 10](https://medium.com/@cybersenpai/the-danger-of-using-old-code-vulnerable-and-outdated-components-in-the-owasp-top-10-5d08d9eaf253?source=rss------bug_bounty-5) 
+ - 💯October 11, 2025 - [Coffee Corner CTF: A Security Journey](https://medium.com/@momenrezkk90/coffee-corner-ctf-a-security-journey-2a92816e1f9b?source=rss------bug_bounty-5) 
 
- - 💯October 10, 2025 - [The Ultimate Beginner’s Guide to Bug Bounty Hunting](https://medium.com/data-and-beyond/the-ultimate-beginners-guide-to-bug-bounty-hunting-7951c7b6e037?source=rss------bug_bounty-5) 
+ - 💯October 11, 2025 - [When GraphQL becomes a backdoor: SSRF to RCE in a real-world GraphQL endpoint.](https://medium.com/@arun.webskite/when-graphql-becomes-a-backdoor-ssrf-to-rce-in-a-real-world-graphql-endpoint-b4ab3b14573f?source=rss------bug_bounty-5) 
 
- - 💯October 10, 2025 - [Neural Network Nightmare: How Image Recognition APIs Were Secretly Spying on Everyone](https://medium.com/@iski/neural-network-nightmare-how-image-recognition-apis-were-secretly-spying-on-everyone-f42e379999c5?source=rss------bug_bounty-5) 
-
- - 💯October 10, 2025 - [SQL Injection UNION Attack — MySQL/Microsoft Version](https://medium.com/@cipher0x00/sql-injection-union-attack-mysql-microsoft-version-b725dd640d18?source=rss------bug_bounty-5) 
+ - 💯October 11, 2025 - [Hunting Dependency Confusion: Supply Chain Vulnerabilities for Bug Bounties](https://icecream23.medium.com/hunting-dependency-confusion-supply-chain-vulnerabilities-for-bug-bounties-ccb0c4496c01?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
