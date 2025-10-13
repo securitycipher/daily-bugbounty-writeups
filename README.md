@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 12, 2025 - [I turned a URL tweak into $800: How I found an IDOR and got paid — step-by-step &lpar;for beginners!&rpar;](https://medium.com/@zoningxtr/i-turned-a-url-tweak-into-800-how-i-found-an-idor-and-got-paid-step-by-step-for-beginners-86aa5443711e?source=rss------bug_bounty-5) 
+ - 💯October 13, 2025 - [Think Before You Click: One Wrong Click Can Crash Your Entire System](https://medium.com/@jyothismohan17/think-before-you-click-one-wrong-click-can-crash-your-entire-system-6627d6355b70?source=rss------bug_bounty-5) 
 
- - 💯October 12, 2025 - [XSS &amp; CSRF for Beginners: Finding Easy Bug Bounties](https://medium.com/@luismiguel.poncedeleon/xss-csrf-for-beginners-finding-easy-bug-bounties-ba61674ed8a0?source=rss------bug_bounty-5) 
+ - 💯October 13, 2025 - [How I Won $10K by Finding an AWS Misconfiguration in an App &lpar;And What You Can Learn&rpar;](https://medium.com/@ethan_hunt/how-i-won-10k-by-finding-an-aws-misconfiguration-in-an-app-and-what-you-can-learn-990ee90b4f05?source=rss------bug_bounty-5) 
 
- - 💯October 12, 2025 - [you won’t find any vulnerabilities without this technique](https://medium.com/@shaikhminhaz1975/you-wont-find-any-vulnerabilities-without-this-technique-65da99920b64?source=rss------bug_bounty-5) 
+ - 💯October 13, 2025 - [22. How to Get Invites to Private Programs](https://infosecwriteups.com/22-how-to-get-invites-to-private-programs-9bbb51664e21?source=rss------bug_bounty-5) 
 
- - 💯October 12, 2025 - [Active Recon for Bug Bounties: Port Scanning, Service Fingerprinting &amp; Prioritization ⚡️](https://su6osec.medium.com/active-recon-for-bug-bounties-port-scanning-service-fingerprinting-prioritization-%EF%B8%8F-33f2194de489?source=rss------bug_bounty-5) 
+ - 💯October 13, 2025 - [How I Stole an AI’s Brain &lpar;Legally&rpar; and Cashed Out](https://medium.com/@iski/how-i-stole-an-ais-brain-legally-and-cashed-out-95b3848bcf6b?source=rss------bug_bounty-5) 
 
- - 💯October 12, 2025 - [Attacking iOS: Elite Recon and Exploitation Guide For Bug Bounty Hunters](https://anontriager.medium.com/attacking-ios-elite-recon-and-exploitation-guide-for-bug-bounty-hunters-0c67e2160484?source=rss------bug_bounty-5) 
+ - 💯October 13, 2025 - [️ Hacking Laravel for $7,000](https://anontriager.medium.com/%EF%B8%8F-hacking-laravel-for-7-000-bd14818b3563?source=rss------bug_bounty-5) 
 
- - 💯October 12, 2025 - [Cross-Site Request Forgery &lpar;CSRF&rpar;](https://medium.com/@raihan408548/cross-site-request-forgery-csrf-958e968dc693?source=rss------bug_bounty-5) 
+ - 💯October 12, 2025 - [Why you cannot obfuscate your payload with double-unicode encoding in JavaScript](https://medium.com/@ali26mirzaei/why-you-cannot-obfuscate-your-payload-with-double-unicode-encoding-in-javascript-05ccb29d4b49?source=rss------bug_bounty-5) 
 
- - 💯October 11, 2025 - [Coffee Corner CTF: A Security Journey](https://medium.com/@momenrezkk90/coffee-corner-ctf-a-security-journey-2a92816e1f9b?source=rss------bug_bounty-5) 
+ - 💯October 12, 2025 - [The Ghost in the Admin’s Wallet: A Tale of Unauthorized Access](https://medium.com/@alimramadan92/the-ghost-in-the-admins-wallet-a-tale-of-unauthorized-access-06d8b6b7984b?source=rss------bug_bounty-5) 
 
- - 💯October 11, 2025 - [When GraphQL becomes a backdoor: SSRF to RCE in a real-world GraphQL endpoint.](https://medium.com/@arun.webskite/when-graphql-becomes-a-backdoor-ssrf-to-rce-in-a-real-world-graphql-endpoint-b4ab3b14573f?source=rss------bug_bounty-5) 
+ - 💯October 12, 2025 - [¿Usas Burp Suite correctamente? Probablemente no — mi flujo real para ser más rápido y efectivo](https://gorkaaa.medium.com/usas-burp-suite-correctamente-probablemente-no-mi-flujo-real-para-ser-m%C3%A1s-r%C3%A1pido-y-efectivo-f10c3f0056fb?source=rss------bug_bounty-5) 
 
- - 💯October 11, 2025 - [Hunting Dependency Confusion: Supply Chain Vulnerabilities for Bug Bounties](https://icecream23.medium.com/hunting-dependency-confusion-supply-chain-vulnerabilities-for-bug-bounties-ccb0c4496c01?source=rss------bug_bounty-5) 
+ - 💯October 12, 2025 - [CTF to Bug Bounty: Part 1 of the Beginner’s Series for Aspiring Hunters](https://infosecwriteups.com/ctf-to-bug-bounty-part-1-of-the-beginners-series-for-aspiring-hunters-5ac37af302c4?source=rss------bug_bounty-5) 
+
+ - 💯October 12, 2025 - [Week 13 — React Optimization: Code Splitting, Bundling &amp; Source Map Risks](https://infosecwriteups.com/week-13-react-optimization-code-splitting-bundling-source-map-risks-962c08435a83?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
