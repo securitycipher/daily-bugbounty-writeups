@@ -2,21 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 15, 2025 - [Port 5601 Exposed: How Kibana Grants Attackers Data, Keys, and Long-Lived Access](https://medium.com/@verylazytech/port-5601-exposed-how-kibana-grants-attackers-data-keys-and-long-lived-access-f9ba5cd058a8?source=rss------bug_bounty-5) 
+ - 💯October 16, 2025 - [$ How I Discovered a Business-Logic Bug That Bypasses VAT and Slashes Shipping Costs](https://medium.com/@zyad_ibrahim333/how-i-discovered-a-business-logic-bug-that-bypasses-vat-and-slashes-shipping-costs-48a63d43fdbb?source=rss------bug_bounty-5) 
 
- - 💯October 15, 2025 - [Solution for Intigriti Challenge 1025](https://medium.com/@ambushneupane4/solution-for-intigriti-challenge-1025-3ecc9c7e11db?source=rss------bug_bounty-5) 
+ - 💯October 16, 2025 - [CSRF and SSRF explained, plus 8 real interview questions](https://medium.com/meetcyber/csrf-and-ssrf-explained-plus-8-real-interview-questions-f130ac4cf7a6?source=rss------bug_bounty-5) 
 
- - 💯October 15, 2025 - [Intigriti Challenge 1025 — Unintended Solution Writeup](https://savi0r.medium.com/intigriti-challenge-1025-unintended-solution-writeup-92ac5c9d425e?source=rss------bug_bounty-5) 
+ - 💯October 15, 2025 - [The Batcave Breach: A First-Timer’s Journey into Network Penetration Testing](https://medium.com/@momenrezkk90/the-batcave-breach-a-first-timers-journey-into-network-penetration-testing-d4b8ce514a77?source=rss------bug_bounty-5) 
 
- - 💯October 15, 2025 - [How to Find Your First High-Impact Vulnerability &lpar;Without Relying on XSS&rpar;](https://medium.com/@sync-with-ivan/how-to-find-your-first-high-impact-vulnerability-without-relying-on-xss-de3fdb73f182?source=rss------bug_bounty-5) 
+ - 💯October 15, 2025 - [Your Guide to a Free Google VPS](https://medium.com/@AbdelRhman_Sabry/your-guide-to-a-free-google-vps-13ea91788543?source=rss------bug_bounty-5) 
 
- - 💯October 15, 2025 - [How I Cracked the “Uncrackable” UUIDs and Found Every User’s Secret Data](https://medium.com/@iski/how-i-cracked-the-uncrackable-uuids-and-found-every-users-secret-data-f0cd2224e09d?source=rss------bug_bounty-5) 
+ - 💯October 15, 2025 - [$35,000 por un fallo en GitLab — Análisis completo de un reporte real](https://gorkaaa.medium.com/35-000-por-un-fallo-en-gitlab-an%C3%A1lisis-completo-de-un-reporte-real-3fe1bd5bbb00?source=rss------bug_bounty-5) 
 
- - 💯October 15, 2025 - [From SSRF to RCE: intigriti/Challenge 1025](https://medium.com/@alejandro._./from-ssrf-to-rce-intigriti-challenge-1025-5a12d866db11?source=rss------bug_bounty-5) 
+ - 💯October 15, 2025 - [How I Found a $250 XSS Bug After Losing Hope in Bug Bounty](https://medium.com/meetcyber/how-i-found-a-250-xss-bug-after-losing-hope-in-bug-bounty-16ce5677b599?source=rss------bug_bounty-5) 
 
- - 💯October 15, 2025 - [Mastering Naabu: A fast port scanner for bug hunting](https://infosecwriteups.com/mastering-naabu-a-fast-port-scanner-for-bug-hunting-9a0020abfdf1?source=rss------bug_bounty-5) 
+ - 💯October 15, 2025 - [“The $10,800 Typo: How a Single Dot Broke Twitter’s Authentication”](https://infosecwriteups.com/the-10-800-typo-how-a-single-dot-broke-twitters-authentication-f485e6dc0f04?source=rss------bug_bounty-5) 
 
- - 💯October 14, 2025 - [$6000 Bounty: How a Simple Bug Lets Hackers Take Over Your Computer](https://osintteam.blog/6000-bounty-how-a-simple-bug-lets-hackers-take-over-your-computer-d1d261bd35af?source=rss------bug_bounty-5) 
+ - 💯October 15, 2025 - [Top 15 Misconfigurations That Lead to Instant Server Pwn: Master Critical Cybersecurity Mistakes](https://medium.com/@verylazytech/top-15-misconfigurations-that-lead-to-instant-server-pwn-master-critical-cybersecurity-mistakes-fbd5cb09df6a?source=rss------bug_bounty-5) 
 
- - 💯October 14, 2025 - [How I Hacked Proton VPN and Got Paid](https://medium.com/@josekuttykunnelthazhebinu/how-i-hacked-proton-vpn-and-got-paid-501a9eee39c9?source=rss------bug_bounty-5) 
+ - 💯October 15, 2025 - [Getting RCE — Challenge #1025 by Intigriti](https://hamzaavvan.medium.com/getting-rce-challenge-1025-by-intigriti-b3d0033a286d?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
