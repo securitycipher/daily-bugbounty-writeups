@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 17, 2025 - [From €1500 to €0.50: A Bug Bounty Story of Payment Flow Manipulation](https://medium.com/meetcyber/from-1500-to-0-50-a-bug-bounty-story-of-payment-flow-manipulation-d845cc2c903d?source=rss------bug_bounty-5) 
+ - 💯October 18, 2025 - [The Broken Gate — A07: Identification and Authentication Failures | OWASP Top 10 |10 Days with Me|…](https://infyra.medium.com/the-broken-gate-a07-identification-and-authentication-failures-owasp-top-10-10-days-with-me-ef670f9f743f?source=rss------bug_bounty-5) 
 
- - 💯October 17, 2025 - [Email Verification OTP Bypass €€ — How I verified any email](https://medium.com/@ankitrathva/email-verification-bypass-how-i-verified-any-email-470cec0dbca5?source=rss------bug_bounty-5) 
+ - 💯October 18, 2025 - [OWASP Mobile Top 10 — M9: Insecure Data Storage &lpar;“Writing your love letters on sticky notes and…](https://medium.com/@bithowl/owasp-mobile-top-10-m9-insecure-data-storage-writing-your-love-letters-on-sticky-notes-and-6783217f1273?source=rss------bug_bounty-5) 
 
- - 💯October 17, 2025 - [One Link, One Report, One Four-Digit Bounty](https://medium.com/@NarayananM/one-link-one-report-one-four-digit-bounty-a4a682a9b612?source=rss------bug_bounty-5) 
+ - 💯October 18, 2025 - [Phishing via Error Message — When UI Messages Become Attack Surfaces](https://medium.com/@ethan_hunt/phishing-via-error-message-when-ui-messages-become-attack-surfaces-1eca838fea3f?source=rss------bug_bounty-5) 
 
- - 💯October 17, 2025 - [Menyelami Dunia Bug Hunting: Perjalanan Awal Seorang Mahasiswa IT](https://medium.com/@mzhilmi1612/menyelami-dunia-bug-hunting-perjalanan-awal-seorang-mahasiswa-it-bc83fcdabe3d?source=rss------bug_bounty-5) 
+ - 💯October 18, 2025 - [Burp Suite: 15 Pro Tips You’ll Wish You Knew Sooner](https://medium.com/@Iampreth/burp-suite-15-pro-tips-youll-wish-you-knew-sooner-f4dd4b9a701c?source=rss------bug_bounty-5) 
 
- - 💯October 17, 2025 - [Recon Methodology For Bug Bounty Hunting](https://medium.com/@raihan408548/recon-for-bug-bounty-hunting-f466fce74709?source=rss------bug_bounty-5) 
+ - 💯October 18, 2025 - [Complete Guide to Dnsx for Mass DNS Resolution and Bug Bounty](https://medium.com/@jpablo13/complete-guide-to-dnsx-for-mass-dns-resolution-and-bug-bounty-f8bed1598770?source=rss------bug_bounty-5) 
 
- - 💯October 17, 2025 - [Guía Completa de Dnsx para la Resolución Masiva de DNS y Bug Bounty](https://medium.com/@jpablo13/gu%C3%ADa-completa-de-dnsx-para-la-resoluci%C3%B3n-masiva-de-dns-y-bug-bounty-20714c2dbc01?source=rss------bug_bounty-5) 
+ - 💯October 17, 2025 - [How I Found 2 Medium Bugs That Broke Business Logic♦️](https://infosecwriteups.com/how-i-found-2-medium-bugs-that-broke-business-logic-%EF%B8%8F-8a6fbdcef287?source=rss------bug_bounty-5) 
 
- - 💯October 16, 2025 - [Freelancer Scienario | Hackviser CWSExpert](https://medium.com/@yossefmohamedsalah2001/freelancer-scienario-hackviser-cwsexpert-6bd72c96a9ad?source=rss------bug_bounty-5) 
+ - 💯October 17, 2025 - [Presentación de mi Masterclass de Bug Bounty — este fin de semana en Discord](https://gorkaaa.medium.com/presentaci%C3%B3n-de-mi-masterclass-de-bug-bounty-este-fin-de-semana-en-discord-4327b9953240?source=rss------bug_bounty-5) 
 
- - 💯October 16, 2025 - [When dev‑server whispers: a bug hunter’s journey discovering CVE‑2025‑30208 on a government portal.](https://medium.com/@will.star/when-dev-server-whispers-a-bug-hunters-journey-discovering-cve-2025-30208-on-a-government-portal-6e7509854acc?source=rss------bug_bounty-5) 
+ - 💯October 17, 2025 - [Top 15 Misconfigurations That Lead to Instant Server Pwn: Master Server Security Now](https://medium.com/@verylazytech/top-15-misconfigurations-that-lead-to-instant-server-pwn-master-server-security-now-96ebdc38ed1b?source=rss------bug_bounty-5) 
 
- - 💯October 16, 2025 - [️ Charla + laboratorio: cómo se encontró un IDOR real &lpar;HackerOne&rpar; y cómo mitigarlo](https://gorkaaa.medium.com/%EF%B8%8F-charla-laboratorio-c%C3%B3mo-se-encontr%C3%B3-un-idor-real-hackerone-y-c%C3%B3mo-mitigarlo-5ebbe8868a37?source=rss------bug_bounty-5) 
+ - 💯October 17, 2025 - [What Apple’s $2M &lpar;and up to $5M&rpar; Bug-Bounty Push Teaches Us About Fighting Spyware](https://vencoding.medium.com/what-apples-2m-and-up-to-5m-bug-bounty-push-teaches-us-about-fighting-spyware-bf7e5fd66d15?source=rss------bug_bounty-5) 
 
- - 💯October 16, 2025 - [I used to think hacking was 90% typing and 10% staring at error messages.](https://medium.com/@viratavi1223/i-used-to-think-hacking-was-90-typing-and-10-staring-at-error-messages-ccd74afe5a14?source=rss------bug_bounty-5) 
+ - 💯October 17, 2025 - [How I Escalated a Dorm Payment Portal into a Full DMZ Compromise Part 2](https://kkonann.medium.com/how-i-escalated-a-dorm-payment-portal-into-a-full-dmz-compromise-part-2-0348a14a3ac5?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
