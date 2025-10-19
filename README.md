@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 18, 2025 - [The Broken Gate — A07: Identification and Authentication Failures | OWASP Top 10 |10 Days with Me|…](https://infyra.medium.com/the-broken-gate-a07-identification-and-authentication-failures-owasp-top-10-10-days-with-me-ef670f9f743f?source=rss------bug_bounty-5) 
+ - 💯October 19, 2025 - [When Client-Side Validation Isn’t Enough — Porsche Contact Form Logic Bypass](https://medium.com/@ethan_hunt/when-client-side-validation-isnt-enough-porsche-contact-form-logic-bypass-91f2451015e3?source=rss------bug_bounty-5) 
 
- - 💯October 18, 2025 - [OWASP Mobile Top 10 — M9: Insecure Data Storage &lpar;“Writing your love letters on sticky notes and…](https://medium.com/@bithowl/owasp-mobile-top-10-m9-insecure-data-storage-writing-your-love-letters-on-sticky-notes-and-6783217f1273?source=rss------bug_bounty-5) 
+ - 💯October 19, 2025 - [How I Got My first Private Invite in Bug Bounty](https://medium.com/activated-thinker/how-i-got-my-first-private-invite-in-bug-bounty-f51ea01e03a7?source=rss------bug_bounty-5) 
 
- - 💯October 18, 2025 - [Phishing via Error Message — When UI Messages Become Attack Surfaces](https://medium.com/@ethan_hunt/phishing-via-error-message-when-ui-messages-become-attack-surfaces-1eca838fea3f?source=rss------bug_bounty-5) 
+ - 💯October 19, 2025 - [Basic SQL injection Methodology](https://medium.com/@raihan408548/basic-sql-injection-methodology-9c606115eddb?source=rss------bug_bounty-5) 
 
- - 💯October 18, 2025 - [Burp Suite: 15 Pro Tips You’ll Wish You Knew Sooner](https://medium.com/@Iampreth/burp-suite-15-pro-tips-youll-wish-you-knew-sooner-f4dd4b9a701c?source=rss------bug_bounty-5) 
+ - 💯October 19, 2025 - [XSS Explained: A Simple, Powerful Guide](https://medium.com/@0xMuhammedAsfan/xss-explained-a-simple-powerful-guide-d87dadb92736?source=rss------bug_bounty-5) 
 
- - 💯October 18, 2025 - [Complete Guide to Dnsx for Mass DNS Resolution and Bug Bounty](https://medium.com/@jpablo13/complete-guide-to-dnsx-for-mass-dns-resolution-and-bug-bounty-f8bed1598770?source=rss------bug_bounty-5) 
+ - 💯October 18, 2025 - [Silence After Security.txt: When a Promise to Report Is Ignored](https://medium.com/@d.johnston_19172/silence-after-security-txt-when-a-promise-to-report-is-ignored-9efc2741f7a4?source=rss------bug_bounty-5) 
 
- - 💯October 17, 2025 - [How I Found 2 Medium Bugs That Broke Business Logic♦️](https://infosecwriteups.com/how-i-found-2-medium-bugs-that-broke-business-logic-%EF%B8%8F-8a6fbdcef287?source=rss------bug_bounty-5) 
+ - 💯October 18, 2025 - [How to Find Your First Database Vulnerability in 48 Hours](https://medium.com/@ibtissamhammadi1/how-to-find-your-first-database-vulnerability-in-48-hours-2738e70cd979?source=rss------bug_bounty-5) 
 
- - 💯October 17, 2025 - [Presentación de mi Masterclass de Bug Bounty — este fin de semana en Discord](https://gorkaaa.medium.com/presentaci%C3%B3n-de-mi-masterclass-de-bug-bounty-este-fin-de-semana-en-discord-4327b9953240?source=rss------bug_bounty-5) 
+ - 💯October 18, 2025 - [IDOR lead to unauthorized Access Organizations function](https://medium.com/@HBlackGhost/idor-lead-to-unauthorized-access-organizations-function-0dc707011dd1?source=rss------bug_bounty-5) 
 
- - 💯October 17, 2025 - [Top 15 Misconfigurations That Lead to Instant Server Pwn: Master Server Security Now](https://medium.com/@verylazytech/top-15-misconfigurations-that-lead-to-instant-server-pwn-master-server-security-now-96ebdc38ed1b?source=rss------bug_bounty-5) 
+ - 💯October 18, 2025 - [Foundations &amp; Hunting SSRF Checklist — A SSRF Playbook &lpar;Part 1&rpar;](https://medium.com/@Aacle/foundations-hunting-ssrf-checklist-a-ssrf-playbook-part-1-795ef13e9d28?source=rss------bug_bounty-5) 
 
- - 💯October 17, 2025 - [What Apple’s $2M &lpar;and up to $5M&rpar; Bug-Bounty Push Teaches Us About Fighting Spyware](https://vencoding.medium.com/what-apples-2m-and-up-to-5m-bug-bounty-push-teaches-us-about-fighting-spyware-bf7e5fd66d15?source=rss------bug_bounty-5) 
+ - 💯October 18, 2025 - [Chrome Extension for Temp Emails &lpar;For Bug Bounty Hunters &amp; Cybersecurity Researchers &rpar;](https://medium.com/@shubhammpawar7438/chrome-extension-for-temp-emails-for-bug-bounty-hunters-cybersecurity-researchers-af25360ad2e1?source=rss------bug_bounty-5) 
 
- - 💯October 17, 2025 - [How I Escalated a Dorm Payment Portal into a Full DMZ Compromise Part 2](https://kkonann.medium.com/how-i-escalated-a-dorm-payment-portal-into-a-full-dmz-compromise-part-2-0348a14a3ac5?source=rss------bug_bounty-5) 
+ - 💯October 18, 2025 - [Step-by-Step Guide: Practical Docker Enumeration and Container Escape Techniques](https://medium.com/@verylazytech/step-by-step-guide-practical-docker-enumeration-and-container-escape-techniques-986e1d6a6919?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
