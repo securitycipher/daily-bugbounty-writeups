@@ -2,21 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 25, 2025 - [Web Cache Deception: A Complete Beginner to Advanced Guide](https://osintteam.blog/web-cache-deception-a-complete-beginner-to-advanced-guide-94cf851cd89f?source=rss------bug_bounty-5) 
+ - 💯October 26, 2025 - [Privilege Escalation Turned a Regular User Into an Admin [part-1]](https://senoritaahunter.medium.com/privilege-escalation-turned-a-regular-user-into-an-admin-part-1-fbe3d82440ca?source=rss------bug_bounty-5) 
 
- - 💯October 25, 2025 - [Arjun’s Guide to Discovering Hidden HTTP Parameters and Bug Bounty](https://medium.com/meetcyber/arjuns-guide-to-discovering-hidden-http-parameters-and-bug-bounty-678dc66763d7?source=rss------bug_bounty-5) 
+ - 💯October 26, 2025 - [Tesla.com patched Exposed Damage Disclosure Files leaking VIN number after bugcrowd rejected my…](https://medium.com/@krivadna/tesla-com-patched-exposed-damage-disclosure-files-leaking-vin-number-after-bugcrowd-rejected-my-d6cafcaec98e?source=rss------bug_bounty-5) 
 
- - 💯October 24, 2025 - [Pentesting A Web Browser](https://medium.com/@mikeanthonyc/pentesting-a-web-browser-ce20b35ae321?source=rss------bug_bounty-5) 
+ - 💯October 26, 2025 - [CSRF Lab Solution: Token Not Tied to User Session](https://medium.com/@prasangampathak9/csrf-lab-solution-token-not-tied-to-user-session-4c84b58e20a0?source=rss------bug_bounty-5) 
 
- - 💯October 24, 2025 - [Injected #2: Lessons from Hacking a Financial Company](https://medium.com/@red.whisperer/injected-2-lessons-from-hacking-a-financial-company-a95c974a3604?source=rss------bug_bounty-5) 
+ - 💯October 26, 2025 - [JSON ResponseDisclosure: From Recon to Advanced Detection](https://osintteam.blog/json-responsedisclosure-from-recon-to-advanced-detection-3413df37461c?source=rss------bug_bounty-5) 
 
- - 💯October 24, 2025 - [New Bug Bounty Blog Is Live](https://medium.com/@Kapeka0/new-bug-bounty-blog-is-live-58bab17d8530?source=rss------bug_bounty-5) 
+ - 💯October 26, 2025 - [Part 1 of Abusing Envoy+Kubernetes Staging Servers &amp; Verb Tampering to achieve XSS, IDORs, and…](https://medium.com/@alimuhammadsecured/part-1-of-abusing-envoy-kubernetes-staging-servers-verb-tampering-to-achieve-xss-idors-and-8f4620c035b2?source=rss------bug_bounty-5) 
 
- - 💯October 24, 2025 - [The Art of Bug Report Writing: From Finding to Cashing](https://medium.com/@N0aziXss/the-art-of-bug-report-writing-from-finding-to-cashing-df7e2452ff08?source=rss------bug_bounty-5) 
+ - 💯October 25, 2025 - [How i win 1100 USD in bug bounty and this change my life in Bolivia](https://medium.com/@vanpedrazas/how-i-win-1100-usd-in-bug-bounty-and-this-change-my-life-in-bolivia-8cc58bbeb681?source=rss------bug_bounty-5) 
 
- - 💯October 24, 2025 - [Real Bugs from Timing Flaws in Web Services](https://medium.com/write-a-catalyst/real-bugs-from-timing-flaws-in-web-services-89c885c4ac02?source=rss------bug_bounty-5) 
+ - 💯October 25, 2025 - [The $0 Bounty That Taught Me the Most Valuable Lesson in Cybersecurity](https://medium.com/@contact_26633/the-0-bounty-that-taught-me-the-most-valuable-lesson-in-cybersecurity-47d2293f3a69?source=rss------bug_bounty-5) 
 
- - 💯October 24, 2025 - [My First Bug Bounty: Critical Account Deletion Vulnerability](https://medium.com/@turkymazen13/my-first-bug-bounty-critical-account-deletion-vulnerability-cdfcedaea344?source=rss------bug_bounty-5) 
+ - 💯October 25, 2025 - [How I Automated My GitHub Recon for Critical Bug Bounties](https://medium.com/@ibtissamhammadi1/how-i-automated-my-github-recon-for-critical-bug-bounties-34ed27660d3a?source=rss------bug_bounty-5) 
 
- - 💯October 24, 2025 - [Mastering XSS on a Bug Bounty Platform: Finding, Understanding &amp; Bypassing Defense.](https://medium.com/@manlukhi825/mastering-xss-on-a-bug-bounty-platform-finding-understanding-bypassing-defense-7a6693284091?source=rss------bug_bounty-5) 
+ - 💯October 25, 2025 - [Recon Like a Hunter: Practical Tips from Real Findings Part 1](https://medium.com/@GERRR4Y/recon-like-a-hunter-practical-tips-from-real-findings-part-1-d425d74c7c62?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
