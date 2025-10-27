@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 26, 2025 - [Privilege Escalation Turned a Regular User Into an Admin [part-1]](https://senoritaahunter.medium.com/privilege-escalation-turned-a-regular-user-into-an-admin-part-1-fbe3d82440ca?source=rss------bug_bounty-5) 
+ - 💯October 27, 2025 - [Why 90% of Websites Fail at Basic Security Headers](https://medium.com/@vipulsonule71/why-90-of-websites-fail-at-basic-security-headers-905b76a9c52c?source=rss------bug_bounty-5) 
 
- - 💯October 26, 2025 - [Tesla.com patched Exposed Damage Disclosure Files leaking VIN number after bugcrowd rejected my…](https://medium.com/@krivadna/tesla-com-patched-exposed-damage-disclosure-files-leaking-vin-number-after-bugcrowd-rejected-my-d6cafcaec98e?source=rss------bug_bounty-5) 
+ - 💯October 27, 2025 - [Every Beginner Misses Bugs — Until They Learn This Mindset](https://medium.com/@vivekps143/every-beginner-misses-bugs-until-they-learn-this-mindset-a995db2c4707?source=rss------bug_bounty-5) 
 
- - 💯October 26, 2025 - [CSRF Lab Solution: Token Not Tied to User Session](https://medium.com/@prasangampathak9/csrf-lab-solution-token-not-tied-to-user-session-4c84b58e20a0?source=rss------bug_bounty-5) 
+ - 💯October 27, 2025 - [#4 RFI: From an External URL Into your Application](https://infosecwriteups.com/4-rfi-from-an-external-url-into-your-application-a5aeb1c5958c?source=rss------bug_bounty-5) 
 
- - 💯October 26, 2025 - [JSON ResponseDisclosure: From Recon to Advanced Detection](https://osintteam.blog/json-responsedisclosure-from-recon-to-advanced-detection-3413df37461c?source=rss------bug_bounty-5) 
+ - 💯October 27, 2025 - [Week 15 — Automated JS Enum: Methodology &amp; Architecture](https://infosecwriteups.com/week-15-automated-js-enum-methodology-architecture-31becf8693ec?source=rss------bug_bounty-5) 
 
- - 💯October 26, 2025 - [Part 1 of Abusing Envoy+Kubernetes Staging Servers &amp; Verb Tampering to achieve XSS, IDORs, and…](https://medium.com/@alimuhammadsecured/part-1-of-abusing-envoy-kubernetes-staging-servers-verb-tampering-to-achieve-xss-idors-and-8f4620c035b2?source=rss------bug_bounty-5) 
+ - 💯October 27, 2025 - [How I Discovered an HTML Injection via a Signup Form](https://medium.com/@gehadr73/how-i-discovered-an-html-injection-via-a-signup-form-4aa29b7da2a0?source=rss------bug_bounty-5) 
 
- - 💯October 25, 2025 - [How i win 1100 USD in bug bounty and this change my life in Bolivia](https://medium.com/@vanpedrazas/how-i-win-1100-usd-in-bug-bounty-and-this-change-my-life-in-bolivia-8cc58bbeb681?source=rss------bug_bounty-5) 
+ - 💯October 26, 2025 - [Advanced Bug Bounty Recon: A Methodology That Uncovers Hidden Vulnerabilities](https://santhosh-adiga-u.medium.com/advanced-bug-bounty-recon-a-methodology-that-uncovers-hidden-vulnerabilities-7450bcf5200f?source=rss------bug_bounty-5) 
 
- - 💯October 25, 2025 - [The $0 Bounty That Taught Me the Most Valuable Lesson in Cybersecurity](https://medium.com/@contact_26633/the-0-bounty-that-taught-me-the-most-valuable-lesson-in-cybersecurity-47d2293f3a69?source=rss------bug_bounty-5) 
+ - 💯October 26, 2025 - [The Ultimate Payload Checklist for XSS, SQLi, LFI, and SSTI](https://santhosh-adiga-u.medium.com/the-ultimate-payload-checklist-for-xss-sqli-lfi-and-ssti-b3bd9f1be2a5?source=rss------bug_bounty-5) 
 
- - 💯October 25, 2025 - [How I Automated My GitHub Recon for Critical Bug Bounties](https://medium.com/@ibtissamhammadi1/how-i-automated-my-github-recon-for-critical-bug-bounties-34ed27660d3a?source=rss------bug_bounty-5) 
+ - 💯October 26, 2025 - [How To Not Get in Trouble Finding Beg Bounties](https://medium.com/activated-thinker/how-to-not-get-in-trouble-finding-beg-bounties-bee02cbef619?source=rss------bug_bounty-5) 
 
- - 💯October 25, 2025 - [Recon Like a Hunter: Practical Tips from Real Findings Part 1](https://medium.com/@GERRR4Y/recon-like-a-hunter-practical-tips-from-real-findings-part-1-d425d74c7c62?source=rss------bug_bounty-5) 
+ - 💯October 26, 2025 - [Pentesting Firebase](https://ramizsmnov.medium.com/pentesting-firebase-f723fd510dce?source=rss------bug_bounty-5) 
+
+ - 💯October 26, 2025 - [Post-Exploitation Toolkit: 25 Commands Every Hacker Uses &lpar;Step-by-Step Guide&rpar;](https://medium.com/@verylazytech/post-exploitation-toolkit-25-commands-every-hacker-uses-step-by-step-guide-9075ebc6f7f1?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
