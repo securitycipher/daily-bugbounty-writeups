@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 30, 2025 - [SQL Injection — The Most Practical Guide for Beginners](https://kd-200.medium.com/sql-injection-the-most-practical-guide-for-beginners-e9d2ce946a49?source=rss------bug_bounty-5) 
+ - 💯October 31, 2025 - [Master Stealth Logging Bypass on Linux Systems: Step-by-Step Tactics for Ethical Hackers](https://medium.com/@verylazytech/master-stealth-logging-bypass-on-linux-systems-step-by-step-tactics-for-ethical-hackers-cd2112ef944a?source=rss------bug_bounty-5) 
 
- - 💯October 30, 2025 - [Race condition — Limits? What limits? — Webhook quota cracked &lpar;10 → 81&rpar;](https://0xmostafa.medium.com/race-condition-limits-what-limits-webhook-quota-cracked-10-81-3336afdd8ab4?source=rss------bug_bounty-5) 
+ - 💯October 31, 2025 - [At Rock Bottom, I Found My Way Back To Cybersecurity](https://medium.com/@cosmicbyt3/at-rock-bottom-i-found-my-way-back-to-cybersecurity-4068aed6bb34?source=rss------bug_bounty-5) 
 
- - 💯October 30, 2025 - [My Journey Into Cybersecurity: The Story of Haruki Kira](https://medium.com/@hrukkr/my-journey-into-cybersecurity-the-story-of-haruki-kira-6406c1c70e47?source=rss------bug_bounty-5) 
+ - 💯October 31, 2025 - [All About Recon — Bug Bounty](https://generativeai.pub/all-about-recon-bug-bounty-2ec869fcbe45?source=rss------bug_bounty-5) 
 
- - 💯October 30, 2025 - [☕ When a REST Route Spills the Beans: Finding an Author-enumeration Bug &lpar;CVE-2023–5561&rpar;](https://aiwolfie.medium.com/when-a-rest-route-spills-the-beans-finding-an-author-enumeration-bug-cve-2023-5561-ce0acde23653?source=rss------bug_bounty-5) 
+ - 💯October 31, 2025 - [Web Cache Poisoning — Part 2: Weaponizing Headers &amp; URL Discrepancies](https://medium.com/@Aacle/web-cache-poisoning-part-2-weaponizing-headers-url-discrepancies-bbb7b2c0159a?source=rss------bug_bounty-5) 
 
- - 💯October 29, 2025 - [Ghost HTTP Methods: How HTTP Verb Mutation Bypasses Modern WAFs across Middleware Layers](https://medium.com/@pratikdahal777/ghost-http-methods-how-http-verb-mutation-bypasses-modern-wafs-across-middleware-layers-32b66cd392ca?source=rss------bug_bounty-5) 
+ - 💯October 31, 2025 - [When Error Messages Leak More Than Logs: ORMs, Frameworks, and the Quiet Reconnaissance Problem](https://medium.com/@cameronbardin/when-error-messages-leak-more-than-logs-orms-frameworks-and-the-quiet-reconnaissance-problem-cfb336ce1117?source=rss------bug_bounty-5) 
 
- - 💯October 29, 2025 - [Hacking APIs: Cache Poisoning and Deception Attacks](https://iaraoz.medium.com/hacking-apis-cache-poisoning-and-deception-attacks-19527e2d7e6e?source=rss------bug_bounty-5) 
+ - 💯October 31, 2025 - [Guía Completa de RustScan: Escaneo de Puertos Ultrarrápido](https://medium.com/@jpablo13/gu%C3%ADa-completa-de-rustscan-escaneo-de-puertos-ultrarr%C3%A1pido-da6ab7b7fed7?source=rss------bug_bounty-5) 
 
- - 💯October 29, 2025 - [Automation Will Fail You: The Harsh Truth Every Bug Bounty Hunter Learns the Hard Way](https://medium.com/@prayerskhristi/automation-will-fail-you-the-harsh-truth-every-bug-bounty-hunter-learns-the-hard-way-ad02cbfc7bda?source=rss------bug_bounty-5) 
+ - 💯October 30, 2025 - [Hacking APIs: HTTP Parameter Pollution](https://iaraoz.medium.com/hacking-apis-http-parameter-pollution-fba389e55ada?source=rss------bug_bounty-5) 
 
- - 💯October 29, 2025 - [The Cat-and-Mouse Game of a Cloud Metadata SSRF Vulnerability](https://systemweakness.com/the-cat-and-mouse-game-of-a-cloud-metadata-ssrf-vulnerability-6efbb26e216a?source=rss------bug_bounty-5) 
+ - 💯October 30, 2025 - [How I Made ChatGPT My Personal Hacking Assistant &lpar;And Broke Their “AI-Powered” Security&rpar;](https://infosecwriteups.com/how-i-made-chatgpt-my-personal-hacking-assistant-and-broke-their-ai-powered-security-ee37d4a725c2?source=rss------bug_bounty-5) 
 
- - 💯October 29, 2025 - [How I Became the Digital Spider-Man: Swinging Through Every Security Layer ️️](https://medium.com/@iski/how-i-became-the-digital-spider-man-swinging-through-every-security-layer-%EF%B8%8F-%EF%B8%8F-7882e394832b?source=rss------bug_bounty-5) 
+ - 💯October 30, 2025 - [Deep Shadow Wings: Powerful Web Recon — Simple, Fast, Effective](https://adce626.medium.com/deep-shadow-wings-powerful-web-recon-simple-fast-effective-305648621512?source=rss------bug_bounty-5) 
 
- - 💯October 29, 2025 - [From a Simple IDOR to a Major Security Finding](https://medium.com/@ibtissamhammadi1/from-a-simple-idor-to-a-major-security-finding-6386077e4b8d?source=rss------bug_bounty-5) 
+ - 💯October 30, 2025 - [How Leaked Credentials can benefit Bug Bounty Hunters](https://medium.com/@breachcollectiondotcom/how-leaked-credentials-can-benefit-bug-bounty-hunters-71252b8781da?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
