@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 31, 2025 - [Master Stealth Logging Bypass on Linux Systems: Step-by-Step Tactics for Ethical Hackers](https://medium.com/@verylazytech/master-stealth-logging-bypass-on-linux-systems-step-by-step-tactics-for-ethical-hackers-cd2112ef944a?source=rss------bug_bounty-5) 
+ - 💯November 1, 2025 - [How I Stay Active in Bug Bounty While Working 9–5](https://shaifsec.medium.com/how-i-stay-active-in-bug-bounty-while-working-9-5-7ab95e853c7a?source=rss------bug_bounty-5) 
 
- - 💯October 31, 2025 - [At Rock Bottom, I Found My Way Back To Cybersecurity](https://medium.com/@cosmicbyt3/at-rock-bottom-i-found-my-way-back-to-cybersecurity-4068aed6bb34?source=rss------bug_bounty-5) 
+ - 💯November 1, 2025 - [️‍♂️ All About Scanning in Bug Bounty &lpar;2025 Edition&rpar;- Earning 2$$](https://medium.com/@xmxa-tech/%EF%B8%8F-%EF%B8%8F-all-about-scanning-in-bug-bounty-2025-edition-earning-2-b758c69746bb?source=rss------bug_bounty-5) 
 
- - 💯October 31, 2025 - [All About Recon — Bug Bounty](https://generativeai.pub/all-about-recon-bug-bounty-2ec869fcbe45?source=rss------bug_bounty-5) 
+ - 💯November 1, 2025 - [RustScan Guide for Ultra-Fast Port Scanning](https://medium.com/@jpablo13/rustscan-guide-for-ultra-fast-port-scanning-77a7aa3cac21?source=rss------bug_bounty-5) 
 
- - 💯October 31, 2025 - [Web Cache Poisoning — Part 2: Weaponizing Headers &amp; URL Discrepancies](https://medium.com/@Aacle/web-cache-poisoning-part-2-weaponizing-headers-url-discrepancies-bbb7b2c0159a?source=rss------bug_bounty-5) 
+ - 💯October 31, 2025 - [Race condition vulnerability occurs when websites process requests concurrently.](https://medium.com/@ebrahimmagdy735/race-condition-vulnerability-occurs-when-websites-process-requests-concurrently-43f3e3cd2350?source=rss------bug_bounty-5) 
 
- - 💯October 31, 2025 - [When Error Messages Leak More Than Logs: ORMs, Frameworks, and the Quiet Reconnaissance Problem](https://medium.com/@cameronbardin/when-error-messages-leak-more-than-logs-orms-frameworks-and-the-quiet-reconnaissance-problem-cfb336ce1117?source=rss------bug_bounty-5) 
+ - 💯October 31, 2025 - [How I Got a Four-Digit Bug Bounty From Grammarly](https://hexaphp.medium.com/how-i-got-a-four-digit-bug-bounty-from-grammarly-187038396843?source=rss------bug_bounty-5) 
 
- - 💯October 31, 2025 - [Guía Completa de RustScan: Escaneo de Puertos Ultrarrápido](https://medium.com/@jpablo13/gu%C3%ADa-completa-de-rustscan-escaneo-de-puertos-ultrarr%C3%A1pido-da6ab7b7fed7?source=rss------bug_bounty-5) 
+ - 💯October 31, 2025 - [LLM Invisible Prompt Smuggling &amp; How YOU Can Earn A Quick $10k &lpar;This Isn’t Clickbait, I Swear&rpar;](https://medium.com/@justas_b1/llm-invisible-prompt-smuggling-how-you-can-earn-a-quick-10k-this-isnt-clickbait-i-swear-2df2de834f81?source=rss------bug_bounty-5) 
 
- - 💯October 30, 2025 - [Hacking APIs: HTTP Parameter Pollution](https://iaraoz.medium.com/hacking-apis-http-parameter-pollution-fba389e55ada?source=rss------bug_bounty-5) 
+ - 💯October 31, 2025 - [How I Found a Hidden Data Leak and Won a Bounty — The Practical Guide to Detecting Data…](https://medium.com/@zoningxtr/how-i-found-a-hidden-data-leak-and-won-a-bounty-the-practical-guide-to-detecting-data-fafba9fc6266?source=rss------bug_bounty-5) 
 
- - 💯October 30, 2025 - [How I Made ChatGPT My Personal Hacking Assistant &lpar;And Broke Their “AI-Powered” Security&rpar;](https://infosecwriteups.com/how-i-made-chatgpt-my-personal-hacking-assistant-and-broke-their-ai-powered-security-ee37d4a725c2?source=rss------bug_bounty-5) 
+ - 💯October 31, 2025 - [The Ultimate Bug Hunter’s Recon workflow: From Subdomains to Critical Vulnerabilities](https://medium.com/@manojxshrestha/the-ultimate-bug-hunters-recon-workflow-from-subdomains-to-critical-vulnerabilities-befcef19307f?source=rss------bug_bounty-5) 
 
- - 💯October 30, 2025 - [Deep Shadow Wings: Powerful Web Recon — Simple, Fast, Effective](https://adce626.medium.com/deep-shadow-wings-powerful-web-recon-simple-fast-effective-305648621512?source=rss------bug_bounty-5) 
+ - 💯October 31, 2025 - [Google Dorking for Test Environments](https://medium.com/@cybersecplayground/google-dorking-for-test-environments-ae70958fa112?source=rss------bug_bounty-5) 
 
- - 💯October 30, 2025 - [How Leaked Credentials can benefit Bug Bounty Hunters](https://medium.com/@breachcollectiondotcom/how-leaked-credentials-can-benefit-bug-bounty-hunters-71252b8781da?source=rss------bug_bounty-5) 
+ - 💯October 31, 2025 - [HTTP Methods: The Core of Web Communication](https://infyra.medium.com/http-methods-the-core-of-web-communication-33c28c826850?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
