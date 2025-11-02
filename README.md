@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 1, 2025 - [How I Stay Active in Bug Bounty While Working 9–5](https://shaifsec.medium.com/how-i-stay-active-in-bug-bounty-while-working-9-5-7ab95e853c7a?source=rss------bug_bounty-5) 
+ - 💯November 2, 2025 - [When an Endpoint Enumerator Turned Into a P1 information disclosure bug Here’s What I Found](https://medium.com/@Mayowaomolabi/when-an-endpoint-enumerator-turned-into-a-p1-information-disclosure-bug-heres-what-i-found-9cb6bd3b6752?source=rss------bug_bounty-5) 
 
- - 💯November 1, 2025 - [️‍♂️ All About Scanning in Bug Bounty &lpar;2025 Edition&rpar;- Earning 2$$](https://medium.com/@xmxa-tech/%EF%B8%8F-%EF%B8%8F-all-about-scanning-in-bug-bounty-2025-edition-earning-2-b758c69746bb?source=rss------bug_bounty-5) 
+ - 💯November 1, 2025 - [I Followed This Method To Find XSS In 5 Minutes](https://medium.com/@ibtissam1/i-followed-this-method-to-find-xss-in-5-minutes-74a4390ae1ec?source=rss------bug_bounty-5) 
 
- - 💯November 1, 2025 - [RustScan Guide for Ultra-Fast Port Scanning](https://medium.com/@jpablo13/rustscan-guide-for-ultra-fast-port-scanning-77a7aa3cac21?source=rss------bug_bounty-5) 
+ - 💯November 1, 2025 - [Custom Tooling Using Zaproxy …](https://medium.com/@lukewago/custom-tooling-using-zaproxy-498605a2447b?source=rss------bug_bounty-5) 
 
- - 💯October 31, 2025 - [Race condition vulnerability occurs when websites process requests concurrently.](https://medium.com/@ebrahimmagdy735/race-condition-vulnerability-occurs-when-websites-process-requests-concurrently-43f3e3cd2350?source=rss------bug_bounty-5) 
+ - 💯November 1, 2025 - [Bug Hunting](https://osintteam.blog/bug-hunting-4c782cbe6b69?source=rss------bug_bounty-5) 
 
- - 💯October 31, 2025 - [How I Got a Four-Digit Bug Bounty From Grammarly](https://hexaphp.medium.com/how-i-got-a-four-digit-bug-bounty-from-grammarly-187038396843?source=rss------bug_bounty-5) 
+ - 💯November 1, 2025 - [Automation VS Manual Hacking. How To Do Bug Hunting The Right Way?](https://medium.com/activated-thinker/automation-vs-manual-hacking-how-to-do-bug-hunting-the-right-way-c6e58232609f?source=rss------bug_bounty-5) 
 
- - 💯October 31, 2025 - [LLM Invisible Prompt Smuggling &amp; How YOU Can Earn A Quick $10k &lpar;This Isn’t Clickbait, I Swear&rpar;](https://medium.com/@justas_b1/llm-invisible-prompt-smuggling-how-you-can-earn-a-quick-10k-this-isnt-clickbait-i-swear-2df2de834f81?source=rss------bug_bounty-5) 
+ - 💯November 1, 2025 - [Unauthorized Access to Internal Nginx Status Page via X-Forwarded-For Header](https://medium.com/@bytewreaker/unauthorized-access-to-internal-nginx-status-page-via-x-forwarded-for-header-31de9e8b4e28?source=rss------bug_bounty-5) 
 
- - 💯October 31, 2025 - [How I Found a Hidden Data Leak and Won a Bounty — The Practical Guide to Detecting Data…](https://medium.com/@zoningxtr/how-i-found-a-hidden-data-leak-and-won-a-bounty-the-practical-guide-to-detecting-data-fafba9fc6266?source=rss------bug_bounty-5) 
+ - 💯November 1, 2025 - [Authentication Bypass via Client-Side Response Tampering](https://medium.com/@bytewreaker/authentication-bypass-via-client-side-response-tampering-f79ad16dcef9?source=rss------bug_bounty-5) 
 
- - 💯October 31, 2025 - [The Ultimate Bug Hunter’s Recon workflow: From Subdomains to Critical Vulnerabilities](https://medium.com/@manojxshrestha/the-ultimate-bug-hunters-recon-workflow-from-subdomains-to-critical-vulnerabilities-befcef19307f?source=rss------bug_bounty-5) 
+ - 💯November 1, 2025 - [How a Single Response Manipulation Led to Admin Takeover — Tamil Nadu Government — Police…](https://systemweakness.com/how-a-single-response-manipulation-led-to-admin-takeover-tamil-nadu-government-police-0d66879b81a7?source=rss------bug_bounty-5) 
 
- - 💯October 31, 2025 - [Google Dorking for Test Environments](https://medium.com/@cybersecplayground/google-dorking-for-test-environments-ae70958fa112?source=rss------bug_bounty-5) 
+ - 💯November 1, 2025 - [The Great Tenant Mix-Up: How I Accidentally Became Every Company’s Employee](https://infosecwriteups.com/the-great-tenant-mix-up-how-i-accidentally-became-every-companys-employee-24418d7a6d38?source=rss------bug_bounty-5) 
 
- - 💯October 31, 2025 - [HTTP Methods: The Core of Web Communication](https://infyra.medium.com/http-methods-the-core-of-web-communication-33c28c826850?source=rss------bug_bounty-5) 
+ - 💯November 1, 2025 - [OTP Disclosure in Android App](https://medium.com/@bytewreaker/otp-disclosure-in-android-app-2de7d9660a81?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
