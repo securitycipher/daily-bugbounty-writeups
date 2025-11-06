@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 5, 2025 - [From Intent to Native Code: Exploiting a WebView’s JavascriptInterface via XSS](https://medium.com/@mohammadalmeastro/from-intent-to-native-code-exploiting-a-webviews-javascriptinterface-via-xss-8a1c1edff2e6?source=rss------bug_bounty-5) 
+ - 💯November 6, 2025 - [Reverse Engineering Common CMS Configs for Easy Wins: Step-by-Step Guide for Hackers](https://medium.com/@verylazytech/reverse-engineering-common-cms-configs-for-easy-wins-step-by-step-guide-for-hackers-c4a136c90919?source=rss------bug_bounty-5) 
 
- - 💯November 5, 2025 - [How I Stole an AI’s Diary and Found All Its Secrets](https://medium.com/@iski/how-i-stole-an-ais-diary-and-found-all-its-secrets-5d8786af54db?source=rss------bug_bounty-5) 
+ - 💯November 6, 2025 - [How Bug Bounty Programs are Improving Software Security](https://osintteam.blog/how-bug-bounty-programs-are-improving-software-security-f1b8efa64d3f?source=rss------bug_bounty-5) 
 
- - 💯November 5, 2025 - [How I Found My First Web Bug as a Beginner](https://medium.com/@shaikhminhaz1975/how-i-found-my-first-web-bug-as-a-beginner-960712e8002f?source=rss------bug_bounty-5) 
+ - 💯November 6, 2025 - [Modern Recon: How Hackers Use AI to Hunt Vulnerabilities Smarter](https://osintteam.blog/modern-recon-how-hackers-use-ai-to-hunt-vulnerabilities-smarter-5a3cd87c3671?source=rss------bug_bounty-5) 
 
- - 💯November 5, 2025 - [Internal Cache Poisoning: How Multi-Layer Caches Can Be Exploited for Stored XSS](https://osintteam.blog/internal-cache-poisoning-how-multi-layer-caches-can-be-exploited-for-stored-xss-9e15b0367780?source=rss------bug_bounty-5) 
+ - 💯November 5, 2025 - [Authentication Token Stored in localStorage](https://medium.com/@Abhiii_Sharma/authentication-token-stored-in-localstorage-15edd8d7a104?source=rss------bug_bounty-5) 
 
- - 💯November 5, 2025 - [Meta bug bounty — One Last Spark AR RCE](https://fadyothman.medium.com/meta-bug-bounty-one-last-spark-ar-rce-343174b628cd?source=rss------bug_bounty-5) 
+ - 💯November 5, 2025 - [Midnight Bounty: How I Found a QA Portal Exposed to the Internet and Got $2,500 Overnight](https://codewithvamp.medium.com/midnight-bounty-how-i-found-a-qa-portal-exposed-to-the-internet-and-got-2-500-overnight-6413393b6cb7?source=rss------bug_bounty-5) 
 
- - 💯November 5, 2025 - [Hackviser — Cryptanalysis walkthrough](https://mukibas37.medium.com/hackviser-cryptanalysis-walkthrough-19b291173d00?source=rss------bug_bounty-5) 
+ - 💯November 5, 2025 - [Have You Ever Been Defrauded by Hackerone? You May Be Entitled To A Large Cash Settlement!](https://medium.com/@justas_b1/have-you-ever-been-defrauded-by-hackerone-you-may-be-entitled-to-a-large-cash-settlement-c3a1876ac2fa?source=rss------bug_bounty-5) 
 
- - 💯November 5, 2025 - [Advanced Guide to Penetration Testing in APIs &lpar;Part 1&rpar; OWASP Top 10 Mapping and Recognition Phases](https://medium.com/meetcyber/advanced-guide-to-penetration-testing-in-apis-part-1-owasp-top-10-mapping-and-recognition-phases-83f96ccc222e?source=rss------bug_bounty-5) 
+ - 💯November 5, 2025 - [BUG BOUNTY — ÖDÜL AVCILIĞI](https://turkiyeyayini.com/bug-bounty-%C3%B6d%C3%BCl-avcili%C4%9Fi-7ef15c8aa948?source=rss------bug_bounty-5) 
 
- - 💯November 4, 2025 - [Cracking the Chipotle Login: A Security Researcher’s Deep Dive into Account Brute Force and Bot…](https://medium.com/@ethan_hunt/cracking-the-chipotle-login-a-security-researchers-deep-dive-into-account-brute-force-and-bot-96749b6b5393?source=rss------bug_bounty-5) 
+ - 💯November 5, 2025 - [GraphQL Security: Complete Guide to Finding Hidden Vulnerabilities](https://medium.com/data-science-collective/graphql-security-complete-guide-to-finding-hidden-vulnerabilities-cfe590b468b4?source=rss------bug_bounty-5) 
 
- - 💯November 4, 2025 - [Simple IDORs Lead To PII Leaks Got $1476 Bounty](https://medium.com/@ferdusalam_65023/simple-idors-lead-to-pii-leaks-got-1476-bounty-aa3e06a5976b?source=rss------bug_bounty-5) 
-
- - 💯November 4, 2025 - [STON.fi Launches Bug Bounty Program Offering Up to $100,000 for Critical Vulnerabilities](https://medium.com/@johnnysylvanus456/ston-fi-launches-bug-bounty-program-offering-up-to-100-000-for-critical-vulnerabilities-b614e6e3774b?source=rss------bug_bounty-5) 
+ - 💯November 5, 2025 - [Bug Bounty for Beginners: A Direct, 2-Week Sprint to Start Hunting](https://medium.com/@MuhammedAsfan/bug-bounty-for-beginners-a-direct-2-week-sprint-to-start-hunting-f55262f6132f?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
