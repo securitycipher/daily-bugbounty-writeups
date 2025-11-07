@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 6, 2025 - [Reverse Engineering Common CMS Configs for Easy Wins: Step-by-Step Guide for Hackers](https://medium.com/@verylazytech/reverse-engineering-common-cms-configs-for-easy-wins-step-by-step-guide-for-hackers-c4a136c90919?source=rss------bug_bounty-5) 
+ - 💯November 7, 2025 - [Business Logic Error — Deleting the Project Owner by Manipulating a GraphQL Request](https://medium.com/@B14ck/business-logic-error-deleting-the-project-owner-by-manipulating-a-graphql-request-7e3bb5883d04?source=rss------bug_bounty-5) 
 
- - 💯November 6, 2025 - [How Bug Bounty Programs are Improving Software Security](https://osintteam.blog/how-bug-bounty-programs-are-improving-software-security-f1b8efa64d3f?source=rss------bug_bounty-5) 
+ - 💯November 7, 2025 - [Unrestricted Resource Consumption and Lack of Rate Limiting](https://medium.com/@jungoskillet/unrestricted-resource-consumption-and-lack-of-rate-limiting-fc1ab69e73b9?source=rss------bug_bounty-5) 
 
- - 💯November 6, 2025 - [Modern Recon: How Hackers Use AI to Hunt Vulnerabilities Smarter](https://osintteam.blog/modern-recon-how-hackers-use-ai-to-hunt-vulnerabilities-smarter-5a3cd87c3671?source=rss------bug_bounty-5) 
+ - 💯November 7, 2025 - [How Hacking for Free Made Me Employable](https://medium.com/@atomiczsec/how-hacking-for-free-made-me-employable-cfe6a9cf984d?source=rss------bug_bounty-5) 
 
- - 💯November 5, 2025 - [Authentication Token Stored in localStorage](https://medium.com/@Abhiii_Sharma/authentication-token-stored-in-localstorage-15edd8d7a104?source=rss------bug_bounty-5) 
+ - 💯November 7, 2025 - [Bug Bounty Hunting — Complete Guide &lpar;Part-131&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-131-41f4d9bfe4c3?source=rss------bug_bounty-5) 
 
- - 💯November 5, 2025 - [Midnight Bounty: How I Found a QA Portal Exposed to the Internet and Got $2,500 Overnight](https://codewithvamp.medium.com/midnight-bounty-how-i-found-a-qa-portal-exposed-to-the-internet-and-got-2-500-overnight-6413393b6cb7?source=rss------bug_bounty-5) 
+ - 💯November 7, 2025 - [Bug Bounty Hunting — Complete Guide &lpar;Part-130&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-130-9715a26aaa38?source=rss------bug_bounty-5) 
 
- - 💯November 5, 2025 - [Have You Ever Been Defrauded by Hackerone? You May Be Entitled To A Large Cash Settlement!](https://medium.com/@justas_b1/have-you-ever-been-defrauded-by-hackerone-you-may-be-entitled-to-a-large-cash-settlement-c3a1876ac2fa?source=rss------bug_bounty-5) 
+ - 💯November 7, 2025 - [Bug Bounty Hunting — Complete Guide &lpar;Part-129&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-129-f37b98847ff6?source=rss------bug_bounty-5) 
 
- - 💯November 5, 2025 - [BUG BOUNTY — ÖDÜL AVCILIĞI](https://turkiyeyayini.com/bug-bounty-%C3%B6d%C3%BCl-avcili%C4%9Fi-7ef15c8aa948?source=rss------bug_bounty-5) 
+ - 💯November 7, 2025 - [CORS Vulnerability with Basic Origin Reflection](https://osintteam.blog/cors-vulnerability-with-basic-origin-reflection-8316a2cadc3c?source=rss------bug_bounty-5) 
 
- - 💯November 5, 2025 - [GraphQL Security: Complete Guide to Finding Hidden Vulnerabilities](https://medium.com/data-science-collective/graphql-security-complete-guide-to-finding-hidden-vulnerabilities-cfe590b468b4?source=rss------bug_bounty-5) 
+ - 💯November 7, 2025 - [Guía Avanzada de Penetration Testing en APIs &lpar;Parte 2&rpar; Explotación Práctica, Mitigación y Reporte…](https://medium.com/@jpablo13/gu%C3%ADa-avanzada-de-penetration-testing-en-apis-parte-2-explotaci%C3%B3n-pr%C3%A1ctica-mitigaci%C3%B3n-y-reporte-0a3faf4ea9b9?source=rss------bug_bounty-5) 
 
- - 💯November 5, 2025 - [Bug Bounty for Beginners: A Direct, 2-Week Sprint to Start Hunting](https://medium.com/@MuhammedAsfan/bug-bounty-for-beginners-a-direct-2-week-sprint-to-start-hunting-f55262f6132f?source=rss------bug_bounty-5) 
+ - 💯November 6, 2025 - [Account Takeover Via Reflected XSS](https://medium.com/@eng.mahmoudbughunter/account-takeover-via-reflected-xss-6cd982ebff8d?source=rss------bug_bounty-5) 
+
+ - 💯November 6, 2025 - [How I Found 6 Reflected XSS — and Turned Them into Account Takeover](https://potatohuman.medium.com/how-i-found-6-reflected-xss-and-turned-them-into-account-takeover-3c0ace797b0a?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
