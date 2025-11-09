@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 8, 2025 - [Master Real-World Web App Enumeration With Curl, Wget, and Bash: Step-By-Step Guide](https://medium.com/@verylazytech/master-real-world-web-app-enumeration-with-curl-wget-and-bash-step-by-step-guide-9f3b45103154?source=rss------bug_bounty-5) 
+ - 💯November 9, 2025 - [LFI to RCE: Mastering the Step-by-Step Path from File Inclusion to Full Shell Access](https://medium.com/@verylazytech/lfi-to-rce-mastering-the-step-by-step-path-from-file-inclusion-to-full-shell-access-634c577056e2?source=rss------bug_bounty-5) 
 
- - 💯November 8, 2025 - [Web3 &amp; Ai | Is it possible to get a $1M bounty?](https://0x21safe.medium.com/web3-ai-is-it-possible-to-get-a-1m-bounty-5b4daf07de79?source=rss------bug_bounty-5) 
+ - 💯November 9, 2025 - [My Cybersecurity Journey — day 1–11/8/25](https://medium.com/@cliffetond/my-cybersecurity-journey-day-1-11-8-25-814e41143162?source=rss------bug_bounty-5) 
 
- - 💯November 8, 2025 - [From Network Engineer to Bug Hunter — Day 1](https://medium.com/@MD5MICHAEL/from-network-engineer-to-bug-hunter-day-1-3cf1cdbd4900?source=rss------bug_bounty-5) 
+ - 💯November 9, 2025 - [How a Simple SVG File Turned Into a Data Exfiltration Vector in an Invoice System](https://medium.com/@bytewreaker/how-a-simple-svg-file-turned-into-a-data-exfiltration-vector-in-an-invoice-system-8cc78bedd1a8?source=rss------bug_bounty-5) 
 
- - 💯November 8, 2025 - [CORS Vulnerability with Trusted Null Origin](https://bashoverflow.medium.com/cors-vulnerability-with-trusted-null-origin-0f9593bd7674?source=rss------bug_bounty-5) 
+ - 💯November 9, 2025 - [Top Advanced XSS Payloads That Still Work in 2025](https://medium.com/@xmxa-tech/top-advanced-xss-payloads-that-still-work-in-2025-58f11191df8f?source=rss------bug_bounty-5) 
 
- - 💯November 8, 2025 - [Hydra: The Ultimate Password Cracking Tool for Penetration Testing](https://medium.com/h7w/hydra-the-ultimate-password-cracking-tool-for-penetration-testing-dff38f826f94?source=rss------bug_bounty-5) 
+ - 💯November 9, 2025 - [The Most Overlooked Bug Bounty Misconfiguration &lpar;Add This To Your Checklist&rpar;](https://medium.com/activated-thinker/the-most-overlooked-bug-bounty-misconfiguration-add-this-to-your-checklist-448cce763beb?source=rss------bug_bounty-5) 
 
- - 💯November 8, 2025 - [Advanced Guide to Penetration Testing in APIs &lpar;Part 2&rpar; Practical Exploitation, Mitigation, and PoC…](https://infosecwriteups.com/advanced-guide-to-penetration-testing-in-apis-part-2-practical-exploitation-mitigation-and-poc-140216b8eef3?source=rss------bug_bounty-5) 
+ - 💯November 9, 2025 - [Get Paid: Your First Bug Bounty](https://medium.com/@cocopelly255/get-paid-your-first-bug-bounty-6a0c52837408?source=rss------bug_bounty-5) 
 
- - 💯November 7, 2025 - [Mark Yourself As a Certified Hacker!](https://medium.com/great-hackers-battalion/mark-yourself-as-a-certified-hacker-c13600813af9?source=rss------bug_bounty-5) 
+ - 💯November 9, 2025 - [New Idea: Use AI to Become a Smarter, Faster Bug-Bounty Hunter — A Practical Guide](https://medium.com/@xmxa-tech/new-idea-use-ai-to-become-a-smarter-faster-bug-bounty-hunter-a-practical-guide-785e26e0c6a7?source=rss------bug_bounty-5) 
 
- - 💯November 7, 2025 - [KODOK: Advanced JavaScript Security Scanner for Bug Bounty Hunters](https://medium.com/@0xdfffffff/kodok-advanced-javascript-security-scanner-for-bug-bounty-hunters-bfac3d8f3927?source=rss------bug_bounty-5) 
+ - 💯November 9, 2025 - [XSSniper Masterclass Bypass WAFs and Find XSS &lpar;for bug bounty&rpar;](https://0dayscyber.medium.com/xssniper-masterclass-bypass-wafs-and-find-xss-for-bug-bounty-e2f045b50752?source=rss------bug_bounty-5) 
 
- - 💯November 7, 2025 - [Privacy as a Bounty Vector: GDPR for Higher-Severity Reports](https://medium.com/@cocopelly255/privacy-as-a-bounty-vector-gdpr-for-higher-severity-reports-595bb616add8?source=rss------bug_bounty-5) 
+ - 💯November 9, 2025 - [SSRF via filename -&gt; PDF Extractor &lpar;via SMTP&rpar;, detailed shi- write-up](https://medium.com/@zatikyan.sevada/ssrf-via-filename-pdf-extractor-via-smtp-detailed-shi-write-up-f494d320fa75?source=rss------bug_bounty-5) 
 
- - 💯November 7, 2025 - [Bugbounty ó demanda por intrusión la línea delgada en LATAM y el error de muchos sysadmins cuando…](https://medium.com/@hackingenmexico/bugbounty-%C3%B3-demanda-por-intrusi%C3%B3n-la-l%C3%ADnea-delgada-en-latam-y-el-error-de-muchos-sysadmins-cuando-f5519ad40b3e?source=rss------bug_bounty-5) 
+ - 💯November 8, 2025 - [When One Error Message Unlocked the Entire Kingdom: A Critical SQL Injection Tale](https://0dayscyber.medium.com/when-one-error-message-unlocked-the-entire-kingdom-a-critical-sql-injection-tale-1655c93dd2f8?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
