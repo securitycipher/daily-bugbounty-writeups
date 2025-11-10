@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 9, 2025 - [LFI to RCE: Mastering the Step-by-Step Path from File Inclusion to Full Shell Access](https://medium.com/@verylazytech/lfi-to-rce-mastering-the-step-by-step-path-from-file-inclusion-to-full-shell-access-634c577056e2?source=rss------bug_bounty-5) 
+ - 💯November 10, 2025 - [Mastering EDR Evasion: Learn Bypassing EDR with Simple Bash Tricks That Actually Work](https://medium.com/@verylazytech/mastering-edr-evasion-learn-bypassing-edr-with-simple-bash-tricks-that-actually-work-68f761ba2d20?source=rss------bug_bounty-5) 
 
- - 💯November 9, 2025 - [My Cybersecurity Journey — day 1–11/8/25](https://medium.com/@cliffetond/my-cybersecurity-journey-day-1-11-8-25-814e41143162?source=rss------bug_bounty-5) 
+ - 💯November 10, 2025 - [How I found Vulnerability on Google Forms &lpar;Duplicate Internal — Fixed&rpar;](https://medium.com/@ecdnts/how-i-found-vulnerability-on-google-forms-duplicate-internal-fixed-d02aa2e6357c?source=rss------bug_bounty-5) 
 
- - 💯November 9, 2025 - [How a Simple SVG File Turned Into a Data Exfiltration Vector in an Invoice System](https://medium.com/@bytewreaker/how-a-simple-svg-file-turned-into-a-data-exfiltration-vector-in-an-invoice-system-8cc78bedd1a8?source=rss------bug_bounty-5) 
+ - 💯November 10, 2025 - [BugBounty Fraud by cm.com](https://medium.com/@krivadna/bugbounty-fraud-by-cm-com-f9a942f37c9d?source=rss------bug_bounty-5) 
 
- - 💯November 9, 2025 - [Top Advanced XSS Payloads That Still Work in 2025](https://medium.com/@xmxa-tech/top-advanced-xss-payloads-that-still-work-in-2025-58f11191df8f?source=rss------bug_bounty-5) 
+ - 💯November 9, 2025 - [Privilege Escalation From Guest To Admin](https://infosecwriteups.com/privilege-escalation-from-guest-to-admin-c3d2eb357dd1?source=rss------bug_bounty-5) 
 
- - 💯November 9, 2025 - [The Most Overlooked Bug Bounty Misconfiguration &lpar;Add This To Your Checklist&rpar;](https://medium.com/activated-thinker/the-most-overlooked-bug-bounty-misconfiguration-add-this-to-your-checklist-448cce763beb?source=rss------bug_bounty-5) 
+ - 💯November 9, 2025 - [The Vibe Coder’s Blind Spot is Your Next Bug Bounty](https://sajjadsiam.medium.com/the-vibe-coders-blind-spot-is-your-next-bug-bounty-26387500acbb?source=rss------bug_bounty-5) 
 
- - 💯November 9, 2025 - [Get Paid: Your First Bug Bounty](https://medium.com/@cocopelly255/get-paid-your-first-bug-bounty-6a0c52837408?source=rss------bug_bounty-5) 
+ - 💯November 9, 2025 - [S3 Bucket Takeover, The Hidden Trap in the Cloud](https://icecream23.medium.com/s3-bucket-takeover-the-hidden-trap-in-the-cloud-afc013675504?source=rss------bug_bounty-5) 
 
- - 💯November 9, 2025 - [New Idea: Use AI to Become a Smarter, Faster Bug-Bounty Hunter — A Practical Guide](https://medium.com/@xmxa-tech/new-idea-use-ai-to-become-a-smarter-faster-bug-bounty-hunter-a-practical-guide-785e26e0c6a7?source=rss------bug_bounty-5) 
+ - 💯November 9, 2025 - [Is BurpAI Going to Replace Pentesters?](https://medium.com/@Aacle/is-burpai-going-to-replace-pentesters-1ac8856ee693?source=rss------bug_bounty-5) 
 
- - 💯November 9, 2025 - [XSSniper Masterclass Bypass WAFs and Find XSS &lpar;for bug bounty&rpar;](https://0dayscyber.medium.com/xssniper-masterclass-bypass-wafs-and-find-xss-for-bug-bounty-e2f045b50752?source=rss------bug_bounty-5) 
+ - 💯November 9, 2025 - [Should Beginners Hack on Vdps?](https://medium.com/activated-thinker/should-beginners-hack-on-vdps-5f62a4d6dd20?source=rss------bug_bounty-5) 
 
- - 💯November 9, 2025 - [SSRF via filename -&gt; PDF Extractor &lpar;via SMTP&rpar;, detailed shi- write-up](https://medium.com/@zatikyan.sevada/ssrf-via-filename-pdf-extractor-via-smtp-detailed-shi-write-up-f494d320fa75?source=rss------bug_bounty-5) 
-
- - 💯November 8, 2025 - [When One Error Message Unlocked the Entire Kingdom: A Critical SQL Injection Tale](https://0dayscyber.medium.com/when-one-error-message-unlocked-the-entire-kingdom-a-critical-sql-injection-tale-1655c93dd2f8?source=rss------bug_bounty-5) 
+ - 💯November 9, 2025 - [OWASP Top 10 in Ten Minutes!](https://infosecwriteups.com/owasp-top-10-in-ten-minutes-a6ef1efd1efa?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
