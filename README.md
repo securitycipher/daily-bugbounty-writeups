@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 13, 2025 - [Bug Bounty Hunting — Complete Guide &lpar;Part-142&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-142-c4d72c123c57?source=rss------bug_bounty-5) 
+ - 💯November 14, 2025 - [Information Disclosure in APIs](https://medium.com/@jungoskillet/information-disclosure-in-apis-e52825527ac8?source=rss------bug_bounty-5) 
 
- - 💯November 13, 2025 - [Bug Bounty Hunting — Complete Guide &lpar;Part-141&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-141-d4dec569e264?source=rss------bug_bounty-5) 
+ - 💯November 14, 2025 - [Cache Poisoning: How We Analyzed $44K in Bug Bounties](https://medium.com/@Aacle/cache-poisoning-how-we-analyzed-44k-in-bug-bounties-eda1107c779a?source=rss------bug_bounty-5) 
 
- - 💯November 13, 2025 - [My First Bug Bounty Experience](https://medium.com/data-and-beyond/my-first-bug-bounty-experience-9897db5c3076?source=rss------bug_bounty-5) 
+ - 💯November 14, 2025 - [$6000 Bounty: Breakdown XSS Vulnerability](https://osintteam.blog/6000-bounty-breakdown-xss-vulnerability-e03f3f537c6d?source=rss------bug_bounty-5) 
 
- - 💯November 13, 2025 - [Privilege Escalation via GraphQL: Editors Can Become Owners Through the “Share” Flow](https://medium.com/@B14ck/privilege-escalation-via-graphql-editors-can-become-owners-through-the-share-flow-b67782b98804?source=rss------bug_bounty-5) 
+ - 💯November 14, 2025 - [$650 Bounty for a Beginner Friendly Bug: Blind XSS in Rockstar Games’ Admin Panel](https://osintteam.blog/650-bounty-for-a-beginner-friendly-bug-blind-xss-in-rockstar-games-admin-panel-3bfdf6a352b0?source=rss------bug_bounty-5) 
 
- - 💯November 13, 2025 - [How to Get Your First CVE as a Beginner](https://cyberhrsh.medium.com/how-to-get-your-first-cve-as-a-beginner-2d4122121ed4?source=rss------bug_bounty-5) 
+ - 💯November 14, 2025 - [How I Became the #1 Security Researcher on the DHS Vulnerability Disclosure Program](https://medium.com/@philipgarabandic/how-i-became-the-1-security-researcher-on-the-dhs-vulnerability-disclosure-program-cf75da2b83be?source=rss------bug_bounty-5) 
 
- - 💯November 13, 2025 - [Improper Assets Management&lpar;Improper Inventory Management-2023&rpar;](https://medium.com/@jungoskillet/improper-assets-management-improper-inventory-management-2023-cf7f2790fa57?source=rss------bug_bounty-5) 
+ - 💯November 14, 2025 - [Introducing Ph.Sh_URL: Your New Go-To OSINT Tool for URL Discovery](https://medium.com/@PhilopaterSh/introducing-ph-sh-url-your-new-go-to-osint-tool-for-url-discovery-709f1036e56f?source=rss------bug_bounty-5) 
 
- - 💯November 13, 2025 - [$4500 Local File Inclusion: The Tiny Parameter That Exposed an Entire Infrastructure](https://medium.com/@cyberknight/4500-local-file-inclusion-the-tiny-parameter-that-exposed-an-entire-infrastructure-74f7d3cc669c?source=rss------bug_bounty-5) 
+ - 💯November 14, 2025 - [BOLA &lpar;IDOR&rpar;: La Falla Crítica de Autorización en APIs y Detección en Bug Bounty](https://medium.com/@jpablo13/bola-idor-la-falla-cr%C3%ADtica-de-autorizaci%C3%B3n-en-apis-y-detecci%C3%B3n-en-bug-bounty-3f50b58c3da9?source=rss------bug_bounty-5) 
 
- - 💯November 12, 2025 - [Mistakes That I Made Before I Got My First Bounty](https://medium.com/@silentcipher420/mistakes-that-i-made-before-i-got-my-first-bounty-5d460eae31b6?source=rss------bug_bounty-5) 
+ - 💯November 13, 2025 - [Please  Stop waste your time for reporting a false security vulnerabilities used AI!](https://pwn0sec.medium.com/please-stop-waste-your-time-for-reporting-a-false-security-vulnerabilities-used-ai-09243aba8af1?source=rss------bug_bounty-5) 
 
- - 💯November 12, 2025 - [How We Made $67,000+ Using The New “E/B” Attack Vector — And Other Bug Bounty Tips](https://medium.com/@justas_b1/how-we-made-67-000-using-the-new-e-b-attack-vector-and-other-bug-bounty-tips-753ebf8ab54b?source=rss------bug_bounty-5) 
-
- - 💯November 12, 2025 - [This Google Dorking Trick can get you $5000 Bounty [No Cap]](https://medium.com/@prayerskhristi/this-google-dorking-trick-can-get-you-5000-bounty-no-cap-da03a3c36355?source=rss------bug_bounty-5) 
+ - 💯November 13, 2025 - [The Bug I Found Twice On Microsoft](https://sudoaman.medium.com/the-bug-i-found-twice-on-microsoft-bfd23a58d5c1?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
