@@ -2,21 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 14, 2025 - [Information Disclosure in APIs](https://medium.com/@jungoskillet/information-disclosure-in-apis-e52825527ac8?source=rss------bug_bounty-5) 
+ - 💯November 15, 2025 - [Master the Art of Writing Better Cybersecurity Reports with AI: Step-by-Step Guide for Pros](https://medium.com/@verylazytech/master-the-art-of-writing-better-cybersecurity-reports-with-ai-step-by-step-guide-for-pros-e273b75389ae?source=rss------bug_bounty-5) 
 
- - 💯November 14, 2025 - [Cache Poisoning: How We Analyzed $44K in Bug Bounties](https://medium.com/@Aacle/cache-poisoning-how-we-analyzed-44k-in-bug-bounties-eda1107c779a?source=rss------bug_bounty-5) 
+ - 💯November 15, 2025 - [When Reading the Source Code Is the Real Hack: A Web Challenge Story | v1t CTF](https://infosecwriteups.com/when-reading-the-source-code-is-the-real-hack-a-web-challenge-story-v1t-ctf-b6adfcaa0fee?source=rss------bug_bounty-5) 
 
- - 💯November 14, 2025 - [$6000 Bounty: Breakdown XSS Vulnerability](https://osintteam.blog/6000-bounty-breakdown-xss-vulnerability-e03f3f537c6d?source=rss------bug_bounty-5) 
+ - 💯November 15, 2025 - [How I Got a Letter of Recognition from NASA &lpar;And How You Can Too&rpar;](https://medium.com/@philipgarabandic/how-i-got-a-letter-of-recognition-from-nasa-and-how-you-can-too-006f1b4c2649?source=rss------bug_bounty-5) 
 
- - 💯November 14, 2025 - [$650 Bounty for a Beginner Friendly Bug: Blind XSS in Rockstar Games’ Admin Panel](https://osintteam.blog/650-bounty-for-a-beginner-friendly-bug-blind-xss-in-rockstar-games-admin-panel-3bfdf6a352b0?source=rss------bug_bounty-5) 
+ - 💯November 15, 2025 - [API1:2023 BOLA &lpar;IDOR&rpar;: Critical API Authorization Flaw &amp; Bug Bounty Detection](https://systemweakness.com/bola-idor-critical-api-authorization-flaw-bug-bounty-detection-3203133a5040?source=rss------bug_bounty-5) 
 
- - 💯November 14, 2025 - [How I Became the #1 Security Researcher on the DHS Vulnerability Disclosure Program](https://medium.com/@philipgarabandic/how-i-became-the-1-security-researcher-on-the-dhs-vulnerability-disclosure-program-cf75da2b83be?source=rss------bug_bounty-5) 
+ - 💯November 14, 2025 - [Critical Broken Access Control: Public Tokens Enable Sensitive Actions](https://medium.com/@thomasyoussef/critical-broken-access-control-public-tokens-enable-sensitive-actions-ada4a5dad40a?source=rss------bug_bounty-5) 
 
- - 💯November 14, 2025 - [Introducing Ph.Sh_URL: Your New Go-To OSINT Tool for URL Discovery](https://medium.com/@PhilopaterSh/introducing-ph-sh-url-your-new-go-to-osint-tool-for-url-discovery-709f1036e56f?source=rss------bug_bounty-5) 
+ - 💯November 14, 2025 - [Hidden Role, Full Takeover: How an Invite API Let Me Become an Organization Owner](https://medium.com/@0xm394tr0n/hidden-role-full-takeover-how-an-invite-api-let-me-become-an-organization-owner-86c9e55298e4?source=rss------bug_bounty-5) 
 
- - 💯November 14, 2025 - [BOLA &lpar;IDOR&rpar;: La Falla Crítica de Autorización en APIs y Detección en Bug Bounty](https://medium.com/@jpablo13/bola-idor-la-falla-cr%C3%ADtica-de-autorizaci%C3%B3n-en-apis-y-detecci%C3%B3n-en-bug-bounty-3f50b58c3da9?source=rss------bug_bounty-5) 
+ - 💯November 14, 2025 - [The Silent ATO](https://medium.com/@omaroymdm/the-silent-ato-238edcda6dd0?source=rss------bug_bounty-5) 
 
- - 💯November 13, 2025 - [Please  Stop waste your time for reporting a false security vulnerabilities used AI!](https://pwn0sec.medium.com/please-stop-waste-your-time-for-reporting-a-false-security-vulnerabilities-used-ai-09243aba8af1?source=rss------bug_bounty-5) 
+ - 💯November 14, 2025 - [Business logic lead to Permanently Locked Any Email Out of Their Account](https://medium.com/@0xvar/business-logic-lead-to-permanently-locked-any-email-out-of-their-account-c6077f2cee59?source=rss------bug_bounty-5) 
 
- - 💯November 13, 2025 - [The Bug I Found Twice On Microsoft](https://sudoaman.medium.com/the-bug-i-found-twice-on-microsoft-bfd23a58d5c1?source=rss------bug_bounty-5) 
+ - 💯November 14, 2025 - [How i Found My first IDOR On Heavily Tested Target](https://medium.com/@pawanparmarofficial45/how-i-found-my-first-idor-on-heavily-tested-target-ace3322824cc?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
