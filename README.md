@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 15, 2025 - [Master the Art of Writing Better Cybersecurity Reports with AI: Step-by-Step Guide for Pros](https://medium.com/@verylazytech/master-the-art-of-writing-better-cybersecurity-reports-with-ai-step-by-step-guide-for-pros-e273b75389ae?source=rss------bug_bounty-5) 
+ - 💯November 16, 2025 - [Step-by-Step Guide: How to Build a Lightweight Internal Pentest Toolkit That Just Works](https://medium.com/@verylazytech/step-by-step-guide-how-to-build-a-lightweight-internal-pentest-toolkit-that-just-works-ebcc188b2ca6?source=rss------bug_bounty-5) 
 
- - 💯November 15, 2025 - [When Reading the Source Code Is the Real Hack: A Web Challenge Story | v1t CTF](https://infosecwriteups.com/when-reading-the-source-code-is-the-real-hack-a-web-challenge-story-v1t-ctf-b6adfcaa0fee?source=rss------bug_bounty-5) 
+ - 💯November 16, 2025 - [Windows Security: Abusing Access Tokens | A Practical CTF Walkthrough](https://medium.com/@cocopelly255/windows-security-abusing-access-tokens-a-practical-ctf-walkthrough-800b8e633ffe?source=rss------bug_bounty-5) 
 
- - 💯November 15, 2025 - [How I Got a Letter of Recognition from NASA &lpar;And How You Can Too&rpar;](https://medium.com/@philipgarabandic/how-i-got-a-letter-of-recognition-from-nasa-and-how-you-can-too-006f1b4c2649?source=rss------bug_bounty-5) 
+ - 💯November 16, 2025 - [OSCP Proving Grounds — Levram Walkthrough](https://medium.com/@cocopelly255/oscp-proving-grounds-levram-walkthrough-de90f5ccb12b?source=rss------bug_bounty-5) 
 
- - 💯November 15, 2025 - [API1:2023 BOLA &lpar;IDOR&rpar;: Critical API Authorization Flaw &amp; Bug Bounty Detection](https://systemweakness.com/bola-idor-critical-api-authorization-flaw-bug-bounty-detection-3203133a5040?source=rss------bug_bounty-5) 
+ - 💯November 16, 2025 - [File Upload Vulnerabilities for Bug Bounty](https://medium.com/@cocopelly255/file-upload-vulnerabilities-for-bug-bounty-3718567050c0?source=rss------bug_bounty-5) 
 
- - 💯November 14, 2025 - [Critical Broken Access Control: Public Tokens Enable Sensitive Actions](https://medium.com/@thomasyoussef/critical-broken-access-control-public-tokens-enable-sensitive-actions-ada4a5dad40a?source=rss------bug_bounty-5) 
+ - 💯November 16, 2025 - [Linux Privilege Escalation: Practical Guide to Kernel Exploits, Sudo, SUID, Capabilities, Cron…](https://infosecwriteups.com/linux-privilege-escalation-practical-guide-to-kernel-exploits-sudo-suid-capabilities-cron-472cff83bd9b?source=rss------bug_bounty-5) 
 
- - 💯November 14, 2025 - [Hidden Role, Full Takeover: How an Invite API Let Me Become an Organization Owner](https://medium.com/@0xm394tr0n/hidden-role-full-takeover-how-an-invite-api-let-me-become-an-organization-owner-86c9e55298e4?source=rss------bug_bounty-5) 
+ - 💯November 15, 2025 - [I Built a Simple Script That Found Hidden Race Conditions](https://medium.com/@ibtissam1/i-built-a-simple-script-that-found-hidden-race-conditions-2a4c6366671c?source=rss------bug_bounty-5) 
 
- - 💯November 14, 2025 - [The Silent ATO](https://medium.com/@omaroymdm/the-silent-ato-238edcda6dd0?source=rss------bug_bounty-5) 
+ - 💯November 15, 2025 - [A Revolutionary Bug: How Accidentally Invented the “Informative” E-Commerce Experience](https://medium.com/meetcyber/a-revolutionary-bug-how-accidentally-invented-the-informative-e-commerce-experience-1882f3dfd1b5?source=rss------bug_bounty-5) 
 
- - 💯November 14, 2025 - [Business logic lead to Permanently Locked Any Email Out of Their Account](https://medium.com/@0xvar/business-logic-lead-to-permanently-locked-any-email-out-of-their-account-c6077f2cee59?source=rss------bug_bounty-5) 
+ - 💯November 15, 2025 - [Footprinting in Ethical Hacking: Your Complete OSINT Guide &lpar;Simple, Practical &amp; Powerful&rpar;](https://medium.com/@Purushothamr/footprinting-in-ethical-hacking-your-complete-osint-guide-simple-practical-powerful-99b2de8f1974?source=rss------bug_bounty-5) 
 
- - 💯November 14, 2025 - [How i Found My first IDOR On Heavily Tested Target](https://medium.com/@pawanparmarofficial45/how-i-found-my-first-idor-on-heavily-tested-target-ace3322824cc?source=rss------bug_bounty-5) 
+ - 💯November 15, 2025 - [Hijacking Reviews: IDOR is Everywhere](https://scriptjacker.medium.com/hijacking-reviews-idor-is-everywhere-32256f649cd5?source=rss------bug_bounty-5) 
+
+ - 💯November 15, 2025 - [3 Recon Tricks + Advanced Pivots for Hidden Asset Discovery](https://metiryx.medium.com/3-recon-tricks-advanced-pivots-for-hidden-asset-discovery-daccdaa9e074?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
