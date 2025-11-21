@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 19, 2025 - [From Play Store to Hall of Fame: My Journey Hunting Bugs in Government Mobile Apps](https://infosecwriteups.com/from-play-store-to-hall-of-fame-my-journey-hunting-bugs-in-government-mobile-apps-81f242ad8916?source=rss------bug_bounty-5) 
+ - 💯November 21, 2025 - [Injection flaws in APIs](https://medium.com/@jungoskillet/injection-flaws-in-apis-518c7810fd79?source=rss------bug_bounty-5) 
 
- - 💯November 19, 2025 - [API2:2023 Broken Authentication: Critical API Identity Flaws and JWT Attacks](https://medium.com/meetcyber/api2-2023-broken-authentication-critical-api-identity-flaws-and-jwt-attacks-c8a31e86b604?source=rss------bug_bounty-5) 
+ - 💯November 21, 2025 - [$XXX Bounty, How I Chained a Leaked AWS Secret Key into a Full Subdomain Takeover](https://medium.com/@m0n3m/xxx-bounty-how-i-chained-a-leaked-aws-secret-key-into-a-full-subdomain-takeover-56bb4be67c4c?source=rss------bug_bounty-5) 
 
- - 💯November 18, 2025 - [How I Received an Appreciation Letter from NASA for Identifying a CVE](https://medium.com/@cybertechajju/how-i-received-an-appreciation-letter-from-nasa-for-identifying-a-cve-cc36b955f86e?source=rss------bug_bounty-5) 
+ - 💯November 21, 2025 - [Hacking Windows — Ethical Hacking](https://medium.com/@raihan408548/hacking-windows-ethical-hacking-4f92bcb48713?source=rss------bug_bounty-5) 
 
- - 💯November 18, 2025 - [CAPenX Exam Review: Is It Really That Difficult?](https://infosecwriteups.com/capenx-exam-review-is-it-really-that-difficult-530d65f61bcf?source=rss------bug_bounty-5) 
+ - 💯November 21, 2025 - [Cautionary Note for Security Researchers: My Experience With Beem Computer / Toby Brown](https://medium.com/@bugbountyscams/cautionary-note-for-security-researchers-my-experience-with-beem-computer-toby-brown-b844a894925d?source=rss------bug_bounty-5) 
 
- - 💯November 18, 2025 - [Breaking Authentication: How I Bypassed Email Verification by Changing One Word in the Response](https://akashmadanu.medium.com/breaking-authentication-how-i-bypassed-email-verification-by-changing-one-word-in-the-response-3bf37dd779c8?source=rss------bug_bounty-5) 
+ - 💯November 21, 2025 - [Give Me 5 Minutes and I’ll Fix Your Bug Bounty Strategy &lpar;The 2026 Blueprint&rpar;](https://medium.com/@Aacle/give-me-5-minutes-and-ill-fix-your-bug-bounty-strategy-the-2025-blueprint-1262cb57589b?source=rss------bug_bounty-5) 
 
- - 💯November 18, 2025 - [# How I Fingerprinted the OpenAI 2025 ChatGPT Containers &lpar;Using Only the Free Tier&rpar;](https://medium.com/@antiibugss/how-i-fingerprinted-the-openai-2025-chatgpt-containers-using-only-the-free-tier-4be9c2740fd2?source=rss------bug_bounty-5) 
+ - 💯November 21, 2025 - [Hacking India’s biggest Cake Shop](https://osintteam.blog/hacking-indias-biggest-cake-shop-aac8e586eb64?source=rss------bug_bounty-5) 
 
- - 💯November 18, 2025 - [GitHub Dorking: The Hunter’s Guide to Finding Secrets in Public Code](https://medium.com/@N0aziXss/github-dorking-the-hunters-guide-to-finding-secrets-in-public-code-f1b8582309e8?source=rss------bug_bounty-5) 
+ - 💯November 21, 2025 - [API3:2023 BOPLA &lpar;Broken Object Property Level Authorization&rpar;: Mass Assignment y Exposición de Datos](https://medium.com/@jpablo13/api3-2023-bopla-broken-object-property-level-authorization-mass-assignment-y-exposici%C3%B3n-de-datos-6e14e90821e8?source=rss------bug_bounty-5) 
 
- - 💯November 18, 2025 - [How I Found My First Bug Bounty In 24 Hours](https://medium.com/@ibtissam1/how-i-found-my-first-bug-bounty-in-24-hours-cd7ca5e18f50?source=rss------bug_bounty-5) 
+ - 💯November 20, 2025 - [A Security Vulnerability That Could Have Led to Full Twitter Account Takeover](https://medium.com/@bilmezberat69/a-security-vulnerability-that-could-have-led-to-full-twitter-account-takeover-6598a58de4c6?source=rss------bug_bounty-5) 
 
- - 💯November 18, 2025 - [How I Built a Robot That Finds Broken Authorization While I Sleep](https://infosecwriteups.com/how-i-built-a-robot-that-finds-broken-authorization-while-i-sleep-458e94f4d879?source=rss------bug_bounty-5) 
+ - 💯November 20, 2025 - [Overlooked Android Vulnerability: OAuth custom scheme hijacking](https://entropydrifter.medium.com/overlooked-android-vulnerability-oauth-custom-scheme-hijacking-4e7dbaad1678?source=rss------bug_bounty-5) 
 
- - 💯November 18, 2025 - [Broken Link Hijacking: Explained Simply](https://medium.com/@MuhammedAsfan/broken-link-hijacking-explained-simply-cacdbf2f3df7?source=rss------bug_bounty-5) 
+ - 💯November 20, 2025 - [Critical Full Organization Takeover via Email Verification Bypass](https://medium.com/@0xEsso/critical-full-organization-takeover-via-email-verification-bypass-3f5a55287824?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
