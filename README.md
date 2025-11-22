@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 21, 2025 - [Injection flaws in APIs](https://medium.com/@jungoskillet/injection-flaws-in-apis-518c7810fd79?source=rss------bug_bounty-5) 
+ - 💯November 22, 2025 - [Understanding Server Side Request Forgery &lpar;SSRF&rpar; — The Hidden Doorway into Your Servers](https://medium.com/meetcyber/understanding-server-side-request-forgery-ssrf-the-hidden-doorway-into-your-servers-e0526f07221b?source=rss------bug_bounty-5) 
 
- - 💯November 21, 2025 - [$XXX Bounty, How I Chained a Leaked AWS Secret Key into a Full Subdomain Takeover](https://medium.com/@m0n3m/xxx-bounty-how-i-chained-a-leaked-aws-secret-key-into-a-full-subdomain-takeover-56bb4be67c4c?source=rss------bug_bounty-5) 
+ - 💯November 22, 2025 - [Infinite Money Logic Flaw](https://osintteam.blog/infinite-money-logic-flaw-9f1c8cd67f3f?source=rss------bug_bounty-5) 
 
- - 💯November 21, 2025 - [Hacking Windows — Ethical Hacking](https://medium.com/@raihan408548/hacking-windows-ethical-hacking-4f92bcb48713?source=rss------bug_bounty-5) 
+ - 💯November 22, 2025 - [API3:2023 BOPLA &lpar;Broken Object Property Level Authorization&rpar;: Mass Assignment and Data Exposure](https://medium.com/@jpablo13/api3-2023-bopla-broken-object-property-level-authorization-mass-assignment-and-data-exposure-9ba6e432a1ea?source=rss------bug_bounty-5) 
 
- - 💯November 21, 2025 - [Cautionary Note for Security Researchers: My Experience With Beem Computer / Toby Brown](https://medium.com/@bugbountyscams/cautionary-note-for-security-researchers-my-experience-with-beem-computer-toby-brown-b844a894925d?source=rss------bug_bounty-5) 
+ - 💯November 21, 2025 - [How I Bypassed 2FA and Earned My Second Bug Bounty](https://medium.com/@hamza0555batna/how-i-bypassed-2fa-and-earned-my-second-bug-bounty-4ac3f2412cf7?source=rss------bug_bounty-5) 
 
- - 💯November 21, 2025 - [Give Me 5 Minutes and I’ll Fix Your Bug Bounty Strategy &lpar;The 2026 Blueprint&rpar;](https://medium.com/@Aacle/give-me-5-minutes-and-ill-fix-your-bug-bounty-strategy-the-2025-blueprint-1262cb57589b?source=rss------bug_bounty-5) 
+ - 💯November 21, 2025 - [Wordfence Weekly Review — November 10 — November 16, 2025](https://wordfence.medium.com/wordfence-weekly-review-november-10-november-16-2025-11b211f6e5df?source=rss------bug_bounty-5) 
 
- - 💯November 21, 2025 - [Hacking India’s biggest Cake Shop](https://osintteam.blog/hacking-indias-biggest-cake-shop-aac8e586eb64?source=rss------bug_bounty-5) 
+ - 💯November 21, 2025 - [The Unrestricted Key: How I Bypassed Microsoft’s API Controls](https://blog.leetsec.in/the-unrestricted-key-how-i-bypassed-microsofts-api-controls-b399009cc00c?source=rss------bug_bounty-5) 
 
- - 💯November 21, 2025 - [API3:2023 BOPLA &lpar;Broken Object Property Level Authorization&rpar;: Mass Assignment y Exposición de Datos](https://medium.com/@jpablo13/api3-2023-bopla-broken-object-property-level-authorization-mass-assignment-y-exposici%C3%B3n-de-datos-6e14e90821e8?source=rss------bug_bounty-5) 
+ - 💯November 21, 2025 - [Recon Like a Hunter: Practical Tips from Real Findings Part 2](https://medium.com/@GERRR4Y/recon-like-a-hunter-practical-tips-from-real-findings-part-2-e71bcf5af0ae?source=rss------bug_bounty-5) 
 
- - 💯November 20, 2025 - [A Security Vulnerability That Could Have Led to Full Twitter Account Takeover](https://medium.com/@bilmezberat69/a-security-vulnerability-that-could-have-led-to-full-twitter-account-takeover-6598a58de4c6?source=rss------bug_bounty-5) 
+ - 💯November 21, 2025 - [How I Broke a Realtime Editor’s WebSocket Authentication](https://medium.com/@darivxe/how-i-broke-a-realtime-editors-websocket-authentication-b3cf6dffd380?source=rss------bug_bounty-5) 
 
- - 💯November 20, 2025 - [Overlooked Android Vulnerability: OAuth custom scheme hijacking](https://entropydrifter.medium.com/overlooked-android-vulnerability-oauth-custom-scheme-hijacking-4e7dbaad1678?source=rss------bug_bounty-5) 
+ - 💯November 21, 2025 - [IDOR Part 4 — IoT &amp; API Gateway Exploitation](https://medium.com/@cybersecplayground/idor-part-4-iot-api-gateway-exploitation-8392c9aeb9be?source=rss------bug_bounty-5) 
 
- - 💯November 20, 2025 - [Critical Full Organization Takeover via Email Verification Bypass](https://medium.com/@0xEsso/critical-full-organization-takeover-via-email-verification-bypass-3f5a55287824?source=rss------bug_bounty-5) 
+ - 💯November 21, 2025 - [Why Most Bug Bounty Hunters Fail — and How to Win](https://levelup.gitconnected.com/why-most-bug-bounty-hunters-fail-and-how-to-win-3121ec732a22?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
