@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 26, 2025 - [Identity Is the New Perimeter: Why Credentials Are the #1 Attack Vector](https://medium.com/@paritoshblogs/identity-is-the-new-perimeter-why-credentials-are-the-1-attack-vector-7c889cdfea6f?source=rss------bug_bounty-5) 
+ - 💯November 27, 2025 - [How I Bypassed Enterprise File Restrictions with Just One Character](https://medium.com/@default_Ox/how-i-bypassed-enterprise-file-restrictions-with-just-one-character-f514080bed2f?source=rss------bug_bounty-5) 
 
- - 💯November 26, 2025 - [API4:2023 — Unrestricted Resource Consumption: Denial-of-Service Attacks Using APIs](https://medium.com/@jpablo13/api4-2023-unrestricted-resource-consumption-denial-of-service-attacks-using-apis-82e12fa6dd1e?source=rss------bug_bounty-5) 
+ - 💯November 27, 2025 - [Understanding Bug Bounty Programs &amp; How Students Can Start](https://medium.com/@ashikur.rahman498/understanding-bug-bounty-programs-how-students-can-start-b23415f95d89?source=rss------bug_bounty-5) 
 
- - 💯November 25, 2025 - [How I Found a Critical IDOR in a University System &lpar;and Why Ethical Hacking Matters&rpar;](https://medium.com/@j4k3l0ng/how-i-found-a-critical-idor-in-a-university-system-and-why-ethical-hacking-matters-5eb7f2ffffba?source=rss------bug_bounty-5) 
+ - 💯November 27, 2025 - [Apple Developer Stored XSS — $5,000 Bounty | Writeup 2025](https://medium.com/@ZombieHack/apple-developer-stored-xss-5-000-bounty-writeup-2025-cc34a030a5bf?source=rss------bug_bounty-5) 
 
- - 💯November 25, 2025 - [Low-level logic flaw — PortSwigger Academy](https://medium.com/@fatimahasan022/low-level-logic-flaw-portswigger-academy-c54efbffa4fd?source=rss------bug_bounty-5) 
+ - 💯November 27, 2025 - [How I do Recon on my target.com which gave me walkthrough to the bugbounty](https://medium.com/@shakthisv90/how-i-do-recon-on-my-target-com-which-gave-me-walkthrough-to-the-bugbounty-880c07c3f07d?source=rss------bug_bounty-5) 
 
- - 💯November 25, 2025 - [Your Blue Team is Incomplete Without Dark Web Monitoring — How I Found a Bug in Criminal Chatter…](https://infosecwriteups.com/your-blue-team-is-incomplete-without-dark-web-monitoring-how-i-found-a-bug-in-criminal-chatter-7ce363b69733?source=rss------bug_bounty-5) 
+ - 💯November 27, 2025 - [JWT Privilege Escalation to Container RCE via Jinja2 SSTI “ Intigriti challenge”](https://medium.com/@banertheinrich/jwt-privilege-escalation-to-container-rce-via-jinja2-ssti-intigriti-challenge-16186324241c?source=rss------bug_bounty-5) 
 
- - 💯November 25, 2025 - [From Dorks to Defense: How I Secured Two CERT-In Hall of Fames](https://infosecwriteups.com/from-dorks-to-defense-how-i-secured-two-cert-in-hall-of-fames-37f87f181bd0?source=rss------bug_bounty-5) 
+ - 💯November 26, 2025 - [How to Fix Wireshark Errors on Linux &lpar;The Complete Guide&rpar;](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/how-to-fix-wireshark-errors-on-linux-the-complete-guide-7ea25af0305d?source=rss------bug_bounty-5) 
 
- - 💯November 25, 2025 - [The New King of Vulnerabilities: Why Broken Access Control is the #1 Threat to Your App](https://medium.com/@MuhammedAsfan/the-new-king-of-vulnerabilities-why-broken-access-control-is-the-1-threat-to-your-app-5ef85f06b515?source=rss------bug_bounty-5) 
+ - 💯November 26, 2025 - [How to Pick the Right Bug Bounty Target](https://medium.com/@Appsec_pt/how-to-pick-the-right-bug-bounty-target-98f900033bfa?source=rss------bug_bounty-5) 
 
- - 💯November 25, 2025 - [Vulnerability Assessment and Exploitation: Leveraging GVM, Nmap, and RSH for Complete Host…](https://kizerh.medium.com/vulnerability-assessment-and-exploitation-leveraging-gvm-nmap-and-rsh-for-complete-host-6d09a12ea5df?source=rss------bug_bounty-5) 
+ - 💯November 26, 2025 - [Deploy Self-Hosted WAF for your Homelab and Web Applications using SafeLine.](https://pwndecoco.medium.com/deploy-self-hosted-waf-for-your-homelab-and-web-applications-using-safeline-42979d364cb4?source=rss------bug_bounty-5) 
 
- - 💯November 25, 2025 - [Exploiting an IDOR to Claim Unavailable Free Gifts](https://scriptjacker.medium.com/exploiting-an-idor-to-claim-unavailable-free-gifts-9a1ff645913d?source=rss------bug_bounty-5) 
+ - 💯November 26, 2025 - [How I Discovered an IDOR Vulnerability in a Parent/Child Management API](https://infosecwriteups.com/how-i-discovered-an-idor-vulnerability-in-a-parent-child-management-api-445c9471d23b?source=rss------bug_bounty-5) 
 
- - 💯November 25, 2025 - [My First Two Bounties](https://medium.com/@khaledelnabet/my-first-two-bounties-9e3f1f9c75bb?source=rss------bug_bounty-5) 
+ - 💯November 26, 2025 - [Business Logic Vulnerabilities — Hands-On Lab Series &lpar;PortSwigger Academy&rpar;](https://medium.com/@fatimahasan022/business-logic-vulnerabilities-hands-on-lab-series-portswigger-academy-e92b54210aeb?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
