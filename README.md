@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 6, 2025 - [soned ethical hacker, a bug bounty hunter, or the go-to security pro in your team, this guide will…](https://medium.com/@verylazytech/soned-ethical-hacker-a-bug-bounty-hunter-or-the-go-to-security-pro-in-your-team-this-guide-will-8e423ec2eea6?source=rss------bug_bounty-5) 
+ - 💯December 7, 2025 - [Advanced Search Techniques for Exposed Information — By Reju Kole](https://infosecwriteups.com/advanced-search-techniques-for-exposed-information-by-reju-kole-348264b00fb4?source=rss------bug_bounty-5) 
 
- - 💯December 6, 2025 - [React2Shell&lpar;CVE-2025–55182&rpar;: A Technical Deep Dive](https://medium.com/@vashuvats/react2shell-cve-2025-55182-a-technical-deep-dive-da81ab27e99f?source=rss------bug_bounty-5) 
+ - 💯December 7, 2025 - [Breaking the Perimeter: How My Custom Python Tool Bypassed a Federal Firewall](https://systemweakness.com/breaking-the-perimeter-how-my-custom-python-tool-bypassed-a-federal-firewall-86b2db874812?source=rss------bug_bounty-5) 
 
- - 💯December 6, 2025 - [The Midnight Pwn: How a News Alert Led to a Critical Bounty](https://santhosh-adiga-u.medium.com/the-midnight-pwn-how-a-news-alert-led-to-a-critical-bounty-a4abacbe2096?source=rss------bug_bounty-5) 
+ - 💯December 7, 2025 - [“The Failure That Accidentally Made Me a Bug Bounty Hunter”](https://medium.com/@moganti.nehanth2007/the-failure-that-accidentally-made-me-a-bug-bounty-hunter-34854bb1970d?source=rss------bug_bounty-5) 
 
- - 💯December 6, 2025 - [P0 — Key to The Kingdom: How I Found a Gift Card Creation API Key on GitHub &amp; What Happened Next](https://medium.com/@0581raghav/p0-key-to-the-kingdom-how-i-found-a-gift-card-creation-api-key-on-github-what-happened-next-cb0b0ebf20b6?source=rss------bug_bounty-5) 
+ - 💯December 7, 2025 - [Why P4 Bugs Still Pay Big in 2025: The Beginner-Friendly Bug Bounty Blueprint](https://medium.com/@kakashi.kx/why-p4-bugs-still-pay-big-in-2025-the-beginner-friendly-bug-bounty-blueprint-90a35d7ab5a4?source=rss------bug_bounty-5) 
 
- - 💯December 6, 2025 - [‎It’s Time to Shift Left: Why Security Can’t Be an Afterthought Anymore](https://medium.com/@ademiloyealhanifibraheem/its-time-to-shift-left-why-security-can-t-be-an-afterthought-anymore-aa7b47f51b0e?source=rss------bug_bounty-5) 
+ - 💯December 7, 2025 - [JWT Authentication Bypass via Algorithm Confusion](https://medium.com/meetcyber/jwt-authentication-bypass-via-algorithm-confusion-23101973c92f?source=rss------bug_bounty-5) 
 
- - 💯December 6, 2025 - [&lpar;OWASP API7:2023&rpar; Server-Side Request Forgery: Attack, Cloud Exploitation, and Mitigation](https://systemweakness.com/owasp-api7-2023-server-side-request-forgery-attack-cloud-exploitation-and-mitigation-d359b76f1a6f?source=rss------bug_bounty-5) 
+ - 💯December 6, 2025 - [Start With Recon, Not Exploits — The Beginner’s Guide to Bug Bounty Success](https://medium.com/@sd0.ghost404/start-with-recon-not-exploits-the-beginners-guide-to-bug-bounty-success-4fb297f5a2b6?source=rss------bug_bounty-5) 
 
- - 💯December 5, 2025 - [Subject: Mastering CSRF Attacks — Complete Step-By-Step Explanation + Burp Suite Demonstration…](https://medium.com/@zoningxtr/subject-mastering-csrf-attacks-complete-step-by-step-explanation-burp-suite-demonstration-3aa3db44ce6b?source=rss------bug_bounty-5) 
+ - 💯December 6, 2025 - [How to Use My Python Exploit Search Tool &lpar;Full User Guide for 2026&rpar;](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/how-to-use-my-python-exploit-search-tool-full-user-guide-for-2026-b80015d0309e?source=rss------bug_bounty-5) 
 
- - 💯December 5, 2025 - [7. Master the Basics, Break the Web: Backend Application Flow](https://abineshm.medium.com/7-master-the-basics-break-the-web-backend-application-flow-0f1355e034d2?source=rss------bug_bounty-5) 
+ - 💯December 6, 2025 - [When a Simple Request Replay Broke the Rules: How I Found a Hidden Email Logic Flaw in a Gaming…](https://medium.com/@anshubind89/when-a-simple-request-replay-broke-the-rules-how-i-found-a-hidden-email-logic-flaw-in-a-gaming-2c342d44a8b4?source=rss------bug_bounty-5) 
 
- - 💯December 5, 2025 - [CVE-2025-55182: A Pre-Authentication Remote Code Execution in Next.js - Complete Guide](https://osintteam.blog/cve-2025-55182-a-pre-authentication-remote-code-execution-in-next-js-complete-guide-e39a35fa3156?source=rss------bug_bounty-5) 
+ - 💯December 6, 2025 - [How I Found a Critical Bug as a Beginner](https://medium.com/@ibtissam1/how-i-found-a-critical-bug-as-a-beginner-24d55cffff30?source=rss------bug_bounty-5) 
+
+ - 💯December 6, 2025 - [How to Earn Money From Medium](https://medium.com/write-a-catalyst/how-to-earn-money-from-medium-6156f7ccd34b?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
