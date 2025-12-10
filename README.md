@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 9, 2025 - [Internal vs External Pentest: 12 Tools Clients Don’t Know Exist &lpar;and How Pros Use Them&rpar;](https://medium.com/@verylazytech/internal-vs-external-pentest-12-tools-clients-dont-know-exist-and-how-pros-use-them-5a19bb22d91a?source=rss------bug_bounty-5) 
+ - 💯December 10, 2025 - [Leaked PayPal production Client id and API Secret → full merchant takeover Closed as “Informative”…](https://medium.com/@elelyonmusk/leaked-paypal-production-client-id-and-api-secret-full-merchant-takeover-closed-as-informative-c2781f9aaaa7?source=rss------bug_bounty-5) 
 
- - 💯December 9, 2025 - [The Best Vulnerability Disclosure Programs &lpar;VDP&rpar;: A 2026 Guide for Security Researchers](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/the-best-vulnerability-disclosure-programs-vdp-a-2026-guide-for-security-researchers-21fa5588b8e4?source=rss------bug_bounty-5) 
+ - 💯December 10, 2025 - [“ReconFTW — Unified Reconnaissance Engine for Bug‑Bounty Hunters”](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/reconftw-unified-reconnaissance-engine-for-bug-bounty-hunters-cbed5ddaff7d?source=rss------bug_bounty-5) 
 
- - 💯December 9, 2025 - [Known-Plaintext Attack on PHP-Proxy: From Broken Encryption to FastCGI RCE](https://mf-akbar.medium.com/known-plaintext-attack-on-php-proxy-from-broken-encryption-to-fastcgi-rce-4942523c7955?source=rss------bug_bounty-5) 
+ - 💯December 10, 2025 - [From Default IIS Page to Critical SQL Injection](https://mugh33ra.medium.com/from-default-iis-page-to-critical-sql-injection-d0e9950c66fc?source=rss------bug_bounty-5) 
 
- - 💯December 9, 2025 - [Bug Bounty Hunting: The Real Playbook for Beginners That Actually Works](https://osintteam.blog/bug-bounty-hunting-the-real-playbook-for-beginners-that-actually-works-97ff6ad81e2a?source=rss------bug_bounty-5) 
+ - 💯December 10, 2025 - [$2,500 Bounty: The Silent Cache Poisoning Attack Hidden in One Header](https://osintteam.blog/2-500-bounty-the-silent-cache-poisoning-attack-hidden-in-one-header-b42b2b6a33b3?source=rss------bug_bounty-5) 
 
- - 💯December 9, 2025 - [API8:2023 Security Misconfiguration: Detección, Impacto y Mitigación](https://medium.com/@jpablo13/api8-2023-security-misconfiguration-detecci%C3%B3n-impacto-y-mitigaci%C3%B3n-43b57d1a8bab?source=rss------bug_bounty-5) 
+ - 💯December 10, 2025 - [$1,000 Bounty: How Bypass Admin Approval in an inDriver](https://medium.com/h7w/1-000-bounty-how-bypass-admin-approval-in-an-indriver-78f19fe84572?source=rss------bug_bounty-5) 
 
- - 💯December 8, 2025 - [The Day I Found a Public Laravel Log Viewer — And Why It Could Have Exposed an Entire Hospital…](https://medium.com/@anshubind89/the-day-i-found-a-public-laravel-log-viewer-and-why-it-could-have-exposed-an-entire-hospital-e9eeb2e3f6c3?source=rss------bug_bounty-5) 
+ - 💯December 10, 2025 - [Denial of service on the “Post” tab in any Microsoft Teams community](https://medium.com/@rohmadhidayah/denial-of-service-on-the-post-tab-in-any-microsoft-teams-community-9f6220d95251?source=rss------bug_bounty-5) 
 
- - 💯December 8, 2025 - [When One Slash Broke the Rules — Finding an Open Redirect on a Major Marketplace](https://medium.com/@anshubind89/when-one-slash-broke-the-rules-finding-an-open-redirect-on-a-major-marketplace-9d9bc7a39fbd?source=rss------bug_bounty-5) 
+ - 💯December 10, 2025 - [API8:2023 Security Misconfiguration: Detection, Impact, and Mitigation](https://medium.com/@jpablo13/api8-2023-security-misconfiguration-detection-impact-and-mitigation-b83176084f57?source=rss------bug_bounty-5) 
 
- - 💯December 8, 2025 - [Linux Network Sniffing &amp; Packet Capture for Hackers](https://medium.com/@cybersecplayground/linux-network-sniffing-packet-capture-for-hackers-7afcfb0444d0?source=rss------bug_bounty-5) 
+ - 💯December 9, 2025 - [picoCTF — HTTP Headers Challenge &lpar;who are you ?&rpar;](https://medium.com/@VulnHunt3r/picoctf-http-headers-challenge-who-are-you-052d4a7434b5?source=rss------bug_bounty-5) 
 
- - 💯December 8, 2025 - [Backdoor CTF-2025: Flask of Cookies writeup | by Dargham Ali](https://medium.com/@wireshark.pcap/backdoor-ctf-2025-flask-of-cookies-writeup-by-dargham-ali-fcd81b892608?source=rss------bug_bounty-5) 
+ - 💯December 9, 2025 - [Origin ip discovery methods](https://medium.com/@TheCzar/origin-ip-discovery-methods-d462c28d895a?source=rss------bug_bounty-5) 
+
+ - 💯December 9, 2025 - [Bug Bounty Beginners: Try This to Find Your First Bug](https://medium.com/@rajankumarbarik143/bug-bounty-beginners-try-this-to-find-your-first-bug-d5402a78a518?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
