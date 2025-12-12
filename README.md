@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 11, 2025 - [Find Your First Bug: 20 Tools That Require Zero Luck &lpar;Master Your First Exploit Without Guesswork&rpar;](https://medium.com/@verylazytech/find-your-first-bug-20-tools-that-require-zero-luck-master-your-first-exploit-without-guesswork-d77df87f3662?source=rss------bug_bounty-5) 
+ - 💯December 12, 2025 - [Why I started bug bounty in 2025](https://medium.com/@gilad4025/why-i-started-bug-bounty-in-2025-0d376f72a6bb?source=rss------bug_bounty-5) 
 
- - 💯December 11, 2025 - [How I made ₹8000 in 10 minutes from bug bounty](https://osintteam.blog/how-i-made-8000-in-10-minutes-from-bug-bounty-9097119b4e5e?source=rss------bug_bounty-5) 
+ - 💯December 12, 2025 - [OSINT Mapping Toolkit: 25 Essential Tools Every Large Organization Should Master](https://medium.com/@verylazytech/osint-mapping-toolkit-25-essential-tools-every-large-organization-should-master-34b275a8ac25?source=rss------bug_bounty-5) 
 
- - 💯December 11, 2025 - [Bug Bounty Hunter Christmas Wishes](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/bug-bounty-hunter-christmas-wishes-f131e68a8bf3?source=rss------bug_bounty-5) 
+ - 💯December 12, 2025 - [My Automated Recon Workflow: The “LeetEnum” Script](https://sudoaman.medium.com/my-automated-recon-workflow-the-leetenum-script-e1a3fb972023?source=rss------bug_bounty-5) 
 
- - 💯December 11, 2025 - [How I passed eJPT v2 in 20 days &lpar;2025&rpar;](https://medium.com/@rahultandale024/how-i-passed-ejpt-v2-in-20-days-2025-f43b5db236b6?source=rss------bug_bounty-5) 
+ - 💯December 12, 2025 - [Interesting Bug Bounty Findings I found in Android Application](https://medium.com/@elkpir666/interesting-bug-bounty-findings-i-found-in-android-application-3fa75b69cb19?source=rss------bug_bounty-5) 
 
- - 💯December 11, 2025 - [Google XSS Game Solution](https://medium.com/@blueorionn/google-xss-game-solution-425ce2539a58?source=rss------bug_bounty-5) 
+ - 💯December 12, 2025 - [The Most Used Tool in Bug Hunting — And How to Master It Like a Pro](https://osintteam.blog/the-most-used-tool-in-bug-hunting-and-how-to-master-it-like-a-pro-cb64c1f93895?source=rss------bug_bounty-5) 
 
- - 💯December 11, 2025 - [Password Security Best Practices: Beyond ‘123456’](https://medium.com/@haxman12399/password-security-best-practices-beyond-123456-19350f3c1b13?source=rss------bug_bounty-5) 
+ - 💯December 12, 2025 - [OWASP API9: Cómo Explotar Shadow y Zombie APIs &lpar;Improper Inventory Management&rpar;](https://medium.com/@jpablo13/owasp-api9-c%C3%B3mo-explotar-shadow-y-zombie-apis-improper-inventory-management-e98dbf1c8c1d?source=rss------bug_bounty-5) 
 
- - 💯December 11, 2025 - [AI in Cybersecurity: The Double-Edged Sword of 2025](https://medium.com/@haxman12399/ai-in-cybersecurity-the-double-edged-sword-of-2025-303d7b9d0552?source=rss------bug_bounty-5) 
+ - 💯December 11, 2025 - [A Quick Look at 403 Bypass Techniques](https://medium.com/@blueorionn/a-quick-look-at-403-bypass-techniques-93cabe51e54b?source=rss------bug_bounty-5) 
 
- - 💯December 11, 2025 - [Bug Bounty Journey: From Discovery to $800 Reward](https://medium.com/@gautammilan2024/bug-bounty-journey-from-discovery-to-800-reward-fa280a7d1205?source=rss------bug_bounty-5) 
+ - 💯December 11, 2025 - [Even 404 links reveals PII..](https://medium.com/@11anirudhkaila/even-404-links-reveals-pii-4d68991babd7?source=rss------bug_bounty-5) 
 
- - 💯December 11, 2025 - [PayPal’s SDK URLs Leak Merchant Emails and Client IDs – A PII Goldmine Dismissed as &quot;Informative&quot;…](https://medium.com/@elelyonmusk/paypals-sdk-urls-leak-merchant-emails-and-client-ids-a-pii-goldmine-dismissed-as-informative-1f5f8e4fd4a4?source=rss------bug_bounty-5) 
+ - 💯December 11, 2025 - [How I Found 3 Logic Bugs by Thinking Like a Developer](https://medium.com/@moatymohamed897/how-i-found-3-logic-bugs-by-thinking-like-a-developer-5a561f6cf76f?source=rss------bug_bounty-5) 
 
- - 💯December 10, 2025 - [AI Browser Attacks — Chrome’s New Defenses Change Everything](https://medium.com/@Cyber-AppSec/ai-browser-attacks-chromes-new-defenses-change-everything-edfd28bf23ab?source=rss------bug_bounty-5) 
+ - 💯December 11, 2025 - [5 Mins € 100](https://medium.com/h7w/5-mins-100-0f86caa17334?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
