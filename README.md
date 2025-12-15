@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 14, 2025 - [Red Teaming AI Models: 12 Jailbreak Techniques Every Security Pro Should Master](https://medium.com/@verylazytech/red-teaming-ai-models-12-jailbreak-techniques-every-security-pro-should-master-9f380ce329c4?source=rss------bug_bounty-5) 
+ - 💯December 15, 2025 - [Performing CVE-2020–3596 in Four Steps: Crashing Cisco VCS via SIP](https://junoonbro.medium.com/performing-cve-2020-3596-in-four-steps-crashing-cisco-vcs-via-sip-42059155037e?source=rss------bug_bounty-5) 
 
- - 💯December 14, 2025 - [My Bug Bounty Diary](https://medium.com/@ms16janhveelaad/my-bug-bounty-diary-4b0a78bdf7c9?source=rss------bug_bounty-5) 
+ - 💯December 15, 2025 - [[Broken Access Control] Removed members can access any post content in a Microsoft Teams community](https://medium.com/@tegakdiatassunnah/broken-access-control-removed-members-can-access-any-post-content-in-a-microsoft-teams-community-1e1dbb34cc1d?source=rss------bug_bounty-5) 
 
- - 💯December 14, 2025 - [Google Cloud Shell Container Escape](https://medium.com/@win3zz/google-cloud-shell-container-escape-b69ffb46b5df?source=rss------bug_bounty-5) 
+ - 💯December 14, 2025 - [How I discovered leaked Snowflake credentials for a Fortune 500 Manufacturing Company using…](https://medium.com/@tillson.galloway/how-i-discovered-leaked-snowflake-credentials-for-a-fortune-500-manufacturing-company-using-6adfdfcc3657?source=rss------bug_bounty-5) 
 
- - 💯December 14, 2025 - [Bug Bounty Hunting — Complete Guide &lpar;Part-161&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-161-0dcc932cb749?source=rss------bug_bounty-5) 
+ - 💯December 14, 2025 - [⚡️Advanced XSS Bypass for Akamai WAF](https://medium.com/@cybersecplayground/%EF%B8%8Fadvanced-xss-bypass-for-akamai-waf-a70c0663c3f7?source=rss------bug_bounty-5) 
 
- - 💯December 14, 2025 - [Bug Bounty Hunting — Complete Guide &lpar;Part-160&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-160-4e6d1a2dc241?source=rss------bug_bounty-5) 
+ - 💯December 14, 2025 - [️ File Upload Vulnerabilities: Complete Guide + Real Exploit](https://osintteam.blog/%EF%B8%8F-file-upload-vulnerabilities-complete-guide-real-exploit-27e0e56ea4ef?source=rss------bug_bounty-5) 
 
- - 💯December 14, 2025 - [HTML Injection in Search Functionality — A Real-World Case Study](https://medium.com/@Arul-Hacks/html-injection-in-search-functionality-a-real-world-case-study-7daef7482343?source=rss------bug_bounty-5) 
+ - 💯December 14, 2025 - [Bug Bounty Hunting Isn’t Luck — It’s a System &lpar;With Tools That Actually Work&rpar;](https://osintteam.blog/bug-bounty-hunting-isnt-luck-it-s-a-system-with-tools-that-actually-work-a7d907a75a2a?source=rss------bug_bounty-5) 
 
- - 💯December 13, 2025 - [How I Discovered a Massive Data Leak Exposing Millions of Users During Routine Recon](https://medium.com/@MohaseenK/how-i-discovered-a-massive-data-leak-exposing-millions-of-users-during-routine-recon-ca5f96e57f90?source=rss------bug_bounty-5) 
+ - 💯December 14, 2025 - [$12,500 Bounty: How Changing One GraphQL ID Let Me Delete Other Users’ Data](https://medium.com/h7w/12-500-bounty-how-changing-one-graphql-id-let-me-delete-other-users-data-4a6e1c70ae12?source=rss------bug_bounty-5) 
 
- - 💯December 13, 2025 - [You’re Fuzzing All Wrong: FFUF &amp; Virtual Host Fuzzing](https://infosecwriteups.com/youre-fuzzing-all-wrong-ffuf-virtual-host-fuzzing-99e82643935a?source=rss------bug_bounty-5) 
+ - 💯December 14, 2025 - [I Found One Bug and Made $9,750](https://medium.com/@codii/i-found-one-bug-and-made-9-750-e0f0ac179b1a?source=rss------bug_bounty-5) 
 
- - 💯December 13, 2025 - [How I Found a High-Severity Prompt Injection Bug in an AI LLM Chatbot](https://medium.com/@rajankumarbarik143/how-i-found-a-high-severity-prompt-injection-bug-in-an-ai-llm-chatbot-6f930d3a3918?source=rss------bug_bounty-5) 
+ - 💯December 14, 2025 - [Reflected XSS in blog search](https://medium.com/@mustafamahmvd/reflected-xss-in-blog-search-f0b5abffb8b2?source=rss------bug_bounty-5) 
 
- - 💯December 13, 2025 - [HTTP Yanıtları: Durum Kodları ve Güvenlik Zafiyetleri](https://medium.com/@HalilIbrahimEroglu/http-yan%C4%B1tlar%C4%B1-durum-kodlar%C4%B1-ve-g%C3%BCvenlik-zafiyetleri-49fdc0e29f17?source=rss------bug_bounty-5) 
+ - 💯December 14, 2025 - [How I Exposed 1,337 User Records With One GraphQL Query](https://medium.com/@codii/how-i-exposed-1-337-user-records-with-one-graphql-query-bc4551b909c7?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
