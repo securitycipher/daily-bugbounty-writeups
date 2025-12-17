@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 16, 2025 - [Breaking the Web &lpar;Part 7&rpar;: Security Misconfigurations — When Defaults Become Dangerous](https://medium.com/@cybercom0101/breaking-the-web-part-7-security-misconfigurations-when-defaults-become-dangerous-30b15459d196?source=rss------bug_bounty-5) 
+ - 💯December 17, 2025 - [10 MFA Fatigue Attack Techniques &amp; How to Detect Them: Master the Art of Stopping Modern Account…](https://medium.com/@verylazytech/10-mfa-fatigue-attack-techniques-how-to-detect-them-master-the-art-of-stopping-modern-account-ba99bffac1db?source=rss------bug_bounty-5) 
 
- - 💯December 16, 2025 - [10 OSINT Tools Every Cybersecurity Professional Should Know &lpar;Before Hackers Do&rpar; ️‍♂️](https://osintteam.blog/10-osint-tools-every-cybersecurity-professional-should-know-before-hackers-do-%EF%B8%8F-%EF%B8%8F-2e927c8a17cd?source=rss------bug_bounty-5) 
+ - 💯December 17, 2025 - [How I Hacked an Entrepreneur](https://infosecwriteups.com/how-i-hacked-an-entrepreneur-19d270a62c5c?source=rss------bug_bounty-5) 
 
- - 💯December 16, 2025 - [$200 Bounty: XSS via X-Forwarded-Host Header That Also Triggered an Open Redirect](https://osintteam.blog/200-bounty-xss-via-x-forwarded-host-header-that-also-triggered-an-open-redirect-9582bc59f6a7?source=rss------bug_bounty-5) 
+ - 💯December 17, 2025 - [How I hacked a Jenkins endpoint and leaked critical information](https://mohammadibnibrahim.medium.com/how-i-hacked-a-jenkins-endpoint-and-leaked-critical-information-87097f21789c?source=rss------bug_bounty-5) 
 
- - 💯December 16, 2025 - [API10–2023: Unsafe Consumption of APIs — Explotación y Mitigación](https://medium.com/@jpablo13/api10-2023-unsafe-consumption-of-apis-explotaci%C3%B3n-y-mitigaci%C3%B3n-2ec626af806e?source=rss------bug_bounty-5) 
+ - 💯December 17, 2025 - [Cross-Site Scripting Via Unsanitized Input In a PHP Endpoint](https://ajay-vardhan01.medium.com/cross-site-scripting-via-unsanitized-input-in-a-php-endpoint-993266129f5d?source=rss------bug_bounty-5) 
 
- - 💯December 15, 2025 - [How I Used an IDOR to Trigger XSS and Take Over All Accounts](https://medium.com/@codii/how-i-used-an-idor-to-trigger-xss-and-take-over-all-accounts-09ceca8e843a?source=rss------bug_bounty-5) 
+ - 💯December 17, 2025 - [API10–2023: Unsafe Consumption of APIs — Exploitation and Mitigation](https://medium.com/@jpablo13/api10-2023-unsafe-consumption-of-apis-exploitation-and-mitigation-b099a80cfe99?source=rss------bug_bounty-5) 
 
- - 💯December 15, 2025 - [The CGI Script That Should Have Stayed Hidden — How a Forgotten Diagnostic File Exposed an…](https://medium.com/@anshubind89/the-cgi-script-that-should-have-stayed-hidden-how-a-forgotten-diagnostic-file-exposed-an-46e9215743cd?source=rss------bug_bounty-5) 
+ - 💯December 16, 2025 - [Top 10 One-Liner Commands for JavaScript Hunting](https://osintteam.blog/top-10-one-liner-commands-for-javascript-hunting-d6910b3f8d6d?source=rss------bug_bounty-5) 
 
- - 💯December 15, 2025 - [⚡ The Reflected XSS Hidden Inside a Login Page — And How a Single Parameter Became a Security Weak…](https://medium.com/@anshubind89/the-reflected-xss-hidden-inside-a-login-page-and-how-a-single-parameter-became-a-security-weak-ad52a584292f?source=rss------bug_bounty-5) 
+ - 💯December 16, 2025 - [Logical 2FA Bypass by Reusing Trusted Device Authentication Flow](https://medium.com/@mhmodgm54/logical-2fa-bypass-by-reusing-trusted-device-authentication-flow-bd95b32b104c?source=rss------bug_bounty-5) 
 
- - 💯December 15, 2025 - [Buried in JavaScript: How One Comment Led Me to a Production API Key](https://infosecwriteups.com/buried-in-javascript-how-one-comment-led-me-to-a-production-api-key-65a33b1644bb?source=rss------bug_bounty-5) 
+ - 💯December 16, 2025 - [The Lazy Hunter’s Guide to Modat: Recon Smarter, Not Harder](https://medium.com/@hacker_might/the-lazy-hunters-guide-to-modat-recon-smarter-not-harder-4bc95bc2a577?source=rss------bug_bounty-5) 
 
- - 💯December 15, 2025 - [A Hacker’s Christmas: Bug Bounties by Candlelight](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/a-hackers-christmas-bug-bounties-by-candlelight-d28a847e9146?source=rss------bug_bounty-5) 
+ - 💯December 16, 2025 - [LFI to RCE via Log Poisoning: A Hands-On Exploit Guide](https://medium.com/meetcyber/lfi-to-rce-via-log-poisoning-a-hands-on-exploit-guide-621255a547c4?source=rss------bug_bounty-5) 
 
- - 💯December 15, 2025 - [Recon Dorking: The Art of Advanced Information Gathering for Cybersecurity](https://medium.com/@N0aziXss/recon-dorking-the-art-of-advanced-information-gathering-for-cybersecurity-3bcf4a1625c8?source=rss------bug_bounty-5) 
+ - 💯December 16, 2025 - [pgAdmin 4 Meta-Command Filter Bypass — RCE](https://medium.com/@cybersecplayground/pgadmin-4-meta-command-filter-bypass-rce-8c22e9f1983d?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
