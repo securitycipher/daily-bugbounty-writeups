@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 17, 2025 - [10 MFA Fatigue Attack Techniques &amp; How to Detect Them: Master the Art of Stopping Modern Account…](https://medium.com/@verylazytech/10-mfa-fatigue-attack-techniques-how-to-detect-them-master-the-art-of-stopping-modern-account-ba99bffac1db?source=rss------bug_bounty-5) 
+ - 💯December 18, 2025 - [They Called It Luck — So NASA Did It Again](https://medium.com/@ninadgowda777/they-called-it-luck-so-nasa-did-it-again-0146179622a5?source=rss------bug_bounty-5) 
 
- - 💯December 17, 2025 - [How I Hacked an Entrepreneur](https://infosecwriteups.com/how-i-hacked-an-entrepreneur-19d270a62c5c?source=rss------bug_bounty-5) 
+ - 💯December 18, 2025 - [$5,000 Bounty: How I Hijacked Google Gemini’s UI via Python Code Execution](https://medium.com/@janetzech/5-000-bounty-how-i-hijacked-google-geminis-ui-via-python-code-execution-0c9c09e556ae?source=rss------bug_bounty-5) 
 
- - 💯December 17, 2025 - [How I hacked a Jenkins endpoint and leaked critical information](https://mohammadibnibrahim.medium.com/how-i-hacked-a-jenkins-endpoint-and-leaked-critical-information-87097f21789c?source=rss------bug_bounty-5) 
+ - 💯December 17, 2025 - [Business Logic Bugs That Paid Big: How “Working as Intended” Broke Million-Dollar Systems](https://osintteam.blog/business-logic-bugs-that-paid-big-how-working-as-intended-broke-million-dollar-systems-6f4bd345659d?source=rss------bug_bounty-5) 
 
- - 💯December 17, 2025 - [Cross-Site Scripting Via Unsanitized Input In a PHP Endpoint](https://ajay-vardhan01.medium.com/cross-site-scripting-via-unsanitized-input-in-a-php-endpoint-993266129f5d?source=rss------bug_bounty-5) 
+ - 💯December 17, 2025 - [$2,500 Bounty: How a Simple Race Condition Let Me Get Paid Multiple Times by HackerOne](https://osintteam.blog/2-500-bounty-how-a-simple-race-condition-let-me-get-paid-multiple-times-by-hackerone-cc7bbb0551f1?source=rss------bug_bounty-5) 
 
- - 💯December 17, 2025 - [API10–2023: Unsafe Consumption of APIs — Exploitation and Mitigation](https://medium.com/@jpablo13/api10-2023-unsafe-consumption-of-apis-exploitation-and-mitigation-b099a80cfe99?source=rss------bug_bounty-5) 
+ - 💯December 17, 2025 - [Reset Password Token Leakage to Third-Party Analytics Leading to Account Takeover](https://medium.com/@Mohamed_Farghly/reset-password-token-leakage-to-third-party-analytics-leading-to-account-takeover-e66723dcb8d0?source=rss------bug_bounty-5) 
 
- - 💯December 16, 2025 - [Top 10 One-Liner Commands for JavaScript Hunting](https://osintteam.blog/top-10-one-liner-commands-for-javascript-hunting-d6910b3f8d6d?source=rss------bug_bounty-5) 
+ - 💯December 17, 2025 - [XML-RPC PHP File Abuse &lpar;xmlrpc.php&rpar; | Blind SSRF via WordPress XML-RPC pingback.ping](https://medium.com/@terp0x0/xml-rpc-php-file-abuse-xmlrpc-php-blind-ssrf-via-wordpress-xml-rpc-pingback-ping-561e3476107d?source=rss------bug_bounty-5) 
 
- - 💯December 16, 2025 - [Logical 2FA Bypass by Reusing Trusted Device Authentication Flow](https://medium.com/@mhmodgm54/logical-2fa-bypass-by-reusing-trusted-device-authentication-flow-bd95b32b104c?source=rss------bug_bounty-5) 
+ - 💯December 17, 2025 - [Forensics: Flag in Flame — When Logs Turn Into Images](https://medium.com/@VulnHunt3r/forensics-flag-in-flame-when-logs-turn-into-images-3fc526d0a5bf?source=rss------bug_bounty-5) 
 
- - 💯December 16, 2025 - [The Lazy Hunter’s Guide to Modat: Recon Smarter, Not Harder](https://medium.com/@hacker_might/the-lazy-hunters-guide-to-modat-recon-smarter-not-harder-4bc95bc2a577?source=rss------bug_bounty-5) 
+ - 💯December 17, 2025 - [One “Harmless” Parameter, Full Account Takeover — My Favorite Bug Bounty Find](https://infosecwriteups.com/one-harmless-parameter-full-account-takeover-my-favorite-bug-bounty-find-1e4c9cf7c17d?source=rss------bug_bounty-5) 
 
- - 💯December 16, 2025 - [LFI to RCE via Log Poisoning: A Hands-On Exploit Guide](https://medium.com/meetcyber/lfi-to-rce-via-log-poisoning-a-hands-on-exploit-guide-621255a547c4?source=rss------bug_bounty-5) 
+ - 💯December 17, 2025 - [How a Public readme.txt Led to a Critical WordPress CVE](https://samael0x4.medium.com/how-a-public-readme-txt-led-to-a-critical-wordpress-cve-dc8776454011?source=rss------bug_bounty-5) 
 
- - 💯December 16, 2025 - [pgAdmin 4 Meta-Command Filter Bypass — RCE](https://medium.com/@cybersecplayground/pgadmin-4-meta-command-filter-bypass-rce-8c22e9f1983d?source=rss------bug_bounty-5) 
+ - 💯December 17, 2025 - [# The API Endpoint That Shouldn’t Have Exposed 50,000 User Records](https://medium.com/@abdulbarhacker/the-api-endpoint-that-shouldnt-have-exposed-50-000-user-records-4b29b9f20df2?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
