@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 18, 2025 - [They Called It Luck — So NASA Did It Again](https://medium.com/@ninadgowda777/they-called-it-luck-so-nasa-did-it-again-0146179622a5?source=rss------bug_bounty-5) 
+ - 💯December 19, 2025 - [Top 10 Subdomain Discovery Tools That Beat Amass: Level Up Your Recon Game](https://medium.com/@verylazytech/top-10-subdomain-discovery-tools-that-beat-amass-level-up-your-recon-game-eea86f3b284d?source=rss------bug_bounty-5) 
 
- - 💯December 18, 2025 - [$5,000 Bounty: How I Hijacked Google Gemini’s UI via Python Code Execution](https://medium.com/@janetzech/5-000-bounty-how-i-hijacked-google-geminis-ui-via-python-code-execution-0c9c09e556ae?source=rss------bug_bounty-5) 
+ - 💯December 19, 2025 - [How 4 Months of Sleepless Nights Led Me to My First NASA Letter of Recognition](https://medium.com/@ninadgowda777/how-4-months-of-sleepless-nights-led-me-to-my-first-nasa-letter-of-recognition-c6a8174356c4?source=rss------bug_bounty-5) 
 
- - 💯December 17, 2025 - [Business Logic Bugs That Paid Big: How “Working as Intended” Broke Million-Dollar Systems](https://osintteam.blog/business-logic-bugs-that-paid-big-how-working-as-intended-broke-million-dollar-systems-6f4bd345659d?source=rss------bug_bounty-5) 
+ - 💯December 19, 2025 - [Understanding React2Shell: A Critical Vulnerability in React Server Components &lpar;CVE-2025–55182&rpar;](https://osintteam.blog/understanding-react2shell-a-critical-vulnerability-in-react-server-components-cve-2025-55182-9a834711c0ee?source=rss------bug_bounty-5) 
 
- - 💯December 17, 2025 - [$2,500 Bounty: How a Simple Race Condition Let Me Get Paid Multiple Times by HackerOne](https://osintteam.blog/2-500-bounty-how-a-simple-race-condition-let-me-get-paid-multiple-times-by-hackerone-cc7bbb0551f1?source=rss------bug_bounty-5) 
+ - 💯December 19, 2025 - [The Password Alchemist: How a Simple Parameter Swap Led to Full Account Takeover](https://osintteam.blog/the-password-alchemist-how-a-simple-parameter-swap-led-to-full-account-takeover-d3436b226889?source=rss------bug_bounty-5) 
 
- - 💯December 17, 2025 - [Reset Password Token Leakage to Third-Party Analytics Leading to Account Takeover](https://medium.com/@Mohamed_Farghly/reset-password-token-leakage-to-third-party-analytics-leading-to-account-takeover-e66723dcb8d0?source=rss------bug_bounty-5) 
+ - 💯December 19, 2025 - [Hidden Admin Tools → Full Exploitation Chains](https://osintteam.blog/hidden-admin-tools-full-exploitation-chains-eb36d9132193?source=rss------bug_bounty-5) 
 
- - 💯December 17, 2025 - [XML-RPC PHP File Abuse &lpar;xmlrpc.php&rpar; | Blind SSRF via WordPress XML-RPC pingback.ping](https://medium.com/@terp0x0/xml-rpc-php-file-abuse-xmlrpc-php-blind-ssrf-via-wordpress-xml-rpc-pingback-ping-561e3476107d?source=rss------bug_bounty-5) 
+ - 💯December 19, 2025 - [Broken Access Control: low-privilege user dapat Menghapus file/attachment Lampiran Melalui…](https://medium.com/@robisubagja158/broken-access-control-low-privilege-user-dapat-menghapus-lampiran-slip-gaji-melalui-endpoint-ba7e3b58c04b?source=rss------bug_bounty-5) 
 
- - 💯December 17, 2025 - [Forensics: Flag in Flame — When Logs Turn Into Images](https://medium.com/@VulnHunt3r/forensics-flag-in-flame-when-logs-turn-into-images-3fc526d0a5bf?source=rss------bug_bounty-5) 
+ - 💯December 18, 2025 - [Why AI-Driven Vibe Hacking Demands a New DevSecOps Mindset](https://medium.com/@Cyber-AppSec/why-ai-driven-vibe-hacking-demands-a-new-devsecops-mindset-790c0383ca38?source=rss------bug_bounty-5) 
 
- - 💯December 17, 2025 - [One “Harmless” Parameter, Full Account Takeover — My Favorite Bug Bounty Find](https://infosecwriteups.com/one-harmless-parameter-full-account-takeover-my-favorite-bug-bounty-find-1e4c9cf7c17d?source=rss------bug_bounty-5) 
+ - 💯December 18, 2025 - [Why Most Bug Bounty Findings Come From Thinking, Not Tools](https://medium.com/write-a-catalyst/why-most-bug-bounty-findings-come-from-thinking-not-tools-2899347e6890?source=rss------bug_bounty-5) 
 
- - 💯December 17, 2025 - [How a Public readme.txt Led to a Critical WordPress CVE](https://samael0x4.medium.com/how-a-public-readme-txt-led-to-a-critical-wordpress-cve-dc8776454011?source=rss------bug_bounty-5) 
-
- - 💯December 17, 2025 - [# The API Endpoint That Shouldn’t Have Exposed 50,000 User Records](https://medium.com/@abdulbarhacker/the-api-endpoint-that-shouldnt-have-exposed-50-000-user-records-4b29b9f20df2?source=rss------bug_bounty-5) 
+ - 💯December 18, 2025 - [How I Found a Zero-Click Flaw by Questioning a “Safe” Rendering Path](https://medium.com/@Rawi1X/how-i-found-a-zero-click-flaw-by-questioning-a-safe-rendering-path-b104c29a3e8e?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
