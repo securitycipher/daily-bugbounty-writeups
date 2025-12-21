@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 20, 2025 - [GraphQL Hacking Toolkit 2025: 20 Commands &amp; Payloads Every Pentester Should Master](https://medium.com/@verylazytech/graphql-hacking-toolkit-2025-20-commands-payloads-every-pentester-should-master-336db9499b30?source=rss------bug_bounty-5) 
+ - 💯December 21, 2025 - [SubDog : Subdomain Enumeration](https://meetcyber.net/subdog-subdomain-enumeration-c5eb419d9e7b?source=rss------bug_bounty-5) 
 
- - 💯December 20, 2025 - [From Curiosity to Cash: How I Bypassed 2FA and Earned $300!](https://medium.com/@an.anonymous.school/from-curiosity-to-cash-how-i-bypassed-2fa-and-earned-300-b81ef4c01000?source=rss------bug_bounty-5) 
+ - 💯December 21, 2025 - [From $0 to $125: How I Abused a GraphQL Endpoint to Bomb Inboxes &lpar;My First Bounty&rpar;](https://medium.com/@an.anonymous.school/from-0-to-125-how-i-abused-a-graphql-endpoint-to-bomb-inboxes-my-first-bounty-6553ac14e514?source=rss------bug_bounty-5) 
 
- - 💯December 20, 2025 - [I’m Zer0Figure — Exploring Security One Vulnerability at a Time](https://medium.com/@an.anonymous.school/im-zer0figure-exploring-security-one-vulnerability-at-a-time-b960a282c50a?source=rss------bug_bounty-5) 
+ - 💯December 21, 2025 - [RCE via Insecure JS Sandbox Bypass](https://medium.com/@win3zz/rce-via-insecure-js-sandbox-bypass-a26ad6364112?source=rss------bug_bounty-5) 
 
- - 💯December 20, 2025 - [Improper SVG Handling in AI Generated Output](https://medium.com/@Mohamed_khattab/improper-svg-handling-in-ai-generated-output-b434b5d0da8c?source=rss------bug_bounty-5) 
+ - 💯December 21, 2025 - [I Trusted the AI Too Early. Production Taught Me Otherwise.](https://medium.com/mind-x-machine/i-trusted-the-ai-too-early-production-taught-me-otherwise-5b2399b7d850?source=rss------bug_bounty-5) 
 
- - 💯December 20, 2025 - [Analysis of Sensitive Information Vulnerability in Public XML Files](https://medium.com/@albertstive1010/analysis-of-sensitive-information-vulnerability-in-public-xml-files-840ef304e88a?source=rss------bug_bounty-5) 
+ - 💯December 21, 2025 - [How a Simple Token Mistake Led Me to a Full Admin Account Takeover](https://medium.com/@momenrezkk90/how-a-simple-token-mistake-led-me-to-a-full-admin-account-takeover-ea344c195b26?source=rss------bug_bounty-5) 
 
- - 💯December 19, 2025 - [Unauthorized access to any presentation at Dropbox](https://medium.com/@0xRaccoon/unauthorized-access-to-any-presentation-at-dropbox-604af454547d?source=rss------bug_bounty-5) 
+ - 💯December 20, 2025 - [When One Request Becomes Two: A Deep Dive into HTTP Request Smuggling Vulnerabilities](https://osintteam.blog/when-one-request-becomes-two-a-deep-dive-into-http-request-smuggling-vulnerabilities-9a12f29a6418?source=rss------bug_bounty-5) 
 
- - 💯December 19, 2025 - [How I Found an Unauthenticated XXE That Allowed Arbitrary File Read in NASA](https://medium.com/@thomscoder/how-i-found-an-unauthenticated-xxe-that-allowed-arbitrary-file-read-in-nasa-bfffe24dc24e?source=rss------bug_bounty-5) 
+ - 💯December 20, 2025 - [An IDOR that allows user information disclosure](https://shahdmk99.medium.com/an-idor-that-allows-user-information-disclosure-36fd7643f31b?source=rss------bug_bounty-5) 
 
- - 💯December 19, 2025 - [Information disclosure, but not in the way you might expect](https://medium.com/@rajveer_0101/information-disclosure-but-not-in-the-way-you-might-expect-a914479e06cc?source=rss------bug_bounty-5) 
+ - 💯December 20, 2025 - [Why Skill Alone Does not Win Bug Bounties](https://medium.com/illumination/why-skill-alone-does-not-win-bug-bounties-380c1c317d7c?source=rss------bug_bounty-5) 
 
- - 💯December 19, 2025 - [CVE-2025–67418: When Default Credentials Become a Remote Root Button](https://medium.com/@arpit03sharma2003/cve-2025-67418-when-default-credentials-become-a-remote-root-button-03be5ee4b927?source=rss------bug_bounty-5) 
+ - 💯December 20, 2025 - [PortSwigger Web Security Academy — Lab Write-Up 1](https://0xm3d0din.medium.com/portswigger-web-security-academy-lab-write-up-1-3baf9055a3ce?source=rss------bug_bounty-5) 
 
- - 💯December 19, 2025 - [Recon Fatigue Is Real — Until This One URL Paid My Rent](https://infosecwriteups.com/recon-fatigue-is-real-until-this-one-url-paid-my-rent-8768a51dc50e?source=rss------bug_bounty-5) 
+ - 💯December 20, 2025 - [PortSwigger Web Security Academy_Complete Walkthrough Series](https://0xm3d0din.medium.com/portswigger-web-security-academy-complete-walkthrough-series-8af0649ca66c?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
