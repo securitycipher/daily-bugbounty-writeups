@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 24, 2025 - [Top 12 Zero Trust Tools That Are Replacing VPNs: Master Modern Access Security](https://medium.com/@verylazytech/top-12-zero-trust-tools-that-are-replacing-vpns-master-modern-access-security-fd1528584d48?source=rss------bug_bounty-5) 
+ - 💯December 25, 2025 - [40 Bash One-Liners Every Hacker Should Know: Master Essential Command-Line Skills for Pentesting](https://medium.com/@verylazytech/40-bash-one-liners-every-hacker-should-know-master-essential-command-line-skills-for-pentesting-01c32fb29eea?source=rss------bug_bounty-5) 
 
- - 💯December 24, 2025 - [CSRF Where Token is Tied to Non-Session Cookie — Complete Walkthrough with Visual Guide](https://medium.com/@CYGNOD/csrf-where-token-is-tied-to-non-session-cookie-complete-walkthrough-with-visual-guide-8bcca10c4146?source=rss------bug_bounty-5) 
+ - 💯December 25, 2025 - [H](https://beta0x01.medium.com/h-af3a82185e43?source=rss------bug_bounty-5) 
 
- - 💯December 24, 2025 - [️‍♂️ ReconKit I Built This Recon Tool Because Manual Recon Was Killing My Time ⚙️](https://medium.com/@Purushothamr/%EF%B8%8F-%EF%B8%8F-reconkit-i-built-this-recon-tool-because-manual-recon-was-killing-my-time-%EF%B8%8F-ff2d1a4e3606?source=rss------bug_bounty-5) 
+ - 💯December 25, 2025 - [Subscription Bypass Leading to Full Access to Paid Features](https://medium.com/@hossam_hamada/subscription-bypass-leading-to-full-access-to-paid-features-7c3a1bf6487c?source=rss------bug_bounty-5) 
 
- - 💯December 24, 2025 - [Night at the Museum — FahemSec Web Challenge](https://mohammadibnibrahim.medium.com/night-at-the-museum-fahemsec-web-challenge-f2d6f8536bea?source=rss------bug_bounty-5) 
+ - 💯December 24, 2025 - [One Request, Ten Times: How I Broke Admin Access with a Race Condition](https://medium.com/@solutionexit5/one-request-ten-times-how-i-broke-admin-access-with-a-race-condition-05c56b072118?source=rss------bug_bounty-5) 
 
- - 💯December 24, 2025 - [Stale Admin Invitations Lead to Unauthorized Admin Access](https://hwedy00.medium.com/stale-admin-invitations-lead-to-unauthorized-admin-access-9fa766e631d9?source=rss------bug_bounty-5) 
+ - 💯December 24, 2025 - [How to Become a Smart Contract Bug Hunter and Get Paid in 2026](https://medium.com/@palmartin99/how-to-become-a-smart-contract-bug-hunter-and-get-paid-in-2026-e7c39a825d29?source=rss------bug_bounty-5) 
 
- - 💯December 24, 2025 - [Best Recon Method to Find JavaScript Vulnerabilities](https://osintteam.blog/best-recon-method-to-find-javascript-vulnerabilities-ad3b1313afe2?source=rss------bug_bounty-5) 
+ - 💯December 24, 2025 - [The Day I Found a Google Sheets API Key Hidden in Plain Sight — Inside a Public JavaScript File](https://medium.com/@anshubind89/the-day-i-found-a-google-sheets-api-key-hidden-in-plain-sight-inside-a-public-javascript-file-45795be4f51c?source=rss------bug_bounty-5) 
 
- - 💯December 23, 2025 - [PortSwigger Web Security Academy — Lab Write‑Up 4](https://0xm3d0din.medium.com/portswigger-web-security-academy-lab-write-up-4-0699b9fb1243?source=rss------bug_bounty-5) 
+ - 💯December 24, 2025 - [The Night I Discovered a Production Server Hiding Behind an Exposed IP — And Why It Mattered…](https://medium.com/@anshubind89/the-night-i-discovered-a-production-server-hiding-behind-an-exposed-ip-and-why-it-mattered-e0f3009cdd51?source=rss------bug_bounty-5) 
 
- - 💯December 23, 2025 - [From “Add User” to Root: A 4-Digit Bug Bounty Command Injection](https://yaseenzubair.medium.com/from-add-user-to-root-a-4-digit-bug-bounty-command-injection-e436acd547a3?source=rss------bug_bounty-5) 
+ - 💯December 24, 2025 - [Google Dorks for Bug Bounty](https://blog.gopenai.com/google-dorks-for-bug-bounty-d1596fafbe39?source=rss------bug_bounty-5) 
 
- - 💯December 23, 2025 - [The Day I Found a Prometheus Node Exporter Exposed to the Internet — And Why It Revealed More…](https://medium.com/@anshubind89/the-day-i-found-a-prometheus-node-exporter-exposed-to-the-internet-and-why-it-revealed-more-1841acd4496b?source=rss------bug_bounty-5) 
+ - 💯December 24, 2025 - [Hunting the Unseen: My Journey with Blind XSS &lpar;Case Studies&rpar;](https://medium.com/@xelcezeri/hunting-the-unseen-my-journey-with-blind-xss-case-studies-abf1c8c8fac9?source=rss------bug_bounty-5) 
 
- - 💯December 23, 2025 - [The Night I Found a Backup ZIP File Sitting in Plain Sight — And Why It Could Have Exposed Far…](https://medium.com/@anshubind89/the-night-i-found-a-backup-zip-file-sitting-in-plain-sight-and-why-it-could-have-exposed-far-5edfb2fdabde?source=rss------bug_bounty-5) 
+ - 💯December 24, 2025 - [“Bug Bounty Bootcamp #4: How to Find and Target Anything on the Internet &lpar;IP Addresses Explained&rpar;”](https://amannsharmaa.medium.com/bug-bounty-bootcamp-4-how-to-find-and-target-anything-on-the-internet-ip-addresses-explained-7ff37422cc74?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
