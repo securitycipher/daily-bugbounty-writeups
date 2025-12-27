@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 26, 2025 - [Top 10 Backup Abuse Techniques for Privilege Escalation: Learn How Real Attacks Happen](https://medium.com/@verylazytech/top-10-backup-abuse-techniques-for-privilege-escalation-learn-how-real-attacks-happen-d52af154fb78?source=rss------bug_bounty-5) 
+ - 💯December 27, 2025 - [I Was Hunting Bugs — The Cache Was Hunting Users Instead](https://infosecwriteups.com/i-was-hunting-bugs-the-cache-was-hunting-users-instead-1350057031e5?source=rss------bug_bounty-5) 
 
- - 💯December 26, 2025 - [WebSocket Misconfiguration Leading to DOM Manipulation and Denial of Service in a Web Chat…](https://waleedosamaeg.medium.com/websocket-misconfiguration-leading-to-dom-manipulation-and-denial-of-service-in-a-chat-application-c8a0c8c30a19?source=rss------bug_bounty-5) 
+ - 💯December 27, 2025 - [Subdomain to Internal Pivoting: 10 Techniques Every Ethical Hacker Should Master](https://medium.com/@verylazytech/subdomain-to-internal-pivoting-10-techniques-every-ethical-hacker-should-master-5900c278dab7?source=rss------bug_bounty-5) 
 
- - 💯December 26, 2025 - [I Blocked Them, But They Could Still See Me: A Simple Privacy Logic Flaw](https://medium.com/@default_Ox/i-blocked-them-but-they-could-still-see-me-a-simple-privacy-logic-flaw-110486963182?source=rss------bug_bounty-5) 
+ - 💯December 27, 2025 - [Advanced WAF Evasion via DOM Reconstruction](https://medium.com/@pateljaivik919/advanced-waf-evasion-via-dom-reconstruction-c24b7f93a152?source=rss------bug_bounty-5) 
 
- - 💯December 26, 2025 - [Exploiting WebSocket Information Disclosure to Achieve Account Deletion &lpar;IDOR&rpar;](https://waleedosamaeg.medium.com/exploiting-websocket-information-disclosure-to-achieve-account-deletion-idor-cc5e180632b3?source=rss------bug_bounty-5) 
+ - 💯December 27, 2025 - [Why Most Bug Bounty Advice Sounds Smart — but Quietly Fails in Real Life](https://medium.com/@ramanidhaval11/why-most-bug-bounty-advice-sounds-smart-but-quietly-fails-in-real-life-7aed1e55288a?source=rss------bug_bounty-5) 
 
- - 💯December 25, 2025 - [Stored SVG JavaScript Execution, Redirects &amp; Phishing — Bug Bounty $$](https://medium.com/@abdelfattahelsabagh/from-blind-ssrf-to-stored-svg-javascript-execution-redirects-phishing-bug-bounty-efa249798048?source=rss------bug_bounty-5) 
+ - 💯December 27, 2025 - [How I Solved All Challenges in the CloudSEK Hiring CTF &lpar;Round 1&rpar;: A Complete Walkthrough](https://medium.com/@an.anonymous.school/how-i-solved-all-challenges-in-the-cloudsek-hiring-ctf-round-1-a-complete-walkthrough-7d75a9b84c28?source=rss------bug_bounty-5) 
 
- - 💯December 25, 2025 - [Horizontal Privilege Escalation via IDOR: Viewing, Editing and Deleting](https://scriptjacker.medium.com/horizontal-privilege-escalation-via-idor-viewing-editing-and-deleting-b10936ad4eb1?source=rss------bug_bounty-5) 
+ - 💯December 27, 2025 - [$100 bounty — XSS &amp; Input Validation](https://infosecwriteups.com/100-bounty-xss-input-validation-1ccfb35c5e1f?source=rss------bug_bounty-5) 
 
- - 💯December 25, 2025 - [Understanding SOP, CORS &amp; Preflight Requests](https://infosecwriteups.com/understanding-sop-cors-preflight-requests-58411228ebe0?source=rss------bug_bounty-5) 
+ - 💯December 27, 2025 - [$1,500 Bounty: Image Upload Led to Full SSRF &amp; LFI at Rockstar Games](https://osintteam.blog/1-500-bounty-image-upload-led-to-full-ssrf-lfi-at-rockstar-games-6a757e704bd1?source=rss------bug_bounty-5) 
 
- - 💯December 25, 2025 - [Looking Beyond Bugs: Finding Design Flaws in Modern Applications](https://medium.com/@afi0pchik/looking-beyond-bugs-finding-design-flaws-in-modern-applications-d42dae47775f?source=rss------bug_bounty-5) 
+ - 💯December 26, 2025 - [How I Found a SQL Injection in a VDP Program](https://medium.com/@ell0guvn0r/how-i-found-a-sql-injection-in-a-vdp-program-8291816ed281?source=rss------bug_bounty-5) 
 
- - 💯December 25, 2025 - [Bug Bounty Isn’t About Tools — It’s About Thinking Like the App](https://infosecwriteups.com/bug-bounty-isnt-about-tools-it-s-about-thinking-like-the-app-43b553f1786b?source=rss------bug_bounty-5) 
+ - 💯December 26, 2025 - [How a Single Forgotten DNS Record Can Turn a Trusted Domain into a Gambling Site](https://medium.com/@akashutosh659/how-a-single-forgotten-dns-record-can-turn-a-trusted-domain-into-a-gambling-site-8ca2d094175b?source=rss------bug_bounty-5) 
 
- - 💯December 25, 2025 - [How I Found a $5,500 Bug Using Just Reconnaissance](https://infosecwriteups.com/how-i-found-a-5-500-bug-using-just-reconnaissance-2768fdba5ff2?source=rss------bug_bounty-5) 
+ - 💯December 26, 2025 - [Your Website Isn’t Vulnerable — Your Workflow Is ⚙️](https://yurie-scanner-v2.medium.com/your-website-isnt-vulnerable-your-workflow-is-%EF%B8%8F-fbdb21e422dd?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
