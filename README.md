@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 27, 2025 - [I Was Hunting Bugs — The Cache Was Hunting Users Instead](https://infosecwriteups.com/i-was-hunting-bugs-the-cache-was-hunting-users-instead-1350057031e5?source=rss------bug_bounty-5) 
+ - 💯December 28, 2025 - [Perfect Bug Report Toolkit: 10 Templates for Fast Triages Every Hacker Needs](https://medium.com/@verylazytech/perfect-bug-report-toolkit-10-templates-for-fast-triages-every-hacker-needs-30e0dc1b4e7f?source=rss------bug_bounty-5) 
 
- - 💯December 27, 2025 - [Subdomain to Internal Pivoting: 10 Techniques Every Ethical Hacker Should Master](https://medium.com/@verylazytech/subdomain-to-internal-pivoting-10-techniques-every-ethical-hacker-should-master-5900c278dab7?source=rss------bug_bounty-5) 
+ - 💯December 28, 2025 - [From “Website Not Accessible” to Critical Error-Based SQLi](https://medium.com/@chos3n/from-website-not-accessible-to-critical-error-based-sqli-483cda463a10?source=rss------bug_bounty-5) 
 
- - 💯December 27, 2025 - [Advanced WAF Evasion via DOM Reconstruction](https://medium.com/@pateljaivik919/advanced-waf-evasion-via-dom-reconstruction-c24b7f93a152?source=rss------bug_bounty-5) 
+ - 💯December 28, 2025 - [Finding My First P3 Bug at NASA in My First Week of Bug Hunting](https://medium.com/@saijayanth25dec2003/finding-my-first-p3-bug-at-nasa-in-my-first-week-of-bug-hunting-00e60a2ed4fd?source=rss------bug_bounty-5) 
 
- - 💯December 27, 2025 - [Why Most Bug Bounty Advice Sounds Smart — but Quietly Fails in Real Life](https://medium.com/@ramanidhaval11/why-most-bug-bounty-advice-sounds-smart-but-quietly-fails-in-real-life-7aed1e55288a?source=rss------bug_bounty-5) 
+ - 💯December 27, 2025 - [The Cost of a Bug When the Data Is Permanent](https://medium.com/legionhunters/the-cost-of-a-bug-when-the-data-is-permanent-7df0ea2ab55c?source=rss------bug_bounty-5) 
 
- - 💯December 27, 2025 - [How I Solved All Challenges in the CloudSEK Hiring CTF &lpar;Round 1&rpar;: A Complete Walkthrough](https://medium.com/@an.anonymous.school/how-i-solved-all-challenges-in-the-cloudsek-hiring-ctf-round-1-a-complete-walkthrough-7d75a9b84c28?source=rss------bug_bounty-5) 
+ - 💯December 27, 2025 - [YesWeHack Dojo 46: Ghost Whisper Challenge Solution](https://medium.com/@rawansa3ed2002/yeswehack-dojo-46-ghost-whisper-challenge-solution-cb5e592f378b?source=rss------bug_bounty-5) 
 
- - 💯December 27, 2025 - [$100 bounty — XSS &amp; Input Validation](https://infosecwriteups.com/100-bounty-xss-input-validation-1ccfb35c5e1f?source=rss------bug_bounty-5) 
+ - 💯December 27, 2025 - [Performing CSRF Exploits over GraphQL APIs](https://osintteam.blog/performing-csrf-exploits-over-graphql-apis-945764a0160b?source=rss------bug_bounty-5) 
 
- - 💯December 27, 2025 - [$1,500 Bounty: Image Upload Led to Full SSRF &amp; LFI at Rockstar Games](https://osintteam.blog/1-500-bounty-image-upload-led-to-full-ssrf-lfi-at-rockstar-games-6a757e704bd1?source=rss------bug_bounty-5) 
+ - 💯December 27, 2025 - [MongoBleed &lpar;CVE‑2025‑14847&rpar;: A Pre‑Auth MongoDB Memory Leak You Can Hunt at Scale](https://medium.com/@Black1hp/mongobleed-cve-2025-14847-a-pre-auth-mongodb-memory-leak-you-can-hunt-at-scale-c8faa00f2bdd?source=rss------bug_bounty-5) 
 
- - 💯December 26, 2025 - [How I Found a SQL Injection in a VDP Program](https://medium.com/@ell0guvn0r/how-i-found-a-sql-injection-in-a-vdp-program-8291816ed281?source=rss------bug_bounty-5) 
+ - 💯December 27, 2025 - [How I Found a Critical RCE Flaw in a Popular JS Sandbox](https://medium.com/@codii/how-i-found-a-critical-rce-flaw-in-a-popular-js-sandbox-8dd924325c6e?source=rss------bug_bounty-5) 
 
- - 💯December 26, 2025 - [How a Single Forgotten DNS Record Can Turn a Trusted Domain into a Gambling Site](https://medium.com/@akashutosh659/how-a-single-forgotten-dns-record-can-turn-a-trusted-domain-into-a-gambling-site-8ca2d094175b?source=rss------bug_bounty-5) 
+ - 💯December 27, 2025 - [The Reconnaissance Masterclass: Advanced Information Gathering for Modern Cybersecurity](https://medium.com/@N0aziXss/the-reconnaissance-masterclass-advanced-information-gathering-for-modern-cybersecurity-a310eeda53bb?source=rss------bug_bounty-5) 
 
- - 💯December 26, 2025 - [Your Website Isn’t Vulnerable — Your Workflow Is ⚙️](https://yurie-scanner-v2.medium.com/your-website-isnt-vulnerable-your-workflow-is-%EF%B8%8F-fbdb21e422dd?source=rss------bug_bounty-5) 
+ - 💯December 27, 2025 - [From Open Redirect to Credential Theft: A Login Flow Story](https://medium.com/@sabna1961/from-open-redirect-to-credential-theft-a-login-flow-story-79f7a8de2720?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
