@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 30, 2025 - [15 Tools to Chain CORS, JSONP &amp; XSS for Account Takeover: Master Your Pentesting Game](https://medium.com/@verylazytech/15-tools-to-chain-cors-jsonp-xss-for-account-takeover-master-your-pentesting-game-23a9ac9524ad?source=rss------bug_bounty-5) 
+ - 💯December 31, 2025 - [Top 20 Shadow IT Discovery Tools for Attack Surface Mapping: Learn How Pros Uncover Hidden Risks](https://medium.com/@verylazytech/top-20-shadow-it-discovery-tools-for-attack-surface-mapping-learn-how-pros-uncover-hidden-risks-32176e1e59b1?source=rss------bug_bounty-5) 
 
- - 💯December 30, 2025 - [Bug‑Bounty‑Ready Kali Linux Setup WSL](https://medium.com/@yamin21/bug-bounty-ready-kali-linux-setup-wsl-e476f38438cd?source=rss------bug_bounty-5) 
+ - 💯December 31, 2025 - [How I Discovered an SSRF Vulnerability in Ferrari’s System — and Earned a Place in Their Hall of…](https://medium.com/@ninadgowda777/how-i-discovered-an-ssrf-vulnerability-in-ferraris-system-and-earned-a-place-in-their-hall-of-3dca8f9f52db?source=rss------bug_bounty-5) 
 
- - 💯December 30, 2025 - [The Illusion of Security: How I Bypassed CAPTCHA to Enumerate Users &lpar;and Why It Was a Duplicate&rpar;](https://medium.com/@an.anonymous.school/the-illusion-of-security-how-i-bypassed-captcha-to-enumerate-users-and-why-it-was-a-duplicate-010d8b96f5d4?source=rss------bug_bounty-5) 
+ - 💯December 31, 2025 - [Hands-On SQL Injection Using Burp Suite: A Beginner’s Walkthrough](https://medium.com/@_crac/hands-on-sql-injection-using-burp-suite-a-beginners-walkthrough-c32e11b48ac3?source=rss------bug_bounty-5) 
 
- - 💯December 30, 2025 - [Every Bug Bounty Hunter Starts with the OWASP Top 10](https://medium.com/@jugalpatel2110/every-bug-bounty-hunter-starts-with-the-owasp-top-10-d2bf16842f42?source=rss------bug_bounty-5) 
+ - 💯December 31, 2025 - [Bypassing a Monthly Secure Message Limit Using a Race Condition](https://medium.com/@pophacker996/bypassing-a-monthly-secure-message-limit-using-a-race-condition-ecd700714720?source=rss------bug_bounty-5) 
 
- - 💯December 29, 2025 - [Understanding the insecure deserialization vulnerability](https://devilwrites.medium.com/understanding-the-insecure-deserialization-vulnerability-9e95f3d7723a?source=rss------bug_bounty-5) 
+ - 💯December 31, 2025 - [Top Bug Bounty Platforms](https://osintteam.blog/top-bug-bounty-platforms-b2c2dd135277?source=rss------bug_bounty-5) 
 
- - 💯December 29, 2025 - [How I Got My First Bounty](https://0xsponge.medium.com/how-i-got-my-first-bounty-70cd498b9fc5?source=rss------bug_bounty-5) 
+ - 💯December 31, 2025 - [$500 Bounty: How a Magic Login Link Led to Full Account Takeover](https://osintteam.blog/500-bounty-how-a-magic-login-link-led-to-full-account-takeover-f726be2ee5b7?source=rss------bug_bounty-5) 
 
- - 💯December 29, 2025 - [Reading Production Android Code for the First Time: A Security Researcher’s Perspective](https://meetcyber.net/reading-production-android-code-for-the-first-time-a-security-researchers-perspective-7cadaf893252?source=rss------bug_bounty-5) 
+ - 💯December 30, 2025 - [Sensitive Information Disclosure via Publicly Accessible .user.ini at indrive](https://medium.com/@huseinabdo1974/sensitive-information-disclosure-via-publicly-accessible-user-ini-at-indrive-51b83f9a90f4?source=rss------bug_bounty-5) 
 
- - 💯December 29, 2025 - [Finding Broken Access Control in Multi-Tenant Systems](https://medium.com/@afi0pchik/finding-broken-access-control-in-multi-tenant-systems-2fa95ee0dfa6?source=rss------bug_bounty-5) 
+ - 💯December 30, 2025 - [I Couldn’t Find the Tool I Needed for Web Security Testing — So I Built It](https://medium.com/@mohmmedalariki2014/i-couldnt-find-the-tool-i-needed-for-web-security-testing-so-i-built-it-52a0cef69687?source=rss------bug_bounty-5) 
 
- - 💯December 29, 2025 - [Consistency Over Chaos: A 360-Day Bug Hunting Experiment](https://infosecwriteups.com/consistency-over-chaos-a-360-day-bug-hunting-experiment-50d43381ef4d?source=rss------bug_bounty-5) 
+ - 💯December 30, 2025 - [Thinking Like an Attacker A Technical Perspective on Web Security Research](https://medium.com/@Pwnedl0l/thinking-like-an-attacker-a-technical-perspective-on-web-security-research-e5091704b53a?source=rss------bug_bounty-5) 
+
+ - 💯December 30, 2025 - [The Silent Weapon &lpar;Part 2&rpar;: Real AI Workflows Bug Bounty Hunters Actually Use](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/the-silent-weapon-part-2-real-ai-workflows-bug-bounty-hunters-actually-use-9b7b2d8fd26e?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
