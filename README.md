@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 31, 2025 - [Top 20 Shadow IT Discovery Tools for Attack Surface Mapping: Learn How Pros Uncover Hidden Risks](https://medium.com/@verylazytech/top-20-shadow-it-discovery-tools-for-attack-surface-mapping-learn-how-pros-uncover-hidden-risks-32176e1e59b1?source=rss------bug_bounty-5) 
+ - 💯January 1, 2026 - [The Silent Weapon &lpar;Part 3&rpar;: AI-Assisted Recon Chains That Actually Find Bugs](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/the-silent-weapon-part-3-ai-assisted-recon-chains-that-actually-find-bugs-38b847be67c9?source=rss------bug_bounty-5) 
 
- - 💯December 31, 2025 - [How I Discovered an SSRF Vulnerability in Ferrari’s System — and Earned a Place in Their Hall of…](https://medium.com/@ninadgowda777/how-i-discovered-an-ssrf-vulnerability-in-ferraris-system-and-earned-a-place-in-their-hall-of-3dca8f9f52db?source=rss------bug_bounty-5) 
+ - 💯January 1, 2026 - [How I Cracked CloudSEK CTF Round 2: A Deep Dive into “Boot Sequence”](https://medium.com/@an.anonymous.school/how-i-cracked-cloudsek-ctf-round-2-a-deep-dive-into-boot-sequence-4b19ce36a5ae?source=rss------bug_bounty-5) 
 
- - 💯December 31, 2025 - [Hands-On SQL Injection Using Burp Suite: A Beginner’s Walkthrough](https://medium.com/@_crac/hands-on-sql-injection-using-burp-suite-a-beginners-walkthrough-c32e11b48ac3?source=rss------bug_bounty-5) 
+ - 💯January 1, 2026 - [MongoBleed &lpar;CVE-2025–14847&rpar;: Bug Bounty Reality of This MongoDB Vulnerability](https://medium.com/@shaikhminhaz1975/mongobleed-cve-2025-14847-bug-bounty-reality-of-this-mongodb-vulnerability-cf00e98b03b4?source=rss------bug_bounty-5) 
 
- - 💯December 31, 2025 - [Bypassing a Monthly Secure Message Limit Using a Race Condition](https://medium.com/@pophacker996/bypassing-a-monthly-secure-message-limit-using-a-race-condition-ecd700714720?source=rss------bug_bounty-5) 
+ - 💯January 1, 2026 - [SantaCloud Intigriti Web Challenge Write-Up](https://medium.com/@gr00t25/santacloud-intigriti-web-challenge-write-up-29175ea3b2ce?source=rss------bug_bounty-5) 
 
- - 💯December 31, 2025 - [Top Bug Bounty Platforms](https://osintteam.blog/top-bug-bounty-platforms-b2c2dd135277?source=rss------bug_bounty-5) 
+ - 💯January 1, 2026 - [BAC &lpar;Privilege Escalation&rpar;: How a Simple Method Swap Exposed Sensitive Admin Data](https://0xmostafa.medium.com/bac-privilege-escalation-how-a-simple-method-swap-exposed-sensitive-admin-data-30b241057088?source=rss------bug_bounty-5) 
 
- - 💯December 31, 2025 - [$500 Bounty: How a Magic Login Link Led to Full Account Takeover](https://osintteam.blog/500-bounty-how-a-magic-login-link-led-to-full-account-takeover-f726be2ee5b7?source=rss------bug_bounty-5) 
+ - 💯December 31, 2025 - [Self-XSS + CSRF = XSS Re](https://pad1ryoshi.medium.com/self-xss-csrf-xss-re-81bac80c969f?source=rss------bug_bounty-5) 
 
- - 💯December 30, 2025 - [Sensitive Information Disclosure via Publicly Accessible .user.ini at indrive](https://medium.com/@huseinabdo1974/sensitive-information-disclosure-via-publicly-accessible-user-ini-at-indrive-51b83f9a90f4?source=rss------bug_bounty-5) 
+ - 💯December 31, 2025 - [Stack Traces : Unveiling attack surface](https://medium.com/@TheCzar/stack-traces-unveiling-attack-surface-c2eb4e815a65?source=rss------bug_bounty-5) 
 
- - 💯December 30, 2025 - [I Couldn’t Find the Tool I Needed for Web Security Testing — So I Built It](https://medium.com/@mohmmedalariki2014/i-couldnt-find-the-tool-i-needed-for-web-security-testing-so-i-built-it-52a0cef69687?source=rss------bug_bounty-5) 
+ - 💯December 31, 2025 - [After More Than 2 Years in Bug Bounty: Here’s My Methodology](https://medium.com/@karemelaud5/after-more-than-2-years-in-bug-bounty-heres-my-methodology-0157629e2d7d?source=rss------bug_bounty-5) 
 
- - 💯December 30, 2025 - [Thinking Like an Attacker A Technical Perspective on Web Security Research](https://medium.com/@Pwnedl0l/thinking-like-an-attacker-a-technical-perspective-on-web-security-research-e5091704b53a?source=rss------bug_bounty-5) 
+ - 💯December 31, 2025 - [A New Year Thank You to Everyone Walking This Path Together](https://medium.com/@viratavi1223/a-new-year-thank-you-to-everyone-walking-this-path-together-8a9143fcb4cd?source=rss------bug_bounty-5) 
 
- - 💯December 30, 2025 - [The Silent Weapon &lpar;Part 2&rpar;: Real AI Workflows Bug Bounty Hunters Actually Use](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/the-silent-weapon-part-2-real-ai-workflows-bug-bounty-hunters-actually-use-9b7b2d8fd26e?source=rss------bug_bounty-5) 
+ - 💯December 31, 2025 - [Commitment Issues - picoCTF &lpar;General Skills&rpar;](https://xrabbit.medium.com/commitment-issues-picoctf-general-skills-8da579a57004?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
