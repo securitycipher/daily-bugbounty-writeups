@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 1, 2026 - [The Silent Weapon &lpar;Part 3&rpar;: AI-Assisted Recon Chains That Actually Find Bugs](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/the-silent-weapon-part-3-ai-assisted-recon-chains-that-actually-find-bugs-38b847be67c9?source=rss------bug_bounty-5) 
+ - 💯January 2, 2026 - [Daily Workflow of Elite Bug Hunters: 12 Tools That Power Real-World Bounty Success](https://medium.com/@verylazytech/daily-workflow-of-elite-bug-hunters-12-tools-that-power-real-world-bounty-success-6cf62c78bb64?source=rss------bug_bounty-5) 
 
- - 💯January 1, 2026 - [How I Cracked CloudSEK CTF Round 2: A Deep Dive into “Boot Sequence”](https://medium.com/@an.anonymous.school/how-i-cracked-cloudsek-ctf-round-2-a-deep-dive-into-boot-sequence-4b19ce36a5ae?source=rss------bug_bounty-5) 
+ - 💯January 2, 2026 - [SantaCloud Challenge Solution: Credential Exposure via Backup File Leading to Admin Access and IDOR](https://medium.com/@masangamike07/santacloud-challenge-solution-credential-exposure-via-backup-file-leading-to-admin-access-and-idor-b3afa44a9cf4?source=rss------bug_bounty-5) 
 
- - 💯January 1, 2026 - [MongoBleed &lpar;CVE-2025–14847&rpar;: Bug Bounty Reality of This MongoDB Vulnerability](https://medium.com/@shaikhminhaz1975/mongobleed-cve-2025-14847-bug-bounty-reality-of-this-mongodb-vulnerability-cf00e98b03b4?source=rss------bug_bounty-5) 
+ - 💯January 2, 2026 - [How Weak Password Reset Flows Turn “Forgot Password?” Into Full Account Takeover](https://medium.com/@MuhammedAsfan/how-weak-password-reset-flows-turn-forgot-password-into-full-account-takeover-dc95508cdfe8?source=rss------bug_bounty-5) 
 
- - 💯January 1, 2026 - [SantaCloud Intigriti Web Challenge Write-Up](https://medium.com/@gr00t25/santacloud-intigriti-web-challenge-write-up-29175ea3b2ce?source=rss------bug_bounty-5) 
+ - 💯January 2, 2026 - [Cybersecurity Fundamentals and Understanding Penetration Testing](https://medium.com/@januarv/cybersecurity-fundamentals-and-understanding-penetration-testing-c6af996a8eca?source=rss------bug_bounty-5) 
 
- - 💯January 1, 2026 - [BAC &lpar;Privilege Escalation&rpar;: How a Simple Method Swap Exposed Sensitive Admin Data](https://0xmostafa.medium.com/bac-privilege-escalation-how-a-simple-method-swap-exposed-sensitive-admin-data-30b241057088?source=rss------bug_bounty-5) 
+ - 💯January 2, 2026 - [How I Hacked One of the Largest Ministries in Indonesia](https://asyary.medium.com/how-i-hacked-one-of-the-largest-ministries-in-indonesia-1fba947893e1?source=rss------bug_bounty-5) 
 
- - 💯December 31, 2025 - [Self-XSS + CSRF = XSS Re](https://pad1ryoshi.medium.com/self-xss-csrf-xss-re-81bac80c969f?source=rss------bug_bounty-5) 
+ - 💯January 1, 2026 - [Recon to Vulnerability: A Practical Guide to Finding Real Bugs](https://osintteam.blog/recon-to-vulnerability-a-practical-guide-to-finding-real-bugs-7718ee8eca3f?source=rss------bug_bounty-5) 
 
- - 💯December 31, 2025 - [Stack Traces : Unveiling attack surface](https://medium.com/@TheCzar/stack-traces-unveiling-attack-surface-c2eb4e815a65?source=rss------bug_bounty-5) 
+ - 💯January 1, 2026 - [“Bug Bounty Bootcamp #9: How Modern Web Infrastructure Creates New Attack Surfaces”](https://osintteam.blog/bug-bounty-bootcamp-9-how-modern-web-infrastructure-creates-new-attack-surfaces-6f28d26f6a61?source=rss------bug_bounty-5) 
 
- - 💯December 31, 2025 - [After More Than 2 Years in Bug Bounty: Here’s My Methodology](https://medium.com/@karemelaud5/after-more-than-2-years-in-bug-bounty-heres-my-methodology-0157629e2d7d?source=rss------bug_bounty-5) 
+ - 💯January 1, 2026 - [The Multi-Tenancy Bug That Leaked 10,000 User Records](https://bytemedaily.medium.com/the-multi-tenancy-bug-that-leaked-10-000-user-records-d133d4c59447?source=rss------bug_bounty-5) 
 
- - 💯December 31, 2025 - [A New Year Thank You to Everyone Walking This Path Together](https://medium.com/@viratavi1223/a-new-year-thank-you-to-everyone-walking-this-path-together-8a9143fcb4cd?source=rss------bug_bounty-5) 
+ - 💯January 1, 2026 - [Chapter 3: Policies &amp; Escalation](https://iamaangx028.medium.com/chapter-3-policies-escalation-3e927eb5abf1?source=rss------bug_bounty-5) 
 
- - 💯December 31, 2025 - [Commitment Issues - picoCTF &lpar;General Skills&rpar;](https://xrabbit.medium.com/commitment-issues-picoctf-general-skills-8da579a57004?source=rss------bug_bounty-5) 
+ - 💯January 1, 2026 - [Beyond the APK: Exploiting Misconfigured Firebase Databases](https://medium.com/@xelcezeri/beyond-the-apk-exploiting-misconfigured-firebase-databases-764c48e4fc80?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
