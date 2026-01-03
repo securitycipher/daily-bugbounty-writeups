@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 2, 2026 - [Daily Workflow of Elite Bug Hunters: 12 Tools That Power Real-World Bounty Success](https://medium.com/@verylazytech/daily-workflow-of-elite-bug-hunters-12-tools-that-power-real-world-bounty-success-6cf62c78bb64?source=rss------bug_bounty-5) 
+ - 💯January 3, 2026 - [Advanced WAF Bypass Reflected XSS in search bar](https://medium.com/@mustafamahmvd/advanced-waf-bypass-reflected-xss-in-search-bar-38bb918aa3de?source=rss------bug_bounty-5) 
 
- - 💯January 2, 2026 - [SantaCloud Challenge Solution: Credential Exposure via Backup File Leading to Admin Access and IDOR](https://medium.com/@masangamike07/santacloud-challenge-solution-credential-exposure-via-backup-file-leading-to-admin-access-and-idor-b3afa44a9cf4?source=rss------bug_bounty-5) 
+ - 💯January 3, 2026 - [Hello guys,](https://medium.com/@Salao3/hello-guys-c7be5ada0a5b?source=rss------bug_bounty-5) 
 
- - 💯January 2, 2026 - [How Weak Password Reset Flows Turn “Forgot Password?” Into Full Account Takeover](https://medium.com/@MuhammedAsfan/how-weak-password-reset-flows-turn-forgot-password-into-full-account-takeover-dc95508cdfe8?source=rss------bug_bounty-5) 
+ - 💯January 3, 2026 - [Secrets in the Wild &lpar;2025&rpar;: What 18 Months of Monitoring Exposed](https://osintteam.blog/secrets-in-the-wild-2025-what-18-months-of-monitoring-exposed-8b91962fb316?source=rss------bug_bounty-5) 
 
- - 💯January 2, 2026 - [Cybersecurity Fundamentals and Understanding Penetration Testing](https://medium.com/@januarv/cybersecurity-fundamentals-and-understanding-penetration-testing-c6af996a8eca?source=rss------bug_bounty-5) 
+ - 💯January 2, 2026 - [El comienzo de algo grande….](https://n1sec.medium.com/el-comienzo-de-algo-grande-0550de248a56?source=rss------bug_bounty-5) 
 
- - 💯January 2, 2026 - [How I Hacked One of the Largest Ministries in Indonesia](https://asyary.medium.com/how-i-hacked-one-of-the-largest-ministries-in-indonesia-1fba947893e1?source=rss------bug_bounty-5) 
+ - 💯January 2, 2026 - [My Life as a Buggy Program: A Developer’s Autobiography](https://taiwo-adetiloye.medium.com/my-life-as-a-buggy-program-a-developers-autobiography-82ac825195c7?source=rss------bug_bounty-5) 
 
- - 💯January 1, 2026 - [Recon to Vulnerability: A Practical Guide to Finding Real Bugs](https://osintteam.blog/recon-to-vulnerability-a-practical-guide-to-finding-real-bugs-7718ee8eca3f?source=rss------bug_bounty-5) 
+ - 💯January 2, 2026 - [Building a Complete Cybersecurity Solution with Zero Budget: A Practical Implementation Guide](https://medium.com/@momenrezkk90/building-a-complete-cybersecurity-solution-with-zero-budget-a-practical-implementation-guide-e6fc27db2163?source=rss------bug_bounty-5) 
 
- - 💯January 1, 2026 - [“Bug Bounty Bootcamp #9: How Modern Web Infrastructure Creates New Attack Surfaces”](https://osintteam.blog/bug-bounty-bootcamp-9-how-modern-web-infrastructure-creates-new-attack-surfaces-6f28d26f6a61?source=rss------bug_bounty-5) 
+ - 💯January 2, 2026 - [How I Finally Understood CSRF &lpar;Bug Bounty Notes #1 and2‍](https://medium.com/@ahmedbelahcen2018/bug-bounty-notes-csrf-59f79f809575?source=rss------bug_bounty-5) 
 
- - 💯January 1, 2026 - [The Multi-Tenancy Bug That Leaked 10,000 User Records](https://bytemedaily.medium.com/the-multi-tenancy-bug-that-leaked-10-000-user-records-d133d4c59447?source=rss------bug_bounty-5) 
+ - 💯January 2, 2026 - [Breaking the Walls: Techniques for 403 Forbidden Bypass](https://medium.com/@xelcezeri/breaking-the-walls-techniques-for-403-forbidden-bypass-c25034b822c6?source=rss------bug_bounty-5) 
 
- - 💯January 1, 2026 - [Chapter 3: Policies &amp; Escalation](https://iamaangx028.medium.com/chapter-3-policies-escalation-3e927eb5abf1?source=rss------bug_bounty-5) 
-
- - 💯January 1, 2026 - [Beyond the APK: Exploiting Misconfigured Firebase Databases](https://medium.com/@xelcezeri/beyond-the-apk-exploiting-misconfigured-firebase-databases-764c48e4fc80?source=rss------bug_bounty-5) 
+ - 💯January 2, 2026 - [Exploiting Parameter Driven Authorization Logic in Authenticated APIs](https://medium.com/@Pwnedl0l/exploiting-parameter-driven-authorization-logic-in-authenticated-apis-02a63de0fea3?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
