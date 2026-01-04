@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 3, 2026 - [Advanced WAF Bypass Reflected XSS in search bar](https://medium.com/@mustafamahmvd/advanced-waf-bypass-reflected-xss-in-search-bar-38bb918aa3de?source=rss------bug_bounty-5) 
+ - 💯January 4, 2026 - [$280 Bug Bounty: How a Case-Sensitive Email Bug Locked Users&#39; Accounts](https://infosecwriteups.com/280-bug-bounty-how-a-case-sensitive-email-bug-locked-users-accounts-175fe00779d9?source=rss------bug_bounty-5) 
 
- - 💯January 3, 2026 - [Hello guys,](https://medium.com/@Salao3/hello-guys-c7be5ada0a5b?source=rss------bug_bounty-5) 
+ - 💯January 4, 2026 - [The One-Click Library Wipe: Exploiting CSRF in Saved Stories](https://infosecwriteups.com/the-one-click-library-wipe-exploiting-csrf-in-saved-stories-28523d4bc5e2?source=rss------bug_bounty-5) 
 
- - 💯January 3, 2026 - [Secrets in the Wild &lpar;2025&rpar;: What 18 Months of Monitoring Exposed](https://osintteam.blog/secrets-in-the-wild-2025-what-18-months-of-monitoring-exposed-8b91962fb316?source=rss------bug_bounty-5) 
+ - 💯January 4, 2026 - [How Recon Helped Me Land a $50,000 Bug Bounty — No Exploits Needed](https://medium.com/@cybervolt/how-recon-helped-me-land-a-50-000-bug-bounty-no-exploits-needed-42163ede7dfc?source=rss------bug_bounty-5) 
 
- - 💯January 2, 2026 - [El comienzo de algo grande….](https://n1sec.medium.com/el-comienzo-de-algo-grande-0550de248a56?source=rss------bug_bounty-5) 
+ - 💯January 4, 2026 - [Bug Ninja Chronicles: Naruto’s First Mission as a Bug Hunter. &quot;Believe it&quot;](https://medium.com/@Salao3/bug-ninja-chronicles-narutos-first-mission-as-a-bug-hunter-believe-it-3c554b451f16?source=rss------bug_bounty-5) 
 
- - 💯January 2, 2026 - [My Life as a Buggy Program: A Developer’s Autobiography](https://taiwo-adetiloye.medium.com/my-life-as-a-buggy-program-a-developers-autobiography-82ac825195c7?source=rss------bug_bounty-5) 
+ - 💯January 4, 2026 - [Unauthorized Access to Sensitive PII via Broken Access Control](https://ajay-vardhan01.medium.com/unauthorized-access-to-sensitive-pii-via-broken-access-control-507adf46879a?source=rss------bug_bounty-5) 
 
- - 💯January 2, 2026 - [Building a Complete Cybersecurity Solution with Zero Budget: A Practical Implementation Guide](https://medium.com/@momenrezkk90/building-a-complete-cybersecurity-solution-with-zero-budget-a-practical-implementation-guide-e6fc27db2163?source=rss------bug_bounty-5) 
+ - 💯January 4, 2026 - [Intercom Deep Recon Techniques](https://medium.com/legionhunters/intercom-deep-recon-techniques-83eca3229704?source=rss------bug_bounty-5) 
 
- - 💯January 2, 2026 - [How I Finally Understood CSRF &lpar;Bug Bounty Notes #1 and2‍](https://medium.com/@ahmedbelahcen2018/bug-bounty-notes-csrf-59f79f809575?source=rss------bug_bounty-5) 
+ - 💯January 4, 2026 - [BugZzzz — FahemSec Web Challenge](https://mohammadibnibrahim.medium.com/bugzzzz-fahemsec-web-challenge-422c15c539b9?source=rss------bug_bounty-5) 
 
- - 💯January 2, 2026 - [Breaking the Walls: Techniques for 403 Forbidden Bypass](https://medium.com/@xelcezeri/breaking-the-walls-techniques-for-403-forbidden-bypass-c25034b822c6?source=rss------bug_bounty-5) 
+ - 💯January 3, 2026 - [Common CSRF Protection Bypass Techniques &lpar;Explained&rpar;‍](https://medium.com/@ahmedbelahcen2018/common-csrf-protection-bypass-techniques-explained-e7f7568aa56a?source=rss------bug_bounty-5) 
 
- - 💯January 2, 2026 - [Exploiting Parameter Driven Authorization Logic in Authenticated APIs](https://medium.com/@Pwnedl0l/exploiting-parameter-driven-authorization-logic-in-authenticated-apis-02a63de0fea3?source=rss------bug_bounty-5) 
+ - 💯January 3, 2026 - [TakeOver TryHackMe Write Up](https://medium.com/@cat0x01/takeover-tryhackme-write-up-bed29d7fcd95?source=rss------bug_bounty-5) 
+
+ - 💯January 3, 2026 - [The two byte CPDoS](https://medium.com/@kennis.dev/the-two-byte-cpdos-1b4466511cf1?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
