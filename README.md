@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 4, 2026 - [$280 Bug Bounty: How a Case-Sensitive Email Bug Locked Users&#39; Accounts](https://infosecwriteups.com/280-bug-bounty-how-a-case-sensitive-email-bug-locked-users-accounts-175fe00779d9?source=rss------bug_bounty-5) 
+ - 💯January 5, 2026 - [YARA Rule Cheatsheet: 20 Malware Sample Patterns Every Threat Hunter Should Know](https://medium.com/@verylazytech/yara-rule-cheatsheet-20-malware-sample-patterns-every-threat-hunter-should-know-3d9637f7319c?source=rss------bug_bounty-5) 
 
- - 💯January 4, 2026 - [The One-Click Library Wipe: Exploiting CSRF in Saved Stories](https://infosecwriteups.com/the-one-click-library-wipe-exploiting-csrf-in-saved-stories-28523d4bc5e2?source=rss------bug_bounty-5) 
+ - 💯January 5, 2026 - [Faster Ways to Find Open Redirect Vulnerabilities &lpar;With Automation&rpar;](https://medium.com/@alhamr1zvi/faster-ways-to-find-open-redirect-vulnerabilities-with-automation-34aa346891b3?source=rss------bug_bounty-5) 
 
- - 💯January 4, 2026 - [How Recon Helped Me Land a $50,000 Bug Bounty — No Exploits Needed](https://medium.com/@cybervolt/how-recon-helped-me-land-a-50-000-bug-bounty-no-exploits-needed-42163ede7dfc?source=rss------bug_bounty-5) 
+ - 💯January 5, 2026 - [Account Takeover via IDOR in GraphQL Invitation Flow](https://scriptjacker.medium.com/account-takeover-via-idor-in-graphql-invitation-flow-546b9a120c53?source=rss------bug_bounty-5) 
 
- - 💯January 4, 2026 - [Bug Ninja Chronicles: Naruto’s First Mission as a Bug Hunter. &quot;Believe it&quot;](https://medium.com/@Salao3/bug-ninja-chronicles-narutos-first-mission-as-a-bug-hunter-believe-it-3c554b451f16?source=rss------bug_bounty-5) 
+ - 💯January 4, 2026 - [What You’ll Learn After Gaining Your 1&#39;st Hacking Certifcate? | Certificated Hacker’s Roadmap #1](https://medium.com/great-hackers-battalion/what-youll-learn-after-gaining-your-1st-hacking-certifcate-certificated-hacker-s-roadmap-1-6fa730d5bd39?source=rss------bug_bounty-5) 
 
- - 💯January 4, 2026 - [Unauthorized Access to Sensitive PII via Broken Access Control](https://ajay-vardhan01.medium.com/unauthorized-access-to-sensitive-pii-via-broken-access-control-507adf46879a?source=rss------bug_bounty-5) 
+ - 💯January 4, 2026 - [Insecure Direct Object Reference &lpar;IDOR&rpar;](https://medium.com/@cybernight646/insecure-direct-object-reference-idor-36b639b198cc?source=rss------bug_bounty-5) 
 
- - 💯January 4, 2026 - [Intercom Deep Recon Techniques](https://medium.com/legionhunters/intercom-deep-recon-techniques-83eca3229704?source=rss------bug_bounty-5) 
+ - 💯January 4, 2026 - [The Right Methodology for Hacking Anything](https://medium.com/@cybernight646/the-right-methodology-for-hacking-anything-de0e04f583e1?source=rss------bug_bounty-5) 
 
- - 💯January 4, 2026 - [BugZzzz — FahemSec Web Challenge](https://mohammadibnibrahim.medium.com/bugzzzz-fahemsec-web-challenge-422c15c539b9?source=rss------bug_bounty-5) 
+ - 💯January 4, 2026 - [Deep-Dive PII Hunting &amp; Validation Techniques &lpar;Part 2/3&rpar;](https://medium.com/@cybersecplayground/deep-dive-pii-hunting-validation-techniques-part-2-3-c95d587115e2?source=rss------bug_bounty-5) 
 
- - 💯January 3, 2026 - [Common CSRF Protection Bypass Techniques &lpar;Explained&rpar;‍](https://medium.com/@ahmedbelahcen2018/common-csrf-protection-bypass-techniques-explained-e7f7568aa56a?source=rss------bug_bounty-5) 
+ - 💯January 4, 2026 - [Burp Suite said “Critical”, Chrome said “Nope”: My ~$1,000 Mistake](https://medium.com/@marlonpetry/burp-suite-said-critical-chrome-said-nope-my-1-000-mistake-9581777d7ce3?source=rss------bug_bounty-5) 
 
- - 💯January 3, 2026 - [TakeOver TryHackMe Write Up](https://medium.com/@cat0x01/takeover-tryhackme-write-up-bed29d7fcd95?source=rss------bug_bounty-5) 
+ - 💯January 4, 2026 - [Lab: CORS vulnerability with basic origin reflection&lpar;Portswigger Labs&rpar;](https://mukibas37.medium.com/lab-cors-vulnerability-with-basic-origin-reflection-portswigger-labs-1d7699266907?source=rss------bug_bounty-5) 
 
- - 💯January 3, 2026 - [The two byte CPDoS](https://medium.com/@kennis.dev/the-two-byte-cpdos-1b4466511cf1?source=rss------bug_bounty-5) 
+ - 💯January 4, 2026 - [The Bug Bounty Hunter Making $500K/Year Without a CS Degree](https://medium.com/@osmion/the-bug-bounty-hunter-making-500k-year-without-a-cs-degree-6653e21c1830?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
