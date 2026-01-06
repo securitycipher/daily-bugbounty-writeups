@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 5, 2026 - [YARA Rule Cheatsheet: 20 Malware Sample Patterns Every Threat Hunter Should Know](https://medium.com/@verylazytech/yara-rule-cheatsheet-20-malware-sample-patterns-every-threat-hunter-should-know-3d9637f7319c?source=rss------bug_bounty-5) 
+ - 💯January 6, 2026 - [Google Dorks 2025 Edition: 150+ Dorks &amp; Tools for Ethical Hackers and Pentesters](https://medium.com/@verylazytech/google-dorks-2025-edition-150-dorks-tools-for-ethical-hackers-and-pentesters-20415d44859a?source=rss------bug_bounty-5) 
 
- - 💯January 5, 2026 - [Faster Ways to Find Open Redirect Vulnerabilities &lpar;With Automation&rpar;](https://medium.com/@alhamr1zvi/faster-ways-to-find-open-redirect-vulnerabilities-with-automation-34aa346891b3?source=rss------bug_bounty-5) 
+ - 💯January 6, 2026 - [One Post Away From Being Exposed](https://medium.com/@d3do/one-post-away-from-being-exposed-586c0d415f98?source=rss------bug_bounty-5) 
 
- - 💯January 5, 2026 - [Account Takeover via IDOR in GraphQL Invitation Flow](https://scriptjacker.medium.com/account-takeover-via-idor-in-graphql-invitation-flow-546b9a120c53?source=rss------bug_bounty-5) 
+ - 💯January 6, 2026 - [From Recon Burnout to Automation: How I Built My First Bug Bounty Tool](https://medium.com/@captainrogers/from-recon-burnout-to-automation-how-i-built-my-first-bug-bounty-tool-e6b8aec6e32f?source=rss------bug_bounty-5) 
 
- - 💯January 4, 2026 - [What You’ll Learn After Gaining Your 1&#39;st Hacking Certifcate? | Certificated Hacker’s Roadmap #1](https://medium.com/great-hackers-battalion/what-youll-learn-after-gaining-your-1st-hacking-certifcate-certificated-hacker-s-roadmap-1-6fa730d5bd39?source=rss------bug_bounty-5) 
+ - 💯January 6, 2026 - [Breaking the Web &lpar;Part 8&rpar;: Sensitive Data Exposure — When Secrets Leak](https://medium.com/@cybercom0101/breaking-the-web-part-8-sensitive-data-exposure-when-secrets-leak-7f42cd64a063?source=rss------bug_bounty-5) 
 
- - 💯January 4, 2026 - [Insecure Direct Object Reference &lpar;IDOR&rpar;](https://medium.com/@cybernight646/insecure-direct-object-reference-idor-36b639b198cc?source=rss------bug_bounty-5) 
+ - 💯January 6, 2026 - [The Recon Mistake 90% of Hackers Make ‍](https://infosecwriteups.com/the-recon-mistake-90-of-hackers-make-52723b69b154?source=rss------bug_bounty-5) 
 
- - 💯January 4, 2026 - [The Right Methodology for Hacking Anything](https://medium.com/@cybernight646/the-right-methodology-for-hacking-anything-de0e04f583e1?source=rss------bug_bounty-5) 
+ - 💯January 6, 2026 - [&lpar;CSP&rpar; Common Bypass Techniques fo](https://medium.com/@anandrishav2228/csp-common-bypass-techniques-fo-c890144e4432?source=rss------bug_bounty-5) 
 
- - 💯January 4, 2026 - [Deep-Dive PII Hunting &amp; Validation Techniques &lpar;Part 2/3&rpar;](https://medium.com/@cybersecplayground/deep-dive-pii-hunting-validation-techniques-part-2-3-c95d587115e2?source=rss------bug_bounty-5) 
+ - 💯January 6, 2026 - [My first bounty from Hackerone | $100 Code Injection on AI bot](https://infosecwriteups.com/my-first-bounty-from-hackerone-100-code-injection-on-ai-bot-620a7e3f2ba4?source=rss------bug_bounty-5) 
 
- - 💯January 4, 2026 - [Burp Suite said “Critical”, Chrome said “Nope”: My ~$1,000 Mistake](https://medium.com/@marlonpetry/burp-suite-said-critical-chrome-said-nope-my-1-000-mistake-9581777d7ce3?source=rss------bug_bounty-5) 
+ - 💯January 6, 2026 - [Manual SQL Injection Using HackBar &lpar;Cyberfox&rpar; Complete Beginner Guide](https://medium.com/@Purushothamr/manual-sql-injection-using-hackbar-cyberfox-complete-beginner-guide-4fe12e331345?source=rss------bug_bounty-5) 
 
- - 💯January 4, 2026 - [Lab: CORS vulnerability with basic origin reflection&lpar;Portswigger Labs&rpar;](https://mukibas37.medium.com/lab-cors-vulnerability-with-basic-origin-reflection-portswigger-labs-1d7699266907?source=rss------bug_bounty-5) 
+ - 💯January 6, 2026 - [JavaScript Analysis &amp; Burp Suite Techniques That Actually Work](https://osintteam.blog/javascript-analysis-burp-suite-techniques-that-actually-work-d9c26823c219?source=rss------bug_bounty-5) 
 
- - 💯January 4, 2026 - [The Bug Bounty Hunter Making $500K/Year Without a CS Degree](https://medium.com/@osmion/the-bug-bounty-hunter-making-500k-year-without-a-cs-degree-6653e21c1830?source=rss------bug_bounty-5) 
+ - 💯January 6, 2026 - [Neighbour TryHackMe Write UP](https://medium.com/@cat0x01/neighbour-tryhackme-write-up-488b42bb3d90?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
