@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 7, 2026 - [Subdomain Takeover in 2025  — New Methods + Tools](https://infosecwriteups.com/subdomain-takeover-in-2025-new-methods-tools-dba94ba02121?source=rss------bug_bounty-5) 
+ - 💯January 8, 2026 - [The “Blind Sniper” Attack: Spamming Thousands of Users Without Knowing Their Email Addresses](https://systemweakness.com/the-blind-sniper-attack-spamming-thousands-of-users-without-knowing-their-email-addresses-4d62ac327410?source=rss------bug_bounty-5) 
 
- - 💯January 7, 2026 - [Automating HackerOne Scope Parsing with qsv for Bug Bounty Recon](https://medium.com/@samhilliard/automating-hackerone-scope-parsing-with-qsv-for-bug-bounty-recon-84bc770ed73c?source=rss------bug_bounty-5) 
+ - 💯January 8, 2026 - [Recruiting Google Gemini’s Email Summarizer as a Phishing Aid](https://mike-sheward.medium.com/recruiting-google-geminis-email-summarizer-as-a-phishing-aid-417055295ba7?source=rss------bug_bounty-5) 
 
- - 💯January 7, 2026 - [Why Your Cache Rules are Leaking User Data &lpar;Web Cache Deception&rpar;](https://medium.com/@NullifiedSec/why-your-cache-rules-are-leaking-user-data-web-cache-deception-af3b0ee28496?source=rss------bug_bounty-5) 
+ - 💯January 8, 2026 - [Lo-Fi TryHackMe Write UP](https://medium.com/@cat0x01/lo-fi-tryhackme-write-up-a0a7e0e12f60?source=rss------bug_bounty-5) 
 
- - 💯January 7, 2026 - [Nmap Guide for Bug Bounty: Port Scanning and WAF Evasion](https://systemweakness.com/nmap-guide-for-bug-bounty-port-scanning-and-waf-evasion-9e0ea69f3377?source=rss------bug_bounty-5) 
+ - 💯January 7, 2026 - [Understanding CVE-2026–21877: Critical RCE Flaw in n8n and What It Means for Your Automation Stack](https://ikhaleelkhan.medium.com/understanding-cve-2026-21877-critical-rce-flaw-in-n8n-and-what-it-means-for-your-automation-stack-86df08a46e05?source=rss------bug_bounty-5) 
 
- - 💯January 6, 2026 - [Agent T TryHackMe Write UP](https://medium.com/@cat0x01/agent-t-tryhackme-write-up-251d767d5bd0?source=rss------bug_bounty-5) 
+ - 💯January 7, 2026 - [Bug Bounty: Unico IDtech’s Journey So Far](https://medium.com/@victor.theobaldo/bug-bounty-unico-idtechs-journey-so-far-d7926eb65d06?source=rss------bug_bounty-5) 
 
- - 💯January 6, 2026 - [Have You Ever Opened Google Drive and Found Someone Else’s Files?](https://medium.com/@akashutosh659/have-you-ever-opened-google-drive-and-found-someone-elses-files-c50ca3f5fc59?source=rss------bug_bounty-5) 
+ - 💯January 7, 2026 - [Exported Components - Kickin’ Down the Doors Devs Left Unlocked](https://medium.com/@Slayer_15/exported-components-kickin-down-the-doors-devs-left-unlocked-cfd5d34bbac0?source=rss------bug_bounty-5) 
 
- - 💯January 6, 2026 - [How a Late-Night Scroll Turned Into an Unexpected XSS Discovery](https://medium.com/@akashutosh659/how-a-late-night-scroll-turned-into-an-unexpected-xss-discovery-bcfcf4014958?source=rss------bug_bounty-5) 
+ - 💯January 7, 2026 - [“Bug Bounty Bootcamp #11: Hands-On HTTP — Using Proxy Tools to See, Intercept, and Weaponize Every…](https://osintteam.blog/bug-bounty-bootcamp-11-hands-on-http-using-proxy-tools-to-see-intercept-and-weaponize-every-121c1afb4bf5?source=rss------bug_bounty-5) 
 
- - 💯January 6, 2026 - [How a Simple HPP Bug Earned $700 on Twitter](https://medium.com/@ahmedbelahcen2018/how-a-simple-hpp-bug-earned-700-on-twitter-e5bb3a356c05?source=rss------bug_bounty-5) 
+ - 💯January 7, 2026 - [I Was Logged Out — But the API Still Trusted Me](https://infosecwriteups.com/i-was-logged-out-but-the-api-still-trusted-me-85ebbe020544?source=rss------bug_bounty-5) 
 
- - 💯January 6, 2026 - [How I found a Race condition on Like Function](https://zodiac0x.medium.com/how-i-found-a-race-condition-on-like-function-7f236537b7fc?source=rss------bug_bounty-5) 
+ - 💯January 7, 2026 - [Android Pentesting Lab — Part 0: Ultimate Setup Guide &lpar;2026&rpar;](https://medium.com/@mscmkn/android-pentesting-lab-part-0-ultimate-setup-guide-2026-b268ec231e5c?source=rss------bug_bounty-5) 
 
- - 💯January 6, 2026 - [How One “Safe” Optimization Feature Became a Critical Security Failure ⚙️](https://infosecwriteups.com/how-one-safe-optimization-feature-became-a-critical-security-failure-%EF%B8%8F-55b00dc462ec?source=rss------bug_bounty-5) 
+ - 💯January 7, 2026 - [How I Found Broken Authentication and Authorization on a Website](https://medium.com/@nyany032/how-i-found-broken-authentication-and-authorization-on-a-website-378db3f2aaea?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
