@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 11, 2026 - [Beginners Guide to Setup your “GF” !!](https://medium.com/@zisansakibhaque/beginners-guide-to-setup-your-gf-3a5fca7e6edf?source=rss------bug_bounty-5) 
+ - 💯January 14, 2026 - [Easy 3 Digit Bounty: A Silent Takeover Flaw $$](https://medium.com/@vansh_51476/when-oauth-isnt-really-oauth-a-silent-account-takeover-flaw-0ec4f69a36fe?source=rss------bug_bounty-5) 
 
- - 💯January 11, 2026 - [First Learn, Then Earn: My Day 1 Journey into Bug Bounty Hunting](https://medium.com/@faizan.nazir/first-learn-then-earn-my-day-1-journey-into-bug-bounty-hunting-aa02808d28bb?source=rss------bug_bounty-5) 
+ - 💯January 14, 2026 - [Turn Your Android Phone Into a Pentesting Suite &lpar;No Root Required&rpar;](https://medium.com/@gecr07/turn-your-android-phone-into-a-pentesting-suite-no-root-required-62b3f098356c?source=rss------bug_bounty-5) 
 
- - 💯January 11, 2026 - [Bypassing SSRF Protections: A $10,000 Lesson from Slack](https://infosecwriteups.com/bypassing-ssrf-protections-a-10-000-lesson-from-slack-6cff022a44a6?source=rss------bug_bounty-5) 
+ - 💯January 14, 2026 - [How I Found a Critical SSRF &lpar;Very Easily&rpar; Through Redirect Bypass](https://medium.com/@InsbatArshad/how-i-found-a-critical-ssrf-very-easily-through-redirect-bypass-1bddcc068984?source=rss------bug_bounty-5) 
 
- - 💯January 10, 2026 - [How i was able to delete any user account i wanted from the application :&rpar;](https://medium.com/@mustafamahmvd/how-i-was-able-to-delete-any-user-account-i-wanted-from-the-application-44426f78a70a?source=rss------bug_bounty-5) 
+ - 💯January 14, 2026 - [Zero Trust Is Not a Product: How Most Companies Get It Wrong](https://medium.com/@paritoshblogs/zero-trust-is-not-a-product-how-most-companies-get-it-wrong-70d09e2b3107?source=rss------bug_bounty-5) 
 
- - 💯January 10, 2026 - [$22,300 Bug Bounty: Cloning Private GitLab Repositories via Import Feature](https://osintteam.blog/22-300-bug-bounty-cloning-private-gitlab-repositories-via-import-feature-15bcabb62530?source=rss------bug_bounty-5) 
+ - 💯January 14, 2026 - [Masscan vs. Nmap: Port Scanning Guide for Bug Bounty](https://medium.com/@jpablo13/masscan-vs-nmap-port-scanning-guide-for-bug-bounty-7b4c93f0acc3?source=rss------bug_bounty-5) 
 
- - 💯January 10, 2026 - [The Dark Web Dump Was Old — The Vulnerability Wasn’t ️](https://infosecwriteups.com/the-dark-web-dump-was-old-the-vulnerability-wasnt-%EF%B8%8F-f0c4a2df8171?source=rss------bug_bounty-5) 
+ - 💯January 13, 2026 - [From 403 Forbidden to $$ How a Simple Extension Bypass Led to Unauthenticated Access to Private…](https://kiraadx.medium.com/from-403-forbidden-to-how-a-simple-extension-bypass-led-to-unauthenticated-access-to-private-f1f4633b82dc?source=rss------bug_bounty-5) 
 
- - 💯January 10, 2026 - [Automating HackerOne Program Updates with Telegram Notifications](https://medium.com/@zbyte27/automating-hackerone-program-updates-with-telegram-notifications-7f1c8e0e29ef?source=rss------bug_bounty-5) 
+ - 💯January 13, 2026 - [When ‘Dead’ Pets Come Back to Life: A Bug I Found on a Pet Platform](https://skeptiker.medium.com/when-dead-pets-come-back-to-life-a-bug-i-found-on-a-pet-platform-97b1aac7de73?source=rss------bug_bounty-5) 
 
- - 💯January 10, 2026 - [Introduction](https://medium.com/@zbyte27/introduction-edc1811f2079?source=rss------bug_bounty-5) 
+ - 💯January 13, 2026 - [Top 5 AI Tools Every Bug Bounty Hunter Should Know](https://medium.com/data-and-beyond/top-5-ai-tools-every-bug-bounty-hunter-should-know-1d7638598f74?source=rss------bug_bounty-5) 
 
- - 💯January 10, 2026 - [How a Simple Business Logic Flaw Caused an Account Lockout DoS](https://medium.com/@christosdimitropouloss/how-a-simple-business-logic-flaw-caused-an-account-lockout-dos-c6b66bd2e3d0?source=rss------bug_bounty-5) 
+ - 💯January 13, 2026 - [How I Found a Critical Biometric 2FA Bypass… and Lost the Bounty](https://letchupkt.medium.com/how-i-found-a-critical-biometric-2fa-bypass-and-lost-the-bounty-9c38441640c4?source=rss------bug_bounty-5) 
 
- - 💯January 10, 2026 - [The €400 Bug - VPN/Geo Location Bypass](https://infosecwriteups.com/the-400-bug-vpn-geo-location-bypass-0e9a6d26dd37?source=rss------bug_bounty-5) 
+ - 💯January 13, 2026 - [Day 3 of Learning AWS: Elastic IP and Elastic Block Storage](https://muhammadkashifsecurityengineer.medium.com/day-3-of-learning-aws-elastic-ip-and-elastic-block-storage-df72bcb50e3c?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
