@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 14, 2026 - [Easy 3 Digit Bounty: A Silent Takeover Flaw $$](https://medium.com/@vansh_51476/when-oauth-isnt-really-oauth-a-silent-account-takeover-flaw-0ec4f69a36fe?source=rss------bug_bounty-5) 
+ - 💯January 15, 2026 - [From “Looks Legit” to “Definitely Malicious”: Header Analysis Explained](https://medium.com/@paritoshblogs/from-looks-legit-to-definitely-malicious-header-analysis-explained-4d1255f6473e?source=rss------bug_bounty-5) 
 
- - 💯January 14, 2026 - [Turn Your Android Phone Into a Pentesting Suite &lpar;No Root Required&rpar;](https://medium.com/@gecr07/turn-your-android-phone-into-a-pentesting-suite-no-root-required-62b3f098356c?source=rss------bug_bounty-5) 
+ - 💯January 14, 2026 - [A 5-Day Bug Bounty Hunt on a Telecom Target: From Recon to RXSS and Open Redirect](https://medium.com/@ayanacharya193/a-5-day-bug-bounty-hunt-on-a-telecom-target-from-recon-to-rxss-and-open-redirect-119a27f8e37b?source=rss------bug_bounty-5) 
 
- - 💯January 14, 2026 - [How I Found a Critical SSRF &lpar;Very Easily&rpar; Through Redirect Bypass](https://medium.com/@InsbatArshad/how-i-found-a-critical-ssrf-very-easily-through-redirect-bypass-1bddcc068984?source=rss------bug_bounty-5) 
+ - 💯January 14, 2026 - [Host Header Injection: A Practical Methodology for Security Testing](https://iaraoz.medium.com/host-header-injection-a-practical-methodology-for-security-testing-c5dab8abf2cf?source=rss------bug_bounty-5) 
 
- - 💯January 14, 2026 - [Zero Trust Is Not a Product: How Most Companies Get It Wrong](https://medium.com/@paritoshblogs/zero-trust-is-not-a-product-how-most-companies-get-it-wrong-70d09e2b3107?source=rss------bug_bounty-5) 
+ - 💯January 14, 2026 - [Jailbreak Detection Bypass Using LLDB: No Escape—iOS Jailbreak Detection Challenge](https://medium.com/@0xk3r0/jailbreak-detection-bypass-using-lldb-no-escape-ios-jailbreak-detection-challenge-881fd8e89ed0?source=rss------bug_bounty-5) 
 
- - 💯January 14, 2026 - [Masscan vs. Nmap: Port Scanning Guide for Bug Bounty](https://medium.com/@jpablo13/masscan-vs-nmap-port-scanning-guide-for-bug-bounty-7b4c93f0acc3?source=rss------bug_bounty-5) 
+ - 💯January 14, 2026 - [Open Redirect to XSS](https://medium.com/@xelcezeri/open-redirect-to-xss-3a579bf64ed2?source=rss------bug_bounty-5) 
 
- - 💯January 13, 2026 - [From 403 Forbidden to $$ How a Simple Extension Bypass Led to Unauthenticated Access to Private…](https://kiraadx.medium.com/from-403-forbidden-to-how-a-simple-extension-bypass-led-to-unauthenticated-access-to-private-f1f4633b82dc?source=rss------bug_bounty-5) 
+ - 💯January 14, 2026 - [My First XSS: How Simple Automation Helped Me Find It](https://medium.com/@dexter0_0/my-first-xss-how-simple-automation-helped-me-find-it-2d6d3f6143f4?source=rss------bug_bounty-5) 
 
- - 💯January 13, 2026 - [When ‘Dead’ Pets Come Back to Life: A Bug I Found on a Pet Platform](https://skeptiker.medium.com/when-dead-pets-come-back-to-life-a-bug-i-found-on-a-pet-platform-97b1aac7de73?source=rss------bug_bounty-5) 
+ - 💯January 14, 2026 - [Cybersecurity — Firewall Configuration Review: A Hands-On Example](https://cybersecuritywriteups.com/cybersecurity-firewall-configuration-review-a-hands-on-example-5213f7f00f4f?source=rss------bug_bounty-5) 
 
- - 💯January 13, 2026 - [Top 5 AI Tools Every Bug Bounty Hunter Should Know](https://medium.com/data-and-beyond/top-5-ai-tools-every-bug-bounty-hunter-should-know-1d7638598f74?source=rss------bug_bounty-5) 
+ - 💯January 14, 2026 - [PNPT Exam Review 2026 — Passed on My First Attempt in Under 24 Hours](https://medium.com/@talhakhatib4/pnpt-exam-review-2026-passed-on-my-first-attempt-in-under-24-hours-7f3d4625c013?source=rss------bug_bounty-5) 
 
- - 💯January 13, 2026 - [How I Found a Critical Biometric 2FA Bypass… and Lost the Bounty](https://letchupkt.medium.com/how-i-found-a-critical-biometric-2fa-bypass-and-lost-the-bounty-9c38441640c4?source=rss------bug_bounty-5) 
-
- - 💯January 13, 2026 - [Day 3 of Learning AWS: Elastic IP and Elastic Block Storage](https://muhammadkashifsecurityengineer.medium.com/day-3-of-learning-aws-elastic-ip-and-elastic-block-storage-df72bcb50e3c?source=rss------bug_bounty-5) 
+ - 💯January 14, 2026 - [Building the Ultimate Android Bug Bounty Lab: Target Recon, Native Crashes, and Static Analysis…](https://medium.com/@sbl.itd.reza/building-the-ultimate-android-bug-bounty-lab-target-recon-native-crashes-and-static-analysis-ddddea479dfb?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
