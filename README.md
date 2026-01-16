@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 15, 2026 - [From “Looks Legit” to “Definitely Malicious”: Header Analysis Explained](https://medium.com/@paritoshblogs/from-looks-legit-to-definitely-malicious-header-analysis-explained-4d1255f6473e?source=rss------bug_bounty-5) 
+ - 💯January 16, 2026 - [If You Had to Secure a Company With Only 5 Tools, What Would They Be?](https://medium.com/@paritoshblogs/if-you-had-to-secure-a-company-with-only-5-tools-what-would-they-be-83ef3e6220b3?source=rss------bug_bounty-5) 
 
- - 💯January 14, 2026 - [A 5-Day Bug Bounty Hunt on a Telecom Target: From Recon to RXSS and Open Redirect](https://medium.com/@ayanacharya193/a-5-day-bug-bounty-hunt-on-a-telecom-target-from-recon-to-rxss-and-open-redirect-119a27f8e37b?source=rss------bug_bounty-5) 
+ - 💯January 16, 2026 - [Speedtest.net Privacy Issue: Why Sharing Your Results Can Expose Your IP](https://medium.com/@alanbiju255/speedtest-net-privacy-issue-why-sharing-your-results-can-expose-your-ip-aedf54ce5f39?source=rss------bug_bounty-5) 
 
- - 💯January 14, 2026 - [Host Header Injection: A Practical Methodology for Security Testing](https://iaraoz.medium.com/host-header-injection-a-practical-methodology-for-security-testing-c5dab8abf2cf?source=rss------bug_bounty-5) 
+ - 💯January 16, 2026 - [Seguridad Web: Guía de Explotación de Métodos HTTP y Bypass de WAF](https://medium.com/@jpablo13/seguridad-web-gu%C3%ADa-de-explotaci%C3%B3n-de-m%C3%A9todos-http-y-bypass-de-waf-a6e02f537826?source=rss------bug_bounty-5) 
 
- - 💯January 14, 2026 - [Jailbreak Detection Bypass Using LLDB: No Escape—iOS Jailbreak Detection Challenge](https://medium.com/@0xk3r0/jailbreak-detection-bypass-using-lldb-no-escape-ios-jailbreak-detection-challenge-881fd8e89ed0?source=rss------bug_bounty-5) 
+ - 💯January 15, 2026 - [How do I feel about finding bugs as my meal?](https://imran-niaz.medium.com/how-do-i-feel-about-finding-bugs-as-my-meal-0e88a6a32bec?source=rss------bug_bounty-5) 
 
- - 💯January 14, 2026 - [Open Redirect to XSS](https://medium.com/@xelcezeri/open-redirect-to-xss-3a579bf64ed2?source=rss------bug_bounty-5) 
+ - 💯January 15, 2026 - [“Bug Bounty Bootcamp #16: Stored &amp; Blind XSS — The ‘Time Bomb’ and ‘Message in a Bottle’ of Web…](https://amannsharmaa.medium.com/bug-bounty-bootcamp-16-stored-blind-xss-the-time-bomb-and-message-in-a-bottle-of-web-fc4366929393?source=rss------bug_bounty-5) 
 
- - 💯January 14, 2026 - [My First XSS: How Simple Automation Helped Me Find It](https://medium.com/@dexter0_0/my-first-xss-how-simple-automation-helped-me-find-it-2d6d3f6143f4?source=rss------bug_bounty-5) 
+ - 💯January 15, 2026 - [Chain Exploitation in Web Pentesting ️](https://medium.com/@esrakyhn.u/chain-exploitation-in-web-pentesting-%EF%B8%8F-ef776dc44a87?source=rss------bug_bounty-5) 
 
- - 💯January 14, 2026 - [Cybersecurity — Firewall Configuration Review: A Hands-On Example](https://cybersecuritywriteups.com/cybersecurity-firewall-configuration-review-a-hands-on-example-5213f7f00f4f?source=rss------bug_bounty-5) 
+ - 💯January 15, 2026 - [Why I Wiped the Crack and Went Back to “Community” by Choice &lpar;The Full Story&rpar;](https://hwedy00.medium.com/why-i-wiped-the-crack-and-went-back-to-community-by-choice-the-full-story-35c992397313?source=rss------bug_bounty-5) 
 
- - 💯January 14, 2026 - [PNPT Exam Review 2026 — Passed on My First Attempt in Under 24 Hours](https://medium.com/@talhakhatib4/pnpt-exam-review-2026-passed-on-my-first-attempt-in-under-24-hours-7f3d4625c013?source=rss------bug_bounty-5) 
+ - 💯January 15, 2026 - [How a Simple Misconfiguration in the Invitation Link Led Me to Full Account Takeover](https://medium.com/@sudo_a7med/how-a-simple-misconfiguration-in-the-invitation-link-led-me-to-full-account-takeover-e56d84e9e9f1?source=rss------bug_bounty-5) 
 
- - 💯January 14, 2026 - [Building the Ultimate Android Bug Bounty Lab: Target Recon, Native Crashes, and Static Analysis…](https://medium.com/@sbl.itd.reza/building-the-ultimate-android-bug-bounty-lab-target-recon-native-crashes-and-static-analysis-ddddea479dfb?source=rss------bug_bounty-5) 
+ - 💯January 15, 2026 - [XSS Attacks: A Practical Methodology for Security Testing](https://iaraoz.medium.com/xss-attacks-a-practical-methodology-for-security-testing-6bff4d0fae1e?source=rss------bug_bounty-5) 
+
+ - 💯January 15, 2026 - [VHost Discovery for Bug Bounty Hunters](https://msnrasel1.medium.com/vhost-discovery-for-bug-bounty-hunters-8ad2f1caa83d?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
