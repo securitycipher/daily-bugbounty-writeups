@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 18, 2026 - [Root Me — XSS Stored 1](https://medium.com/@amritanshughimire1/root-me-xss-stored-1-d308be1ad04f?source=rss------bug_bounty-5) 
+ - 💯January 19, 2026 - [Insecure Direct Object Reference Allows Cross-Organization Resource Disclosure](https://mmnahian.medium.com/insecure-direct-object-reference-allows-cross-organization-resource-disclosure-dd737604d714?source=rss------bug_bounty-5) 
 
- - 💯January 17, 2026 - [Nested Comment Bypass file upload](https://medium.com/@b0x_in/nested-comment-bypass-file-upload-a0878f7a9aaf?source=rss------bug_bounty-5) 
+ - 💯January 18, 2026 - [Lab: Reflected XSS into HTML context with nothing encoded](https://medium.com/@mylescorey87/lab-reflected-xss-into-html-context-with-nothing-encoded-ec6b3cac0fa5?source=rss------bug_bounty-5) 
 
- - 💯January 17, 2026 - [Hidden in the Source: Discovering Reflected XSS via Manual Code Review](https://medium.com/@xelcezeri/hidden-in-the-source-discovering-reflected-xss-via-manual-code-review-c2a697d9d8c1?source=rss------bug_bounty-5) 
+ - 💯January 18, 2026 - [Simple Logic Breaks Big Systems: The Contract That Ended Before It Started](https://medium.com/@default_Ox/simple-logic-breaks-big-systems-the-contract-that-ended-before-it-started-28dd3230ba34?source=rss------bug_bounty-5) 
 
- - 💯January 17, 2026 - [How my valid critical bug got rejected](https://medium.com/@TheCyberAryan/how-my-valid-critical-bug-got-rejected-cf8213c5ed4e?source=rss------bug_bounty-5) 
+ - 💯January 18, 2026 - [Starting Your Bug Bounty Journey: Tips for Beginners](https://medium.com/@nayan12cr7/starting-your-bug-bounty-journey-tips-for-beginners-88a41eab150c?source=rss------bug_bounty-5) 
 
- - 💯January 17, 2026 - [How I Discovered a Dependency Confusion Vulnerability in a Ruby Application Leading to RCE](https://medium.com/@bakkar0x/how-i-discovered-a-dependency-confusion-vulnerability-in-a-ruby-application-leading-to-rce-9dd4c6b28127?source=rss------bug_bounty-5) 
+ - 💯January 18, 2026 - [HackerOne HTML Injection Fix Bypass‍](https://medium.com/@ahmedbelahcen2018/hackerone-html-injection-fix-bypass-9aef7806cebc?source=rss------bug_bounty-5) 
 
- - 💯January 17, 2026 - [How a Base64 Image API Turned a Trusted Cloud Bucket into an Attacker’s CDN](https://infosecwriteups.com/how-a-base64-image-api-turned-a-trusted-cloud-bucket-into-an-attackers-cdn-aa1470de09c0?source=rss------bug_bounty-5) 
+ - 💯January 18, 2026 - [Design-Level Stored XSS in Matomo i18n Rendering](https://medium.com/@diwagithub687/design-level-stored-xss-in-matomo-i18n-rendering-aa305d7f88bc?source=rss------bug_bounty-5) 
 
- - 💯January 17, 2026 - [Master API Security: I Built a Vulnerable Lab for Beginners &lpar;VulnShop&rpar;](https://medium.com/@sreejihkn43073/master-api-security-i-built-a-vulnerable-lab-for-beginners-vulnshop-3c4ec0bc0da0?source=rss------bug_bounty-5) 
+ - 💯January 18, 2026 - [️‍♂️ How I Run Burp Suite in the Background Without Breaking My Browser &lpar;Firefox Setup&rpar;](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/%EF%B8%8F-%EF%B8%8F-how-i-run-burp-suite-in-the-background-without-breaking-my-browser-firefox-setup-c5f71703a0bd?source=rss------bug_bounty-5) 
 
- - 💯January 17, 2026 - [Setup Android pentest environment on ubuntu 22.04](https://medium.com/@risalahqolbu859/setup-android-pentest-environment-on-ubuntu-22-04-e3695c56a172?source=rss------bug_bounty-5) 
+ - 💯January 18, 2026 - [What If Anyone Could Sign Legal Documents Using Your Email Address?](https://medium.com/@solutionexit5/what-if-anyone-could-sign-legal-documents-using-your-email-address-5377628abc0f?source=rss------bug_bounty-5) 
 
- - 💯January 17, 2026 - [How Choosing the Right Wordlist Can Make or Break a Bug Bounty.](https://lopseg.medium.com/how-choosing-the-right-wordlist-can-make-or-break-a-bug-bounty-f2684b8fdabd?source=rss------bug_bounty-5) 
+ - 💯January 18, 2026 - [Password Reset Token Misconfiguration Leading to Pre-Account Takeover and Account Deletion](https://medium.com/@0xMo7areb/password-reset-token-misconfiguration-leading-to-pre-account-takeover-and-account-deletion-8f344cb0e9d6?source=rss------bug_bounty-5) 
 
- - 💯January 17, 2026 - [Join Our Cybersecurity WhatsApp Group!](https://medium.com/@mirmahmood780/join-our-cybersecurity-whatsapp-group-3e6f7c1d0191?source=rss------bug_bounty-5) 
+ - 💯January 18, 2026 - [Struggles of Bug Bounty](https://medium.com/@cosmicbyt3/struggles-of-bug-bounty-2ea53f5854b5?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
