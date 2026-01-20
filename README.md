@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 19, 2026 - [Insecure Direct Object Reference Allows Cross-Organization Resource Disclosure](https://mmnahian.medium.com/insecure-direct-object-reference-allows-cross-organization-resource-disclosure-dd737604d714?source=rss------bug_bounty-5) 
+ - 💯January 20, 2026 - [A Practical Way to Learn Reverse Engineering &lpar;Without Getting Overwhelmed&rpar;](https://medium.com/@paritoshblogs/a-practical-way-to-learn-reverse-engineering-without-getting-overwhelmed-85f290581580?source=rss------bug_bounty-5) 
 
- - 💯January 18, 2026 - [Lab: Reflected XSS into HTML context with nothing encoded](https://medium.com/@mylescorey87/lab-reflected-xss-into-html-context-with-nothing-encoded-ec6b3cac0fa5?source=rss------bug_bounty-5) 
+ - 💯January 20, 2026 - [I bypassed Guardrails to Perform Prompt Injection](https://osintteam.blog/i-bypassed-guardrails-to-perform-prompt-injection-8081195b8018?source=rss------bug_bounty-5) 
 
- - 💯January 18, 2026 - [Simple Logic Breaks Big Systems: The Contract That Ended Before It Started](https://medium.com/@default_Ox/simple-logic-breaks-big-systems-the-contract-that-ended-before-it-started-28dd3230ba34?source=rss------bug_bounty-5) 
+ - 💯January 20, 2026 - [$500 Bug Bounty: Bulk Endpoint Leaks Report Disclosure State](https://osintteam.blog/500-bug-bounty-bulk-endpoint-leaks-report-disclosure-state-e7305af1e853?source=rss------bug_bounty-5) 
 
- - 💯January 18, 2026 - [Starting Your Bug Bounty Journey: Tips for Beginners](https://medium.com/@nayan12cr7/starting-your-bug-bounty-journey-tips-for-beginners-88a41eab150c?source=rss------bug_bounty-5) 
+ - 💯January 20, 2026 - [Unauthenticated Client-Side Prize Manipulation Vulnerability in Spin Wheel plugin](https://medium.com/@jsonc/unauthenticated-client-side-prize-manipulation-vulnerability-in-spin-wheel-plugin-a4423c12280a?source=rss------bug_bounty-5) 
 
- - 💯January 18, 2026 - [HackerOne HTML Injection Fix Bypass‍](https://medium.com/@ahmedbelahcen2018/hackerone-html-injection-fix-bypass-9aef7806cebc?source=rss------bug_bounty-5) 
+ - 💯January 20, 2026 - [Building a Recon Toolkit with Docker](https://medium.com/@samhilliard/building-a-recon-toolkit-with-docker-ec14e556f858?source=rss------bug_bounty-5) 
 
- - 💯January 18, 2026 - [Design-Level Stored XSS in Matomo i18n Rendering](https://medium.com/@diwagithub687/design-level-stored-xss-in-matomo-i18n-rendering-aa305d7f88bc?source=rss------bug_bounty-5) 
+ - 💯January 20, 2026 - [Guía Maestra de Headers HTTP para Bug Bounty: Técnicas de Explotación y Bypass](https://medium.com/@jpablo13/gu%C3%ADa-maestra-de-headers-http-para-bug-bounty-t%C3%A9cnicas-de-explotaci%C3%B3n-y-bypass-c95c265b11fb?source=rss------bug_bounty-5) 
 
- - 💯January 18, 2026 - [️‍♂️ How I Run Burp Suite in the Background Without Breaking My Browser &lpar;Firefox Setup&rpar;](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/%EF%B8%8F-%EF%B8%8F-how-i-run-burp-suite-in-the-background-without-breaking-my-browser-firefox-setup-c5f71703a0bd?source=rss------bug_bounty-5) 
+ - 💯January 19, 2026 - [The Ghost Password : How a Design Flaw Led to Full Account Takeover &lpar;ATO&rpar;](https://medium.com/@xlr99/the-ghost-password-how-a-design-flaw-led-to-full-account-takeover-ato-52b7c1ca94fa?source=rss------bug_bounty-5) 
 
- - 💯January 18, 2026 - [What If Anyone Could Sign Legal Documents Using Your Email Address?](https://medium.com/@solutionexit5/what-if-anyone-could-sign-legal-documents-using-your-email-address-5377628abc0f?source=rss------bug_bounty-5) 
+ - 💯January 19, 2026 - [Bug Bounty Learning Journey — From Day 8–15](https://medium.com/@anshkamra00/bug-bounty-learning-journey-from-day-8-15-e96c2669141c?source=rss------bug_bounty-5) 
 
- - 💯January 18, 2026 - [Password Reset Token Misconfiguration Leading to Pre-Account Takeover and Account Deletion](https://medium.com/@0xMo7areb/password-reset-token-misconfiguration-leading-to-pre-account-takeover-and-account-deletion-8f344cb0e9d6?source=rss------bug_bounty-5) 
+ - 💯January 19, 2026 - [My Bug Bounty Learning Journey &lpar;Day 1–7&rpar;](https://medium.com/@anshkamra00/my-bug-bounty-learning-journey-day-1-15-8b3b6697cf73?source=rss------bug_bounty-5) 
 
- - 💯January 18, 2026 - [Struggles of Bug Bounty](https://medium.com/@cosmicbyt3/struggles-of-bug-bounty-2ea53f5854b5?source=rss------bug_bounty-5) 
+ - 💯January 19, 2026 - [Explorando uma “Chain”: Cache Poisoning + OpenID Misconfiguration = ATO](https://medium.com/@dk4trin/explorando-uma-chain-cache-poisoning-openid-misconfiguration-ato-65a5f4210887?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
