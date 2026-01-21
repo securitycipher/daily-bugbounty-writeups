@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 20, 2026 - [A Practical Way to Learn Reverse Engineering &lpar;Without Getting Overwhelmed&rpar;](https://medium.com/@paritoshblogs/a-practical-way-to-learn-reverse-engineering-without-getting-overwhelmed-85f290581580?source=rss------bug_bounty-5) 
+ - 💯January 21, 2026 - [SOC ROADMAP &lpar;END-TO-END&rpar;](https://medium.com/@hrofficial62/soc-roadmap-end-to-end-e3974d7f65ad?source=rss------bug_bounty-5) 
 
- - 💯January 20, 2026 - [I bypassed Guardrails to Perform Prompt Injection](https://osintteam.blog/i-bypassed-guardrails-to-perform-prompt-injection-8081195b8018?source=rss------bug_bounty-5) 
+ - 💯January 21, 2026 - [How I Found and reported 50+ Exposed Celery Flower Dashboards on Shodan](https://vijetareigns.medium.com/how-i-found-and-reported-50-exposed-celery-flower-dashboards-on-shodan-f4de4289630c?source=rss------bug_bounty-5) 
 
- - 💯January 20, 2026 - [$500 Bug Bounty: Bulk Endpoint Leaks Report Disclosure State](https://osintteam.blog/500-bug-bounty-bulk-endpoint-leaks-report-disclosure-state-e7305af1e853?source=rss------bug_bounty-5) 
+ - 💯January 21, 2026 - [Master Guide to HTTP Headers for Bug Bounty: Exploitation and Bypass Techniques](https://medium.com/@jpablo13/master-guide-to-http-headers-for-bug-bounty-exploitation-and-bypass-techniques-02460b0dde39?source=rss------bug_bounty-5) 
 
- - 💯January 20, 2026 - [Unauthenticated Client-Side Prize Manipulation Vulnerability in Spin Wheel plugin](https://medium.com/@jsonc/unauthenticated-client-side-prize-manipulation-vulnerability-in-spin-wheel-plugin-a4423c12280a?source=rss------bug_bounty-5) 
+ - 💯January 20, 2026 - [Day 16–17 of Bug Bounty Journey : Understanding Nmap Like a Hacker](https://medium.com/@anshkamra00/day-16-17-of-bug-bounty-journey-understanding-nmap-like-a-hacker-0489f655b4be?source=rss------bug_bounty-5) 
 
- - 💯January 20, 2026 - [Building a Recon Toolkit with Docker](https://medium.com/@samhilliard/building-a-recon-toolkit-with-docker-ec14e556f858?source=rss------bug_bounty-5) 
+ - 💯January 20, 2026 - [$70,000 from a Simple 2FA Bypass: A Lesson in Observation Over Exploits](https://icecream23.medium.com/70-000-from-a-simple-2fa-bypass-a-lesson-in-observation-over-exploits-10902b4253a7?source=rss------bug_bounty-5) 
 
- - 💯January 20, 2026 - [Guía Maestra de Headers HTTP para Bug Bounty: Técnicas de Explotación y Bypass](https://medium.com/@jpablo13/gu%C3%ADa-maestra-de-headers-http-para-bug-bounty-t%C3%A9cnicas-de-explotaci%C3%B3n-y-bypass-c95c265b11fb?source=rss------bug_bounty-5) 
+ - 💯January 20, 2026 - [Beginner’s Guide Part 1: Building an AI Non- GUI Pentest Lab with Ollama &amp; HexStrike AI](https://medium.com/@omarataallah98/beginners-guide-part-1-building-an-ai-non-gui-pentest-lab-with-ollama-hexstrike-ai-b7f461cce2a9?source=rss------bug_bounty-5) 
 
- - 💯January 19, 2026 - [The Ghost Password : How a Design Flaw Led to Full Account Takeover &lpar;ATO&rpar;](https://medium.com/@xlr99/the-ghost-password-how-a-design-flaw-led-to-full-account-takeover-ato-52b7c1ca94fa?source=rss------bug_bounty-5) 
+ - 💯January 20, 2026 - [I Hacked an Organization Starting with One Subdomain](https://osintteam.blog/i-hacked-an-organization-starting-with-one-subdomain-58ce6c43fec1?source=rss------bug_bounty-5) 
 
- - 💯January 19, 2026 - [Bug Bounty Learning Journey — From Day 8–15](https://medium.com/@anshkamra00/bug-bounty-learning-journey-from-day-8-15-e96c2669141c?source=rss------bug_bounty-5) 
+ - 💯January 20, 2026 - [CVE-2025–66202: URL Double Encoding Bypass Lab](https://medium.com/@josh.beck2006/cve-2025-66202-url-double-encoding-bypass-lab-40ecd6d6820a?source=rss------bug_bounty-5) 
 
- - 💯January 19, 2026 - [My Bug Bounty Learning Journey &lpar;Day 1–7&rpar;](https://medium.com/@anshkamra00/my-bug-bounty-learning-journey-day-1-15-8b3b6697cf73?source=rss------bug_bounty-5) 
-
- - 💯January 19, 2026 - [Explorando uma “Chain”: Cache Poisoning + OpenID Misconfiguration = ATO](https://medium.com/@dk4trin/explorando-uma-chain-cache-poisoning-openid-misconfiguration-ato-65a5f4210887?source=rss------bug_bounty-5) 
+ - 💯January 20, 2026 - [Accidentally making $1000 for finding Security Bugs as a Backend Developer](https://not-afraid.medium.com/accidentally-making-1000-for-finding-security-bugs-as-a-backend-developer-3e562c77eefc?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
