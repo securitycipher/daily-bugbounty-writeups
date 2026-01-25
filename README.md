@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
+ - 💯January 24, 2026 - [The Multi-Bug Streak: Uncovering 4 Vulnerabilities on a Single Target](https://medium.com/@xelcezeri/the-multi-bug-streak-uncovering-4-vulnerabilities-on-a-single-target-1b4daa50dad2?source=rss------bug_bounty-5) 
+
+ - 💯January 24, 2026 - [How I Found 3 Critical Reflected XSS Bugs Using Simple URL Encoding Tricks](https://medium.com/@ahmad.suhendra1405/how-i-found-3-critical-reflected-xss-bugs-using-simple-url-encoding-tricks-215d1c33bbea?source=rss------bug_bounty-5) 
+
+ - 💯January 24, 2026 - [Rebuilding Day 2](https://medium.com/@technodox10/rebuilding-day-2-58126659406c?source=rss------bug_bounty-5) 
+
+ - 💯January 24, 2026 - [I Stopped Chasing Bugs and Started Getting Paid — TrinetLayer Was the Difference](https://medium.com/@trinetlayer/i-stopped-chasing-bugs-and-started-getting-paid-trinetlayer-was-the-difference-af9df29a35a6?source=rss------bug_bounty-5) 
+
+ - 💯January 24, 2026 - [Blind Spots in Email Security Tools That Attackers Love](https://medium.com/@paritoshblogs/blind-spots-in-email-security-tools-that-attackers-love-3a2501f4f4f9?source=rss------bug_bounty-5) 
+
+ - 💯January 24, 2026 - [Simple Mistake, Big Security Nightmare: A True Story](https://medium.com/@tanjimulislam01huntr/simple-mistake-big-security-nightmare-a-true-story-43528548e7d5?source=rss------bug_bounty-5) 
+
+ - 💯January 24, 2026 - [I Followed the Password Reset Flow — and Ended Up Resetting Everyone’s Password](https://infosecwriteups.com/i-followed-the-password-reset-flow-and-ended-up-resetting-everyones-password-d81e07e6e3b7?source=rss------bug_bounty-5) 
+
+ - 💯January 24, 2026 - [From APK to AWS: How I Chained a Hardcoded Secret to a Full Cloud Takeover](https://mnmeftekharian.medium.com/from-apk-to-aws-how-i-chained-a-hardcoded-secret-to-a-full-cloud-takeover-aab42443f2fe?source=rss------bug_bounty-5) 
+
  - 💯January 24, 2026 - [Exploit-DB Guide to Bug Bounty: Using SearchSploit and Vulnerability Validation](https://systemweakness.com/exploit-db-guide-to-bug-bounty-using-searchsploit-and-vulnerability-validation-e8c564ec1b0a?source=rss------bug_bounty-5) 
-
- - 💯January 23, 2026 - [Wordfence Bug Bounty Program Monthly Report — December 2025](https://wordfence.medium.com/wordfence-bug-bounty-program-monthly-report-december-2025-bbe0c355fce9?source=rss------bug_bounty-5) 
-
- - 💯January 23, 2026 - [AIX: The Tool That’s Missing From Every AI Security Assessment](https://medium.com/@simone.licitra/aix-the-tool-thats-missing-from-every-ai-security-assessment-9cb2bf0a1b03?source=rss------bug_bounty-5) 
-
- - 💯January 23, 2026 - [“Bug Bounty Bootcamp #20: CSRF — The Silent Attack That Makes Users Work for the Hacker”](https://osintteam.blog/bug-bounty-bootcamp-20-csrf-the-silent-attack-that-makes-users-work-for-the-hacker-442596225c23?source=rss------bug_bounty-5) 
-
- - 💯January 23, 2026 - [How WhatsApp Can Be Hacked: Real-World Methods &amp; Protection Tips](https://medium.com/@syedmhatim/app-hackinghow-whatsapp-can-be-hacked-real-world-methods-protection-tips-49e40538fa86?source=rss------bug_bounty-5) 
-
- - 💯January 23, 2026 - [Broken Access Control: How I Viewed Admin-Only Configs as a Standard Employee](https://medium.com/@mostafa23110006/broken-access-control-how-i-viewed-admin-only-configs-as-a-standard-employee-83f5a1ee6a08?source=rss------bug_bounty-5) 
-
- - 💯January 23, 2026 - [The Hidden API Endpoints That Can Make $10k in Bug Bounties &lpar;Complete Methodology&rpar;](https://medium.com/@bughuntersjournal/the-hidden-api-endpoints-that-can-make-10k-in-bug-bounties-complete-methodology-5f05c2a8e48f?source=rss------bug_bounty-5) 
-
- - 💯January 23, 2026 - [[Templates]  —  Exploiting PugJS Server-Side Template Injection to Remote Shell Access](https://meetcyber.net/templates-exploiting-pugjs-server-side-template-injection-to-remote-shell-access-464677793862?source=rss------bug_bounty-5) 
-
- - 💯January 23, 2026 - [Post Board Writeup — MobileHackingLab](https://mohammadibnibrahim.medium.com/post-board-writeup-mobilehackinglab-ce045b6db36c?source=rss------bug_bounty-5) 
-
- - 💯January 23, 2026 - [Simple Endpoint, Critical Impact: How I Sabotaged Refunds](https://medium.com/@xelcezeri/simple-endpoint-critical-impact-how-i-sabotaged-refunds-1cd0ac7a4cb2?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
