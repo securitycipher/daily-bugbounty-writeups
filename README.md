@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 27, 2026 - [IDOR Vulnerability in WEB3 Bug Bounty Platform Exposing User Sensitive PII](https://meetcyber.net/idor-vulnerability-in-web3-bug-bounty-platform-exposing-user-sensitive-pii-27bb5348db58?source=rss------bug_bounty-5) 
+ - 💯January 28, 2026 - [The “TMI” Endpoint: Why Unauthenticated Health Checks Are a Hacker’s Best Friend &lpar;And Why I Got 0…](https://zer0figure.medium.com/the-tmi-endpoint-why-unauthenticated-health-checks-are-a-hackers-best-friend-and-why-i-got-0-2945d21ea08f?source=rss------bug_bounty-5) 
 
- - 💯January 27, 2026 - [Guía de Hashcat: Recuperación de Contraseñas y Auditoría de Seguridad](https://medium.com/@jpablo13/gu%C3%ADa-de-hashcat-recuperaci%C3%B3n-de-contrase%C3%B1as-y-auditor%C3%ADa-de-seguridad-868181eaff8a?source=rss------bug_bounty-5) 
+ - 💯January 28, 2026 - [How to Build a Cybersecurity Career in 2026 — Courses, Skills &amp; Tools](https://cyberbruharmy.medium.com/how-to-build-a-cybersecurity-career-in-2026-courses-skills-tools-9b51d4f02362?source=rss------bug_bounty-5) 
 
- - 💯January 26, 2026 - [2FA Bypass via Reset Password](https://systemweakness.com/2fa-bypass-via-reset-password-daba828b10f3?source=rss------bug_bounty-5) 
+ - 💯January 28, 2026 - [Hashcat Guide: Password Recovery and Security Auditing](https://medium.com/@jpablo13/hashcat-guide-password-recovery-and-security-auditing-8e48f63ea27f?source=rss------bug_bounty-5) 
 
- - 💯January 26, 2026 - [Beyond Takeover AWS Bucket](https://medium.com/@Moosha/beyond-takeover-aws-bucket-58c7b22d9e8a?source=rss------bug_bounty-5) 
+ - 💯January 27, 2026 - [َالْحَمْدُ لِلَّهِ، وَالصَّلَاةُ وَالسَّلَامُ عَلَى رَسُولِ اللَّهِ، اللَّهُمَّ عَلِّمْنَا مَا…](https://medium.com/@Abood_XHacker/%D9%8E%D8%A7%D9%84%D9%92%D8%AD%D9%8E%D9%85%D9%92%D8%AF%D9%8F-%D9%84%D9%90%D9%84%D9%91%D9%8E%D9%87%D9%90-%D9%88%D9%8E%D8%A7%D9%84%D8%B5%D9%91%D9%8E%D9%84%D9%8E%D8%A7%D8%A9%D9%8F-%D9%88%D9%8E%D8%A7%D9%84%D8%B3%D9%91%D9%8E%D9%84%D9%8E%D8%A7%D9%85%D9%8F-%D8%B9%D9%8E%D9%84%D9%8E%D9%89-%D8%B1%D9%8E%D8%B3%D9%8F%D9%88%D9%84%D9%90-%D8%A7%D9%84%D9%84%D9%91%D9%8E%D9%87%D9%90-%D8%A7%D9%84%D9%84%D9%91%D9%8E%D9%87%D9%8F%D9%85%D9%91%D9%8E-%D8%B9%D9%8E%D9%84%D9%91%D9%90%D9%85%D9%92%D9%86%D9%8E%D8%A7-%D9%85%D9%8E%D8%A7-cda90bb92375?source=rss------bug_bounty-5) 
 
- - 💯January 26, 2026 - [Email Body Truncation via Null Byte Injection](https://medium.com/@0xcyborg/email-body-truncation-via-null-byte-injection-21f753bf2c64?source=rss------bug_bounty-5) 
+ - 💯January 27, 2026 - [One-Click Workspace Takeover: Exploiting XSS and CSRF + WAF Bypass &lpar;F*ck HttpOnly&rpar;](https://medium.com/@ph4nt0mbyt3/one-click-workspace-takeover-exploiting-xss-and-csrf-waf-bypass-f-ck-httponly-e4e9fbbaed75?source=rss------bug_bounty-5) 
 
- - 💯January 26, 2026 - [Bug Bounty in 2026: How to Find Your First Vulnerability &lpar;Without Losing Your Sanity&rpar;](https://medium.com/h7w/bug-bounty-in-2026-how-to-find-your-first-vulnerability-without-losing-your-sanity-f89d4c6b7ba2?source=rss------bug_bounty-5) 
+ - 💯January 27, 2026 - [HTTP Requests, Responses, Headers &amp; Methods for Beginners](https://medium.com/@anshkamra00/http-requests-responses-headers-methods-for-beginners-d00c790a78fe?source=rss------bug_bounty-5) 
 
- - 💯January 26, 2026 - [Broken Object Level Authorization &lpar;BOLA&rpar;](https://medium.com/@emmanuelnnebedum704/broken-object-level-authorization-bola-1db36dadd9c1?source=rss------bug_bounty-5) 
+ - 💯January 27, 2026 - [How your API might be exposing everything](https://0trccccc.medium.com/how-your-api-might-be-exposing-everything-b3a999439533?source=rss------bug_bounty-5) 
 
- - 💯January 26, 2026 - [This Mobile App Trusted My Phone More Than It Should Have ⚠️](https://infosecwriteups.com/this-mobile-app-trusted-my-phone-more-than-it-should-have-%EF%B8%8F-821befd8c879?source=rss------bug_bounty-5) 
+ - 💯January 27, 2026 - [How I Found a Clickable Link Injection Issue in a Verification Email &lpar;Beginner Friendly&rpar;](https://medium.com/@Sahal07/how-i-found-a-clickable-link-injection-issue-in-a-verification-email-beginner-friendly-14fda535a4bf?source=rss------bug_bounty-5) 
 
- - 💯January 26, 2026 - [Understanding SSRF and Detecting It With AI, Enter See-SURF](https://infosecwriteups.com/understanding-ssrf-and-detecting-it-with-ai-enter-see-surf-0277e0179a50?source=rss------bug_bounty-5) 
+ - 💯January 27, 2026 - [Exploit Lab: CVE-2026–24061 &lpar;telnetd&rpar;](https://medium.com/@josh.beck2006/exploit-lab-cve-2026-24061-telnetd-772306d3b0ba?source=rss------bug_bounty-5) 
 
- - 💯January 26, 2026 - [Rebuilding — Day 4](https://medium.com/@technodox10/rebuilding-day-4-f2336f617cbb?source=rss------bug_bounty-5) 
+ - 💯January 27, 2026 - [How I hacked a website just by looking at the source code Part-2](https://infosecwriteups.com/how-i-hacked-a-website-just-by-looking-at-the-source-code-part-2-375b21321815?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
