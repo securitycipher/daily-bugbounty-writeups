@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 28, 2026 - [The “TMI” Endpoint: Why Unauthenticated Health Checks Are a Hacker’s Best Friend &lpar;And Why I Got 0…](https://zer0figure.medium.com/the-tmi-endpoint-why-unauthenticated-health-checks-are-a-hackers-best-friend-and-why-i-got-0-2945d21ea08f?source=rss------bug_bounty-5) 
+ - 💯January 29, 2026 - [New rate limit bypass , other won’t say](https://medium.com/@rajanbala39/new-rate-limit-bypass-other-wont-say-086489470239?source=rss------bug_bounty-5) 
 
- - 💯January 28, 2026 - [How to Build a Cybersecurity Career in 2026 — Courses, Skills &amp; Tools](https://cyberbruharmy.medium.com/how-to-build-a-cybersecurity-career-in-2026-courses-skills-tools-9b51d4f02362?source=rss------bug_bounty-5) 
+ - 💯January 28, 2026 - [Homoglyph-based Email Identity Collision in a Secure Email Platform](https://medium.com/@pophacker996/homoglyph-based-email-identity-collision-in-a-secure-email-platform-05a2c294ee63?source=rss------bug_bounty-5) 
 
- - 💯January 28, 2026 - [Hashcat Guide: Password Recovery and Security Auditing](https://medium.com/@jpablo13/hashcat-guide-password-recovery-and-security-auditing-8e48f63ea27f?source=rss------bug_bounty-5) 
+ - 💯January 28, 2026 - [Retour d’expérience sur la HTB CWES](https://medium.com/@aliosman.erbas/retour-dexp%C3%A9rience-sur-la-htb-cwes-1c23377a33f0?source=rss------bug_bounty-5) 
 
- - 💯January 27, 2026 - [َالْحَمْدُ لِلَّهِ، وَالصَّلَاةُ وَالسَّلَامُ عَلَى رَسُولِ اللَّهِ، اللَّهُمَّ عَلِّمْنَا مَا…](https://medium.com/@Abood_XHacker/%D9%8E%D8%A7%D9%84%D9%92%D8%AD%D9%8E%D9%85%D9%92%D8%AF%D9%8F-%D9%84%D9%90%D9%84%D9%91%D9%8E%D9%87%D9%90-%D9%88%D9%8E%D8%A7%D9%84%D8%B5%D9%91%D9%8E%D9%84%D9%8E%D8%A7%D8%A9%D9%8F-%D9%88%D9%8E%D8%A7%D9%84%D8%B3%D9%91%D9%8E%D9%84%D9%8E%D8%A7%D9%85%D9%8F-%D8%B9%D9%8E%D9%84%D9%8E%D9%89-%D8%B1%D9%8E%D8%B3%D9%8F%D9%88%D9%84%D9%90-%D8%A7%D9%84%D9%84%D9%91%D9%8E%D9%87%D9%90-%D8%A7%D9%84%D9%84%D9%91%D9%8E%D9%87%D9%8F%D9%85%D9%91%D9%8E-%D8%B9%D9%8E%D9%84%D9%91%D9%90%D9%85%D9%92%D9%86%D9%8E%D8%A7-%D9%85%D9%8E%D8%A7-cda90bb92375?source=rss------bug_bounty-5) 
+ - 💯January 28, 2026 - [Broken Link Hijacking: That One Bug Everyone Ignores &lpar;Until It Pays &rpar;](https://medium.com/@Purushothamr/broken-link-hijacking-that-one-bug-everyone-ignores-until-it-pays-8ef2dac3619e?source=rss------bug_bounty-5) 
 
- - 💯January 27, 2026 - [One-Click Workspace Takeover: Exploiting XSS and CSRF + WAF Bypass &lpar;F*ck HttpOnly&rpar;](https://medium.com/@ph4nt0mbyt3/one-click-workspace-takeover-exploiting-xss-and-csrf-waf-bypass-f-ck-httponly-e4e9fbbaed75?source=rss------bug_bounty-5) 
+ - 💯January 28, 2026 - [Exploit Lab: WPQuery &lpar;CVE-2024–50498&rpar;](https://medium.com/@josh.beck2006/exploit-lab-wpquery-cve-2024-50498-ba16c230f92c?source=rss------bug_bounty-5) 
 
- - 💯January 27, 2026 - [HTTP Requests, Responses, Headers &amp; Methods for Beginners](https://medium.com/@anshkamra00/http-requests-responses-headers-methods-for-beginners-d00c790a78fe?source=rss------bug_bounty-5) 
+ - 💯January 28, 2026 - [Escaping the Matrix: A Deep Dive into SandboxJS RCE &lpar;CVE-2026–23830&rpar;](https://medium.com/@meysam_bal-afkan/escaping-the-matrix-a-deep-dive-into-sandboxjs-rce-cve-2026-23830-1fbbca3f46fc?source=rss------bug_bounty-5) 
 
- - 💯January 27, 2026 - [How your API might be exposing everything](https://0trccccc.medium.com/how-your-api-might-be-exposing-everything-b3a999439533?source=rss------bug_bounty-5) 
+ - 💯January 28, 2026 - [How I Earned a 4-Digit Bounty: Complete Account Takeover via Insecure Session Cookie](https://adityasunny06.medium.com/how-i-earned-a-4-digit-bounty-complete-account-takeover-via-insecure-session-cookie-75d1992c9367?source=rss------bug_bounty-5) 
 
- - 💯January 27, 2026 - [How I Found a Clickable Link Injection Issue in a Verification Email &lpar;Beginner Friendly&rpar;](https://medium.com/@Sahal07/how-i-found-a-clickable-link-injection-issue-in-a-verification-email-beginner-friendly-14fda535a4bf?source=rss------bug_bounty-5) 
+ - 💯January 28, 2026 - [CVE-2026–0800: Unauthenticated Stored Cross-Site Scripting in User Submitted Posts WordPress Plugin](https://balax01.medium.com/cve-2026-0800-unauthenticated-stored-cross-site-scripting-in-user-submitted-posts-wordpress-plugin-303cfeecee1f?source=rss------bug_bounty-5) 
 
- - 💯January 27, 2026 - [Exploit Lab: CVE-2026–24061 &lpar;telnetd&rpar;](https://medium.com/@josh.beck2006/exploit-lab-cve-2026-24061-telnetd-772306d3b0ba?source=rss------bug_bounty-5) 
+ - 💯January 28, 2026 - [How I Got My First Real Attention in Bug Bounty &lpar;And Why This Matters More Than Money&rpar;](https://medium.com/@nayan12cr7/how-i-got-my-first-real-attention-in-bug-bounty-and-why-this-matters-more-than-money-702982e924ba?source=rss------bug_bounty-5) 
 
- - 💯January 27, 2026 - [How I hacked a website just by looking at the source code Part-2](https://infosecwriteups.com/how-i-hacked-a-website-just-by-looking-at-the-source-code-part-2-375b21321815?source=rss------bug_bounty-5) 
+ - 💯January 28, 2026 - [ReconFTW : automatiser la reconnaissance pour une surface d’attaque complète](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/reconftw-automatiser-la-reconnaissance-pour-une-surface-dattaque-compl%C3%A8te-e3a474ecc92d?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
