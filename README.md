@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 29, 2026 - [New rate limit bypass , other won’t say](https://medium.com/@rajanbala39/new-rate-limit-bypass-other-wont-say-086489470239?source=rss------bug_bounty-5) 
+ - 💯January 30, 2026 - [How a Simple “Having Issue?” Feature Opened the Entire Server ?](https://vettrivel007.medium.com/how-a-simple-having-issue-feature-opened-the-entire-server-8f6aed134b48?source=rss------bug_bounty-5) 
 
- - 💯January 28, 2026 - [Homoglyph-based Email Identity Collision in a Secure Email Platform](https://medium.com/@pophacker996/homoglyph-based-email-identity-collision-in-a-secure-email-platform-05a2c294ee63?source=rss------bug_bounty-5) 
+ - 💯January 30, 2026 - [Why “No Malware Found” ≠ “System Is Clean”](https://medium.com/@paritoshblogs/why-no-malware-found-system-is-clean-0162af7b0463?source=rss------bug_bounty-5) 
 
- - 💯January 28, 2026 - [Retour d’expérience sur la HTB CWES](https://medium.com/@aliosman.erbas/retour-dexp%C3%A9rience-sur-la-htb-cwes-1c23377a33f0?source=rss------bug_bounty-5) 
+ - 💯January 30, 2026 - [Guía de WhatWeb: Fingerprinting y Reconocimiento para Bug Hunting](https://medium.com/@jpablo13/gu%C3%ADa-de-whatweb-fingerprinting-y-reconocimiento-para-bug-hunting-1a9360ecb05c?source=rss------bug_bounty-5) 
 
- - 💯January 28, 2026 - [Broken Link Hijacking: That One Bug Everyone Ignores &lpar;Until It Pays &rpar;](https://medium.com/@Purushothamr/broken-link-hijacking-that-one-bug-everyone-ignores-until-it-pays-8ef2dac3619e?source=rss------bug_bounty-5) 
+ - 💯January 29, 2026 - [Wordfence Intelligence Weekly WordPress Vulnerability Report &lpar;January 19, 2026 to January 25, 2026&rpar;](https://wordfence.medium.com/wordfence-intelligence-weekly-wordpress-vulnerability-report-january-19-2026-to-january-25-2026-a288c0528af7?source=rss------bug_bounty-5) 
 
- - 💯January 28, 2026 - [Exploit Lab: WPQuery &lpar;CVE-2024–50498&rpar;](https://medium.com/@josh.beck2006/exploit-lab-wpquery-cve-2024-50498-ba16c230f92c?source=rss------bug_bounty-5) 
+ - 💯January 29, 2026 - [Turning Fuzzing Into $2,550: How a Simple Bug Gave Me Access to Employee IDs &amp; Contracts](https://almuntadhar.medium.com/turning-fuzzing-into-2-550-how-a-simple-bug-gave-me-access-to-employee-ids-contracts-bcc3137a84a7?source=rss------bug_bounty-5) 
 
- - 💯January 28, 2026 - [Escaping the Matrix: A Deep Dive into SandboxJS RCE &lpar;CVE-2026–23830&rpar;](https://medium.com/@meysam_bal-afkan/escaping-the-matrix-a-deep-dive-into-sandboxjs-rce-cve-2026-23830-1fbbca3f46fc?source=rss------bug_bounty-5) 
+ - 💯January 29, 2026 - [The IDOR’ventures &amp; Why I Love Hackerone — A Different Kind Of $33,500 Bounty](https://medium.com/@justas_b_2/the-idorventures-why-i-love-hackerone-a-different-kind-of-33-500-bounty-a48665a7b900?source=rss------bug_bounty-5) 
 
- - 💯January 28, 2026 - [How I Earned a 4-Digit Bounty: Complete Account Takeover via Insecure Session Cookie](https://adityasunny06.medium.com/how-i-earned-a-4-digit-bounty-complete-account-takeover-via-insecure-session-cookie-75d1992c9367?source=rss------bug_bounty-5) 
+ - 💯January 29, 2026 - [IDOR : Simple to Understand, easy to miss](https://medium.com/@anshkamra00/idor-simple-to-understand-easy-to-miss-4beea0b4847b?source=rss------bug_bounty-5) 
 
- - 💯January 28, 2026 - [CVE-2026–0800: Unauthenticated Stored Cross-Site Scripting in User Submitted Posts WordPress Plugin](https://balax01.medium.com/cve-2026-0800-unauthenticated-stored-cross-site-scripting-in-user-submitted-posts-wordpress-plugin-303cfeecee1f?source=rss------bug_bounty-5) 
+ - 💯January 29, 2026 - [I Never Touched the Database — Still Got All the Data](https://medium.com/@iski/i-never-touched-the-database-still-got-all-the-data-9fac54ba5f65?source=rss------bug_bounty-5) 
 
- - 💯January 28, 2026 - [How I Got My First Real Attention in Bug Bounty &lpar;And Why This Matters More Than Money&rpar;](https://medium.com/@nayan12cr7/how-i-got-my-first-real-attention-in-bug-bounty-and-why-this-matters-more-than-money-702982e924ba?source=rss------bug_bounty-5) 
+ - 💯January 29, 2026 - [Technical Bug Bounty Methodology: Deep Recon, Automation and Human Insight](https://nullsecurityx.medium.com/technical-bug-bounty-methodology-deep-recon-automation-and-human-insight-ec61e9e0f4dd?source=rss------bug_bounty-5) 
 
- - 💯January 28, 2026 - [ReconFTW : automatiser la reconnaissance pour une surface d’attaque complète](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/reconftw-automatiser-la-reconnaissance-pour-une-surface-dattaque-compl%C3%A8te-e3a474ecc92d?source=rss------bug_bounty-5) 
+ - 💯January 29, 2026 - [Exploiting PwnKit &lpar;CVE-2021–4034&rpar;](https://medium.com/@shivam_bathla/exploiting-pwnkit-cve-2021-4034-ac5d6995c499?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
