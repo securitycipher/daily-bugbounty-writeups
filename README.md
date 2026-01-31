@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 30, 2026 - [How a Simple “Having Issue?” Feature Opened the Entire Server ?](https://vettrivel007.medium.com/how-a-simple-having-issue-feature-opened-the-entire-server-8f6aed134b48?source=rss------bug_bounty-5) 
+ - 💯January 31, 2026 - [How to Read a Web App Like a Hacker &lpar;Even If You’re Not Technical Yet&rpar;](https://medium.com/@ramanidhaval11/how-to-read-a-web-app-like-a-hacker-even-if-youre-not-technical-yet-dcc10e034d72?source=rss------bug_bounty-5) 
 
- - 💯January 30, 2026 - [Why “No Malware Found” ≠ “System Is Clean”](https://medium.com/@paritoshblogs/why-no-malware-found-system-is-clean-0162af7b0463?source=rss------bug_bounty-5) 
+ - 💯January 31, 2026 - [CyberLessons101: Dockerized CTF Challenge Index.](https://medium.com/@josh.beck2006/cyberlessons101-dockerized-ctf-challenge-index-5fe89baf710f?source=rss------bug_bounty-5) 
 
- - 💯January 30, 2026 - [Guía de WhatWeb: Fingerprinting y Reconocimiento para Bug Hunting](https://medium.com/@jpablo13/gu%C3%ADa-de-whatweb-fingerprinting-y-reconocimiento-para-bug-hunting-1a9360ecb05c?source=rss------bug_bounty-5) 
+ - 💯January 31, 2026 - [When “Draft” Doesn’t Mean Private: Finding an IDOR in an Unpublished Resource](https://medium.com/@raminiskandarov2004/when-draft-doesnt-mean-private-finding-an-idor-in-an-unpublished-resource-2c9ead4e7bfb?source=rss------bug_bounty-5) 
 
- - 💯January 29, 2026 - [Wordfence Intelligence Weekly WordPress Vulnerability Report &lpar;January 19, 2026 to January 25, 2026&rpar;](https://wordfence.medium.com/wordfence-intelligence-weekly-wordpress-vulnerability-report-january-19-2026-to-january-25-2026-a288c0528af7?source=rss------bug_bounty-5) 
+ - 💯January 31, 2026 - [WhatWeb Guide: Fingerprinting and Recognition for Bug Hunting](https://medium.com/@jpablo13/whatweb-guide-fingerprinting-and-recognition-for-bug-hunting-35f9d7f459d5?source=rss------bug_bounty-5) 
 
- - 💯January 29, 2026 - [Turning Fuzzing Into $2,550: How a Simple Bug Gave Me Access to Employee IDs &amp; Contracts](https://almuntadhar.medium.com/turning-fuzzing-into-2-550-how-a-simple-bug-gave-me-access-to-employee-ids-contracts-bcc3137a84a7?source=rss------bug_bounty-5) 
+ - 💯January 30, 2026 - [How a Simple “Trust Gap” Logic Flaw Earned Me $200,000 and Inspired a New AI Security Engine](https://medium.com/@mrarslan5156/how-a-simple-trust-gap-logic-flaw-earned-me-200-000-and-inspired-a-new-ai-security-engine-2f31c2438e16?source=rss------bug_bounty-5) 
 
- - 💯January 29, 2026 - [The IDOR’ventures &amp; Why I Love Hackerone — A Different Kind Of $33,500 Bounty](https://medium.com/@justas_b_2/the-idorventures-why-i-love-hackerone-a-different-kind-of-33-500-bounty-a48665a7b900?source=rss------bug_bounty-5) 
+ - 💯January 30, 2026 - [CSRF: How to trick a website into taking Action on your behalf](https://medium.com/@anshkamra00/csrf-how-to-trick-a-website-f2bb91184b1d?source=rss------bug_bounty-5) 
 
- - 💯January 29, 2026 - [IDOR : Simple to Understand, easy to miss](https://medium.com/@anshkamra00/idor-simple-to-understand-easy-to-miss-4beea0b4847b?source=rss------bug_bounty-5) 
+ - 💯January 30, 2026 - [How a “Safe” Analytics Endpoint Leaked Real User Behavior](https://medium.com/@iski/how-a-safe-analytics-endpoint-leaked-real-user-behavior-9c75b38bcde6?source=rss------bug_bounty-5) 
 
- - 💯January 29, 2026 - [I Never Touched the Database — Still Got All the Data](https://medium.com/@iski/i-never-touched-the-database-still-got-all-the-data-9fac54ba5f65?source=rss------bug_bounty-5) 
+ - 💯January 30, 2026 - [The OAuth mechanism and its most common flows](https://medium.com/@shehacks_/the-oauth-mechanism-and-its-most-common-flows-c6186935ab1b?source=rss------bug_bounty-5) 
 
- - 💯January 29, 2026 - [Technical Bug Bounty Methodology: Deep Recon, Automation and Human Insight](https://nullsecurityx.medium.com/technical-bug-bounty-methodology-deep-recon-automation-and-human-insight-ec61e9e0f4dd?source=rss------bug_bounty-5) 
+ - 💯January 30, 2026 - [[PortSwigger][Practitioner] - Lab: CSRF where token is not tied to user session](https://medium.com/@Javiki/portswigger-practitioner-lab-csrf-where-token-is-not-tied-to-user-session-ccdf23b43f4b?source=rss------bug_bounty-5) 
 
- - 💯January 29, 2026 - [Exploiting PwnKit &lpar;CVE-2021–4034&rpar;](https://medium.com/@shivam_bathla/exploiting-pwnkit-cve-2021-4034-ac5d6995c499?source=rss------bug_bounty-5) 
+ - 💯January 30, 2026 - [Cross-Site Request Forgery &lpar;CSRF&rpar;: A Practical Methodology for Security Testing](https://iaraoz.medium.com/cross-site-request-forgery-csrf-a-practical-methodology-for-security-testing-e7e7283c2132?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
