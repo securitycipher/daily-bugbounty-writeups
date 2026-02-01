@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 31, 2026 - [How to Read a Web App Like a Hacker &lpar;Even If You’re Not Technical Yet&rpar;](https://medium.com/@ramanidhaval11/how-to-read-a-web-app-like-a-hacker-even-if-youre-not-technical-yet-dcc10e034d72?source=rss------bug_bounty-5) 
+ - 💯February 1, 2026 - [Prompt Engineering ChatGPT for Cybersecurity: From Toy Queries to Real SOC Value](https://medium.com/@paritoshblogs/prompt-engineering-chatgpt-for-cybersecurity-from-toy-queries-to-real-soc-value-a89ded2e2875?source=rss------bug_bounty-5) 
 
- - 💯January 31, 2026 - [CyberLessons101: Dockerized CTF Challenge Index.](https://medium.com/@josh.beck2006/cyberlessons101-dockerized-ctf-challenge-index-5fe89baf710f?source=rss------bug_bounty-5) 
+ - 💯February 1, 2026 - [Burp Suite A Beginner’s Guide to Web Security Testing](https://shadowattackers.medium.com/burp-suite-a-beginners-guide-to-web-security-testing-fa2394a9d12d?source=rss------bug_bounty-5) 
 
- - 💯January 31, 2026 - [When “Draft” Doesn’t Mean Private: Finding an IDOR in an Unpublished Resource](https://medium.com/@raminiskandarov2004/when-draft-doesnt-mean-private-finding-an-idor-in-an-unpublished-resource-2c9ead4e7bfb?source=rss------bug_bounty-5) 
+ - 💯January 31, 2026 - [The IDOR’ventures — The Tickets &amp; More — A Different Kind Of $36,000 Bounty](https://medium.com/@justas_b_2/the-idorventures-the-tickets-more-a-different-kind-of-36-000-bounty-6cabbd01e4fb?source=rss------bug_bounty-5) 
 
- - 💯January 31, 2026 - [WhatWeb Guide: Fingerprinting and Recognition for Bug Hunting](https://medium.com/@jpablo13/whatweb-guide-fingerprinting-and-recognition-for-bug-hunting-35f9d7f459d5?source=rss------bug_bounty-5) 
+ - 💯January 31, 2026 - [1&rpar; Introduction — The problem we’re actually trying to solve](https://medium.com/@developerjordy/1-introduction-the-problem-were-actually-trying-to-solve-31b4fbd9761f?source=rss------bug_bounty-5) 
 
- - 💯January 30, 2026 - [How a Simple “Trust Gap” Logic Flaw Earned Me $200,000 and Inspired a New AI Security Engine](https://medium.com/@mrarslan5156/how-a-simple-trust-gap-logic-flaw-earned-me-200-000-and-inspired-a-new-ai-security-engine-2f31c2438e16?source=rss------bug_bounty-5) 
+ - 💯January 31, 2026 - [Break login logic](https://medium.com/@eng.mahmoudbughunter/break-login-logic-43832c2ebd0e?source=rss------bug_bounty-5) 
 
- - 💯January 30, 2026 - [CSRF: How to trick a website into taking Action on your behalf](https://medium.com/@anshkamra00/csrf-how-to-trick-a-website-f2bb91184b1d?source=rss------bug_bounty-5) 
+ - 💯January 31, 2026 - [How a Simple Note Feature Turned Into a Stored XSS &lpar;₹7,500 Bounty&rpar;](https://medium.com/@Rahul.Masal/how-a-simple-note-feature-turned-into-a-stored-xss-7-500-bounty-1d4582f5120d?source=rss------bug_bounty-5) 
 
- - 💯January 30, 2026 - [How a “Safe” Analytics Endpoint Leaked Real User Behavior](https://medium.com/@iski/how-a-safe-analytics-endpoint-leaked-real-user-behavior-9c75b38bcde6?source=rss------bug_bounty-5) 
+ - 💯January 31, 2026 - [How I Was Able to Take Over All Organizations on the Platform via Stored XSS chained with BAC and…](https://medium.com/@0xs3fo/how-i-was-able-to-take-over-all-organizations-on-the-platform-via-stored-xss-chained-with-bac-and-24ea39046b0c?source=rss------bug_bounty-5) 
 
- - 💯January 30, 2026 - [The OAuth mechanism and its most common flows](https://medium.com/@shehacks_/the-oauth-mechanism-and-its-most-common-flows-c6186935ab1b?source=rss------bug_bounty-5) 
+ - 💯January 31, 2026 - [Moltbook: A Social Network for AI Agents](https://codewithvamp.medium.com/moltbook-a-social-network-for-ai-agents-29aa1e82b5c4?source=rss------bug_bounty-5) 
 
- - 💯January 30, 2026 - [[PortSwigger][Practitioner] - Lab: CSRF where token is not tied to user session](https://medium.com/@Javiki/portswigger-practitioner-lab-csrf-where-token-is-not-tied-to-user-session-ccdf23b43f4b?source=rss------bug_bounty-5) 
+ - 💯January 31, 2026 - [Most Cybersecurity Breaches Don’t Start With Hackers-They Start With Assumptions](https://thezubairusman.medium.com/most-cybersecurity-breaches-dont-start-with-hackers-they-start-with-assumptions-3bb6653841e6?source=rss------bug_bounty-5) 
 
- - 💯January 30, 2026 - [Cross-Site Request Forgery &lpar;CSRF&rpar;: A Practical Methodology for Security Testing](https://iaraoz.medium.com/cross-site-request-forgery-csrf-a-practical-methodology-for-security-testing-e7e7283c2132?source=rss------bug_bounty-5) 
+ - 💯January 31, 2026 - [A Subtle SSRF Through the Referer Header](https://medium.com/@raminiskandarov2004/a-subtle-ssrf-through-the-referer-header-79f531604dd0?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
