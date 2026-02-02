@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯February 1, 2026 - [Prompt Engineering ChatGPT for Cybersecurity: From Toy Queries to Real SOC Value](https://medium.com/@paritoshblogs/prompt-engineering-chatgpt-for-cybersecurity-from-toy-queries-to-real-soc-value-a89ded2e2875?source=rss------bug_bounty-5) 
+ - 💯February 2, 2026 - [One Token to Rule Them All: Persistent MFA Bypass via Trusted Client Abuse](https://medium.com/@pophacker996/one-token-to-rule-them-all-persistent-mfa-bypass-via-trusted-client-abuse-620c2ffe2998?source=rss------bug_bounty-5) 
 
- - 💯February 1, 2026 - [Burp Suite A Beginner’s Guide to Web Security Testing](https://shadowattackers.medium.com/burp-suite-a-beginners-guide-to-web-security-testing-fa2394a9d12d?source=rss------bug_bounty-5) 
+ - 💯February 2, 2026 - [Clickjacking 2025: 10 Tools Showing Real Impact &lpar;with Practical Guides&rpar;](https://medium.com/@verylazytech/clickjacking-2025-10-tools-showing-real-impact-with-practical-guides-4e28741f0e51?source=rss------bug_bounty-5) 
 
- - 💯January 31, 2026 - [The IDOR’ventures — The Tickets &amp; More — A Different Kind Of $36,000 Bounty](https://medium.com/@justas_b_2/the-idorventures-the-tickets-more-a-different-kind-of-36-000-bounty-6cabbd01e4fb?source=rss------bug_bounty-5) 
+ - 💯February 2, 2026 - [CTF Galaxy Dash Access JWT Private Key](https://medium.com/@Mr3Moe/ctf-galaxy-dash-access-jwt-private-key-b83ad360f300?source=rss------bug_bounty-5) 
 
- - 💯January 31, 2026 - [1&rpar; Introduction — The problem we’re actually trying to solve](https://medium.com/@developerjordy/1-introduction-the-problem-were-actually-trying-to-solve-31b4fbd9761f?source=rss------bug_bounty-5) 
+ - 💯February 2, 2026 - [JS Recon to Uncover Hidden Web Vulnerabilities in Minutes — And How You Can Too](https://osintteam.blog/js-recon-to-uncover-hidden-web-vulnerabilities-in-minutes-and-how-you-can-too-350b49b805c1?source=rss------bug_bounty-5) 
 
- - 💯January 31, 2026 - [Break login logic](https://medium.com/@eng.mahmoudbughunter/break-login-logic-43832c2ebd0e?source=rss------bug_bounty-5) 
+ - 💯February 1, 2026 - [Meet ReVex: The Cyberpunk HTTP Repeater that lives in your DevTools ☠](https://medium.com/@medjahdii/meet-revex-the-cyberpunk-http-repeater-that-lives-in-your-devtools-4f648c8659e7?source=rss------bug_bounty-5) 
 
- - 💯January 31, 2026 - [How a Simple Note Feature Turned Into a Stored XSS &lpar;₹7,500 Bounty&rpar;](https://medium.com/@Rahul.Masal/how-a-simple-note-feature-turned-into-a-stored-xss-7-500-bounty-1d4582f5120d?source=rss------bug_bounty-5) 
+ - 💯February 1, 2026 - [IDOR Vulnerability in Campaign Workflows – Accessing Archived Campaigns of Any User 150$](https://medium.com/@Hasan_khan0x/idor-vulnerability-in-campaign-workflows-accessing-archived-campaigns-of-any-user-150-f24b46c0cf59?source=rss------bug_bounty-5) 
 
- - 💯January 31, 2026 - [How I Was Able to Take Over All Organizations on the Platform via Stored XSS chained with BAC and…](https://medium.com/@0xs3fo/how-i-was-able-to-take-over-all-organizations-on-the-platform-via-stored-xss-chained-with-bac-and-24ea39046b0c?source=rss------bug_bounty-5) 
+ - 💯February 1, 2026 - [GraphQL Introspection to Admin Takeover: Exploiting Unauthenticated APIs](https://medium.com/@BaymaxPop23/graphql-introspection-to-admin-takeover-exploiting-unauthenticated-apis-2f4c14c3170b?source=rss------bug_bounty-5) 
 
- - 💯January 31, 2026 - [Moltbook: A Social Network for AI Agents](https://codewithvamp.medium.com/moltbook-a-social-network-for-ai-agents-29aa1e82b5c4?source=rss------bug_bounty-5) 
+ - 💯February 1, 2026 - [How I Found The Admin-Creation Backdoor In LA-Studio Element Kit for Elementor 1.5.6.3](https://medium.com/@teammyinside/how-i-found-the-admin-creation-backdoor-in-la-studio-element-kit-for-elementor-1-5-6-3-89a33efb3c3e?source=rss------bug_bounty-5) 
 
- - 💯January 31, 2026 - [Most Cybersecurity Breaches Don’t Start With Hackers-They Start With Assumptions](https://thezubairusman.medium.com/most-cybersecurity-breaches-dont-start-with-hackers-they-start-with-assumptions-3bb6653841e6?source=rss------bug_bounty-5) 
-
- - 💯January 31, 2026 - [A Subtle SSRF Through the Referer Header](https://medium.com/@raminiskandarov2004/a-subtle-ssrf-through-the-referer-header-79f531604dd0?source=rss------bug_bounty-5) 
+ - 💯February 1, 2026 - [Ultimate guide to Osquery Injections](https://medium.com/@shivam_bathla/ultimate-guide-to-osquery-injections-bf4b9e3fa45e?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
