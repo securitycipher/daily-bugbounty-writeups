@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯February 4, 2026 - [Post-Exploitation Toolbox: 25 Commands from Foothold to Domain Admin Mastery](https://medium.com/@verylazytech/post-exploitation-toolbox-25-commands-from-foothold-to-domain-admin-mastery-1bef70bded9c?source=rss------bug_bounty-5) 
+ - 💯February 5, 2026 - [How I Found a Full Team Takeover Vulnerability Through a Simple ID Exchange](https://medium.com/@Abhiii_Sharma/how-i-found-a-full-team-takeover-vulnerability-through-a-simple-id-exchange-ef84a015fd7b?source=rss------bug_bounty-5) 
 
- - 💯February 4, 2026 - [#56 rank on portswigger labs](https://medium.com/@rahultandale024/56-rank-on-portswigger-labs-0e4e899b955b?source=rss------bug_bounty-5) 
+ - 💯February 5, 2026 - [20 Real-World File Upload Bypass Tricks Beyond php.jpg: Step-by-Step Guide for Pentesters](https://medium.com/@verylazytech/20-real-world-file-upload-bypass-tricks-beyond-php-jpg-step-by-step-guide-for-pentesters-6844504bee3b?source=rss------bug_bounty-5) 
 
- - 💯February 4, 2026 - [Top 1% Hacker on try hack me | how i become a top 1% on THM](https://medium.com/@rahultandale024/top-1-hacker-on-try-hack-me-how-i-become-a-top-1-on-thm-60db17292c65?source=rss------bug_bounty-5) 
+ - 💯February 5, 2026 - [2FA Bypass via OTP Reuse Across Multiple Authentication Flows](https://medium.com/@rootxjeet/2fa-bypass-via-otp-reuse-across-multiple-authentication-flows-faa9e07ec56d?source=rss------bug_bounty-5) 
 
- - 💯February 4, 2026 - [A Simple Chain That Leads to “Android App” Account Takeover via Intent Hijacking](https://medium.com/fmisec/a-simple-chain-that-leads-to-android-app-account-takeover-via-intent-hijacking-fd266144ebd4?source=rss------bug_bounty-5) 
+ - 💯February 5, 2026 - [Account Takeover using Improper Authorization in “Check Availability” Feature](https://infosecwriteups.com/account-takeover-using-improper-authorization-in-check-availability-feature-4f9f65098853?source=rss------bug_bounty-5) 
 
- - 💯February 4, 2026 - [How a Password Reset Email Became a Phishing Link](https://medium.com/@harshavardhanreddy1715/how-a-password-reset-email-became-a-phishing-link-26a0f125b3a1?source=rss------bug_bounty-5) 
+ - 💯February 5, 2026 - [Active Session Hijacking via Authentication session_id Exposed in URL](https://sohanxp56.medium.com/active-session-hijacking-via-authentication-session-id-exposed-in-url-f12b1672107b?source=rss------bug_bounty-5) 
 
- - 💯February 4, 2026 - [When Encryption Replaced Authorization — and the IDOR Didn’t Go Away](https://medium.com/@Xp10it/when-encryption-replaced-authorization-and-the-idor-didnt-go-away-cca52c7c9b79?source=rss------bug_bounty-5) 
+ - 💯February 5, 2026 - [GraphQL Root Operation Types](https://medium.com/@shivam_bathla/graphql-root-operation-types-b90eecc02ec3?source=rss------bug_bounty-5) 
 
- - 💯February 4, 2026 - [The Hidden Danger in XML: A Deep Dive into XXE Injection for Modern Pentesters](https://osintteam.blog/the-hidden-danger-in-xml-a-deep-dive-into-xxe-injection-for-modern-pentesters-684a3efd2634?source=rss------bug_bounty-5) 
+ - 💯February 5, 2026 - [CyberNova — Lazarus Phantom DB CTF Write-Up &lpar;SQLi → JWT → XOR Decrypt&rpar;](https://medium.com/@VulnHunt3r/cybernova-lazarus-phantom-db-ctf-write-up-sqli-jwt-xor-decrypt-a2a78f2463a1?source=rss------bug_bounty-5) 
 
- - 💯February 4, 2026 - [How to Analyze a Suspicious URL Without Clicking It](https://medium.com/@paritoshblogs/how-to-analyze-a-suspicious-url-without-clicking-it-4736bd76ed59?source=rss------bug_bounty-5) 
+ - 💯February 5, 2026 - [How SS7 Attacks Break Telecom Trust and Compromise Security](https://medium.com/@pentesterclubpvtltd/how-ss7-attacks-break-telecom-trust-and-compromise-security-7904f3a16e49?source=rss------bug_bounty-5) 
 
- - 💯February 4, 2026 - [John the Ripper: Complete Guide to Cracking for Bug Bounty and Auditing](https://systemweakness.com/john-the-ripper-complete-guide-to-cracking-for-bug-bounty-and-auditing-9fbfcb34f0de?source=rss------bug_bounty-5) 
+ - 💯February 5, 2026 - [Apache + PHP deployment pattern turns into instant RCE](https://medium.com/@24bkdoor/apache-php-deployment-pattern-turns-into-instant-rce-e8537f09e34f?source=rss------bug_bounty-5) 
 
- - 💯February 3, 2026 - [Jobert Abma — A Determined Black Man &amp; A $50,000 Bounty — Chains, Coke &amp; Doubles](https://medium.com/@justas_b_2/jobert-abma-a-determined-black-man-a-50-000-bounty-chains-coke-doubles-c40711a6dd73?source=rss------bug_bounty-5) 
+ - 💯February 5, 2026 - [How I Exploited a Secondary Context Bug to Trigger SSRF &amp; Path Traversal in Backend API Calls](https://medium.com/fmisec/how-i-exploited-a-secondary-context-bug-to-trigger-ssrf-path-traversal-in-backend-api-calls-f1023cac5384?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
