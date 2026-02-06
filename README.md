@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯February 5, 2026 - [How I Found a Full Team Takeover Vulnerability Through a Simple ID Exchange](https://medium.com/@Abhiii_Sharma/how-i-found-a-full-team-takeover-vulnerability-through-a-simple-id-exchange-ef84a015fd7b?source=rss------bug_bounty-5) 
+ - 💯February 6, 2026 - [The Ultimate Nuclei Guide: How to Find Bugs with 9,000+ Templates &lpar;2026 Bug Bounty Edition&rpar;](https://medium.com/@bughuntersjournal/the-ultimate-nuclei-guide-how-to-find-bugs-with-9-000-templates-2026-bug-bounty-edition-d5daf02666a1?source=rss------bug_bounty-5) 
 
- - 💯February 5, 2026 - [20 Real-World File Upload Bypass Tricks Beyond php.jpg: Step-by-Step Guide for Pentesters](https://medium.com/@verylazytech/20-real-world-file-upload-bypass-tricks-beyond-php-jpg-step-by-step-guide-for-pentesters-6844504bee3b?source=rss------bug_bounty-5) 
+ - 💯February 6, 2026 - [Hunting GraphQL Vulnerabilities with Precision: Introducing GraphQL Hunter](https://0skaar.medium.com/hunting-graphql-vulnerabilities-with-precision-introducing-graphql-hunter-6ad9330b4d44?source=rss------bug_bounty-5) 
 
- - 💯February 5, 2026 - [2FA Bypass via OTP Reuse Across Multiple Authentication Flows](https://medium.com/@rootxjeet/2fa-bypass-via-otp-reuse-across-multiple-authentication-flows-faa9e07ec56d?source=rss------bug_bounty-5) 
+ - 💯February 6, 2026 - [This is War! &lpar;Vulnerable Apache Tomcat Docker Container with Exploitation Walkthrough&rpar;](https://medium.com/@josh.beck2006/this-is-war-vulnerable-apache-tomcat-docker-container-with-exploitation-walkthrough-864dc1940bda?source=rss------bug_bounty-5) 
 
- - 💯February 5, 2026 - [Account Takeover using Improper Authorization in “Check Availability” Feature](https://infosecwriteups.com/account-takeover-using-improper-authorization-in-check-availability-feature-4f9f65098853?source=rss------bug_bounty-5) 
+ - 💯February 6, 2026 - [IDOR to Payment Bypass: How a Trusted Payment Callback Issued a Policy Without Paying](https://medium.com/@Xp10it/idor-to-payment-bypass-how-a-trusted-payment-callback-issued-a-policy-without-paying-86a2fef0048b?source=rss------bug_bounty-5) 
 
- - 💯February 5, 2026 - [Active Session Hijacking via Authentication session_id Exposed in URL](https://sohanxp56.medium.com/active-session-hijacking-via-authentication-session-id-exposed-in-url-f12b1672107b?source=rss------bug_bounty-5) 
+ - 💯February 6, 2026 - [Guía Avanzada de Curl para Bug Hunting: Técnicas de Reconocimiento y Explotación](https://medium.com/@jpablo13/gu%C3%ADa-avanzada-de-curl-para-bug-hunting-t%C3%A9cnicas-de-reconocimiento-y-explotaci%C3%B3n-4938b3b04372?source=rss------bug_bounty-5) 
 
- - 💯February 5, 2026 - [GraphQL Root Operation Types](https://medium.com/@shivam_bathla/graphql-root-operation-types-b90eecc02ec3?source=rss------bug_bounty-5) 
+ - 💯February 5, 2026 - [RingZeroCTF Coding Challenge 4 [Can you help me find the answer to this equation] Writeup](https://v3n0m.medium.com/ringzeroctf-coding-challenge-4-can-you-help-me-find-the-answer-to-this-equation-writeup-7326fef71ec1?source=rss------bug_bounty-5) 
 
- - 💯February 5, 2026 - [CyberNova — Lazarus Phantom DB CTF Write-Up &lpar;SQLi → JWT → XOR Decrypt&rpar;](https://medium.com/@VulnHunt3r/cybernova-lazarus-phantom-db-ctf-write-up-sqli-jwt-xor-decrypt-a2a78f2463a1?source=rss------bug_bounty-5) 
+ - 💯February 5, 2026 - [Business Logic Vulnerabilities — When Applications Work as Designed, but Still Fail](https://medium.com/@anshkamra00/business-logic-vulnerabilities-when-applications-work-as-designed-but-still-fail-3353fd2f7df1?source=rss------bug_bounty-5) 
 
- - 💯February 5, 2026 - [How SS7 Attacks Break Telecom Trust and Compromise Security](https://medium.com/@pentesterclubpvtltd/how-ss7-attacks-break-telecom-trust-and-compromise-security-7904f3a16e49?source=rss------bug_bounty-5) 
+ - 💯February 5, 2026 - [Mass Assignment: How a Simple Maintenance Role Gained Admin Control Over Cloud Backups [P2]](https://0xmostafa.medium.com/mass-assignment-how-a-simple-maintenance-role-gained-admin-control-over-cloud-backups-p2-693a5f678b05?source=rss------bug_bounty-5) 
 
- - 💯February 5, 2026 - [Apache + PHP deployment pattern turns into instant RCE](https://medium.com/@24bkdoor/apache-php-deployment-pattern-turns-into-instant-rce-e8537f09e34f?source=rss------bug_bounty-5) 
+ - 💯February 5, 2026 - [Broken CSRF Protection: Bypassing Tokens by Switching from POST to GET](https://medium.com/@sudoxploit/broken-csrf-protection-bypassing-tokens-by-switching-from-post-to-get-d7736921a858?source=rss------bug_bounty-5) 
 
- - 💯February 5, 2026 - [How I Exploited a Secondary Context Bug to Trigger SSRF &amp; Path Traversal in Backend API Calls](https://medium.com/fmisec/how-i-exploited-a-secondary-context-bug-to-trigger-ssrf-path-traversal-in-backend-api-calls-f1023cac5384?source=rss------bug_bounty-5) 
+ - 💯February 5, 2026 - [Android Dirty Stream: A Comprehensive Technical Deep-Dive](https://medium.com/@mohamed0salah213/android-dirty-stream-a-comprehensive-technical-deep-dive-5cc365c2f0fc?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
