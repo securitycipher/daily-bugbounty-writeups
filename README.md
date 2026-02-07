@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯February 6, 2026 - [The Ultimate Nuclei Guide: How to Find Bugs with 9,000+ Templates &lpar;2026 Bug Bounty Edition&rpar;](https://medium.com/@bughuntersjournal/the-ultimate-nuclei-guide-how-to-find-bugs-with-9-000-templates-2026-bug-bounty-edition-d5daf02666a1?source=rss------bug_bounty-5) 
+ - 💯February 7, 2026 - [I Passed the CSEDP Exam — What Social Engineering Really Teaches You About Security](https://infosecwriteups.com/i-passed-the-csedp-exam-what-social-engineering-really-teaches-you-about-security-7bbf20d8410e?source=rss------bug_bounty-5) 
 
- - 💯February 6, 2026 - [Hunting GraphQL Vulnerabilities with Precision: Introducing GraphQL Hunter](https://0skaar.medium.com/hunting-graphql-vulnerabilities-with-precision-introducing-graphql-hunter-6ad9330b4d44?source=rss------bug_bounty-5) 
+ - 💯February 7, 2026 - [How Bug Bounty Programs Are Changing Ethical Hacking Careers](https://medium.com/@anaynams0909/how-bug-bounty-programs-are-changing-ethical-hacking-careers-78a608a8f3c6?source=rss------bug_bounty-5) 
 
- - 💯February 6, 2026 - [This is War! &lpar;Vulnerable Apache Tomcat Docker Container with Exploitation Walkthrough&rpar;](https://medium.com/@josh.beck2006/this-is-war-vulnerable-apache-tomcat-docker-container-with-exploitation-walkthrough-864dc1940bda?source=rss------bug_bounty-5) 
+ - 💯February 7, 2026 - [A Collection of Tips for Beginner Bug Bounty Hunter](https://medium.com/@scgajge12/a-collection-of-tips-for-beginner-bug-bounty-hunter-475704a75d10?source=rss------bug_bounty-5) 
 
- - 💯February 6, 2026 - [IDOR to Payment Bypass: How a Trusted Payment Callback Issued a Policy Without Paying](https://medium.com/@Xp10it/idor-to-payment-bypass-how-a-trusted-payment-callback-issued-a-policy-without-paying-86a2fef0048b?source=rss------bug_bounty-5) 
+ - 💯February 7, 2026 - [How to Turn Recon Notes Into Real Bug Bounty Findings](https://medium.com/@ramanidhaval11/how-to-turn-recon-notes-into-real-bug-bounty-findings-f3742df446de?source=rss------bug_bounty-5) 
 
- - 💯February 6, 2026 - [Guía Avanzada de Curl para Bug Hunting: Técnicas de Reconocimiento y Explotación](https://medium.com/@jpablo13/gu%C3%ADa-avanzada-de-curl-para-bug-hunting-t%C3%A9cnicas-de-reconocimiento-y-explotaci%C3%B3n-4938b3b04372?source=rss------bug_bounty-5) 
+ - 💯February 7, 2026 - [Web Fuzzing: A Practical Testing Methodology](https://iaraoz.medium.com/web-fuzzing-a-practical-testing-methodology-1f24198e2ddc?source=rss------bug_bounty-5) 
 
- - 💯February 5, 2026 - [RingZeroCTF Coding Challenge 4 [Can you help me find the answer to this equation] Writeup](https://v3n0m.medium.com/ringzeroctf-coding-challenge-4-can-you-help-me-find-the-answer-to-this-equation-writeup-7326fef71ec1?source=rss------bug_bounty-5) 
+ - 💯February 7, 2026 - [Bug Bounty Recon for Everyone](https://medium.com/@batuhanaydinn/bug-bounty-recon-for-everyone-220ae026a42c?source=rss------bug_bounty-5) 
 
- - 💯February 5, 2026 - [Business Logic Vulnerabilities — When Applications Work as Designed, but Still Fail](https://medium.com/@anshkamra00/business-logic-vulnerabilities-when-applications-work-as-designed-but-still-fail-3353fd2f7df1?source=rss------bug_bounty-5) 
+ - 💯February 7, 2026 - [Advanced Curl Guide for Bug Hunting: Reconnaissance and Exploitation Techniques](https://medium.com/@jpablo13/advanced-curl-guide-for-bug-hunting-reconnaissance-and-exploitation-techniques-3ed32744a2b5?source=rss------bug_bounty-5) 
 
- - 💯February 5, 2026 - [Mass Assignment: How a Simple Maintenance Role Gained Admin Control Over Cloud Backups [P2]](https://0xmostafa.medium.com/mass-assignment-how-a-simple-maintenance-role-gained-admin-control-over-cloud-backups-p2-693a5f678b05?source=rss------bug_bounty-5) 
+ - 💯February 6, 2026 - [CSRF Protection Done Wrong: Accepting Requests Without Tokens](https://medium.com/@sudoxploit/csrf-protection-done-wrong-accepting-requests-without-tokens-f96708d39090?source=rss------bug_bounty-5) 
 
- - 💯February 5, 2026 - [Broken CSRF Protection: Bypassing Tokens by Switching from POST to GET](https://medium.com/@sudoxploit/broken-csrf-protection-bypassing-tokens-by-switching-from-post-to-get-d7736921a858?source=rss------bug_bounty-5) 
+ - 💯February 6, 2026 - [Bug Bounty Programlarına Başlamaya Karar Verdim](https://mrdelta.medium.com/bug-bounty-programlar%C4%B1na-ba%C5%9Flamaya-karar-verdim-c9d4a078f279?source=rss------bug_bounty-5) 
 
- - 💯February 5, 2026 - [Android Dirty Stream: A Comprehensive Technical Deep-Dive](https://medium.com/@mohamed0salah213/android-dirty-stream-a-comprehensive-technical-deep-dive-5cc365c2f0fc?source=rss------bug_bounty-5) 
+ - 💯February 6, 2026 - [Here’s how I discovered a high-severity broken access control vulnerability &lpar;BAC-1&rpar;](https://medium.com/@Br0k3n_1337/heres-how-i-discovered-a-high-severity-broken-access-control-vulnerability-bac-1-27c0e3e821f0?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
