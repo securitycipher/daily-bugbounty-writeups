@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯February 7, 2026 - [I Passed the CSEDP Exam — What Social Engineering Really Teaches You About Security](https://infosecwriteups.com/i-passed-the-csedp-exam-what-social-engineering-really-teaches-you-about-security-7bbf20d8410e?source=rss------bug_bounty-5) 
+ - 💯February 8, 2026 - [XSS leads to Infrastructure Compromise](https://osintteam.blog/xss-leads-to-infrastructure-compromise-396945a701c1?source=rss------bug_bounty-5) 
 
- - 💯February 7, 2026 - [How Bug Bounty Programs Are Changing Ethical Hacking Careers](https://medium.com/@anaynams0909/how-bug-bounty-programs-are-changing-ethical-hacking-careers-78a608a8f3c6?source=rss------bug_bounty-5) 
+ - 💯February 8, 2026 - [Information Disclosure using URLScan Dorking](https://osintteam.blog/information-disclosure-using-urlscan-dorking-b92cda44bb03?source=rss------bug_bounty-5) 
 
- - 💯February 7, 2026 - [A Collection of Tips for Beginner Bug Bounty Hunter](https://medium.com/@scgajge12/a-collection-of-tips-for-beginner-bug-bounty-hunter-475704a75d10?source=rss------bug_bounty-5) 
+ - 💯February 7, 2026 - [Multiple Vertical Broken Access Control Issues via Admin Functionality Leakage from Test…](https://medium.com/@mhmodgm54/multiple-vertical-broken-access-control-issues-via-admin-functionality-leakage-from-test-f714f48040a8?source=rss------bug_bounty-5) 
 
- - 💯February 7, 2026 - [How to Turn Recon Notes Into Real Bug Bounty Findings](https://medium.com/@ramanidhaval11/how-to-turn-recon-notes-into-real-bug-bounty-findings-f3742df446de?source=rss------bug_bounty-5) 
+ - 💯February 7, 2026 - [The Return: Cloud Security Assessment](https://aswingovind.medium.com/the-return-cloud-security-assessment-71fe27212cc2?source=rss------bug_bounty-5) 
 
- - 💯February 7, 2026 - [Web Fuzzing: A Practical Testing Methodology](https://iaraoz.medium.com/web-fuzzing-a-practical-testing-methodology-1f24198e2ddc?source=rss------bug_bounty-5) 
+ - 💯February 7, 2026 - [The Biggest Mistake Bug Bounty Hunters Make](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/the-biggest-mistake-bug-bounty-hunters-make-c8fd7a7a42bb?source=rss------bug_bounty-5) 
 
- - 💯February 7, 2026 - [Bug Bounty Recon for Everyone](https://medium.com/@batuhanaydinn/bug-bounty-recon-for-everyone-220ae026a42c?source=rss------bug_bounty-5) 
+ - 💯February 7, 2026 - [PHP mail&lpar;&rpar; Command Injection to Remote Code Execution &lpar;RCE&rpar;](https://nullsecurityx.medium.com/php-mail-command-injection-to-remote-code-execution-rce-b2991e929ca3?source=rss------bug_bounty-5) 
 
- - 💯February 7, 2026 - [Advanced Curl Guide for Bug Hunting: Reconnaissance and Exploitation Techniques](https://medium.com/@jpablo13/advanced-curl-guide-for-bug-hunting-reconnaissance-and-exploitation-techniques-3ed32744a2b5?source=rss------bug_bounty-5) 
+ - 💯February 7, 2026 - [Blind OS Command Injection with Output Redirection](https://meetcyber.net/blind-os-command-injection-with-output-redirection-266bf702d288?source=rss------bug_bounty-5) 
 
- - 💯February 6, 2026 - [CSRF Protection Done Wrong: Accepting Requests Without Tokens](https://medium.com/@sudoxploit/csrf-protection-done-wrong-accepting-requests-without-tokens-f96708d39090?source=rss------bug_bounty-5) 
+ - 💯February 7, 2026 - [Fixing the Web Together: The Role of Open Bug Bounty](https://medium.com/@penoughcyber/fixing-the-web-together-the-role-of-open-bug-bounty-f9fba997455b?source=rss------bug_bounty-5) 
 
- - 💯February 6, 2026 - [Bug Bounty Programlarına Başlamaya Karar Verdim](https://mrdelta.medium.com/bug-bounty-programlar%C4%B1na-ba%C5%9Flamaya-karar-verdim-c9d4a078f279?source=rss------bug_bounty-5) 
+ - 💯February 7, 2026 - [Learning AppSec the Practical Way with DVWA](https://medium.com/@Kamal_S/learning-appsec-the-practical-way-with-dvwa-0971cbf82f42?source=rss------bug_bounty-5) 
 
- - 💯February 6, 2026 - [Here’s how I discovered a high-severity broken access control vulnerability &lpar;BAC-1&rpar;](https://medium.com/@Br0k3n_1337/heres-how-i-discovered-a-high-severity-broken-access-control-vulnerability-bac-1-27c0e3e821f0?source=rss------bug_bounty-5) 
+ - 💯February 7, 2026 - [Chaining OTP Bypass to Full Account Takeover](https://medium.com/@atharvchawna/chaining-otp-bypass-to-full-account-takeover-67293b48ae28?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
