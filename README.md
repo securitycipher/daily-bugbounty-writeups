@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯February 8, 2026 - [XSS leads to Infrastructure Compromise](https://osintteam.blog/xss-leads-to-infrastructure-compromise-396945a701c1?source=rss------bug_bounty-5) 
+ - 💯February 9, 2026 - [My First Month in Bug Bounty: Results, Numbers, and Lessons Learned](https://medium.com/@ramazan.abdirassilov/my-first-month-in-bug-bounty-results-numbers-and-lessons-learned-5486e8f6a409?source=rss------bug_bounty-5) 
 
- - 💯February 8, 2026 - [Information Disclosure using URLScan Dorking](https://osintteam.blog/information-disclosure-using-urlscan-dorking-b92cda44bb03?source=rss------bug_bounty-5) 
+ - 💯February 9, 2026 - [Firefox Containers for IDOR &amp; BAC Testing](https://medium.com/legionhunters/firefox-containers-for-idor-bac-testing-1b852095f190?source=rss------bug_bounty-5) 
 
- - 💯February 7, 2026 - [Multiple Vertical Broken Access Control Issues via Admin Functionality Leakage from Test…](https://medium.com/@mhmodgm54/multiple-vertical-broken-access-control-issues-via-admin-functionality-leakage-from-test-f714f48040a8?source=rss------bug_bounty-5) 
+ - 💯February 9, 2026 - [Intent Redirection in a Samsung Dialer &lpar;Duplicate&rpar; SVE-2025–1217](https://medium.com/@happyjester80/intent-redirection-in-a-samsung-dialer-duplicate-sve-2025-1217-0160b0d79a74?source=rss------bug_bounty-5) 
 
- - 💯February 7, 2026 - [The Return: Cloud Security Assessment](https://aswingovind.medium.com/the-return-cloud-security-assessment-71fe27212cc2?source=rss------bug_bounty-5) 
+ - 💯February 9, 2026 - [How I got $600 bounty from a self hosted programme](https://osintteam.blog/how-i-got-600-bounty-from-a-self-hosted-programme-fddd550b7850?source=rss------bug_bounty-5) 
 
- - 💯February 7, 2026 - [The Biggest Mistake Bug Bounty Hunters Make](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/the-biggest-mistake-bug-bounty-hunters-make-c8fd7a7a42bb?source=rss------bug_bounty-5) 
+ - 💯February 8, 2026 - [Cryptography Challenges — ZINAD x ITI Cyber Champion CTF 2026](https://mohammadibnibrahim.medium.com/cryptography-challenges-zinad-x-iti-cyber-champion-ctf-2026-0930f9e5ffbe?source=rss------bug_bounty-5) 
 
- - 💯February 7, 2026 - [PHP mail&lpar;&rpar; Command Injection to Remote Code Execution &lpar;RCE&rpar;](https://nullsecurityx.medium.com/php-mail-command-injection-to-remote-code-execution-rce-b2991e929ca3?source=rss------bug_bounty-5) 
+ - 💯February 8, 2026 - [httpx: Turning Subdomains into Attack Surface](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/httpx-turning-subdomains-into-attack-surface-24f5dee7750d?source=rss------bug_bounty-5) 
 
- - 💯February 7, 2026 - [Blind OS Command Injection with Output Redirection](https://meetcyber.net/blind-os-command-injection-with-output-redirection-266bf702d288?source=rss------bug_bounty-5) 
+ - 💯February 8, 2026 - [Low Hanging Fruits in Bug Bounty — Easy Bugs That Still Have Real Impact](https://medium.com/@anshkamra00/low-hanging-fruits-in-bug-bounty-easy-bugs-that-still-have-real-impact-b4912c314685?source=rss------bug_bounty-5) 
 
- - 💯February 7, 2026 - [Fixing the Web Together: The Role of Open Bug Bounty](https://medium.com/@penoughcyber/fixing-the-web-together-the-role-of-open-bug-bounty-f9fba997455b?source=rss------bug_bounty-5) 
+ - 💯February 8, 2026 - [Why “Out of Scope” Doesn’t Always Mean “Out of Impact”](https://infosecwriteups.com/why-out-of-scope-doesnt-always-mean-out-of-impact-480fb894b74a?source=rss------bug_bounty-5) 
 
- - 💯February 7, 2026 - [Learning AppSec the Practical Way with DVWA](https://medium.com/@Kamal_S/learning-appsec-the-practical-way-with-dvwa-0971cbf82f42?source=rss------bug_bounty-5) 
+ - 💯February 8, 2026 - [Der CTF ist einfach, aber nicht seine Auswirkungen](https://medium.com/@abuelyazid.software/der-ctf-ist-einfach-aber-nicht-seine-auswirkungen-83e9aa171b71?source=rss------bug_bounty-5) 
 
- - 💯February 7, 2026 - [Chaining OTP Bypass to Full Account Takeover](https://medium.com/@atharvchawna/chaining-otp-bypass-to-full-account-takeover-67293b48ae28?source=rss------bug_bounty-5) 
+ - 💯February 8, 2026 - [Pentester Bytes: IDOR Basics &amp; Pentesting Methodology](https://medium.com/@shivam_bathla/all-about-idors-basics-pentesting-methodology-fbdc73fd736d?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
