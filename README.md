@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯February 9, 2026 - [My First Month in Bug Bounty: Results, Numbers, and Lessons Learned](https://medium.com/@ramazan.abdirassilov/my-first-month-in-bug-bounty-results-numbers-and-lessons-learned-5486e8f6a409?source=rss------bug_bounty-5) 
+ - 💯February 10, 2026 - [SSRF Hunting 2025: 12 Tools Beyond Metadata for Next-Level Pentesting](https://medium.com/@verylazytech/ssrf-hunting-2025-12-tools-beyond-metadata-for-next-level-pentesting-a55c4a18f347?source=rss------bug_bounty-5) 
 
- - 💯February 9, 2026 - [Firefox Containers for IDOR &amp; BAC Testing](https://medium.com/legionhunters/firefox-containers-for-idor-bac-testing-1b852095f190?source=rss------bug_bounty-5) 
+ - 💯February 10, 2026 - [Blind OS Command Injection with Out-of-Band Data Exfiltration](https://osintteam.blog/blind-os-command-injection-with-out-of-band-data-exfiltration-f201ed79bf11?source=rss------bug_bounty-5) 
 
- - 💯February 9, 2026 - [Intent Redirection in a Samsung Dialer &lpar;Duplicate&rpar; SVE-2025–1217](https://medium.com/@happyjester80/intent-redirection-in-a-samsung-dialer-duplicate-sve-2025-1217-0160b0d79a74?source=rss------bug_bounty-5) 
+ - 💯February 10, 2026 - [Guía de Códigos de Estado HTTP para Bug Bounty y Pentesting](https://medium.com/@jpablo13/gu%C3%ADa-de-c%C3%B3digos-de-estado-http-para-bug-bounty-y-pentesting-af71f708e9b5?source=rss------bug_bounty-5) 
 
- - 💯February 9, 2026 - [How I got $600 bounty from a self hosted programme](https://osintteam.blog/how-i-got-600-bounty-from-a-self-hosted-programme-fddd550b7850?source=rss------bug_bounty-5) 
+ - 💯February 9, 2026 - [Gamifying Security Testing: Introducing BurpHub](https://medium.com/@jopelumi141/gamifying-security-testing-introducing-burphub-8b4595e98f07?source=rss------bug_bounty-5) 
 
- - 💯February 8, 2026 - [Cryptography Challenges — ZINAD x ITI Cyber Champion CTF 2026](https://mohammadibnibrahim.medium.com/cryptography-challenges-zinad-x-iti-cyber-champion-ctf-2026-0930f9e5ffbe?source=rss------bug_bounty-5) 
+ - 💯February 9, 2026 - [Web template , KOSTEN ,Bugs , software-perspektive.](https://medium.com/@abuelyazid.software/web-template-kosten-bugs-software-perspektive-6ba47fb92e6b?source=rss------bug_bounty-5) 
 
- - 💯February 8, 2026 - [httpx: Turning Subdomains into Attack Surface](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/httpx-turning-subdomains-into-attack-surface-24f5dee7750d?source=rss------bug_bounty-5) 
+ - 💯February 9, 2026 - [Why sqlmap Fails &lpar;And When It Doesn’t&rpar;](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/why-sqlmap-fails-and-when-it-doesnt-ca14bc7d8559?source=rss------bug_bounty-5) 
 
- - 💯February 8, 2026 - [Low Hanging Fruits in Bug Bounty — Easy Bugs That Still Have Real Impact](https://medium.com/@anshkamra00/low-hanging-fruits-in-bug-bounty-easy-bugs-that-still-have-real-impact-b4912c314685?source=rss------bug_bounty-5) 
+ - 💯February 9, 2026 - [Pentester Bytes: API Pentesting Methodology — Broken Function Level Authorization](https://medium.com/@shivam_bathla/pentester-bytes-api-pentesting-methodology-broken-function-level-authorization-52f40f3d6e47?source=rss------bug_bounty-5) 
 
- - 💯February 8, 2026 - [Why “Out of Scope” Doesn’t Always Mean “Out of Impact”](https://infosecwriteups.com/why-out-of-scope-doesnt-always-mean-out-of-impact-480fb894b74a?source=rss------bug_bounty-5) 
+ - 💯February 9, 2026 - [Neural Network Backdoors: When Model Poisoning Led to System Compromise](https://infosecwriteups.com/neural-network-backdoors-when-model-poisoning-led-to-system-compromise-685f37350ec1?source=rss------bug_bounty-5) 
 
- - 💯February 8, 2026 - [Der CTF ist einfach, aber nicht seine Auswirkungen](https://medium.com/@abuelyazid.software/der-ctf-ist-einfach-aber-nicht-seine-auswirkungen-83e9aa171b71?source=rss------bug_bounty-5) 
+ - 💯February 9, 2026 - [Mozilla Firefox Gave me a T-Shirt](https://medium.com/@vikrams_official/mozilla-firefox-gave-me-a-t-shirt-9b31f1c98186?source=rss------bug_bounty-5) 
 
- - 💯February 8, 2026 - [Pentester Bytes: IDOR Basics &amp; Pentesting Methodology](https://medium.com/@shivam_bathla/all-about-idors-basics-pentesting-methodology-fbdc73fd736d?source=rss------bug_bounty-5) 
+ - 💯February 9, 2026 - [الاستيلاء على الحساب من خلال إدارة دورة حياة OAuth غير السليمة](https://medium.com/@montaser_mohsen/%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D9%84%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%A8-%D9%85%D9%86-%D8%AE%D9%84%D8%A7%D9%84-%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%AF%D9%88%D8%B1%D8%A9-%D8%AD%D9%8A%D8%A7%D8%A9-oauth-%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D9%8A%D9%85%D8%A9-452bb0cd8cff?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
