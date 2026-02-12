@@ -2,24 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯February 11, 2026 - [Bug Bounty Hunters: Here’s Why You Still Haven’t Found a Valid Bug](https://medium.com/@vivekps143/bug-bounty-hunters-heres-why-you-still-haven-t-found-a-valid-bug-ece4b3588c4e?source=rss------bug_bounty-5) 
+ - 💯February 12, 2026 - [Part 3: The Modern Recon Stack — The automation script](https://medium.com/@gopikrishna0295/part-3-the-modern-recon-stack-the-automation-script-6aacbba06916?source=rss------bug_bounty-5) 
 
- - 💯February 11, 2026 - [How to Run Kali Linux in the Cloud for FREE &lpar;16GB RAM &amp; 4 CPU&rpar; — No PC Required](https://zer0figure.medium.com/how-to-run-kali-linux-in-the-cloud-for-free-16gb-ram-4-cpu-no-pc-required-c5be55142883?source=rss------bug_bounty-5) 
+ - 💯February 12, 2026 - [Part 2: Turning Post Mortems into Bug Bounty Wins](https://medium.com/@iamabraham/part-2-turning-post-mortems-into-bug-bounty-wins-c7d73b545bed?source=rss------bug_bounty-5) 
 
- - 💯February 11, 2026 - [Kickstart Your Networking Journey: Must-Know Basic Terms](https://medium.com/@21bec131/kickstart-your-networking-journey-must-know-basic-terms-418bbe6eeb5a?source=rss------bug_bounty-5) 
+ - 💯February 12, 2026 - [How I Found My First Account Takeover Vulnerability](https://sudohunt.medium.com/how-i-found-my-first-account-takeover-vulnerability-386af5e45bc3?source=rss------bug_bounty-5) 
 
- - 💯February 11, 2026 - [PicoCTF.org CTF Challenge Write Up
-Category: Web Exploitation](https://damian-moore.medium.com/picoctf-org-ctf-challenge-write-up-category-web-exploitation-e4d7a70a59b7?source=rss------bug_bounty-5) 
+ - 💯February 12, 2026 - [Bug Bounty Masterclass —$90,000+ Real World Exploitation](https://medium.com/@zabedullahpoyel/bug-bounty-masterclass-90-000-real-world-exploitation-b7df5a36c148?source=rss------bug_bounty-5) 
 
- - 💯February 11, 2026 - [Blind OS Command Injection with Out-of-Band DNS Interaction](https://infosecwriteups.com/blind-os-command-injection-with-out-of-band-dns-interaction-ad66a1075ec0?source=rss------bug_bounty-5) 
+ - 💯February 12, 2026 - [Payment Bypass: When “Payment Successful” Was Just a Suggestion](https://medium.com/@Xp10it/payment-bypass-when-payment-successful-was-just-a-suggestion-262e3c52f470?source=rss------bug_bounty-5) 
 
- - 💯February 11, 2026 - [Logic Poisoning: How One Bad Review Broke Ratings](https://medium.com/legionhunters/logic-poisoning-how-one-bad-review-broke-ratings-cfe38ae48338?source=rss------bug_bounty-5) 
+ - 💯February 11, 2026 - [From YAML to RCE: The PyYAML Deserialization Story](https://0d-amr.medium.com/from-yaml-to-rce-the-pyyaml-deserialization-story-4a7d1dfe4f43?source=rss------bug_bounty-5) 
 
- - 💯February 11, 2026 - [Guide to HTTP Status Codes for Bug Bounty and Pentesting](https://systemweakness.com/guide-to-http-status-codes-for-bug-bounty-and-pentesting-1218b04ad3c4?source=rss------bug_bounty-5) 
+ - 💯February 11, 2026 - [How I Decide a Tool Result Is Worth My Time](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/how-i-decide-a-tool-result-is-worth-my-time-89505dac3c60?source=rss------bug_bounty-5) 
 
- - 💯February 10, 2026 - [Effective Dorking Tools](https://osintteam.blog/effective-dorking-tools-3f0ea18e2c0d?source=rss------bug_bounty-5) 
+ - 💯February 11, 2026 - [Tüm Hatlarıyla SSRF Zafiyeti](https://zekikayaalp.medium.com/t%C3%BCm-hatlar%C4%B1yla-ssrf-zafiyeti-c33009e8ce47?source=rss------bug_bounty-5) 
 
- - 💯February 10, 2026 - [From Signal to Impact](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/from-signal-to-impact-d38f56bbbc0a?source=rss------bug_bounty-5) 
+ - 💯February 11, 2026 - [How CVE-2026–24061 Grants Instant Root via Telnet](https://medium.com/@mhammadalkhateeb22/how-cve-2026-24061-grants-instant-root-via-telnet-ad49019572e6?source=rss------bug_bounty-5) 
 
- - 💯February 10, 2026 - [Part 1: How to Read Post Mortems Like a Real Security Researcher](https://medium.com/@iamabraham/part-1-how-to-read-post-mortems-like-a-real-security-researcher-ad9af577c33a?source=rss------bug_bounty-5) 
+ - 💯February 11, 2026 - [File Upload Vulnerabilities: A Practical Methodology for Security Testing](https://medium.com/@N0aziXss/file-upload-vulnerabilities-a-practical-methodology-for-security-testing-036f69fb1eb5?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
