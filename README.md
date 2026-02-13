@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯February 12, 2026 - [Part 3: The Modern Recon Stack — The automation script](https://medium.com/@gopikrishna0295/part-3-the-modern-recon-stack-the-automation-script-6aacbba06916?source=rss------bug_bounty-5) 
+ - 💯February 13, 2026 - [Exploiting Stored HTML Injection via Broken Email Ownership Validation](https://medium.com/@anikets5213/exploiting-stored-html-injection-via-broken-email-ownership-validation-ba09d614d024?source=rss------bug_bounty-5) 
 
- - 💯February 12, 2026 - [Part 2: Turning Post Mortems into Bug Bounty Wins](https://medium.com/@iamabraham/part-2-turning-post-mortems-into-bug-bounty-wins-c7d73b545bed?source=rss------bug_bounty-5) 
+ - 💯February 13, 2026 - [$1000 Bounty for Chaining 2 IDOR’s &amp; WAF Bypass to Expose Full Event Database](https://medium.com/@DarkyOS/1000-bounty-for-chaining-2-idors-waf-bypass-to-expose-full-event-database-602a577a71cf?source=rss------bug_bounty-5) 
 
- - 💯February 12, 2026 - [How I Found My First Account Takeover Vulnerability](https://sudohunt.medium.com/how-i-found-my-first-account-takeover-vulnerability-386af5e45bc3?source=rss------bug_bounty-5) 
+ - 💯February 13, 2026 - [From API Keys to Dependency Confusion: Scaling JavaScript Analysis with 0xJS and 0xDepCheck](https://medium.com/@0xpedrop/from-api-keys-to-dependency-confusion-scaling-javascript-analysis-with-0xjs-and-0xdepcheck-b532e76ccb5f?source=rss------bug_bounty-5) 
 
- - 💯February 12, 2026 - [Bug Bounty Masterclass —$90,000+ Real World Exploitation](https://medium.com/@zabedullahpoyel/bug-bounty-masterclass-90-000-real-world-exploitation-b7df5a36c148?source=rss------bug_bounty-5) 
+ - 💯February 13, 2026 - [The “Open Window” in the SSO Fortress: How I Accessed Internal GraphQL Schemas Without Login &lpar;And…](https://zer0figure.medium.com/the-open-window-in-the-sso-fortress-how-i-accessed-internal-graphql-schemas-without-login-and-e9b82379659f?source=rss------bug_bounty-5) 
 
- - 💯February 12, 2026 - [Payment Bypass: When “Payment Successful” Was Just a Suggestion](https://medium.com/@Xp10it/payment-bypass-when-payment-successful-was-just-a-suggestion-262e3c52f470?source=rss------bug_bounty-5) 
+ - 💯February 13, 2026 - [Fixing Custom Segmented Control](https://21zerixpm.medium.com/fixing-custom-segmented-control-a4101a8f0915?source=rss------bug_bounty-5) 
 
- - 💯February 11, 2026 - [From YAML to RCE: The PyYAML Deserialization Story](https://0d-amr.medium.com/from-yaml-to-rce-the-pyyaml-deserialization-story-4a7d1dfe4f43?source=rss------bug_bounty-5) 
+ - 💯February 13, 2026 - [Top 10 Recon Mistakes That Make Hackers Miss Easy Bugs](https://osintteam.blog/top-10-recon-mistakes-that-make-hackers-miss-easy-bugs-7618c8ae1e88?source=rss------bug_bounty-5) 
 
- - 💯February 11, 2026 - [How I Decide a Tool Result Is Worth My Time](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/how-i-decide-a-tool-result-is-worth-my-time-89505dac3c60?source=rss------bug_bounty-5) 
+ - 💯February 13, 2026 - [Breaking Role Barriers: Exploiting Broken Access Control in CriticalOps — HTB Walkthrough](https://osintteam.blog/breaking-role-barriers-exploiting-broken-access-control-in-criticalops-htb-walkthrough-cb81d3aef820?source=rss------bug_bounty-5) 
 
- - 💯February 11, 2026 - [Tüm Hatlarıyla SSRF Zafiyeti](https://zekikayaalp.medium.com/t%C3%BCm-hatlar%C4%B1yla-ssrf-zafiyeti-c33009e8ce47?source=rss------bug_bounty-5) 
+ - 💯February 13, 2026 - [Anonymous Auto Tor Proxy IP Changer](https://medium.com/@byroot/anonymous-auto-tor-proxy-ip-changer-54da7adbf434?source=rss------bug_bounty-5) 
 
- - 💯February 11, 2026 - [How CVE-2026–24061 Grants Instant Root via Telnet](https://medium.com/@mhammadalkhateeb22/how-cve-2026-24061-grants-instant-root-via-telnet-ad49019572e6?source=rss------bug_bounty-5) 
-
- - 💯February 11, 2026 - [File Upload Vulnerabilities: A Practical Methodology for Security Testing](https://medium.com/@N0aziXss/file-upload-vulnerabilities-a-practical-methodology-for-security-testing-036f69fb1eb5?source=rss------bug_bounty-5) 
+ - 💯February 13, 2026 - [Arp-Scan para Pentesting: Escaneo de Red y Bypass de Firewalls](https://medium.com/@jpablo13/arp-scan-para-pentesting-escaneo-de-red-y-bypass-de-firewalls-e05f63e72859?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
