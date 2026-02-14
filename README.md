@@ -2,21 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯February 13, 2026 - [Exploiting Stored HTML Injection via Broken Email Ownership Validation](https://medium.com/@anikets5213/exploiting-stored-html-injection-via-broken-email-ownership-validation-ba09d614d024?source=rss------bug_bounty-5) 
+ - 💯February 14, 2026 - [My First Triaged Report Ever](https://medium.com/@Mo_serag/my-first-triaged-report-ever-4b6cd8f9e654?source=rss------bug_bounty-5) 
 
- - 💯February 13, 2026 - [$1000 Bounty for Chaining 2 IDOR’s &amp; WAF Bypass to Expose Full Event Database](https://medium.com/@DarkyOS/1000-bounty-for-chaining-2-idors-waf-bypass-to-expose-full-event-database-602a577a71cf?source=rss------bug_bounty-5) 
+ - 💯February 14, 2026 - [SSHStalker Botnet Operation](https://medium.com/@kanhukhanda764/sshstalker-botnet-operation-ae1a19660813?source=rss------bug_bounty-5) 
 
- - 💯February 13, 2026 - [From API Keys to Dependency Confusion: Scaling JavaScript Analysis with 0xJS and 0xDepCheck](https://medium.com/@0xpedrop/from-api-keys-to-dependency-confusion-scaling-javascript-analysis-with-0xjs-and-0xdepcheck-b532e76ccb5f?source=rss------bug_bounty-5) 
+ - 💯February 14, 2026 - [Part 3: Building Your Personal Post Mortem Playbook](https://medium.com/@iamabraham/part-3-building-your-personal-post-mortem-playbook-0eed0b9ba614?source=rss------bug_bounty-5) 
 
- - 💯February 13, 2026 - [The “Open Window” in the SSO Fortress: How I Accessed Internal GraphQL Schemas Without Login &lpar;And…](https://zer0figure.medium.com/the-open-window-in-the-sso-fortress-how-i-accessed-internal-graphql-schemas-without-login-and-e9b82379659f?source=rss------bug_bounty-5) 
+ - 💯February 14, 2026 - [From Summarize Button to Full AI Jailbreak](https://medium.com/@AliMojaver/from-summarize-button-to-full-ai-jailbreak-0bd51f7995d1?source=rss------bug_bounty-5) 
 
- - 💯February 13, 2026 - [Fixing Custom Segmented Control](https://21zerixpm.medium.com/fixing-custom-segmented-control-a4101a8f0915?source=rss------bug_bounty-5) 
+ - 💯February 14, 2026 - [Intercepting Mobile Apps Traffic Using Burp and Ngrok](https://hackerassociate.medium.com/intercepting-mobile-apps-traffic-using-burp-and-ngrok-17e31f674721?source=rss------bug_bounty-5) 
 
- - 💯February 13, 2026 - [Top 10 Recon Mistakes That Make Hackers Miss Easy Bugs](https://osintteam.blog/top-10-recon-mistakes-that-make-hackers-miss-easy-bugs-7618c8ae1e88?source=rss------bug_bounty-5) 
+ - 💯February 14, 2026 - [Breaking the Web &lpar;Part 10&rpar;: Advanced Topics &amp; Modern Attacks — Chaining Vulnerabilities in the Real…](https://medium.com/@cybercom0101/breaking-the-web-part-10-advanced-topics-modern-attacks-chaining-vulnerabilities-in-the-real-892af39d9110?source=rss------bug_bounty-5) 
 
- - 💯February 13, 2026 - [Breaking Role Barriers: Exploiting Broken Access Control in CriticalOps — HTB Walkthrough](https://osintteam.blog/breaking-role-barriers-exploiting-broken-access-control-in-criticalops-htb-walkthrough-cb81d3aef820?source=rss------bug_bounty-5) 
+ - 💯February 14, 2026 - [Arp-Scan for Pentesting: Network Scanning and Firewall Bypass](https://medium.com/@jpablo13/arp-scan-for-pentesting-network-scanning-and-firewall-bypass-7222f9e779f2?source=rss------bug_bounty-5) 
 
- - 💯February 13, 2026 - [Anonymous Auto Tor Proxy IP Changer](https://medium.com/@byroot/anonymous-auto-tor-proxy-ip-changer-54da7adbf434?source=rss------bug_bounty-5) 
+ - 💯February 13, 2026 - [Breaking the Box: bypassing Node.js Filesystem Permissions via Symlinks &lpar;CVE-2025–55130&rpar;](https://xalgord.medium.com/breaking-the-box-bypassing-node-js-filesystem-permissions-via-symlinks-cve-2025-55130-0b9ad44920f9?source=rss------bug_bounty-5) 
 
- - 💯February 13, 2026 - [Arp-Scan para Pentesting: Escaneo de Red y Bypass de Firewalls](https://medium.com/@jpablo13/arp-scan-para-pentesting-escaneo-de-red-y-bypass-de-firewalls-e05f63e72859?source=rss------bug_bounty-5) 
+ - 💯February 13, 2026 - [SQL Injection Explained from Scratch &lpar;Beginner to Advanced&rpar;](https://medium.com/@anshkamra00/sql-injection-explained-from-scratch-beginner-to-advanced-22a3911de1b7?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
