@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯February 14, 2026 - [My First Triaged Report Ever](https://medium.com/@Mo_serag/my-first-triaged-report-ever-4b6cd8f9e654?source=rss------bug_bounty-5) 
+ - 💯February 15, 2026 - [10 OSI Model Layers Pentesters Ignore and the Tools to Fix Them: Master Hidden Attack Surfaces](https://medium.com/@verylazytech/10-osi-model-layers-pentesters-ignore-and-the-tools-to-fix-them-master-hidden-attack-surfaces-94b549da94fc?source=rss------bug_bounty-5) 
 
- - 💯February 14, 2026 - [SSHStalker Botnet Operation](https://medium.com/@kanhukhanda764/sshstalker-botnet-operation-ae1a19660813?source=rss------bug_bounty-5) 
+ - 💯February 15, 2026 - [One Click Is All It Takes: The Hidden Danger of Clickjacking Attacks](https://mhmdsec.medium.com/one-click-is-all-it-takes-the-hidden-danger-of-clickjacking-attacks-c6d3cd263a4f?source=rss------bug_bounty-5) 
 
- - 💯February 14, 2026 - [Part 3: Building Your Personal Post Mortem Playbook](https://medium.com/@iamabraham/part-3-building-your-personal-post-mortem-playbook-0eed0b9ba614?source=rss------bug_bounty-5) 
+ - 💯February 15, 2026 - [Understanding Open Redirect Vulnerabilities: A Complete Guide for Bug Hunters](https://mhmdsec.medium.com/understanding-open-redirect-vulnerabilities-a-complete-guide-for-bug-hunters-e3f2af3ee499?source=rss------bug_bounty-5) 
 
- - 💯February 14, 2026 - [From Summarize Button to Full AI Jailbreak](https://medium.com/@AliMojaver/from-summarize-button-to-full-ai-jailbreak-0bd51f7995d1?source=rss------bug_bounty-5) 
+ - 💯February 15, 2026 - [When Order State Changes Too Early: How Logic Timing Creates Financial Bugs](https://medium.com/@HexRogue/when-order-state-changes-too-early-how-logic-timing-creates-financial-bugs-ae970f1aceac?source=rss------bug_bounty-5) 
 
- - 💯February 14, 2026 - [Intercepting Mobile Apps Traffic Using Burp and Ngrok](https://hackerassociate.medium.com/intercepting-mobile-apps-traffic-using-burp-and-ngrok-17e31f674721?source=rss------bug_bounty-5) 
+ - 💯February 14, 2026 - [The $15,000 Semicolon](https://abdo0x.medium.com/the-15-000-semicolon-4d3051be959a?source=rss------bug_bounty-5) 
 
- - 💯February 14, 2026 - [Breaking the Web &lpar;Part 10&rpar;: Advanced Topics &amp; Modern Attacks — Chaining Vulnerabilities in the Real…](https://medium.com/@cybercom0101/breaking-the-web-part-10-advanced-topics-modern-attacks-chaining-vulnerabilities-in-the-real-892af39d9110?source=rss------bug_bounty-5) 
+ - 💯February 14, 2026 - [6 Hours, 6 Real-world Critical Bugs: A Case Study in Efficient Bug Hunting](https://0xzyo.medium.com/6-hours-6-real-world-critical-bugs-a-case-study-in-efficient-bug-hunting-a88c2002abbb?source=rss------bug_bounty-5) 
 
- - 💯February 14, 2026 - [Arp-Scan for Pentesting: Network Scanning and Firewall Bypass](https://medium.com/@jpablo13/arp-scan-for-pentesting-network-scanning-and-firewall-bypass-7222f9e779f2?source=rss------bug_bounty-5) 
+ - 💯February 14, 2026 - [XSS WAF Bypass: 3 Tricks to Beat Alert Blockers](https://medium.com/@cybersecplayground/xss-waf-bypass-3-tricks-to-beat-alert-blockers-b7552dcde45b?source=rss------bug_bounty-5) 
 
- - 💯February 13, 2026 - [Breaking the Box: bypassing Node.js Filesystem Permissions via Symlinks &lpar;CVE-2025–55130&rpar;](https://xalgord.medium.com/breaking-the-box-bypassing-node-js-filesystem-permissions-via-symlinks-cve-2025-55130-0b9ad44920f9?source=rss------bug_bounty-5) 
+ - 💯February 14, 2026 - [My Journey Into Smart Contract Auditing](https://medium.com/@iamabraham/my-journey-into-smart-contract-auditing-0751be7a83ef?source=rss------bug_bounty-5) 
 
- - 💯February 13, 2026 - [SQL Injection Explained from Scratch &lpar;Beginner to Advanced&rpar;](https://medium.com/@anshkamra00/sql-injection-explained-from-scratch-beginner-to-advanced-22a3911de1b7?source=rss------bug_bounty-5) 
+ - 💯February 14, 2026 - [Zip files slipping under your nose!](https://medium.com/@shivam_bathla/zip-files-slipping-under-your-nose-90cfbe3cdfe7?source=rss------bug_bounty-5) 
+
+ - 💯February 14, 2026 - [Hunting WordPress Vulnerabilities — A Bug Bounty](https://medium.com/@ksreemosmar/hunting-wordpress-vulnerabilities-a-bug-bounty-4324c6782f1f?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
