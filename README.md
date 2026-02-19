@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯February 18, 2026 - [Burp Suite Automation: 12 Custom Extensions That Save Hours for Pentesters and Bug Hunters](https://medium.com/@verylazytech/burp-suite-automation-12-custom-extensions-that-save-hours-for-pentesters-and-bug-hunters-30df274b2f42?source=rss------bug_bounty-5) 
+ - 💯February 19, 2026 - [How Long It Really Takes to Learn Web3 Security](https://medium.com/@iamabraham/how-long-it-really-takes-to-learn-web3-security-c5e5004b3b59?source=rss------bug_bounty-5) 
 
- - 💯February 18, 2026 - [From Random Browsing to Finding Stored XSS + IDOR](https://medium.com/@dhxrxx/from-random-browsing-to-finding-stored-xss-idor-f50a720672ea?source=rss------bug_bounty-5) 
+ - 💯February 19, 2026 - [The Bug That Wasn’t a Bug — Until It Was: My First Bug Bounty Story](https://medium.com/h7w/the-bug-that-wasnt-a-bug-until-it-was-my-first-bug-bounty-story-66ef8580aab7?source=rss------bug_bounty-5) 
 
- - 💯February 18, 2026 - [From Beginner to Finding My First Critical SQL Injection in a Real VAPT Project](https://medium.com/@indrajitchavan7522/from-beginner-to-finding-my-first-critical-sql-injection-in-a-real-vapt-project-9fe1e4b5b1ae?source=rss------bug_bounty-5) 
+ - 💯February 19, 2026 - [Ultimate One-Click Bug Bounty Recon Pipeline](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/ultimate-one-click-bug-bounty-recon-pipeline-71cff97ea107?source=rss------bug_bounty-5) 
 
- - 💯February 18, 2026 - [Bug Bounty Is Not About Bugs](https://medium.com/@talyajatin4/bug-bounty-is-not-about-bugs-831a8898046f?source=rss------bug_bounty-5) 
+ - 💯February 19, 2026 - [Finding and Exploiting an Unused API Endpoint](https://meetcyber.net/finding-and-exploiting-an-unused-api-endpoint-64597edeefb4?source=rss------bug_bounty-5) 
 
- - 💯February 18, 2026 - [Advanced Business Logic Attacks️ Part 4 — Mastering Access Control: How to Find IDOR &amp; Broken…](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/advanced-business-logic-attacks-%EF%B8%8F-part-4-mastering-access-control-how-to-find-idor-broken-f4c17a337b3a?source=rss------bug_bounty-5) 
+ - 💯February 19, 2026 - [I Bypassed Authentication on 3 Production APIs — Here’s How](https://iaraoz.medium.com/i-bypassed-authentication-on-3-production-apis-heres-how-600a75c032e2?source=rss------bug_bounty-5) 
 
- - 💯February 18, 2026 - [Unstable Twin WriteUP TryHackMe](https://medium.com/@cat0x01/unstable-twin-writeup-tryhackme-e244e822493a?source=rss------bug_bounty-5) 
+ - 💯February 18, 2026 - [How I Found a Critical Unauthenticated LLM Prompt Editor in AI Infrastructure](https://0xzyo.medium.com/how-i-found-a-critical-unauthenticated-llm-prompt-editor-in-ai-infrastructure-bfca98d68e1f?source=rss------bug_bounty-5) 
 
- - 💯February 18, 2026 - [One-Click Account Takeover via Deep Link Token Auto-Append](https://medium.com/@BaymaxPop23/one-click-account-takeover-via-deep-link-token-auto-append-ad91993bd336?source=rss------bug_bounty-5) 
+ - 💯February 18, 2026 - [How I Bypassed Giant Swarm’s Nginx Regex to Score a Critical SSRF](https://medium.com/@sumitshahorg/how-i-bypassed-giant-swarms-nginx-regex-to-score-a-critical-ssrf-e7872ea25e16?source=rss------bug_bounty-5) 
 
- - 💯February 18, 2026 - [TryHackMe VulnNet Walkthrough: Complete CTF Writeup &amp; Privilege Escalation Guide](https://medium.com/@5um1t0x/tryhackme-vulnnet-walkthrough-complete-ctf-writeup-privilege-escalation-guide-f3fdc2d9c4fa?source=rss------bug_bounty-5) 
+ - 💯February 18, 2026 - [Getting Started with Bug Bounties: Core Vulnerabilities](https://medium.com/@mrxo1.elite/getting-started-with-bug-bounties-core-vulnerabilities-and-basic-testing-77603e58aa79?source=rss------bug_bounty-5) 
 
- - 💯February 18, 2026 - [sslscan Guide: How to audit SSL/TLS certificates and detect critical vulnerabilities](https://medium.com/@jpablo13/sslscan-guide-how-to-audit-ssl-tls-certificates-and-detect-critical-vulnerabilities-cca7b3bb25e0?source=rss------bug_bounty-5) 
+ - 💯February 18, 2026 - [Real Ethical Hacking — New Way to learn](https://nolanstarksec.medium.com/real-ethical-hacking-new-way-to-learn-9dd90ddf88d9?source=rss------bug_bounty-5) 
 
- - 💯February 17, 2026 - [Next-Gen OSINT: Hunting for Leaks in AI Chat Histories](https://medium.com/@alirezacsp/next-gen-osint-hunting-for-leaks-in-ai-chat-histories-87e32f94bc99?source=rss------bug_bounty-5) 
+ - 💯February 18, 2026 - [A Deep Dive into CORS Misconfigurations](https://cyb3rmind.medium.com/a-deep-dive-into-cors-misconfigurations-c3cc536b28ef?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
