@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯February 21, 2026 - [How to Become a Top Bug Bounty Hunter in 2026](https://infosecwriteups.com/how-to-become-a-top-bug-bounty-hunter-in-2026-e34d6bc15f56?source=rss------bug_bounty-5) 
+ - 💯February 22, 2026 - [Kerberos Hacking 2025: Learn 15 Essential Attacks Every Pentester Must Master](https://medium.com/@verylazytech/kerberos-hacking-2025-learn-15-essential-attacks-every-pentester-must-master-03b364ed7b3a?source=rss------bug_bounty-5) 
 
- - 💯February 21, 2026 - [Hacking Microsoft IIS: From Recon to Advanced Fuzzing](https://infosecwriteups.com/hacking-microsoft-iis-from-recon-to-advanced-fuzzing-013989524fe2?source=rss------bug_bounty-5) 
+ - 💯February 22, 2026 - [Did the Market Overreact to Claude Code Security?](https://codewithvamp.medium.com/did-the-market-overreact-to-claude-code-security-d1aeb2475290?source=rss------bug_bounty-5) 
 
- - 💯February 21, 2026 - [Interactsh: Complete Guide to Detecting Blind and OOB Vulnerabilities](https://systemweakness.com/interactsh-complete-guide-to-detecting-blind-and-oob-vulnerabilities-e2298949816f?source=rss------bug_bounty-5) 
+ - 💯February 22, 2026 - [How I Monitor new Assets 24/7 without any VPS](https://medium.com/legionhunters/how-i-monitor-new-assets-24-7-without-any-vps-13342b94fac7?source=rss------bug_bounty-5) 
 
- - 💯February 20, 2026 - [Bypassing Free Plan Subscription Limit via Race Condition](https://medium.com/@Yahia_Ramadan/bypassing-free-plan-subscription-limit-via-race-condition-2de79af677e1?source=rss------bug_bounty-5) 
+ - 💯February 22, 2026 - [SSRF via Stored Profile Data in an AI Chatbot — A Real-World Case Study](https://medium.com/@Xp10it/ssrf-via-stored-profile-data-in-an-ai-chatbot-a-real-world-case-study-83355beac933?source=rss------bug_bounty-5) 
 
- - 💯February 20, 2026 - [OAuth: How a Simple Misconfiguration Can Lead to Full Account Take](https://medium.com/@mo.muwafak2001/oauth-how-a-simple-misconfiguration-can-lead-to-full-account-take-9d95f57f92ce?source=rss------bug_bounty-5) 
+ - 💯February 21, 2026 - [JKU Header Injection: From Vulnerable Code to Full Authentication Bypass](https://medium.com/@pauldipesh29/jku-header-injection-from-vulnerable-code-to-full-authentication-bypass-fbde5815964f?source=rss------bug_bounty-5) 
 
- - 💯February 20, 2026 - [1-HTML Injection Bug- Web Penetration Testing Series](https://medium.com/@Hackerssg/1-html-injection-bug-web-penetration-testing-series-858383b22580?source=rss------bug_bounty-5) 
+ - 💯February 21, 2026 - [How to Build a Practical PoC: A No Nonsense Guide to Command Injection](https://medium.com/@salihugurlu2001/how-to-build-a-practical-poc-a-no-nonsense-guide-to-command-injection-1cbee91efde6?source=rss------bug_bounty-5) 
 
- - 💯February 20, 2026 - [How I Found 3 Logic Bugs &amp; 2 Access Control Issues in One Public BB Program.](https://mahmoud-khalid.medium.com/how-i-found-3-logic-bugs-2-access-control-issues-in-one-public-bb-program-9ce2cf66fdd8?source=rss------bug_bounty-5) 
+ - 💯February 21, 2026 - [How I Discovered a CSRF Vulnerability in a CV Update Feature](https://medium.com/@montaser_mohsen/how-i-discovered-a-csrf-vulnerability-in-a-cv-update-feature-b3b83680ee11?source=rss------bug_bounty-5) 
 
- - 💯February 20, 2026 - [Stored Cross-Site Scripting &lpar;XSS&rpar; in Accounts Manager App Using PHP and MySQL &lpar;SourceCodester&rpar;](https://medium.com/@hemantrajbhati5555/stored-cross-site-scripting-xss-in-accounts-manager-app-using-php-and-mysql-sourcecodester-ab557de210bb?source=rss------bug_bounty-5) 
+ - 💯February 21, 2026 - [I Broke Into a Database With &lpar;1=1&rpar;.](https://medium.com/@srck_/i-broke-into-a-database-with-1-1-88f68af0ef5c?source=rss------bug_bounty-5) 
 
- - 💯February 20, 2026 - [A Practical Mindset for Aspiring Smart Contract Auditors](https://medium.com/@iamabraham/a-practical-mindset-for-aspiring-smart-contract-auditors-486f4ec71c4f?source=rss------bug_bounty-5) 
+ - 💯February 21, 2026 - [Mon premier bug CVSS 10.0 : comment j’ai pris le contrôle de robots industriels depuis ma chambre ?](https://medium.com/@razhack_26/mon-premier-bug-cvss-10-0-comment-jai-pris-le-contr%C3%B4le-de-robots-industriels-depuis-ma-chambre-df2fbb0377fa?source=rss------bug_bounty-5) 
 
- - 💯February 20, 2026 - [Web3 Security Deep Dives: Your Ultimate Guide to Post Mortems, Bug Bounties, and Playbooks](https://medium.com/@iamabraham/web3-security-deep-dives-your-ultimate-guide-to-post-mortems-bug-bounties-and-playbooks-40e29c4040ec?source=rss------bug_bounty-5) 
+ - 💯February 21, 2026 - [Does VPN Location Matter in Bug Bounty? How to Know If Your IP Is “Burned” &lpar;And How to Fix It&rpar;](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/does-vpn-location-matter-in-bug-bounty-how-to-know-if-your-ip-is-burned-and-how-to-fix-it-901999cad480?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
