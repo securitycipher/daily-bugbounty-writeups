@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯February 27, 2026 - [PicoCTF Web Exploitation Easy Category Web Challenge [SSTL 1]](https://v3n0m.medium.com/picoctf-web-exploitation-easy-category-web-challenge-sstl-1-1fc109221169?source=rss------bug_bounty-5) 
+ - 💯February 28, 2026 - [Google Groups OSINT for Pentesting](https://medium.com/legionhunters/google-groups-osint-for-pentesting-abe68b46c482?source=rss------bug_bounty-5) 
 
- - 💯February 27, 2026 - [How a Split-Source-of-Truth Bug Let Me Bypass a Commercial Trial](https://osintteam.blog/how-a-split-source-of-truth-bug-let-me-bypass-a-commercial-trial-fe880f141174?source=rss------bug_bounty-5) 
+ - 💯February 28, 2026 - [What is Bug Bounty And How Real Hackers Find Bugs](https://medium.com/@teamnovashield/what-is-bug-bounty-and-how-real-hackers-find-bugs-8782500666fa?source=rss------bug_bounty-5) 
 
- - 💯February 27, 2026 - [From SSRF to AWS Pwnage: A Hacker’s Guide to Cloud-Native Exploits](https://xalgord.medium.com/from-ssrf-to-aws-pwnage-a-hackers-guide-to-cloud-native-exploits-bc4621ebb048?source=rss------bug_bounty-5) 
+ - 💯February 28, 2026 - [Lab: DOM XSS in document.write sink using source location.search inside a select element](https://medium.com/@may.hack/lab-dom-xss-in-document-write-sink-using-source-location-search-inside-a-select-element-0b8c90e82e08?source=rss------bug_bounty-5) 
 
- - 💯February 26, 2026 - [Lab: Reflected XSS into a JavaScript string with angle brackets HTML encoded](https://medium.com/@may.hack/lab-reflected-xss-into-a-javascript-string-with-angle-brackets-html-encoded-56ed2d1021e8?source=rss------bug_bounty-5) 
+ - 💯February 28, 2026 - [AI-Powered Bug Hunting: 20 Tools to Dominate Your Next Recon](https://osintteam.blog/ai-powered-bug-hunting-20-tools-to-dominate-your-next-recon-8ee3501bd5ef?source=rss------bug_bounty-5) 
 
- - 💯February 26, 2026 - [Deprecating Yield DTF Batch Auctions: EasyAuction.sol Division-by-Zero](https://blog.reserve.org/deprecating-yield-dtf-batch-auctions-easyauction-sol-division-by-zero-85fd10212c97?source=rss------bug_bounty-5) 
+ - 💯February 27, 2026 - [Prompt Engineering for Hackers](https://bitpanic.medium.com/prompt-engineering-for-hackers-0710b6dc922f?source=rss------bug_bounty-5) 
 
- - 💯February 26, 2026 - [Username &amp; Email Collision Leading to Account Lockout and identity collision☠️](https://medium.com/@0xMo7areb/username-email-collision-leading-to-account-lockout-and-identity-collision-%EF%B8%8F-1cc963fb3d38?source=rss------bug_bounty-5) 
+ - 💯February 27, 2026 - [Find An Interesting Account Take-Over Vulnerability.](https://mdnawshadahmmed.medium.com/find-and-interesting-account-take-over-vulnerability-dd0d0353e71d?source=rss------bug_bounty-5) 
 
- - 💯February 26, 2026 - [Anatomy of a Cloud Native Attack: How We Pwned Kubernetes for $100k](https://infosecwriteups.com/anatomy-of-a-cloud-native-attack-how-we-pwned-kubernetes-for-100k-6201ce3808af?source=rss------bug_bounty-5) 
+ - 💯February 27, 2026 - [Cómo una API mal diseñada expuso los datos de todos los usuarios: IDOR, contraseñas en texto plano…](https://medium.com/@C37webak1ix/c%C3%B3mo-una-api-mal-dise%C3%B1ada-expuso-los-datos-de-todos-los-usuarios-idor-contrase%C3%B1as-en-texto-plano-ba337d1672c0?source=rss------bug_bounty-5) 
 
- - 💯February 26, 2026 - [Breaking Authentication — Part 3](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/breaking-authentication-part-3-670a789ef279?source=rss------bug_bounty-5) 
+ - 💯February 27, 2026 - [The Day Admin Access Became an Organisation Takeover](https://medium.com/@kaivalyagurav8291/the-day-admin-access-became-an-organisation-takeover-0ee5d34677e5?source=rss------bug_bounty-5) 
 
- - 💯February 26, 2026 - [My Complete Bug Bounty Hunting Workflow Every Command I Use, Step by Step](https://medium.com/@HackerMD/my-complete-bug-bounty-hunting-workflow-every-command-i-use-step-by-step-68484276471f?source=rss------bug_bounty-5) 
+ - 💯February 27, 2026 - [PortSwigger Access Control Vulnerabilities Lab Notes](https://medium.com/@emre225650/portswigger-access-control-vulnerabilities-lab-notes-d99a6201258f?source=rss------bug_bounty-5) 
+
+ - 💯February 27, 2026 - [Most Beginner Bug Bounty Hunters Never Turn Pro — Here’s the Complete Blueprint That Actually…](https://medium.com/@R.H_Rizvi/most-beginner-bug-bounty-hunters-never-turn-pro-heres-the-complete-blueprint-that-actually-15e3ce0416de?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
