@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 3, 2026 - [The “Intended Behavior” Gaslight: The Broken Reality of Bug Bounty Bureaucracy](https://osintteam.blog/the-intended-behavior-gaslight-the-broken-reality-of-bug-bounty-bureaucracy-bd7798331184?source=rss------bug_bounty-5) 
+ - 💯March 4, 2026 - [Assessment Methodologies: Enumeration CTF 1](https://medium.com/@durgaprasad.sb9494/assessment-methodologies-enumeration-ctf-1-0cef0ff6fa3c?source=rss------bug_bounty-5) 
 
- - 💯March 3, 2026 - [Exploiting Server-Side Parameter Pollution in a REST URL](https://meetcyber.net/exploiting-server-side-parameter-pollution-in-a-rest-url-9881fe6bddbf?source=rss------bug_bounty-5) 
+ - 💯March 4, 2026 - [CeWL vs Crunch: How to Build Smart Wordlists for Bug Bounty Recon](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/cewl-vs-crunch-how-to-build-smart-wordlists-for-bug-bounty-recon-b9e0658dd370?source=rss------bug_bounty-5) 
 
- - 💯March 3, 2026 - [From Zero to Recon: How Beginners Can Start Bug Bounty Hunting the Smart Way](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/from-zero-to-recon-how-beginners-can-start-bug-bounty-hunting-the-smart-way-bd65d3f9234a?source=rss------bug_bounty-5) 
+ - 💯March 4, 2026 - [The Easiest RCE? How One Node.js Variable Creates Chaos](https://osintteam.blog/the-easiest-rce-how-one-node-js-variable-creates-chaos-4168c5010e2a?source=rss------bug_bounty-5) 
 
- - 💯March 3, 2026 - [The Secret Bug Hunter Browser Extension Replaced Burp](https://medium.com/@tanjimul_islam/the-secret-bug-hunter-browser-extension-replaced-burp-26f5d226e682?source=rss------bug_bounty-5) 
+ - 💯March 4, 2026 - [Using OpenClaw Safely for Bug Bounty](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/using-openclaw-safely-for-bug-bounty-c9e3317f0481?source=rss------bug_bounty-5) 
 
- - 💯March 3, 2026 - [The Trilogy of Abusing Sign Up Page](https://hantake.medium.com/the-trilogy-of-abusing-sign-up-page-c90d6515954b?source=rss------bug_bounty-5) 
+ - 💯March 4, 2026 - [️Turning Directory Data into Domain Access](https://medium.com/@jabaribrown62/%EF%B8%8Fturning-directory-data-into-domain-access-74ce70eed60e?source=rss------bug_bounty-5) 
 
- - 💯March 3, 2026 - [Guía de Waybackurls: Extracción de URLs Históricas para Bug Bounty](https://medium.com/@jpablo13/gu%C3%ADa-de-waybackurls-extracci%C3%B3n-de-urls-hist%C3%B3ricas-para-bug-bounty-0c16c5942cfd?source=rss------bug_bounty-5) 
+ - 💯March 4, 2026 - [Forcing an AI App to generate Payloads to Cause HTML Injection](https://osintteam.blog/forcing-an-ai-app-to-generate-payloads-to-cause-html-injection-47fac36d9d7a?source=rss------bug_bounty-5) 
 
- - 💯March 2, 2026 - [The Role of a Smart Contract Security Researcher](https://medium.com/@iamabraham/the-role-of-a-smart-contract-security-researcher-e296b20f273c?source=rss------bug_bounty-5) 
+ - 💯March 4, 2026 - [Waybackurls Guide: Extracting Historical URLs for Bug Bounty](https://medium.com/@jpablo13/waybackurls-guide-extracting-historical-urls-for-bug-bounty-1ea665dd7c14?source=rss------bug_bounty-5) 
 
- - 💯March 2, 2026 - [Bug Bounty Cheatsheet Worth 7890$](https://anontriager.medium.com/bug-bounty-cheatsheet-worth-7890-fa163d281067?source=rss------bug_bounty-5) 
+ - 💯March 3, 2026 - [I Stopped Watching Random Cybersecurity Videos — And Finally Chose a Path](https://medium.com/@bharanidharans018/i-stopped-watching-random-cybersecurity-videos-and-finally-chose-a-path-2c1660eeff34?source=rss------bug_bounty-5) 
 
- - 💯March 2, 2026 - [The False Promise of Multi Login Isolation: An Architectural “Identity Bridge” in Google’s…](https://medium.com/@Pwnedl0l/the-false-promise-of-multi-login-isolation-an-architectural-identity-bridge-in-googles-080d8db462d4?source=rss------bug_bounty-5) 
+ - 💯March 3, 2026 - [Why the Best Bug Hunters Think Like Detectives, Not Hackers — And What That Difference Earns Them](https://medium.com/@R.H_Rizvi/why-the-best-bug-hunters-think-like-detectives-not-hackers-and-what-that-difference-earns-them-3c93e99d6fc9?source=rss------bug_bounty-5) 
+
+ - 💯March 3, 2026 - [Being a Security Researcher &lpar;SR&rpar; Changed How I See DeFi](https://medium.com/@iamabraham/being-a-security-researcher-sr-changed-how-i-see-defi-227bbcb17e5d?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
