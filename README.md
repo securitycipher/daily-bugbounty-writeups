@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 4, 2026 - [Assessment Methodologies: Enumeration CTF 1](https://medium.com/@durgaprasad.sb9494/assessment-methodologies-enumeration-ctf-1-0cef0ff6fa3c?source=rss------bug_bounty-5) 
+ - 💯March 5, 2026 - [I Turned Myself Into an Admin… and Deleted Carlos](https://tsaubhage0007.medium.com/i-turned-myself-into-an-admin-and-deleted-carlos-ee921f8f4651?source=rss------bug_bounty-5) 
 
- - 💯March 4, 2026 - [CeWL vs Crunch: How to Build Smart Wordlists for Bug Bounty Recon](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/cewl-vs-crunch-how-to-build-smart-wordlists-for-bug-bounty-recon-b9e0658dd370?source=rss------bug_bounty-5) 
+ - 💯March 5, 2026 - [XSS Explained: How Hackers Inject Code Into Websites](https://medium.com/@vedanthore/xss-explained-how-hackers-inject-code-into-websites-7d840ce05d4c?source=rss------bug_bounty-5) 
 
- - 💯March 4, 2026 - [The Easiest RCE? How One Node.js Variable Creates Chaos](https://osintteam.blog/the-easiest-rce-how-one-node-js-variable-creates-chaos-4168c5010e2a?source=rss------bug_bounty-5) 
+ - 💯March 5, 2026 - [Subdomain enumeration technique to discover critical vulnerabilities…](https://mahimavi.medium.com/subdomain-enumeration-technique-to-discover-critical-vulnerabilities-7bddfcafcc2f?source=rss------bug_bounty-5) 
 
- - 💯March 4, 2026 - [Using OpenClaw Safely for Bug Bounty](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/using-openclaw-safely-for-bug-bounty-c9e3317f0481?source=rss------bug_bounty-5) 
+ - 💯March 5, 2026 - [Breaking Authentication Using AI &lpar;Without Getting Banned&rpar;](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/breaking-authentication-using-ai-without-getting-banned-311ec7a0a29f?source=rss------bug_bounty-5) 
 
- - 💯March 4, 2026 - [️Turning Directory Data into Domain Access](https://medium.com/@jabaribrown62/%EF%B8%8Fturning-directory-data-into-domain-access-74ce70eed60e?source=rss------bug_bounty-5) 
+ - 💯March 4, 2026 - [How I Got 3 Bugs No Automation, Just Logic](https://infosecwriteups.com/how-i-got-3-bugs-no-automation-just-logic-65f372c664cd?source=rss------bug_bounty-5) 
 
- - 💯March 4, 2026 - [Forcing an AI App to generate Payloads to Cause HTML Injection](https://osintteam.blog/forcing-an-ai-app-to-generate-payloads-to-cause-html-injection-47fac36d9d7a?source=rss------bug_bounty-5) 
+ - 💯March 4, 2026 - [Recon in Bug Bounty: The “Stalking” Phase of Ethical Hacking](https://medium.com/@vedanthore/recon-in-bug-bounty-the-stalking-phase-of-ethical-hacking-015e40d1b1ce?source=rss------bug_bounty-5) 
 
- - 💯March 4, 2026 - [Waybackurls Guide: Extracting Historical URLs for Bug Bounty](https://medium.com/@jpablo13/waybackurls-guide-extracting-historical-urls-for-bug-bounty-1ea665dd7c14?source=rss------bug_bounty-5) 
+ - 💯March 4, 2026 - [How a Simple RBAC Mistake Led to a $20K+ Admin Takeover](https://medium.com/@Seek404/how-a-simple-rbac-mistake-led-to-a-20k-admin-takeover-d196694791dd?source=rss------bug_bounty-5) 
 
- - 💯March 3, 2026 - [I Stopped Watching Random Cybersecurity Videos — And Finally Chose a Path](https://medium.com/@bharanidharans018/i-stopped-watching-random-cybersecurity-videos-and-finally-chose-a-path-2c1660eeff34?source=rss------bug_bounty-5) 
+ - 💯March 4, 2026 - [I Built a Free Prompt Kit That Helps Bug Bounty Hunters Get More P1s With Any AI](https://medium.com/@tanjimul_islam/i-built-a-free-prompt-kit-that-helps-bug-bounty-hunters-get-more-p1s-with-any-ai-e5ba6c295c45?source=rss------bug_bounty-5) 
 
- - 💯March 3, 2026 - [Why the Best Bug Hunters Think Like Detectives, Not Hackers — And What That Difference Earns Them](https://medium.com/@R.H_Rizvi/why-the-best-bug-hunters-think-like-detectives-not-hackers-and-what-that-difference-earns-them-3c93e99d6fc9?source=rss------bug_bounty-5) 
+ - 💯March 4, 2026 - [How I Found a Hidden Role in JavaScript That Became a Permanent Backdoor.](https://0xhun73r.medium.com/how-i-found-a-hidden-role-in-javascript-that-became-a-permanent-backdoor-d78acb8b81af?source=rss------bug_bounty-5) 
 
- - 💯March 3, 2026 - [Being a Security Researcher &lpar;SR&rpar; Changed How I See DeFi](https://medium.com/@iamabraham/being-a-security-researcher-sr-changed-how-i-see-defi-227bbcb17e5d?source=rss------bug_bounty-5) 
+ - 💯March 4, 2026 - [The Internet Is Full of Vulnerabilities — TrinetLayer Helps You Find Them](https://medium.com/@researchbynidhi/the-internet-is-full-of-vulnerabilities-trinetlayer-helps-you-find-them-2fd4ff34adba?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
