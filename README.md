@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 5, 2026 - [I Turned Myself Into an Admin… and Deleted Carlos](https://tsaubhage0007.medium.com/i-turned-myself-into-an-admin-and-deleted-carlos-ee921f8f4651?source=rss------bug_bounty-5) 
+ - 💯March 6, 2026 - [⚡ Building a Bug Bounty Recon Script That Launches OpenClaw for Analysis](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/building-a-bug-bounty-recon-script-that-launches-openclaw-for-analysis-7a6d5b2bbfe8?source=rss------bug_bounty-5) 
 
- - 💯March 5, 2026 - [XSS Explained: How Hackers Inject Code Into Websites](https://medium.com/@vedanthore/xss-explained-how-hackers-inject-code-into-websites-7d840ce05d4c?source=rss------bug_bounty-5) 
+ - 💯March 6, 2026 - [Bug Bounty and Ethical Hacking Career Paths: A Complete Guide](https://medium.com/@EINITIAL24/bug-bounty-and-ethical-hacking-career-paths-a-complete-guide-f7bf84a6de89?source=rss------bug_bounty-5) 
 
- - 💯March 5, 2026 - [Subdomain enumeration technique to discover critical vulnerabilities…](https://mahimavi.medium.com/subdomain-enumeration-technique-to-discover-critical-vulnerabilities-7bddfcafcc2f?source=rss------bug_bounty-5) 
+ - 💯March 6, 2026 - [User Enumeration via WordPress REST API: A Security Testing Walkthrough](https://medium.com/@gasmask/user-enumeration-via-wordpress-rest-api-a-security-testing-walkthrough-17a6517d3934?source=rss------bug_bounty-5) 
 
- - 💯March 5, 2026 - [Breaking Authentication Using AI &lpar;Without Getting Banned&rpar;](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/breaking-authentication-using-ai-without-getting-banned-311ec7a0a29f?source=rss------bug_bounty-5) 
+ - 💯March 6, 2026 - [If you want to become serious about bug bounty hunting or penetration testing, one thing becomes…](https://medium.com/@jagadeeshkommoju97/if-you-want-to-become-serious-about-bug-bounty-hunting-or-penetration-testing-one-thing-becomes-17e46e9d7c22?source=rss------bug_bounty-5) 
 
- - 💯March 4, 2026 - [How I Got 3 Bugs No Automation, Just Logic](https://infosecwriteups.com/how-i-got-3-bugs-no-automation-just-logic-65f372c664cd?source=rss------bug_bounty-5) 
+ - 💯March 6, 2026 - [Bypassing Rate Limits via Race Conditions](https://meetcyber.net/bypassing-rate-limits-via-race-conditions-ab4f91d8e0ca?source=rss------bug_bounty-5) 
 
- - 💯March 4, 2026 - [Recon in Bug Bounty: The “Stalking” Phase of Ethical Hacking](https://medium.com/@vedanthore/recon-in-bug-bounty-the-stalking-phase-of-ethical-hacking-015e40d1b1ce?source=rss------bug_bounty-5) 
+ - 💯March 6, 2026 - [When Deleting One File Deletes Everything: An Unauthenticated BOLA in an AI Analytics Portal](https://medium.com/@Xp10it/when-deleting-one-file-deletes-everything-an-unauthenticated-bola-in-an-ai-analytics-portal-600b3957803e?source=rss------bug_bounty-5) 
 
- - 💯March 4, 2026 - [How a Simple RBAC Mistake Led to a $20K+ Admin Takeover](https://medium.com/@Seek404/how-a-simple-rbac-mistake-led-to-a-20k-admin-takeover-d196694791dd?source=rss------bug_bounty-5) 
+ - 💯March 6, 2026 - [5 Mistakes I Made as a Cybersecurity Beginner](https://medium.com/@vedanthore/5-mistakes-i-made-as-a-cybersecurity-beginner-e03cdfe36219?source=rss------bug_bounty-5) 
 
- - 💯March 4, 2026 - [I Built a Free Prompt Kit That Helps Bug Bounty Hunters Get More P1s With Any AI](https://medium.com/@tanjimul_islam/i-built-a-free-prompt-kit-that-helps-bug-bounty-hunters-get-more-p1s-with-any-ai-e5ba6c295c45?source=rss------bug_bounty-5) 
+ - 💯March 6, 2026 - [Server Side Template Injection &lpar;SSTI &rpar; Got Exploited](https://mainekhacker.medium.com/server-side-template-injection-ssti-got-exploited-e083fae95708?source=rss------bug_bounty-5) 
 
- - 💯March 4, 2026 - [How I Found a Hidden Role in JavaScript That Became a Permanent Backdoor.](https://0xhun73r.medium.com/how-i-found-a-hidden-role-in-javascript-that-became-a-permanent-backdoor-d78acb8b81af?source=rss------bug_bounty-5) 
+ - 💯March 6, 2026 - [Analisis Malware Android: Penyamaran PT POS Indonesia sebagai SMS Stealer.](https://medium.com/@damiereee/analisis-malware-android-penyamaran-pt-pos-indonesia-sebagai-sms-stealer-49fdd696cd57?source=rss------bug_bounty-5) 
 
- - 💯March 4, 2026 - [The Internet Is Full of Vulnerabilities — TrinetLayer Helps You Find Them](https://medium.com/@researchbynidhi/the-internet-is-full-of-vulnerabilities-trinetlayer-helps-you-find-them-2fd4ff34adba?source=rss------bug_bounty-5) 
+ - 💯March 6, 2026 - [How I Found a “Zombie Bug” That Refused to Die: A Lesson in Logic Flaws](https://abdo0x.medium.com/how-i-found-a-zombie-bug-that-refused-to-die-a-lesson-in-logic-flaws-1e3b164bd99a?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
