@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 8, 2026 - [Multi-endpoint Race Conditions](https://osintteam.blog/multi-endpoint-race-conditions-d57591a462f7?source=rss------bug_bounty-5) 
+ - 💯March 9, 2026 - [Hacking AI Agents for 20,000$](https://anontriager.medium.com/hacking-ai-agents-for-20-000-15436be41eb9?source=rss------bug_bounty-5) 
 
- - 💯March 8, 2026 - [How I Found My First Bug on a Government Website](https://medium.com/@vedanthore/how-i-found-my-first-bug-on-a-government-website-32eb3c0d0dc2?source=rss------bug_bounty-5) 
+ - 💯March 9, 2026 - [Your RAG’s Secret Backdoor: Leaking Data Through Vector Databases](https://infosecwriteups.com/your-rags-secret-backdoor-leaking-data-through-vector-databases-c33755a5abbe?source=rss------bug_bounty-5) 
 
- - 💯March 8, 2026 - [Apple Bug Bounty Program Guide &lpar;2026&rpar;: How Ethical Hackers Can Earn Millions Securing the Apple…](https://medium.com/@bugitrix/apple-bug-bounty-program-guide-2026-how-ethical-hackers-can-earn-millions-securing-the-apple-8490004ead3e?source=rss------bug_bounty-5) 
+ - 💯March 9, 2026 - [Cross-Field XSS – A Creative Bypass I Found During Testing](https://medium.com/@mvenkatasaiamrutha7/cross-field-xss-a-creative-bypass-i-found-during-testing-c33c6c77d5e9?source=rss------bug_bounty-5) 
 
- - 💯March 8, 2026 - [I Hacked Your Account with a 6-Digit PIN: The Brute-Force Nightmare You Need to Fix](https://infosecwriteups.com/i-hacked-your-account-with-a-6-digit-pin-the-brute-force-nightmare-you-need-to-fix-7707309ca8c4?source=rss------bug_bounty-5) 
+ - 💯March 9, 2026 - [Is a Zero-Day Really Unpreventable? The Truth About Zero-Day Defence](https://medium.com/@candywong_coffsec/is-a-zero-day-really-unpreventable-the-truth-about-0-day-defence-12c5798cc8ae?source=rss------bug_bounty-5) 
 
- - 💯March 8, 2026 - [When a Learner Can See Everyone: Finding a Hidden Data Exposure Bug](https://medium.com/@Rahul.Masal/when-a-learner-can-see-everyone-finding-a-hidden-data-exposure-bug-29d4373e2d0d?source=rss------bug_bounty-5) 
+ - 💯March 8, 2026 - [Build Your Own Cybersecurity Game — Learn Security by Playing](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/build-your-own-cybersecurity-game-learn-security-by-playing-786ca1ece01a?source=rss------bug_bounty-5) 
 
- - 💯March 7, 2026 - [Reentrancy Explained for Beginners](https://medium.com/@iamabraham/reentrancy-explained-for-beginners-7847ca61cf8d?source=rss------bug_bounty-5) 
+ - 💯March 8, 2026 - [Detect. Download. Extract. Automating Source Code Recovery with DotGit-Enhanced](https://maordayanofficial.medium.com/detect-download-extract-automating-source-code-recovery-with-dotgit-enhanced-35b0e72402f3?source=rss------bug_bounty-5) 
 
- - 💯March 7, 2026 - [How I Accessed Google’s Internal AI Models via a Consumer Gmail Account](https://medium.com/@dev_fr_/how-i-accessed-googles-internal-ai-models-via-a-consumer-gmail-account-56dbb62f2d54?source=rss------bug_bounty-5) 
+ - 💯March 8, 2026 - [From Paste Site to Payout: How a Single Dump Led to a Critical Bug](https://medium.com/@iski/from-paste-site-to-payout-how-a-single-dump-led-to-a-critical-bug-56bf0677d1cf?source=rss------bug_bounty-5) 
 
- - 💯March 7, 2026 - [Found a Denial of Service Vulnerability in a Major Company’s Production Infrastructure Using Shodan](https://medium.com/@HackerMD/found-a-denial-of-service-vulnerability-in-a-major-companys-production-infrastructure-using-shodan-e5f766a4df79?source=rss------bug_bounty-5) 
+ - 💯March 8, 2026 - [Received a $300 bounty for this Mobile OTP Verification Bypass.](https://ch4ndan.medium.com/received-a-300-bounty-for-this-mobile-otp-verification-bypass-0997b498aff7?source=rss------bug_bounty-5) 
 
- - 💯March 7, 2026 - [How I Discovered a Price Manipulation Vulnerability in a Public Bug Bounty Program](https://medium.com/@mo397283/how-i-discovered-a-price-manipulation-vulnerability-in-a-public-bug-bounty-program-344dc6e9c1ed?source=rss------bug_bounty-5) 
+ - 💯March 8, 2026 - [7. XS-Leaks Vulnerability leads to $$](https://osintteam.blog/7-xs-leaks-vulnerability-leads-to-f7951373772f?source=rss------bug_bounty-5) 
 
- - 💯March 7, 2026 - [From Rejection to RCE: How a Dependency Confusion Finding Came Back Four Months Later and earned…](https://medium.com/@sagardhoot56/from-rejection-to-rce-how-a-dependency-confusion-finding-came-back-four-months-later-and-earned-e3ef1669fe24?source=rss------bug_bounty-5) 
+ - 💯March 8, 2026 - [Writeup 02: I know your JWT Private Key?](https://medium.com/@bl4ckd3v0p5/writeup-02-i-know-your-jwt-private-key-5f24c3b76475?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
