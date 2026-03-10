@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 9, 2026 - [Hacking AI Agents for 20,000$](https://anontriager.medium.com/hacking-ai-agents-for-20-000-15436be41eb9?source=rss------bug_bounty-5) 
+ - 💯March 10, 2026 - [️ Supercharging Bug Bounty Recon with Netlas: A Smarter Way to Discover Targets](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/%EF%B8%8F-supercharging-bug-bounty-recon-with-netlas-a-smarter-way-to-discover-targets-1911c2aec6a8?source=rss------bug_bounty-5) 
 
- - 💯March 9, 2026 - [Your RAG’s Secret Backdoor: Leaking Data Through Vector Databases](https://infosecwriteups.com/your-rags-secret-backdoor-leaking-data-through-vector-databases-c33755a5abbe?source=rss------bug_bounty-5) 
+ - 💯March 10, 2026 - [Single-endpoint Race Conditions](https://infosecwriteups.com/single-endpoint-race-conditions-7a3879c09e79?source=rss------bug_bounty-5) 
 
- - 💯March 9, 2026 - [Cross-Field XSS – A Creative Bypass I Found During Testing](https://medium.com/@mvenkatasaiamrutha7/cross-field-xss-a-creative-bypass-i-found-during-testing-c33c6c77d5e9?source=rss------bug_bounty-5) 
+ - 💯March 10, 2026 - [Almost No One Talks About This Free Cybersecurity Learning Platform](https://medium.com/@shaikhminhaz1975/almost-no-one-talks-about-this-free-cybersecurity-learning-platform-e9ff1540d77c?source=rss------bug_bounty-5) 
 
- - 💯March 9, 2026 - [Is a Zero-Day Really Unpreventable? The Truth About Zero-Day Defence](https://medium.com/@candywong_coffsec/is-a-zero-day-really-unpreventable-the-truth-about-0-day-defence-12c5798cc8ae?source=rss------bug_bounty-5) 
+ - 💯March 10, 2026 - [Journey to My First Bounty!](https://medium.com/@prakashchauhan9645/journey-to-my-first-bounty-72175d620b10?source=rss------bug_bounty-5) 
 
- - 💯March 8, 2026 - [Build Your Own Cybersecurity Game — Learn Security by Playing](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/build-your-own-cybersecurity-game-learn-security-by-playing-786ca1ece01a?source=rss------bug_bounty-5) 
+ - 💯March 10, 2026 - [Why I Get Paid to Break Things While Others Build Them](https://medium.com/@farizkybughunter/why-i-get-paid-to-break-things-while-others-build-them-011aa88180f6?source=rss------bug_bounty-5) 
 
- - 💯March 8, 2026 - [Detect. Download. Extract. Automating Source Code Recovery with DotGit-Enhanced](https://maordayanofficial.medium.com/detect-download-extract-automating-source-code-recovery-with-dotgit-enhanced-35b0e72402f3?source=rss------bug_bounty-5) 
+ - 💯March 10, 2026 - [The “Inspect Element” of Web3: Why Private Variables Are a Lie ️‍♂️](https://hunterx461.medium.com/the-inspect-element-of-web3-why-private-variables-are-a-lie-%EF%B8%8F-%EF%B8%8F-c68e8e5ccd2f?source=rss------bug_bounty-5) 
 
- - 💯March 8, 2026 - [From Paste Site to Payout: How a Single Dump Led to a Critical Bug](https://medium.com/@iski/from-paste-site-to-payout-how-a-single-dump-led-to-a-critical-bug-56bf0677d1cf?source=rss------bug_bounty-5) 
+ - 💯March 10, 2026 - [A Practical Web Pentesting CTF Challenge — Step-by-Step Walkthrough](https://medium.com/@dsmodi484/a-practical-web-pentesting-ctf-challenge-step-by-step-walkthrough-2c2bc2d63ef7?source=rss------bug_bounty-5) 
 
- - 💯March 8, 2026 - [Received a $300 bounty for this Mobile OTP Verification Bypass.](https://ch4ndan.medium.com/received-a-300-bounty-for-this-mobile-otp-verification-bypass-0997b498aff7?source=rss------bug_bounty-5) 
+ - 💯March 10, 2026 - [Guía de XXE Injection: Fundamentos, Payloads y Estrategias de Bug Bounty](https://medium.com/@jpablo13/gu%C3%ADa-de-xxe-injection-fundamentos-payloads-y-estrategias-de-bug-bounty-71536d05e0a5?source=rss------bug_bounty-5) 
 
- - 💯March 8, 2026 - [7. XS-Leaks Vulnerability leads to $$](https://osintteam.blog/7-xs-leaks-vulnerability-leads-to-f7951373772f?source=rss------bug_bounty-5) 
+ - 💯March 9, 2026 - [Trust Boundaries in Agentic AI](https://fdzdev.medium.com/trust-boundaries-in-agentic-ai-3b6ffddffdba?source=rss------bug_bounty-5) 
 
- - 💯March 8, 2026 - [Writeup 02: I know your JWT Private Key?](https://medium.com/@bl4ckd3v0p5/writeup-02-i-know-your-jwt-private-key-5f24c3b76475?source=rss------bug_bounty-5) 
+ - 💯March 9, 2026 - [API Hunting to Employee PII Data](https://infosecwriteups.com/api-hunting-to-employee-pii-data-638866e3f494?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
