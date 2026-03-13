@@ -2,24 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 12, 2026 - [⚡ Automating Web Security Testing with OWASP ZAP
-  A Beginner-Friendly Guide for Bug Bounty…](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/automating-web-security-testing-with-owasp-zap-a-beginner-friendly-guide-for-bug-bounty-d57f40a53e11?source=rss------bug_bounty-5) 
+ - 💯March 13, 2026 - [Logic Flaw in Meta Account Center: The Case of the Silent Patched Disavow Flow](https://evangeliux.medium.com/logic-flaw-in-meta-account-center-the-case-of-the-silent-patched-disavow-flow-715a0662775f?source=rss------bug_bounty-5) 
 
- - 💯March 12, 2026 - [The Web3 IDOR: Leaving the Bank Vault Wide Open](https://hunterx461.medium.com/the-web3-idor-leaving-the-bank-vault-wide-open-f13bbcdf7be6?source=rss------bug_bounty-5) 
+ - 💯March 13, 2026 - [⚠️ The USB Attack: A Tiny Device, A Huge Risk](https://medium.com/@bugitrix/%EF%B8%8F-the-usb-attack-a-tiny-device-a-huge-risk-3a66795f65f1?source=rss------bug_bounty-5) 
 
- - 💯March 12, 2026 - [Web Security Series #1 — Exploiting Authentication Using a Brute-Force Attack](https://medium.com/@laibakashif0011/web-security-series-1-exploiting-authentication-using-a-brute-force-attack-ff4fa1bd3203?source=rss------bug_bounty-5) 
+ - 💯March 13, 2026 - [How to Get Burp Suite Through Cloudflare WAF — What Actually Works &lpar;2026&rpar;](https://medium.com/@sameerimr384/how-to-get-burp-suite-through-cloudflare-waf-what-actually-works-2026-9fc1c6cd6a92?source=rss------bug_bounty-5) 
 
- - 💯March 12, 2026 - [How to Choose a Smart Contract Auditor: A Guide for Web3 Protocols](https://medium.com/@iamabraham/how-to-choose-a-smart-contract-auditor-a-guide-for-web3-protocols-9e8e5642db08?source=rss------bug_bounty-5) 
+ - 💯March 13, 2026 - [How I Exploited Three API Vulnerabilities in a Banking Application](https://adeolaodunlade.medium.com/how-i-exploited-three-api-vulnerabilities-in-a-banking-application-5ceff7c70449?source=rss------bug_bounty-5) 
 
- - 💯March 12, 2026 - [Why Most Bug Bounty Beginners Never Find a Vulnerability — And How to Fix It](https://medium.com/@shaikhminhaz1975/why-most-bug-bounty-beginners-never-find-a-vulnerability-and-how-to-fix-it-6814cda917e9?source=rss------bug_bounty-5) 
+ - 💯March 13, 2026 - [Lab: Reflected XSS into HTML context with all tags blocked except custom ones](https://medium.com/@may.hack/lab-reflected-xss-into-html-context-with-all-tags-blocked-except-custom-ones-c6be6f71b741?source=rss------bug_bounty-5) 
 
- - 💯March 12, 2026 - [MSFVenom — The Ultimate Payload Generator for Security Testing](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/msfvenom-the-ultimate-payload-generator-for-security-testing-8ed44985cf37?source=rss------bug_bounty-5) 
+ - 💯March 13, 2026 - [How I Use Google Dorking to Find Hidden Vulnerabilities](https://medium.com/@vedanthore/how-i-use-google-dorking-to-find-hidden-vulnerabilities-dcc55bed5fad?source=rss------bug_bounty-5) 
 
- - 💯March 12, 2026 - [Every Second a Cyber Attack Happens — But Who Stops Them?](https://medium.com/@cyberawareness/every-second-a-cyber-attack-happens-but-who-stops-them-8bf4f39d971f?source=rss------bug_bounty-5) 
+ - 💯March 13, 2026 - [Guía Maestra de SQL Injection &lpar;SQLi&rpar;: Tipos, Payloads y Técnicas de Evasión](https://medium.com/@jpablo13/gu%C3%ADa-maestra-de-sql-injection-sqli-tipos-payloads-y-t%C3%A9cnicas-de-evasi%C3%B3n-f1640ccdeac4?source=rss------bug_bounty-5) 
 
- - 💯March 12, 2026 - [How I Found Information Disclosure on a Non-Standard Port: The Story of Apache mod_status](https://medium.com/@albertstive1010/how-i-found-information-disclosure-on-a-non-standard-port-the-story-of-apache-mod-status-29576a200eb2?source=rss------bug_bounty-5) 
+ - 💯March 12, 2026 - [‍♂️How I Escalated From Domain User to Domain Admin](https://medium.com/@jabaribrown62/%EF%B8%8F-how-i-escalated-from-domain-user-to-domain-admin-c62488453360?source=rss------bug_bounty-5) 
 
- - 💯March 12, 2026 - [[Kubernetes for Everyone] — Exploiting Grafana &lpar;CVE-2021-43798&rpar; To Gain SSH Access and Extract…](https://meetcyber.net/kubernetes-for-everyone-exploiting-grafana-cve-2021-43798-to-gain-ssh-access-and-extract-c3f02bb2ff8b?source=rss------bug_bounty-5) 
+ - 💯March 12, 2026 - [Payment Bypass That Let Me Get a Premium Course for $0 [Business Logic Flaw] P2](https://medium.com/@wanqais007/payment-bypass-that-let-me-get-a-premium-course-for-0-business-logic-flaw-p2-71c554d9c274?source=rss------bug_bounty-5) 
 
- - 💯March 12, 2026 - [Is Coding the Key to Cybersecurity?](https://rot-ig.medium.com/is-coding-the-key-to-cybersecurity-c261fdb0b23f?source=rss------bug_bounty-5) 
+ - 💯March 12, 2026 - [Why I Stopped Ignoring Open Redirects &lpar;A Zero-Click ATO Story&rpar;](https://medium.com/@hotisha/why-i-stopped-ignoring-open-redirects-a-zero-click-ato-story-babe76f3f1c5?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
