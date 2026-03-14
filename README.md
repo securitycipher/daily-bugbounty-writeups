@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 13, 2026 - [Logic Flaw in Meta Account Center: The Case of the Silent Patched Disavow Flow](https://evangeliux.medium.com/logic-flaw-in-meta-account-center-the-case-of-the-silent-patched-disavow-flow-715a0662775f?source=rss------bug_bounty-5) 
+ - 💯March 14, 2026 - [Understanding SSRF: When a Server Is Tricked Into Attacking Itself](https://medium.com/@anshkamra00/understanding-ssrf-when-a-server-is-tricked-into-attacking-itself-55881c9858ec?source=rss------bug_bounty-5) 
 
- - 💯March 13, 2026 - [⚠️ The USB Attack: A Tiny Device, A Huge Risk](https://medium.com/@bugitrix/%EF%B8%8F-the-usb-attack-a-tiny-device-a-huge-risk-3a66795f65f1?source=rss------bug_bounty-5) 
+ - 💯March 14, 2026 - [Running a Local AI Pentesting MCP Server with HexStrike &lpar;Claude Desktop + Debian&rpar;](https://medium.com/@dasmanish6176/running-a-local-ai-pentesting-mcp-server-with-hexstrike-claude-desktop-debian-c7b31ef13c17?source=rss------bug_bounty-5) 
 
- - 💯March 13, 2026 - [How to Get Burp Suite Through Cloudflare WAF — What Actually Works &lpar;2026&rpar;](https://medium.com/@sameerimr384/how-to-get-burp-suite-through-cloudflare-waf-what-actually-works-2026-9fc1c6cd6a92?source=rss------bug_bounty-5) 
+ - 💯March 14, 2026 - [How Hackers Find Gold in Public GitHub Repositories](https://infosecwriteups.com/how-hackers-find-gold-in-public-github-repositories-ba9f244d60c4?source=rss------bug_bounty-5) 
 
- - 💯March 13, 2026 - [How I Exploited Three API Vulnerabilities in a Banking Application](https://adeolaodunlade.medium.com/how-i-exploited-three-api-vulnerabilities-in-a-banking-application-5ceff7c70449?source=rss------bug_bounty-5) 
+ - 💯March 14, 2026 - [Master Guide to SQL Injection &lpar;SQLi&rpar;: Types, Payloads, and Evasion Techniques](https://medium.com/@jpablo13/master-guide-to-sql-injection-sqli-types-payloads-and-evasion-techniques-ab3da4e8194f?source=rss------bug_bounty-5) 
 
- - 💯March 13, 2026 - [Lab: Reflected XSS into HTML context with all tags blocked except custom ones](https://medium.com/@may.hack/lab-reflected-xss-into-html-context-with-all-tags-blocked-except-custom-ones-c6be6f71b741?source=rss------bug_bounty-5) 
+ - 💯March 13, 2026 - [PortSwigger Is Amazing… But It Can Overwhelm Most Of Us](https://medium.com/h7w/portswigger-is-amazing-but-it-can-overwhelm-most-of-us-991227e8a4ce?source=rss------bug_bounty-5) 
 
- - 💯March 13, 2026 - [How I Use Google Dorking to Find Hidden Vulnerabilities](https://medium.com/@vedanthore/how-i-use-google-dorking-to-find-hidden-vulnerabilities-dcc55bed5fad?source=rss------bug_bounty-5) 
+ - 💯March 13, 2026 - [How I Found a Critical SQL Injection in an “Abandoned” Website: Exploiting a Rare Chain of…](https://infosecwriteups.com/how-i-found-a-critical-sql-injection-in-an-abandoned-website-exploiting-a-rare-chain-of-10e5e5615b29?source=rss------bug_bounty-5) 
 
- - 💯March 13, 2026 - [Guía Maestra de SQL Injection &lpar;SQLi&rpar;: Tipos, Payloads y Técnicas de Evasión](https://medium.com/@jpablo13/gu%C3%ADa-maestra-de-sql-injection-sqli-tipos-payloads-y-t%C3%A9cnicas-de-evasi%C3%B3n-f1640ccdeac4?source=rss------bug_bounty-5) 
+ - 💯March 13, 2026 - [Intercepting Flutter iOS App Traffic with Frida-No VPN, No Iptables](https://pritessh.medium.com/intercepting-flutter-ios-app-traffic-with-frida-no-vpn-no-iptables-d91339cefe6a?source=rss------bug_bounty-5) 
 
- - 💯March 12, 2026 - [‍♂️How I Escalated From Domain User to Domain Admin](https://medium.com/@jabaribrown62/%EF%B8%8F-how-i-escalated-from-domain-user-to-domain-admin-c62488453360?source=rss------bug_bounty-5) 
+ - 💯March 13, 2026 - [How I got a Hall of Fame at a UEFA Champions League Football Club.](https://infosecwriteups.com/how-i-got-a-hall-of-fame-at-a-uefa-champions-league-football-club-bcedc352ce4d?source=rss------bug_bounty-5) 
 
- - 💯March 12, 2026 - [Payment Bypass That Let Me Get a Premium Course for $0 [Business Logic Flaw] P2](https://medium.com/@wanqais007/payment-bypass-that-let-me-get-a-premium-course-for-0-business-logic-flaw-p2-71c554d9c274?source=rss------bug_bounty-5) 
+ - 💯March 13, 2026 - [The Automation Myth That’s Costing You Hours Every Week — And How Mastering n8n From Zero Changes…](https://medium.com/@R.H_Rizvi/the-automation-myth-thats-costing-you-hours-every-week-and-how-mastering-n8n-from-zero-changes-ff222142c1c0?source=rss------bug_bounty-5) 
 
- - 💯March 12, 2026 - [Why I Stopped Ignoring Open Redirects &lpar;A Zero-Click ATO Story&rpar;](https://medium.com/@hotisha/why-i-stopped-ignoring-open-redirects-a-zero-click-ato-story-babe76f3f1c5?source=rss------bug_bounty-5) 
+ - 💯March 13, 2026 - [Exploiting an Infinite Money Logic Flaw | PortSwigger Web Security Academy Lab Write-up](https://medium.com/@shrmashivam2005/exploiting-an-infinite-money-logic-flaw-portswigger-web-security-academy-lab-write-up-2a14e5b9dd2d?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
