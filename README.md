@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 15, 2026 - [I Investigated Public GitHub Repositories and Found AI Prompts Exposed in Source Code](https://medium.com/@paritoshblogs/i-investigated-public-github-repositories-and-found-ai-prompts-exposed-in-source-code-e18f013c2557?source=rss------bug_bounty-5) 
+ - 💯March 16, 2026 - [$800 Bounty: How a Missing Email Verification Led to Account Takeover on Shopify Collabs](https://meetcyber.net/800-bounty-how-a-missing-email-verification-led-to-account-takeover-on-shopify-collabs-0c9ab8683bfd?source=rss------bug_bounty-5) 
 
- - 💯March 15, 2026 - [Bugs Most Hunters Overlook — And Why They Matter](https://medium.com/@vedanthore/bugs-most-hunters-overlook-and-why-they-matter-3ee862e2c2e5?source=rss------bug_bounty-5) 
+ - 💯March 16, 2026 - [How I Found a Critical IDOR Leading to Account Takeover in Two EdTech Platforms](https://medium.com/@impyhacker/how-i-found-a-critical-idor-leading-to-account-takeover-in-two-edtech-platforms-44439a66ceb3?source=rss------bug_bounty-5) 
 
- - 💯March 14, 2026 - [History .. CyCTF](https://medium.com/@O.Adel/history-cyctf-70cbfd2f9ec0?source=rss------bug_bounty-5) 
+ - 💯March 16, 2026 - [Learning SQL Injection Through PortSwigger Labs &lpar;Beginner to Blind SQLi&rpar;](https://fuzzyyduck.medium.com/learning-sql-injection-through-portswigger-labs-beginner-to-blind-sqli-7dd78070afd6?source=rss------bug_bounty-5) 
 
- - 💯March 14, 2026 - [WebNet0.. picoCTF](https://medium.com/@O.Adel/webnet0-picoctf-127658e2c8c2?source=rss------bug_bounty-5) 
+ - 💯March 16, 2026 - [Nothing to hide 1, 2 and 3…. CyCTF | Forensics](https://medium.com/@O.Adel/nothing-to-hide-part-1-2-and-3-cyctf-34ef56f33262?source=rss------bug_bounty-5) 
 
- - 💯March 14, 2026 - [Escalating an Out-of-Scope HTML Injection to a Critical 9.3 XSS &lpar;WAF Bypass&rpar;](https://medium.com/@housien.a.khalek19/escalating-an-out-of-scope-html-injection-to-a-critical-9-3-xss-waf-bypass-12b194d6a1df?source=rss------bug_bounty-5) 
+ - 💯March 15, 2026 - [How I Found Dependency Confusion Vulnerabilities in Public GitHub Repositories](https://systemweakness.com/how-i-found-dependency-confusion-vulnerabilities-in-public-github-repositories-70618f7c69f9?source=rss------bug_bounty-5) 
 
- - 💯March 14, 2026 - [How Threat Actors Accidentally Documented My Recon Strategy ️](https://infosecwriteups.com/how-threat-actors-accidentally-documented-my-recon-strategy-%EF%B8%8F-f28307135c04?source=rss------bug_bounty-5) 
+ - 💯March 15, 2026 - [When a Composite Checkout Keeps Pricing From a State That No Longer Exists](https://sin99xx.medium.com/when-a-composite-checkout-keeps-pricing-from-a-state-that-no-longer-exists-edffe47cba64?source=rss------bug_bounty-5) 
 
- - 💯March 14, 2026 - [Most bug bounty writeups are recycled. Real bugs are hiding in the specs.](https://sin99xx.medium.com/most-bug-bounty-writeups-are-recycled-real-bugs-are-hiding-in-the-specs-ded73f6dd06e?source=rss------bug_bounty-5) 
+ - 💯March 15, 2026 - [The Deployment Door Nobody Checked: How a Logic Flaw Bypassed Cloud Authentication Entirely](https://medium.com/@R.H_Rizvi/the-deployment-door-nobody-checked-how-a-logic-flaw-bypassed-cloud-authentication-entirely-07a329aefed3?source=rss------bug_bounty-5) 
 
- - 💯March 14, 2026 - [My $150 Bug Bounty: A Low-Severity Access Control Bug](https://medium.com/@Muhammad_Wageh/my-150-bug-bounty-a-low-severity-access-control-bug-ed3452dcbbec?source=rss------bug_bounty-5) 
+ - 💯March 15, 2026 - [The Beginner’s Bug Bounty Trap: Why Learning More Is Making You Earn Less](https://medium.com/@R.H_Rizvi/the-beginners-bug-bounty-trap-why-learning-more-is-making-you-earn-less-0676f46adfb7?source=rss------bug_bounty-5) 
 
- - 💯March 14, 2026 - [“Leveling Up: Building a Subdomain Scanner in Python for Bug Bounty Hunting”](https://medium.com/@akhilswami8433/leveling-up-building-a-subdomain-scanner-in-python-for-bug-bounty-hunting-8bf32ecafb14?source=rss------bug_bounty-5) 
+ - 💯March 15, 2026 - [SameSite Lax Bypass via Method Override](https://osintteam.blog/samesite-lax-bypass-via-method-override-3daa328b0ee6?source=rss------bug_bounty-5) 
 
- - 💯March 14, 2026 - [What is LLM Testing?](https://medium.com/@VibeSecurity/what-is-llm-testing-3a424e627ee6?source=rss------bug_bounty-5) 
+ - 💯March 15, 2026 - [8. Second-Order Vulnerabilities: A Rare Bug -&gt; $$](https://infosecwriteups.com/8-second-order-vulnerabilities-a-rare-bug-316829a5292d?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
