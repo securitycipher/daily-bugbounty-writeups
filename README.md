@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 16, 2026 - [$800 Bounty: How a Missing Email Verification Led to Account Takeover on Shopify Collabs](https://meetcyber.net/800-bounty-how-a-missing-email-verification-led-to-account-takeover-on-shopify-collabs-0c9ab8683bfd?source=rss------bug_bounty-5) 
+ - 💯March 17, 2026 - [I Found a Backdoor That Could Log Into Any Account on a Major Web Platform](https://zoidsec.medium.com/i-found-a-backdoor-that-could-log-into-any-account-on-a-major-web-platform-6e00df505b56?source=rss------bug_bounty-5) 
 
- - 💯March 16, 2026 - [How I Found a Critical IDOR Leading to Account Takeover in Two EdTech Platforms](https://medium.com/@impyhacker/how-i-found-a-critical-idor-leading-to-account-takeover-in-two-edtech-platforms-44439a66ceb3?source=rss------bug_bounty-5) 
+ - 💯March 17, 2026 - [OTP Bypass Part 2: Advanced Logic Flaws and Race Conditions](https://medium.com/@arrheniuspaelongan09/otp-bypass-part-2-advanced-logic-flaws-and-race-conditions-d30ba3b33f07?source=rss------bug_bounty-5) 
 
- - 💯March 16, 2026 - [Learning SQL Injection Through PortSwigger Labs &lpar;Beginner to Blind SQLi&rpar;](https://fuzzyyduck.medium.com/learning-sql-injection-through-portswigger-labs-beginner-to-blind-sqli-7dd78070afd6?source=rss------bug_bounty-5) 
+ - 💯March 17, 2026 - [IDOR: The Bug That Still Breaks Modern Apps](https://medium.com/@red_shadow_11/idor-the-bug-that-still-breaks-modern-apps-39be2cf42e14?source=rss------bug_bounty-5) 
 
- - 💯March 16, 2026 - [Nothing to hide 1, 2 and 3…. CyCTF | Forensics](https://medium.com/@O.Adel/nothing-to-hide-part-1-2-and-3-cyctf-34ef56f33262?source=rss------bug_bounty-5) 
+ - 💯March 17, 2026 - [Top Authentication Weaknesses in Fintech Platforms](https://z0enix.medium.com/top-authentication-weaknesses-in-fintech-platforms-548f1886e86c?source=rss------bug_bounty-5) 
 
- - 💯March 15, 2026 - [How I Found Dependency Confusion Vulnerabilities in Public GitHub Repositories](https://systemweakness.com/how-i-found-dependency-confusion-vulnerabilities-in-public-github-repositories-70618f7c69f9?source=rss------bug_bounty-5) 
+ - 💯March 17, 2026 - [Building a SOC AI Agent: Automating Security Alert Investigation at Scale](https://medium.com/@paritoshblogs/building-a-soc-ai-agent-automating-security-alert-investigation-at-scale-787837a1d390?source=rss------bug_bounty-5) 
 
- - 💯March 15, 2026 - [When a Composite Checkout Keeps Pricing From a State That No Longer Exists](https://sin99xx.medium.com/when-a-composite-checkout-keeps-pricing-from-a-state-that-no-longer-exists-edffe47cba64?source=rss------bug_bounty-5) 
+ - 💯March 16, 2026 - [Reusing a One-Time Coupon Code Multiple Times &lpar;Business Logic Bug&rpar;](https://medium.com/@tarekmohamed0106/reusing-a-one-time-coupon-code-multiple-times-business-logic-bug-664766230b53?source=rss------bug_bounty-5) 
 
- - 💯March 15, 2026 - [The Deployment Door Nobody Checked: How a Logic Flaw Bypassed Cloud Authentication Entirely](https://medium.com/@R.H_Rizvi/the-deployment-door-nobody-checked-how-a-logic-flaw-bypassed-cloud-authentication-entirely-07a329aefed3?source=rss------bug_bounty-5) 
+ - 💯March 16, 2026 - [A Business Logic Bug That Let Me Remove Platform Fees During Checkout](https://medium.com/@akashutosh659/a-business-logic-bug-that-let-me-remove-platform-fees-during-checkout-ac96b7eb7959?source=rss------bug_bounty-5) 
 
- - 💯March 15, 2026 - [The Beginner’s Bug Bounty Trap: Why Learning More Is Making You Earn Less](https://medium.com/@R.H_Rizvi/the-beginners-bug-bounty-trap-why-learning-more-is-making-you-earn-less-0676f46adfb7?source=rss------bug_bounty-5) 
+ - 💯March 16, 2026 - [Everyone Is Using AI for Bug Bounty in 2026. Almost Nobody Is Using It Correctly.](https://medium.com/@R.H_Rizvi/everyone-is-using-ai-for-bug-bounty-in-2026-almost-nobody-is-using-it-correctly-fe7e3356010e?source=rss------bug_bounty-5) 
 
- - 💯March 15, 2026 - [SameSite Lax Bypass via Method Override](https://osintteam.blog/samesite-lax-bypass-via-method-override-3daa328b0ee6?source=rss------bug_bounty-5) 
+ - 💯March 16, 2026 - [The Fresher’s Trap: Why the Most Prepared Beginners Are the Last Ones to Get Paid](https://medium.com/@R.H_Rizvi/the-freshers-trap-why-the-most-prepared-beginners-are-the-last-ones-to-get-paid-a69b11c5d9b7?source=rss------bug_bounty-5) 
 
- - 💯March 15, 2026 - [8. Second-Order Vulnerabilities: A Rare Bug -&gt; $$](https://infosecwriteups.com/8-second-order-vulnerabilities-a-rare-bug-316829a5292d?source=rss------bug_bounty-5) 
+ - 💯March 16, 2026 - [I Investigated a Suspicious Domain and Found Its Entire Infrastructure !](https://medium.com/@paritoshblogs/i-investigated-a-suspicious-domain-and-found-its-entire-infrastructure-26fb38552680?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
