@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 17, 2026 - [I Found a Backdoor That Could Log Into Any Account on a Major Web Platform](https://zoidsec.medium.com/i-found-a-backdoor-that-could-log-into-any-account-on-a-major-web-platform-6e00df505b56?source=rss------bug_bounty-5) 
+ - 💯March 18, 2026 - [10 IoT Devices Bug Bounty Hunters Should Look For During Recon](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/10-iot-devices-bug-bounty-hunters-should-look-for-during-recon-fd852e2511b6?source=rss------bug_bounty-5) 
 
- - 💯March 17, 2026 - [OTP Bypass Part 2: Advanced Logic Flaws and Race Conditions](https://medium.com/@arrheniuspaelongan09/otp-bypass-part-2-advanced-logic-flaws-and-race-conditions-d30ba3b33f07?source=rss------bug_bounty-5) 
+ - 💯March 18, 2026 - [The Bots Are Coming for Bug Bounties - and Nobody Agrees If That’s Good](https://medium.com/@chethanmohan/the-bots-are-coming-for-bug-bounties-and-nobody-agrees-if-thats-good-32cb69445b8b?source=rss------bug_bounty-5) 
 
- - 💯March 17, 2026 - [IDOR: The Bug That Still Breaks Modern Apps](https://medium.com/@red_shadow_11/idor-the-bug-that-still-breaks-modern-apps-39be2cf42e14?source=rss------bug_bounty-5) 
+ - 💯March 18, 2026 - [How I Found a Critical Authentication Bypass in a Lightning Network SDK &lpar;CVSS 9.8&rpar;](https://infosecwriteups.com/how-i-found-a-critical-authentication-bypass-in-a-lightning-network-sdk-cvss-9-8-79f76eda1d84?source=rss------bug_bounty-5) 
 
- - 💯March 17, 2026 - [Top Authentication Weaknesses in Fintech Platforms](https://z0enix.medium.com/top-authentication-weaknesses-in-fintech-platforms-548f1886e86c?source=rss------bug_bounty-5) 
+ - 💯March 18, 2026 - [How I Discovered a Complete CSRF Protection Bypass on a Major Crypto Exchange And What Happened…](https://infosecwriteups.com/how-i-discovered-a-complete-csrf-protection-bypass-on-a-major-crypto-exchange-and-what-happened-10c7fc794324?source=rss------bug_bounty-5) 
 
- - 💯March 17, 2026 - [Building a SOC AI Agent: Automating Security Alert Investigation at Scale](https://medium.com/@paritoshblogs/building-a-soc-ai-agent-automating-security-alert-investigation-at-scale-787837a1d390?source=rss------bug_bounty-5) 
+ - 💯March 18, 2026 - [CVE-2026-33171: Path Traversal in Statamic CMS](https://snehbavarva.medium.com/cve-2026-33171-path-traversal-in-statamic-cms-2680edd307cd?source=rss------bug_bounty-5) 
 
- - 💯March 16, 2026 - [Reusing a One-Time Coupon Code Multiple Times &lpar;Business Logic Bug&rpar;](https://medium.com/@tarekmohamed0106/reusing-a-one-time-coupon-code-multiple-times-business-logic-bug-664766230b53?source=rss------bug_bounty-5) 
+ - 💯March 18, 2026 - [When SQL Injection Hides Behind Encoding — A Blind SQLi That Automation Missed](https://medium.com/@Xp10it/when-sql-injection-hides-behind-encoding-a-blind-sqli-that-automation-missed-2b74f9bb64e7?source=rss------bug_bounty-5) 
 
- - 💯March 16, 2026 - [A Business Logic Bug That Let Me Remove Platform Fees During Checkout](https://medium.com/@akashutosh659/a-business-logic-bug-that-let-me-remove-platform-fees-during-checkout-ac96b7eb7959?source=rss------bug_bounty-5) 
+ - 💯March 18, 2026 - [‍ AD Got Cooked: From SMB Enum to Azure AD Connect Abuse](https://medium.com/@jabaribrown62/ad-got-cooked-from-smb-enum-to-azure-ad-connect-abuse-f6554d2bcafe?source=rss------bug_bounty-5) 
 
- - 💯March 16, 2026 - [Everyone Is Using AI for Bug Bounty in 2026. Almost Nobody Is Using It Correctly.](https://medium.com/@R.H_Rizvi/everyone-is-using-ai-for-bug-bounty-in-2026-almost-nobody-is-using-it-correctly-fe7e3356010e?source=rss------bug_bounty-5) 
+ - 💯March 17, 2026 - [Bypassing API Key Limits Using a Race Condition](https://medium.com/@eabubakr21/bypassing-api-key-limits-using-a-race-condition-068adacd202d?source=rss------bug_bounty-5) 
 
- - 💯March 16, 2026 - [The Fresher’s Trap: Why the Most Prepared Beginners Are the Last Ones to Get Paid](https://medium.com/@R.H_Rizvi/the-freshers-trap-why-the-most-prepared-beginners-are-the-last-ones-to-get-paid-a69b11c5d9b7?source=rss------bug_bounty-5) 
+ - 💯March 17, 2026 - [300$ Email Html Injection!](https://medium.com/@AliMojaver/300-email-html-injection-48dfc53e6d59?source=rss------bug_bounty-5) 
 
- - 💯March 16, 2026 - [I Investigated a Suspicious Domain and Found Its Entire Infrastructure !](https://medium.com/@paritoshblogs/i-investigated-a-suspicious-domain-and-found-its-entire-infrastructure-26fb38552680?source=rss------bug_bounty-5) 
+ - 💯March 17, 2026 - [2 Zero-Days in sliver! What if I found your Sliver payload?](https://medium.com/@skoveit/2-zero-days-in-sliver-what-if-i-found-your-sliver-payload-7b0251849047?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
