@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 19, 2026 - [⚙️ How to Exploit IoT Misconfigurations &lpar;Safely &amp; Legally&rpar;](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/%EF%B8%8F-how-to-exploit-iot-misconfigurations-safely-legally-a147a62406d8?source=rss------bug_bounty-5) 
+ - 💯March 20, 2026 - [It&#39;s Everywhere: A Kutty Bug Bounty Story](https://medium.com/h7w/its-everywhere-a-kutty-bug-bounty-story-cddcffefec54?source=rss------bug_bounty-5) 
 
- - 💯March 19, 2026 - [Food Store — SQL Injection Challenge](https://medium.com/@anwer0x11/food-store-sql-injection-challenge-7bec9951a3a8?source=rss------bug_bounty-5) 
+ - 💯March 20, 2026 - [Automation Bug Bounty: From Recon to Real Bugs Using Powerful Tools &amp; Smart Workflows](https://meetcyber.net/automation-bug-bounty-from-recon-to-real-bugs-using-powerful-tools-smart-workflows-ad6913949125?source=rss------bug_bounty-5) 
 
- - 💯March 19, 2026 - [SSRF via Unvalidated Preflight Location Header in Turborepo Leads to Auth Token Theft](https://medium.com/@0xanubiis/ssrf-via-unvalidated-preflight-location-header-in-turborepo-leads-to-auth-token-theft-dc69445daee0?source=rss------bug_bounty-5) 
+ - 💯March 20, 2026 - [Cloudflare WAF Bypass Leading to Reflected XSS via SVG Injection](https://0xh7ml.medium.com/cloudflare-waf-bypass-leading-to-reflected-xss-via-svg-injection-8712de3830ae?source=rss------bug_bounty-5) 
 
- - 💯March 18, 2026 - [Bug Bounty: Finding Bugs and Making Money your orange](https://medium.com/@nexamos/bug-bounty-finding-bugs-and-making-money-your-orange-be8fa00ee669?source=rss------bug_bounty-5) 
+ - 💯March 20, 2026 - [IDOR in a JWT-Protected Card Viewer API | CodeReviewLab Writeup](https://medium.com/@zaid.zrf/dor-in-a-jwt-protected-card-viewer-api-codereviewlab-writeup-57d437a5d481?source=rss------bug_bounty-5) 
 
- - 💯March 18, 2026 - [Exposed AWS AppSync API Key](https://medium.com/@1sherlok/exposed-aws-appsync-api-key-dcd54ce50a5c?source=rss------bug_bounty-5) 
+ - 💯March 20, 2026 - [Hacking the “Republic of Valdoria”: Chaining IDOR, Cryptography Cracking, and JWT Bypass in a…](https://medium.com/@0xpedrop/hacking-the-republic-of-valdoria-chaining-idor-cryptography-cracking-and-jwt-bypass-in-a-738cae64f572?source=rss------bug_bounty-5) 
 
- - 💯March 18, 2026 - [How I Found a CSRF Vulnerability That Could Take Over Student Accounts on an Educational Platform](https://medium.com/@s3clipt0r/how-i-found-a-csrf-vulnerability-that-could-take-over-student-accounts-on-an-educational-platform-6e65bc70816f?source=rss------bug_bounty-5) 
+ - 💯March 19, 2026 - [How I Earned $76,000 From a Single Program on Bugcrowd](https://anonhunter.medium.com/how-i-earned-76-000-from-a-single-program-on-bugcrowd-adf2a0eeece0?source=rss------bug_bounty-5) 
 
- - 💯March 18, 2026 - [When Old Breaches Meet New Code: Why Historical Leaks Still Matter](https://infosecwriteups.com/when-old-breaches-meet-new-code-why-historical-leaks-still-matter-b4e6eb8ac607?source=rss------bug_bounty-5) 
+ - 💯March 19, 2026 - [The Developer Called Me: How an IDOR Leaked 403 Users and Led to Account Takeover](https://medium.com/@gjethva10/the-developer-called-me-how-an-idor-leaked-403-users-and-led-to-account-takeover-1a2fd1d4a069?source=rss------bug_bounty-5) 
 
- - 💯March 18, 2026 - [BOLA &lpar;IDOR&rpar; Vulnerability in a Comment Approval System](https://medium.com/@m.yasinagzikuru/bola-idor-vulnerability-in-a-comment-approval-system-e65678b56546?source=rss------bug_bounty-5) 
+ - 💯March 19, 2026 - [Remember Me. Forget MFA](https://medium.com/@oksuzkayra16/remember-me-forget-mfa-84419f18b46f?source=rss------bug_bounty-5) 
 
- - 💯March 18, 2026 - [7 Reports, 4 Duplicates, and Zero Bounties — My First 3 Months in Bug Bounty Hunting](https://medium.com/@sreenivasan96/7-reports-4-duplicates-and-zero-bounties-my-first-3-months-in-bug-bounty-hunting-f0fffeaf0844?source=rss------bug_bounty-5) 
+ - 💯March 19, 2026 - [ML Model Bias &amp; Hallucination Auditing Methodology](https://gaya3-r.medium.com/ml-model-bias-hallucination-auditing-methodology-7ec4a5d9d91f?source=rss------bug_bounty-5) 
 
- - 💯March 18, 2026 - [Google Shows Websites… Shodan Shows Exposed Systems](https://medium.com/@bugitrix/google-shows-websites-shodan-shows-exposed-systems-1fa29c886507?source=rss------bug_bounty-5) 
+ - 💯March 19, 2026 - [When Rate Limiting Fails: Evaluating IP-Based Controls in Authentication Systems](https://medium.com/@yeboahromeo44/when-rate-limiting-fails-evaluating-ip-based-controls-in-authentication-systems-6c1de1446fa8?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
