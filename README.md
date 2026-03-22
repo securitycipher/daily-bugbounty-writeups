@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 21, 2026 - [Inspect HTML](https://medium.com/@recoxy/inspect-html-82de2f059cb6?source=rss------bug_bounty-5) 
+ - 💯March 22, 2026 - [Amass Cheat Sheet — Subdomain Enumeration](https://medium.com/@dhruva0/amass-cheat-sheet-subdomain-enumeration-40c2ef6adca7?source=rss------bug_bounty-5) 
 
- - 💯March 21, 2026 - [What Is OSINT &amp; How Hackers Use It ️](https://medium.com/@vedanthore/what-is-osint-how-hackers-use-it-%EF%B8%8F-9c3b9313b82e?source=rss------bug_bounty-5) 
+ - 💯March 22, 2026 - [Why You’re Not Finding Bugs &lpar;And How Hackers Actually &rpar;](https://medium.com/@uday637/why-youre-not-finding-bugs-and-how-hackers-actually-do-with-idor-8b456bacfaf6?source=rss------bug_bounty-5) 
 
- - 💯March 21, 2026 - [SQLMap Meets AI: Skynet + Ollama Security Workflow](https://medium.com/@pentesterclubpvtltd/sqlmap-meets-ai-skynet-ollama-security-workflow-a9902b2019e9?source=rss------bug_bounty-5) 
+ - 💯March 22, 2026 - [SQL Injection Explained Simply](https://medium.com/@vedanthore/sql-injection-explained-simply-4a244bb05bfb?source=rss------bug_bounty-5) 
 
- - 💯March 21, 2026 - [Hacking NASA Without a Login: How One Clojure Function Gave Me Root Access](https://obaskly.medium.com/hacking-nasa-without-a-login-how-one-clojure-function-gave-me-root-access-b1ccdc0684ac?source=rss------bug_bounty-5) 
+ - 💯March 21, 2026 - [How I Find the Real IP Behind Cloudflare &lpar;When It’s Not Supposed to Be Visible&rpar;](https://medium.com/@dufferhackers/how-i-find-the-real-ip-behind-cloudflare-when-its-not-supposed-to-be-visible-cd48e2ce5e62?source=rss------bug_bounty-5) 
 
- - 💯March 21, 2026 - [Resolute | HackTheBox | OSCP Preparation](https://medium.com/@SilentExploit/resolute-hackthebox-oscp-preparation-f16d494d8721?source=rss------bug_bounty-5) 
+ - 💯March 21, 2026 - [CVE-2026–22812: How I Got RCE on a 71k-Star AI Coding Tool With Zero Authentication](https://medium.com/@dhxrxx/cve-2026-22812-how-i-got-rce-on-a-71k-star-ai-coding-tool-with-zero-authentication-7524fbc3317f?source=rss------bug_bounty-5) 
 
- - 💯March 20, 2026 - [Deterministic Network Halt: How a Nil Pointer in BSC Geth Can Stop a Blockchain](https://blog.blockmagnates.com/deterministic-network-halt-how-a-nil-pointer-in-bsc-geth-can-stop-a-blockchain-270db509b502?source=rss------bug_bounty-5) 
+ - 💯March 21, 2026 - [How I Earned $1,000 Bounty by Exploiting a Simple Misconfiguration](https://medium.com/@thenewdate24/how-i-earned-1-000-bounty-by-exploiting-a-simple-misconfiguration-18c25356caf3?source=rss------bug_bounty-5) 
 
- - 💯March 20, 2026 - [Blind SQL Injection in Yahoo!](https://medium.com/@ahmedbelahcen2018/blind-sql-injection-in-yahoo-93c40b43a8af?source=rss------bug_bounty-5) 
+ - 💯March 21, 2026 - [How I Found a Security Misconfiguration in Max Healthcare’s PACS System — and Got Recognized for It](https://medium.com/@dhxrxx/how-i-found-a-security-misconfiguration-in-max-healthcares-pacs-system-and-got-recognized-for-it-dcc2e44dc1b4?source=rss------bug_bounty-5) 
 
- - 💯March 20, 2026 - [Authentication Bypass &amp; Username Enumeration in AdminPanel &lpar;Jason2605&rpar;](https://medium.com/@hemantrajbhati5555/authentication-bypass-username-enumeration-in-adminpanel-jason2605-061bd7bcea6b?source=rss------bug_bounty-5) 
+ - 💯March 21, 2026 - [TTPs vs IOCs: Shift Your Detection Mindset](https://medium.com/@paritoshblogs/ttps-vs-iocs-shift-your-detection-mindset-b12dc122b1a8?source=rss------bug_bounty-5) 
 
- - 💯March 20, 2026 - [How I Chained Mass Assignment and CSV Injection to Exfiltrate Corporate Data](https://systemweakness.com/how-i-chained-mass-assignment-and-csv-injection-to-exfiltrate-corporate-data-a48b162e41df?source=rss------bug_bounty-5) 
-
- - 💯March 20, 2026 - [$500 in just a single IDOR](https://medium.com/@Muhammad_Wageh/500-in-just-a-single-idor-b13e9df22f4a?source=rss------bug_bounty-5) 
+ - 💯March 21, 2026 - [Everyone Told Me DNS is a Phonebook. They Lied.](https://varnith.medium.com/everyone-told-me-dns-is-a-phonebook-they-lied-0ff7a1023248?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
