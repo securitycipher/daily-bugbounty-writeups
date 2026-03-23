@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 22, 2026 - [Amass Cheat Sheet — Subdomain Enumeration](https://medium.com/@dhruva0/amass-cheat-sheet-subdomain-enumeration-40c2ef6adca7?source=rss------bug_bounty-5) 
+ - 💯March 23, 2026 - [OSCP to Real-World Pentesting: 15 Lessons Learned for Practical Success](https://medium.com/@verylazytech/oscp-to-real-world-pentesting-15-lessons-learned-for-practical-success-c14ae69d8e19?source=rss------bug_bounty-5) 
 
- - 💯March 22, 2026 - [Why You’re Not Finding Bugs &lpar;And How Hackers Actually &rpar;](https://medium.com/@uday637/why-youre-not-finding-bugs-and-how-hackers-actually-do-with-idor-8b456bacfaf6?source=rss------bug_bounty-5) 
+ - 💯March 23, 2026 - [0 click Account Takeover &lpar;ATO&rpar; via Cross-Event Identity Confusion](https://medium.com/@0xmannaf/0-click-account-takeover-ato-via-cross-event-identity-confusion-12a42a84f027?source=rss------bug_bounty-5) 
 
- - 💯March 22, 2026 - [SQL Injection Explained Simply](https://medium.com/@vedanthore/sql-injection-explained-simply-4a244bb05bfb?source=rss------bug_bounty-5) 
+ - 💯March 23, 2026 - [From iframe Injection to Account Takeover &lpar;Full Exploit Chain&rpar;](https://medium.com/@0xRedFox29/from-iframe-injection-to-account-takeover-full-exploit-chain-424db44a1167?source=rss------bug_bounty-5) 
 
- - 💯March 21, 2026 - [How I Find the Real IP Behind Cloudflare &lpar;When It’s Not Supposed to Be Visible&rpar;](https://medium.com/@dufferhackers/how-i-find-the-real-ip-behind-cloudflare-when-its-not-supposed-to-be-visible-cd48e2ce5e62?source=rss------bug_bounty-5) 
+ - 💯March 22, 2026 - [APT Recon - Bug Hunter’s Guide](https://medium.com/@ImLegendAdi/apt-recon-bug-hunters-guide-5ba269bce538?source=rss------bug_bounty-5) 
 
- - 💯March 21, 2026 - [CVE-2026–22812: How I Got RCE on a 71k-Star AI Coding Tool With Zero Authentication](https://medium.com/@dhxrxx/cve-2026-22812-how-i-got-rce-on-a-71k-star-ai-coding-tool-with-zero-authentication-7524fbc3317f?source=rss------bug_bounty-5) 
+ - 💯March 22, 2026 - [Wireless Attack with Aircrack-ng : A Complete Guide from A to Z](https://medium.com/@contact.us1320/wireless-attack-with-aircrack-ng-a-complete-guide-from-a-to-z-17b5a3de94f6?source=rss------bug_bounty-5) 
 
- - 💯March 21, 2026 - [How I Earned $1,000 Bounty by Exploiting a Simple Misconfiguration](https://medium.com/@thenewdate24/how-i-earned-1-000-bounty-by-exploiting-a-simple-misconfiguration-18c25356caf3?source=rss------bug_bounty-5) 
+ - 💯March 22, 2026 - [From a Silent Math Error to Certificate Bypass: Uncovering an Integer Overflow in a TLS Parser](https://medium.com/@HackerMD/from-a-silent-math-error-to-certificate-bypass-uncovering-an-integer-overflow-in-a-tls-parser-b73b86696f74?source=rss------bug_bounty-5) 
 
- - 💯March 21, 2026 - [How I Found a Security Misconfiguration in Max Healthcare’s PACS System — and Got Recognized for It](https://medium.com/@dhxrxx/how-i-found-a-security-misconfiguration-in-max-healthcares-pacs-system-and-got-recognized-for-it-dcc2e44dc1b4?source=rss------bug_bounty-5) 
+ - 💯March 22, 2026 - [Zero to Red Team: Master Shodan Dorking in One Read](https://medium.com/@vulndetox/zero-to-red-team-master-shodan-dorking-in-one-read-24df16f2b84e?source=rss------bug_bounty-5) 
 
- - 💯March 21, 2026 - [TTPs vs IOCs: Shift Your Detection Mindset](https://medium.com/@paritoshblogs/ttps-vs-iocs-shift-your-detection-mindset-b12dc122b1a8?source=rss------bug_bounty-5) 
+ - 💯March 22, 2026 - [Exposed Endpoints Lead To Leak PII](https://medium.com/@1sherlok/exposed-endpoints-lead-to-leak-pii-96a581c37081?source=rss------bug_bounty-5) 
 
- - 💯March 21, 2026 - [Everyone Told Me DNS is a Phonebook. They Lied.](https://varnith.medium.com/everyone-told-me-dns-is-a-phonebook-they-lied-0ff7a1023248?source=rss------bug_bounty-5) 
+ - 💯March 22, 2026 - [The Hidden Weapon: How I Turn Mass Assignment into Bounties](https://medium.com/@0xuserm9/the-hidden-weapon-how-i-turn-mass-assignment-into-bounties-459d7c35a727?source=rss------bug_bounty-5) 
+
+ - 💯March 22, 2026 - [How to Become a Smart Contract Auditor in 2026](https://medium.com/@iamabraham/how-to-become-a-smart-contract-auditor-in-2026-dcd677f73caa?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
