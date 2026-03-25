@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 24, 2026 - [️   SQL Injection for Beginners: The Complete Guide](https://infosecwriteups.com/%EF%B8%8F-sql-injection-for-beginners-the-complete-guide-2750907b095b?source=rss------bug_bounty-5) 
+ - 💯March 25, 2026 - [Privilege Persistence via Reusable Role-Change Request Leads to Full Store Takeover](https://medium.com/@Dr_Robik/privilege-persistence-via-reusable-role-change-request-leads-to-full-store-takeover-c3c2e1b38b0e?source=rss------bug_bounty-5) 
 
- - 💯March 24, 2026 - [CSRF EXPLOITATION: Make Victims Hack Themselves](https://medium.com/@cyberb354/csrf-exploitation-make-victims-hack-themselves-7d0e487e4a95?source=rss------bug_bounty-5) 
+ - 💯March 25, 2026 - [Good vs Bad Threat Intelligence — Can You Tell the Difference?](https://medium.com/@paritoshblogs/good-vs-bad-threat-intelligence-can-you-tell-the-difference-002e968e1263?source=rss------bug_bounty-5) 
 
- - 💯March 24, 2026 - [99$ Cybersecurity Ebook for Free](https://anontriager.medium.com/99-cybersecurity-ebook-for-free-dec628d30c79?source=rss------bug_bounty-5) 
+ - 💯March 24, 2026 - [picoCTF Writeup — Fool the Lockout &lpar;Web Exploitation&rpar;](https://medium.com/@may.hack/picoctf-writeup-fool-the-lockout-web-exploitation-ae1dd6a3d038?source=rss------bug_bounty-5) 
 
- - 💯March 24, 2026 - [Rigging the Odds: The Illusion of On-Chain Randomness](https://coinsbench.com/rigging-the-odds-the-illusion-of-on-chain-randomness-552f2d29177a?source=rss------bug_bounty-5) 
+ - 💯March 24, 2026 - [picoCTF Writeup — Failure Failure](https://medium.com/@may.hack/picoctf-writeup-failure-failure-e629a92c3b6f?source=rss------bug_bounty-5) 
 
- - 💯March 24, 2026 - [Broken Access Control — The #1 Vulnerability on the Web](https://medium.com/@vedanthore/broken-access-control-the-1-vulnerability-on-the-web-e54b306c546b?source=rss------bug_bounty-5) 
+ - 💯March 24, 2026 - [From IDOR to Admin Takeover: How I Accidentally Walked Into an ATO](https://medium.com/@wanqais007/from-idor-to-admin-takeover-how-i-accidentally-walked-into-an-ato-8ec9f7b034c8?source=rss------bug_bounty-5) 
 
- - 💯March 24, 2026 - [I Built an AI That Hacks Itself — And It Found 3 Real CVEs in 20 Minutes](https://medium.com/@bugitrix/i-built-an-ai-that-hacks-itself-and-it-found-3-real-cves-in-20-minutes-25785735199a?source=rss------bug_bounty-5) 
+ - 💯March 24, 2026 - [how a single JSON parameter allowed unauthorized manipulation&lpar;IDOR&rpar;](https://medium.com/@georgezakary60/how-a-single-json-parameter-allowed-unauthorized-manipulation-idor-842c5ef30110?source=rss------bug_bounty-5) 
 
- - 💯March 24, 2026 - [From Stored XSS to Cookie Tossing into Credit Card Theft](https://medium.com/@YourFinalSin/from-stored-xss-to-cookie-tossing-into-credit-card-theft-396b59b49326?source=rss------bug_bounty-5) 
+ - 💯March 24, 2026 - [Who Needs VPN?? SSRF Already inside](https://medium.com/@youssefmohamedsaadhelal1214/who-needs-vpn-ssrf-already-inside-fae7c6f8844b?source=rss------bug_bounty-5) 
 
- - 💯March 24, 2026 - [Return | HackTheBox | OSCP Preparation](https://medium.com/@SilentExploit/return-hackthebox-oscp-preparation-8d811ed19bb2?source=rss------bug_bounty-5) 
+ - 💯March 24, 2026 - [The Ultimate Bug Bounty Course: From Zero to Advanced Hacker 2](https://medium.com/@dasielramirezhernandez/the-ultimate-bug-bounty-course-from-zero-to-advanced-hacker-5835235bac0d?source=rss------bug_bounty-5) 
 
- - 💯March 24, 2026 - [How I Stole the Admin’s Cookie — Intigriti challenge-0326](https://mah3sec.medium.com/how-i-stole-the-admins-cookie-intigriti-challenge-0326-5a503902d9a0?source=rss------bug_bounty-5) 
+ - 💯March 24, 2026 - [Why location.href Isn’t Just a Redirect:](https://medium.com/@marduk.i.am/why-location-href-isnt-just-a-redirect-f7c77c0e4bcd?source=rss------bug_bounty-5) 
 
- - 💯March 23, 2026 - [Logic Over Locks: How I Unlocked Premium Features on a Free Account](https://medium.com/@amendahunt/logic-over-locks-how-i-unlocked-premium-features-on-a-free-account-7e7859527fe5?source=rss------bug_bounty-5) 
+ - 💯March 24, 2026 - [How I Made Over $72,000 From a Single Private Bug Bounty Program Without Chasing Hundreds of…](https://medium.com/@ferdusalam0/how-i-made-over-72-000-from-a-single-private-bug-bounty-program-without-chasing-hundreds-of-ce014773522c?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
