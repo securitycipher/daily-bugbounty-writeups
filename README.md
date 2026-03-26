@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 25, 2026 - [Privilege Persistence via Reusable Role-Change Request Leads to Full Store Takeover](https://medium.com/@Dr_Robik/privilege-persistence-via-reusable-role-change-request-leads-to-full-store-takeover-c3c2e1b38b0e?source=rss------bug_bounty-5) 
+ - 💯March 26, 2026 - [How to pick a Web3 Bug Bounty Program to hunt on? &lpar;in 2026&rpar;](https://medium.com/@infosec.us.team/how-to-pick-a-web3-bug-bounty-program-to-hunt-on-in-2026-75bdfa523c47?source=rss------bug_bounty-5) 
 
- - 💯March 25, 2026 - [Good vs Bad Threat Intelligence — Can You Tell the Difference?](https://medium.com/@paritoshblogs/good-vs-bad-threat-intelligence-can-you-tell-the-difference-002e968e1263?source=rss------bug_bounty-5) 
+ - 💯March 26, 2026 - [The God Mode of Web3: How to Borrow $100 Million for Zero Seconds ⚡](https://medium.com/coinmonks/the-god-mode-of-web3-how-to-borrow-100-million-for-zero-seconds-d1490bc60345?source=rss------bug_bounty-5) 
 
- - 💯March 24, 2026 - [picoCTF Writeup — Fool the Lockout &lpar;Web Exploitation&rpar;](https://medium.com/@may.hack/picoctf-writeup-fool-the-lockout-web-exploitation-ae1dd6a3d038?source=rss------bug_bounty-5) 
+ - 💯March 26, 2026 - [How I Made $47,000 on HackerOne This Year Without a Degree — The Exact Playbook](https://medium.com/@bugitrix/how-i-made-47-000-on-hackerone-this-year-without-a-degree-the-exact-playbook-a242bafce70f?source=rss------bug_bounty-5) 
 
- - 💯March 24, 2026 - [picoCTF Writeup — Failure Failure](https://medium.com/@may.hack/picoctf-writeup-failure-failure-e629a92c3b6f?source=rss------bug_bounty-5) 
+ - 💯March 26, 2026 - [How a $20,000 Bug Was Hidden Inside YouTube’s API — A Bug Bounty Review](https://medium.com/@vivekps143/how-a-20-000-bug-was-hidden-inside-youtubes-api-a-bug-bounty-review-b87692021fef?source=rss------bug_bounty-5) 
 
- - 💯March 24, 2026 - [From IDOR to Admin Takeover: How I Accidentally Walked Into an ATO](https://medium.com/@wanqais007/from-idor-to-admin-takeover-how-i-accidentally-walked-into-an-ato-8ec9f7b034c8?source=rss------bug_bounty-5) 
+ - 💯March 26, 2026 - [How i Found My First SSRF on Sony](https://medium.com/@pawanparmar/how-i-found-my-first-ssrf-on-sony-1416ab0c221b?source=rss------bug_bounty-5) 
 
- - 💯March 24, 2026 - [how a single JSON parameter allowed unauthorized manipulation&lpar;IDOR&rpar;](https://medium.com/@georgezakary60/how-a-single-json-parameter-allowed-unauthorized-manipulation-idor-842c5ef30110?source=rss------bug_bounty-5) 
+ - 💯March 26, 2026 - [How Hackers Build Wi-Fi Wordlists from Default ISP Password Patterns &lpar;Legally &amp; Ethically&rpar;](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/how-hackers-build-wi-fi-wordlists-from-default-isp-password-patterns-legally-ethically-1c83cea4d8e6?source=rss------bug_bounty-5) 
 
- - 💯March 24, 2026 - [Who Needs VPN?? SSRF Already inside](https://medium.com/@youssefmohamedsaadhelal1214/who-needs-vpn-ssrf-already-inside-fae7c6f8844b?source=rss------bug_bounty-5) 
+ - 💯March 26, 2026 - [AI-Driven Insider Threat Monitoring: Transforming the Way Organizations Detect and Respond to Risk](https://medium.com/@paritoshblogs/ai-driven-insider-threat-monitoring-transforming-the-way-organizations-detect-and-respond-to-risk-0354e3768c90?source=rss------bug_bounty-5) 
 
- - 💯March 24, 2026 - [The Ultimate Bug Bounty Course: From Zero to Advanced Hacker 2](https://medium.com/@dasielramirezhernandez/the-ultimate-bug-bounty-course-from-zero-to-advanced-hacker-5835235bac0d?source=rss------bug_bounty-5) 
+ - 💯March 25, 2026 - [Microsoft Authenticator’s Unclaimed Deep Link: A Full Account Takeover Story &lpar;CVE-2026–26123&rpar;](https://infosecwriteups.com/microsoft-authenticators-unclaimed-deep-link-a-full-account-takeover-story-cve-2026-26123-e0409a920a02?source=rss------bug_bounty-5) 
 
- - 💯March 24, 2026 - [Why location.href Isn’t Just a Redirect:](https://medium.com/@marduk.i.am/why-location-href-isnt-just-a-redirect-f7c77c0e4bcd?source=rss------bug_bounty-5) 
+ - 💯March 25, 2026 - [How I Found Pre-Account Takeover Vulnerabilities](https://medium.com/@montaser_mohsen/how-i-found-pre-account-takeover-vulnerabilities-6b81aef6e2ca?source=rss------bug_bounty-5) 
 
- - 💯March 24, 2026 - [How I Made Over $72,000 From a Single Private Bug Bounty Program Without Chasing Hundreds of…](https://medium.com/@ferdusalam0/how-i-made-over-72-000-from-a-single-private-bug-bounty-program-without-chasing-hundreds-of-ce014773522c?source=rss------bug_bounty-5) 
+ - 💯March 25, 2026 - [Bypassing iOS Application &lpar;17.x&rpar; SSL Pinning via Frida](https://pritessh.medium.com/bypassing-ios-application-17-x-ssl-pinning-via-frida-5bc26dc006f4?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
