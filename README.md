@@ -2,22 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 27, 2026 - [How Insecure APIs Allow Hackers to Break Subscription Logic and Unlock Premium Features?](https://ashikmd7.medium.com/how-insecure-apis-allow-hackers-to-break-subscription-logic-and-unlock-premium-features-606dd10fbcff?source=rss------bug_bounty-5) 
+ - 💯March 28, 2026 - [How I Bypassed SSO to Access Sony’s Internal AI Chat Assistant &lpar;Broken Access Control&rpar;](https://medium.com/@dev_fr_/how-i-bypassed-sso-to-access-sonys-internal-ai-chat-assistant-broken-access-control-6f0c62426d9b?source=rss------bug_bounty-5) 
 
- - 💯March 27, 2026 - [My Bug Bounty Journey #1: Lessons from 3 Years in the Field](https://medium.com/@awchjimmy/my-bug-bounty-journey-1-lessons-from-3-years-in-the-field-069ea5e96fe7?source=rss------bug_bounty-5) 
+ - 💯March 28, 2026 - [Google Dorking for Bug Bounty — How Hackers Find Hidden Vulnerabilities](https://medium.com/@riyalimba/google-dorking-for-bug-bounty-how-hackers-find-hidden-vulnerabilities-5fcc3a1089da?source=rss------bug_bounty-5) 
 
- - 💯March 27, 2026 - [How I Found a Vulnerability at NASA at Age 13](https://medium.com/@canutellmewhoami/how-i-found-a-vulnerability-at-nasa-at-age-13-3867333f16a1?source=rss------bug_bounty-5) 
+ - 💯March 28, 2026 - [Security Misconfiguration — The #2 Vulnerability on the Web ⚙️](https://medium.com/@vedanthore/security-misconfiguration-the-2-vulnerability-on-the-web-%EF%B8%8F-dcb9ac87a443?source=rss------bug_bounty-5) 
 
- - 💯March 27, 2026 - [CI/CD Pipeline Exploitation: 10 Vulnerabilities Every Pentester Should Check &lpar;With Real Examples&rpar;](https://medium.com/@verylazytech/ci-cd-pipeline-exploitation-10-vulnerabilities-every-pentester-should-check-with-real-examples-38f9d9359dbd?source=rss------bug_bounty-5) 
+ - 💯March 28, 2026 - [How to Start Bug Bounty with Zero Experience &lpar;Cybersecurity Beginner Guide&rpar;](https://sukhveersingh97997.medium.com/how-to-start-bug-bounty-with-zero-experience-cybersecurity-beginner-guide-661a197b71dc?source=rss------bug_bounty-5) 
 
- - 💯March 27, 2026 - [How a $62,500 Self-XSS Became a Full Facebook and Instagram Account Takeover — A Review of Youssef…](https://medium.com/@vivekps143/how-a-62-500-self-xss-became-a-full-facebook-and-instagram-account-takeover-a-review-of-youssef-2d574854a3ef?source=rss------bug_bounty-5) 
+ - 💯March 27, 2026 - [Building a Hacker Assistant with Python + Ollama](https://medium.com/@RyanMaxiemus/building-a-hacker-assistant-with-python-ollama-a320cef495cb?source=rss------bug_bounty-5) 
 
- - 💯March 27, 2026 - [Critical Admin Access Vulnerability
-on NASA’s .nasa.gov Subdomain](https://aashutoshdevkota.medium.com/critical-admin-access-vulnerability-on-nasas-nasa-gov-subdomain-0586a00ce5f0?source=rss------bug_bounty-5) 
+ - 💯March 27, 2026 - [Tomghost [Try Hack Me] machine Walkthrough :](https://medium.com/@amroubekhedda/tomghost-try-hack-me-machine-walkthrough-7e1c4a2cd602?source=rss------bug_bounty-5) 
 
- - 💯March 26, 2026 - [HTB Academy - API Attacks &lpar;Unsafe Consumption of APIs&rpar; Exercise Walkthrough](https://medium.com/@12farouq12/htb-academy-api-attacks-unsafe-consumption-of-apis-exercise-walkthrough-2e345f4599d8?source=rss------bug_bounty-5) 
+ - 💯March 27, 2026 - [The Ultimate Bug Bounty Course: From Zero to Advanced Hacker 7](https://medium.com/@dasielramirezhernandez/the-ultimate-bug-bounty-course-from-zero-to-advanced-hacker-7-e641733d998c?source=rss------bug_bounty-5) 
 
- - 💯March 26, 2026 - [File Upload Bypass to Remote Code Execution &lpar;RCE&rpar; HEXAPHP](https://hexaphp.medium.com/file-upload-bypass-to-remote-code-execution-rce-hexaphp-cbb7e5f09175?source=rss------bug_bounty-5) 
+ - 💯March 27, 2026 - [Cross-Site Scripting &lpar;XSS&rpar; Explained: How a “Low Severity” Vulnerability Leads to Enterprise…](https://medium.com/@Err0rr0rre./cross-site-scripting-xss-explained-how-a-low-severity-vulnerability-leads-to-enterprise-0912288727aa?source=rss------bug_bounty-5) 
 
- - 💯March 26, 2026 - [The Ultimate Bug Bounty Course: From Zero to Advanced Hacker 6](https://medium.com/@dasielramirezhernandez/the-ultimate-bug-bounty-course-from-zero-to-advanced-hacker-6-b04ffdb9278f?source=rss------bug_bounty-5) 
+ - 💯March 27, 2026 - [How a Routine Security Review Turned Into a Full Supply Chain Risk Discovery](https://medium.com/@mothersamantha/how-a-routine-security-review-turned-into-a-full-supply-chain-risk-discovery-02cac53fe174?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
