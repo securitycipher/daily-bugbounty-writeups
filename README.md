@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 31, 2026 - [Network Pentesting: 15 Tools to Map Internal Infrastructure Like a Pro](https://medium.com/@verylazytech/network-pentesting-15-tools-to-map-internal-infrastructure-like-a-pro-7f5a00ae04ae?source=rss------bug_bounty-5) 
+ - 💯April 1, 2026 - [CVE-2026–24018: A Logic flaw to Local Privilege Escalation 0day $$](https://febinj.medium.com/cve-2026-24018-a-logic-flaw-to-local-privilege-escalation-0day-ff3a3b5bba69?source=rss------bug_bounty-5) 
 
- - 💯March 31, 2026 - [Top 5 Recon Techniques for Bug Bounty](https://medium.com/@riyalimba/top-5-recon-techniques-for-bug-bounty-21b7b9497a65?source=rss------bug_bounty-5) 
+ - 💯April 1, 2026 - [BAC: THE Money-making Machine](https://medium.com/@rajveer_0101/bac-the-money-making-machine-ba1bed9418ca?source=rss------bug_bounty-5) 
 
- - 💯March 31, 2026 - [“Not Applicable” to Victory: How I Escalated a P2 DoS Vulnerability on Bugcrowd](https://infosecwriteups.com/not-applicable-to-victory-how-i-escalated-a-p2-dos-vulnerability-on-bugcrowd-c5fa05ab4727?source=rss------bug_bounty-5) 
+ - 💯April 1, 2026 - [10 Recent Exploits Every Cybersecurity Professional Should Know](https://medium.com/@verylazytech/10-recent-exploits-every-cybersecurity-professional-should-know-29969abec4ba?source=rss------bug_bounty-5) 
 
- - 💯March 31, 2026 - [Critical ATO to P5 ‘Informational’: A Lesson in Threat Models &amp; Bug Bounty Reality](https://infosecwriteups.com/critical-ato-to-p5-informational-a-lesson-in-threat-models-bug-bounty-reality-ef1dffd827b9?source=rss------bug_bounty-5) 
+ - 💯April 1, 2026 - [My First Bug Bounty Report:](https://medium.com/@jmaablogs/my-first-bug-bounty-report-526f34c83ea3?source=rss------bug_bounty-5) 
 
- - 💯March 31, 2026 - [️ This Vulnerability Was Sitting in Front of Everyone — But No One Noticed](https://sukhveersingh97997.medium.com/%EF%B8%8F-this-vulnerability-was-sitting-in-front-of-everyone-but-no-one-noticed-b41d2fe059aa?source=rss------bug_bounty-5) 
+ - 💯April 1, 2026 - [LIVE SESSION TODAY — Host Header Injection Attack Chaining](https://medium.com/@cyberb354/live-session-today-host-header-injection-attack-chaining-8483a848630d?source=rss------bug_bounty-5) 
 
- - 💯March 31, 2026 - [How I Found a Login Brute-Force Vulnerability Due to Missing Rate Limiting](https://pradyumntiwarenexus.medium.com/how-i-found-a-login-brute-force-vulnerability-due-to-missing-rate-limiting-6daa6f76efb3?source=rss------bug_bounty-5) 
+ - 💯April 1, 2026 - [How I Achieved a “Critical Hit” on a Bug Bounty Platform: Bypassing OTP via Response Manipulation](https://evangeliux.medium.com/how-i-achieved-a-critical-hit-on-intigriti-bypassing-otp-via-response-manipulation-c0e6d8416589?source=rss------bug_bounty-5) 
 
- - 💯March 31, 2026 - [Stop watching cybersecurity tutorials. Start thinking like a real pentester.](https://medium.com/@cyberb354/stop-watching-cybersecurity-tutorials-start-thinking-like-a-real-pentester-2e372c14deea?source=rss------bug_bounty-5) 
+ - 💯April 1, 2026 - [You Cannot Hack What You Cannot See—Mapping the Full Attack Surface with Burp Suite](https://osintteam.blog/you-cannot-hack-what-you-cannot-see-mapping-the-full-attack-surface-with-burp-suite-1156d1987f68?source=rss------bug_bounty-5) 
 
- - 💯March 31, 2026 - [AI is Making Hackers Smarter — But Also Easier to Catch](https://medium.com/@paritoshblogs/ai-is-making-hackers-smarter-but-also-easier-to-catch-68efa37476b2?source=rss------bug_bounty-5) 
+ - 💯April 1, 2026 - [Network Testing: Core Networking &lpar;Foundation&rpar; part 3](https://osintteam.blog/network-testing-core-networking-foundation-part-3-f48808cf3f13?source=rss------bug_bounty-5) 
 
- - 💯March 31, 2026 - [How to Learn Web &amp; API Hacking in 2026: The Complete Roadmap](https://infosecwriteups.com/how-to-learn-web-api-hacking-in-2026-the-complete-roadmap-4225510adf4d?source=rss------bug_bounty-5) 
-
- - 💯March 31, 2026 - [Bug Bounty Roadmap for Beginners &lpar;2026&rpar;: From Zero to Your First Vulnerability](https://medium.com/@swarupinfotech1/bug-bounty-roadmap-for-beginners-2026-from-zero-to-your-first-vulnerability-7c97569e847d?source=rss------bug_bounty-5) 
+ - 💯April 1, 2026 - [From Dependency to Domain Compromise: How One Install Can Take Down Everything](https://medium.com/@paritoshblogs/from-dependency-to-domain-compromise-how-one-install-can-take-down-everything-800365def469?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
