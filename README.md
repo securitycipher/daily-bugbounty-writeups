@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯April 2, 2026 - [Why I Started Medium](https://medium.com/@monasx0/why-i-started-medium-061c6b9248fe?source=rss------bug_bounty-5) 
+ - 💯April 3, 2026 - [Red Team Automation: 12 Scripts That Save Hours &lpar;and Win Real Engagements&rpar;](https://medium.com/@verylazytech/red-team-automation-12-scripts-that-save-hours-and-win-real-engagements-4e52c49579bc?source=rss------bug_bounty-5) 
 
- - 💯April 2, 2026 - [Admin Portal Hijacking — Bug Bounty Writeup](https://the7th.medium.com/admin-portal-hijacking-bug-bounty-writeup-9c2afc43dcea?source=rss------bug_bounty-5) 
+ - 💯April 3, 2026 - [Password Strength Policy Bypass via Server-Side Validation Flaw](https://medium.com/@rrozif96/password-strength-policy-bypass-via-server-side-validation-flaw-2279c2e167db?source=rss------bug_bounty-5) 
 
- - 💯April 2, 2026 - [My VAPT Intern Interview Experience — From LinkedIn Application to Selection](https://medium.com/@shadow_28/my-vapt-intern-interview-experience-from-linkedin-application-to-selection-5d5c6949e1af?source=rss------bug_bounty-5) 
+ - 💯April 3, 2026 - [Logout Vulnerabilities Explained: 13 Critical Security Tests Every Hacker Must Know](https://pradyumntiwarenexus.medium.com/logout-vulnerabilities-explained-13-critical-security-tests-every-hacker-must-know-46db9038540a?source=rss------bug_bounty-5) 
 
- - 💯April 2, 2026 - [Hunting for IDORs: How I Accessed PII on a Popular Ticketing Site!](https://medium.com/@vanshrathore64/hunting-for-idors-how-i-accessed-pii-on-a-popular-ticketing-site-d7aa5f9542f2?source=rss------bug_bounty-5) 
+ - 💯April 3, 2026 - [HTTPX + DNSX Live Hosts Filter Karo aur DNS Secrets Nikalo! &lpar;Hinglish Mein&rpar;](https://medium.com/@HackerMD/httpx-dnsx-live-hosts-filter-karo-aur-dns-secrets-nikalo-hinglish-mein-64e80ba0ff14?source=rss------bug_bounty-5) 
 
- - 💯April 2, 2026 - [From APK to Firebase Tokens: Analyzing a Hardcoded API Key in an Android App](https://medium.com/@basithkpabdul25/from-apk-to-firebase-tokens-analyzing-a-hardcoded-api-key-in-an-android-app-486dadfeb0a5?source=rss------bug_bounty-5) 
+ - 💯April 3, 2026 - [CWD-Based Module Hijacking in Python pymanager &lpar;CVE-2026-5271&rpar;](https://letchupkt.medium.com/cwd-based-module-hijacking-in-python-pymanager-cve-2026-5271-2fb57bbc65eb?source=rss------bug_bounty-5) 
 
- - 💯April 2, 2026 - [My Bug Bounty Journey #5: Changing Page Content with HTML Injection](https://medium.com/@awchjimmy/my-bug-bounty-journey-5-changing-page-content-with-html-injection-338bb843396d?source=rss------bug_bounty-5) 
+ - 💯April 3, 2026 - [Total Bounty $3,000: Bagaimana Celah Logika Sederhana yang Terlewatkan Menjadi Tambang Emas di Bug…](https://medium.com/@MrPlufy/total-bounty-3-000-bagaimana-celah-logika-sederhana-yang-terlewatkan-menjadi-tambang-emas-di-bug-9a00c45307be?source=rss------bug_bounty-5) 
 
- - 💯April 1, 2026 - [Burp-Only IDOR Hunting — Find Broken Authorization Without Fancy Tools](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/burp-only-idor-hunting-find-broken-authorization-without-fancy-tools-efc9f9f4cc52?source=rss------bug_bounty-5) 
+ - 💯April 3, 2026 - [OTP Bombing](https://d0natel00.medium.com/otp-bombing-b8ef3763b327?source=rss------bug_bounty-5) 
 
- - 💯April 1, 2026 - [How I Got My First Bounty $$](https://medium.com/@eemadsaad652/how-i-got-my-first-bounty-e79e0e0887bf?source=rss------bug_bounty-5) 
+ - 💯April 2, 2026 - [Advanced IDOR Guide: How to Find and Exploit Broken Access Control in Modern APIs](https://medium.com/@ExploitX/beyond-idor-the-ultimate-guide-to-advanced-broken-access-control-in-modern-applications-47bdd952fbd2?source=rss------bug_bounty-5) 
 
- - 💯April 1, 2026 - [One Mobile Number = Full Wishlist Takeover &lpar;No Authentication Required&rpar;](https://medium.com/@GERRR4Y/one-mobile-number-full-wishlist-takeover-no-authentication-required-16f92ac74e2d?source=rss------bug_bounty-5) 
+ - 💯April 2, 2026 - [How I Found a Critical SAML Authentication Bypasson a Major Automotive Company&#39;s Dealer Portal](https://ousski.medium.com/how-i-found-a-critical-saml-authentication-bypass-848b1a33172e?source=rss------bug_bounty-5) 
 
- - 💯April 1, 2026 - [Breaking It During a Hackathon](https://medium.com/@debang5hu/breaking-it-during-a-hackathon-bb2f56da2ab7?source=rss------bug_bounty-5) 
+ - 💯April 2, 2026 - [AmassAdvanced Recon Mastery: Attack Surface Ko Poora Expose Karo! &lpar;Hinglish Mein&rpar;](https://medium.com/@HackerMD/amassadvanced-recon-mastery-attack-surface-ko-poora-expose-karo-7469d748a990?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
