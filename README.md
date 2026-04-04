@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯April 3, 2026 - [Red Team Automation: 12 Scripts That Save Hours &lpar;and Win Real Engagements&rpar;](https://medium.com/@verylazytech/red-team-automation-12-scripts-that-save-hours-and-win-real-engagements-4e52c49579bc?source=rss------bug_bounty-5) 
+ - 💯April 4, 2026 - [Beyond the CVE: What I Learned While Hunting Bugs and Jobs Simultaneously](https://medium.com/@ruslansemchenko/beyond-the-cve-what-i-learned-while-hunting-bugs-and-jobs-simultaneously-26f64fae3eeb?source=rss------bug_bounty-5) 
 
- - 💯April 3, 2026 - [Password Strength Policy Bypass via Server-Side Validation Flaw](https://medium.com/@rrozif96/password-strength-policy-bypass-via-server-side-validation-flaw-2279c2e167db?source=rss------bug_bounty-5) 
+ - 💯April 4, 2026 - [Stop Wasting Time on Scanners — This Is How Real Hackers Find Vulnerabilities](https://medium.com/@0xAbhiSec/stop-wasting-time-on-scanners-this-is-how-real-hackers-find-vulnerabilities-3ace6b7d9062?source=rss------bug_bounty-5) 
 
- - 💯April 3, 2026 - [Logout Vulnerabilities Explained: 13 Critical Security Tests Every Hacker Must Know](https://pradyumntiwarenexus.medium.com/logout-vulnerabilities-explained-13-critical-security-tests-every-hacker-must-know-46db9038540a?source=rss------bug_bounty-5) 
+ - 💯April 4, 2026 - [WHY MOST RECON IS USELESS](https://medium.com/@lazyhackerbd/why-most-recon-is-useless-44365c4ad6e3?source=rss------bug_bounty-5) 
 
- - 💯April 3, 2026 - [HTTPX + DNSX Live Hosts Filter Karo aur DNS Secrets Nikalo! &lpar;Hinglish Mein&rpar;](https://medium.com/@HackerMD/httpx-dnsx-live-hosts-filter-karo-aur-dns-secrets-nikalo-hinglish-mein-64e80ba0ff14?source=rss------bug_bounty-5) 
+ - 💯April 4, 2026 - [Shodan + Censys Internet Ka X-Ray: Bina Scan Kiye Sab Kuch Dekho! &lpar;Hinglish Mein&rpar;](https://medium.com/@HackerMD/shodan-censys-internet-ka-x-ray-bina-scan-kiye-sab-kuch-dekho-hinglish-mein-becb216523f9?source=rss------bug_bounty-5) 
 
- - 💯April 3, 2026 - [CWD-Based Module Hijacking in Python pymanager &lpar;CVE-2026-5271&rpar;](https://letchupkt.medium.com/cwd-based-module-hijacking-in-python-pymanager-cve-2026-5271-2fb57bbc65eb?source=rss------bug_bounty-5) 
+ - 💯April 4, 2026 - [Analyzing a High-Severity SQL Injection Vulnerability in a Production Environment &lpar;Silently…](https://medium.com/@vanshrathore64/analyzing-a-high-severity-sql-injection-vulnerability-in-a-production-environment-silently-7533210c7125?source=rss------bug_bounty-5) 
 
- - 💯April 3, 2026 - [Total Bounty $3,000: Bagaimana Celah Logika Sederhana yang Terlewatkan Menjadi Tambang Emas di Bug…](https://medium.com/@MrPlufy/total-bounty-3-000-bagaimana-celah-logika-sederhana-yang-terlewatkan-menjadi-tambang-emas-di-bug-9a00c45307be?source=rss------bug_bounty-5) 
+ - 💯April 4, 2026 - [How I Got Unauthorized Access to Staging Environments via Search API Misconfiguration](https://medium.com/@sunny561/how-i-got-unauthorized-access-to-staging-environments-via-search-api-misconfiguration-27688f4d750a?source=rss------bug_bounty-5) 
 
- - 💯April 3, 2026 - [OTP Bombing](https://d0natel00.medium.com/otp-bombing-b8ef3763b327?source=rss------bug_bounty-5) 
+ - 💯April 4, 2026 - [Nmap Port Scanning Zero Se Advanced: Target Ka Poora X-Ray Nikalo! &lpar;Hinglish Mein&rpar;](https://medium.com/@HackerMD/nmap-port-scanning-zero-se-advanced-target-ka-poora-x-ray-nikalo-hinglish-mein-b612f42f7eea?source=rss------bug_bounty-5) 
 
- - 💯April 2, 2026 - [Advanced IDOR Guide: How to Find and Exploit Broken Access Control in Modern APIs](https://medium.com/@ExploitX/beyond-idor-the-ultimate-guide-to-advanced-broken-access-control-in-modern-applications-47bdd952fbd2?source=rss------bug_bounty-5) 
+ - 💯April 4, 2026 - [I Built a Chrome Extension That Finds Exposed Secrets in JavaScript Files](https://saconychukwu.medium.com/i-built-a-chrome-extension-that-finds-exposed-secrets-in-javascript-files-bdbefe94f0ab?source=rss------bug_bounty-5) 
 
- - 💯April 2, 2026 - [How I Found a Critical SAML Authentication Bypasson a Major Automotive Company&#39;s Dealer Portal](https://ousski.medium.com/how-i-found-a-critical-saml-authentication-bypass-848b1a33172e?source=rss------bug_bounty-5) 
+ - 💯April 4, 2026 - [SSH Brute-Force Attacks Explained &lpar;Hydra &amp; Patator&rpar; — What to Test &amp; How to Defend](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/ssh-brute-force-attacks-explained-hydra-patator-what-to-test-how-to-defend-294f4c71a4de?source=rss------bug_bounty-5) 
 
- - 💯April 2, 2026 - [AmassAdvanced Recon Mastery: Attack Surface Ko Poora Expose Karo! &lpar;Hinglish Mein&rpar;](https://medium.com/@HackerMD/amassadvanced-recon-mastery-attack-surface-ko-poora-expose-karo-7469d748a990?source=rss------bug_bounty-5) 
+ - 💯April 4, 2026 - [SQL Injection UNION Attack: Retrieving Multiple Values in a Single Column](https://medium.com/@mohamed1245/sql-injection-union-attack-retrieving-multiple-values-in-a-single-column-fb67cebc9e68?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
