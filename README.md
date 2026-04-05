@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯April 4, 2026 - [Beyond the CVE: What I Learned While Hunting Bugs and Jobs Simultaneously](https://medium.com/@ruslansemchenko/beyond-the-cve-what-i-learned-while-hunting-bugs-and-jobs-simultaneously-26f64fae3eeb?source=rss------bug_bounty-5) 
+ - 💯April 5, 2026 - [Phishing Toolkit Review: 15 Tools in 2026 Every Cybersecurity Pro Should Know](https://medium.com/@verylazytech/phishing-toolkit-review-15-tools-in-2026-every-cybersecurity-pro-should-know-d0a97262f890?source=rss------bug_bounty-5) 
 
- - 💯April 4, 2026 - [Stop Wasting Time on Scanners — This Is How Real Hackers Find Vulnerabilities](https://medium.com/@0xAbhiSec/stop-wasting-time-on-scanners-this-is-how-real-hackers-find-vulnerabilities-3ace6b7d9062?source=rss------bug_bounty-5) 
+ - 💯April 5, 2026 - [ATO in Bug Bounty: From Passive Recon to an ATO and a Reward](https://medium.com/@vanshrathore64/ato-in-bug-bounty-from-passive-recon-to-an-ato-and-a-reward-8ab9cae4e90f?source=rss------bug_bounty-5) 
 
- - 💯April 4, 2026 - [WHY MOST RECON IS USELESS](https://medium.com/@lazyhackerbd/why-most-recon-is-useless-44365c4ad6e3?source=rss------bug_bounty-5) 
+ - 💯April 5, 2026 - [IDOR: Unauthorized Invoice Access on a Major Job Portal](https://medium.com/@robisubagja158/idor-unauthorized-invoice-access-on-a-major-job-portal-6509f0a3be07?source=rss------bug_bounty-5) 
 
- - 💯April 4, 2026 - [Shodan + Censys Internet Ka X-Ray: Bina Scan Kiye Sab Kuch Dekho! &lpar;Hinglish Mein&rpar;](https://medium.com/@HackerMD/shodan-censys-internet-ka-x-ray-bina-scan-kiye-sab-kuch-dekho-hinglish-mein-becb216523f9?source=rss------bug_bounty-5) 
+ - 💯April 5, 2026 - [How I got my first Hall of Fame — A stepping stone in bug bounty](https://medium.com/@khajafaizuddinsyed123/how-i-got-my-first-hall-of-fame-a-stepping-stone-in-bug-bounty-04a51047e30d?source=rss------bug_bounty-5) 
 
- - 💯April 4, 2026 - [Analyzing a High-Severity SQL Injection Vulnerability in a Production Environment &lpar;Silently…](https://medium.com/@vanshrathore64/analyzing-a-high-severity-sql-injection-vulnerability-in-a-production-environment-silently-7533210c7125?source=rss------bug_bounty-5) 
+ - 💯April 5, 2026 - [Stop Hunting Blind: Build a Structured Bug Bounty Workflow](https://medium.com/@baler3ion/stop-hunting-blind-build-a-structured-bug-bounty-workflow-620b16887368?source=rss------bug_bounty-5) 
 
- - 💯April 4, 2026 - [How I Got Unauthorized Access to Staging Environments via Search API Misconfiguration](https://medium.com/@sunny561/how-i-got-unauthorized-access-to-staging-environments-via-search-api-misconfiguration-27688f4d750a?source=rss------bug_bounty-5) 
+ - 💯April 4, 2026 - [TryHackMe LazyAdmin Walkthrough: Step-by-Step Writeup](https://medium.com/@5um1t0x/tryhackme-lazyadmin-walkthrough-step-by-step-writeup-9c213eb66f08?source=rss------bug_bounty-5) 
 
- - 💯April 4, 2026 - [Nmap Port Scanning Zero Se Advanced: Target Ka Poora X-Ray Nikalo! &lpar;Hinglish Mein&rpar;](https://medium.com/@HackerMD/nmap-port-scanning-zero-se-advanced-target-ka-poora-x-ray-nikalo-hinglish-mein-b612f42f7eea?source=rss------bug_bounty-5) 
+ - 💯April 4, 2026 - [Disclose Facebook Private Groups Appealed Content](https://mustafa0x2021.medium.com/disclose-facebook-private-groups-appealed-content-a37231d9bb72?source=rss------bug_bounty-5) 
 
- - 💯April 4, 2026 - [I Built a Chrome Extension That Finds Exposed Secrets in JavaScript Files](https://saconychukwu.medium.com/i-built-a-chrome-extension-that-finds-exposed-secrets-in-javascript-files-bdbefe94f0ab?source=rss------bug_bounty-5) 
+ - 💯April 4, 2026 - [Finding Unique Fingerprint Keywords for FOFA, Shodan, ZoomEye, Censys, MODAT &amp; Hunter.how](https://wolfsec1337.medium.com/finding-unique-fingerprint-keywords-for-fofa-shodan-zoomeye-censys-modat-hunter-how-5198993c1bca?source=rss------bug_bounty-5) 
 
- - 💯April 4, 2026 - [SSH Brute-Force Attacks Explained &lpar;Hydra &amp; Patator&rpar; — What to Test &amp; How to Defend](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/ssh-brute-force-attacks-explained-hydra-patator-what-to-test-how-to-defend-294f4c71a4de?source=rss------bug_bounty-5) 
+ - 💯April 4, 2026 - [Blind SQL Injection in Private Program Leads to $2,100 Bounty](https://medium.com/@sachinaneja/blind-sql-injection-in-private-program-leads-to-2-100-bounty-a7e11e775919?source=rss------bug_bounty-5) 
 
- - 💯April 4, 2026 - [SQL Injection UNION Attack: Retrieving Multiple Values in a Single Column](https://medium.com/@mohamed1245/sql-injection-union-attack-retrieving-multiple-values-in-a-single-column-fb67cebc9e68?source=rss------bug_bounty-5) 
+ - 💯April 4, 2026 - [Xalgorix: The Most Powerful Open-Source AI Pentesting Agent You Need to Know About](https://infosecwriteups.com/xalgorix-the-most-powerful-open-source-ai-pentesting-agent-you-need-to-know-about-35ccd23c6407?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
