@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯April 5, 2026 - [Phishing Toolkit Review: 15 Tools in 2026 Every Cybersecurity Pro Should Know](https://medium.com/@verylazytech/phishing-toolkit-review-15-tools-in-2026-every-cybersecurity-pro-should-know-d0a97262f890?source=rss------bug_bounty-5) 
+ - 💯April 6, 2026 - [Password Spraying Campaigns: 12 Lessons Learned to Outsmart Attackers and Secure Your Org](https://medium.com/@verylazytech/password-spraying-campaigns-12-lessons-learned-to-outsmart-attackers-and-secure-your-org-ed22a658e75e?source=rss------bug_bounty-5) 
 
- - 💯April 5, 2026 - [ATO in Bug Bounty: From Passive Recon to an ATO and a Reward](https://medium.com/@vanshrathore64/ato-in-bug-bounty-from-passive-recon-to-an-ato-and-a-reward-8ab9cae4e90f?source=rss------bug_bounty-5) 
+ - 💯April 6, 2026 - [[CMSpit] — Cockpit CMS RCE, MongoDB Exposure and Privilege Escalation via Vulnerable ExifTool](https://osintteam.blog/cmspit-cockpit-cms-rce-mongodb-exposure-and-privilege-escalation-via-vulnerable-exiftool-d4838c44c2a7?source=rss------bug_bounty-5) 
 
- - 💯April 5, 2026 - [IDOR: Unauthorized Invoice Access on a Major Job Portal](https://medium.com/@robisubagja158/idor-unauthorized-invoice-access-on-a-major-job-portal-6509f0a3be07?source=rss------bug_bounty-5) 
+ - 💯April 6, 2026 - [Bug Bounty: JSONP Callback Vulnerability Explained](https://securitytalent.medium.com/bug-bounty-jsonp-callback-vulnerability-explained-d59b39a89067?source=rss------bug_bounty-5) 
 
- - 💯April 5, 2026 - [How I got my first Hall of Fame — A stepping stone in bug bounty](https://medium.com/@khajafaizuddinsyed123/how-i-got-my-first-hall-of-fame-a-stepping-stone-in-bug-bounty-04a51047e30d?source=rss------bug_bounty-5) 
+ - 💯April 6, 2026 - [Bug Bounties in the AI Era: New Attack Surfaces, New Opportunities](https://bevijaygupta.medium.com/bug-bounties-in-the-ai-era-new-attack-surfaces-new-opportunities-633903136b0b?source=rss------bug_bounty-5) 
 
- - 💯April 5, 2026 - [Stop Hunting Blind: Build a Structured Bug Bounty Workflow](https://medium.com/@baler3ion/stop-hunting-blind-build-a-structured-bug-bounty-workflow-620b16887368?source=rss------bug_bounty-5) 
+ - 💯April 6, 2026 - [What I Do After Gaining Initial Access &lpar;SSH → Real Impact&rpar;](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/what-i-do-after-gaining-initial-access-ssh-real-impact-0492d9f15bdf?source=rss------bug_bounty-5) 
 
- - 💯April 4, 2026 - [TryHackMe LazyAdmin Walkthrough: Step-by-Step Writeup](https://medium.com/@5um1t0x/tryhackme-lazyadmin-walkthrough-step-by-step-writeup-9c213eb66f08?source=rss------bug_bounty-5) 
+ - 💯April 5, 2026 - [Linux Feels Impossible… Until You Learn These 7 Secrets Hackers Never Tell You](https://osintteam.blog/linux-feels-impossible-until-you-learn-these-7-secrets-hackers-never-tell-you-28c954126937?source=rss------bug_bounty-5) 
 
- - 💯April 4, 2026 - [Disclose Facebook Private Groups Appealed Content](https://mustafa0x2021.medium.com/disclose-facebook-private-groups-appealed-content-a37231d9bb72?source=rss------bug_bounty-5) 
+ - 💯April 5, 2026 - [How I Found a Critical Precision Loss in Kuru Labs Using Foundry Fuzzin](https://blog.blockmagnates.com/how-i-found-a-critical-precision-loss-in-kuru-labs-using-foundry-fuzzin-cc0b0cf1a615?source=rss------bug_bounty-5) 
 
- - 💯April 4, 2026 - [Finding Unique Fingerprint Keywords for FOFA, Shodan, ZoomEye, Censys, MODAT &amp; Hunter.how](https://wolfsec1337.medium.com/finding-unique-fingerprint-keywords-for-fofa-shodan-zoomeye-censys-modat-hunter-how-5198993c1bca?source=rss------bug_bounty-5) 
+ - 💯April 5, 2026 - [Critical Logic Vulnerability : Authentication Downgrade](https://medium.com/@alshamye309/critical-logic-vulnerability-authentication-downgrade-143ddda29ab2?source=rss------bug_bounty-5) 
 
- - 💯April 4, 2026 - [Blind SQL Injection in Private Program Leads to $2,100 Bounty](https://medium.com/@sachinaneja/blind-sql-injection-in-private-program-leads-to-2-100-bounty-a7e11e775919?source=rss------bug_bounty-5) 
+ - 💯April 5, 2026 - [SentryQ — How I Built a Local-AI Powered Security Scanner](https://medium.com/@gauravjha68535/sentryq-how-i-built-a-local-ai-powered-security-scanner-bc791e67e396?source=rss------bug_bounty-5) 
 
- - 💯April 4, 2026 - [Xalgorix: The Most Powerful Open-Source AI Pentesting Agent You Need to Know About](https://infosecwriteups.com/xalgorix-the-most-powerful-open-source-ai-pentesting-agent-you-need-to-know-about-35ccd23c6407?source=rss------bug_bounty-5) 
+ - 💯April 5, 2026 - [Information Disclosure Through Unrestricted API Endpoints](https://medium.com/@Dr_Robik/information-disclosure-through-unrestricted-api-endpoints-f56f94480b9c?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
