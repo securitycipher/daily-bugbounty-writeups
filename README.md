@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯April 9, 2026 - [When &quot;Duplicate&quot; is an affirmation of your skill.](https://medium.com/@will.star/when-duplicate-is-an-affirmation-of-your-skill-9d1261e3f6b2?source=rss------bug_bounty-5) 
+ - 💯April 10, 2026 - [Top 20 Kali Linux Tools for Bug Bounty &lpar;Professional Guide&rpar;](https://medium.com/@pradeeptadi03/top-20-kali-linux-tools-for-bug-bounty-professional-guide-23760909aab0?source=rss------bug_bounty-5) 
 
- - 💯April 9, 2026 - [️ The 2026 Web3 Security Roadmap](https://hunterx461.medium.com/%EF%B8%8F-the-2026-web3-security-roadmap-aeb45011b9a5?source=rss------bug_bounty-5) 
+ - 💯April 10, 2026 - [Blind SQL Injection with Conditional Responses](https://medium.com/@mohamed1245/blind-sql-injection-with-conditional-responses-a4afc4ff0e31?source=rss------bug_bounty-5) 
 
- - 💯April 9, 2026 - [My Bug Bounty Journey #8: How an Unintentional Mistake Led to a Floor Plan Leak](https://medium.com/@awchjimmy/my-bug-bounty-journey-8-how-an-unintentional-mistake-led-to-a-floor-plan-leak-1dafa8e00a79?source=rss------bug_bounty-5) 
+ - 💯April 10, 2026 - [RSS Feed Validator to RCE](https://medium.com/@anonanoon9/rss-validator-to-rce-4e4bd2451b0b?source=rss------bug_bounty-5) 
 
- - 💯April 9, 2026 - [403 Forbidden Bypass — Manual Techniques &amp; Tools &lpar;Real Bug Bounty Guide&rpar;](https://medium.com/@pradeeptadi03/403-forbidden-bypass-manual-techniques-tools-real-bug-bounty-guide-459b1ab4405e?source=rss------bug_bounty-5) 
+ - 💯April 10, 2026 - [My Bug Bounty Journey #9: Account Takeover via JWT Misconfiguration](https://medium.com/@awchjimmy/my-bug-bounty-journey-9-account-takeover-via-jwt-misconfiguration-4f4b4ed47360?source=rss------bug_bounty-5) 
 
- - 💯April 8, 2026 - [Remote | HackTheBox | Walthrough | OSCP Preparation](https://medium.com/@SilentExploit/remote-hackthebox-walthrough-oscp-preparation-dafad5eb28e1?source=rss------bug_bounty-5) 
+ - 💯April 10, 2026 - [From Signal to Impact — How I Turn Findings Into High/Critical Reports](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/from-signal-to-impact-how-i-turn-findings-into-high-critical-reports-23f876fd9e4b?source=rss------bug_bounty-5) 
 
- - 💯April 8, 2026 - [How I Discovered a Blind SQL Injection in a Private program](https://medium.com/@mrx_w_/how-i-discovered-a-blind-sql-injection-in-a-private-program-7eebd77ad286?source=rss------bug_bounty-5) 
+ - 💯April 10, 2026 - [Guía de Vulnerabilidades de File Upload: Técnicas de Pentesting y RCE](https://medium.com/@jpablo13/gu%C3%ADa-de-vulnerabilidades-de-file-upload-t%C3%A9cnicas-de-pentesting-y-rce-7ae2621a4944?source=rss------bug_bounty-5) 
 
- - 💯April 8, 2026 - [Tryhackme Write-up: Corp Website &lpar;Romance and Co&rpar; 2026](https://medium.com/@dayviddias7/tryhackme-write-up-corp-website-romance-and-co-2026-63c97a11cf9c?source=rss------bug_bounty-5) 
+ - 💯April 9, 2026 - [Day Zero: The Story Behind My Bug Bounty Journey](https://smartpicks4u.medium.com/day-zero-the-story-behind-my-bug-bounty-journey-173f2d57c499?source=rss------bug_bounty-5) 
 
- - 💯April 8, 2026 - [Stop Guessing XSS Payloads](https://medium.com/@marduk.i.am/stop-guessing-xss-payloads-881cad409624?source=rss------bug_bounty-5) 
+ - 💯April 9, 2026 - [Mastering Metasploit Framework — From Zero to Controlled Exploitation &lpar;Beginner → Operator&rpar;](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/mastering-metasploit-framework-from-zero-to-controlled-exploitation-beginner-operator-17fee810ac10?source=rss------bug_bounty-5) 
 
- - 💯April 8, 2026 - [Water Bottle Tryhackme Writeup](https://medium.com/pen-te3h/water-bottle-tryhackme-writeup-6804e39a8ee9?source=rss------bug_bounty-5) 
+ - 💯April 9, 2026 - [5 Ways I Found PII Disclosures in the Wild: Real Case Studies](https://scriptjacker.medium.com/5-ways-i-found-pii-disclosures-in-the-wild-real-case-studies-14429c54264f?source=rss------bug_bounty-5) 
+
+ - 💯April 9, 2026 - [Spotify’s Playlist Search Has a Sneaky State Bug](https://avinashkratnam.medium.com/spotifys-playlist-search-has-a-sneaky-state-bug-1ec437981c3b?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
