@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯April 10, 2026 - [Top 20 Kali Linux Tools for Bug Bounty &lpar;Professional Guide&rpar;](https://medium.com/@pradeeptadi03/top-20-kali-linux-tools-for-bug-bounty-professional-guide-23760909aab0?source=rss------bug_bounty-5) 
+ - 💯April 11, 2026 - [The 15 High-Value Bug Classes That Actually Pay in Bug Bounty &lpar;2026&rpar;](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/the-15-high-value-bug-classes-that-actually-pay-in-bug-bounty-2026-32a06f8b97eb?source=rss------bug_bounty-5) 
 
- - 💯April 10, 2026 - [Blind SQL Injection with Conditional Responses](https://medium.com/@mohamed1245/blind-sql-injection-with-conditional-responses-a4afc4ff0e31?source=rss------bug_bounty-5) 
+ - 💯April 11, 2026 - [[CMesS] — Gila CMS 1.10.9](https://infosecwriteups.com/cmess-gila-cms-1-10-9-11ed31a8cd2d?source=rss------bug_bounty-5) 
 
- - 💯April 10, 2026 - [RSS Feed Validator to RCE](https://medium.com/@anonanoon9/rss-validator-to-rce-4e4bd2451b0b?source=rss------bug_bounty-5) 
+ - 💯April 11, 2026 - [OTP Bypass Menuju Account Takeover via Response Manipulation](https://nervhym.medium.com/otp-bypass-menuju-account-takeover-via-response-manipulation-905e33771387?source=rss------bug_bounty-5) 
 
- - 💯April 10, 2026 - [My Bug Bounty Journey #9: Account Takeover via JWT Misconfiguration](https://medium.com/@awchjimmy/my-bug-bounty-journey-9-account-takeover-via-jwt-misconfiguration-4f4b4ed47360?source=rss------bug_bounty-5) 
+ - 💯April 11, 2026 - [Guide to File Upload Vulnerabilities: Penetration Testing and RCE Techniques](https://medium.com/@jpablo13/guide-to-file-upload-vulnerabilities-penetration-testing-and-rce-techniques-1cc5f2ffc292?source=rss------bug_bounty-5) 
 
- - 💯April 10, 2026 - [From Signal to Impact — How I Turn Findings Into High/Critical Reports](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/from-signal-to-impact-how-i-turn-findings-into-high-critical-reports-23f876fd9e4b?source=rss------bug_bounty-5) 
+ - 💯April 10, 2026 - [How I Do Subdomain Enumeration &lpar;Beginner-Friendly Guide&rpar;](https://medium.com/@riyalimba/how-i-do-subdomain-enumeration-beginner-friendly-guide-8ec779a47fff?source=rss------bug_bounty-5) 
 
- - 💯April 10, 2026 - [Guía de Vulnerabilidades de File Upload: Técnicas de Pentesting y RCE](https://medium.com/@jpablo13/gu%C3%ADa-de-vulnerabilidades-de-file-upload-t%C3%A9cnicas-de-pentesting-y-rce-7ae2621a4944?source=rss------bug_bounty-5) 
+ - 💯April 10, 2026 - [The Increasing Role of AI in Vulnerability Research](https://wordfence.medium.com/the-increasing-role-of-ai-in-vulnerability-research-d4c25b4eba49?source=rss------bug_bounty-5) 
 
- - 💯April 9, 2026 - [Day Zero: The Story Behind My Bug Bounty Journey](https://smartpicks4u.medium.com/day-zero-the-story-behind-my-bug-bounty-journey-173f2d57c499?source=rss------bug_bounty-5) 
+ - 💯April 10, 2026 - [Mastering Server-Side Request Forgery &lpar;SSRF&rpar; — From Basic Exploitation to Advanced Bypasses](https://sharonchristin193.medium.com/mastering-server-side-request-forgery-ssrf-from-basic-exploitation-to-advanced-bypasses-81cf2ebb9d88?source=rss------bug_bounty-5) 
 
- - 💯April 9, 2026 - [Mastering Metasploit Framework — From Zero to Controlled Exploitation &lpar;Beginner → Operator&rpar;](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/mastering-metasploit-framework-from-zero-to-controlled-exploitation-beginner-operator-17fee810ac10?source=rss------bug_bounty-5) 
+ - 💯April 10, 2026 - [Why Everyday Objects Serve as Effective References for Solving Software Problems](https://medium.com/@daniel.salvaloza0x1337/why-everyday-objects-serve-as-effective-references-for-solving-software-problems-959443d8eb52?source=rss------bug_bounty-5) 
 
- - 💯April 9, 2026 - [5 Ways I Found PII Disclosures in the Wild: Real Case Studies](https://scriptjacker.medium.com/5-ways-i-found-pii-disclosures-in-the-wild-real-case-studies-14429c54264f?source=rss------bug_bounty-5) 
+ - 💯April 10, 2026 - [Craft Agent’ta kritik path traversal: STORE_ATTACHMENT üzerinden arbitrary file write](https://medium.com/@xeloxa/craft-agentta-kritik-path-traversal-store-attachment-%C3%BCzerinden-arbitrary-file-write-2af851160bf6?source=rss------bug_bounty-5) 
 
- - 💯April 9, 2026 - [Spotify’s Playlist Search Has a Sneaky State Bug](https://avinashkratnam.medium.com/spotifys-playlist-search-has-a-sneaky-state-bug-1ec437981c3b?source=rss------bug_bounty-5) 
+ - 💯April 10, 2026 - [Exploiting Race Conditions to Bypass Platform Limits](https://medium.com/@montaser_mohsen/exploiting-race-conditions-to-bypass-platform-limits-06ccc9c9c03a?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
