@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯April 11, 2026 - [The 15 High-Value Bug Classes That Actually Pay in Bug Bounty &lpar;2026&rpar;](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/the-15-high-value-bug-classes-that-actually-pay-in-bug-bounty-2026-32a06f8b97eb?source=rss------bug_bounty-5) 
+ - 💯April 12, 2026 - [Secrets in Source Code: 10 Ways to Find Them &lpar;Step-by-Step Master Guide&rpar;](https://medium.com/@verylazytech/secrets-in-source-code-10-ways-to-find-them-step-by-step-master-guide-f071a796a653?source=rss------bug_bounty-5) 
 
- - 💯April 11, 2026 - [[CMesS] — Gila CMS 1.10.9](https://infosecwriteups.com/cmess-gila-cms-1-10-9-11ed31a8cd2d?source=rss------bug_bounty-5) 
+ - 💯April 12, 2026 - [How I Created 20 Super-Admins in 1 Second: Exploiting a Race Condition in Querybook](https://medium.com/@HackerMD/how-i-created-20-super-admins-in-1-second-exploiting-a-race-condition-in-querybook-73cee916d6f9?source=rss------bug_bounty-5) 
 
- - 💯April 11, 2026 - [OTP Bypass Menuju Account Takeover via Response Manipulation](https://nervhym.medium.com/otp-bypass-menuju-account-takeover-via-response-manipulation-905e33771387?source=rss------bug_bounty-5) 
+ - 💯April 12, 2026 - [App using Cognito for SSO? Use this Methodology to find High Severity Issues](https://infosecwriteups.com/app-using-cognito-for-sso-use-this-methodology-to-find-high-severity-issues-b11a7ecfe0a1?source=rss------bug_bounty-5) 
 
- - 💯April 11, 2026 - [Guide to File Upload Vulnerabilities: Penetration Testing and RCE Techniques](https://medium.com/@jpablo13/guide-to-file-upload-vulnerabilities-penetration-testing-and-rce-techniques-1cc5f2ffc292?source=rss------bug_bounty-5) 
+ - 💯April 12, 2026 - [Broken Access Control &lpar;IDOR&rpar; — Where Most Bug Bounty Money Is Made](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/broken-access-control-idor-where-most-bug-bounty-money-is-made-636f2926bc41?source=rss------bug_bounty-5) 
 
- - 💯April 10, 2026 - [How I Do Subdomain Enumeration &lpar;Beginner-Friendly Guide&rpar;](https://medium.com/@riyalimba/how-i-do-subdomain-enumeration-beginner-friendly-guide-8ec779a47fff?source=rss------bug_bounty-5) 
+ - 💯April 12, 2026 - [Top 10 Critical CVEs from March 2026 — With Learning Resources &amp; Practical Analysis](https://medium.com/@pradeeptadi03/top-10-critical-cves-from-march-2026-with-learning-resources-practical-analysis-3b8077fc1647?source=rss------bug_bounty-5) 
 
- - 💯April 10, 2026 - [The Increasing Role of AI in Vulnerability Research](https://wordfence.medium.com/the-increasing-role-of-ai-in-vulnerability-research-d4c25b4eba49?source=rss------bug_bounty-5) 
+ - 💯April 12, 2026 - [10 Books That Actually Teach You to Think Like a Threat Analyst](https://medium.com/@paritoshblogs/10-books-that-actually-teach-you-to-think-like-a-threat-analyst-5c3915607506?source=rss------bug_bounty-5) 
 
- - 💯April 10, 2026 - [Mastering Server-Side Request Forgery &lpar;SSRF&rpar; — From Basic Exploitation to Advanced Bypasses](https://sharonchristin193.medium.com/mastering-server-side-request-forgery-ssrf-from-basic-exploitation-to-advanced-bypasses-81cf2ebb9d88?source=rss------bug_bounty-5) 
+ - 💯April 12, 2026 - [WHEN &quot;NOT A VULNERABILITY&quot; GETS PATCHED IN 72 HOURS
+By Ahmed Batayneh | March 2026
+I submitted 34…](https://medium.com/@abatayneh96/when-not-a-vulnerability-gets-patched-in-72-hours-by-ahmed-batayneh-march-2026-i-submitted-34-f7610c46f61b?source=rss------bug_bounty-5) 
 
- - 💯April 10, 2026 - [Why Everyday Objects Serve as Effective References for Solving Software Problems](https://medium.com/@daniel.salvaloza0x1337/why-everyday-objects-serve-as-effective-references-for-solving-software-problems-959443d8eb52?source=rss------bug_bounty-5) 
+ - 💯April 11, 2026 - [Bypassing a 403 Using Path Manipulation in Calendly Assets](https://medium.com/@24bkdoor/bypassing-a-403-using-path-manipulation-in-calendly-assets-ab154b86b5d6?source=rss------bug_bounty-5) 
 
- - 💯April 10, 2026 - [Craft Agent’ta kritik path traversal: STORE_ATTACHMENT üzerinden arbitrary file write](https://medium.com/@xeloxa/craft-agentta-kritik-path-traversal-store-attachment-%C3%BCzerinden-arbitrary-file-write-2af851160bf6?source=rss------bug_bounty-5) 
-
- - 💯April 10, 2026 - [Exploiting Race Conditions to Bypass Platform Limits](https://medium.com/@montaser_mohsen/exploiting-race-conditions-to-bypass-platform-limits-06ccc9c9c03a?source=rss------bug_bounty-5) 
+ - 💯April 11, 2026 - [Blind SQL Injection: From Conditional Responses to Out-of-Band Exfiltration](https://medium.com/@ahmedrais.pro/blind-sql-injection-from-conditional-responses-to-out-of-band-exfiltration-67c00e463efa?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
