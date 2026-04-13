@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯April 12, 2026 - [Secrets in Source Code: 10 Ways to Find Them &lpar;Step-by-Step Master Guide&rpar;](https://medium.com/@verylazytech/secrets-in-source-code-10-ways-to-find-them-step-by-step-master-guide-f071a796a653?source=rss------bug_bounty-5) 
+ - 💯April 13, 2026 - [LLM Injection + Unlimited Approval + RCE: The Coinbase AgentKit Attack Chain](https://medium.com/@stevenleath/llm-injection-unlimited-approval-rce-the-coinbase-agentkit-attack-chain-f210226c12b7?source=rss------bug_bounty-5) 
 
- - 💯April 12, 2026 - [How I Created 20 Super-Admins in 1 Second: Exploiting a Race Condition in Querybook](https://medium.com/@HackerMD/how-i-created-20-super-admins-in-1-second-exploiting-a-race-condition-in-querybook-73cee916d6f9?source=rss------bug_bounty-5) 
+ - 💯April 13, 2026 - [Bug Bounty Reporting Masterclass: Real Examples That Got Paid &lpar;Step-by-Step Guide&rpar;](https://medium.com/@verylazytech/bug-bounty-reporting-masterclass-real-examples-that-got-paid-step-by-step-guide-68756d489931?source=rss------bug_bounty-5) 
 
- - 💯April 12, 2026 - [App using Cognito for SSO? Use this Methodology to find High Severity Issues](https://infosecwriteups.com/app-using-cognito-for-sso-use-this-methodology-to-find-high-severity-issues-b11a7ecfe0a1?source=rss------bug_bounty-5) 
+ - 💯April 13, 2026 - [GitHub Dorking for Bug Bounty — How Hackers Find Secrets in Minutes](https://medium.com/@pradeeptadi03/github-dorking-for-bug-bounty-how-hackers-find-secrets-in-minutes-62785a1edae4?source=rss------bug_bounty-5) 
 
- - 💯April 12, 2026 - [Broken Access Control &lpar;IDOR&rpar; — Where Most Bug Bounty Money Is Made](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/broken-access-control-idor-where-most-bug-bounty-money-is-made-636f2926bc41?source=rss------bug_bounty-5) 
+ - 💯April 13, 2026 - [From LinkedIn to Full Account Access in 10 Minutes](https://shrivarshan81.medium.com/from-linkedin-to-full-account-access-in-10-minutes-2bfa2e6f4f60?source=rss------bug_bounty-5) 
 
- - 💯April 12, 2026 - [Top 10 Critical CVEs from March 2026 — With Learning Resources &amp; Practical Analysis](https://medium.com/@pradeeptadi03/top-10-critical-cves-from-march-2026-with-learning-resources-practical-analysis-3b8077fc1647?source=rss------bug_bounty-5) 
+ - 💯April 13, 2026 - [Double Trouble: Finding Both XSS and HTML Injection in an AI Chatbot](https://vanshrathorebughunter.medium.com/double-trouble-finding-both-xss-and-html-injection-in-an-ai-chatbot-9011a9c0bbd6?source=rss------bug_bounty-5) 
 
- - 💯April 12, 2026 - [10 Books That Actually Teach You to Think Like a Threat Analyst](https://medium.com/@paritoshblogs/10-books-that-actually-teach-you-to-think-like-a-threat-analyst-5c3915607506?source=rss------bug_bounty-5) 
+ - 💯April 13, 2026 - [Bug Bounty Hunting — Ethical Hacking for Profit](https://asrbd.medium.com/bug-bounty-hunting-ethical-hacking-for-profit-b8db3793d7a5?source=rss------bug_bounty-5) 
 
- - 💯April 12, 2026 - [WHEN &quot;NOT A VULNERABILITY&quot; GETS PATCHED IN 72 HOURS
-By Ahmed Batayneh | March 2026
-I submitted 34…](https://medium.com/@abatayneh96/when-not-a-vulnerability-gets-patched-in-72-hours-by-ahmed-batayneh-march-2026-i-submitted-34-f7610c46f61b?source=rss------bug_bounty-5) 
+ - 💯April 13, 2026 - [Waybackurls + GAU Purane Endpoints Se Bugs Nikalo: Internet Archive Ka Hacking! &lpar;Hinglish Mein&rpar;](https://medium.com/@HackerMD/waybackurls-gau-purane-endpoints-se-bugs-nikalo-internet-archive-ka-hacking-hinglish-mein-2480cc38a54f?source=rss------bug_bounty-5) 
 
- - 💯April 11, 2026 - [Bypassing a 403 Using Path Manipulation in Calendly Assets](https://medium.com/@24bkdoor/bypassing-a-403-using-path-manipulation-in-calendly-assets-ab154b86b5d6?source=rss------bug_bounty-5) 
+ - 💯April 13, 2026 - [Breaking the Sandbox Boundary: Writing to Replit’s External Supervisor Config From Unprivileged…](https://medium.com/@vashuvats/breaking-the-sandbox-boundary-writing-to-replits-external-supervisor-config-from-unprivileged-2b6879f42914?source=rss------bug_bounty-5) 
 
- - 💯April 11, 2026 - [Blind SQL Injection: From Conditional Responses to Out-of-Band Exfiltration](https://medium.com/@ahmedrais.pro/blind-sql-injection-from-conditional-responses-to-out-of-band-exfiltration-67c00e463efa?source=rss------bug_bounty-5) 
+ - 💯April 13, 2026 - [I Got Tired of Bug Bounty Platforms Reading My Reports — So I Built something different](https://blog.bugbountyhunter.xyz/i-got-tired-of-bug-bounty-platforms-reading-my-reports-so-i-built-something-different-b06b31bb6cf5?source=rss------bug_bounty-5) 
+
+ - 💯April 13, 2026 - [Google Dorks Google Ko Bana Do Apna Hacking Tool: Free Mein Bugs Dhundho! &lpar;Hinglish Mein&rpar;](https://medium.com/@HackerMD/google-dorks-google-ko-bana-do-apna-hacking-tool-free-mein-bugs-dhundho-hinglish-mein-287c3a7ffc75?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
