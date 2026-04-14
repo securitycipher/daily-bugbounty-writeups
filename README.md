@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯April 13, 2026 - [LLM Injection + Unlimited Approval + RCE: The Coinbase AgentKit Attack Chain](https://medium.com/@stevenleath/llm-injection-unlimited-approval-rce-the-coinbase-agentkit-attack-chain-f210226c12b7?source=rss------bug_bounty-5) 
+ - 💯April 14, 2026 - [GraphQL RCE: The Kill Chain to Cloud Identity…!](https://medium.com/@mpjani294/graphql-rce-the-kill-chain-to-cloud-identity-324699602931?source=rss------bug_bounty-5) 
 
- - 💯April 13, 2026 - [Bug Bounty Reporting Masterclass: Real Examples That Got Paid &lpar;Step-by-Step Guide&rpar;](https://medium.com/@verylazytech/bug-bounty-reporting-masterclass-real-examples-that-got-paid-step-by-step-guide-68756d489931?source=rss------bug_bounty-5) 
+ - 💯April 14, 2026 - [Fingerprinting: Identifying Technologies Behind a Target](https://medium.com/@mertbaykal/fingerprinting-identifying-technologies-behind-a-target-60977087b1e8?source=rss------bug_bounty-5) 
 
- - 💯April 13, 2026 - [GitHub Dorking for Bug Bounty — How Hackers Find Secrets in Minutes](https://medium.com/@pradeeptadi03/github-dorking-for-bug-bounty-how-hackers-find-secrets-in-minutes-62785a1edae4?source=rss------bug_bounty-5) 
+ - 💯April 14, 2026 - [I Tricked an AI Into Deleting a User Account &lpar;No Direct Access Needed&rpar;](https://infosecwriteups.com/i-tricked-an-ai-into-deleting-a-user-account-no-direct-access-needed-3d64528a648b?source=rss------bug_bounty-5) 
 
- - 💯April 13, 2026 - [From LinkedIn to Full Account Access in 10 Minutes](https://shrivarshan81.medium.com/from-linkedin-to-full-account-access-in-10-minutes-2bfa2e6f4f60?source=rss------bug_bounty-5) 
+ - 💯April 14, 2026 - [HTTP REQUEST SMUGGLING TO BYPASS FRONT-END SECURITY IN TE.CL](https://medium.com/@rashidsheikh8840/http-request-smuggling-to-bypass-front-end-security-in-te-cl-2cb0fe8a9040?source=rss------bug_bounty-5) 
 
- - 💯April 13, 2026 - [Double Trouble: Finding Both XSS and HTML Injection in an AI Chatbot](https://vanshrathorebughunter.medium.com/double-trouble-finding-both-xss-and-html-injection-in-an-ai-chatbot-9011a9c0bbd6?source=rss------bug_bounty-5) 
+ - 💯April 14, 2026 - [From Forgot Password to Account Takeover: A Simple API Mistake](https://medium.com/@fazriansyahmuhammad22/from-forgot-password-to-account-takeover-a-simple-api-mistake-478e402446a6?source=rss------bug_bounty-5) 
 
- - 💯April 13, 2026 - [Bug Bounty Hunting — Ethical Hacking for Profit](https://asrbd.medium.com/bug-bounty-hunting-ethical-hacking-for-profit-b8db3793d7a5?source=rss------bug_bounty-5) 
+ - 💯April 14, 2026 - [XSS Cross-Site Scripting Zero Se Hero: Browser Ko Apna Weapon Banao! &lpar;Hinglish Mein&rpar;](https://medium.com/@HackerMD/xss-cross-site-scripting-zero-se-hero-browser-ko-apna-weapon-banao-hinglish-mein-f4333ef50a09?source=rss------bug_bounty-5) 
 
- - 💯April 13, 2026 - [Waybackurls + GAU Purane Endpoints Se Bugs Nikalo: Internet Archive Ka Hacking! &lpar;Hinglish Mein&rpar;](https://medium.com/@HackerMD/waybackurls-gau-purane-endpoints-se-bugs-nikalo-internet-archive-ka-hacking-hinglish-mein-2480cc38a54f?source=rss------bug_bounty-5) 
+ - 💯April 14, 2026 - [Business Logic Bugs — The Highest Paying &lpar;But Most Missed&rpar;](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/business-logic-bugs-the-highest-paying-but-most-missed-81c877995f2c?source=rss------bug_bounty-5) 
 
- - 💯April 13, 2026 - [Breaking the Sandbox Boundary: Writing to Replit’s External Supervisor Config From Unprivileged…](https://medium.com/@vashuvats/breaking-the-sandbox-boundary-writing-to-replits-external-supervisor-config-from-unprivileged-2b6879f42914?source=rss------bug_bounty-5) 
+ - 💯April 14, 2026 - [When OAuth Bypasses Email Restrictions — A Simple Signup Logic Flaw](https://strangerwhite.medium.com/when-oauth-bypasses-email-restrictions-a-simple-signup-logic-flaw-6aaabc22766f?source=rss------bug_bounty-5) 
 
- - 💯April 13, 2026 - [I Got Tired of Bug Bounty Platforms Reading My Reports — So I Built something different](https://blog.bugbountyhunter.xyz/i-got-tired-of-bug-bounty-platforms-reading-my-reports-so-i-built-something-different-b06b31bb6cf5?source=rss------bug_bounty-5) 
+ - 💯April 14, 2026 - [⚙️ 11. — Method-based Access Control Can Be Circumvented](https://medium.com/@The4v1/%EF%B8%8F-11-method-based-access-control-can-be-circumvented-c3e03b880fe5?source=rss------bug_bounty-5) 
 
- - 💯April 13, 2026 - [Google Dorks Google Ko Bana Do Apna Hacking Tool: Free Mein Bugs Dhundho! &lpar;Hinglish Mein&rpar;](https://medium.com/@HackerMD/google-dorks-google-ko-bana-do-apna-hacking-tool-free-mein-bugs-dhundho-hinglish-mein-287c3a7ffc75?source=rss------bug_bounty-5) 
+ - 💯April 14, 2026 - [⚙️ 10. — URL-based Access Control Can Be Circumvented — X -Original-URL](https://medium.com/@The4v1/%EF%B8%8F-10-url-based-access-control-can-be-circumvented-x-original-url-06e4ef198dba?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
