@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯April 15, 2026 - [# Full Vault Decryption: Cracking the 1Password Security Challenge](https://medium.com/@fazul1324/full-vault-decryption-cracking-the-1password-security-challenge-c7233f7fc9d6?source=rss------bug_bounty-5) 
+ - 💯April 16, 2026 - [Technical Proof of Decryption and Root Access&quot;](https://medium.com/@fazul1324/technical-proof-of-decryption-and-root-access-8830c5b7a909?source=rss------bug_bounty-5) 
 
- - 💯April 15, 2026 - [Injection Attacks — From User Input to Full System Control](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/injection-attacks-from-user-input-to-full-system-control-e17ee4034dd6?source=rss------bug_bounty-5) 
+ - 💯April 16, 2026 - [How to Increase Bug Bounty Impact with Fuzzing techniques](https://medium.com/@C9Lab/how-to-increase-bug-bounty-impact-with-fuzzing-techniques-61d74b6d19f0?source=rss------bug_bounty-5) 
 
- - 💯April 15, 2026 - [⚙️ 13. — Referer — Based Access Control](https://medium.com/@The4v1/%EF%B8%8F-13-referer-based-access-control-2d36f4a5c699?source=rss------bug_bounty-5) 
+ - 💯April 16, 2026 - [Hackers don’t need your password anymore.](https://medium.com/@paritoshblogs/hackers-dont-need-your-password-anymore-d76b3f290d0d?source=rss------bug_bounty-5) 
 
- - 💯April 15, 2026 - [⚙️ 12. — Multi-step process with no access control on one step](https://medium.com/@The4v1/%EF%B8%8F-12-multi-step-process-with-no-access-control-on-one-step-a3471653a346?source=rss------bug_bounty-5) 
+ - 💯April 16, 2026 - [HTTP Request Smuggling: From Basics to Real Exploitation in Burp Repeater](https://medium.com/@Aman-Gupta.cse/http-request-smuggling-from-basics-to-real-exploitation-in-burp-repeater-144e145459ac?source=rss------bug_bounty-5) 
 
- - 💯April 15, 2026 - [OAuth Guide: Vulnerabilities, Attack Vectors, and Security](https://medium.com/@jpablo13/oauth-guide-vulnerabilities-attack-vectors-and-security-ac3e078147ae?source=rss------bug_bounty-5) 
+ - 💯April 16, 2026 - [Bypassing 2FA: How a Flawed SSO Architecture Led to Complete Account Takeover](https://medium.com/@pandag0tbann3d/bypassing-2fa-how-a-flawed-sso-architecture-led-to-complete-account-takeover-2518377022e9?source=rss------bug_bounty-5) 
 
- - 💯April 14, 2026 - [Automated Pen Testing Writing Custom Burp Extensions with Python and Jython](https://medium.com/@pandag0tbann3d/automated-pen-testing-writing-custom-burp-extensions-with-python-and-jython-21152592e3cb?source=rss------bug_bounty-5) 
+ - 💯April 16, 2026 - [DevVortex | HackTheBox | OSCP Preparation](https://medium.com/@SilentExploit/devvortex-hackthebox-oscp-preparation-7eb04a1f6510?source=rss------bug_bounty-5) 
 
- - 💯April 14, 2026 - [Day-3 Bypassing XSS with Hash Parameter](https://smartpicks4u.medium.com/day-3-bypassing-xss-with-hash-parameter-d654e7e4548c?source=rss------bug_bounty-5) 
+ - 💯April 16, 2026 - [How I Accidentally Became an API Archaeologist &lpar;and Found a Data Leak&rpar;](https://shrivarshan81.medium.com/how-i-accidentally-became-an-api-archaeologist-and-found-a-data-leak-ca2b3e9f3945?source=rss------bug_bounty-5) 
 
- - 💯April 14, 2026 - [Bug Bounty 101.1 — Building a Basic Recon Logger in Python](https://medium.com/@johnnymeintel/bug-bounty-101-1-building-a-basic-recon-logger-in-python-7aa6f3ce2d2b?source=rss------bug_bounty-5) 
+ - 💯April 16, 2026 - [Server-Side Request Forgery &lpar;SSRF&rpar; — Accessing Internal Systems Like an Insider](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/server-side-request-forgery-ssrf-accessing-internal-systems-like-an-insider-91dd556971ae?source=rss------bug_bounty-5) 
 
- - 💯April 14, 2026 - [Is Bug Bounty a Good Long-Term Career? The Reality in 2026](https://medium.com/@pradeeptadi03/is-bug-bounty-a-good-long-term-career-the-reality-in-2026-8bb238d4d01e?source=rss------bug_bounty-5) 
+ - 💯April 16, 2026 - [Authentication Vulnerabilities Lab 05](https://medium.com/@cybercom0101/authentication-vulnerabilities-7a15f50b228b?source=rss------bug_bounty-5) 
 
- - 💯April 14, 2026 - [Two Auth Modes, One Bypass: Discovering a Hidden Attack Path in AWS AppSync](https://medium.com/@splintercat/two-auth-modes-one-bypass-discovering-a-hidden-attack-path-in-aws-appsync-a4b27497e254?source=rss------bug_bounty-5) 
+ - 💯April 16, 2026 - [⚙️ 08. — User ID controlled by request parameter with password disclosure](https://medium.com/@The4v1/%EF%B8%8F-08-user-id-controlled-by-request-parameter-with-password-disclosure-1f56ff333994?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
