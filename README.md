@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯April 16, 2026 - [Technical Proof of Decryption and Root Access&quot;](https://medium.com/@fazul1324/technical-proof-of-decryption-and-root-access-8830c5b7a909?source=rss------bug_bounty-5) 
+ - 💯April 17, 2026 - [SQL Injection Database Ko Hack Karo: Data Nikalo, Admin Bano, Server Takeover Karo! &lpar;Hinglish Mein&rpar;](https://medium.com/@HackerMD/sql-injection-database-ko-hack-karo-data-nikalo-admin-bano-server-takeover-karo-hinglish-mein-95dc4bcd4569?source=rss------bug_bounty-5) 
 
- - 💯April 16, 2026 - [How to Increase Bug Bounty Impact with Fuzzing techniques](https://medium.com/@C9Lab/how-to-increase-bug-bounty-impact-with-fuzzing-techniques-61d74b6d19f0?source=rss------bug_bounty-5) 
+ - 💯April 17, 2026 - [Why You’re Not Finding Bugs &lpar;Even After Learning Everything&rpar;](https://medium.com/@pradeeptadi03/why-youre-not-finding-bugs-even-after-learning-everything-e18e3f018e90?source=rss------bug_bounty-5) 
 
- - 💯April 16, 2026 - [Hackers don’t need your password anymore.](https://medium.com/@paritoshblogs/hackers-dont-need-your-password-anymore-d76b3f290d0d?source=rss------bug_bounty-5) 
+ - 💯April 17, 2026 - [How I Found an Exposed Google Maps API Key on a Global Brand’s Checkout Page](https://medium.com/@mnbysec/how-i-found-an-exposed-google-maps-api-key-on-a-global-brands-checkout-page-44c7b4c2d4ba?source=rss------bug_bounty-5) 
 
- - 💯April 16, 2026 - [HTTP Request Smuggling: From Basics to Real Exploitation in Burp Repeater](https://medium.com/@Aman-Gupta.cse/http-request-smuggling-from-basics-to-real-exploitation-in-burp-repeater-144e145459ac?source=rss------bug_bounty-5) 
+ - 💯April 17, 2026 - [Sensitive Data Exposure — Finding What Should Never Be Public](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/sensitive-data-exposure-finding-what-should-never-be-public-8624b1ec95c3?source=rss------bug_bounty-5) 
 
- - 💯April 16, 2026 - [Bypassing 2FA: How a Flawed SSO Architecture Led to Complete Account Takeover](https://medium.com/@pandag0tbann3d/bypassing-2fa-how-a-flawed-sso-architecture-led-to-complete-account-takeover-2518377022e9?source=rss------bug_bounty-5) 
+ - 💯April 17, 2026 - [How I Hunt Threats Without Any Alerts](https://medium.com/@paritoshblogs/how-i-hunt-threats-without-any-alerts-e6b707c79f00?source=rss------bug_bounty-5) 
 
- - 💯April 16, 2026 - [DevVortex | HackTheBox | OSCP Preparation](https://medium.com/@SilentExploit/devvortex-hackthebox-oscp-preparation-7eb04a1f6510?source=rss------bug_bounty-5) 
+ - 💯April 17, 2026 - [Article 1: Points Are Money: The Case for LARS &lpar; Loyalty Application Risk Scoring&rpar; Framework](https://blackhawkk.medium.com/article-1-points-are-money-the-case-for-lars-loyalty-application-risk-scoring-framework-8d81728501fa?source=rss------bug_bounty-5) 
 
- - 💯April 16, 2026 - [How I Accidentally Became an API Archaeologist &lpar;and Found a Data Leak&rpar;](https://shrivarshan81.medium.com/how-i-accidentally-became-an-api-archaeologist-and-found-a-data-leak-ca2b3e9f3945?source=rss------bug_bounty-5) 
+ - 💯April 17, 2026 - [Guía Completa de Vulnerabilidades JWT: Detección, Explotación y Bypass de WAF](https://medium.com/@jpablo13/gu%C3%ADa-completa-de-vulnerabilidades-jwt-detecci%C3%B3n-explotaci%C3%B3n-y-bypass-de-waf-b97cf9a72897?source=rss------bug_bounty-5) 
 
- - 💯April 16, 2026 - [Server-Side Request Forgery &lpar;SSRF&rpar; — Accessing Internal Systems Like an Insider](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/server-side-request-forgery-ssrf-accessing-internal-systems-like-an-insider-91dd556971ae?source=rss------bug_bounty-5) 
+ - 💯April 16, 2026 - [Password Reset Token Remains Valid After Email Change Leading to Account Takeover .](https://medium.com/@alimostafa.alihackerone1/password-reset-token-remains-valid-after-email-change-leading-to-account-takeover-7d84076b87b1?source=rss------bug_bounty-5) 
 
- - 💯April 16, 2026 - [Authentication Vulnerabilities Lab 05](https://medium.com/@cybercom0101/authentication-vulnerabilities-7a15f50b228b?source=rss------bug_bounty-5) 
-
- - 💯April 16, 2026 - [⚙️ 08. — User ID controlled by request parameter with password disclosure](https://medium.com/@The4v1/%EF%B8%8F-08-user-id-controlled-by-request-parameter-with-password-disclosure-1f56ff333994?source=rss------bug_bounty-5) 
+ - 💯April 16, 2026 - [Attackers Actively Exploiting Critical Vulnerability in Ninja Forms — File Upload Plugin](https://wordfence.medium.com/attackers-actively-exploiting-critical-vulnerability-in-ninja-forms-file-upload-plugin-f595379e2099?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
