@@ -2,23 +2,25 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯April 20, 2026 - [⏱️ Race Conditions — Exploiting Timing for Real Impact](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/%EF%B8%8F-race-conditions-exploiting-timing-for-real-impact-6647ae1958ab?source=rss------bug_bounty-5) 
+ - 💯April 21, 2026 - [I Used AI to Cut My Red Team Report Writing Time by 70% — Here’s How](https://medium.com/@cyberaiprompts/i-used-ai-to-cut-my-red-team-report-writing-time-by-70-heres-how-d599bb2ac803?source=rss------bug_bounty-5) 
 
- - 💯April 20, 2026 - [TryHackMe: Enumeration &amp; Brute Force — Complete Walkthrough](https://medium.com/@5um1t0x/tryhackme-enumeration-brute-force-complete-walkthrough-a2ea39d380ae?source=rss------bug_bounty-5) 
+ - 💯April 21, 2026 - [Akira Medium Post](https://medium.com/@kalpmodi1774/akira-medium-post-33b1b8366219?source=rss------bug_bounty-5) 
 
- - 💯April 20, 2026 - [That’s how I turned a simple parameter into full email content injection in a trusted password…](https://medium.com/@ahmedaamerr1/thats-how-i-turned-a-simple-parameter-into-full-email-content-injection-in-a-trusted-password-e7db664e0e60?source=rss------bug_bounty-5) 
+ - 💯April 21, 2026 - [☁️ Cloud &amp; Infrastructure Bugs — Breaking the Backbone of Modern Apps](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/%EF%B8%8F-cloud-infrastructure-bugs-breaking-the-backbone-of-modern-apps-f1761aafd77a?source=rss------bug_bounty-5) 
 
- - 💯April 20, 2026 - [API Vulnerabilities — The Modern Attack Surface Most Hunters Underestimate](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/api-vulnerabilities-the-modern-attack-surface-most-hunters-underestimate-c5c51b2d01a0?source=rss------bug_bounty-5) 
+ - 💯April 21, 2026 - [⚙️ 05. — Stealing OAuth access tokens via an open redirect](https://medium.com/@The4v1/%EF%B8%8F-05-stealing-oauth-access-tokens-via-an-open-redirect-ac88a309c840?source=rss------bug_bounty-5) 
 
- - 💯April 20, 2026 - [How I Found a GraphQL Endpoint Leaking Millions](https://prateekpulastya.medium.com/how-i-found-a-graphql-endpoint-leaking-millions-5cbfd55d994e?source=rss------bug_bounty-5) 
+ - 💯April 21, 2026 - [⚙️ 04. — OAuth account hijacking via redirect_uri](https://medium.com/@The4v1/%EF%B8%8F-04-oauth-account-hijacking-via-redirect-uri-18df59cca233?source=rss------bug_bounty-5) 
 
- - 💯April 20, 2026 - [CORS Misconfiguration Cross-Origin Resource Sharing: Wrong Settings Se User Data Steal Karo!](https://medium.com/@HackerMD/cors-misconfiguration-cross-origin-resource-sharing-wrong-settings-se-user-data-steal-karo-ea1eb50ee132?source=rss------bug_bounty-5) 
+ - 💯April 21, 2026 - [Day 02 of 59 — Choosing the Right Target
+Why Most Beginners Fail Before They Even Start](https://hamim-islam-17.medium.com/day-02-of-59-choosing-the-right-target-why-most-beginners-fail-before-they-even-start-bfadf67836fb?source=rss------bug_bounty-5) 
 
- - 💯April 20, 2026 - [AI Security Platform | Red Teaming Range Full Breakdown](https://medium.com/@pentesterclubpvtltd/ai-security-platform-red-teaming-range-full-breakdown-c578f72cd96a?source=rss------bug_bounty-5) 
+ - 💯April 21, 2026 - [Hacking Vibe-Coded Apps: The Bug Bounty Hunter’s Complete Guide to Finding Security Issues in…](https://systemweakness.com/hacking-vibe-coded-apps-the-bug-bounty-hunters-complete-guide-to-finding-security-issues-in-60953aa5947e?source=rss------bug_bounty-5) 
 
- - 💯April 19, 2026 - [How to Get Started with Cybersecurity and Ethical Hacking](https://infosecwriteups.com/how-to-get-started-with-cybersecurity-and-ethical-hacking-5f8147d92970?source=rss------bug_bounty-5) 
+ - 💯April 21, 2026 - [Before You Test Anything, Understand What the System Is Protecting
+A disciplined approach to SaaS…](https://medium.com/@clipp3r/before-you-test-anything-understand-what-the-system-is-protecting-a-disciplined-approach-to-saas-54445a412b9b?source=rss------bug_bounty-5) 
 
- - 💯April 19, 2026 - [Stored XSS via Custom Template Injection — How I Bypassed Cloudflare WAF](https://medium.com/@mostafaabogoda8/stored-xss-via-custom-template-injection-how-i-bypassed-cloudflare-waf-5abdc0d1807b?source=rss------bug_bounty-5) 
+ - 💯April 21, 2026 - [CSRF Cross-Site Request Forgery: Victim Ke Browser Se Unki Marzi Ke Bina Actions Karwao!](https://medium.com/@HackerMD/csrf-cross-site-request-forgery-victim-ke-browser-se-unki-marzi-ke-bina-actions-karwao-45f2a6611a34?source=rss------bug_bounty-5) 
 
- - 💯April 19, 2026 - [IDE [Try Hack Me] machine Walkthrough :](https://medium.com/@amroubekhedda/ide-try-hack-me-machine-walkthrough-36f414ffdcb9?source=rss------bug_bounty-5) 
+ - 💯April 21, 2026 - [Active Directory Lab Setup for Penetration Testing Using PowerShell](https://medium.com/@pentesterclubpvtltd/active-directory-lab-setup-for-penetration-testing-using-powershell-2732d0b58c63?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
