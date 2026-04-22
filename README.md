@@ -2,25 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯April 21, 2026 - [I Used AI to Cut My Red Team Report Writing Time by 70% — Here’s How](https://medium.com/@cyberaiprompts/i-used-ai-to-cut-my-red-team-report-writing-time-by-70-heres-how-d599bb2ac803?source=rss------bug_bounty-5) 
+ - 💯April 22, 2026 - [Gemini CLI + Kali Linux | AI-Powered Pentesting Automation](https://medium.com/@pentesterclubpvtltd/gemini-cli-kali-linux-ai-powered-pentesting-automation-227a42711b7a?source=rss------bug_bounty-5) 
 
- - 💯April 21, 2026 - [Akira Medium Post](https://medium.com/@kalpmodi1774/akira-medium-post-33b1b8366219?source=rss------bug_bounty-5) 
+ - 💯April 22, 2026 - [Automating Recon Like an Operator — Running Wraith on Multiple Targets &lpar;Hands-Free&rpar;](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/automating-recon-like-an-operator-running-wraith-on-multiple-targets-hands-free-5d94d8bc96c4?source=rss------bug_bounty-5) 
 
- - 💯April 21, 2026 - [☁️ Cloud &amp; Infrastructure Bugs — Breaking the Backbone of Modern Apps](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/%EF%B8%8F-cloud-infrastructure-bugs-breaking-the-backbone-of-modern-apps-f1761aafd77a?source=rss------bug_bounty-5) 
+ - 💯April 22, 2026 - [Burp Suite Complete Guide From Scratch: Bug Hunter Ka Sabse Powerful Weapon!&lpar;Hinglish Mein&rpar;](https://medium.com/@HackerMD/burp-suite-complete-guide-from-scratch-bug-hunter-ka-sabse-powerful-weapon-hinglish-mein-5599cb7d0e41?source=rss------bug_bounty-5) 
 
- - 💯April 21, 2026 - [⚙️ 05. — Stealing OAuth access tokens via an open redirect](https://medium.com/@The4v1/%EF%B8%8F-05-stealing-oauth-access-tokens-via-an-open-redirect-ac88a309c840?source=rss------bug_bounty-5) 
+ - 💯April 22, 2026 - [Day 7 &amp; 8: What Took 2 Days..](https://smartpicks4u.medium.com/day-7-8-what-took-2-days-c404fe7fe8bf?source=rss------bug_bounty-5) 
 
- - 💯April 21, 2026 - [⚙️ 04. — OAuth account hijacking via redirect_uri](https://medium.com/@The4v1/%EF%B8%8F-04-oauth-account-hijacking-via-redirect-uri-18df59cca233?source=rss------bug_bounty-5) 
+ - 💯April 22, 2026 - [Guide to SSTI &lpar;Server-Side Template Injection&rpar;: Detection, Exploitation, and WAF Evasion](https://medium.com/@jpablo13/guide-to-ssti-server-side-template-injection-detection-exploitation-and-waf-evasion-7b3d92019985?source=rss------bug_bounty-5) 
 
- - 💯April 21, 2026 - [Day 02 of 59 — Choosing the Right Target
-Why Most Beginners Fail Before They Even Start](https://hamim-islam-17.medium.com/day-02-of-59-choosing-the-right-target-why-most-beginners-fail-before-they-even-start-bfadf67836fb?source=rss------bug_bounty-5) 
+ - 💯April 21, 2026 - [Code Is Law Until It Isn’t: What Arbitrum’s Intervention Reveals About Crypto Governance](https://medium.com/@iamabraham/code-is-law-until-it-isnt-what-arbitrum-s-intervention-reveals-about-crypto-governance-92b43daef28c?source=rss------bug_bounty-5) 
 
- - 💯April 21, 2026 - [Hacking Vibe-Coded Apps: The Bug Bounty Hunter’s Complete Guide to Finding Security Issues in…](https://systemweakness.com/hacking-vibe-coded-apps-the-bug-bounty-hunters-complete-guide-to-finding-security-issues-in-60953aa5947e?source=rss------bug_bounty-5) 
+ - 💯April 21, 2026 - [Breaking Logic with Timing: A Race Condition Case Study &lpar;with a Vibe &rpar;](https://medium.com/@omnikkotow/breaking-logic-with-timing-a-race-condition-case-study-with-a-vibe-9a47db69d68e?source=rss------bug_bounty-5) 
 
- - 💯April 21, 2026 - [Before You Test Anything, Understand What the System Is Protecting
-A disciplined approach to SaaS…](https://medium.com/@clipp3r/before-you-test-anything-understand-what-the-system-is-protecting-a-disciplined-approach-to-saas-54445a412b9b?source=rss------bug_bounty-5) 
+ - 💯April 21, 2026 - [Blind SSRF Leads to Internal Service and IP Discovery with Multiple Security Impacts](https://0xm0r4d.medium.com/blind-ssrf-leads-to-internal-service-and-ip-discovery-with-multiple-security-impacts-795613317d44?source=rss------bug_bounty-5) 
 
- - 💯April 21, 2026 - [CSRF Cross-Site Request Forgery: Victim Ke Browser Se Unki Marzi Ke Bina Actions Karwao!](https://medium.com/@HackerMD/csrf-cross-site-request-forgery-victim-ke-browser-se-unki-marzi-ke-bina-actions-karwao-45f2a6611a34?source=rss------bug_bounty-5) 
+ - 💯April 21, 2026 - [Bug Bounty: The $0 to $5,000/month Survival Roadmap Nobody Wrote](https://infyra.medium.com/bug-bounty-the-0-to-5-000-month-survival-roadmap-nobody-wrote-ce8c6abfd47b?source=rss------bug_bounty-5) 
 
- - 💯April 21, 2026 - [Active Directory Lab Setup for Penetration Testing Using PowerShell](https://medium.com/@pentesterclubpvtltd/active-directory-lab-setup-for-penetration-testing-using-powershell-2732d0b58c63?source=rss------bug_bounty-5) 
+ - 💯April 21, 2026 - [From Zero Knowledge to First $1,000: The Honest Bug Bounty Timeline](https://infyra.medium.com/from-zero-knowledge-to-first-1-000-the-honest-bug-bounty-timeline-867a05417b83?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
