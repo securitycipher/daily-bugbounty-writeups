@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯April 25, 2026 - [Gobuster: The Directory Busting Tool Every Hacker Should Know](https://medium.com/@gauravkumaramtics/gobuster-the-directory-busting-tool-every-hacker-should-know-5907d7c87374?source=rss------bug_bounty-5) 
+ - 💯April 26, 2026 - [The Dark Side of Free WiFi: How Your Data Gets Stolen](https://medium.com/@paritoshblogs/the-dark-side-of-free-wifi-how-your-data-gets-stolen-577b6c1bacb0?source=rss------bug_bounty-5) 
 
- - 💯April 25, 2026 - [How I Started My Cybersecurity Journey: From Basics to Bug Bounty Hunting](https://aws.plainenglish.io/how-i-started-my-cybersecurity-journey-from-basics-to-bug-bounty-hunting-930d49bb805a?source=rss------bug_bounty-5) 
+ - 💯April 26, 2026 - [How I Actually Hunt — The Ghostyjoe™ Workflow](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/how-i-actually-hunt-the-ghostyjoe-workflow-8e339c757f15?source=rss------bug_bounty-5) 
 
- - 💯April 25, 2026 - [Bypassing WDAC and AppLocker Using Ligolo](https://medium.com/@pentesterclubpvtltd/bypassing-wdac-and-applocker-using-ligolo-0422888c6278?source=rss------bug_bounty-5) 
+ - 💯April 26, 2026 - [How A Simple Bug That Refused to Die, Paid Twice.](https://infosecwriteups.com/how-a-simple-bug-that-refused-to-die-paid-twice-80752e4d5ec5?source=rss------bug_bounty-5) 
 
- - 💯April 25, 2026 - [Bug Bounty Series — Part 2 &lpar;Open Redirect&rpar;](https://medium.com/@adii.utsav/bug-bounty-series-part-2-open-redirect-dbe134323982?source=rss------bug_bounty-5) 
+ - 💯April 26, 2026 - [Critical Bugs: how I found critical bugs without any effort](https://medium.com/@albertstive1010/critical-bugs-how-i-found-critical-bugs-without-any-effort-601bccd41b9e?source=rss------bug_bounty-5) 
 
- - 💯April 25, 2026 - [Lab: HTTP request smuggling, confirming a CL.TE vulnerability via differential responses](https://medium.com/@mohamedamgad55nero/lab-http-request-smuggling-confirming-a-cl-te-vulnerability-via-differential-responses-4e9a9fad8b5a?source=rss------bug_bounty-5) 
+ - 💯April 26, 2026 - [Some Logic Bugs in Email Handling](https://medium.com/@mahmoudfarag.rm4/some-logic-bugs-in-email-handling-72cd7d615412?source=rss------bug_bounty-5) 
 
- - 💯April 25, 2026 - [WebVersePro Labs — Challenge: Herbalist Remedies Writeup &lpar;NoSQL Injection&rpar;](https://zor0ark.medium.com/webversepro-labs-challenge-herbalist-remedies-writeup-nosql-injection-9a85a4f1c68c?source=rss------bug_bounty-5) 
+ - 💯April 25, 2026 - [The 42,000 Credit Heist: Finding Zero-Day at 42 Schools](https://medium.com/@yanard18/the-42-000-credit-heist-finding-zero-day-at-42-schools-bcd5685ed2d7?source=rss------bug_bounty-5) 
 
- - 💯April 25, 2026 - [SSRF Master Guide: Exploitation and Mitigation Strategies](https://medium.com/@jpablo13/ssrf-master-guide-exploitation-and-mitigation-strategies-e8b6a5d415bd?source=rss------bug_bounty-5) 
+ - 💯April 25, 2026 - [IDOR….will help you to get bounty](https://medium.com/@theairforcegraudcommando/idor-will-help-you-to-get-bounty-a17918661b7c?source=rss------bug_bounty-5) 
 
- - 💯April 24, 2026 - [Easiest $100 on Hackerone | Null Byte Broke Authentication](https://osintteam.blog/easiest-100-on-hackerone-null-byte-broke-authentication-3b63ba2e0a49?source=rss------bug_bounty-5) 
+ - 💯April 25, 2026 - [Strengthening AI Security: The Rise of Bug Bounty Programs for Advanced Models](https://medium.com/@jasmitharouthu_58441/strengthening-ai-security-the-rise-of-bug-bounty-programs-for-advanced-models-3e535524bb17?source=rss------bug_bounty-5) 
 
- - 💯April 24, 2026 - [How I Earned €200 in 10 Minutes by Exploiting a Race Condition on a Job Application Portal](https://medium.com/@amrgomaa009/how-i-earned-200-in-10-minutes-by-exploiting-a-race-condition-on-a-job-application-portal-2347bb98c4c0?source=rss------bug_bounty-5) 
+ - 💯April 25, 2026 - [Smag Grotto[Try Hack Me] machine Walkthrough :](https://medium.com/@amroubekhedda/smag-grotto-try-hack-me-machine-walkthrough-215828be1d0e?source=rss------bug_bounty-5) 
 
- - 💯April 24, 2026 - [Environment Cross-Trust: Leveraging Staging APIs to “Buy” for $0.00](https://medium.com/@0xpedrop/environment-cross-trust-leveraging-staging-apis-to-buy-for-0-00-cb257e2bb605?source=rss------bug_bounty-5) 
+ - 💯April 25, 2026 - [Bug Bounty Automation with n8n Ep.1](https://medium.com/@benno.schneeberger/bug-bounty-automation-with-n8n-ep-1-f0975e9867d7?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
