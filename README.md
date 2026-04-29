@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯April 28, 2026 - [Android Lockdown — Thinking Like an Operator &lpar;Part 5&rpar;](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/android-lockdown-thinking-like-an-operator-part-5-a2f210cf850e?source=rss------bug_bounty-5) 
+ - 💯April 29, 2026 - [⚙️ 08. — JWT authentication bypass via algorithm confusion with no exposed key](https://medium.com/@The4v1/%EF%B8%8F-08-jwt-authentication-bypass-via-algorithm-confusion-with-no-exposed-key-b4253f902923?source=rss------bug_bounty-5) 
 
- - 💯April 28, 2026 - [What Actually Gets Sold on the Dark Web? &lpar;Reality vs Hype&rpar;](https://medium.com/@paritoshblogs/what-actually-gets-sold-on-the-dark-web-reality-vs-hype-c4ef0ad86f29?source=rss------bug_bounty-5) 
+ - 💯April 29, 2026 - [⚙️ 07. — JWT authentication bypass via algorithm confusion](https://medium.com/@The4v1/%EF%B8%8F-07-jwt-authentication-bypass-via-algorithm-confusion-05349c548c96?source=rss------bug_bounty-5) 
 
- - 💯April 28, 2026 - [LLM Prompt Injection in an AI Support Chatbot — How I Extracted an Entire Internal Knowledge Base…](https://medium.com/@krithickcyber/llm-prompt-injection-in-an-ai-support-chatbot-how-i-extracted-an-entire-internal-knowledge-base-1bf2be1cb902?source=rss------bug_bounty-5) 
+ - 💯April 29, 2026 - [⚙️ 06. — JWT Authentication Bypass via kid Header Path Traversal](https://medium.com/@The4v1/%EF%B8%8F-06-jwt-authentication-bypass-via-kid-header-path-traversal-42dcff2b239a?source=rss------bug_bounty-5) 
 
- - 💯April 28, 2026 - [He Changed One Number in an Instagram Request — Instagram Paid Him $6,500](https://osintteam.blog/he-changed-one-number-in-an-instagram-request-instagram-paid-him-6-500-fdebe0aa3ad8?source=rss------bug_bounty-5) 
+ - 💯April 29, 2026 - [⚙️ 05. — JWT Authentication Bypass via JKU Header Injection](https://medium.com/@The4v1/%EF%B8%8F-05-jwt-authentication-bypass-via-jku-header-injection-ea01030297af?source=rss------bug_bounty-5) 
 
- - 💯April 28, 2026 - [Abused an MCP Server to Perform Lateral Movement | Critical Finding | MCP Testing Methodology](https://infosecwriteups.com/abused-an-mcp-server-to-perform-lateral-movement-critical-finding-mcp-testing-methodology-dd0557d49522?source=rss------bug_bounty-5) 
+ - 💯April 29, 2026 - [⚙️ 04. — JWT Authentication Bypass via JWK Header Injection](https://medium.com/@The4v1/%EF%B8%8F-04-jwt-authentication-bypass-via-jwk-header-injection-97f3504f8618?source=rss------bug_bounty-5) 
 
- - 💯April 28, 2026 - [Master Ethical Hacking in Free AI-Powered Course + Video Labs](https://medium.com/@muhammadjunaidniazi47/master-ethical-hacking-in-free-ai-powered-course-video-labs-6447f2ac01a5?source=rss------bug_bounty-5) 
+ - 💯April 29, 2026 - [⚙️ 03. — JWT Authentication Bypass via Weak Signing Key](https://medium.com/@The4v1/%EF%B8%8F-03-jwt-authentication-bypass-via-weak-signing-key-8c4ba8b82e7a?source=rss------bug_bounty-5) 
 
- - 💯April 28, 2026 - [I Changed One Number… and Got Access to Citizens’ ID and Address Proofs](https://infosecwriteups.com/i-changed-one-number-and-got-access-to-citizens-id-and-address-proofs-a02084428801?source=rss------bug_bounty-5) 
+ - 💯April 29, 2026 - [⚙️ 02. — JWT Authentication Bypass via Flawed Signature Verification](https://medium.com/@The4v1/%EF%B8%8F-02-jwt-authentication-bypass-via-flawed-signature-verification-eb41e1ecf3c9?source=rss------bug_bounty-5) 
 
- - 💯April 28, 2026 - [️ Top 20 Bug Bounty Tools I Use Daily as a Full-Time Hunter](https://medium.com/@atnoforcybersecurity/%EF%B8%8F-top-20-bug-bounty-tools-i-use-daily-as-a-full-time-hunter-d4f903541493?source=rss------bug_bounty-5) 
+ - 💯April 29, 2026 - [⚙️ 01. — JWT Authentication Bypass via Unverified Signature](https://medium.com/@The4v1/%EF%B8%8F-01-jwt-authentication-bypass-via-unverified-signature-11c22c4859d3?source=rss------bug_bounty-5) 
 
- - 💯April 28, 2026 - [The Intigriti 0426 Northstar Notes: Chaining Mass Assignment &amp; Path Traversal to Stored XSS](https://medium.com/@vishnu.raveendran1461/the-intigriti-0426-northstar-notes-chaining-mass-assignment-path-traversal-to-stored-xss-bdcd019ed93b?source=rss------bug_bounty-5) 
-
- - 💯April 28, 2026 - [⚡ 30 Tiny Bash Commands That Quietly Do Most of Your Bug Bounty Recon](https://medium.com/@mvspavs/30-tiny-bash-commands-that-quietly-do-most-of-your-bug-bounty-recon-dd10823262a0?source=rss------bug_bounty-5) 
+ - 💯April 29, 2026 - [JWT Vulnerabilities](https://medium.com/@The4v1/jwt-vulnerabilities-16934dd22868?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
