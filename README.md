@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯April 29, 2026 - [⚙️ 08. — JWT authentication bypass via algorithm confusion with no exposed key](https://medium.com/@The4v1/%EF%B8%8F-08-jwt-authentication-bypass-via-algorithm-confusion-with-no-exposed-key-b4253f902923?source=rss------bug_bounty-5) 
+ - 💯April 30, 2026 - [BUG-BOUNTY SERIES 8: DNS Enumeration.](https://medium.com/@krisnawhy300/bug-bounty-series-8-dns-enumeration-38d80cfff2fc?source=rss------bug_bounty-5) 
 
- - 💯April 29, 2026 - [⚙️ 07. — JWT authentication bypass via algorithm confusion](https://medium.com/@The4v1/%EF%B8%8F-07-jwt-authentication-bypass-via-algorithm-confusion-05349c548c96?source=rss------bug_bounty-5) 
+ - 💯April 30, 2026 - [BUG-BOUNTY SERIES 7: Subdomain Enumeration &amp; Attack Surface Mapping.](https://medium.com/@krisnawhy300/bug-bounty-series-7-subdomain-enumeration-attack-surface-mapping-eadaca9dd3d6?source=rss------bug_bounty-5) 
 
- - 💯April 29, 2026 - [⚙️ 06. — JWT Authentication Bypass via kid Header Path Traversal](https://medium.com/@The4v1/%EF%B8%8F-06-jwt-authentication-bypass-via-kid-header-path-traversal-42dcff2b239a?source=rss------bug_bounty-5) 
+ - 💯April 30, 2026 - [Automating Endpoint Discovery &amp; Testing — The Bug Hunter’s Workflow](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/automating-endpoint-discovery-testing-the-bug-hunters-workflow-47506f99bfd0?source=rss------bug_bounty-5) 
 
- - 💯April 29, 2026 - [⚙️ 05. — JWT Authentication Bypass via JKU Header Injection](https://medium.com/@The4v1/%EF%B8%8F-05-jwt-authentication-bypass-via-jku-header-injection-ea01030297af?source=rss------bug_bounty-5) 
+ - 💯April 30, 2026 - [Build Your Own AI Bug Hunter : Fully Local, Fully Private](https://infosecwriteups.com/build-your-own-ai-bug-hunter-fully-local-fully-private-e00cf87917ca?source=rss------bug_bounty-5) 
 
- - 💯April 29, 2026 - [⚙️ 04. — JWT Authentication Bypass via JWK Header Injection](https://medium.com/@The4v1/%EF%B8%8F-04-jwt-authentication-bypass-via-jwk-header-injection-97f3504f8618?source=rss------bug_bounty-5) 
+ - 💯April 30, 2026 - [How I Found My First &lpar;Unethical&rpar; Bug](https://medium.com/@thatcyberboy/how-i-found-my-first-unethical-bug-feb8d0ccc2b7?source=rss------bug_bounty-5) 
 
- - 💯April 29, 2026 - [⚙️ 03. — JWT Authentication Bypass via Weak Signing Key](https://medium.com/@The4v1/%EF%B8%8F-03-jwt-authentication-bypass-via-weak-signing-key-8c4ba8b82e7a?source=rss------bug_bounty-5) 
+ - 💯April 30, 2026 - [How I was able to download every paid courses for free on a reputed platform?](https://krishnadevpmelevila.medium.com/how-i-was-able-to-download-every-paid-courses-for-free-on-a-reputed-platform-799410149d85?source=rss------bug_bounty-5) 
 
- - 💯April 29, 2026 - [⚙️ 02. — JWT Authentication Bypass via Flawed Signature Verification](https://medium.com/@The4v1/%EF%B8%8F-02-jwt-authentication-bypass-via-flawed-signature-verification-eb41e1ecf3c9?source=rss------bug_bounty-5) 
+ - 💯April 30, 2026 - [From Recon to Letter of Recognition | NASA VDP](https://medium.com/fmisec/from-recon-to-letter-of-recognition-nasa-vdp-4b115ccde1f8?source=rss------bug_bounty-5) 
 
- - 💯April 29, 2026 - [⚙️ 01. — JWT Authentication Bypass via Unverified Signature](https://medium.com/@The4v1/%EF%B8%8F-01-jwt-authentication-bypass-via-unverified-signature-11c22c4859d3?source=rss------bug_bounty-5) 
+ - 💯April 30, 2026 - [Use-After-Free in curl’s SMB connection reuse](https://medium.com/@rrozif96/use-after-free-in-curls-smb-connection-reuse-3c6653ac9d57?source=rss------bug_bounty-5) 
 
- - 💯April 29, 2026 - [JWT Vulnerabilities](https://medium.com/@The4v1/jwt-vulnerabilities-16934dd22868?source=rss------bug_bounty-5) 
+ - 💯April 30, 2026 - [Shenzi | Proving Grounds | OSCP Preparation](https://medium.com/@SilentExploit/shenzi-proving-grounds-oscp-preparation-16e053cee7e6?source=rss------bug_bounty-5) 
+
+ - 💯April 29, 2026 - [eWPTXv3 Exam Review &lpar;2026&rpar;](https://medium.com/@hamadgmr/ewptxv3-exam-review-2026-e2edc1e3c1c8?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
