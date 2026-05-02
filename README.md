@@ -2,23 +2,24 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 1, 2026 - [Advanced Exploit Chains — Real Bug Bounty Scenarios &lpar;Part 3&rpar;](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/advanced-exploit-chains-real-bug-bounty-scenarios-part-3-542ac5c04d78?source=rss------bug_bounty-5) 
+ - 💯May 2, 2026 - [The Bugs That Actually Hurt You Aren’t the Fancy Ones](https://medium.com/@SatyamPathania/the-bugs-that-actually-hurt-you-arent-the-fancy-ones-07d17b5eac16?source=rss------bug_bounty-5) 
 
- - 💯May 1, 2026 - [Stop Fuzzing WAFs: How I Used AI Noise &amp; Trust Decay to Bypass Enterprise Firewalls &lpar;And…](https://meetcyber.net/stop-fuzzing-wafs-how-i-used-ai-noise-trust-decay-to-bypass-enterprise-firewalls-and-fdc3f5f89ea0?source=rss------bug_bounty-5) 
+ - 💯May 2, 2026 - [How I Earned Over $1,000+ from Local Bug Bounty Programs](https://medium.com/@radenrangguy/how-i-earned-over-1-000-from-local-bug-bounty-programs-a79e21be0701?source=rss------bug_bounty-5) 
 
- - 💯May 1, 2026 - [The Secret Language of Search: Google Dorking](https://medium.com/@sablimino/the-secret-language-of-search-google-dorking-aa07dac777aa?source=rss------bug_bounty-5) 
+ - 💯May 2, 2026 - [When Logout Isn’t Really Goodbye: A Subtle Data Exposure Bug.](https://infosecwriteups.com/when-logout-isnt-really-goodbye-a-subtle-data-exposure-bug-271b683ddb9a?source=rss------bug_bounty-5) 
 
- - 💯May 1, 2026 - [Polymorphic &amp; Metamorphic Malware: The Shape-Shifting Threat Your Antivirus Can’t See](https://medium.com/@paritoshblogs/polymorphic-metamorphic-malware-the-shape-shifting-threat-your-antivirus-cant-see-85dd624f0c1f?source=rss------bug_bounty-5) 
+ - 💯May 2, 2026 - [Bypassing 2FA via State Overwrite: A Tale of Logic Flaws and WAF Evasion](https://medium.com/@HackerMD/bypassing-2fa-via-state-overwrite-a-tale-of-logic-flaws-and-waf-evasion-7e8c15a76282?source=rss------bug_bounty-5) 
 
- - 💯May 1, 2026 - [Cockpit | Proving Grounds | OSCP Preparation](https://medium.com/@SilentExploit/cockpit-proving-grounds-oscp-preparation-eb84d67f67f4?source=rss------bug_bounty-5) 
+ - 💯May 1, 2026 - [This is my third bug bounty report: How I found an XSS vulnerability](https://umuttkyrdgn.medium.com/this-is-my-third-bug-bounty-report-how-i-found-an-xss-vulnerability-c2a637d86b2e?source=rss------bug_bounty-5) 
 
- - 💯April 30, 2026 - [How a Simple Comment Box Almost Cost a Fintech Giant $15,000](https://medium.com/@21bec131/how-a-simple-comment-box-almost-cost-a-fintech-giant-15-000-3fe6e35daafd?source=rss------bug_bounty-5) 
+ - 💯May 1, 2026 - [From Source Code Review To Critical Vulnerability — Critical Firebase API Takeover](https://0xm0r4d.medium.com/from-source-code-review-to-critical-vulnerability-critical-firebase-api-takeover-e8f2ffa426bd?source=rss------bug_bounty-5) 
 
- - 💯April 30, 2026 - [IDOR via Weak JWT Validation Leading to Unauthorized Data Access](https://medium.com/@0xMo7areb/idor-via-weak-jwt-validation-leading-to-unauthorized-data-access-e8d641750099?source=rss------bug_bounty-5) 
+ - 💯May 1, 2026 - [How I discovered my first valid Bug](https://medium.com/@hayersam4/how-i-discovered-my-first-valid-bug-e1f1277c92e0?source=rss------bug_bounty-5) 
 
- - 💯April 30, 2026 - [Wordfence Intelligence Weekly WordPress Vulnerability Report &lpar;April 20, 2026 to April 26, 2026&rpar;](https://wordfence.medium.com/wordfence-intelligence-weekly-wordpress-vulnerability-report-april-20-2026-to-april-26-2026-8932fcd23466?source=rss------bug_bounty-5) 
+ - 💯May 1, 2026 - [MultiCode — picoCTF Writeup &lpar;Layered Encoding Explained&rpar;](https://medium.com/@may.hack/multicode-picoctf-writeup-layered-encoding-explained-4f200da8a38d?source=rss------bug_bounty-5) 
 
- - 💯April 30, 2026 - [Automated and Broke The Hidden Reason Your Bug Bounty Toolkit Isn’t Producing Findings in 2026](https://medium.com/@R.H_Rizvi/automated-and-broke-the-hidden-reason-your-bug-bounty-toolkit-isnt-producing-findings-in-2026-104436f96a63?source=rss------bug_bounty-5) 
+ - 💯May 1, 2026 - [How I Earned a Hall of Fame from NASA
+Success in bug bounty hunting isn’t just about the tools you…](https://medium.com/@arghasarkar9551/how-i-earned-a-hall-of-fame-from-nasa-success-in-bug-bounty-hunting-isnt-just-about-the-tools-you-5716973ec9fe?source=rss------bug_bounty-5) 
 
- - 💯April 30, 2026 - [He Verified Someone Else’s Email on Instagram — and Meta Paid $5,000](https://osintteam.blog/he-verified-someone-elses-email-on-instagram-and-meta-paid-5-000-73176d5e53ce?source=rss------bug_bounty-5) 
+ - 💯May 1, 2026 - [How I Turned $3 Into 8 Paid Bugs](https://medium.com/@0xs3fo/how-i-turned-3-into-8-paid-bugs-b81c5384465c?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
