@@ -2,24 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 2, 2026 - [The Bugs That Actually Hurt You Aren’t the Fancy Ones](https://medium.com/@SatyamPathania/the-bugs-that-actually-hurt-you-arent-the-fancy-ones-07d17b5eac16?source=rss------bug_bounty-5) 
+ - 💯May 3, 2026 - [Duplicate Avoid Karna Bug Bounty Ka Sabse Bada Dard: Smart Hunting Se Pehle Pahuncho, Pehle Kamao!](https://medium.com/@HackerMD/duplicate-avoid-karna-bug-bounty-ka-sabse-bada-dard-smart-hunting-se-pehle-pahuncho-pehle-kamao-530287e8f73d?source=rss------bug_bounty-5) 
 
- - 💯May 2, 2026 - [How I Earned Over $1,000+ from Local Bug Bounty Programs](https://medium.com/@radenrangguy/how-i-earned-over-1-000-from-local-bug-bounty-programs-a79e21be0701?source=rss------bug_bounty-5) 
+ - 💯May 2, 2026 - [I Thought Learning Cybersecurity Was About Tools… Then AI Changed Everything](https://medium.com/@danielsantiago10/i-thought-learning-cybersecurity-was-about-tools-then-ai-changed-everything-7c05b7fb731d?source=rss------bug_bounty-5) 
 
- - 💯May 2, 2026 - [When Logout Isn’t Really Goodbye: A Subtle Data Exposure Bug.](https://infosecwriteups.com/when-logout-isnt-really-goodbye-a-subtle-data-exposure-bug-271b683ddb9a?source=rss------bug_bounty-5) 
+ - 💯May 2, 2026 - [Find SQL injection with burp Suite scanner](https://awais0x1.medium.com/discovering-an-sql-injection-with-burps-scanner-41c6c5910d84?source=rss------bug_bounty-5) 
 
- - 💯May 2, 2026 - [Bypassing 2FA via State Overwrite: A Tale of Logic Flaws and WAF Evasion](https://medium.com/@HackerMD/bypassing-2fa-via-state-overwrite-a-tale-of-logic-flaws-and-waf-evasion-7e8c15a76282?source=rss------bug_bounty-5) 
+ - 💯May 2, 2026 - [The “Invite Only” Loophole That Led to a $3,000 Payout](https://medium.com/@21bec131/the-invite-only-loophole-that-led-to-a-3-000-payout-53aff5cca73a?source=rss------bug_bounty-5) 
 
- - 💯May 1, 2026 - [This is my third bug bounty report: How I found an XSS vulnerability](https://umuttkyrdgn.medium.com/this-is-my-third-bug-bounty-report-how-i-found-an-xss-vulnerability-c2a637d86b2e?source=rss------bug_bounty-5) 
+ - 💯May 2, 2026 - [AI Agents for Penetration Testing | Claude Code &amp; Gamma4](https://medium.com/@pentesterclubpvtltd/ai-agents-for-penetration-testing-claude-code-gamma4-ff5487d8db64?source=rss------bug_bounty-5) 
 
- - 💯May 1, 2026 - [From Source Code Review To Critical Vulnerability — Critical Firebase API Takeover](https://0xm0r4d.medium.com/from-source-code-review-to-critical-vulnerability-critical-firebase-api-takeover-e8f2ffa426bd?source=rss------bug_bounty-5) 
+ - 💯May 2, 2026 - [⚡ Full Automation — Recon → Exploit Pipeline &lpar;Part 6&rpar;](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/full-automation-recon-exploit-pipeline-part-6-aa5a217d414a?source=rss------bug_bounty-5) 
 
- - 💯May 1, 2026 - [How I discovered my first valid Bug](https://medium.com/@hayersam4/how-i-discovered-my-first-valid-bug-e1f1277c92e0?source=rss------bug_bounty-5) 
+ - 💯May 2, 2026 - [Introduction &amp; Phases Of Pentesting : From Structured Recon to Exploit Chaining ☠️](https://yashsec.medium.com/introduction-phases-of-pentesting-from-structured-recon-to-exploit-chaining-%EF%B8%8F-0f5676d584ca?source=rss------bug_bounty-5) 
 
- - 💯May 1, 2026 - [MultiCode — picoCTF Writeup &lpar;Layered Encoding Explained&rpar;](https://medium.com/@may.hack/multicode-picoctf-writeup-layered-encoding-explained-4f200da8a38d?source=rss------bug_bounty-5) 
+ - 💯May 2, 2026 - [I Received an Official Bug Bounty Certificate from a Major Payment Platform — Here Is What It Took](https://medium.com/@krithickcyber/i-received-an-official-bug-bounty-certificate-from-a-major-payment-platform-here-is-what-it-took-309f4d638d62?source=rss------bug_bounty-5) 
 
- - 💯May 1, 2026 - [How I Earned a Hall of Fame from NASA
-Success in bug bounty hunting isn’t just about the tools you…](https://medium.com/@arghasarkar9551/how-i-earned-a-hall-of-fame-from-nasa-success-in-bug-bounty-hunting-isnt-just-about-the-tools-you-5716973ec9fe?source=rss------bug_bounty-5) 
+ - 💯May 2, 2026 - [Threat Hunting for Network Based Attacks - LetsDefend [Part 2]](https://medium.com/@firdansp/threat-hunting-for-network-based-attacks-letsdefend-part-2-3817c9927dfc?source=rss------bug_bounty-5) 
 
- - 💯May 1, 2026 - [How I Turned $3 Into 8 Paid Bugs](https://medium.com/@0xs3fo/how-i-turned-3-into-8-paid-bugs-b81c5384465c?source=rss------bug_bounty-5) 
+ - 💯May 2, 2026 - [Credential Stuffing picoCTF Writeup](https://medium.com/@may.hack/credential-stuffing-picoctf-writeup-b6f74dfffe43?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
