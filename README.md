@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 3, 2026 - [Duplicate Avoid Karna Bug Bounty Ka Sabse Bada Dard: Smart Hunting Se Pehle Pahuncho, Pehle Kamao!](https://medium.com/@HackerMD/duplicate-avoid-karna-bug-bounty-ka-sabse-bada-dard-smart-hunting-se-pehle-pahuncho-pehle-kamao-530287e8f73d?source=rss------bug_bounty-5) 
+ - 💯May 4, 2026 - [A Missed Bug that caused a Major Breach: Lessons from Lovable HackerOne Incident](https://medium.com/@chubaa0116/a-missed-bug-that-caused-a-major-breach-lessons-from-lovable-hackerone-incident-0eeac48bfba4?source=rss------bug_bounty-5) 
 
- - 💯May 2, 2026 - [I Thought Learning Cybersecurity Was About Tools… Then AI Changed Everything](https://medium.com/@danielsantiago10/i-thought-learning-cybersecurity-was-about-tools-then-ai-changed-everything-7c05b7fb731d?source=rss------bug_bounty-5) 
+ - 💯May 4, 2026 - [A Solo Researcher, a Fragmented Threat Pattern, and the Problem of Being Early](https://medium.com/@dandapper475/solo-supply-chain-research-sqashed-2025-patterns-e8a65fadef73?source=rss------bug_bounty-5) 
 
- - 💯May 2, 2026 - [Find SQL injection with burp Suite scanner](https://awais0x1.medium.com/discovering-an-sql-injection-with-burps-scanner-41c6c5910d84?source=rss------bug_bounty-5) 
+ - 💯May 4, 2026 - [Essential Solidity Functions Every Smart Contract Security Researcher Must Master](https://medium.com/@iamabraham/essential-solidity-functions-every-smart-contract-security-researcher-must-master-280ebeb059a9?source=rss------bug_bounty-5) 
 
- - 💯May 2, 2026 - [The “Invite Only” Loophole That Led to a $3,000 Payout](https://medium.com/@21bec131/the-invite-only-loophole-that-led-to-a-3-000-payout-53aff5cca73a?source=rss------bug_bounty-5) 
+ - 💯May 4, 2026 - [Python Se Bug Hunting Automate Karo Apne Tools Banao, 10x Fast Hunt Karo!](https://medium.com/@HackerMD/python-se-bug-hunting-automate-karo-apne-tools-banao-10x-fast-hunt-karo-431389d74255?source=rss------bug_bounty-5) 
 
- - 💯May 2, 2026 - [AI Agents for Penetration Testing | Claude Code &amp; Gamma4](https://medium.com/@pentesterclubpvtltd/ai-agents-for-penetration-testing-claude-code-gamma4-ff5487d8db64?source=rss------bug_bounty-5) 
+ - 💯May 4, 2026 - [Authentication &amp; Session Attacks: How Hackers Hijack Accounts Without Passwords](https://medium.com/@at.kishor.k/authentication-session-attacks-how-hackers-hijack-accounts-without-passwords-64f6d9574a19?source=rss------bug_bounty-5) 
 
- - 💯May 2, 2026 - [⚡ Full Automation — Recon → Exploit Pipeline &lpar;Part 6&rpar;](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/full-automation-recon-exploit-pipeline-part-6-aa5a217d414a?source=rss------bug_bounty-5) 
+ - 💯May 3, 2026 - [Printer Shares — picoCTF Writeup](https://medium.com/@may.hack/printer-shares-picoctf-writeup-181d74ea48b7?source=rss------bug_bounty-5) 
 
- - 💯May 2, 2026 - [Introduction &amp; Phases Of Pentesting : From Structured Recon to Exploit Chaining ☠️](https://yashsec.medium.com/introduction-phases-of-pentesting-from-structured-recon-to-exploit-chaining-%EF%B8%8F-0f5676d584ca?source=rss------bug_bounty-5) 
+ - 💯May 3, 2026 - [Broken Authentication &amp; 2FA Bybass ‘Business logic Error’](https://medium.com/@ghostxzx/broken-authentication-2fa-bybass-business-logic-error-ba24ee03a0d7?source=rss------bug_bounty-5) 
 
- - 💯May 2, 2026 - [I Received an Official Bug Bounty Certificate from a Major Payment Platform — Here Is What It Took](https://medium.com/@krithickcyber/i-received-an-official-bug-bounty-certificate-from-a-major-payment-platform-here-is-what-it-took-309f4d638d62?source=rss------bug_bounty-5) 
+ - 💯May 3, 2026 - [How I Found a Race Condition That Broke a Resource Limit &lpar;Real-World Case Study&rpar;](https://medium.com/@omaralgbry1/how-i-found-a-race-condition-that-broke-a-resource-limit-real-world-case-study-79bd09f29e8f?source=rss------bug_bounty-5) 
 
- - 💯May 2, 2026 - [Threat Hunting for Network Based Attacks - LetsDefend [Part 2]](https://medium.com/@firdansp/threat-hunting-for-network-based-attacks-letsdefend-part-2-3817c9927dfc?source=rss------bug_bounty-5) 
+ - 💯May 3, 2026 - [AI + Recon — Auto-Analyzing Results Like a Senior Pentester &lpar;Part 8&rpar;](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/ai-recon-auto-analyzing-results-like-a-senior-pentester-part-8-bbeeb8afba11?source=rss------bug_bounty-5) 
 
- - 💯May 2, 2026 - [Credential Stuffing picoCTF Writeup](https://medium.com/@may.hack/credential-stuffing-picoctf-writeup-b6f74dfffe43?source=rss------bug_bounty-5) 
+ - 💯May 3, 2026 - [Is Bug Bounty Dead in 2026? Claude Code Security Is Changing Everything!](https://meetcyber.net/is-bug-bounty-dead-in-2026-claude-code-security-is-changing-everything-ae9290ea11f7?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
