@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 6, 2026 - [OpenAI lance un bug bounty pour sécuriser GPT-5.5](https://marcbarbezat.medium.com/openai-lance-un-bug-bounty-pour-s%C3%A9curiser-gpt-5-5-a1ec7005e766?source=rss------bug_bounty-5) 
+ - 💯May 7, 2026 - [BUG-BOUNTY SERIES 11: Cross-Site Scripting &lpar;XSS&rpar;.](https://medium.com/@krisnawhy300/bug-bounty-series-11-cross-site-scripting-xss-f157b5303a44?source=rss------bug_bounty-5) 
 
- - 💯May 6, 2026 - [IDOR Hunting — Find Broken Authorization](https://medium.com/@cyber-ninjaaa/idor-hunting-find-broken-authorization-a57795ca7e9d?source=rss------bug_bounty-5) 
+ - 💯May 7, 2026 - [Bug Bounty Hunting in 2026](https://medium.com/@cyber-ninjaaa/bug-bounty-hunting-in-2026-27ec49d12e55?source=rss------bug_bounty-5) 
 
- - 💯May 6, 2026 - [BUG-BOUNTY SERIES 10: SQL Injection &lpar;SQLi&rpar;.](https://medium.com/@krisnawhy300/bug-bounty-series-10-sql-injection-sqli-b96b2f14d017?source=rss------bug_bounty-5) 
+ - 💯May 7, 2026 - [“Password Changed, Attacker Still Logged In: The Hidden Risk of Session Persistence” P4 Bug paid…](https://medium.com/@saijayanth25dec2003/password-changed-attacker-still-logged-in-the-hidden-risk-of-session-persistence-p4-bug-paid-d221291116c0?source=rss------bug_bounty-5) 
 
- - 💯May 6, 2026 - [BUG-BOUNTY SERIES 9: Memahami HTTP untuk Bug Bounty.](https://medium.com/@krisnawhy300/bug-bounty-series-9-memahami-http-untuk-bug-bounty-c6a11e452745?source=rss------bug_bounty-5) 
+ - 💯May 7, 2026 - [Github Dorking](https://medium.com/@bubraksher/github-dorking-24c53263f34b?source=rss------bug_bounty-5) 
 
- - 💯May 6, 2026 - [IDOR &lpar;Insecure Direct Object Reference&rpar;: Celah Kecil dengan Dampak Besar](https://medium.com/@gamawskt/idor-insecure-direct-object-reference-celah-kecil-dengan-dampak-besar-512060732e8e?source=rss------bug_bounty-5) 
+ - 💯May 7, 2026 - [Red Team vs Bug Bounty Career Grand Finale! Apna Path Choose Karo!](https://medium.com/@HackerMD/red-team-vs-bug-bounty-career-grand-finale-apna-path-choose-karo-64195a650030?source=rss------bug_bounty-5) 
 
- - 💯May 6, 2026 - [SendGrid Recon &amp; Hidden Infrastructure Hunting — Real Bug Bounty Workflow](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/sendgrid-recon-hidden-infrastructure-hunting-real-bug-bounty-workflow-2944516a884b?source=rss------bug_bounty-5) 
+ - 💯May 7, 2026 - [How I pwend my high school CS teacher](https://medium.com/@gombosakosroland/how-i-pwend-my-high-school-cs-teacher-a6b5495a9fb1?source=rss------bug_bounty-5) 
 
- - 💯May 6, 2026 - [WAF Bypass Firewalls Ko Kaise Todein! Filters Se Aage Niklo!](https://medium.com/@HackerMD/waf-bypass-firewalls-ko-kaise-todein-filters-se-aage-niklo-20efce0b20dc?source=rss------bug_bounty-5) 
+ - 💯May 6, 2026 - [HTB File Inclusion Skills Assessment — From LFI to RCE &lpar;Full Walkthrough&rpar;](https://meetcyber.net/htb-file-inclusion-skills-assessment-from-lfi-to-rce-full-walkthrough-b073fd8a185f?source=rss------bug_bounty-5) 
 
- - 💯May 6, 2026 - [Guía Definitiva GraphQL para Bug Bounty: Vulnerabilidades y Explotación](https://medium.com/@jpablo13/gu%C3%ADa-definitiva-graphql-para-bug-bounty-vulnerabilidades-y-explotaci%C3%B3n-39c27ac3b137?source=rss------bug_bounty-5) 
+ - 💯May 6, 2026 - [The Recon Goldmine Hidden Inside Exposed AI Instruction Files](https://medium.com/@nijina7/the-recon-goldmine-hidden-inside-exposed-ai-instruction-files-888991a63e9f?source=rss------bug_bounty-5) 
 
- - 💯May 5, 2026 - [LFI Prevention: How to Actually Fix File Inclusion Vulnerabilities](https://meetcyber.net/lfi-prevention-how-to-actually-fix-file-inclusion-vulnerabilities-9cda530d6c3f?source=rss------bug_bounty-5) 
-
- - 💯May 5, 2026 - [LFI Automated Scanning: Finding and Fuzzing with ffuf](https://meetcyber.net/lfi-automated-scanning-finding-and-fuzzing-with-ffuf-b1d0425e2953?source=rss------bug_bounty-5) 
+ - 💯May 6, 2026 - [Automating High-Risk Database Info Disclosure via GraphQL Misconfiguration](https://medium.com/@moonerror340/automating-high-risk-database-info-disclosure-via-graphql-misconfiguration-bd162134cb06?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
