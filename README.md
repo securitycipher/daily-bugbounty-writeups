@@ -2,23 +2,17 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 9, 2026 - [Git Version Control in Bug Bounty Hunting + Note Tracking with Obsidian: The Organization Framework…](https://securitytalent.medium.com/git-version-control-in-bug-bounty-hunting-note-tracking-with-obsidian-the-organization-framework-d27c474d54c4?source=rss------bug_bounty-5) 
+ - 💯May 10, 2026 - [IOS camera do not detect or warn against homograph domains leading to malicous website](https://vrseclabs.medium.com/ios-camera-do-not-detect-or-warn-against-homograph-domains-leading-to-malicous-website-5a39829d896c?source=rss------bug_bounty-5) 
 
- - 💯May 9, 2026 - [Exploiting Insecure Output Handling in LLMs via Indirect Prompt Injection &lpar;XSS&rpar;](https://infosecwriteups.com/exploiting-insecure-output-handling-in-llms-via-indirect-prompt-injection-xss-7807e198d9fc?source=rss------bug_bounty-5) 
+ - 💯May 9, 2026 - [Cloudflare Bypass via Real IP Leading to Remote Code Execution &lpar;RCE&rpar;](https://medium.com/@vaishalinagori112/cloudflare-bypass-via-real-ip-leading-to-remote-code-execution-rce-7076015085df?source=rss------bug_bounty-5) 
 
- - 💯May 9, 2026 - [Finding “Interesting” Endpoints The Clues Most Hunters Ignore](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/finding-interesting-endpoints-the-clues-most-hunters-ignore-990f196e5140?source=rss------bug_bounty-5) 
+ - 💯May 9, 2026 - [“5 Beginner Mistakes That Wasted My Time While Choosing Bug Bounty Targets”](https://medium.com/@eaglee.eye0011/5-beginner-mistakes-that-wasted-my-time-while-choosing-bug-bounty-targets-69c0bb035093?source=rss------bug_bounty-5) 
 
- - 💯May 9, 2026 - [How an “Out-of-Scope” XSS Led to a 300 CHF Bounty](https://medium.com/@asifebrahim580/how-an-out-of-scope-xss-led-to-a-300-chf-bounty-3a6b022469ce?source=rss------bug_bounty-5) 
+ - 💯May 9, 2026 - [From a Simple CSRF to Full Account Takeover](https://medium.com/@montaser_mohsen/from-a-simple-csrf-to-full-account-takeover-fb274a55c2da?source=rss------bug_bounty-5) 
 
- - 💯May 9, 2026 - [I submitted a vulnerability report through Metabugbounty, but they said another member had already…](https://medium.com/@kbao1525/i-submitted-a-vulnerability-report-through-metabugbounty-but-they-said-another-member-had-already-dea9aef7caaf?source=rss------bug_bounty-5) 
+ - 💯May 9, 2026 - [Turning Small Clues Into Big Bugs — The Details Most Hunters Ignore](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/turning-small-clues-into-big-bugs-the-details-most-hunters-ignore-1b42224ad759?source=rss------bug_bounty-5) 
 
- - 💯May 9, 2026 - [Jacko | Proving Grounds | Walkthrough | OSCP Preparation](https://medium.com/@SilentExploit/jacko-proving-grounds-walkthrough-oscp-preparation-eeb78ef0fb4c?source=rss------bug_bounty-5) 
+ - 💯May 9, 2026 - [IDOR in Email Preference Management — Unauthenticated Access &amp; Modification](https://medium.com/@dev_fr_/idor-in-email-preference-management-unauthenticated-access-modification-915a5f5c1fff?source=rss------bug_bounty-5) 
 
- - 💯May 9, 2026 - [Your Server Is Showing Everything It Shouldn’t -The Apache Directory Listing Deep Dive](https://medium.com/@gowthami09027/your-server-is-showing-everything-it-shouldnt-the-apache-directory-listing-deep-dive-3e2bc3c66edc?source=rss------bug_bounty-5) 
-
- - 💯May 9, 2026 - [Critical Multichain Signature Replay Vulnerability in Lombard Finance – Protocol Takeover Risk](https://medium.com/@jsmzproduction/critical-multichain-signature-replay-vulnerability-in-lombard-finance-protocol-takeover-risk-cbd15f75080a?source=rss------bug_bounty-5) 
-
- - 💯May 9, 2026 - [Login Page Testing Checklist: 15 Important Test Cases Every Security Tester Should Know](https://osintteam.blog/login-page-testing-checklist-15-important-test-cases-every-security-tester-should-know-58cef512f39e?source=rss------bug_bounty-5) 
-
- - 💯May 9, 2026 - [The Definitive Guide to GraphQL for Bug Bounty: Vulnerabilities and Exploitation](https://medium.com/@jpablo13/the-definitive-guide-to-graphql-for-bug-bounty-vulnerabilities-and-exploitation-61fe7e756ece?source=rss------bug_bounty-5) 
+ - 💯May 9, 2026 - [Threat Hunting for Network Based Attacks - LetsDefend [Part 3]](https://medium.com/@firdansp/threat-hunting-for-network-based-attacks-letsdefend-part-3-9aa1dc387901?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
