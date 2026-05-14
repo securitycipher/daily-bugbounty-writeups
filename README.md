@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 13, 2026 - [Thinking Beyond Automation — Why Scanners Miss Real Bugs](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/thinking-beyond-automation-why-scanners-miss-real-bugs-0fccc1813b06?source=rss------bug_bounty-5) 
+ - 💯May 14, 2026 - [BUG-BOUNTY SERIES 14: Command Injection. Eksploitasi Eksekusi Perintah Sistem pada Server](https://medium.com/@krisnawhy300/bug-bounty-series-14-command-injection-eksploitasi-eksekusi-perintah-sistem-pada-server-2d14edd73b94?source=rss------bug_bounty-5) 
 
- - 💯May 13, 2026 - [Fast Flux DNS &amp; Bulletproof Hosting: The Infrastructure Behind Persistent Threats](https://infosecwriteups.com/fast-flux-dns-bulletproof-hosting-the-infrastructure-behind-persistent-threats-943b799f1dbf?source=rss------bug_bounty-5) 
+ - 💯May 14, 2026 - [️ Building Attack Paths — How I Mentally Map Applications](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/%EF%B8%8F-building-attack-paths-how-i-mentally-map-applications-840d368bb110?source=rss------bug_bounty-5) 
 
- - 💯May 13, 2026 - [20+ Vulnerabilities in a Static Website — Bug Bounty Cheat Codes](https://medium.com/@mathewskuruvila32/20-vulnerabilities-in-a-static-website-bug-bounty-cheat-codes-44e0c0514eab?source=rss------bug_bounty-5) 
+ - 💯May 14, 2026 - [BUG-BOUNTY SERIES 13: IDOR &lpar;Insecure Direct Object Reference&rpar;.](https://medium.com/@krisnawhy300/bug-bounty-series-13-idor-insecure-direct-object-reference-8b2e01733b9c?source=rss------bug_bounty-5) 
 
- - 💯May 13, 2026 - [PortSwigger Lab -Broken Access Control &lpar;URL-based access control can be circumvented&rpar; Writeup](https://medium.com/@rahimsec0/portswigger-lab-broken-access-control-url-based-access-control-can-be-circumvented-writeup-6920a23aafa1?source=rss------bug_bounty-5) 
+ - 💯May 14, 2026 - [XAlgorix | Open-Source AI Agent for Penetration Testing](https://medium.com/@pentesterclubpvtltd/xalgorix-open-source-ai-agent-for-penetration-testing-78238a32fde5?source=rss------bug_bounty-5) 
 
- - 💯May 13, 2026 - [Breaking the Impersonation Barrier: A Deep Dive into Entity-Based Authorization Bypass](https://keen-i.medium.com/breaking-the-impersonation-barrier-a-deep-dive-into-entity-based-authorization-bypass-a3747dcb0047?source=rss------bug_bounty-5) 
+ - 💯May 14, 2026 - [Bug Bounty: Dijital Dünyanın Ödül Avcıları](https://turkiyeyayini.com/bug-bounty-dijital-d%C3%BCnyan%C4%B1n-%C3%B6d%C3%BCl-avc%C4%B1lar%C4%B1-8f7e5765eb58?source=rss------bug_bounty-5) 
 
- - 💯May 13, 2026 - [NoSQL Injection Guide: Fundamentals, Types, Exploitation, and Mitigation](https://medium.com/@jpablo13/nosql-injection-guide-fundamentals-types-exploitation-and-mitigation-dfe32baa4912?source=rss------bug_bounty-5) 
+ - 💯May 14, 2026 - [Exploiting LLM APIs with Excessive Agency | PortSwigger](https://medium.com/@katedtcore/exploiting-llm-apis-with-excessive-agency-portswigger-9b2bb3010732?source=rss------bug_bounty-5) 
 
- - 💯May 12, 2026 - [Bug Bounty Roadmap: $0 → $1,000 |Part-2](https://cybersecuritywriteups.com/bug-bounty-roadmap-0-1-000-part-2-a528763b5c90?source=rss------bug_bounty-5) 
+ - 💯May 14, 2026 - [SharePoint and OneDrive as Exfil Channels](https://medium.com/@paritoshblogs/sharepoint-and-onedrive-as-exfil-channels-5df52352eb02?source=rss------bug_bounty-5) 
 
- - 💯May 12, 2026 - [How a Hidden GraphQL Endpoint Turned Into a Serious Data Leak](https://medium.com/@0xJad/how-a-hidden-graphql-endpoint-turned-into-a-serious-data-leak-6e459cc2f56e?source=rss------bug_bounty-5) 
+ - 💯May 14, 2026 - [XSS to Database Exfiltration](https://he4am.medium.com/xss-to-database-exfiltration-44b6bc14e9bd?source=rss------bug_bounty-5) 
 
- - 💯May 12, 2026 - [How $456K Walked Out of Aurellion Labs Through a Door Nobody Locked](https://medium.com/@0xFlare/how-456k-walked-out-of-aurellion-labs-through-a-door-nobody-locked-62823c4ca6a6?source=rss------bug_bounty-5) 
+ - 💯May 14, 2026 - [JWT, OAuth, and Every Auth Method You’ll Meet in Web App Testing—Explained Simply](https://osintteam.blog/jwt-oauth-and-every-auth-method-youll-meet-in-web-app-testing-explained-simply-3b5555f9ae65?source=rss------bug_bounty-5) 
+
+ - 💯May 14, 2026 - [The Story of 45+ Stored XSS Bugs](https://he4am.medium.com/the-story-of-45-stored-xss-bugs-cb6585d0d1a0?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
