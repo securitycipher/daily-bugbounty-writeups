@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 17, 2026 - [Android SSL Pinning Bypass: Every Technique Ranked in 2025](https://medium.com/@akifkhan0120/android-ssl-pinning-bypass-every-technique-ranked-in-2025-6b14acfb09b7?source=rss------bug_bounty-5) 
+ - 💯May 18, 2026 - [# Why I Built VULNEX — A Practical Web Hacking Playbook for Bug Hunters](https://adce626.medium.com/why-i-built-vulnex-a-practical-web-hacking-playbook-for-bug-hunters-443168f43dd9?source=rss------bug_bounty-5) 
 
- - 💯May 17, 2026 - [⏳ Mistakes That Waste Time — The Habits That Keep Hunters Stuck](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/mistakes-that-waste-time-the-habits-that-keep-hunters-stuck-92792edda773?source=rss------bug_bounty-5) 
+ - 💯May 18, 2026 - [The Old Bug That Still Pays the Rent in 2026](https://medium.com/@masood.nfc77/the-old-bug-that-still-pays-the-rent-in-2026-ae9d03ba7bb1?source=rss------bug_bounty-5) 
 
- - 💯May 17, 2026 - [The CAT-WAY Experiment: How Japanese Slang Hacked LinkedIn’s Algorithm](https://medium.com/@dosukoi.yamada/the-cat-way-experiment-how-japanese-slang-hacked-linkedins-algorithm-1d25e9ad67bb?source=rss------bug_bounty-5) 
+ - 💯May 18, 2026 - [How I’d Start Bug Bounty Hunting if I Was Doing It Again in 2026](https://medium.com/@masood.nfc77/how-id-start-bug-bounty-hunting-if-i-was-doing-it-again-in-2026-e0be02b4af7d?source=rss------bug_bounty-5) 
 
- - 💯May 17, 2026 - [The 3 Bug Hunting Habits That Made Me Go From $0 to $5k &lpar;And None of Them Are “Run a Scanner”&rpar;](https://medium.com/@userwithheart/the-3-bug-hunting-habits-that-made-me-go-from-0-to-5k-and-none-of-them-are-run-a-scanner-ef4a36067fec?source=rss------bug_bounty-5) 
+ - 💯May 18, 2026 - [Ethereum Deep Dive Part 1: Accounts &amp; Transactions](https://medium.com/@HackerMD/ethereum-deep-dive-part-1-accounts-transactions-276fa55c1f30?source=rss------bug_bounty-5) 
 
- - 💯May 17, 2026 - [IDOR Vulnerabilities in Delivery Platform Affecting 5.4M+ Drivers](https://medium.com/@abdulhaqkhokhar/idor-vulnerabilities-in-delivery-platform-affecting-5-4m-drivers-ca4c8790493b?source=rss------bug_bounty-5) 
+ - 💯May 18, 2026 - [Hacking Android Banking Apps: A Full Security Walkthrough in 2026](https://medium.com/@akifkhan0120/hacking-android-banking-apps-a-full-security-walkthrough-in-2026-548cdaff6992?source=rss------bug_bounty-5) 
 
- - 💯May 16, 2026 - [Web Fuzzing](https://medium.com/@mertbaykal/web-fuzzing-c86968b36377?source=rss------bug_bounty-5) 
+ - 💯May 18, 2026 - [What Separates Top Hunters From Everyone Else](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/what-separates-top-hunters-from-everyone-else-b9000a7b281f?source=rss------bug_bounty-5) 
 
- - 💯May 16, 2026 - [FunboxEasyEnum | Proving Grounds | OSCP Preparation](https://medium.com/@SilentExploit/funboxeasyenum-proving-grounds-oscp-preparation-8c4ac72afc87?source=rss------bug_bounty-5) 
+ - 💯May 18, 2026 - [Debugging an Android Native Crash in Uber H3: The Missing libm.so Story](https://medium.com/@jesus.cabrera.network/debugging-an-android-native-crash-in-uber-h3-the-missing-libm-so-story-19080ad45510?source=rss------bug_bounty-5) 
 
- - 💯May 16, 2026 - [Phishing — Cross-Site Scripting](https://medium.com/@mertbaykal/phishing-cross-site-scripting-4b62d6d7d730?source=rss------bug_bounty-5) 
+ - 💯May 18, 2026 - [⚙️ 01. — Reflected XSS into HTML context with nothing encoded](https://medium.com/@The4v1/%EF%B8%8F-01-reflected-xss-into-html-context-with-nothing-encoded-796b35d2e5d6?source=rss------bug_bounty-5) 
 
- - 💯May 16, 2026 - [My Journey Into Bug Bounty &amp; Security Research Begins](https://medium.com/@imarvisec/my-journey-into-bug-bounty-security-research-begins-691c9f1239d4?source=rss------bug_bounty-5) 
+ - 💯May 18, 2026 - [️‍♂️ BLIND XSS &lpar; BXSS &rpar;](https://medium.com/@The4v1/%EF%B8%8F-%EF%B8%8F-blind-xss-bxss-7cc73c84d08e?source=rss------bug_bounty-5) 
 
- - 💯May 16, 2026 - [How I Bypassed SaaS Subscription Limits and Generated Unlimited API Keys.](https://medium.com/@omaralgbry1/while-poking-around-a-saas-platform-for-bug-bounty-research-i-ran-into-a-business-logic-flaw-that-ac52eab4b243?source=rss------bug_bounty-5) 
+ - 💯May 18, 2026 - [XSS — Cross-Site Scripting](https://medium.com/@The4v1/xss-cross-site-scripting-94e974e368b1?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
