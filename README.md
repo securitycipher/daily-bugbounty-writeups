@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 18, 2026 - [# Why I Built VULNEX — A Practical Web Hacking Playbook for Bug Hunters](https://adce626.medium.com/why-i-built-vulnex-a-practical-web-hacking-playbook-for-bug-hunters-443168f43dd9?source=rss------bug_bounty-5) 
+ - 💯May 19, 2026 - [How to Install Httpx Tool in Kali Linux &amp; WSL &lpar;Beginner friendly&rpar;](https://h4ckerstark1.medium.com/how-to-install-httpx-tool-in-kali-linux-wsl-beginner-friendly-23ec7050bf6a?source=rss------bug_bounty-5) 
 
- - 💯May 18, 2026 - [The Old Bug That Still Pays the Rent in 2026](https://medium.com/@masood.nfc77/the-old-bug-that-still-pays-the-rent-in-2026-ae9d03ba7bb1?source=rss------bug_bounty-5) 
+ - 💯May 19, 2026 - [Secrets That Survive Everything](https://infosecwriteups.com/secrets-that-survive-everything-28b0c6aa1aa4?source=rss------bug_bounty-5) 
 
- - 💯May 18, 2026 - [How I’d Start Bug Bounty Hunting if I Was Doing It Again in 2026](https://medium.com/@masood.nfc77/how-id-start-bug-bounty-hunting-if-i-was-doing-it-again-in-2026-e0be02b4af7d?source=rss------bug_bounty-5) 
+ - 💯May 19, 2026 - [A Pentester’s Methodology for Toxic Vulnerability Combinations](https://infosecwriteups.com/a-pentesters-methodology-for-toxic-vulnerability-combinations-993cd63ba2cf?source=rss------bug_bounty-5) 
 
- - 💯May 18, 2026 - [Ethereum Deep Dive Part 1: Accounts &amp; Transactions](https://medium.com/@HackerMD/ethereum-deep-dive-part-1-accounts-transactions-276fa55c1f30?source=rss------bug_bounty-5) 
+ - 💯May 19, 2026 - [I Got Admin Access to Chhattisgarh CCTNS in One Login Attempt](https://medium.com/@siddharth_1/i-got-admin-access-to-chhattisgarh-cctns-in-one-login-attempt-6f994f0f3f3d?source=rss------bug_bounty-5) 
 
- - 💯May 18, 2026 - [Hacking Android Banking Apps: A Full Security Walkthrough in 2026](https://medium.com/@akifkhan0120/hacking-android-banking-apps-a-full-security-walkthrough-in-2026-548cdaff6992?source=rss------bug_bounty-5) 
+ - 💯May 19, 2026 - [7 Recon Tricks That Paid Me Bounties](https://medium.com/@cyber-ninjaaa/7-recon-tricks-that-paid-me-bounties-a3279b0390af?source=rss------bug_bounty-5) 
 
- - 💯May 18, 2026 - [What Separates Top Hunters From Everyone Else](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/what-separates-top-hunters-from-everyone-else-b9000a7b281f?source=rss------bug_bounty-5) 
+ - 💯May 19, 2026 - [Curiosity, never giving up, and a little adventure — that’s all it takes!](https://medium.com/@amalashoka434/curiosity-never-giving-up-and-a-little-adventure-thats-all-it-takes-9827ab5f58a0?source=rss------bug_bounty-5) 
 
- - 💯May 18, 2026 - [Debugging an Android Native Crash in Uber H3: The Missing libm.so Story](https://medium.com/@jesus.cabrera.network/debugging-an-android-native-crash-in-uber-h3-the-missing-libm-so-story-19080ad45510?source=rss------bug_bounty-5) 
+ - 💯May 19, 2026 - [The XSS Escalation Playbook: From Basic Reflection to DOM Breakouts](https://medium.com/@ravsau00/the-xss-escalation-playbook-from-basic-reflection-to-dom-breakouts-551cd2b8d479?source=rss------bug_bounty-5) 
 
- - 💯May 18, 2026 - [⚙️ 01. — Reflected XSS into HTML context with nothing encoded](https://medium.com/@The4v1/%EF%B8%8F-01-reflected-xss-into-html-context-with-nothing-encoded-796b35d2e5d6?source=rss------bug_bounty-5) 
+ - 💯May 19, 2026 - [Paywall bypass exposing the premium articles for free](https://medium.com/@kripansuyal/paywall-bypass-exposing-the-premium-articles-for-free-6e4350cca0b1?source=rss------bug_bounty-5) 
 
- - 💯May 18, 2026 - [️‍♂️ BLIND XSS &lpar; BXSS &rpar;](https://medium.com/@The4v1/%EF%B8%8F-%EF%B8%8F-blind-xss-bxss-7cc73c84d08e?source=rss------bug_bounty-5) 
+ - 💯May 19, 2026 - [Ethereum Deep Dive Part 2: EVM &amp; Opcodes](https://medium.com/@HackerMD/ethereum-deep-dive-part-2-evm-opcodes-6464eec52158?source=rss------bug_bounty-5) 
 
- - 💯May 18, 2026 - [XSS — Cross-Site Scripting](https://medium.com/@The4v1/xss-cross-site-scripting-94e974e368b1?source=rss------bug_bounty-5) 
+ - 💯May 19, 2026 - [Guía de Race Conditions: Tipos, Explotación y Mitigación en APIs](https://medium.com/@jpablo13/gu%C3%ADa-de-race-conditions-tipos-explotaci%C3%B3n-y-mitigaci%C3%B3n-en-apis-2012d12192c7?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
