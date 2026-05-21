@@ -2,23 +2,24 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 20, 2026 - [Bypassing the Frontend Obfuscation: How I Uncovered a Company’s Entire Internal Architecture…](https://medium.com/@priyanshbhadoria5/bypassing-the-frontend-obfuscation-how-i-uncovered-a-companys-entire-internal-architecture-da95e27668c9?source=rss------bug_bounty-5) 
+ - 💯May 21, 2026 - [I Found a Prompt Injection Vulnerability in DeepHat - And They Never Responded](https://medium.com/@tanmoymondaltanmoy94/i-found-a-prompt-injection-vulnerability-in-deephat-and-they-never-responded-5e1faeedcc19?source=rss------bug_bounty-5) 
 
- - 💯May 20, 2026 - [Android API Security Testing: Where the Real Bounties Live in 2025](https://medium.com/@akifkhan0120/android-api-security-testing-where-the-real-bounties-live-in-2025-d3d9a3ed471a?source=rss------bug_bounty-5) 
+ - 💯May 21, 2026 - [How an Android App’s Misconfigured Firebase Database Exposed Sensitive Data](https://medium.com/@athultpme/how-an-android-apps-misconfigured-firebase-database-exposed-sensitive-data-f423d55c8377?source=rss------bug_bounty-5) 
 
- - 💯May 20, 2026 - [How I Discovered Account Takeover &lpar;ATO&rpar; via XSS and Open redirect](https://jeetpal2007.medium.com/how-i-discovered-account-takeover-ato-via-xss-and-open-redirect-36f640760451?source=rss------bug_bounty-5) 
+ - 💯May 21, 2026 - [How a College Website’s REST API Exposed Its Entire Attack Surface — User Enumeration…](https://medium.com/@padmesh77123/how-a-college-websites-rest-api-exposed-its-entire-attack-surface-user-enumeration-8f22f612f4da?source=rss------bug_bounty-5) 
 
- - 💯May 20, 2026 - [How I Bypassed OTP Verification on Quick Heal — Account Takeover Without Valid OTP [RESOLVED]](https://pradyumntiwarenexus.medium.com/how-i-bypassed-otp-verification-on-quick-heal-account-takeover-without-valid-otp-resolved-c7a56177191d?source=rss------bug_bounty-5) 
+ - 💯May 21, 2026 - [Cryptographic Failures — The #4 Vulnerability on the Web](https://medium.com/@vedanthore/cryptographic-failures-the-4-vulnerability-on-the-web-a026fa4693ea?source=rss------bug_bounty-5) 
 
- - 💯May 20, 2026 - [Solidity Basics Part 1: Language Fundamentals](https://medium.com/@HackerMD/solidity-basics-part-1-language-fundamentals-2e0bc5902e6e?source=rss------bug_bounty-5) 
+ - 💯May 21, 2026 - [The AI Flood That’s Killing Bug Bounty — And the Hidden Reason Nobody Is Talking About
+By Adil Ali](https://medium.com/@adilalee57/the-ai-flood-thats-killing-bug-bounty-and-the-hidden-reason-nobody-is-talking-about-by-adil-ali-c7c111f4a7f3?source=rss------bug_bounty-5) 
 
- - 💯May 20, 2026 - [️ Understanding Phishing Attack-SOC”Security Operation Center”](https://medium.com/@zoningxtr/%EF%B8%8F-understanding-phishing-attack-soc-security-operation-center-ec312b80812b?source=rss------bug_bounty-5) 
+ - 💯May 21, 2026 - [From Org Switcher to Org Takeover: An IDOR Story](https://medium.com/@xploiterr/from-org-switcher-to-org-takeover-an-idor-story-e8f8a5652cb9?source=rss------bug_bounty-5) 
 
- - 💯May 20, 2026 - [SSRF NEDİR, NASIL ÇALIŞIR?](https://medium.com/@YavuzSO/ssrf-nedi%CC%87r-nasil-%C3%A7ali%C5%9Fir-4561038d9b56?source=rss------bug_bounty-5) 
+ - 💯May 21, 2026 - [How a Simple URL Parameter Exposed Hidden Database Records](https://anoop-ambrose.medium.com/how-a-simple-url-parameter-exposed-hidden-database-records-34bdbafbd753?source=rss------bug_bounty-5) 
 
- - 💯May 20, 2026 - [Guide to Race Conditions: Types, Exploitation, and Mitigation in APIs](https://medium.com/@jpablo13/guide-to-race-conditions-types-exploitation-and-mitigation-in-apis-4bd6743f88fe?source=rss------bug_bounty-5) 
+ - 💯May 20, 2026 - [I Broke Into a GraphQL API Using a File Nobody Reads ️‍♂️](https://medium.com/@hazemoraby13/i-broke-into-a-graphql-api-using-a-file-nobody-reads-%EF%B8%8F-%EF%B8%8F-72cc3601f4a2?source=rss------bug_bounty-5) 
 
- - 💯May 19, 2026 - [Breaking OAuth Trust: An Analysis of CVE-2026–45430 in Backdrop CMS](https://medium.com/@me5476793/breaking-oauth-trust-an-analysis-of-cve-2026-45430-in-backdrop-cms-67192dd3d9ab?source=rss------bug_bounty-5) 
+ - 💯May 20, 2026 - [One Request, Two Parameters, Zero Validation](https://medium.com/@m3nsho/one-request-two-parameters-zero-validation-2092a17e7824?source=rss------bug_bounty-5) 
 
- - 💯May 19, 2026 - [Vibe Coding is Over! Here’s What Comes Next.](https://medium.com/@sahupriyanshu2006/vibe-coding-is-over-heres-what-comes-next-f718fd438e83?source=rss------bug_bounty-5) 
+ - 💯May 20, 2026 - [Password Reset Tokens in URLs: A Small Mistake That Can Lead to Account Takeover](https://medium.com/@abdulshakoor.seo.consultant/password-reset-tokens-in-urls-a-small-mistake-that-can-lead-to-account-takeover-cf18a94418cf?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
