@@ -2,24 +2,22 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 21, 2026 - [I Found a Prompt Injection Vulnerability in DeepHat - And They Never Responded](https://medium.com/@tanmoymondaltanmoy94/i-found-a-prompt-injection-vulnerability-in-deephat-and-they-never-responded-5e1faeedcc19?source=rss------bug_bounty-5) 
+ - 💯May 22, 2026 - [Found but a small recong](https://medium.com/@qa8453026/found-but-a-small-recong-0c734afa2d5b?source=rss------bug_bounty-5) 
 
- - 💯May 21, 2026 - [How an Android App’s Misconfigured Firebase Database Exposed Sensitive Data](https://medium.com/@athultpme/how-an-android-apps-misconfigured-firebase-database-exposed-sensitive-data-f423d55c8377?source=rss------bug_bounty-5) 
+ - 💯May 22, 2026 - [NeuroSploit AI  | Autonomous Penetration Testing Platform](https://medium.com/@pentesterclubpvtltd/neurosploit-ai-autonomous-penetration-testing-platform-129104121ea0?source=rss------bug_bounty-5) 
 
- - 💯May 21, 2026 - [How a College Website’s REST API Exposed Its Entire Attack Surface — User Enumeration…](https://medium.com/@padmesh77123/how-a-college-websites-rest-api-exposed-its-entire-attack-surface-user-enumeration-8f22f612f4da?source=rss------bug_bounty-5) 
+ - 💯May 22, 2026 - [I Built a 10-Phase Attack Surface Recon Framework from Scratch — Here’s Everything I Learned](https://medium.com/@sidharthsmenon1/i-built-a-10-phase-attack-surface-recon-framework-from-scratch-heres-everything-i-learned-a6bac051cc7c?source=rss------bug_bounty-5) 
 
- - 💯May 21, 2026 - [Cryptographic Failures — The #4 Vulnerability on the Web](https://medium.com/@vedanthore/cryptographic-failures-the-4-vulnerability-on-the-web-a026fa4693ea?source=rss------bug_bounty-5) 
+ - 💯May 22, 2026 - [Why Most Bug Bounty Hunters Fail at Recon &lpar;And How to Fix It&rpar;](https://medium.com/@vipulsonule71/why-most-bug-bounty-hunters-fail-at-recon-and-how-to-fix-it-d5565ff7a4ad?source=rss------bug_bounty-5) 
 
- - 💯May 21, 2026 - [The AI Flood That’s Killing Bug Bounty — And the Hidden Reason Nobody Is Talking About
-By Adil Ali](https://medium.com/@adilalee57/the-ai-flood-thats-killing-bug-bounty-and-the-hidden-reason-nobody-is-talking-about-by-adil-ali-c7c111f4a7f3?source=rss------bug_bounty-5) 
+ - 💯May 22, 2026 - [XSS Testing Checklist: 12 Important Test Cases Every Security Tester Should Know](https://osintteam.blog/xss-testing-checklist-12-important-test-cases-every-security-tester-should-know-7dad5d82f91c?source=rss------bug_bounty-5) 
 
- - 💯May 21, 2026 - [From Org Switcher to Org Takeover: An IDOR Story](https://medium.com/@xploiterr/from-org-switcher-to-org-takeover-an-idor-story-e8f8a5652cb9?source=rss------bug_bounty-5) 
+ - 💯May 22, 2026 - [SQL Injection Testing Checklist: 10 Important Test Cases Every Security Tester Should Know](https://osintteam.blog/sql-injection-testing-checklist-10-important-test-cases-every-security-tester-should-know-8844b1e20a78?source=rss------bug_bounty-5) 
 
- - 💯May 21, 2026 - [How a Simple URL Parameter Exposed Hidden Database Records](https://anoop-ambrose.medium.com/how-a-simple-url-parameter-exposed-hidden-database-records-34bdbafbd753?source=rss------bug_bounty-5) 
+ - 💯May 21, 2026 - [Pentesterlar neden Cache bilmeli?](https://zekikayaalp.medium.com/pentesterlar-neden-cache-bilmeli-33bcde08ed4c?source=rss------bug_bounty-5) 
 
- - 💯May 20, 2026 - [I Broke Into a GraphQL API Using a File Nobody Reads ️‍♂️](https://medium.com/@hazemoraby13/i-broke-into-a-graphql-api-using-a-file-nobody-reads-%EF%B8%8F-%EF%B8%8F-72cc3601f4a2?source=rss------bug_bounty-5) 
+ - 💯May 21, 2026 - [How I Found a Bug That Let Me Change My Account Email to Any Email Address Without Owning It](https://medium.com/@omaralgbry1/how-i-found-a-bug-that-let-me-change-my-account-email-to-any-email-address-without-owning-it-6e4a6d797330?source=rss------bug_bounty-5) 
 
- - 💯May 20, 2026 - [One Request, Two Parameters, Zero Validation](https://medium.com/@m3nsho/one-request-two-parameters-zero-validation-2092a17e7824?source=rss------bug_bounty-5) 
-
- - 💯May 20, 2026 - [Password Reset Tokens in URLs: A Small Mistake That Can Lead to Account Takeover](https://medium.com/@abdulshakoor.seo.consultant/password-reset-tokens-in-urls-a-small-mistake-that-can-lead-to-account-takeover-cf18a94418cf?source=rss------bug_bounty-5) 
+ - 💯May 21, 2026 - [أغرب حاجة في مجال الباونتي إنك ممكن تتعلم 6 شهور…
+ ومع ذلك متلاقيش ولا ثغرة واحدة.](https://medium.com/@firstbugpath/%D8%A3%D8%BA%D8%B1%D8%A8-%D8%AD%D8%A7%D8%AC%D8%A9-%D9%81%D9%8A-%D9%85%D8%AC%D8%A7%D9%84-%D8%A7%D9%84%D8%A8%D8%A7%D9%88%D9%86%D8%AA%D9%8A-%D8%A5%D9%86%D9%83-%D9%85%D9%85%D9%83%D9%86-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-6-%D8%B4%D9%87%D9%88%D8%B1-%D9%88%D9%85%D8%B9-%D8%B0%D9%84%D9%83-%D9%85%D8%AA%D9%84%D8%A7%D9%82%D9%8A%D8%B4-%D9%88%D9%84%D8%A7-%D8%AB%D8%BA%D8%B1%D8%A9-%D9%88%D8%A7%D8%AD%D8%AF%D8%A9-f4e3dfe7a5b1?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
