@@ -2,23 +2,22 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 23, 2026 - [Finding &amp; Exploiting Exposed Google API Keys for Bug $Bounties](https://infosecwriteups.com/finding-exploiting-exposed-google-api-keys-for-bug-bounties-5ce6685a4927?source=rss------bug_bounty-5) 
+ - 💯May 24, 2026 - [Race Condition Leading to Quota Bypass and Unlimited Resource Creation](https://medium.com/@z3r0_hunter/race-condition-leading-to-quota-bypass-and-unlimited-resource-creation-5f39c2d35127?source=rss------bug_bounty-5) 
 
- - 💯May 23, 2026 - [Hunting for Bugs When the Low-Hanging Fruit is Forbidden: A Deep Dive into Finding Reflected XSS](https://medium.com/@priyanshbhadoria5/hunting-for-bugs-when-the-low-hanging-fruit-is-forbidden-a-deep-dive-into-finding-reflected-xss-8d52f058ad78?source=rss------bug_bounty-5) 
+ - 💯May 24, 2026 - [BUG Framework: The Aggressive Bug Bounty Automation Tool I Built and Use Every Day](https://medium.com/@tanvir.infosec/bug-framework-the-aggressive-bug-bounty-automation-tool-i-built-and-use-every-day-8798742c5077?source=rss------bug_bounty-5) 
 
- - 💯May 23, 2026 - [AI is now finding more bugs than humans.](https://stansecure.medium.com/ai-is-now-finding-more-bugs-than-humans-37b7ae1e63d2?source=rss------bug_bounty-5) 
+ - 💯May 23, 2026 - [Web Cache Deception : Comment j’ai volé la clé API d’un utilisateur avec Burp Suite](https://medium.com/@kernraphael664/web-cache-deception-comment-jai-vol%C3%A9-la-cl%C3%A9-api-d-un-utilisateur-avec-burp-suite-9bede6cf963f?source=rss------bug_bounty-5) 
 
- - 💯May 23, 2026 - [The Beginner Bug Hunter Mindset Nobody Teaches](https://medium.com/@drishtipandey/the-beginner-bug-hunter-mindset-nobody-teaches-97f493868340?source=rss------bug_bounty-5) 
+ - 💯May 23, 2026 - [Your First Android Bug Bounty Report: From Finding to Payout in 2025](https://medium.com/@akifkhan0120/your-first-android-bug-bounty-report-from-finding-to-payout-in-2025-444cb4888bcd?source=rss------bug_bounty-5) 
 
- - 💯May 23, 2026 - [Testing SQL Injection Using Google gemma4:31b-cloud on PortSwigger’s Vulnerable Shop](https://osintteam.blog/testing-sql-injection-using-google-gemma4-31b-cloud-on-portswiggers-vulnerable-shop-ef9dc05dd1aa?source=rss------bug_bounty-5) 
+ - 💯May 23, 2026 - [Exposing a Critical Uniswap V4 Hook Flaw: Cross-Pool Invariant Manipulation](https://coinsbench.com/exposing-a-critical-uniswap-v4-hook-flaw-cross-pool-invariant-manipulation-7063e344ecac?source=rss------bug_bounty-5) 
 
- - 💯May 22, 2026 - [Is SQLI still exist in the wild ? 2 SQLI 0 $](https://medium.com/@1ahmedsameh45/is-sqli-still-exist-in-the-wild-2-sqli-0-c6efc3371af9?source=rss------bug_bounty-5) 
+ - 💯May 23, 2026 - [Business Logic Vulnerabilities — From Price Tampering to Expert-Level Parser Attacks](https://medium.com/@nilanjan.calculus/business-logic-vulnerabilities-from-price-tampering-to-expert-level-parser-attacks-622b378963c2?source=rss------bug_bounty-5) 
 
- - 💯May 22, 2026 - [3 Brain-Dead Bugs Making Me Thousands in 2026](https://medium.com/@banisunil75/3-brain-dead-bugs-making-me-thousands-in-2026-385132100b64?source=rss------bug_bounty-5) 
+ - 💯May 23, 2026 - [XSS: Enjeksiyondan Kör Atağa
+Bir Saldırganın Not Defteri](https://medium.com/@buraktekcan2005/xss-enjeksiyondan-k%C3%B6r-ata%C4%9Fa-bir-sald%C4%B1rgan%C4%B1n-not-defteri-461c4ac048e0?source=rss------bug_bounty-5) 
 
- - 💯May 22, 2026 - [لا تبداء](https://medium.com/@firstbugpath/%D9%84%D8%A7-%D8%AA%D8%A8%D8%AF%D8%A7%D8%A1-23b346127339?source=rss------bug_bounty-5) 
+ - 💯May 23, 2026 - [Why My 100% Proof Met a 0% Bounty: The WordPress REST API Trap](https://meetcyber.net/why-my-100-proof-met-a-0-bounty-the-wordpress-rest-api-trap-084ec24d503b?source=rss------bug_bounty-5) 
 
- - 💯May 22, 2026 - [From Org Takeover to Pre-Auth Org Takeover: The Bypass](https://medium.com/@xploiterr/from-org-takeover-to-pre-auth-org-takeover-the-bypass-03f6a236cc3d?source=rss------bug_bounty-5) 
-
- - 💯May 22, 2026 - [Mass Assignment + JSON Validation Bypass: From Zero Access to Full Admin Takeover](https://medium.com/@0RedX_/mass-assignment-json-validation-bypass-from-zero-access-to-full-admin-takeover-fc478e5a94be?source=rss------bug_bounty-5) 
+ - 💯May 23, 2026 - [The Subdomain Discovery Method That Actually Finds Forgotten Servers &lpar;Google Dorks That Still Work&rpar;](https://medium.com/@userwithheart/the-subdomain-discovery-method-that-actually-finds-forgotten-servers-google-dorks-that-still-work-7611d10ca59c?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
