@@ -2,22 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 24, 2026 - [Race Condition Leading to Quota Bypass and Unlimited Resource Creation](https://medium.com/@z3r0_hunter/race-condition-leading-to-quota-bypass-and-unlimited-resource-creation-5f39c2d35127?source=rss------bug_bounty-5) 
+ - 💯May 25, 2026 - [How I Chained Three Bugs to XSS an Intigriti CTF — IDOR + DOM Clobbering + DOMPurify 3.0.9 Bypass](https://prateekpulastya.medium.com/how-i-chained-three-bugs-to-xss-an-intigriti-ctf-idor-dom-clobbering-dompurify-3-0-9-bypass-25b74fc7afc7?source=rss------bug_bounty-5) 
 
- - 💯May 24, 2026 - [BUG Framework: The Aggressive Bug Bounty Automation Tool I Built and Use Every Day](https://medium.com/@tanvir.infosec/bug-framework-the-aggressive-bug-bounty-automation-tool-i-built-and-use-every-day-8798742c5077?source=rss------bug_bounty-5) 
+ - 💯May 25, 2026 - [SS7 &amp; GSMEvil Explained | IMSI Catcher Demo 2026](https://medium.com/@pentesterclubpvtltd/ss7-gsmevil-explained-imsi-catcher-demo-2026-b87d56a59afe?source=rss------bug_bounty-5) 
 
- - 💯May 23, 2026 - [Web Cache Deception : Comment j’ai volé la clé API d’un utilisateur avec Burp Suite](https://medium.com/@kernraphael664/web-cache-deception-comment-jai-vol%C3%A9-la-cl%C3%A9-api-d-un-utilisateur-avec-burp-suite-9bede6cf963f?source=rss------bug_bounty-5) 
+ - 💯May 25, 2026 - [Web Önbelleği Zehirlenmesi](https://zekikayaalp.medium.com/web-%C3%B6nbelle%C4%9Fi-zehirlenmesi-925cb5ae9f52?source=rss------bug_bounty-5) 
 
- - 💯May 23, 2026 - [Your First Android Bug Bounty Report: From Finding to Payout in 2025](https://medium.com/@akifkhan0120/your-first-android-bug-bounty-report-from-finding-to-payout-in-2025-444cb4888bcd?source=rss------bug_bounty-5) 
+ - 💯May 25, 2026 - [How I Found 2 Bugs on BBC’s Subdomains and Made It Into Their Hall of Fame](https://infosecwriteups.com/how-i-found-2-bugs-on-bbcs-subdomains-and-made-it-into-their-hall-of-fame-86fc4be89e68?source=rss------bug_bounty-5) 
 
- - 💯May 23, 2026 - [Exposing a Critical Uniswap V4 Hook Flaw: Cross-Pool Invariant Manipulation](https://coinsbench.com/exposing-a-critical-uniswap-v4-hook-flaw-cross-pool-invariant-manipulation-7063e344ecac?source=rss------bug_bounty-5) 
+ - 💯May 25, 2026 - [Recon to Exploitation: Custom Bash One-Liners to Elevate Your Bug Bounty Game](https://alfazhossain0.medium.com/recon-to-exploitation-custom-bash-one-liners-to-elevate-your-bug-bounty-game-b867bda5d032?source=rss------bug_bounty-5) 
 
- - 💯May 23, 2026 - [Business Logic Vulnerabilities — From Price Tampering to Expert-Level Parser Attacks](https://medium.com/@nilanjan.calculus/business-logic-vulnerabilities-from-price-tampering-to-expert-level-parser-attacks-622b378963c2?source=rss------bug_bounty-5) 
+ - 💯May 25, 2026 - [One-Click Tool That Extracts Every Relative URL From Any Webpage Here’s Why It Matters](https://medium.com/@padhyepushkar/one-click-tool-that-extracts-every-relative-url-from-any-webpage-heres-why-it-matters-0a718e8c012f?source=rss------bug_bounty-5) 
 
- - 💯May 23, 2026 - [XSS: Enjeksiyondan Kör Atağa
-Bir Saldırganın Not Defteri](https://medium.com/@buraktekcan2005/xss-enjeksiyondan-k%C3%B6r-ata%C4%9Fa-bir-sald%C4%B1rgan%C4%B1n-not-defteri-461c4ac048e0?source=rss------bug_bounty-5) 
+ - 💯May 25, 2026 - [How I found my first bug in 2 hours : &lpar;Blind SQLi&rpar;Time based SQL Injection.](https://arcy-02.medium.com/how-i-found-my-first-bug-in-2-hours-blind-sqli-time-based-sql-injection-cb31b95eb7ac?source=rss------bug_bounty-5) 
 
- - 💯May 23, 2026 - [Why My 100% Proof Met a 0% Bounty: The WordPress REST API Trap](https://meetcyber.net/why-my-100-proof-met-a-0-bounty-the-wordpress-rest-api-trap-084ec24d503b?source=rss------bug_bounty-5) 
+ - 💯May 25, 2026 - [The “Noise Filter” Method – How I Stop Wasting Hours on False Positives](https://medium.com/@userwithheart/the-noise-filter-method-how-i-stop-wasting-hours-on-false-positives-9c74b1e53640?source=rss------bug_bounty-5) 
 
- - 💯May 23, 2026 - [The Subdomain Discovery Method That Actually Finds Forgotten Servers &lpar;Google Dorks That Still Work&rpar;](https://medium.com/@userwithheart/the-subdomain-discovery-method-that-actually-finds-forgotten-servers-google-dorks-that-still-work-7611d10ca59c?source=rss------bug_bounty-5) 
+ - 💯May 25, 2026 - [I Found 3 Critical Vulnerabilities in an AI-Powered SOC Platform — Full Attack Chain](https://alisalive.medium.com/i-found-3-critical-vulnerabilities-in-an-ai-powered-soc-platform-full-attack-chain-e37a5733002e?source=rss------bug_bounty-5) 
+
+ - 💯May 25, 2026 - [My Experience With H&amp;M’s Bug Bounty Program](https://medium.com/@amirghbeigi_92625/my-experience-with-h-ms-bug-bounty-program-7dc4185945e5?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
