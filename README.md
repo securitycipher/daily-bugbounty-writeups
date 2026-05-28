@@ -2,19 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 27, 2026 - [Wide Recon, Deep Impact: Finding HIGH &amp; MEDIUM Severity Bugs in an Enterprise SaaS Platform](https://medium.com/@divakarvasani3938/wide-recon-deep-impact-finding-high-medium-severity-bugs-in-an-enterprise-saas-platform-d3b4b394cc26?source=rss------bug_bounty-5) 
+ - 💯May 28, 2026 - [Cybe Uncle — a cybersecurity community for EVERYONE.](https://medium.com/@Uncle22432/cybe-uncle-a-cybersecurity-community-for-everyone-5ea91cb8474c?source=rss------bug_bounty-5) 
 
- - 💯May 27, 2026 - [My First CVE! The Journey to Discovering CVE-2026–46620 in e107 CMS](https://mrknightnidu.medium.com/my-first-cve-the-journey-to-discovering-cve-2026-46620-in-e107-cms-0b6d0a078c7f?source=rss------bug_bounty-5) 
+ - 💯May 28, 2026 - [How I Found a Gambling Website Hosted on an Official Company Subdomain — Bug Bounty Write-up](https://medium.com/@divakarvasani3938/how-i-found-a-gambling-website-hosted-on-an-official-company-subdomain-bug-bounty-write-up-26b650556dd1?source=rss------bug_bounty-5) 
 
- - 💯May 27, 2026 - [Day 3 — Content Discovery &amp; Attack Surface Mapping](https://medium.com/@pritamtare029/day-3-content-discovery-attack-surface-mapping-1b0ca318c457?source=rss------bug_bounty-5) 
+ - 💯May 28, 2026 - [2FA Bypass via redirect uri manipulation](https://medium.com/@ahmadfaizabdilla/2fa-bypass-via-redirect-uri-manipulation-a32679272631?source=rss------bug_bounty-5) 
 
- - 💯May 27, 2026 - [One Agent, Five Zero-Days: Turning Past CVEs Into SAST Rules](https://infosecwriteups.com/one-agent-five-zero-days-turning-past-cves-into-sast-rules-650c32b20032?source=rss------bug_bounty-5) 
+ - 💯May 28, 2026 - [I Found a Critical Vulnerability — They Paid Me $15,500](https://medium.com/@tanvir.infosec/i-found-a-critical-vulnerability-they-paid-me-15-500-9976ce313544?source=rss------bug_bounty-5) 
 
- - 💯May 27, 2026 - [GKeyhunter Pro: Revolutionizing Gemini API Key Reconnaissance and Impact Demonstration for Bug…](https://medium.com/@tanjimul_islam/gkeyhunter-pro-revolutionizing-gemini-api-key-reconnaissance-and-impact-demonstration-for-bug-f3ac32f1a540?source=rss------bug_bounty-5) 
+ - 💯May 28, 2026 - [The One GraphQL Query That Finds IDORs in Seconds &lpar;And Why Most Hunters Skip It&rpar;](https://medium.com/@userwithheart/the-one-graphql-query-that-finds-idors-in-seconds-and-why-most-hunters-skip-it-92fec75dd8a3?source=rss------bug_bounty-5) 
 
- - 💯May 27, 2026 - [BAC + CSRF](https://medium.com/@rajveer_0101/bac-csrf-bceb26145135?source=rss------bug_bounty-5) 
+ - 💯May 27, 2026 - [File Upload Testing Checklist: 15 Important Test Cases + Every Bypass Method You Need to Know](https://osintteam.blog/file-upload-testing-checklist-15-important-test-cases-every-bypass-method-you-need-to-know-dd7603c0087b?source=rss------bug_bounty-5) 
 
- - 💯May 27, 2026 - [The File Upload Check That 90% of Hunters Forget &lpar;And How I Got $1500 From a JPEG&rpar;](https://medium.com/@userwithheart/the-file-upload-check-that-90-of-hunters-forget-and-how-i-got-1500-from-a-jpeg-008774a1e9b1?source=rss------bug_bounty-5) 
+ - 💯May 27, 2026 - [24 Characters to Super Admin](https://medium.com/@xploiterr/24-characters-to-super-admin-a4a9b6417fd4?source=rss------bug_bounty-5) 
 
- - 💯May 27, 2026 - [Advanced Guide to Exploiting and Mitigating CORS in Bug Bounty Programs](https://medium.com/@jpablo13/advanced-guide-to-exploiting-and-mitigating-cors-in-bug-bounty-programs-29df758b71b7?source=rss------bug_bounty-5) 
+ - 💯May 27, 2026 - [I Exploited a Race Condition to Add Unlimited Restricted Items | Cyber Tamarin](https://cybertamarin.medium.com/i-exploited-a-race-condition-to-add-unlimited-restricted-items-cyber-tamarin-e878cb4d9106?source=rss------bug_bounty-5) 
+
+ - 💯May 27, 2026 - [How to Find Prompt Injection Vulnerabilities as a Bug Bounty Hunter &lpar;2026 Guide&rpar;](https://meetcyber.net/how-to-find-prompt-injection-vulnerabilities-as-a-bug-bounty-hunter-2026-guide-c1ed8ec726e7?source=rss------bug_bounty-5) 
+
+ - 💯May 27, 2026 - [KaliGPT: The Future of AI in Ethical Hacking](https://medium.com/@pentesterclubpvtltd/kaligpt-the-future-of-ai-in-ethical-hacking-fb5fbffa02e5?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
