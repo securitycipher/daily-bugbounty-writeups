@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 29, 2026 - [How We Bypassed an Axios Security Patch &lpar;CVE-2026–42043&rpar;: The 16-Million IP Loophole](https://infosecwriteups.com/how-we-bypassed-an-axios-security-patch-cve-2026-42043-the-16-million-ip-loophole-6f2dd8968757?source=rss------bug_bounty-5) 
+ - 💯May 30, 2026 - [The Bug Bounty Landscape in 2026: What Serious Hunters Need to Know](https://infyra.medium.com/the-bug-bounty-landscape-in-2026-what-serious-hunters-need-to-know-c556953cb100?source=rss------bug_bounty-5) 
 
- - 💯May 29, 2026 - [Why Subdomain Takeovers Are Still the Easiest Bounty Money in 2026](https://medium.com/@masood.nfc77/why-subdomain-takeovers-are-still-the-easiest-bounty-money-in-2026-8a5221c2cdf0?source=rss------bug_bounty-5) 
+ - 💯May 30, 2026 - [SecLeaf Q2 CTF 2026 Writeups](https://infosecwriteups.com/secleaf-q2-ctf-2026-writeups-e44b5326456a?source=rss------bug_bounty-5) 
 
- - 💯May 29, 2026 - [What Actually Happens When You Use AI to Hunt Bug Bounties in 2026](https://medium.com/@masood.nfc77/what-actually-happens-when-you-use-ai-to-hunt-bug-bounties-in-2026-20ce63d7abce?source=rss------bug_bounty-5) 
+ - 💯May 30, 2026 - [The Dumbest Bug I Ever Found &lpar;And Why Complexity Is Overrated&rpar;](https://medium.com/@userwithheart/the-dumbest-bug-i-ever-found-and-why-complexity-is-overrated-d9e566848151?source=rss------bug_bounty-5) 
 
- - 💯May 29, 2026 - [20 Web Developer Mistakes That Make a Penetration Tester’s Job Easy](https://cybersecuritywriteups.com/20-web-developer-mistakes-that-make-a-penetration-testers-job-easy-65d2255efd56?source=rss------bug_bounty-5) 
+ - 💯May 30, 2026 - [JWT Security Testing Methodology: A Complete Guide for Bug Bounty Hunters](https://medium.com/@mohahakeem566/jwt-security-testing-methodology-a-complete-guide-for-bug-bounty-hunters-1b4547c85fa5?source=rss------bug_bounty-5) 
 
- - 💯May 29, 2026 - [Day 5 — Identifying Entry Points in Web Applications](https://medium.com/@pritamtare029/day-5-identifying-entry-points-in-web-applications-d779a883dc20?source=rss------bug_bounty-5) 
+ - 💯May 29, 2026 - [Reporting a Low-Severity YouTube Logic Issue to Google Taught Me a Lot](https://medium.com/@m4inal/i-reported-a-youtube-logic-issue-to-google-my-first-real-vulnerability-disclosure-experience-616593c392d4?source=rss------bug_bounty-5) 
 
- - 💯May 29, 2026 - [Race Conditions Are Simpler Than You Think &lpar;Here’s How I Test for Them&rpar;](https://medium.com/@userwithheart/race-conditions-are-simpler-than-you-think-heres-how-i-test-for-them-bcd88adcc1da?source=rss------bug_bounty-5) 
+ - 💯May 29, 2026 - [CSRF Account Takeover: Rejected by the Security Team, Rewarded by the Security Director &lpar;$$titlerpar;](https://medium.com/@bhavishthakral123/csrf-account-takeover-rejected-by-the-security-team-rewarded-by-the-security-director-d00022676d87?source=rss------bug_bounty-5) 
 
- - 💯May 29, 2026 - [Solidity Basics Part 2: OOP &amp; Inheritance](https://medium.com/@HackerMD/solidity-basics-part-2-oop-inheritance-60c00ba3170f?source=rss------bug_bounty-5) 
+ - 💯May 29, 2026 - [Private Polls? Not Really — Exploiting Access Control and Logic Flaws](https://medium.com/@yosefmostef99/private-polls-not-really-exploiting-access-control-and-logic-flaws-943ff0bb5cc4?source=rss------bug_bounty-5) 
 
- - 💯May 29, 2026 - [They Closed It as N/A. Then They Silently Patched It. Here’s The Full Story.](https://medium.com/@atanupal22256/they-closed-it-as-n-a-then-they-silently-patched-it-heres-the-full-story-a8d30124c4d2?source=rss------bug_bounty-5) 
+ - 💯May 29, 2026 - [SAML Username Collision Leading to Full ATO](https://medium.com/@m0n3m/saml-username-collision-leading-to-full-ato-b1f3595e1cc8?source=rss------bug_bounty-5) 
 
- - 💯May 29, 2026 - [Bypassing an Admin Feature Flag Through a Side Door](https://medium.com/@enums/bypassing-an-admin-feature-flag-through-a-side-door-b8e3dc7feca1?source=rss------bug_bounty-5) 
+ - 💯May 29, 2026 - [The Definitive Guide to Subdomain Enumeration](https://medium.com/@tanvir.infosec/the-definitive-guide-to-subdomain-enumeration-e2c04476ef27?source=rss------bug_bounty-5) 
+
+ - 💯May 29, 2026 - [Race Conditions — The $15k Bug That Breaks Logic](https://medium.com/@cyber-ninjaaa/race-conditions-the-15k-bug-that-breaks-logic-bed2f325bc04?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
