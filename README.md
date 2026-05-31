@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 30, 2026 - [The Bug Bounty Landscape in 2026: What Serious Hunters Need to Know](https://infyra.medium.com/the-bug-bounty-landscape-in-2026-what-serious-hunters-need-to-know-c556953cb100?source=rss------bug_bounty-5) 
+ - 💯May 31, 2026 - [Why Most Web3 Projects Launch Without Real User Testing &lpar;And Pay the Price&rpar;](https://medium.com/@admin.prooflab/why-most-web3-projects-launch-without-real-user-testing-and-pay-the-price-34a9185552a0?source=rss------bug_bounty-5) 
 
- - 💯May 30, 2026 - [SecLeaf Q2 CTF 2026 Writeups](https://infosecwriteups.com/secleaf-q2-ctf-2026-writeups-e44b5326456a?source=rss------bug_bounty-5) 
+ - 💯May 31, 2026 - [Day 7 — Enumerating Applications on Web Servers](https://medium.com/@pritamtare029/day-7-enumerating-applications-on-web-servers-0e8faccda064?source=rss------bug_bounty-5) 
 
- - 💯May 30, 2026 - [The Dumbest Bug I Ever Found &lpar;And Why Complexity Is Overrated&rpar;](https://medium.com/@userwithheart/the-dumbest-bug-i-ever-found-and-why-complexity-is-overrated-d9e566848151?source=rss------bug_bounty-5) 
+ - 💯May 31, 2026 - [I Found a Bug That Could Silently Flip Anyone’s Content Preferences on a Major Adult Site.](https://medium.com/@anshbohra10/i-found-a-bug-that-could-silently-flip-anyones-content-preferences-on-a-major-adult-site-6fc29e2d2470?source=rss------bug_bounty-5) 
 
- - 💯May 30, 2026 - [JWT Security Testing Methodology: A Complete Guide for Bug Bounty Hunters](https://medium.com/@mohahakeem566/jwt-security-testing-methodology-a-complete-guide-for-bug-bounty-hunters-1b4547c85fa5?source=rss------bug_bounty-5) 
+ - 💯May 31, 2026 - [Completely Stuck? Here’s How I Got Out of a Three-Week Dry Spell](https://medium.com/@userwithheart/completely-stuck-heres-how-i-got-out-of-a-three-week-dry-spell-3b5e52b82f89?source=rss------bug_bounty-5) 
 
- - 💯May 29, 2026 - [Reporting a Low-Severity YouTube Logic Issue to Google Taught Me a Lot](https://medium.com/@m4inal/i-reported-a-youtube-logic-issue-to-google-my-first-real-vulnerability-disclosure-experience-616593c392d4?source=rss------bug_bounty-5) 
+ - 💯May 31, 2026 - [TryHackMe — Jr Penetration Tester Learning Path](https://medium.com/@Kamal_S/tryhackme-jr-penetration-tester-learning-path-df079b558aa1?source=rss------bug_bounty-5) 
 
- - 💯May 29, 2026 - [CSRF Account Takeover: Rejected by the Security Team, Rewarded by the Security Director &lpar;$$titlerpar;](https://medium.com/@bhavishthakral123/csrf-account-takeover-rejected-by-the-security-team-rewarded-by-the-security-director-d00022676d87?source=rss------bug_bounty-5) 
+ - 💯May 31, 2026 - [iOS SSL Pinning Bypass: Every Technique Ranked in 2025](https://medium.com/@akifkhan0120/ios-ssl-pinning-bypass-every-technique-ranked-in-2025-863e5c49dae9?source=rss------bug_bounty-5) 
 
- - 💯May 29, 2026 - [Private Polls? Not Really — Exploiting Access Control and Logic Flaws](https://medium.com/@yosefmostef99/private-polls-not-really-exploiting-access-control-and-logic-flaws-943ff0bb5cc4?source=rss------bug_bounty-5) 
+ - 💯May 30, 2026 - [How I Automated Open Redirect Vulnerability Hunting Using a Single Terminal Command](https://medium.com/@sagax.sec/how-i-automated-open-redirect-vulnerability-hunting-using-a-single-terminal-command-6df641733650?source=rss------bug_bounty-5) 
 
- - 💯May 29, 2026 - [SAML Username Collision Leading to Full ATO](https://medium.com/@m0n3m/saml-username-collision-leading-to-full-ato-b1f3595e1cc8?source=rss------bug_bounty-5) 
+ - 💯May 30, 2026 - [File Upload Attacks: Bypassing Client-Side Validation](https://meetcyber.net/file-upload-attacks-bypassing-client-side-validation-40fe32c601dd?source=rss------bug_bounty-5) 
 
- - 💯May 29, 2026 - [The Definitive Guide to Subdomain Enumeration](https://medium.com/@tanvir.infosec/the-definitive-guide-to-subdomain-enumeration-e2c04476ef27?source=rss------bug_bounty-5) 
+ - 💯May 30, 2026 - [Admin Dashboard Accessible Without Authentication](https://medium.com/@GR1M/admin-dashboard-accessible-without-authentication-71cfb6867ccd?source=rss------bug_bounty-5) 
 
- - 💯May 29, 2026 - [Race Conditions — The $15k Bug That Breaks Logic](https://medium.com/@cyber-ninjaaa/race-conditions-the-15k-bug-that-breaks-logic-bed2f325bc04?source=rss------bug_bounty-5) 
+ - 💯May 30, 2026 - [Windows Persistence with Metasploit — Registry, Backdoors &amp; Reboots](https://medium.com/@betigetin/windows-persistence-with-metasploit-registry-backdoors-reboots-2620e1fb7bed?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
