@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯June 2, 2026 - [T-Pot Honeypot Platform Explained | Build Your Own Cyber Trap](https://medium.com/@pentesterclubpvtltd/t-pot-honeypot-platform-explained-build-your-own-cyber-trap-9342c812eedd?source=rss------bug_bounty-5) 
+ - 💯June 3, 2026 - [When “One-Time” Isn’t Enough: The Case of the Reusable Magic Link](https://medium.com/@jnassur45/when-one-time-isnt-enough-the-case-of-the-reusable-magic-link-a2d0237c6133?source=rss------bug_bounty-5) 
 
- - 💯June 2, 2026 - [How I Bypassed a Password Reset Rate Limit on a Bug Bounty Target](https://medium.com/@chotaliyasavan754/how-i-bypassed-a-password-reset-rate-limit-on-a-bug-bounty-target-b9451303cb55?source=rss------bug_bounty-5) 
+ - 💯June 3, 2026 - [No Username. No Password. Just a Header — A $3,000 Authentication Bypass](https://medium.com/@0xalr/no-username-no-password-just-a-header-a-3-000-authentication-bypass-9b42432b6c69?source=rss------bug_bounty-5) 
 
- - 💯June 2, 2026 - [Frontend Security &amp; Bug Hunting: The .env File Crisis and Real-World Exploitation](https://infosecwriteups.com/frontend-security-bug-hunting-the-env-file-crisis-and-real-world-exploitation-60c4fd28ab4b?source=rss------bug_bounty-5) 
+ - 💯June 3, 2026 - [Lab 1#: Exploiting an API endpoint using documentation | Api Testing](https://medium.com/@hazrd.005/lab-1-exploiting-an-api-endpoint-using-documentation-api-testing-e6c533928de2?source=rss------bug_bounty-5) 
 
- - 💯June 2, 2026 - [The 10-Minute Recon Routine That Finds What Scanners Miss](https://medium.com/@userwithheart/the-10-minute-recon-routine-that-finds-what-scanners-miss-32898accb63b?source=rss------bug_bounty-5) 
+ - 💯June 3, 2026 - [From a Single Parameter to Persistent Admin Access: A Privilege Escalation Rooted in Business Logic](https://medium.com/@vivekbhatt.sec/from-a-single-parameter-to-persistent-admin-access-a-privilege-escalation-rooted-in-business-logic-5492271d95dc?source=rss------bug_bounty-5) 
 
- - 💯June 2, 2026 - [The Dirty Secret of Apple’s Bug Bounty Program](https://amjohnphilip.medium.com/the-dirty-secret-of-apples-bug-bounty-program-b8e9d74da808?source=rss------bug_bounty-5) 
+ - 💯June 3, 2026 - [How I Started Learning Recon, Hunting Bugs &amp; Thinking Like a Hacker](https://medium.com/@gwzoheb/how-i-started-learning-recon-hunting-bugs-thinking-like-a-hacker-ea9b3caa368f?source=rss------bug_bounty-5) 
 
- - 💯June 2, 2026 - [,  :](https://medium.com/@The4v1/-54fe087ef074?source=rss------bug_bounty-5) 
+ - 💯June 3, 2026 - [Nginx Rift &lpar;CVE-2026–42945&rpar;](https://medium.com/@rezauditore/nginx-rift-cve-2026-42945-92e58b3e3128?source=rss------bug_bounty-5) 
 
- - 💯June 2, 2026 - [How I was able to Modify Ratings on a Target and Cause Business Impact](https://infosecwriteups.com/how-i-was-able-to-modify-ratings-on-a-target-and-cause-business-impact-f690fa0695b8?source=rss------bug_bounty-5) 
+ - 💯June 3, 2026 - [A Five-Agent Pipeline Is Quietly Changing How Bug Bounty Reports Get Written](https://medium.com/@gptaiclips/a-five-agent-pipeline-is-quietly-changing-how-bug-bounty-reports-get-written-ba3b2de76175?source=rss------bug_bounty-5) 
 
- - 💯June 2, 2026 - [Uncovering the Blind Spot: Bypassing a Security Patch &lpar;CVE-2026–24884&rpar; to Achieve Arbitrary File…](https://infosecwriteups.com/uncovering-the-blind-spot-bypassing-a-security-patch-cve-2026-24884-to-achieve-arbitrary-file-bc385eaa73fa?source=rss------bug_bounty-5) 
+ - 💯June 3, 2026 - [The Payload That Bypassed the Filter](https://elcazad0r.medium.com/the-payload-that-bypassed-the-filter-98b5034f78fa?source=rss------bug_bounty-5) 
 
- - 💯June 2, 2026 - [Naive_Receiver walk through](https://medium.com/@modasiyamahin14/naive-receiver-walk-through-f03c0dbedbb5?source=rss------bug_bounty-5) 
+ - 💯June 3, 2026 - [What I Learned While Testing a Ride-Sharing Application](https://medium.com/@kawilliamska/what-i-learned-while-testing-a-ride-sharing-application-ca4a2e96be8d?source=rss------bug_bounty-5) 
+
+ - 💯June 3, 2026 - [SpyAI Explained | Passive Reconnaissance for AI Systems](https://medium.com/@pentesterclubpvtltd/spyai-explained-passive-reconnaissance-for-ai-systems-de13506422e0?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
