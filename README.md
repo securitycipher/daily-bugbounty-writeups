@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯June 3, 2026 - [When “One-Time” Isn’t Enough: The Case of the Reusable Magic Link](https://medium.com/@jnassur45/when-one-time-isnt-enough-the-case-of-the-reusable-magic-link-a2d0237c6133?source=rss------bug_bounty-5) 
+ - 💯June 4, 2026 - [My First Bug in College Portal -IDOR,PII,SQL over 30,000 students information Leaks.](https://medium.com/@loki1818/my-first-bug-in-my-college-portal-idor-pii-sql-over-30-000-students-information-leaks-ed4e5e83a500?source=rss------bug_bounty-5) 
 
- - 💯June 3, 2026 - [No Username. No Password. Just a Header — A $3,000 Authentication Bypass](https://medium.com/@0xalr/no-username-no-password-just-a-header-a-3-000-authentication-bypass-9b42432b6c69?source=rss------bug_bounty-5) 
+ - 💯June 4, 2026 - [OSI Model Layer 7: Application Layer](https://cyber-tech-by-kk.medium.com/osi-model-layer-7-application-layer-def3d83cf53d?source=rss------bug_bounty-5) 
 
- - 💯June 3, 2026 - [Lab 1#: Exploiting an API endpoint using documentation | Api Testing](https://medium.com/@hazrd.005/lab-1-exploiting-an-api-endpoint-using-documentation-api-testing-e6c533928de2?source=rss------bug_bounty-5) 
+ - 💯June 4, 2026 - [How I Discovered Two Critical Authorization Bugs in a Web Application](https://mrshan.medium.com/how-i-discovered-two-critical-authorization-bugs-in-a-web-application-62af14a15df7?source=rss------bug_bounty-5) 
 
- - 💯June 3, 2026 - [From a Single Parameter to Persistent Admin Access: A Privilege Escalation Rooted in Business Logic](https://medium.com/@vivekbhatt.sec/from-a-single-parameter-to-persistent-admin-access-a-privilege-escalation-rooted-in-business-logic-5492271d95dc?source=rss------bug_bounty-5) 
+ - 💯June 4, 2026 - [I Bought a ₹1,599 Government Book for ₹1. The Server Approved It.](https://infosecwriteups.com/i-bought-a-1-599-government-book-for-1-the-server-approved-it-8a832499b1fb?source=rss------bug_bounty-5) 
 
- - 💯June 3, 2026 - [How I Started Learning Recon, Hunting Bugs &amp; Thinking Like a Hacker](https://medium.com/@gwzoheb/how-i-started-learning-recon-hunting-bugs-thinking-like-a-hacker-ea9b3caa368f?source=rss------bug_bounty-5) 
+ - 💯June 4, 2026 - [I Typed 000000 and the App Thought MFA Was Already On](https://infosecwriteups.com/i-typed-000000-and-the-app-thought-mfa-was-already-on-8c21968e117a?source=rss------bug_bounty-5) 
 
- - 💯June 3, 2026 - [Nginx Rift &lpar;CVE-2026–42945&rpar;](https://medium.com/@rezauditore/nginx-rift-cve-2026-42945-92e58b3e3128?source=rss------bug_bounty-5) 
+ - 💯June 4, 2026 - [10 Free OSINT Tools I Use Almost Every Day](https://medium.com/@paritoshblogs/10-free-osint-tools-i-use-almost-every-day-3c17f3805ff9?source=rss------bug_bounty-5) 
 
- - 💯June 3, 2026 - [A Five-Agent Pipeline Is Quietly Changing How Bug Bounty Reports Get Written](https://medium.com/@gptaiclips/a-five-agent-pipeline-is-quietly-changing-how-bug-bounty-reports-get-written-ba3b2de76175?source=rss------bug_bounty-5) 
+ - 💯June 4, 2026 - [AUTOMATICÉ EL RECONOCIMIENTO EN BUG BOUNTY CON GEMINI 2.5](https://medium.com/@sebastianduarte_55698/automatic%C3%A9-el-reconocimiento-en-bug-bounty-con-gemini-2-5-24857c48f5ef?source=rss------bug_bounty-5) 
 
- - 💯June 3, 2026 - [The Payload That Bypassed the Filter](https://elcazad0r.medium.com/the-payload-that-bypassed-the-filter-98b5034f78fa?source=rss------bug_bounty-5) 
+ - 💯June 4, 2026 - [Environment Setup Web3 Hacker Ka Setup](https://medium.com/@HackerMD/environment-setup-web3-hacker-ka-setup-eb81855e7b98?source=rss------bug_bounty-5) 
 
- - 💯June 3, 2026 - [What I Learned While Testing a Ride-Sharing Application](https://medium.com/@kawilliamska/what-i-learned-while-testing-a-ride-sharing-application-ca4a2e96be8d?source=rss------bug_bounty-5) 
+ - 💯June 4, 2026 - [Full server takeover ssh leak &lpar;dell technologies&rpar; by &lpar;RECON&rpar;](https://medium.com/@omar_ahmed496/full-server-takeover-ssh-leak-dell-technologies-by-recon-a7c54ee5e6a6?source=rss------bug_bounty-5) 
 
- - 💯June 3, 2026 - [SpyAI Explained | Passive Reconnaissance for AI Systems](https://medium.com/@pentesterclubpvtltd/spyai-explained-passive-reconnaissance-for-ai-systems-de13506422e0?source=rss------bug_bounty-5) 
+ - 💯June 3, 2026 - [The Gmail “Zombie Token” Google Refused to Kill](https://osintteam.blog/the-gmail-zombie-token-google-refused-to-kill-b2f77f262a9d?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
