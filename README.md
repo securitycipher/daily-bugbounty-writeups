@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯June 4, 2026 - [My First Bug in College Portal -IDOR,PII,SQL over 30,000 students information Leaks.](https://medium.com/@loki1818/my-first-bug-in-my-college-portal-idor-pii-sql-over-30-000-students-information-leaks-ed4e5e83a500?source=rss------bug_bounty-5) 
+ - 💯June 5, 2026 - [Web Authentication Testing Methodology for Bug Bounty &amp; Pentesting](https://medium.com/@ksridharpentester/web-authentication-testing-methodology-for-bug-bounty-pentesting-65abb7032c12?source=rss------bug_bounty-5) 
 
- - 💯June 4, 2026 - [OSI Model Layer 7: Application Layer](https://cyber-tech-by-kk.medium.com/osi-model-layer-7-application-layer-def3d83cf53d?source=rss------bug_bounty-5) 
+ - 💯June 5, 2026 - [Forgot Password Functionality Can Be Hacked Easily if Not Correctly Implemented](https://medium.com/@amalashoka434/forgot-password-functionality-can-be-hacked-easily-if-not-correctly-implemented-45abcec468d5?source=rss------bug_bounty-5) 
 
- - 💯June 4, 2026 - [How I Discovered Two Critical Authorization Bugs in a Web Application](https://mrshan.medium.com/how-i-discovered-two-critical-authorization-bugs-in-a-web-application-62af14a15df7?source=rss------bug_bounty-5) 
+ - 💯June 5, 2026 - [Vigolium Explained | AI-Powered Vulnerability Scanning](https://medium.com/@pentesterclubpvtltd/vigolium-explained-ai-powered-vulnerability-scanning-02721a8b1ece?source=rss------bug_bounty-5) 
 
- - 💯June 4, 2026 - [I Bought a ₹1,599 Government Book for ₹1. The Server Approved It.](https://infosecwriteups.com/i-bought-a-1-599-government-book-for-1-the-server-approved-it-8a832499b1fb?source=rss------bug_bounty-5) 
+ - 💯June 5, 2026 - [When “Typically Identical to Production” Isn’t Enough](https://medium.com/@haykeenspaul/when-typically-identical-to-production-isnt-enough-d7c2741c80c3?source=rss------bug_bounty-5) 
 
- - 💯June 4, 2026 - [I Typed 000000 and the App Thought MFA Was Already On](https://infosecwriteups.com/i-typed-000000-and-the-app-thought-mfa-was-already-on-8c21968e117a?source=rss------bug_bounty-5) 
+ - 💯June 5, 2026 - [Foundry Mastery Part 1: Basics](https://medium.com/@HackerMD/foundry-mastery-part-1-basics-066e4c3463bf?source=rss------bug_bounty-5) 
 
- - 💯June 4, 2026 - [10 Free OSINT Tools I Use Almost Every Day](https://medium.com/@paritoshblogs/10-free-osint-tools-i-use-almost-every-day-3c17f3805ff9?source=rss------bug_bounty-5) 
+ - 💯June 5, 2026 - [You Don’t Need More Tools. You Need Better Habits.](https://medium.com/@bughunting/you-dont-need-more-tools-you-need-better-habits-79fba6aa5325?source=rss------bug_bounty-5) 
 
- - 💯June 4, 2026 - [AUTOMATICÉ EL RECONOCIMIENTO EN BUG BOUNTY CON GEMINI 2.5](https://medium.com/@sebastianduarte_55698/automatic%C3%A9-el-reconocimiento-en-bug-bounty-con-gemini-2-5-24857c48f5ef?source=rss------bug_bounty-5) 
+ - 💯June 5, 2026 - [The Definitive Guide to WSL 2 for Cybersecurity and Development: Installation and Commands](https://medium.com/@jpablo13/the-definitive-guide-to-wsl-2-for-cybersecurity-and-development-installation-and-commands-f251dea44e9b?source=rss------bug_bounty-5) 
 
- - 💯June 4, 2026 - [Environment Setup Web3 Hacker Ka Setup](https://medium.com/@HackerMD/environment-setup-web3-hacker-ka-setup-eb81855e7b98?source=rss------bug_bounty-5) 
+ - 💯June 4, 2026 - [Security Assessment Report: Full Exploit Chain &lpar;SQLi to RCE&rpar;](https://orion7715.medium.com/security-assessment-report-full-exploit-chain-sqli-to-rce-5c6407fc34d1?source=rss------bug_bounty-5) 
 
- - 💯June 4, 2026 - [Full server takeover ssh leak &lpar;dell technologies&rpar; by &lpar;RECON&rpar;](https://medium.com/@omar_ahmed496/full-server-takeover-ssh-leak-dell-technologies-by-recon-a7c54ee5e6a6?source=rss------bug_bounty-5) 
+ - 💯June 4, 2026 - [My Instructor Said “You Can’t Get a Shell.” I Got Root. — Full Web Pentest Exam Write-Up](https://alisalive.medium.com/my-instructor-said-you-cant-get-a-shell-i-got-root-full-web-pentest-exam-write-up-a82c804ce8e2?source=rss------bug_bounty-5) 
 
- - 💯June 3, 2026 - [The Gmail “Zombie Token” Google Refused to Kill](https://osintteam.blog/the-gmail-zombie-token-google-refused-to-kill-b2f77f262a9d?source=rss------bug_bounty-5) 
+ - 💯June 4, 2026 - [Master Guide: Solving All PortSwigger CORS Vulnerabilities](https://medium.com/@ayeshaaghafoor48/master-guide-solving-all-portswigger-cors-vulnerabilities-37e8b912ce6b?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
