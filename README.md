@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯June 5, 2026 - [Web Authentication Testing Methodology for Bug Bounty &amp; Pentesting](https://medium.com/@ksridharpentester/web-authentication-testing-methodology-for-bug-bounty-pentesting-65abb7032c12?source=rss------bug_bounty-5) 
+ - 💯June 6, 2026 - [Update: The Ending of My $500 Loss and Web Cache Poisoning Story.](https://infosecwriteups.com/update-the-ending-of-my-500-loss-and-web-cache-poisoning-story-153603be845a?source=rss------bug_bounty-5) 
 
- - 💯June 5, 2026 - [Forgot Password Functionality Can Be Hacked Easily if Not Correctly Implemented](https://medium.com/@amalashoka434/forgot-password-functionality-can-be-hacked-easily-if-not-correctly-implemented-45abcec468d5?source=rss------bug_bounty-5) 
+ - 💯June 6, 2026 - [AI Pentesting Roadmap: Labs, Challenges, Writeups &amp; Research](https://medium.com/@dsmodi484/ai-pentesting-roadmap-labs-challenges-writeups-research-d9fd57bf29e8?source=rss------bug_bounty-5) 
 
- - 💯June 5, 2026 - [Vigolium Explained | AI-Powered Vulnerability Scanning](https://medium.com/@pentesterclubpvtltd/vigolium-explained-ai-powered-vulnerability-scanning-02721a8b1ece?source=rss------bug_bounty-5) 
+ - 💯June 6, 2026 - [First Cybersecurity Course: Linux for Hackers](https://medium.com/hackmetoocom/first-cybersecurity-course-linux-for-hackers-7a1615194386?source=rss------bug_bounty-5) 
 
- - 💯June 5, 2026 - [When “Typically Identical to Production” Isn’t Enough](https://medium.com/@haykeenspaul/when-typically-identical-to-production-isnt-enough-d7c2741c80c3?source=rss------bug_bounty-5) 
+ - 💯June 6, 2026 - [How Threat Actors Abuse Cloud Services for Phishing Infrastructure](https://medium.com/@paritoshblogs/how-threat-actors-abuse-cloud-services-for-phishing-infrastructure-5dea8ddc0401?source=rss------bug_bounty-5) 
 
- - 💯June 5, 2026 - [Foundry Mastery Part 1: Basics](https://medium.com/@HackerMD/foundry-mastery-part-1-basics-066e4c3463bf?source=rss------bug_bounty-5) 
+ - 💯June 6, 2026 - [Why Some Hunters Make $10k a Month and Others Make Nothing](https://medium.com/@bughunting/why-some-hunters-make-10k-a-month-and-others-make-nothing-e9a301b8a55a?source=rss------bug_bounty-5) 
 
- - 💯June 5, 2026 - [You Don’t Need More Tools. You Need Better Habits.](https://medium.com/@bughunting/you-dont-need-more-tools-you-need-better-habits-79fba6aa5325?source=rss------bug_bounty-5) 
+ - 💯June 6, 2026 - [Inner-Parser SSRF](https://sin99xx.medium.com/inner-parser-ssrf-e940b76514e7?source=rss------bug_bounty-5) 
 
- - 💯June 5, 2026 - [The Definitive Guide to WSL 2 for Cybersecurity and Development: Installation and Commands](https://medium.com/@jpablo13/the-definitive-guide-to-wsl-2-for-cybersecurity-and-development-installation-and-commands-f251dea44e9b?source=rss------bug_bounty-5) 
+ - 💯June 6, 2026 - [Mastering CSRF: PortSwigger Academy Walkthrough Guide Community Edition From Practitioner LAB 07](https://medium.com/@ayeshaaghafoor48/mastering-csrf-portswigger-academy-walkthrough-guide-community-edition-from-practitioner-lab-07-c1274cbf2b86?source=rss------bug_bounty-5) 
 
- - 💯June 4, 2026 - [Security Assessment Report: Full Exploit Chain &lpar;SQLi to RCE&rpar;](https://orion7715.medium.com/security-assessment-report-full-exploit-chain-sqli-to-rce-5c6407fc34d1?source=rss------bug_bounty-5) 
+ - 💯June 5, 2026 - [Secure Implementation Of Link Previews In Chat Applications](https://thisis23.medium.com/secure-implementation-of-link-previews-in-chat-applications-07ddbd02e6ec?source=rss------bug_bounty-5) 
 
- - 💯June 4, 2026 - [My Instructor Said “You Can’t Get a Shell.” I Got Root. — Full Web Pentest Exam Write-Up](https://alisalive.medium.com/my-instructor-said-you-cant-get-a-shell-i-got-root-full-web-pentest-exam-write-up-a82c804ce8e2?source=rss------bug_bounty-5) 
-
- - 💯June 4, 2026 - [Master Guide: Solving All PortSwigger CORS Vulnerabilities](https://medium.com/@ayeshaaghafoor48/master-guide-solving-all-portswigger-cors-vulnerabilities-37e8b912ce6b?source=rss------bug_bounty-5) 
+ - 💯June 5, 2026 - [API Fuzzing for Security Testing: Part 1: Recon, Discovery &amp; Mapping the Attack Surface](https://osintteam.blog/api-fuzzing-for-security-testing-part-1-recon-discovery-mapping-the-attack-surface-924c458ce621?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
