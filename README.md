@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯June 6, 2026 - [Update: The Ending of My $500 Loss and Web Cache Poisoning Story.](https://infosecwriteups.com/update-the-ending-of-my-500-loss-and-web-cache-poisoning-story-153603be845a?source=rss------bug_bounty-5) 
+ - 💯June 7, 2026 - [Web Security Academy — Access Control Vulnerabilities &lpar;Apprentice Level Labs&rpar;](https://medium.com/@Kamal_S/web-security-academy-access-control-vulnerabilities-apprentice-level-labs-5c4036907b94?source=rss------bug_bounty-5) 
 
- - 💯June 6, 2026 - [AI Pentesting Roadmap: Labs, Challenges, Writeups &amp; Research](https://medium.com/@dsmodi484/ai-pentesting-roadmap-labs-challenges-writeups-research-d9fd57bf29e8?source=rss------bug_bounty-5) 
+ - 💯June 7, 2026 - [Testing Network Infrastructure and Application Platform Configuration](https://medium.com/@pritamtare029/testing-network-infrastructure-and-application-platform-configuration-15080140e012?source=rss------bug_bounty-5) 
 
- - 💯June 6, 2026 - [First Cybersecurity Course: Linux for Hackers](https://medium.com/hackmetoocom/first-cybersecurity-course-linux-for-hackers-7a1615194386?source=rss------bug_bounty-5) 
+ - 💯June 7, 2026 - [DNS Deep Dive: How DNS Works, DNS Records &lpar;Security Perspective&rpar;](https://medium.com/@chiragmalhotra254/dns-deep-dive-how-dns-works-dns-records-security-perspective-b4635a237727?source=rss------bug_bounty-5) 
 
- - 💯June 6, 2026 - [How Threat Actors Abuse Cloud Services for Phishing Infrastructure](https://medium.com/@paritoshblogs/how-threat-actors-abuse-cloud-services-for-phishing-infrastructure-5dea8ddc0401?source=rss------bug_bounty-5) 
+ - 💯June 7, 2026 - [The $0 Purchase Bug: How Perfectly Working Code Cost a Company Thousands](https://su6osec.medium.com/the-0-purchase-bug-how-perfectly-working-code-cost-a-company-thousands-23133a455f93?source=rss------bug_bounty-5) 
 
- - 💯June 6, 2026 - [Why Some Hunters Make $10k a Month and Others Make Nothing](https://medium.com/@bughunting/why-some-hunters-make-10k-a-month-and-others-make-nothing-e9a301b8a55a?source=rss------bug_bounty-5) 
+ - 💯June 7, 2026 - [I Fine-Tuned a 72B Security LLM From Scratch Then Open-Sourced Everything](https://medium.com/@jabirkhan1/i-fine-tuned-a-72b-security-llm-from-scratch-then-open-sourced-everything-c90c8b755cc3?source=rss------bug_bounty-5) 
 
- - 💯June 6, 2026 - [Inner-Parser SSRF](https://sin99xx.medium.com/inner-parser-ssrf-e940b76514e7?source=rss------bug_bounty-5) 
+ - 💯June 7, 2026 - [The Bug That Almost Made Me Quit Cybersecurity — And the Lesson That Changed My Career Forever](https://medium.com/@subscribeall05/the-bug-that-almost-made-me-quit-cybersecurity-and-the-lesson-that-changed-my-career-forever-34184d0eb578?source=rss------bug_bounty-5) 
 
- - 💯June 6, 2026 - [Mastering CSRF: PortSwigger Academy Walkthrough Guide Community Edition From Practitioner LAB 07](https://medium.com/@ayeshaaghafoor48/mastering-csrf-portswigger-academy-walkthrough-guide-community-edition-from-practitioner-lab-07-c1274cbf2b86?source=rss------bug_bounty-5) 
+ - 💯June 7, 2026 - [Understanding SSL Pinning: What it is and how to bypass it](https://wahbakamaluddin.medium.com/understanding-ssl-pinning-what-it-is-and-how-to-bypass-it-a0010349e88c?source=rss------bug_bounty-5) 
 
- - 💯June 5, 2026 - [Secure Implementation Of Link Previews In Chat Applications](https://thisis23.medium.com/secure-implementation-of-link-previews-in-chat-applications-07ddbd02e6ec?source=rss------bug_bounty-5) 
+ - 💯June 6, 2026 - [Mastering Clickjacking: Bypassing CSRF Protection via UI Redressing](https://medium.com/@ayeshaaghafoor48/mastering-clickjacking-bypassing-csrf-protection-via-ui-redressing-15daffe29bce?source=rss------bug_bounty-5) 
 
- - 💯June 5, 2026 - [API Fuzzing for Security Testing: Part 1: Recon, Discovery &amp; Mapping the Attack Surface](https://osintteam.blog/api-fuzzing-for-security-testing-part-1-recon-discovery-mapping-the-attack-surface-924c458ce621?source=rss------bug_bounty-5) 
+ - 💯June 6, 2026 - [I Didn’t Hack the App. I Hacked the AI. Web LLM is breached !](https://medium.com/@nilanjan.calculus/i-didnt-hack-the-app-i-hacked-the-ai-web-llm-is-breached-79d7aa57c471?source=rss------bug_bounty-5) 
+
+ - 💯June 6, 2026 - [Hunting Android Lockscreen Bypasses on Pixel: A Campaign Walkthrough — Contd. — III](https://medium.com/@salamsajid7/hunting-android-lockscreen-bypasses-on-pixel-a-campaign-walkthrough-contd-iii-3977139bb9ba?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
