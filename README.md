@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯June 7, 2026 - [Web Security Academy — Access Control Vulnerabilities &lpar;Apprentice Level Labs&rpar;](https://medium.com/@Kamal_S/web-security-academy-access-control-vulnerabilities-apprentice-level-labs-5c4036907b94?source=rss------bug_bounty-5) 
+ - 💯June 8, 2026 - [How a Routine XSS Hunt Led to an Unexpected Database Information Disclosure](https://medium.com/@andrewdehghan/how-a-routine-xss-hunt-led-to-an-unexpected-database-information-disclosure-ec47f1868277?source=rss------bug_bounty-5) 
 
- - 💯June 7, 2026 - [Testing Network Infrastructure and Application Platform Configuration](https://medium.com/@pritamtare029/testing-network-infrastructure-and-application-platform-configuration-15080140e012?source=rss------bug_bounty-5) 
+ - 💯June 8, 2026 - [Swagger UI HTML Injection — From “No XSS” to $450 Bounty](https://abdelaalx2000.medium.com/swagger-ui-html-injection-from-no-xss-to-450-bounty-ee5ca5b2bb64?source=rss------bug_bounty-5) 
 
- - 💯June 7, 2026 - [DNS Deep Dive: How DNS Works, DNS Records &lpar;Security Perspective&rpar;](https://medium.com/@chiragmalhotra254/dns-deep-dive-how-dns-works-dns-records-security-perspective-b4635a237727?source=rss------bug_bounty-5) 
+ - 💯June 8, 2026 - [How I Found an XSS Vulnerability on a Gray-Zone Search Feed &lpar;Invect.com&rpar;](https://medium.com/@psystudio.in/how-i-found-an-xss-vulnerability-on-a-gray-zone-search-feed-invect-com-1eaf476991f5?source=rss------bug_bounty-5) 
 
- - 💯June 7, 2026 - [The $0 Purchase Bug: How Perfectly Working Code Cost a Company Thousands](https://su6osec.medium.com/the-0-purchase-bug-how-perfectly-working-code-cost-a-company-thousands-23133a455f93?source=rss------bug_bounty-5) 
+ - 💯June 8, 2026 - [From Zero Experience to First Bounty — My Bug Bounty Start](https://medium.com/@saad191139/from-zero-experience-to-first-bounty-my-bug-bounty-start-6f75a9ddac85?source=rss------bug_bounty-5) 
 
- - 💯June 7, 2026 - [I Fine-Tuned a 72B Security LLM From Scratch Then Open-Sourced Everything](https://medium.com/@jabirkhan1/i-fine-tuned-a-72b-security-llm-from-scratch-then-open-sourced-everything-c90c8b755cc3?source=rss------bug_bounty-5) 
+ - 💯June 8, 2026 - [# Tôi Đã Hack Bankr Trong 6 Giờ. Đây Là Toàn Bộ Những Gì Tôi Tìm Thấy.](https://medium.com/@h4cktrick/t%C3%B4i-%C4%91%C3%A3-hack-bankr-trong-6-gi%E1%BB%9D-%C4%91%C3%A2y-l%C3%A0-to%C3%A0n-b%E1%BB%99-nh%E1%BB%AFng-g%C3%AC-t%C3%B4i-t%C3%ACm-th%E1%BA%A5y-c8c669bc9519?source=rss------bug_bounty-5) 
 
- - 💯June 7, 2026 - [The Bug That Almost Made Me Quit Cybersecurity — And the Lesson That Changed My Career Forever](https://medium.com/@subscribeall05/the-bug-that-almost-made-me-quit-cybersecurity-and-the-lesson-that-changed-my-career-forever-34184d0eb578?source=rss------bug_bounty-5) 
+ - 💯June 8, 2026 - [Most Developers Never Test This. Attackers Love It.](https://medium.com/@kernraphael664/most-developers-never-test-this-attackers-love-it-f517f4fdac87?source=rss------bug_bounty-5) 
 
- - 💯June 7, 2026 - [Understanding SSL Pinning: What it is and how to bypass it](https://wahbakamaluddin.medium.com/understanding-ssl-pinning-what-it-is-and-how-to-bypass-it-a0010349e88c?source=rss------bug_bounty-5) 
+ - 💯June 8, 2026 - [From Zero Recon to Real World Findings: My First 3 Months on Open Targets](https://medium.com/@VasukiSec/from-zero-recon-to-real-world-findings-my-first-3-months-on-open-targets-8ab733abba88?source=rss------bug_bounty-5) 
 
- - 💯June 6, 2026 - [Mastering Clickjacking: Bypassing CSRF Protection via UI Redressing](https://medium.com/@ayeshaaghafoor48/mastering-clickjacking-bypassing-csrf-protection-via-ui-redressing-15daffe29bce?source=rss------bug_bounty-5) 
+ - 💯June 8, 2026 - [Slither Static Analysis Tool](https://medium.com/@HackerMD/slither-static-analysis-tool-d14c759836e0?source=rss------bug_bounty-5) 
 
- - 💯June 6, 2026 - [I Didn’t Hack the App. I Hacked the AI. Web LLM is breached !](https://medium.com/@nilanjan.calculus/i-didnt-hack-the-app-i-hacked-the-ai-web-llm-is-breached-79d7aa57c471?source=rss------bug_bounty-5) 
+ - 💯June 8, 2026 - [How I Found a Flaw That Let Me Delete Anyone’s Wishlist on a Major Shopping Site](https://medium.com/@chotaliyasavan754/how-i-found-a-flaw-that-let-me-delete-anyones-wishlist-on-a-major-shopping-site-aa50a95fa046?source=rss------bug_bounty-5) 
 
- - 💯June 6, 2026 - [Hunting Android Lockscreen Bypasses on Pixel: A Campaign Walkthrough — Contd. — III](https://medium.com/@salamsajid7/hunting-android-lockscreen-bypasses-on-pixel-a-campaign-walkthrough-contd-iii-3977139bb9ba?source=rss------bug_bounty-5) 
+ - 💯June 8, 2026 - [I Got Rejected 12 Times Before My First Bounty](https://medium.com/@bughunting/i-got-rejected-12-times-before-my-first-bounty-164c31caf9eb?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
