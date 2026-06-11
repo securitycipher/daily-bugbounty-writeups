@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯June 10, 2026 - [Building The Discipline to Study Security Every Day](https://medium.com/@iamabraham/building-the-discipline-to-study-security-every-day-8a43ad3c46dd?source=rss------bug_bounty-5) 
+ - 💯June 11, 2026 - [Intercepting HTTPS on Android 16 with HTTP Toolkit — What Nobody Tells You](https://medium.com/@specteropx7777x/intercepting-https-on-android-16-with-http-toolkit-what-nobody-tells-you-14d0cb5a9aee?source=rss------bug_bounty-5) 
 
- - 💯June 10, 2026 - [From S3 Bucket Discovery to Impact Analysis: A Real Cloud Security Assessment](https://medium.com/@silenthacker180/from-s3-bucket-discovery-to-impact-analysis-a-real-cloud-security-assessment-937fff949e47?source=rss------bug_bounty-5) 
+ - 💯June 11, 2026 - [The Bug I Almost Ignored Paid My First Bounty — And Why Context Changes Everything](https://medium.com/@saad191139/the-bug-i-almost-ignored-paid-my-first-bounty-and-why-context-changes-everything-f4899a97f25d?source=rss------bug_bounty-5) 
 
- - 💯June 10, 2026 - [How I Structure My WordPress Vulnerability Hunting Workflow](https://medium.com/@ductai126/how-i-structure-my-wordpress-vulnerability-hunting-workflow-0a236760096f?source=rss------bug_bounty-5) 
+ - 💯June 11, 2026 - [Everyone Is Automating Bug Bounty Recon in 2026 Almost Nobody Is Automating the Right Things](https://medium.com/@R.H_Rizvi/everyone-is-automating-bug-bounty-recon-in-2026-almost-nobody-is-automating-the-right-things-feafb1b500f2?source=rss------bug_bounty-5) 
 
- - 💯June 10, 2026 - [The Bug Bounty Roadmap Nobody Talks About](https://medium.com/@bughunting/the-bug-bounty-roadmap-nobody-talks-about-c91831b04555?source=rss------bug_bounty-5) 
+ - 💯June 11, 2026 - [CYBER SECURITY AS A JOB](https://medium.com/@riyaraymondpaul993/cyber-security-as-a-job-c8ce781aaef1?source=rss------bug_bounty-5) 
 
- - 💯June 10, 2026 - [Tenderly + Etherscan Debugging &amp; Recon](https://medium.com/@HackerMD/tenderly-etherscan-debugging-recon-dbb5c7b96509?source=rss------bug_bounty-5) 
+ - 💯June 11, 2026 - [How I Discovered a Critical IDOR Vulnerability That Exposed 383 Users’ Data -Canadian E-commerce…](https://medium.com/@harisatish75/how-i-discovered-a-critical-idor-vulnerability-that-exposed-383-users-data-canadian-e-commerce-f80fec25fb51?source=rss------bug_bounty-5) 
 
- - 💯June 9, 2026 - [Build in Public, Test in Private - on the Genbounty AI Bug Bounty Platform](https://genbounty.medium.com/build-in-public-test-in-private-on-the-genbounty-ai-bug-bounty-platform-744e9f73204c?source=rss------bug_bounty-5) 
+ - 💯June 11, 2026 - [What is Bug Bounty? Complete Beginner’s Guide to Ethical Hacking and Bug Bounty Hunting](https://medium.com/@aio.bd/what-is-bug-bounty-complete-beginners-guide-to-ethical-hacking-and-bug-bounty-hunting-2e1204dbf460?source=rss------bug_bounty-5) 
 
- - 💯June 9, 2026 - [PortSwigger Lab Writeup: Exploiting an API Endpoint Using Documentation](https://medium.com/@ayeshaaghafoor48/portswigger-lab-writeup-exploiting-an-api-endpoint-using-documentation-2d3b8cd3bc7c?source=rss------bug_bounty-5) 
+ - 💯June 11, 2026 - [The Z-TEXT bug bounty is alive — and working.](https://medium.com/@contact_93006/the-z-text-bug-bounty-is-alive-and-working-010de729e053?source=rss------bug_bounty-5) 
 
- - 💯June 9, 2026 - [I Spent 2 Weeks Researching How Bug Bounty Hunters Are Secretly Using Claude Code -Here’s What I…](https://grayxploit.medium.com/i-spent-2-weeks-researching-how-bug-bounty-hunters-are-secretly-using-claude-code-heres-what-i-02190e736cfc?source=rss------bug_bounty-5) 
+ - 💯June 11, 2026 - [I Found a Critical OAuth Vulnerability in Open edX — Here’s How It Happened](https://medium.com/@abdurrahimjamalzada/i-found-a-critical-oauth-vulnerability-in-open-edx-heres-how-it-happened-b9bc9275bed3?source=rss------bug_bounty-5) 
 
- - 💯June 9, 2026 - [İlk CVE’lerim: Traccar’da iki küçük varsayımın peşinden gitmek](https://kocaemre.medium.com/i%CC%87lk-cvelerim-traccar-da-iki-k%C3%BC%C3%A7%C3%BCk-varsay%C4%B1m%C4%B1n-pe%C5%9Finden-gitmek-57df26c54121?source=rss------bug_bounty-5) 
+ - 💯June 11, 2026 - [Hidden Admin Panels and Dangerous HTTP Methods](https://medium.com/@pritamtare029/hidden-admin-panels-and-dangerous-http-methods-4dea7a15337b?source=rss------bug_bounty-5) 
+
+ - 💯June 11, 2026 - [Guía Fundamental Sobre Information Disclosure](https://medium.com/@jpablo13/gu%C3%ADa-fundamental-sobre-information-disclosure-8e489a8ae3cd?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
