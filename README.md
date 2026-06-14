@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯June 13, 2026 - [How a Public Token Led to Unauthenticated Read and Write Access on an IoT Platform](https://medium.com/@ahmadfarazpz/how-a-public-token-led-to-unauthenticated-read-and-write-access-on-an-iot-platform-3c1404dbd34a?source=rss------bug_bounty-5) 
+ - 💯June 14, 2026 - [From Profile Update to Account Takeover: A Mass Assignment Story](https://scriptjacker.medium.com/from-profile-update-to-account-takeover-a-mass-assignment-story-60c6e8de4abc?source=rss------bug_bounty-5) 
 
- - 💯June 13, 2026 - [How a BOLA Vulnerability Escalated Into Full Account Takeover](https://5ummer.medium.com/how-a-bola-vulnerability-escalated-into-full-account-takeover-9eda7f595b82?source=rss------bug_bounty-5) 
+ - 💯June 14, 2026 - [Lab 15: Clickjacking with a frame buster script](https://medium.com/@tkacala212/lab-15-clickjacking-with-a-frame-buster-script-d3a31e3919c5?source=rss------bug_bounty-5) 
 
- - 💯June 13, 2026 - [Meet with PAWN : The AI Assistant Built for Bug Bounty Hunters](https://medium.com/hackmetoocom/meet-with-pawn-the-ai-assistant-built-for-bug-bounty-hunters-7bf58c4bf320?source=rss------bug_bounty-5) 
+ - 💯June 14, 2026 - [Username, Email &amp; Password Enumeration Using FFUF — A Bug Bounty Researcher’s Guide](https://medium.com/@tanvir.infosec/username-email-password-enumeration-using-ffuf-a-bug-bounty-researchers-guide-98a0600de2e9?source=rss------bug_bounty-5) 
 
- - 💯June 13, 2026 - [How I Found a Critical Vulnerability in a Fortune 500 Company — and Got Paid $15,000 for It](https://infyra.medium.com/how-i-found-a-critical-vulnerability-in-a-fortune-500-company-and-got-paid-15-000-for-it-e30f314765b8?source=rss------bug_bounty-5) 
+ - 💯June 14, 2026 - [Ubuntu Server For Bug Bounty Hunting: How To Choose The Right Version, System Requirements, And…](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/ubuntu-server-for-bug-bounty-hunting-how-to-choose-the-right-version-system-requirements-and-9ee6a8678c4b?source=rss------bug_bounty-5) 
 
- - 💯June 13, 2026 - [How a Simple MFA Test Turned Into an Interesting Meta Authentication Research Case](https://medium.com/@mohammad.ehab7760/how-a-simple-mfa-test-turned-into-an-interesting-meta-authentication-research-case-e39a4ef6990f?source=rss------bug_bounty-5) 
+ - 💯June 14, 2026 - [BugHunter Review 2026: AI Bug Bounty Toolkit Powered by Claude &lpar;Free and Paid Options&rpar;](https://medium.com/@nayaki.suresh3/bughunter-review-2026-ai-bug-bounty-toolkit-powered-by-claude-free-and-paid-options-55d5d481b055?source=rss------bug_bounty-5) 
 
- - 💯June 13, 2026 - [Nibbles | Proving Grounds | OSCP Preparation](https://medium.com/@SilentExploit/nibbles-proving-grounds-oscp-preparation-492853db8ff8?source=rss------bug_bounty-5) 
+ - 💯June 14, 2026 - [Why Your UIKit Border Colors Break in Dark Mode &lpar;And How to Fix It&rpar;](https://21zerixpm.medium.com/why-your-uikit-border-colors-break-in-dark-mode-and-how-to-fix-it-a97567dcd373?source=rss------bug_bounty-5) 
 
- - 💯June 13, 2026 - [Exposed Sensitive Logs and SQL Queries Revealing User Data](https://medium.com/@mrcix/exposed-sensitive-logs-and-sql-queries-revealing-user-data-0927b973878a?source=rss------bug_bounty-5) 
+ - 💯June 14, 2026 - [The Best Bug Is the One You Actually Report](https://medium.com/@bughunting/the-best-bug-is-the-one-you-actually-report-b95bcf289b39?source=rss------bug_bounty-5) 
 
- - 💯June 13, 2026 - [Essential Guide to Information Disclosure](https://medium.com/@jpablo13/essential-guide-to-information-disclosure-5eac7a799f2b?source=rss------bug_bounty-5) 
+ - 💯June 13, 2026 - [How I Was Able to Create an Account on Any Third Party Application Using an Acronis-owned Email…](https://vineet08.medium.com/how-i-was-able-to-create-an-account-on-any-third-party-application-using-an-acronis-owned-email-b0eaafdf55de?source=rss------bug_bounty-5) 
 
- - 💯June 12, 2026 - [What is Brie — Bug Capture Tool?](https://medium.com/@ion.leu/what-is-brie-bug-capture-tool-d8a767f4483e?source=rss------bug_bounty-5) 
+ - 💯June 13, 2026 - [Google API Key Exposure: Risks, Discovery, and Impact](https://medium.com/@hackustheinforman/google-api-key-exposure-risks-discovery-and-impact-1bba466315c7?source=rss------bug_bounty-5) 
 
- - 💯June 12, 2026 - [SSTI: When the Server Runs What You Type](https://infosecwriteups.com/ssti-when-the-server-runs-what-you-type-233e81c51b33?source=rss------bug_bounty-5) 
+ - 💯June 13, 2026 - [Finding an Open Redirect Pattern on a Shopify Storefront: A Bug Bounty Recon Walkthrough](https://medium.com/@n4r4n15/finding-an-open-redirect-pattern-on-a-shopify-storefront-a-bug-bounty-recon-walkthrough-d65fcd464ad1?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
