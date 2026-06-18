@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯June 17, 2026 - [I Turned a “What’s Your Name?” Field Into a Malicious Link — My First HTML Injection](https://medium.com/@rajprashantwork/i-turned-a-whats-your-name-field-into-a-malicious-link-my-first-html-injection-aada50600f95?source=rss------bug_bounty-5) 
+ - 💯June 18, 2026 - [BugTraceAI: More Autonomy, More Context, and a Better Workflow for Bug Bounty and Pentesting](https://albert-corzo.medium.com/bugtraceai-more-autonomy-more-context-and-a-better-workflow-for-bug-bounty-and-pentesting-5e1ceb5955c6?source=rss------bug_bounty-5) 
 
- - 💯June 17, 2026 - [1-Click Account Takeover via Misconfigured WebView](https://abdelnasserr.medium.com/1-click-account-takeover-via-misconfigured-webview-c3096c8173e9?source=rss------bug_bounty-5) 
+ - 💯June 18, 2026 - [Thousands of Publicly Exposed MLflow Instances — A Hidden Risk in MLOps Infrastructure](https://d3hack3r.medium.com/thousands-of-publicly-exposed-mlflow-instances-a-hidden-risk-in-mlops-infrastructure-a2d4d8cdea9b?source=rss------bug_bounty-5) 
 
- - 💯June 17, 2026 - [How Reading a JavaScript Bundle Led Me to 29 Valid Coupon Codes in a Hidden API Endpoint](https://medium.com/@ashiq.r.emon/how-reading-a-javascript-bundle-led-me-to-29-valid-coupon-codes-in-a-hidden-api-endpoint-d898f6f395a4?source=rss------bug_bounty-5) 
+ - 💯June 18, 2026 - [The Password They Deleted But Never Erased](https://medium.com/@guyani/the-password-they-deleted-but-never-erased-519423d98611?source=rss------bug_bounty-5) 
 
- - 💯June 17, 2026 - [Lab 4 of my Information Disclosure series.](https://medium.com/@guyani/lab-4-of-my-information-disclosure-series-db250aa86953?source=rss------bug_bounty-5) 
+ - 💯June 18, 2026 - [A Premium Feature Bypass Hidden Behind a Single Boolean Parameter](https://medium.com/@ankitsingh787478/a-premium-feature-bypass-hidden-behind-a-single-boolean-parameter-1a37b1e5172a?source=rss------bug_bounty-5) 
 
- - 💯June 17, 2026 - [The Pentester’s Guide to Finding CBC Bit Flipping Vulnerabilities](https://medium.com/@arashaddodhiya4948/the-pentesters-guide-to-finding-cbc-bit-flipping-vulnerabilities-8ac13a85aeaa?source=rss------bug_bounty-5) 
+ - 💯June 18, 2026 - [From Subdomain Takeovers to a Critical Race Condition on Shopify](https://medium.com/@Lelouchzero/from-subdomain-takeovers-to-a-critical-race-condition-on-shopify-b0ce36a3385a?source=rss------bug_bounty-5) 
 
- - 💯June 17, 2026 - [AI Security: explanation to Exploitation || Part 2](https://jeetpal2007.medium.com/ai-security-explanation-to-exploitation-part-2-d470b8a07b5f?source=rss------bug_bounty-5) 
+ - 💯June 18, 2026 - [How I Solved My First Reflected XSS Lab on PortSwigger](https://medium.com/@mahdiyaa87/how-i-solved-my-first-reflected-xss-lab-on-portswigger-db9cde57c90f?source=rss------bug_bounty-5) 
 
- - 💯June 17, 2026 - [The 5 AM Club Is a Lie. Here’s What Actually Works for Bug Hunters.](https://medium.com/@bughunting/the-5-am-club-is-a-lie-heres-what-actually-works-for-bug-hunters-c7d5b25ee9cc?source=rss------bug_bounty-5) 
+ - 💯June 18, 2026 - [HSTS and Cross-Domain Policy Misconfigurations](https://medium.com/@pritamtare029/hsts-and-cross-domain-policy-misconfigurations-3918820a5826?source=rss------bug_bounty-5) 
 
- - 💯June 17, 2026 - [How a Resend Invitation Feature Led to Unauthorized Account Creation](https://vineet08.medium.com/how-a-resend-invitation-feature-led-to-unauthorized-account-creation-eb2ed0b6e391?source=rss------bug_bounty-5) 
+ - 💯June 18, 2026 - [Building a Practical CTI RAG Assistant: An AI-Powered Threat Intelligence Workflow](https://medium.com/@paritoshblogs/building-a-practical-cti-rag-assistant-an-ai-powered-threat-intelligence-workflow-bfba13774507?source=rss------bug_bounty-5) 
 
- - 💯June 17, 2026 - [Guía Compelta de Vulnerabilidades de Autenticación](https://medium.com/@jpablo13/gu%C3%ADa-compelta-de-vulnerabilidades-de-autenticaci%C3%B3n-4c6dcb0da584?source=rss------bug_bounty-5) 
+ - 💯June 18, 2026 - [Authentication Bypass via Insecure redirect_url Parameter Leading to Account Takeover](https://medium.com/@priyanshuuparmar/authentication-bypass-via-insecure-redirect-url-parameter-leading-to-account-takeover-8b6e8d72da5e?source=rss------bug_bounty-5) 
 
- - 💯June 17, 2026 - [When the main app is clean, go count the URL fetchers](https://dubcrabsec.medium.com/when-the-main-app-is-clean-go-count-the-url-fetchers-1586be20c6a2?source=rss------bug_bounty-5) 
+ - 💯June 18, 2026 - [The MFA Bypass That Wasn’t an MFA Problem: A Lesson in Broken API Authorization](https://cybersecuritywriteups.com/the-mfa-bypass-that-wasnt-an-mfa-problem-a-lesson-in-broken-api-authorization-b6f0fbd4154f?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
