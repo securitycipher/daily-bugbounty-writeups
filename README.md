@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯June 26, 2026 - [The Bouncer Who Never Read the Envelope](https://medium.com/@anshbohra10/the-bouncer-who-never-read-the-envelope-e9b580846fa9?source=rss------bug_bounty-5) 
+ - 💯June 27, 2026 - [I Removed One Parameter… and Took Over Another User’s Account &lpar;$3000 — $10,000&rpar;](https://medium.com/@abinsecurityresearcher/i-removed-one-parameter-and-took-over-another-users-account-25ec1052c6ac?source=rss------bug_bounty-5) 
 
- - 💯June 26, 2026 - [SKILL.md: A New Supply Chain Threat in AI Agents and Harnesses](https://systemweakness.com/skill-md-a-new-supply-chain-threat-in-ai-agents-and-harnesses-3112c7e34e60?source=rss------bug_bounty-5) 
+ - 💯June 27, 2026 - [Zero-Click Account Takeover via Unicode Homoglyph Email Collision](https://r0h1th.medium.com/zero-click-account-takeover-via-unicode-homoglyph-email-collision-190f942ccb07?source=rss------bug_bounty-5) 
 
- - 💯June 26, 2026 - [How Ethical Hackers Discover Hidden Directories and Sensitive Files on Web Applications](https://osintteam.blog/how-ethical-hackers-discover-hidden-directories-and-sensitive-files-on-web-applications-a521161d90f4?source=rss------bug_bounty-5) 
+ - 💯June 27, 2026 - [Testing File Upload Vulnerability in web applications part-2](https://meetcyber.net/testing-file-upload-vulnerability-in-web-applications-part-2-12d89cea2f38?source=rss------bug_bounty-5) 
 
- - 💯June 26, 2026 - [SQLMap Explained: How It Works, GET and POST Testing, WAF Bypass](https://osintteam.blog/sqlmap-explained-how-it-works-get-and-post-testing-waf-bypass-d69f08e6c49e?source=rss------bug_bounty-5) 
+ - 💯June 27, 2026 - [Who Are You? Testing Roles and User Registration in Web Applications](https://medium.com/@pritamtare029/who-are-you-testing-roles-and-user-registration-in-web-applications-14c69b74332e?source=rss------bug_bounty-5) 
 
- - 💯June 26, 2026 - [$1,100 Privilege Escalation: Group Leader Can Promote Anyone via Hidden Parameter](https://medium.com/@a13h1/1-100-privilege-escalation-group-leader-can-promote-anyone-via-hidden-parameter-ae43cdae30a0?source=rss------bug_bounty-5) 
+ - 💯June 27, 2026 - [I Found a High-Severity OAuth Account Takeover Vulnerability on IIT Madras’s Student Portal](https://medium.com/@betigetin/i-found-a-high-severity-oauth-account-takeover-vulnerability-on-iit-madrass-student-portal-ea37127d5b9d?source=rss------bug_bounty-5) 
 
- - 💯June 25, 2026 - [“I Won’t Let Your Future Customers Register” — Hunting an Email Verification Bug Through Recon](https://medium.com/@Muhammad_Murtaza/i-wont-let-your-future-customers-register-hunting-an-email-verification-bug-through-recon-99c772c5ed84?source=rss------bug_bounty-5) 
+ - 💯June 27, 2026 - [How I Earned a €2,000 Bounty by Reading a Single JavaScript File](https://medium.com/@deneuv1/how-i-earned-a-2-000-bounty-by-reading-a-single-javascript-file-af2665634295?source=rss------bug_bounty-5) 
 
- - 💯June 25, 2026 - [The Database Handed Me Every Password — It Just Needed the Right Table Name](https://medium.com/@guyani/the-database-handed-me-every-password-it-just-needed-the-right-table-name-293927ea7ea5?source=rss------bug_bounty-5) 
+ - 💯June 27, 2026 - [BUG-BOUNTY SERIES 16: Server-Side Request Forgery &lpar;SSRF&rpar;.](https://medium.com/@krisnawhy300/bug-bounty-series-16-server-side-request-forgery-ssrf-aba266e83b79?source=rss------bug_bounty-5) 
 
- - 💯June 25, 2026 - [The Hidden Bugs in Your LLM: Why AI Systems Fail in Ways You Never Expect](https://infyra.medium.com/the-hidden-bugs-in-your-llm-why-ai-systems-fail-in-ways-you-never-expect-c6c5867ac3ca?source=rss------bug_bounty-5) 
+ - 💯June 27, 2026 - [BUG-BOUNTY SERIES 15: Local File Inclusion &lpar;LFI&rpar; &amp; Remote File Inclusion &lpar;RFI&rpar;.](https://medium.com/@krisnawhy300/bug-bounty-series-15-local-file-inclusion-lfi-remote-file-inclusion-rfi-24f0b6439760?source=rss------bug_bounty-5) 
 
- - 💯June 25, 2026 - [WhatsApp Vulnerability CVE-2026–23863: What You Need to Know](https://medium.com/@pentesterclubpvtltd/whatsapp-vulnerability-cve-2026-23863-what-you-need-to-know-2e3d4467d994?source=rss------bug_bounty-5) 
+ - 💯June 27, 2026 - [How I Became Admin of one of the biggest Platform with just one API call?](https://medium.com/@AnukarOP/how-i-became-admin-of-one-of-the-biggest-platform-with-just-one-api-call-8a5d8239704f?source=rss------bug_bounty-5) 
 
- - 💯June 25, 2026 - [How a Custom Google Dork Led Me to RCE in a Job Portal’s Resume Upload](https://medium.com/@atanupal22256/how-a-custom-google-dork-led-me-to-rce-in-a-job-portals-resume-upload-b0323a55ee65?source=rss------bug_bounty-5) 
+ - 💯June 27, 2026 - [I Hacked an Application… and What I Found Was Worse Than Expected.](https://medium.com/@psaibtech/i-hacked-an-application-and-what-i-found-was-worse-than-expected-73a62b763c43?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
