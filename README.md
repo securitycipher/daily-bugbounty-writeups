@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯June 30, 2026 - [Breaking Multi Agent AI Systems: Lessons from Phase 1 of the Gray Swan Arena Red Team Challenge](https://imshadab18.medium.com/breaking-multi-agent-ai-systems-lessons-from-phase-1-of-the-gray-swan-arena-red-team-challenge-a4e010dc1d57?source=rss------bug_bounty-5) 
+ - 💯July 1, 2026 - [How I Found an Email Verification Bypass on an AI Freelance Platform](https://infosecwriteups.com/how-i-found-an-email-verification-bypass-on-an-ai-freelance-platform-6ad76663b658?source=rss------bug_bounty-5) 
 
- - 💯June 30, 2026 - [From SSL Checker to Cloud Takeover: How One Parameter Leaked AWS IAM Credentials](https://medium.com/@LegitHunter/from-ssl-checker-to-cloud-takeover-how-one-parameter-leaked-aws-iam-credentials-fd442a70b200?source=rss------bug_bounty-5) 
+ - 💯July 1, 2026 - [Is the Android Lock Screen an Illusion? A Critical Logical Bypass Discovered in the Gemini App](https://infosecwriteups.com/gemini-app-logical-lockscreen-bypass-9e7da290ea06?source=rss------bug_bounty-5) 
 
- - 💯June 30, 2026 - [We Rebuilt Every Lab from Scratch — Here’s What Changed](https://medium.com/hackmetoocom/we-rebuilt-every-lab-from-scratch-heres-what-changed-ca5d1d30cb43?source=rss------bug_bounty-5) 
+ - 💯July 1, 2026 - [Auth Bypass is it?](https://infosecwriteups.com/auth-bypass-is-it-bb19f10cbbba?source=rss------bug_bounty-5) 
 
- - 💯June 30, 2026 - [10 Burp Suite Extensions Every Pentester Should Know &lpar;And How to Actually Use Them&rpar;](https://osintteam.blog/10-burp-suite-extensions-every-pentester-should-know-and-how-to-actually-use-them-8311585ed1b6?source=rss------bug_bounty-5) 
+ - 💯July 1, 2026 - [TraceForge: A Browser-First Mobile Pentesting Lab for Static, Dynamic, and AI-Assisted Security…](https://infosecwriteups.com/traceforge-a-browser-first-mobile-pentesting-lab-for-static-dynamic-and-ai-assisted-security-fe3309c96a21?source=rss------bug_bounty-5) 
 
- - 💯June 29, 2026 - [I Spent Months Learning Hacking the Wrong Way. Here’s the Roadmap I Wish Someone Gave Me.](https://hexahunter.medium.com/i-spent-months-learning-hacking-the-wrong-way-heres-the-roadmap-i-wish-someone-gave-me-8d99d9308ce5?source=rss------bug_bounty-5) 
+ - 💯July 1, 2026 - [Building a Bug Bounty Hunting Methodology That Actually Pays](https://medium.com/@graysentinel.ai/building-a-bug-bounty-hunting-methodology-that-actually-pays-8e245d68e25f?source=rss------bug_bounty-5) 
 
- - 💯June 29, 2026 - [IDOR in a Session Replay API: One Sequential ID From Wiping Any Customer’s Data](https://medium.com/@obafemipelumi2003/idor-in-a-session-replay-api-one-sequential-id-from-wiping-any-customers-data-f24f237609da?source=rss------bug_bounty-5) 
+ - 💯July 1, 2026 - [The Complete Web Application Penetration Testing Guide &lpar;2026&rpar;— Part 2](https://sayemeh.medium.com/the-complete-web-application-penetration-testing-guide-2026-part-2-ae10ff8ab3d1?source=rss------bug_bounty-5) 
 
- - 💯June 29, 2026 - [Finding Hidden GraphQL Endpoints | Hacking GraphQL APIs — Part 2](https://vineet08.medium.com/finding-hidden-graphql-endpoints-hacking-graphql-apis-part-2-015a6810db29?source=rss------bug_bounty-5) 
+ - 💯July 1, 2026 - [One Endpoint. Way Too Many Secrets](https://medium.com/@youssefmohamedsaadhelal1214/one-endpoint-way-too-many-secrets-ed0863f2fd9a?source=rss------bug_bounty-5) 
 
- - 💯June 29, 2026 - [When Account Recovery Became Account Delivery : Full Account Takeover](https://medium.com/@mohamedmehina31/when-account-recovery-became-account-delivery-full-account-takeover-57c91a9fc300?source=rss------bug_bounty-5) 
+ - 💯July 1, 2026 - [Broken Authentication Vulnerability That Allowed Unauthorized Users to Like Private Posts](https://medium.com/@ankitrathva/broken-authentication-vulnerability-that-allowed-unauthorized-users-to-like-private-posts-1a9f9edd91c2?source=rss------bug_bounty-5) 
 
- - 💯June 29, 2026 - [Echo of a Silent Handshake: How I Stole Cloud Credentials Through a JWT Claim‍](https://atanupal22256.medium.com/echo-of-a-silent-handshake-how-i-stole-cloud-credentials-through-a-jwt-claim-425d95a238c6?source=rss------bug_bounty-5) 
+ - 💯July 1, 2026 - [How I Turned a Worthless CSRF + IDOR into a Full Account Takeover](https://medium.com/@psaibtech/how-i-turned-a-worthless-csrf-idor-into-a-full-account-takeover-eb8d448d7a58?source=rss------bug_bounty-5) 
 
- - 💯June 29, 2026 - [The Admin Door That Never Closes: Privilege Escalation in a Boat’s Server](https://medium.com/@vashuvats/the-admin-door-that-never-closes-privilege-escalation-in-a-boats-server-591fbc1c59db?source=rss------bug_bounty-5) 
+ - 💯July 1, 2026 - [How I found a medium-severity vulnerability on the NASA website.](https://medium.com/@albertstive1010/how-i-found-a-medium-severity-vulnerability-on-the-nasa-website-0a6b0961dd01?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
