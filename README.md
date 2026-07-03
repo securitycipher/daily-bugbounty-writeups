@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 2, 2026 - [Top 5 Books That Will Actually Make You a Hacker in 2026 — The Reading List That Matters](https://meetcyber.net/top-5-books-that-will-actually-make-you-a-hacker-in-2026-the-reading-list-that-matters-8de56d046ef9?source=rss------bug_bounty-5) 
+ - 💯July 3, 2026 - [Recon to Bug Mapping: Kaunsa Recon Kaunsa Bug Dikhata Hai?](https://medium.com/@harshitp1971/recon-to-bug-mapping-kaunsa-recon-kaunsa-bug-dikhata-hai-8f3601bba089?source=rss------bug_bounty-5) 
 
- - 💯July 2, 2026 - [TryHackMe Bounty Hacker Write-Up | Beginner-Friendly Walkthrough](https://medium.com/@Pearl2k/tryhackme-bounty-hacker-write-up-beginner-friendly-walkthrough-9ef406428025?source=rss------bug_bounty-5) 
+ - 💯July 3, 2026 - [The Complete Web Application Penetration Testing Guide &lpar;2026&rpar; — Part 4](https://sayemeh.medium.com/the-complete-web-application-penetration-testing-guide-2026-f6a42750952d?source=rss------bug_bounty-5) 
 
- - 💯July 2, 2026 - [I Hacked a Multi-Million Dollar E-Commerce Site by Exploiting a 0.001-Second Race Condition](https://medium.com/@psaibtech/i-hacked-a-multi-million-dollar-e-commerce-site-by-exploiting-a-0-001-second-race-condition-4cf489086cd9?source=rss------bug_bounty-5) 
+ - 💯July 3, 2026 - [Day 2 of Bug Hunting: Understanding IDOR &amp; Broken Access Control](https://medium.com/@samadhanbarahate61/day-2-of-bug-hunting-understanding-idor-broken-access-control-5066612055c6?source=rss------bug_bounty-5) 
 
- - 💯July 1, 2026 - [Hacked, Audited, Fixed — 10 Vulnerabilities in One Flask App.](https://medium.com/@nilanjan.calculus/hacked-audited-fixed-10-vulnerabilities-in-one-flask-app-0dd829a55aee?source=rss------bug_bounty-5) 
+ - 💯July 2, 2026 - [# How I Found a Batch API Quota Bypass in an Email Platform](https://medium.com/@salahezzat120/how-i-found-a-batch-api-quota-bypass-in-an-email-platform-43312fe08d9f?source=rss------bug_bounty-5) 
 
- - 💯July 1, 2026 - [The ART of FUZZING - How to fuzz](https://medium.com/@0xhunhun/the-art-of-fuzzing-how-to-fuzz-df92885fc0a3?source=rss------bug_bounty-5) 
+ - 💯July 2, 2026 - [How I Found a Local File Inclusion in DHL](https://theskul13st.medium.com/how-i-found-a-local-file-inclusion-in-dhl-e9bd0266f2ea?source=rss------bug_bounty-5) 
 
- - 💯July 1, 2026 - [How I Found a Race Condition That Broke Organization Administration](https://medium.com/@omaralgbry1/how-i-found-a-race-condition-that-broke-organization-administration-ea9bd9f914ab?source=rss------bug_bounty-5) 
+ - 💯July 2, 2026 - [Why I Built a New Go Based Recon Tool in 2026 &lpar;And How It Holds Up Against reconFTW and BBOT&rpar;](https://medium.com/@demondevarmy/why-i-built-a-new-go-based-recon-tool-in-2026-and-how-it-holds-up-against-reconftw-and-bbot-c4804b361cb6?source=rss------bug_bounty-5) 
 
- - 💯July 1, 2026 - [How I Solved Intigriti’s LeakyJar Challenge: One-click CSRF to Expose the Master Baker’s Private…](https://medium.com/@shadowbugbounty32/how-i-solved-intigritis-leakyjar-challenge-one-click-csrf-to-expose-the-master-baker-s-private-fa19b99c4a2a?source=rss------bug_bounty-5) 
+ - 💯July 2, 2026 - [How I Turned a Simple QR Code into a €100 Open Redirect Bounty](https://medium.com/@kontakbilal/how-i-turned-a-simple-qr-code-into-a-100-open-redirect-bounty-91bc2427242a?source=rss------bug_bounty-5) 
 
- - 💯July 1, 2026 - [Security Audits, Managed Crowdsourced Security, and Bug Bounty Programs: Complementary, Not…](https://medium.com/least-authority/security-audits-managed-crowdsourced-security-and-bug-bounty-programs-complementary-not-c851e496419a?source=rss------bug_bounty-5) 
+ - 💯July 2, 2026 - [Reverse Engineering Warframe’s Anti-Cheat System](https://medium.com/@ssushruth2003/reverse-engineering-warframes-anti-cheat-system-aae5e6272a4b?source=rss------bug_bounty-5) 
 
- - 💯July 1, 2026 - [MCP Server Security: The 10 Ways Your AI Agent’s Tools Can Get You Breached &lpar;And How to Lock Them…](https://medium.com/@bughuntersjournal/mcp-server-security-the-10-ways-your-ai-agents-tools-can-get-you-breached-and-how-to-lock-them-0af4b1b09728?source=rss------bug_bounty-5) 
+ - 💯July 2, 2026 - [From College to Dark Reading: My Path to CERT-In’s Hall of Fame at 19](https://medium.com/@sushant.bhardwaj.9th.c/from-college-to-dark-reading-my-path-to-cert-ins-hall-of-fame-at-19-629f65c787e4?source=rss------bug_bounty-5) 
 
- - 💯July 1, 2026 - [Alhamdulillah](https://abuhuzaifa768.medium.com/alhamdulillah-d110b013ae0d?source=rss------bug_bounty-5) 
+ - 💯July 2, 2026 - [The Bug Bounty Hunter’s Ultimate Recon Checklist &lpar;2026 Edition&rpar; — Clean Version](https://osintteam.blog/the-bug-bounty-hunters-ultimate-recon-checklist-2026-edition-clean-version-82ad4be87382?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
