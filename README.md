@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 5, 2026 - [How I Got a ₹0 Checkout on a Real Shopping Site](https://medium.com/@iamrudhh/how-i-got-a-0-checkout-on-a-real-shopping-site-216cccbd692a?source=rss------bug_bounty-5) 
+ - 💯July 6, 2026 - [I Got Paid 10K for One Vulnerability. Here’s Exactly How I Did It.](https://osintteam.blog/i-got-paid-10k-for-one-vulnerability-heres-exactly-how-i-did-it-b85f5336c80d?source=rss------bug_bounty-5) 
 
- - 💯July 5, 2026 - [Mastering curl Commands Bug Bounty Hunter&#39;s Guide](https://infosecwriteups.com/mastering-curl-commands-bug-bounty-hunters-guide-57037fdc9714?source=rss------bug_bounty-5) 
+ - 💯July 6, 2026 - [Watching Packets Fly Across the Network With tcpdump](https://medium.com/@rsrogan5/watching-packets-fly-across-the-network-with-tcpdump-6b55463d8d04?source=rss------bug_bounty-5) 
 
- - 💯July 5, 2026 - [The Recon Habit Most Hunters Skip &lpar;And Pay For Later&rpar;](https://infosecwriteups.com/the-recon-habit-most-hunters-skip-and-pay-for-later-634fd0373cd9?source=rss------bug_bounty-5) 
+ - 💯July 6, 2026 - [Disclosure of User Information via JSON Response on WordPress REST API](https://medium.com/@harshitp1971/disclosure-of-user-information-via-json-response-on-wordpress-rest-api-65f2e3002bbc?source=rss------bug_bounty-5) 
 
- - 💯July 5, 2026 - [The Modern CSRF Playbook: From Basic Mechanics to SameSite Bypasses](https://medium.com/@ravsau00/the-modern-csrf-playbook-from-basic-mechanics-to-samesite-bypasses-c28128e40f46?source=rss------bug_bounty-5) 
+ - 💯July 6, 2026 - [I Built the Recon &amp; OSINT Cheat Sheet I Wish Someone Handed Me on Day One](https://medium.com/@LegitHunter/i-built-the-recon-osint-cheat-sheet-i-wish-someone-handed-me-on-day-one-0678a3cb0196?source=rss------bug_bounty-5) 
 
- - 💯July 5, 2026 - [TryHackMe: Fools Mate Walkthrough](https://medium.com/@5um1t0x/tryhackme-fools-mate-walkthrough-bb3752f012ff?source=rss------bug_bounty-5) 
+ - 💯July 6, 2026 - [AI-Driven JavaScript Bug Hunting Pipeline](https://hackerassociate.medium.com/ai-driven-javascript-bug-hunting-pipeline-668c2f3183c6?source=rss------bug_bounty-5) 
 
- - 💯July 4, 2026 - [How I Do Recon in 2026: No Subdomains, No Wordlists, Just the App](https://meetcyber.net/how-i-do-recon-in-2026-no-subdomains-no-wordlists-just-the-app-2b446f76e764?source=rss------bug_bounty-5) 
+ - 💯July 6, 2026 - [From Recon to Reward: Discovering a SQL Injection Vulnerability on a Subdomain](https://medium.com/@zinolioncity/from-recon-to-reward-discovering-a-sql-injection-vulnerability-on-a-subdomain-ed022f5650b6?source=rss------bug_bounty-5) 
 
- - 💯July 4, 2026 - [Break the Gate, Own the Tunnel: The Brutal SSH Flag Guide Every Hacker Must Master](https://meetcyber.net/break-the-gate-own-the-tunnel-the-brutal-ssh-flag-guide-every-hacker-must-master-844b75b2cc5a?source=rss------bug_bounty-5) 
+ - 💯July 6, 2026 - [From Application RCE to Full Host Takeover via Docker Socket Misconfiguration](https://medium.com/@S3THU/from-application-rce-to-full-host-takeover-via-docker-socket-misconfiguration-7f8db4865c2a?source=rss------bug_bounty-5) 
 
- - 💯July 4, 2026 - [The Biggest Path Traversal Mistake I Didn’t Know I Was Making — Here’s The Path Traversal Checklist…](https://medium.com/@at0625309/the-biggest-path-traversal-mistake-i-didnt-know-i-was-making-here-s-the-path-traversal-checklist-6f11eb3fe414?source=rss------bug_bounty-5) 
+ - 💯July 6, 2026 - [The Methodology Behind CVE-2026-11395: An Unauthenticated SSRF Hiding in Plain Sight](https://medium.com/@luciuslogic/the-methodology-behind-cve-2026-11395-an-unauthenticated-ssrf-hiding-in-plain-sight-76a5a81d0f2c?source=rss------bug_bounty-5) 
 
- - 💯July 4, 2026 - [Account Deletion — Password Confirmation Bypass — bug bounty](https://medium.com/@sovode17/account-deletion-password-confirmation-bypass-bug-bounty-ae90450e8804?source=rss------bug_bounty-5) 
+ - 💯July 5, 2026 - [Investigating a Potential Stored XSS During Community Platform Testing](https://medium.com/@tahaabdelalali1/investigating-a-potential-stored-xss-during-community-platform-testing-3084d20e68da?source=rss------bug_bounty-5) 
 
- - 💯July 4, 2026 - [How I Hunt Zero-Days: The 10-Part System That Replaced Luck](https://ai.gopubby.com/vulnerability-research-methodology-finding-zero-days-ea2e800dc6b9?source=rss------bug_bounty-5) 
+ - 💯July 5, 2026 - [Discovering an IDOR Vulnerability in a Community Platform API](https://medium.com/@tahaabdelalali1/discovering-an-idor-vulnerability-in-a-community-platform-api-6bf01b92b5ee?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
