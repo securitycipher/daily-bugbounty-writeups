@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 7, 2026 - [Caido: The Modern, Rust-Powered Web Security Toolkit Redefining Penetration Testing](https://medium.com/@N0aziXss/caido-the-modern-rust-powered-web-security-toolkit-redefining-penetration-testing-78af646ef7ae?source=rss------bug_bounty-5) 
+ - 💯July 8, 2026 - [Mobile Penetration Testing: Analysis and Resolution of Location Desynchronization Issues in…](https://medium.com/@albertstive1010/mobile-penetration-testing-analysis-and-resolution-of-location-desynchronization-issues-in-8c392db063c3?source=rss------bug_bounty-5) 
 
- - 💯July 7, 2026 - [The Path of the Serpent: How I Turned a P5 Open Redirect into a $7,500 RCE on Ragnar Lothbrok](https://atanupal22256.medium.com/the-path-of-the-serpent-how-i-turned-a-p5-open-redirect-into-a-7-500-rce-on-ragnar-lothbrok-27bfc5ef14cb?source=rss------bug_bounty-5) 
+ - 💯July 8, 2026 - [Business Logic Vulnerabilities: The Attack Surface Automated Scanners Can’t Find](https://danielisaace.medium.com/business-logic-vulnerabilities-the-attack-surface-automated-scanners-cant-find-17e878a44dd1?source=rss------bug_bounty-5) 
 
- - 💯July 7, 2026 - [How to Report Bugs &amp; Earn PIF Rewards On TheBenefactor.Net](https://medium.com/@thebenefactor.com/how-to-report-bugs-earn-pif-rewards-on-thebenefactor-net-b42e370d33e5?source=rss------bug_bounty-5) 
+ - 💯July 8, 2026 - [When Copying One File Was Enough to Bypass Protected Course Access](https://medium.com/@ilianothingg/when-copying-one-file-was-enough-to-bypass-protected-course-access-a6972553f2d4?source=rss------bug_bounty-5) 
 
- - 💯July 6, 2026 - [How I Bypassed Mandatory 2FA Three Ways on a multi tenant SaaS Platform &lpar;~$1,125&rpar;](https://medium.com/@gautam2001sharma17/how-i-bypassed-mandatory-2fa-three-ways-on-a-multi-tenant-saas-platform-1-125-b69b6f275a0f?source=rss------bug_bounty-5) 
+ - 💯July 8, 2026 - [How a Trusted Header Turned Into an Open Redirect in Telekom’s System](https://medium.com/@m0ro23/how-a-trusted-header-turned-into-an-open-redirect-in-telekoms-system-250adc6d7878?source=rss------bug_bounty-5) 
 
- - 💯July 6, 2026 - [When Changing an Email Isn’t Enough: Discovering a Persistent Account Takeover and Session Leakage…](https://medium.com/@zyadatef2462003/when-changing-an-email-isnt-enough-discovering-a-persistent-account-takeover-and-session-leakage-b0e1cc0b77ac?source=rss------bug_bounty-5) 
+ - 💯July 7, 2026 - [The 403 That Wasn’t: How I Ended Up Accessing 100K Azure AD Users : My Microsoft Research Story](https://hamzadzworm.medium.com/the-403-that-wasnt-how-i-ended-up-accessing-100k-azure-ad-users-my-microsoft-research-story-985db681f083?source=rss------bug_bounty-5) 
 
- - 💯July 6, 2026 - [How a Missing Rate Limit Could Have Flooded an Entire Support System](https://medium.com/@ilianothingg/how-a-missing-rate-limit-could-have-flooded-an-entire-support-system-ca435214ce69?source=rss------bug_bounty-5) 
+ - 💯July 7, 2026 - [Master Node.js &amp; npm: A Python Dev - Security Researcher Guide](https://bharath.medium.com/master-node-js-npm-a-python-developers-security-guide-6c686accfe7e?source=rss------bug_bounty-5) 
 
- - 💯July 6, 2026 - [Finding a Stored XSS in a Support Ticket System: A Responsible Disclosure Story](https://medium.com/@ilianothingg/finding-a-stored-xss-in-a-support-ticket-system-a-responsible-disclosure-story-d25a15faa487?source=rss------bug_bounty-5) 
+ - 💯July 7, 2026 - [# I Submitted Multiple Bug Bounty Reports Before Finding My First Valid Bug.](https://medium.com/@rushivenkatadri/i-submitted-multiple-bug-bounty-reports-before-finding-my-first-valid-bug-7c3881003da0?source=rss------bug_bounty-5) 
 
- - 💯July 6, 2026 - [Your Subdomain Enum Is Only Finding Half the Attack Surface](https://medium.com/@Aacle/your-subdomain-enum-is-only-finding-half-the-attack-surface-bea3f9ea661e?source=rss------bug_bounty-5) 
+ - 💯July 7, 2026 - [Exfiltrate Sensitive Information By Exploiting AI Agents| PortSwigger Lab Walkthrough](https://mukibas37.medium.com/exfiltrate-sensitive-information-by-exploiting-ai-agents-portswigger-lab-walkthrough-4cd75c189b8a?source=rss------bug_bounty-5) 
 
- - 💯July 6, 2026 - [From Auth Bypass to IDOR: Chaining Vulnerabilities to Access Other Users’ Data &lpar;PART 2&rpar;](https://medium.com/@viralecho/from-auth-bypass-to-idor-chaining-vulnerabilities-to-access-other-users-data-part-2-64ceec558b2b?source=rss------bug_bounty-5) 
+ - 💯July 7, 2026 - [When a Proxy Becomes a Spy: Hunting an SSRF That Led Straight Into the Server Room](https://medium.com/@yogeshbhandage/when-a-proxy-becomes-a-spy-hunting-an-ssrf-that-led-straight-into-the-server-room-99445fd2f95f?source=rss------bug_bounty-5) 
+
+ - 💯July 7, 2026 - [How a $10 Fee Can Lock Thousands of Dollars Forever](https://medium.com/@bvize.com/how-a-10-fee-can-lock-thousands-of-dollars-forever-76fa9b448062?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
