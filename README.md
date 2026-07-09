@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 8, 2026 - [Mobile Penetration Testing: Analysis and Resolution of Location Desynchronization Issues in…](https://medium.com/@albertstive1010/mobile-penetration-testing-analysis-and-resolution-of-location-desynchronization-issues-in-8c392db063c3?source=rss------bug_bounty-5) 
+ - 💯July 9, 2026 - [Security Advisory: Chaining XSS, Database Exposure, and GDPR Violations in Devcomm BIP CMS](https://medium.com/@https.vrun/security-advisory-chaining-xss-database-exposure-and-gdpr-violations-in-devcomm-bip-cms-c1fd3db15646?source=rss------bug_bounty-5) 
 
- - 💯July 8, 2026 - [Business Logic Vulnerabilities: The Attack Surface Automated Scanners Can’t Find](https://danielisaace.medium.com/business-logic-vulnerabilities-the-attack-surface-automated-scanners-cant-find-17e878a44dd1?source=rss------bug_bounty-5) 
+ - 💯July 9, 2026 - [How I Discovered an Admin Access Vulnerability in the Blockchain India Challenge &lpar;CDAC&rpar; Website](https://osintteam.blog/how-i-discovered-an-admin-access-vulnerability-in-the-blockchain-india-challenge-cdac-website-b9bd33a82a23?source=rss------bug_bounty-5) 
 
- - 💯July 8, 2026 - [When Copying One File Was Enough to Bypass Protected Course Access](https://medium.com/@ilianothingg/when-copying-one-file-was-enough-to-bypass-protected-course-access-a6972553f2d4?source=rss------bug_bounty-5) 
+ - 💯July 9, 2026 - [Bug Bounty — Bypassing Access Controls: How a Single Boolean Flag Exposed KYC Government IDs](https://medium.com/@kenjisubagja/bug-bounty-bypassing-access-controls-how-a-single-boolean-flag-exposed-kyc-government-ids-60475cbd9304?source=rss------bug_bounty-5) 
 
- - 💯July 8, 2026 - [How a Trusted Header Turned Into an Open Redirect in Telekom’s System](https://medium.com/@m0ro23/how-a-trusted-header-turned-into-an-open-redirect-in-telekoms-system-250adc6d7878?source=rss------bug_bounty-5) 
+ - 💯July 9, 2026 - [Recon to Shell Access: Nokia Hall of Fame](https://scriptjacker.medium.com/recon-to-shell-access-nokia-hall-of-fame-5a7995595631?source=rss------bug_bounty-5) 
 
- - 💯July 7, 2026 - [The 403 That Wasn’t: How I Ended Up Accessing 100K Azure AD Users : My Microsoft Research Story](https://hamzadzworm.medium.com/the-403-that-wasnt-how-i-ended-up-accessing-100k-azure-ad-users-my-microsoft-research-story-985db681f083?source=rss------bug_bounty-5) 
+ - 💯July 9, 2026 - [From Vulnerability to CVE: How the Process Really Works](https://medium.com/@menevarad007/from-vulnerability-to-cve-how-the-process-really-works-6f595af97a74?source=rss------bug_bounty-5) 
 
- - 💯July 7, 2026 - [Master Node.js &amp; npm: A Python Dev - Security Researcher Guide](https://bharath.medium.com/master-node-js-npm-a-python-developers-security-guide-6c686accfe7e?source=rss------bug_bounty-5) 
+ - 💯July 9, 2026 - [A Short History of Bug Bounties](https://medium.com/@patrick.lefler/a-short-history-of-bug-bounties-76314c0cf807?source=rss------bug_bounty-5) 
 
- - 💯July 7, 2026 - [# I Submitted Multiple Bug Bounty Reports Before Finding My First Valid Bug.](https://medium.com/@rushivenkatadri/i-submitted-multiple-bug-bounty-reports-before-finding-my-first-valid-bug-7c3881003da0?source=rss------bug_bounty-5) 
+ - 💯July 8, 2026 - [The Attack That Steals Your API Keys Through a GitHub Issue Comment](https://medium.com/@rjbdjnf/the-attack-that-steals-your-api-keys-through-a-github-issue-comment-b0301c1906dc?source=rss------bug_bounty-5) 
 
- - 💯July 7, 2026 - [Exfiltrate Sensitive Information By Exploiting AI Agents| PortSwigger Lab Walkthrough](https://mukibas37.medium.com/exfiltrate-sensitive-information-by-exploiting-ai-agents-portswigger-lab-walkthrough-4cd75c189b8a?source=rss------bug_bounty-5) 
+ - 💯July 8, 2026 - [The $0 IDOR That Was Worth More Than a $12,500 P1](https://infosecwriteups.com/the-0-idor-that-was-worth-more-than-a-12-500-p1-4444d32f2f61?source=rss------bug_bounty-5) 
 
- - 💯July 7, 2026 - [When a Proxy Becomes a Spy: Hunting an SSRF That Led Straight Into the Server Room](https://medium.com/@yogeshbhandage/when-a-proxy-becomes-a-spy-hunting-an-ssrf-that-led-straight-into-the-server-room-99445fd2f95f?source=rss------bug_bounty-5) 
+ - 💯July 8, 2026 - [CRLF Injection — Understanding the Vulnerability &lpar; P 1/3 &rpar; :](https://medium.com/@cybersecplayground/crlf-injection-understanding-the-vulnerability-p-1-3-4a927ee8fc26?source=rss------bug_bounty-5) 
 
- - 💯July 7, 2026 - [How a $10 Fee Can Lock Thousands of Dollars Forever](https://medium.com/@bvize.com/how-a-10-fee-can-lock-thousands-of-dollars-forever-76fa9b448062?source=rss------bug_bounty-5) 
+ - 💯July 8, 2026 - [Turning a Login Redirect Into a Backdoor Into OopsSec Store’s Internals](https://medium.com/@oopssec-store/turning-a-login-redirect-into-a-backdoor-into-oopssec-stores-internals-6ba9185f8919?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
