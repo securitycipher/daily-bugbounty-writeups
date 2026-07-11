@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 10, 2026 - [Unauthenticated S3 Presigned POST Credentials Allowed Arbitrary Uploads to a Production Bucket](https://medium.com/@northsidehacker/unauthenticated-s3-presigned-post-credentials-allowed-arbitrary-uploads-to-a-production-bucket-a8cfb2e0a428?source=rss------bug_bounty-5) 
+ - 💯July 11, 2026 - [How I Found an OS Command Injection &lpar;RCE&rpar; in Coolify](https://medium.com/@cybertechajju/how-i-found-an-os-command-injection-rce-in-coolify-a93ffce24e74?source=rss------bug_bounty-5) 
 
- - 💯July 10, 2026 - [From PortSwigger Labs to my First Real-World Bounty: How a Stored XSS Found Me](https://medium.com/@haninalmohammadi19/from-portswigger-labs-to-my-first-real-world-bounty-how-a-stored-xss-found-me-4211f2ed3ce9?source=rss------bug_bounty-5) 
+ - 💯July 11, 2026 - [20 Browser Extensions Every Threat Researcher Should Try](https://medium.com/@paritoshblogs/20-browser-extensions-every-threat-researcher-should-try-2464ad46ac19?source=rss------bug_bounty-5) 
 
- - 💯July 10, 2026 - [Hunting the Origin IP Behind AWS CloudFront](https://medium.com/@TheWildEye/hunting-the-origin-ip-behind-cloudfront-ecb85fad9249?source=rss------bug_bounty-5) 
+ - 💯July 11, 2026 - [Prompt Injection: How I Hacked a Corporate AI Chatbot to Leak Private API Keys](https://medium.com/@psaibtech/prompt-injection-how-i-hacked-a-corporate-ai-chatbot-to-leak-private-api-keys-26d4793e989f?source=rss------bug_bounty-5) 
 
- - 💯July 10, 2026 - [How I Bypassed a Mandatory 2FA Enforcement Just by Dropping One Request](https://medium.com/@northsidehacker/how-i-bypassed-a-mandatory-2fa-enforcement-just-by-dropping-one-request-863b79f88771?source=rss------bug_bounty-5) 
+ - 💯July 11, 2026 - [ProtonVPN Stores Your Authentication Private Key in Plaintext — Proton Says It’s Intended Behavior](https://infosecwriteups.com/protonvpn-stores-your-authentication-private-key-in-plaintext-proton-says-its-intended-behavior-435dbb823612?source=rss------bug_bounty-5) 
 
- - 💯July 10, 2026 - [Advanced Vulnerabilities Part 1: Logic Bugs, Economic Attacks &amp; MEV](https://medium.com/@HackerMD/advanced-vulnerabilities-part-1-logic-bugs-economic-attacks-mev-2c8f4f53262a?source=rss------bug_bounty-5) 
+ - 💯July 10, 2026 - [Reflected XSS into HTML context with most tags and attributes blocked](https://z3r0-day.medium.com/reflected-xss-into-html-context-with-most-tags-and-attributes-blocked-9c824d9f57c2?source=rss------bug_bounty-5) 
 
- - 💯July 10, 2026 - [Why Login Pages Fail: The Small Authentication Mistakes That Become Big Security Problems](https://medium.com/@pritamtare029/why-login-pages-fail-the-small-authentication-mistakes-that-become-big-security-problems-d51d654f3080?source=rss------bug_bounty-5) 
+ - 💯July 10, 2026 - [Beyond Recon: My Personal Methodology for Hunting High-Impact Vulnerabilities in 2026](https://medium.com/@hakim.mca.716/beyond-recon-my-personal-methodology-for-hunting-high-impact-vulnerabilities-in-2026-a95215087b79?source=rss------bug_bounty-5) 
 
- - 💯July 10, 2026 - [BUG-BOUNTY SERIES 18: Directory Traversal.](https://medium.com/@krisnawhy300/bug-bounty-series-18-directory-traversal-0c66b4daee05?source=rss------bug_bounty-5) 
+ - 💯July 10, 2026 - [Your bug bounty session has too many windows open. Crusader wants to fix that.](https://crusadersecurity.medium.com/your-bug-bounty-session-has-too-many-windows-open-crusader-wants-to-fix-that-8f2d5cad0d43?source=rss------bug_bounty-5) 
 
- - 💯July 10, 2026 - [BUG-BOUNTY SERIES 17: Broken Authentication.](https://medium.com/@krisnawhy300/bug-bounty-series-17-broken-authentication-a5e2877b5101?source=rss------bug_bounty-5) 
+ - 💯July 10, 2026 - [INSTAGRAM Account Takeover 0-click Username and email Collision in Password Recover $130k+ bounty](https://medium.com/@metabugs/instagram-account-takeover-0-click-username-and-email-collision-in-password-recover-60712873f1ea?source=rss------bug_bounty-5) 
 
- - 💯July 9, 2026 - [‍♂️Business Logic Bug Allows Bypass of Single-Owner Restriction](https://medium.com/@0xMo7areb/%EF%B8%8Fbusiness-logic-bug-allows-bypass-of-single-owner-restriction-0578b25d3219?source=rss------bug_bounty-5) 
-
- - 💯July 9, 2026 - [One Wildcard Character — $88,337 from Google: How brutecat Broke Cloud Tenant Isolation — A…](https://medium.com/@vivekps143/one-wildcard-character-88-337-from-google-how-brutecat-broke-cloud-tenant-isolation-a-7110a0efaa30?source=rss------bug_bounty-5) 
+ - 💯July 10, 2026 - [Understanding window.postMessage&lpar;&rpar;: How Browsers Safely Communicate Across Origins &lpar;PART -2&rpar;](https://balajih4kr.medium.com/understanding-window-postmessage-how-browsers-safely-communicate-across-origins-part-2-b9c20c86585c?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
