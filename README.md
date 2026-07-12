@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 11, 2026 - [How I Found an OS Command Injection &lpar;RCE&rpar; in Coolify](https://medium.com/@cybertechajju/how-i-found-an-os-command-injection-rce-in-coolify-a93ffce24e74?source=rss------bug_bounty-5) 
+ - 💯July 12, 2026 - [Unauthenticated PII Disclosure on a Major Automaker’s B2B Auction Portal — Enabled by a Missing…](https://medium.com/@InsbatArshad/unauthenticated-pii-disclosure-on-a-major-automakers-b2b-auction-portal-enabled-by-a-missing-24a980f66729?source=rss------bug_bounty-5) 
 
- - 💯July 11, 2026 - [20 Browser Extensions Every Threat Researcher Should Try](https://medium.com/@paritoshblogs/20-browser-extensions-every-threat-researcher-should-try-2464ad46ac19?source=rss------bug_bounty-5) 
+ - 💯July 12, 2026 - [Hacking Web Application Using cURL](https://medium.com/@Shatha511/hacking-web-application-using-curl-a5c125a789b4?source=rss------bug_bounty-5) 
 
- - 💯July 11, 2026 - [Prompt Injection: How I Hacked a Corporate AI Chatbot to Leak Private API Keys](https://medium.com/@psaibtech/prompt-injection-how-i-hacked-a-corporate-ai-chatbot-to-leak-private-api-keys-26d4793e989f?source=rss------bug_bounty-5) 
+ - 💯July 11, 2026 - [Finding Reflected XSS Through Persistence](https://medium.com/@alyhsan.x/finding-reflected-xss-through-persistence-3e8b0a286c98?source=rss------bug_bounty-5) 
 
- - 💯July 11, 2026 - [ProtonVPN Stores Your Authentication Private Key in Plaintext — Proton Says It’s Intended Behavior](https://infosecwriteups.com/protonvpn-stores-your-authentication-private-key-in-plaintext-proton-says-its-intended-behavior-435dbb823612?source=rss------bug_bounty-5) 
+ - 💯July 11, 2026 - [The Silent Offer: How a Job Posting Stole an Admin Account](https://atanupal22256.medium.com/the-silent-offer-how-a-job-posting-stole-an-admin-account-f694a0250a31?source=rss------bug_bounty-5) 
 
- - 💯July 10, 2026 - [Reflected XSS into HTML context with most tags and attributes blocked](https://z3r0-day.medium.com/reflected-xss-into-html-context-with-most-tags-and-attributes-blocked-9c824d9f57c2?source=rss------bug_bounty-5) 
+ - 💯July 11, 2026 - [HackAgent Explained | Detect AI Agent Vulnerabilities Like a Pro](https://medium.com/@pentesterclubpvtltd/hackagent-explained-detect-ai-agent-vulnerabilities-like-a-pro-ae25fec69c60?source=rss------bug_bounty-5) 
 
- - 💯July 10, 2026 - [Beyond Recon: My Personal Methodology for Hunting High-Impact Vulnerabilities in 2026](https://medium.com/@hakim.mca.716/beyond-recon-my-personal-methodology-for-hunting-high-impact-vulnerabilities-in-2026-a95215087b79?source=rss------bug_bounty-5) 
+ - 💯July 11, 2026 - [Top 10 Smart Contract Attack Vectors of H1 2025, Ranked by Risk](https://medium.com/@ayushman4937/top-10-smart-contract-attack-vectors-of-h1-2025-ranked-by-risk-60e4794e2a3c?source=rss------bug_bounty-5) 
 
- - 💯July 10, 2026 - [Your bug bounty session has too many windows open. Crusader wants to fix that.](https://crusadersecurity.medium.com/your-bug-bounty-session-has-too-many-windows-open-crusader-wants-to-fix-that-8f2d5cad0d43?source=rss------bug_bounty-5) 
+ - 💯July 11, 2026 - [Lab 2: Broken Access Control “Unprotected Admin Functionality with Unpredictable URL” &lpar;PortSwigger…](https://medium.com/@nitishmukhiya/lab-2-broken-access-control-unprotected-admin-functionality-with-unpredictable-url-portswigger-660bafaac135?source=rss------bug_bounty-5) 
 
- - 💯July 10, 2026 - [INSTAGRAM Account Takeover 0-click Username and email Collision in Password Recover $130k+ bounty](https://medium.com/@metabugs/instagram-account-takeover-0-click-username-and-email-collision-in-password-recover-60712873f1ea?source=rss------bug_bounty-5) 
+ - 💯July 11, 2026 - [When “Remember Me” Becomes “Remember the Hacker”: Hidden Authentication Flaws in Modern Web…](https://medium.com/@pritamtare029/when-remember-me-becomes-remember-the-hacker-hidden-authentication-flaws-in-modern-web-23aedfe9cb3f?source=rss------bug_bounty-5) 
 
- - 💯July 10, 2026 - [Understanding window.postMessage&lpar;&rpar;: How Browsers Safely Communicate Across Origins &lpar;PART -2&rpar;](https://balajih4kr.medium.com/understanding-window-postmessage-how-browsers-safely-communicate-across-origins-part-2-b9c20c86585c?source=rss------bug_bounty-5) 
+ - 💯July 11, 2026 - [Lab 1: Broken Access Control “Unprotected Admin Functionality” &lpar;PortSwigger Web Security Academy&rpar;](https://medium.com/@nitishmukhiya/lab-1-broken-access-control-unprotected-admin-functionality-portswigger-web-security-academy-49b71d270a23?source=rss------bug_bounty-5) 
+
+ - 💯July 11, 2026 - [SCAN7X TOOL](https://medium.com/@1337kro/scan7x-tool-b2210397bdc9?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
