@@ -2,23 +2,22 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 12, 2026 - [Unauthenticated PII Disclosure on a Major Automaker’s B2B Auction Portal — Enabled by a Missing…](https://medium.com/@InsbatArshad/unauthenticated-pii-disclosure-on-a-major-automakers-b2b-auction-portal-enabled-by-a-missing-24a980f66729?source=rss------bug_bounty-5) 
+ - 💯July 13, 2026 - [SQL Injection Bypass: Why Network-Level Fixes Fail to Secure Vulnerable Applications](https://medium.com/@m.bafy10/sql-injection-bypass-why-network-level-fixes-fail-to-secure-vulnerable-applications-d3e96ddc5b27?source=rss------bug_bounty-5) 
 
- - 💯July 12, 2026 - [Hacking Web Application Using cURL](https://medium.com/@Shatha511/hacking-web-application-using-curl-a5c125a789b4?source=rss------bug_bounty-5) 
+ - 💯July 13, 2026 - [From Source Code Disclosure to a Hardcoded Backdoor: How I Achieved Full Authentication Bypass](https://medium.com/@m.bafy10/from-source-code-disclosure-to-a-hardcoded-backdoor-how-i-achieved-full-authentication-bypass-20fb3c38b48e?source=rss------bug_bounty-5) 
 
- - 💯July 11, 2026 - [Finding Reflected XSS Through Persistence](https://medium.com/@alyhsan.x/finding-reflected-xss-through-persistence-3e8b0a286c98?source=rss------bug_bounty-5) 
+ - 💯July 13, 2026 - [Uncovering the Unseen: Breaking WAF and Auditing Undocumented Backend Logic in a HealthTech…](https://medium.com/@black_angel24/uncovering-the-unseen-breaking-waf-and-auditing-undocumented-backend-logic-in-a-healthtech-ea488114301c?source=rss------bug_bounty-5) 
 
- - 💯July 11, 2026 - [The Silent Offer: How a Job Posting Stole an Admin Account](https://atanupal22256.medium.com/the-silent-offer-how-a-job-posting-stole-an-admin-account-f694a0250a31?source=rss------bug_bounty-5) 
+ - 💯July 13, 2026 - [How I Discovered a Premium Bypass Vulnerability in Spotify — And What Happened Next
+A first-time…](https://medium.com/@nikhilgarg6176/how-i-discovered-a-premium-bypass-vulnerability-in-spotify-and-what-happened-next-a-first-time-748e2fda7a39?source=rss------bug_bounty-5) 
 
- - 💯July 11, 2026 - [HackAgent Explained | Detect AI Agent Vulnerabilities Like a Pro](https://medium.com/@pentesterclubpvtltd/hackagent-explained-detect-ai-agent-vulnerabilities-like-a-pro-ae25fec69c60?source=rss------bug_bounty-5) 
+ - 💯July 13, 2026 - [How Curiosity Led Me Into AI Security](https://shrivarshan81.medium.com/how-curiosity-led-me-into-ai-security-04d20c4b31ee?source=rss------bug_bounty-5) 
 
- - 💯July 11, 2026 - [Top 10 Smart Contract Attack Vectors of H1 2025, Ranked by Risk](https://medium.com/@ayushman4937/top-10-smart-contract-attack-vectors-of-h1-2025-ranked-by-risk-60e4794e2a3c?source=rss------bug_bounty-5) 
+ - 💯July 13, 2026 - [Valid Tokens, Broken Limits: A Race Condition Story](https://medium.com/@0Ziiad/valid-tokens-broken-limits-a-race-condition-story-b19a77b26b33?source=rss------bug_bounty-5) 
 
- - 💯July 11, 2026 - [Lab 2: Broken Access Control “Unprotected Admin Functionality with Unpredictable URL” &lpar;PortSwigger…](https://medium.com/@nitishmukhiya/lab-2-broken-access-control-unprotected-admin-functionality-with-unpredictable-url-portswigger-660bafaac135?source=rss------bug_bounty-5) 
+ - 💯July 12, 2026 - [Zero Days: The Worm That Broke Iran’s Centrifuges Without Firing a Shot](https://srimant999.medium.com/zero-days-the-worm-that-broke-irans-centrifuges-without-firing-a-shot-a7e108247a7a?source=rss------bug_bounty-5) 
 
- - 💯July 11, 2026 - [When “Remember Me” Becomes “Remember the Hacker”: Hidden Authentication Flaws in Modern Web…](https://medium.com/@pritamtare029/when-remember-me-becomes-remember-the-hacker-hidden-authentication-flaws-in-modern-web-23aedfe9cb3f?source=rss------bug_bounty-5) 
+ - 💯July 12, 2026 - [Learning the Hard Way: How procedural errors invalidated my Web3 bug bounties &lpar;and how to avoid…](https://medium.com/@remi.bunker.sys/learning-the-hard-way-how-procedural-errors-invalidated-my-web3-bug-bounties-and-how-to-avoid-3758fb5eef1c?source=rss------bug_bounty-5) 
 
- - 💯July 11, 2026 - [Lab 1: Broken Access Control “Unprotected Admin Functionality” &lpar;PortSwigger Web Security Academy&rpar;](https://medium.com/@nitishmukhiya/lab-1-broken-access-control-unprotected-admin-functionality-portswigger-web-security-academy-49b71d270a23?source=rss------bug_bounty-5) 
-
- - 💯July 11, 2026 - [SCAN7X TOOL](https://medium.com/@1337kro/scan7x-tool-b2210397bdc9?source=rss------bug_bounty-5) 
+ - 💯July 12, 2026 - [Account Takeover via Open Redirect XSS](https://medium.com/@amir1382programmer/account-takeover-via-open-redirect-xss-cf25b42abd22?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
