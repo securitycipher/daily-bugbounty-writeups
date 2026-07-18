@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 17, 2026 - [Lab Walkthrough: Exploiting Username Enumeration via Different Responses](https://medium.com/@5um1t0x/lab-walkthrough-exploiting-username-enumeration-via-different-responses-8974f010bca8?source=rss------bug_bounty-5) 
+ - 💯July 18, 2026 - [Bypassing Rate Limiting on a Password Reset Endpoint With a Single Whitespace Character](https://medium.com/@northsidehacker/bypassing-rate-limiting-on-a-password-reset-endpoint-with-a-single-whitespace-character-cb1691833d5b?source=rss------bug_bounty-5) 
 
- - 💯July 17, 2026 - [Finding Reflected XSS Parameters Fast: A Deep Dive into RefleX](https://medium.com/@arshadshoaib029/finding-reflected-xss-parameters-fast-a-deep-dive-into-reflex-ab5f063d7355?source=rss------bug_bounty-5) 
+ - 💯July 18, 2026 - [Breaking the iframes: Modern Clickjacking Attacks Explained](https://osintteam.blog/breaking-the-iframes-modern-clickjacking-attacks-explained-3032da7c238f?source=rss------bug_bounty-5) 
 
- - 💯July 17, 2026 - [Room 8 Is Live: Why Server-Side Request Forgery Still Challenges Modern Security Teams](https://meetcyber.net/room-8-is-live-why-server-side-request-forgery-still-challenges-modern-security-teams-e3a3187ac0da?source=rss------bug_bounty-5) 
+ - 💯July 18, 2026 - [Breaking Directories: A Bug Hunter’s Guide to Directory Traversal](https://osintteam.blog/breaking-directories-a-bug-hunters-guide-to-directory-traversal-112b98b515e7?source=rss------bug_bounty-5) 
 
- - 💯July 17, 2026 - [When -1 Crossed a Library Boundary: How libvips Hardened Its TIFF Loader](https://medium.com/@aleens09/when-1-crossed-a-library-boundary-how-libvips-hardened-its-tiff-loader-35cda3e16544?source=rss------bug_bounty-5) 
+ - 💯July 18, 2026 - [This Free Tool Showed Me A Company’s Deleted API Keys From 2019](https://osintteam.blog/this-free-tool-showed-me-a-companys-deleted-api-keys-from-2019-94286224b4ab?source=rss------bug_bounty-5) 
 
- - 💯July 17, 2026 - [A 65,529-Sample Lie: How a Tiny TIFF Fooled GDAL Into Asking for 16 GB](https://medium.com/@aleens09/a-65-529-sample-lie-how-a-tiny-tiff-fooled-gdal-into-asking-for-16-gb-d3be93606c3d?source=rss------bug_bounty-5) 
+ - 💯July 18, 2026 - [I Found 400 Hidden Subdomains On My First Target Using One Free Tool](https://osintteam.blog/i-found-400-hidden-subdomains-on-my-first-target-using-one-free-tool-19c720fdf304?source=rss------bug_bounty-5) 
 
- - 💯July 16, 2026 - [Password Reset Vulnerabilities List](https://medium.com/@omaralgbry1/password-reset-vulnerabilities-list-2bec302886a3?source=rss------bug_bounty-5) 
+ - 💯July 17, 2026 - [I Ignored the Lab Instructions and Solved It My Own Way -Here’s What I Learned](https://medium.com/@padhyepushkar/i-ignored-the-lab-instructions-and-solved-it-my-own-way-heres-what-i-learned-9558f67341a3?source=rss------bug_bounty-5) 
 
- - 💯July 16, 2026 - [Stored XSS via SVG File Upload Leading to Account Takeover in an LMS Platform](https://medium.com/@hossein.za68/stored-xss-via-svg-file-upload-leading-to-account-takeover-in-an-lms-platform-c3266453c9a0?source=rss------bug_bounty-5) 
+ - 💯July 17, 2026 - [I Found a CSRF-Style Bug in Proton and Earned a $200 Bounty.](https://medium.com/@kenjisubagja/i-found-a-csrf-style-bug-in-simplelogin-and-earned-a-200-bounty-7f0375f785d1?source=rss------bug_bounty-5) 
 
- - 💯July 16, 2026 - [It Was Just a Number!!?](https://medium.com/@abdelrahman.maged.cg/it-was-just-a-number-6547f360a1b2?source=rss------bug_bounty-5) 
+ - 💯July 17, 2026 - [The Night Claude Found a Critical IDOR and Deleted the Test Account](https://medium.com/@Aacle/the-night-claude-found-a-critical-idor-and-deleted-the-test-account-6a685cc205d3?source=rss------bug_bounty-5) 
 
- - 💯July 16, 2026 - [Workflow Bypass Leading to Unauthorized Access to Sensitive Records &lpar;IDOR / Broken Object-Level…](https://medium.com/@kaisec42/workflow-bypass-leading-to-unauthorized-access-to-sensitive-records-idor-broken-object-level-39bc801663e7?source=rss------bug_bounty-5) 
+ - 💯July 17, 2026 - [I Built a Bug Bounty Recon Tool That Automates the Boring Parts &lpar;So I Don’t Have To&rpar;](https://kushalbhattarai.medium.com/i-built-a-bug-bounty-recon-tool-that-automates-the-boring-parts-so-i-dont-have-to-465585bf08dc?source=rss------bug_bounty-5) 
 
- - 💯July 16, 2026 - [A Newsletter Confirmation Link That Doubled as a Permanent, Non-Expiring Login Token](https://medium.com/@northsidehacker/a-newsletter-confirmation-link-that-doubled-as-a-permanent-non-expiring-login-token-7bb7e424d0dc?source=rss------bug_bounty-5) 
+ - 💯July 17, 2026 - [From User to Admin: The Story of Privilege Escalation](https://medium.com/@pritamtare029/from-user-to-admin-the-story-of-privilege-escalation-f4d70df7de4c?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
