@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
+ - 💯July 20, 2026 - [How a Single UUID Change Led to an IDOR Vulnerability](https://medium.com/@ctf.exe890/how-a-single-uuid-change-led-to-an-idor-vulnerability-e3913d0d9985?source=rss------bug_bounty-5) 
+
+ - 💯July 20, 2026 - [# From “users” to “admin”: How a Simple Response Copy-Paste Led to Privilege Escalation](https://medium.com/@pankaj_73968/from-users-to-admin-how-a-simple-response-copy-paste-led-to-privilege-escalation-f93c1220f1e5?source=rss------bug_bounty-5) 
+
+ - 💯July 20, 2026 - [From Ping to Pwn: What I Learned Breaking DVWA, Juice Shop, and Two Vulnerable APIs](https://medium.com/@mbkingkhan786/from-ping-to-pwn-what-i-learned-breaking-dvwa-juice-shop-and-two-vulnerable-apis-85400f9d15f5?source=rss------bug_bounty-5) 
+
+ - 💯July 20, 2026 - [From a “Hey, {name} ” Banner to Full Account Takeover | Chaining 4 Bugs Through a Rewards WebView](https://medium.com/@bag0zathev2/from-a-hey-name-banner-to-full-account-takeover-chaining-4-bugs-through-a-rewards-webview-f89a2b0f830f?source=rss------bug_bounty-5) 
+
+ - 💯July 19, 2026 - [Registration Security Testing Checklist](https://medium.com/@chilukavarshith4005/registration-security-testing-checklist-89d151d4e0f4?source=rss------bug_bounty-5) 
+
+ - 💯July 19, 2026 - [Unrestricted File Upload via Exposed Upload Preset](https://medium.com/@akmalmuhfauzan/unrestricted-file-upload-via-exposed-upload-preset-fa3951034a33?source=rss------bug_bounty-5) 
+
+ - 💯July 19, 2026 - [Account Takeover via Broken Password Reset Validation](https://medium.com/@z9mohamed74/account-takeover-via-broken-password-reset-validation-35cb3c0d07c1?source=rss------bug_bounty-5) 
+
+ - 💯July 19, 2026 - [Broken Access Control: How Attackers Bypass Permissions &lpar;And How to Stop Them&rpar;](https://medium.com/@KhushiPatel26/broken-access-control-how-attackers-bypass-permissions-and-how-to-stop-them-d032b634083f?source=rss------bug_bounty-5) 
+
  - 💯July 19, 2026 - [How a Simple Profile Setting Revealed Sensitive Credentials in a Bug Bounty Program](https://mazenrady.medium.com/how-a-simple-profile-setting-revealed-sensitive-credentials-in-a-bug-bounty-program-7809a8bdd827?source=rss------bug_bounty-5) 
-
- - 💯July 19, 2026 - [How I Found a Race Condition in an Email Verification Feature](https://mazenrady.medium.com/how-i-found-a-race-condition-in-an-email-verification-feature-57f3637e9ca9?source=rss------bug_bounty-5) 
-
- - 💯July 19, 2026 - [When JPEGs Start Giving Orders: A Journey into Multi-modal Prompt Injection](https://infosecwriteups.com/multi-modal-prompt-injection-0b5108f4a7c0?source=rss------bug_bounty-5) 
-
- - 💯July 19, 2026 - [The Cursor Zero-Day That Sat Through 70 Versions](https://medium.com/@Aacle/the-cursor-zero-day-that-sat-through-70-versions-a144c79ae20f?source=rss------bug_bounty-5) 
-
- - 💯July 19, 2026 - [Authentication Vulnerability](https://medium.com/@sreeragpramod777/authentication-vulnerability-429d80750021?source=rss------bug_bounty-5) 
-
- - 💯July 18, 2026 - [Bug Bounty Pre-Recon Methodology: A Beginner’s Guide to Finding the Attack Surface](https://medium.com/@nsm10a01akhil/bug-bounty-pre-recon-methodology-a-beginners-guide-to-finding-the-attack-surface-892e5699e5e8?source=rss------bug_bounty-5) 
-
- - 💯July 18, 2026 - [When XSS Meets CSRF](https://mainekhacker.medium.com/when-xss-meets-csrf-3d595df08d0e?source=rss------bug_bounty-5) 
-
- - 💯July 18, 2026 - [From Reflected XSS to Critical Bug Led to Sensitive Data Leakage](https://medium.com/@Nyx0r/from-reflected-xss-to-critical-bug-led-to-sensitive-data-leakage-229c61722992?source=rss------bug_bounty-5) 
-
- - 💯July 18, 2026 - [10 Ways to Encode an XSS Payload](https://systemweakness.com/10-ways-to-encode-an-xss-payload-daf64595ebcf?source=rss------bug_bounty-5) 
-
- - 💯July 18, 2026 - [Don’t Trust the Token — The Art of JWT Attacks](https://medium.com/@mohaba746/dont-trust-the-token-the-art-of-jwt-attacks-1a76aae95a63?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
