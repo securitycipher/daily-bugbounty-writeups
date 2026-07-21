@@ -2,21 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 20, 2026 - [How a Single UUID Change Led to an IDOR Vulnerability](https://medium.com/@ctf.exe890/how-a-single-uuid-change-led-to-an-idor-vulnerability-e3913d0d9985?source=rss------bug_bounty-5) 
+ - 💯July 21, 2026 - [How I Earned $10,000 From Microsoft &lpar;From Just 2 Bugs Out of 30+&rpar;](https://blog.leetsec.in/how-i-earned-10-000-from-microsoft-from-just-2-bugs-out-of-30-8d03e4ef209a?source=rss------bug_bounty-5) 
 
- - 💯July 20, 2026 - [# From “users” to “admin”: How a Simple Response Copy-Paste Led to Privilege Escalation](https://medium.com/@pankaj_73968/from-users-to-admin-how-a-simple-response-copy-paste-led-to-privilege-escalation-f93c1220f1e5?source=rss------bug_bounty-5) 
+ - 💯July 21, 2026 - [Reverse Engineering APIs with Chrome DevTools: A Bug Bounty Practical Guide](https://infosecwriteups.com/reverse-engineering-apis-with-chrome-devtools-a-bug-bounty-practical-guide-6d7535e37cc4?source=rss------bug_bounty-5) 
 
- - 💯July 20, 2026 - [From Ping to Pwn: What I Learned Breaking DVWA, Juice Shop, and Two Vulnerable APIs](https://medium.com/@mbkingkhan786/from-ping-to-pwn-what-i-learned-breaking-dvwa-juice-shop-and-two-vulnerable-apis-85400f9d15f5?source=rss------bug_bounty-5) 
+ - 💯July 21, 2026 - [DOM XSS using web messages and JSON.parse](https://medium.com/@karthikmudgal12/dom-xss-using-web-messages-and-json-parse-70a1324330e7?source=rss------bug_bounty-5) 
 
- - 💯July 20, 2026 - [From a “Hey, {name} ” Banner to Full Account Takeover | Chaining 4 Bugs Through a Rewards WebView](https://medium.com/@bag0zathev2/from-a-hey-name-banner-to-full-account-takeover-chaining-4-bugs-through-a-rewards-webview-f89a2b0f830f?source=rss------bug_bounty-5) 
+ - 💯July 21, 2026 - [Deep-Dive Technical Write-up: CVE-2026–13156 — MailerSend WordPress Plugin CSRF Settings Deletion &amp;…](https://medium.com/@minhhk/deep-dive-technical-write-up-cve-2026-13156-mailersend-wordpress-plugin-csrf-settings-deletion-5b3638e201e7?source=rss------bug_bounty-5) 
 
- - 💯July 19, 2026 - [Registration Security Testing Checklist](https://medium.com/@chilukavarshith4005/registration-security-testing-checklist-89d151d4e0f4?source=rss------bug_bounty-5) 
+ - 💯July 21, 2026 - [Cupid’s Matchmaker — TryHackMe Walkthrough](https://medium.com/@5um1t0x/cupids-matchmaker-tryhackme-walkthrough-6f1ed059472d?source=rss------bug_bounty-5) 
 
- - 💯July 19, 2026 - [Unrestricted File Upload via Exposed Upload Preset](https://medium.com/@akmalmuhfauzan/unrestricted-file-upload-via-exposed-upload-preset-fa3951034a33?source=rss------bug_bounty-5) 
+ - 💯July 20, 2026 - [Real-World Broken Access Control &lpar;BAC&rpar;: From IDOR to Privilege Escalation](https://medium.com/@perdosecurity/real-world-broken-access-control-bac-from-idor-to-privilege-escalation-9bb4715c6026?source=rss------bug_bounty-5) 
 
- - 💯July 19, 2026 - [Account Takeover via Broken Password Reset Validation](https://medium.com/@z9mohamed74/account-takeover-via-broken-password-reset-validation-35cb3c0d07c1?source=rss------bug_bounty-5) 
+ - 💯July 20, 2026 - [The Bug Bounty Playbook: IDOR](https://medium.com/@Aacle/the-bug-bounty-playbook-idor-72038e510337?source=rss------bug_bounty-5) 
 
- - 💯July 19, 2026 - [Broken Access Control: How Attackers Bypass Permissions &lpar;And How to Stop Them&rpar;](https://medium.com/@KhushiPatel26/broken-access-control-how-attackers-bypass-permissions-and-how-to-stop-them-d032b634083f?source=rss------bug_bounty-5) 
+ - 💯July 20, 2026 - [Hunting an Unauthenticated IDOR in a Registration API](https://medium.com/@am8337/hunting-an-unauthenticated-idor-in-a-registration-api-6bb8036162e7?source=rss------bug_bounty-5) 
 
- - 💯July 19, 2026 - [How a Simple Profile Setting Revealed Sensitive Credentials in a Bug Bounty Program](https://mazenrady.medium.com/how-a-simple-profile-setting-revealed-sensitive-credentials-in-a-bug-bounty-program-7809a8bdd827?source=rss------bug_bounty-5) 
+ - 💯July 20, 2026 - [How a Failed CSRF Escalated to an Unauthenticated Mass Assignment &lpar;7.3 Severity&rpar;](https://medium.com/@RootXSec/how-a-failed-csrf-escalated-to-an-unauthenticated-mass-assignment-7-3-severity-aa0ba70a3162?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
