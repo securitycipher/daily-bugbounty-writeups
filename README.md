@@ -2,19 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 23, 2026 - [How to Extract Information from Websites: Automated OSINT Techniques and Tools](https://cyberw1ng.medium.com/how-to-extract-information-from-websites-automated-osint-techniques-and-tools-6bd180ec978a?source=rss------bug_bounty-5) 
+ - 💯July 24, 2026 - [Free Orders via Business Logic Flaw: How a Simple Interception Uncovered an Unpaid Order Bug](https://medium.com/@zyad_ibrahim333/free-orders-via-business-logic-flaw-how-a-simple-interception-uncovered-an-unpaid-order-bug-0dc8c7d69d49?source=rss------bug_bounty-5) 
 
- - 💯July 23, 2026 - [GitHub Just Halved Its Bug Bounty Payouts — Here’s What Actually Changed](https://medium.com/@haarshagrawal/github-just-halved-its-bug-bounty-payouts-heres-what-actually-changed-10e21514a5b7?source=rss------bug_bounty-5) 
+ - 💯July 24, 2026 - [Automate your Bug Bounty with ChatGPT](https://cyberw1ng.medium.com/automate-your-bug-bounty-with-chatgpt-12d5790c9f58?source=rss------bug_bounty-5) 
 
- - 💯July 23, 2026 - [Change Your Role, or Change the Role?](https://medium.com/@r4sh1dy/change-your-role-or-change-the-role-a2870060714c?source=rss------bug_bounty-5) 
+ - 💯July 23, 2026 - [Mastering Google Dorking: A Cybersecurity Guide for Pentesters and Attackers](https://osintteam.blog/mastering-google-dorking-a-cybersecurity-guide-for-pentesters-and-attackers-9d7102d35e83?source=rss------bug_bounty-5) 
 
- - 💯July 23, 2026 - [Bug Bounty Automation — Elite Recon Pipeline + bonus Script](https://medium.com/@utaah/bug-bounty-automation-elite-recon-pipeline-bonus-script-7fd94ad62d84?source=rss------bug_bounty-5) 
+ - 💯July 23, 2026 - [One Command Pulled URLs from four different sources at once; I was not ready for the results.](https://osintteam.blog/one-command-pulled-urls-from-four-different-sources-at-once-i-was-not-ready-for-the-results-8a1895d4f4bd?source=rss------bug_bounty-5) 
 
- - 💯July 22, 2026 - [File Path Traversal, Simple Case Walkthrough &lpar;Apprentice&rpar;](https://1amrahul.medium.com/file-path-traversal-simple-case-walkthrough-apprentice-b79182ae4d49?source=rss------bug_bounty-5) 
+ - 💯July 23, 2026 - [How I Find SQL Injection Vulnerabilities: My Bug Bounty Hunting Manual Testing Methodology](https://sayemeh.medium.com/how-i-find-sql-injection-vulnerabilities-my-bug-bounty-hunting-manual-testing-methodology-970c87535839?source=rss------bug_bounty-5) 
 
- - 💯July 22, 2026 - [Back From Vacation &amp; Launching Open Beta: Help Us Test NextBlock CMS &lpar;and Get a $500/yr Lifetime…](https://medium.com/@nextblockcms/back-from-vacation-launching-open-beta-help-us-test-nextblock-cms-and-get-a-500-yr-lifetime-452259e13418?source=rss------bug_bounty-5) 
+ - 💯July 23, 2026 - [Blind SQL injection attack with Conditional Responses using Sniper and Cluster Bomb](https://cyberlabyrinthx.medium.com/blind-sql-injection-attack-with-conditional-responses-using-sniper-and-cluster-bomb-9759ebc69657?source=rss------bug_bounty-5) 
 
- - 💯July 22, 2026 - [Unlimited Coupon Code Generation for Same Email Address](https://medium.com/@RootXSec/unlimited-coupon-code-generation-for-same-email-address-de42fe4fcde6?source=rss------bug_bounty-5) 
+ - 💯July 23, 2026 - [The Bug Bounty Recon Workflow I Use Before Opening Burp Suite](https://medium.com/@mikespenz25/the-bug-bounty-recon-workflow-i-use-before-opening-burp-suite-7f71c862b8ff?source=rss------bug_bounty-5) 
 
- - 💯July 22, 2026 - [Meta Bug Bounty Breakdown: $78K for an IDOR That Exposed Chats &amp; PII](https://medium.com/@xpert4cyber/meta-bug-bounty-breakdown-78k-for-an-idor-that-exposed-chats-pii-e5de282524e2?source=rss------bug_bounty-5) 
+ - 💯July 23, 2026 - [The Confused Deputy in the AWS Cloud: Bypassing Kubernetes NodeRestriction via IAM Spoofing](https://medium.com/@sachinpatilsp/the-confused-deputy-in-the-aws-cloud-bypassing-kubernetes-noderestriction-via-iam-spoofing-04eec5298e32?source=rss------bug_bounty-5) 
+
+ - 💯July 23, 2026 - [AI vs. Human Audit: Why Automation Cannot Replace Cybersecurity Expertise](https://medium.com/@SdxShadowlabs/ai-vs-human-audit-why-automation-cannot-replace-cybersecurity-expertise-0d9decbf80be?source=rss------bug_bounty-5) 
+
+ - 💯July 23, 2026 - [How a Simple Google Dork Led Me to Find Reflected XSS &amp; HTML Injection on NASA and Earn a Letter of…](https://medium.com/@itss4leh/how-a-simple-google-dork-led-me-to-find-reflected-xss-html-injection-on-nasa-and-earn-a-letter-of-83075852de42?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
