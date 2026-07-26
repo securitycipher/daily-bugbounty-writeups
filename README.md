@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 25, 2026 - [Lab: Developing a custom gadget chain for PHP deserialization](https://medium.com/@amrsmooke321/lab-developing-a-custom-gadget-chain-for-php-deserialization-f8d655ec5e3e?source=rss------bug_bounty-5) 
+ - 💯July 26, 2026 - [The Bug Bounty Playbook: SSRF](https://medium.com/@Aacle/the-bug-bounty-playbook-ssrf-18e39248fedb?source=rss------bug_bounty-5) 
 
- - 💯July 25, 2026 - [How I Found 8 Vulnerabilities on an HP Student Portal](https://medium.com/@nayakvikas103/how-i-found-8-vulnerabilities-on-an-hp-student-portal-c437a16b0f5d?source=rss------bug_bounty-5) 
+ - 💯July 26, 2026 - [JWT Security TryHackMe Room Walkthrough](https://medium.com/@asoubea/jwt-security-tryhackme-room-walkthrough-1ac1a4bfc252?source=rss------bug_bounty-5) 
 
- - 💯July 25, 2026 - [Finding 4 Logic Vulnerabilities in a Single E-Commerce Target](https://medium.com/@zyad_ibrahim333/finding-4-logic-vulnerabilities-in-a-single-e-commerce-target-c448ff4cea76?source=rss------bug_bounty-5) 
+ - 💯July 26, 2026 - [Frontend Security Is Not Enough: A Practical Demonstration of Broken Access Control in REST APIs](https://medium.com/@albertstive1010/frontend-security-is-not-enough-a-practical-demonstration-of-broken-access-control-in-rest-apis-02d4f6fe4cbd?source=rss------bug_bounty-5) 
 
- - 💯July 25, 2026 - [Why You Should ALWAYS Test WebSockets &lpar;And Why Most Hunters Never Do&rpar;](https://cyphernova1337.medium.com/why-you-should-always-test-websockets-and-why-most-hunters-never-do-84d3f3a901fd?source=rss------bug_bounty-5) 
+ - 💯July 26, 2026 - [# I Found 3 Common Security Misconfigurations in My Lab Before Finding Any Real Vulnerabilities](https://medium.com/@rushivenkatadri/i-found-3-common-security-misconfigurations-in-my-lab-before-finding-any-real-vulnerabilities-94d25f3c1d3a?source=rss------bug_bounty-5) 
 
- - 💯July 24, 2026 - [The wp2shell Exploit Chain: Understanding the Critical WordPress Core Pre-Auth RCE &lpar;CVE-2026–63030…](https://medium.com/@HaakimSec/the-wp2shell-exploit-chain-understanding-the-critical-wordpress-core-pre-auth-rce-41de56d4d19e?source=rss------bug_bounty-5) 
+ - 💯July 26, 2026 - [The $100,000 GitHub Bug That Started With a Git Push -](https://medium.com/@the.zarth.dev/the-100-000-github-bug-that-started-with-a-git-push-79206486ddb4?source=rss------bug_bounty-5) 
 
- - 💯July 24, 2026 - [The Hidden Control Room Beneath Windows: Enter the Registry, Where One Wrong Value Can Change…](https://meetcyber.net/the-hidden-control-room-beneath-windows-enter-the-registry-where-one-wrong-value-can-change-455e6681bf82?source=rss------bug_bounty-5) 
+ - 💯July 26, 2026 - [Snowflake SQL Injection via Compile-Time Constant Folding with SYSTEM$WAIT](https://infosecwriteups.com/snowflake-sql-injection-via-compile-time-constant-folding-with-system-wait-81374a58e089?source=rss------bug_bounty-5) 
 
- - 💯July 24, 2026 - [The Organization Had No Owner… Yet I Could Still Join It](https://medium.com/@0xMo7areb/the-organization-had-no-owner-yet-i-could-still-join-it-605016230d2d?source=rss------bug_bounty-5) 
+ - 💯July 26, 2026 - [Bug Bounty Journey — Day 0: The Commitment](https://medium.com/@someone356neenunaa/bug-bounty-journey-day-0-the-commitment-2c326b6b3742?source=rss------bug_bounty-5) 
 
- - 💯July 24, 2026 - [How I Found a Bug Worth $3,500 — In a Feature Nobody Was Watching.](https://medium.com/@Vishw04/how-i-found-a-bug-worth-3-500-in-a-feature-nobody-was-watching-6773df9fce72?source=rss------bug_bounty-5) 
+ - 💯July 26, 2026 - [Reflected XSS in E-Commerce Search — Bug Bounty Writeup](https://medium.com/@hassanbounty30/reflected-xss-in-e-commerce-search-bug-bounty-writeup-9757b4a5c7ec?source=rss------bug_bounty-5) 
 
- - 💯July 24, 2026 - [Invitation Link doesn’t expire after used .](https://medium.com/@daviddemean0/invitation-link-doesnt-expire-after-used-50fcac50c76a?source=rss------bug_bounty-5) 
+ - 💯July 25, 2026 - [One Header Away from 10+ GB of Customer Documents &lpar;PII&rpar; — $6K Bounty](https://infosecwriteups.com/one-header-away-from-10-gb-of-customer-documents-pii-6k-bounty-0c0ac8c335f2?source=rss------bug_bounty-5) 
 
- - 💯July 24, 2026 - [How I Found a Security Vulnerability in the CBSE Class 12 Result Portal and Reported It Responsibly](https://medium.com/@rastogi2198/how-i-found-a-security-vulnerability-in-the-cbse-class-12-result-portal-and-reported-it-responsibly-e76582563ff1?source=rss------bug_bounty-5) 
+ - 💯July 25, 2026 - [CRLF Injection — Advanced Bypass Techniques &lpar; P 2/3 &rpar;](https://medium.com/@cybersecplayground/crlf-injection-advanced-bypass-techniques-p-2-3-62b2ca091f7d?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
