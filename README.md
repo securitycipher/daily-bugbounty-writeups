@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 27, 2026 - [A New Beginning: Starting Fresh on Medium](https://medium.com/@commanak46/a-new-beginning-starting-fresh-on-medium-ad0660659046?source=rss------bug_bounty-5) 
+ - 💯July 28, 2026 - [Account Takeover via XSS + CSRF and Browser Autofill Password](https://medium.com/@mohamedmehina31/account-takeover-via-xss-csrf-and-browser-autofill-password-8f8a00fd9ae3?source=rss------bug_bounty-5) 
 
- - 💯July 27, 2026 - [Turning Disclosed Bug Bounty Reports into a Skill Claude Can Execute](https://medium.com/@badekanrohan/turning-disclosed-bug-bounty-reports-into-a-skill-claude-can-execute-6e802ba004c6?source=rss------bug_bounty-5) 
+ - 💯July 28, 2026 - [Ruby on Rails — ransack](https://medium.com/@belhajrhoumanassim3/ruby-on-rails-ransack-63655c2037b6?source=rss------bug_bounty-5) 
 
- - 💯July 27, 2026 - [Bypassing Password Resets: PortSwigger’s “Weak Isolation on Dual-Use Endpoint” Walkthrough](https://medium.com/@ayeshaaghafoor48/bypassing-password-resets-portswiggers-weak-isolation-on-dual-use-endpoint-walkthrough-af8f363f44ea?source=rss------bug_bounty-5) 
+ - 💯July 28, 2026 - [Bypassing Authentication via Flawed State Machines: PortSwigger Lab Walkthrough](https://medium.com/@ayeshaaghafoor48/bypassing-authentication-via-flawed-state-machines-portswigger-lab-walkthrough-f29c232a11a2?source=rss------bug_bounty-5) 
 
- - 💯July 27, 2026 - [15 Critical Bugs in Firebase Dynamic Links Can Make You $$$](https://anontriager.medium.com/15-critical-bugs-in-firebase-dynamic-links-can-make-you-66cf177127cb?source=rss------bug_bounty-5) 
+ - 💯July 28, 2026 - [Bypassing Business Logic: PortSwigger Lab Walkthrough](https://medium.com/@ayeshaaghafoor48/bypassing-business-logic-portswigger-lab-walkthrough-1025c549e035?source=rss------bug_bounty-5) 
 
- - 💯July 27, 2026 - [Exploiting Integer Overflow: PortSwigger’s Low-Level Logic Flaw Walkthrough](https://medium.com/@ayeshaaghafoor48/exploiting-integer-overflow-portswiggers-low-level-logic-flaw-walkthrough-1fc91d859f38?source=rss------bug_bounty-5) 
+ - 💯July 28, 2026 - [Discovering an Time-Based Blind SQL Injection in a Tamil Nadu Government Web Portal &lpar;TANGEDCO&rpar;](https://infosecwriteups.com/discovering-an-time-based-blind-sql-injection-in-a-tamil-nadu-government-web-portal-tangedco-bbd48e761940?source=rss------bug_bounty-5) 
 
- - 💯July 27, 2026 - [How I Found a Reflected XSS and Bypassed Wordfence WAF](https://medium.com/@elko0k/how-i-found-a-reflected-xss-and-bypassed-wordfence-waf-a7a120a0b952?source=rss------bug_bounty-5) 
+ - 💯July 28, 2026 - [How I found an IDOR in Google Classroom on Day 3 of my Hunting?](https://infosecwriteups.com/how-i-found-an-idor-in-google-classroom-on-day-3-of-my-hunting-abffd039406c?source=rss------bug_bounty-5) 
 
- - 💯July 26, 2026 - [The Breaches That Taught Me the OWASP Top 10](https://medium.com/@zuhamohammad0709/the-breaches-that-taught-me-the-owasp-top-10-439a9deb4cf2?source=rss------bug_bounty-5) 
+ - 💯July 28, 2026 - [Three Hooks That Turn Claude Code Into an Autonomous Recon Loop](https://medium.com/@badekanrohan/three-hooks-that-turn-claude-code-into-an-autonomous-recon-loop-b602f03cb9d0?source=rss------bug_bounty-5) 
 
- - 💯July 26, 2026 - [I Found 15 Critical Vulnerabilities in One Afternoon](https://infosecwriteups.com/i-found-15-critical-vulnerabilities-in-one-afternoon-c9f16e88f652?source=rss------bug_bounty-5) 
+ - 💯July 28, 2026 - [Container Security: Master the 12 Critical Risks in Kubernetes &amp; Docker](https://medium.com/@verylazytech/container-security-master-the-12-critical-risks-in-kubernetes-docker-5f76d96450fc?source=rss------bug_bounty-5) 
 
- - 💯July 26, 2026 - [Mastering Active Reconnaissance: The Art of Gathering Information Without Exploitation](https://medium.com/@Mohamed_Sameh/mastering-active-reconnaissance-the-art-of-gathering-information-without-exploitation-14f7aa58746b?source=rss------bug_bounty-5) 
+ - 💯July 28, 2026 - [Hashcat Blackbelt — Cracking Real Databases &amp; Building Attack Pipelines &lpar;Part 4&rpar;](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/hashcat-blackbelt-cracking-real-databases-building-attack-pipelines-part-4-6ba7f9ce0e36?source=rss------bug_bounty-5) 
 
- - 💯July 26, 2026 - [Two Simple but Amazing Pre-Account Takeover &lpar;ATO&rpar; Ideas](https://medium.com/@mo_0xnaser/two-simple-but-amazing-pre-account-takeover-ato-ideas-b4a98311a5e9?source=rss------bug_bounty-5) 
+ - 💯July 28, 2026 - [BlackTrace Explained | Python-Powered OSINT Tool for Security Researchers](https://medium.com/@pentesterclubpvtltd/blacktrace-explained-python-powered-osint-tool-for-security-researchers-e13389e33d69?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
