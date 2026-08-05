@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 4, 2026 - [Canonically Yours — Intigriti July 2026 Challenge &lpar;0726&rpar;](https://medium.com/@shaniidev/canonically-yours-intigriti-july-2026-challenge-0726-52efa6ccb98b?source=rss------bug_bounty-5) 
+ - 💯August 5, 2026 - [Bounty for an Out-of-Scope Vulnerability](https://medium.com/@hemand390hemanth/bounty-for-an-out-of-scope-vulnerability-96dd0a6ba536?source=rss------bug_bounty-5) 
 
- - 💯August 4, 2026 - [15 Ways Cybercriminals Abuse AI in Real Campaigns: Learn to Spot and Counter Modern Attacks](https://medium.com/@verylazytech/15-ways-cybercriminals-abuse-ai-in-real-campaigns-learn-to-spot-and-counter-modern-attacks-8905fc685a2b?source=rss------bug_bounty-5) 
+ - 💯August 5, 2026 - [Chaining a Session Leak and Broken Access Control in Revive Adserver 6.0.7 Program Hackerone](https://medium.com/@kenjisubagja/chaining-a-session-leak-and-broken-access-control-in-revive-adserver-6-0-7-program-hackerone-156e5cf97826?source=rss------bug_bounty-5) 
 
- - 💯August 4, 2026 - [Two package Keys, One Valid Signature, and One Protected Report](https://medium.com/@broostibo/intigriti-challenge-0726-write-up-two-package-keys-one-protected-report-65e42d596576?source=rss------bug_bounty-5) 
+ - 💯August 5, 2026 - [BloodHound Series — Part 5: Detection, Defense &amp; Blue Team Perspective &lpar;Final&rpar;](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/bloodhound-series-part-5-detection-defense-blue-team-perspective-final-ba96c5bd2982?source=rss------bug_bounty-5) 
 
- - 💯August 4, 2026 - [BloodHound Series — Part 4: Privilege Escalation &amp; Attack Execution](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/bloodhound-series-part-4-privilege-escalation-attack-execution-d79c0b6bdbe2?source=rss------bug_bounty-5) 
+ - 💯August 5, 2026 - [A Beginner’s Guide to Faster Web Reconnaissance](https://medium.com/@bughuntingtips/a-beginners-guide-to-faster-web-reconnaissance-77951045e9ac?source=rss------bug_bounty-5) 
 
- - 💯August 4, 2026 - [Meterpreter Cheat Sheet &lpar;Part 2&rpar;](https://medium.com/@Mohamed_Sameh/meterpreter-cheat-sheet-part-2-4d6d241482d6?source=rss------bug_bounty-5) 
+ - 💯August 4, 2026 - [100 High-Value Files &amp; Paths Every Bug Hunter Should Check During Recon](https://medium.com/@getroutenet196/100-high-value-files-paths-every-bug-hunter-should-check-during-recon-8b6900b20ff4?source=rss------bug_bounty-5) 
 
- - 💯August 4, 2026 - [Bug Bounty #1 — Que tester sur une application web avant même de créer un compte ?](https://medium.com/@omaymagnoug16/bug-bounty-1-que-tester-sur-une-application-web-avant-m%C3%AAme-de-cr%C3%A9er-un-compte-6b11631fb58b?source=rss------bug_bounty-5) 
+ - 💯August 4, 2026 - [How I Found a Critical Bug That Exposed Every User’s PII With a Free Account](https://medium.com/@Aacle/how-i-found-a-critical-bug-that-exposed-every-users-pii-with-a-free-account-47ee4294f440?source=rss------bug_bounty-5) 
 
- - 💯August 3, 2026 - [Broken Link Hijacking: How I “Became” a Government Agency on LinkedIn &lpar;Legally, Sort Of&rpar;](https://medium.com/@deathsure445/broken-link-hijacking-how-i-became-a-government-agency-on-linkedin-legally-sort-of-f94f8136220a?source=rss------bug_bounty-5) 
+ - 💯August 4, 2026 - [Learning CORS the Right Way: Understanding the Browser Before the Attack](https://medium.com/@anandhukannan/learning-cors-the-right-way-understanding-the-browser-before-the-attack-3d0089c65979?source=rss------bug_bounty-5) 
 
- - 💯August 3, 2026 - [Most Hunters Test the Same Surface as Everyone Else.](https://medium.com/@Aacle/most-hunters-test-the-same-surface-as-everyone-else-c6512bfc66de?source=rss------bug_bounty-5) 
+ - 💯August 4, 2026 - [The Debug Flag That Opened the Door: A Journey From Django Debug Mode to Critical RCE](https://medium.com/@forhad.dks/the-debug-flag-that-opened-the-door-a-journey-from-django-debug-mode-to-critical-rce-7f099512916c?source=rss------bug_bounty-5) 
 
- - 💯August 3, 2026 - [How I Found a Bug That Could Let Anyone Hijack Your Account — Without Touching Your Email](https://medium.com/@Rahul.Masal/how-i-found-a-bug-that-could-let-anyone-hijack-your-account-without-touching-your-email-2acc76e33bfa?source=rss------bug_bounty-5) 
+ - 💯August 4, 2026 - [How I Found a $250 BOLA in a Government Transport App’s Real-Time API](https://medium.com/@anshbohra10/how-i-found-a-250-bola-in-a-government-transport-apps-real-time-api-5c981d6ca480?source=rss------bug_bounty-5) 
 
- - 💯August 3, 2026 - [The AWS Metadata Attack &lpar;IMDS&rpar; Deep Dive](https://kd-200.medium.com/the-aws-metadata-attack-imds-deep-dive-4289c013fbf6?source=rss------bug_bounty-5) 
+ - 💯August 4, 2026 - [The Invitation Was Gone… But I Could Still Join](https://medium.com/@0xMo7areb/the-invitation-was-gone-but-i-could-still-join-fcb99e1d3958?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
