@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 5, 2026 - [Bounty for an Out-of-Scope Vulnerability](https://medium.com/@hemand390hemanth/bounty-for-an-out-of-scope-vulnerability-96dd0a6ba536?source=rss------bug_bounty-5) 
+ - 💯August 6, 2026 - [OAuth 2.0 Attack Surface: Redirect URIs, Token Leakage, and Account Takeover Risks](https://medium.com/@cybermindspace/oauth-2-0-attack-surface-redirect-uris-token-leakage-and-account-takeover-risks-7d0f0730168b?source=rss------bug_bounty-5) 
 
- - 💯August 5, 2026 - [Chaining a Session Leak and Broken Access Control in Revive Adserver 6.0.7 Program Hackerone](https://medium.com/@kenjisubagja/chaining-a-session-leak-and-broken-access-control-in-revive-adserver-6-0-7-program-hackerone-156e5cf97826?source=rss------bug_bounty-5) 
+ - 💯August 6, 2026 - [Automating Recon with Python: 12 Scripts That Save Hours of Manual Work](https://medium.com/@verylazytech/automating-recon-with-python-12-scripts-that-save-hours-of-manual-work-e3e38f6d759b?source=rss------bug_bounty-5) 
 
- - 💯August 5, 2026 - [BloodHound Series — Part 5: Detection, Defense &amp; Blue Team Perspective &lpar;Final&rpar;](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/bloodhound-series-part-5-detection-defense-blue-team-perspective-final-ba96c5bd2982?source=rss------bug_bounty-5) 
+ - 💯August 6, 2026 - [️ 7 VAPT Shortcuts That Saved Me Hours During Web Application Pentesting &lpar;And Nobody Taught Me in…](https://medium.com/@mvspavs/%EF%B8%8F-7-vapt-shortcuts-that-saved-me-hours-during-web-application-pentesting-and-nobody-taught-me-in-10c35303c38e?source=rss------bug_bounty-5) 
 
- - 💯August 5, 2026 - [A Beginner’s Guide to Faster Web Reconnaissance](https://medium.com/@bughuntingtips/a-beginners-guide-to-faster-web-reconnaissance-77951045e9ac?source=rss------bug_bounty-5) 
+ - 💯August 6, 2026 - [Apostrophe Has Abolished the Password](https://leonardo-cavalcantee.medium.com/apostrophe-has-abolished-the-password-5ebeaad0dff1?source=rss------bug_bounty-5) 
 
- - 💯August 4, 2026 - [100 High-Value Files &amp; Paths Every Bug Hunter Should Check During Recon](https://medium.com/@getroutenet196/100-high-value-files-paths-every-bug-hunter-should-check-during-recon-8b6900b20ff4?source=rss------bug_bounty-5) 
+ - 💯August 6, 2026 - [Ultimate API Security Guide: OWASP Top 10, Bypass Techniques &amp; Remediation](https://medium.com/@jpablo13/ultimate-api-security-guide-owasp-top-10-bypass-techniques-remediation-22c0005acd3a?source=rss------bug_bounty-5) 
 
- - 💯August 4, 2026 - [How I Found a Critical Bug That Exposed Every User’s PII With a Free Account](https://medium.com/@Aacle/how-i-found-a-critical-bug-that-exposed-every-users-pii-with-a-free-account-47ee4294f440?source=rss------bug_bounty-5) 
+ - 💯August 5, 2026 - [Zero-Trust OPSEC for a Fresh Kali Install: What You Must Do and What You Should](https://cyphernova1337.medium.com/zero-trust-opsec-for-a-fresh-kali-install-what-you-must-do-and-what-you-should-bdf57279123d?source=rss------bug_bounty-5) 
 
- - 💯August 4, 2026 - [Learning CORS the Right Way: Understanding the Browser Before the Attack](https://medium.com/@anandhukannan/learning-cors-the-right-way-understanding-the-browser-before-the-attack-3d0089c65979?source=rss------bug_bounty-5) 
+ - 💯August 5, 2026 - [Bypassing a “Safe” Input Field: Reflected XSS via Unescaped HTML Attribute Injection](https://medium.com/@rs67iran/bypassing-a-safe-input-field-reflected-xss-via-unescaped-html-attribute-injection-009e1f6e99d7?source=rss------bug_bounty-5) 
 
- - 💯August 4, 2026 - [The Debug Flag That Opened the Door: A Journey From Django Debug Mode to Critical RCE](https://medium.com/@forhad.dks/the-debug-flag-that-opened-the-door-a-journey-from-django-debug-mode-to-critical-rce-7f099512916c?source=rss------bug_bounty-5) 
+ - 💯August 5, 2026 - [How I Bypassed Authentication on a Fintech Platform Using a Broken Password Reset Flow &lpar;Bug Bounty…](https://medium.com/@t3nv1/how-i-bypassed-authentication-on-a-fintech-platform-using-a-broken-password-reset-flow-bug-bounty-0abc5f54f144?source=rss------bug_bounty-5) 
 
- - 💯August 4, 2026 - [How I Found a $250 BOLA in a Government Transport App’s Real-Time API](https://medium.com/@anshbohra10/how-i-found-a-250-bola-in-a-government-transport-apps-real-time-api-5c981d6ca480?source=rss------bug_bounty-5) 
+ - 💯August 5, 2026 - [Email OSINT in 2026: Half the Tools You’re Using Are Lying to You](https://meetcyber.net/email-osint-in-2026-half-the-tools-youre-using-are-lying-to-you-a80feb8888ae?source=rss------bug_bounty-5) 
 
- - 💯August 4, 2026 - [The Invitation Was Gone… But I Could Still Join](https://medium.com/@0xMo7areb/the-invitation-was-gone-but-i-could-still-join-fcb99e1d3958?source=rss------bug_bounty-5) 
+ - 💯August 5, 2026 - [The Premium Feature That Was Only One API Request Away](https://medium.com/@loayahmed686/the-premium-feature-that-was-only-one-api-request-away-b5e54efe404a?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
