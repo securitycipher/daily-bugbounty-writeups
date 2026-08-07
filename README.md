@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 6, 2026 - [OAuth 2.0 Attack Surface: Redirect URIs, Token Leakage, and Account Takeover Risks](https://medium.com/@cybermindspace/oauth-2-0-attack-surface-redirect-uris-token-leakage-and-account-takeover-risks-7d0f0730168b?source=rss------bug_bounty-5) 
+ - 💯August 7, 2026 - [Manual SQL Injection: Extracting Data with GET Search SQLI lab in bWAPP](https://medium.com/@llombarotll/manual-sql-injection-extracting-data-with-get-search-sqli-lab-in-bwapp-ca02acd64db5?source=rss------bug_bounty-5) 
 
- - 💯August 6, 2026 - [Automating Recon with Python: 12 Scripts That Save Hours of Manual Work](https://medium.com/@verylazytech/automating-recon-with-python-12-scripts-that-save-hours-of-manual-work-e3e38f6d759b?source=rss------bug_bounty-5) 
+ - 💯August 7, 2026 - [Business Logic Vulnerability](https://medium.com/@mahfuzhrifaldi/business-logic-vulnerability-83f5eb00dede?source=rss------bug_bounty-5) 
 
- - 💯August 6, 2026 - [️ 7 VAPT Shortcuts That Saved Me Hours During Web Application Pentesting &lpar;And Nobody Taught Me in…](https://medium.com/@mvspavs/%EF%B8%8F-7-vapt-shortcuts-that-saved-me-hours-during-web-application-pentesting-and-nobody-taught-me-in-10c35303c38e?source=rss------bug_bounty-5) 
+ - 💯August 7, 2026 - [The Bug Bounty Category No Scanner Will Ever Find](https://infosecwriteups.com/the-bug-bounty-category-no-scanner-will-ever-find-30018972c479?source=rss------bug_bounty-5) 
 
- - 💯August 6, 2026 - [Apostrophe Has Abolished the Password](https://leonardo-cavalcantee.medium.com/apostrophe-has-abolished-the-password-5ebeaad0dff1?source=rss------bug_bounty-5) 
+ - 💯August 7, 2026 - [From File Upload to Remote Code Execution: How I Bypassed MIME Type Validation](https://rootvuln.medium.com/from-file-upload-to-remote-code-execution-how-i-bypassed-mime-type-validation-d571e7c27645?source=rss------bug_bounty-5) 
 
- - 💯August 6, 2026 - [Ultimate API Security Guide: OWASP Top 10, Bypass Techniques &amp; Remediation](https://medium.com/@jpablo13/ultimate-api-security-guide-owasp-top-10-bypass-techniques-remediation-22c0005acd3a?source=rss------bug_bounty-5) 
+ - 💯August 7, 2026 - [PortSwigger Web Security Academy: All NoSQL Injection Labs Solved &lpar;Full Walkthrough&rpar;](https://medium.com/@blueorionn/portswigger-web-security-academy-all-nosql-injection-labs-solved-full-walkthrough-c0c2bf201402?source=rss------bug_bounty-5) 
 
- - 💯August 5, 2026 - [Zero-Trust OPSEC for a Fresh Kali Install: What You Must Do and What You Should](https://cyphernova1337.medium.com/zero-trust-opsec-for-a-fresh-kali-install-what-you-must-do-and-what-you-should-bdf57279123d?source=rss------bug_bounty-5) 
+ - 💯August 7, 2026 - [LDAP Injection: Its As Simple As A TRUE/FALSE](https://clarkvoss.medium.com/ldap-injection-its-as-simple-as-a-true-false-31577d5ea9f9?source=rss------bug_bounty-5) 
 
- - 💯August 5, 2026 - [Bypassing a “Safe” Input Field: Reflected XSS via Unescaped HTML Attribute Injection](https://medium.com/@rs67iran/bypassing-a-safe-input-field-reflected-xss-via-unescaped-html-attribute-injection-009e1f6e99d7?source=rss------bug_bounty-5) 
+ - 💯August 6, 2026 - [How I Hijacked Lightspark’s JSR Package and Could Have Backdoored Every Developer Using Their…](https://medium.com/@tushar.from.cyber/how-i-hijacked-lightsparks-jsr-package-and-could-have-backdoored-every-developer-using-their-11b258688243?source=rss------bug_bounty-5) 
 
- - 💯August 5, 2026 - [How I Bypassed Authentication on a Fintech Platform Using a Broken Password Reset Flow &lpar;Bug Bounty…](https://medium.com/@t3nv1/how-i-bypassed-authentication-on-a-fintech-platform-using-a-broken-password-reset-flow-bug-bounty-0abc5f54f144?source=rss------bug_bounty-5) 
+ - 💯August 6, 2026 - [SQL Injection: Complete Guide](https://medium.com/@abdelhakim14/sql-injection-complete-guide-96702a95a506?source=rss------bug_bounty-5) 
 
- - 💯August 5, 2026 - [Email OSINT in 2026: Half the Tools You’re Using Are Lying to You](https://meetcyber.net/email-osint-in-2026-half-the-tools-youre-using-are-lying-to-you-a80feb8888ae?source=rss------bug_bounty-5) 
+ - 💯August 6, 2026 - [External Recon 101: Why You Need to Map Before You Attack](https://medium.com/@Aacle/external-recon-101-why-you-need-to-map-before-you-attack-c7d087563d93?source=rss------bug_bounty-5) 
 
- - 💯August 5, 2026 - [The Premium Feature That Was Only One API Request Away](https://medium.com/@loayahmed686/the-premium-feature-that-was-only-one-api-request-away-b5e54efe404a?source=rss------bug_bounty-5) 
+ - 💯August 6, 2026 - [How One Exposed API Cost a Shipping Company $10,000 in a Few Hours](https://medium.com/@tanvir.infosec/how-one-exposed-api-cost-a-shipping-company-10-000-in-a-few-hours-cfc021e7df21?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
