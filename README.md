@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 10, 2026 - [The Fastest Way I Found to Discover Hidden URLs During Bug Bounty Recon](https://meetcyber.net/the-fastest-way-i-found-to-discover-hidden-urls-during-bug-bounty-recon-fdb3847999a4?source=rss------bug_bounty-5) 
+ - 💯August 11, 2026 - [How I Find Hidden URLs Using waymore](https://meetcyber.net/how-i-find-hidden-urls-using-waymore-5dafd94ea46a?source=rss------bug_bounty-5) 
 
- - 💯August 10, 2026 - [Reading a Website Like a Pentester: What to Test in Every Functionality](https://medium.com/@shrutishinde1319/reading-a-website-like-a-pentester-what-to-test-in-every-functionality-6375f58ba8fe?source=rss------bug_bounty-5) 
+ - 💯August 11, 2026 - [Why AI Safety Reporting Needs Its Own Bug Bounty Model](https://genbounty.medium.com/why-ai-safety-reporting-needs-its-own-bug-bounty-model-8ff01967e069?source=rss------bug_bounty-5) 
 
- - 💯August 10, 2026 - [Com Olho and the Future of Bug Bounty in India: Why We Need to Stop Eating Our Own](https://medium.com/@RaunakGupta1922/com-olho-and-the-future-of-bug-bounty-in-india-why-we-need-to-stop-eating-our-own-2db1e50ef930?source=rss------bug_bounty-5) 
+ - 💯August 11, 2026 - [How I Found a Critical Vulnerability That Put $64 Million at Risk in a Layer 2 Blockchain](https://medium.com/@divakarvasani3938/how-i-found-a-critical-vulnerability-that-put-64-million-at-risk-in-a-layer-2-blockchain-b2677b7c5a5b?source=rss------bug_bounty-5) 
 
- - 💯August 10, 2026 - [Networking Part-2](https://medium.com/@hrikved03/networking-part-2-d0f7560a031b?source=rss------bug_bounty-5) 
+ - 💯August 10, 2026 - [Stop Drowning in Recon Output. Start Hunting the Signal.](https://osintteam.blog/stop-drowning-in-recon-output-start-hunting-the-signal-21e5542888dc?source=rss------bug_bounty-5) 
 
- - 💯August 9, 2026 - [IDOR via Comma-Injection: How Concatenating Two IDs Leaked Cross-Tenant PII](https://medium.com/@s0ufm3l/idor-via-comma-injection-how-concatenating-two-ids-leaked-cross-tenant-pii-d5f003e594f9?source=rss------bug_bounty-5) 
+ - 💯August 10, 2026 - [Your “Required” Fields Are Only Required Until Someone Opens Burp](https://osintteam.blog/your-required-fields-are-only-required-until-someone-opens-burp-c74d4e699f4b?source=rss------bug_bounty-5) 
 
- - 💯August 9, 2026 - [One DNS Query Maps a Company’s Entire SaaS Stack](https://meetcyber.net/one-dns-query-maps-a-companys-entire-saas-stack-4367b44e7a2a?source=rss------bug_bounty-5) 
+ - 💯August 10, 2026 - [How I Cut My Recon Time by 70% and Started Finding More Bugs](https://medium.com/@Aacle/how-i-cut-my-recon-time-by-70-and-started-finding-more-bugs-0b7aafeca46e?source=rss------bug_bounty-5) 
 
- - 💯August 9, 2026 - [RepoJacking: How 5 Unclaimed GitHub Usernames Enabled RCE on Self-Hosted Servers](https://medium.com/@tushar.from.cyber/repojacking-how-5-unclaimed-github-usernames-enabled-rce-on-self-hosted-servers-39be3078bc5a?source=rss------bug_bounty-5) 
+ - 💯August 10, 2026 - [DEF CON 34: Where AppSec, AI, and Bug Bounty Are Colliding](https://medium.com/@gilberto.deleon18/def-con-34-where-appsec-ai-and-bug-bounty-are-colliding-5f930c15fc72?source=rss------bug_bounty-5) 
 
- - 💯August 9, 2026 - [The Protocol Every Hacker Should Learn Before Touching Burp Suite](https://medium.com/@zer0trace/the-protocol-every-hacker-should-learn-before-touching-burp-suite-e02eecd66785?source=rss------bug_bounty-5) 
+ - 💯August 10, 2026 - [The Ghost Email: How I Took Over Any Account With a Missing Check](https://sudohunt.medium.com/the-ghost-email-how-i-took-over-any-account-with-a-missing-check-81f06091e3cb?source=rss------bug_bounty-5) 
 
- - 💯August 9, 2026 - [Why Your Best XSS Is on a Param You Can’t See](https://kd-200.medium.com/why-your-best-xss-is-on-a-param-you-cant-see-2a6e31034f5c?source=rss------bug_bounty-5) 
+ - 💯August 10, 2026 - [AI Is Making Security Negligence Harder to Hide](https://systemweakness.com/ai-is-making-security-negligence-harder-to-hide-d3e9a0072581?source=rss------bug_bounty-5) 
 
- - 💯August 9, 2026 - [Indirect Prompt Injection: What LLM Bounty Triagers Actually Reward](https://medium.com/infosec-writes-up/indirect-prompt-injection-what-llm-bounty-triagers-actually-reward-50bb08fc7dd3?source=rss------bug_bounty-5) 
+ - 💯August 10, 2026 - [GitLab account takeover, no clicks required — $35,000 bounty](https://pawanjswal.medium.com/gitlab-account-takeover-no-clicks-required-35-000-bounty-5eed7fcc467d?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
