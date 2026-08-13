@@ -2,24 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 12, 2026 - [When EDR Fails: 12 Essential Tools That Exposed a Vendor Breach &lpar;Step-by-Step Guide&rpar;](https://medium.com/@verylazytech/when-edr-fails-12-essential-tools-that-exposed-a-vendor-breach-step-by-step-guide-e6f3a0bc8b21?source=rss------bug_bounty-5) 
+ - 💯August 13, 2026 - [How Unauthenticated Queries Exposed User PII and Privileged Accounts](https://medium.com/@mr-sudheer/how-unauthenticated-queries-exposed-user-pii-and-privileged-accounts-cb89efff14d8?source=rss------bug_bounty-5) 
 
- - 💯August 12, 2026 - [Stop Building Chatbots: Why Burp AT is the Future of Cybersecurity AI](https://dhanushnehru.medium.com/stop-building-chatbots-why-burp-at-is-the-future-of-cybersecurity-ai-5a21e3bc0bfc?source=rss------bug_bounty-5) 
+ - 💯August 13, 2026 - [Unique Username Validation Bypass to a Stored Open Redirect: How I Escalated a Bug Bounty Finding](https://medium.com/@ankitrathva/unique-username-validation-bypass-to-a-stored-open-redirect-how-i-escalated-a-bug-bounty-finding-eb059db498c2?source=rss------bug_bounty-5) 
 
- - 💯August 12, 2026 - [GraphQL API Vulnerabilities in Web App Penetration Testing](https://cyberw1ng.medium.com/graphql-api-vulnerabilities-in-web-app-penetration-testing-e443a6dbc7d0?source=rss------bug_bounty-5) 
+ - 💯August 13, 2026 - [EDR Bypass Without Malware: 15 LOLBAS Techniques Security Pros Need to Master](https://medium.com/@verylazytech/edr-bypass-without-malware-15-lolbas-techniques-security-pros-need-to-master-1d6d8abe2b38?source=rss------bug_bounty-5) 
 
- - 💯August 12, 2026 - [3 IDOR Bugs That Paid $113,000 Combined — Here’s the 5-Minute Pattern Behind All of Them](https://medium.com/codetodeploy/3-idor-bugs-that-paid-113-000-combined-heres-the-5-minute-pattern-behind-all-of-them-7255a84dde46?source=rss------bug_bounty-5) 
+ - 💯August 13, 2026 - [The Bug Worth Lakhs Was Not in the Code. Here It Was and How to Report It Properly.](https://medium.com/@parag.jadhav21891/the-bug-worth-lakhs-was-not-in-the-code-here-it-was-and-how-to-report-it-properly-22312bca3c5d?source=rss------bug_bounty-5) 
 
- - 💯August 12, 2026 - [Red Teaming and Vulnerability Research: Two Sides of the Same Coin](https://medium.com/@paritoshblogs/red-teaming-and-vulnerability-research-two-sides-of-the-same-coin-69484d0f757d?source=rss------bug_bounty-5) 
+ - 💯August 13, 2026 - [How a Tampered role_id Gave Me Permanent, Invisible Control Over Other Users’ Organizations](https://hamzaelgarhy.medium.com/how-a-tampered-role-id-gave-me-permanent-invisible-control-over-other-users-organizations-c968e0e633ec?source=rss------bug_bounty-5) 
 
- - 💯August 12, 2026 - [When Finding Bugs Got Cheap and Proving Them Stayed Expensive](https://medium.com/@simardeep.oberoi/when-finding-bugs-got-cheap-and-proving-them-stayed-expensive-d9a9fde4efdc?source=rss------bug_bounty-5) 
+ - 💯August 13, 2026 - [AI Systems Can Be Attacked Too. Here Is How It Happens and What Professionals Are Doing About It.](https://medium.com/@parag.jadhav21891/ai-systems-can-be-attacked-too-here-is-how-it-happens-and-what-professionals-are-doing-about-it-4ff344faedbd?source=rss------bug_bounty-5) 
 
- - 💯August 12, 2026 - [How a 30-Year-Old Path Traversal Earned $150K From Apple’s AI Cloud](https://infosecwriteups.com/how-a-30-year-old-path-traversal-earned-150k-from-apples-ai-cloud-f7d6b8df1f25?source=rss------bug_bounty-5) 
+ - 💯August 13, 2026 - [How I found my Second bug in my bug bounty hunting journey](https://medium.com/@ImAltyb26/i-found-my-first-bug-in-my-bug-bounty-hunter-journey-654ad1198fbf?source=rss------bug_bounty-5) 
 
- - 💯August 11, 2026 - [Infinite Money Glitch? How Our Team Generated Infinite Money on a Fortune 100 Financial Site](https://brokenaccesspentests.medium.com/infinite-money-glitch-how-our-team-generated-infinite-money-on-a-fortune-100-financial-site-4379526985c9?source=rss------bug_bounty-5) 
+ - 💯August 13, 2026 - [How to Restore Windows 11 WinRE When the Recovery Partition Exists but Winre.wim Is Missing](https://medium.com/@hrofficial62/how-to-restore-windows-11-winre-when-the-recovery-partition-exists-but-winre-wim-is-missing-a160f760d7ef?source=rss------bug_bounty-5) 
 
- - 💯August 11, 2026 - [I Made Claude Believe I Was an Anthropic-Verified 
-Researcher.](https://medium.com/@areziarya/i-made-claude-believe-i-was-an-anthropic-verified-researcher-e38e4fa4716f?source=rss------bug_bounty-5) 
+ - 💯August 12, 2026 - [DOM Invader on a Real Bug Bounty Target](https://medium.com/@marduk.i.am/dom-invader-on-a-real-bug-bounty-target-99b12a45ade7?source=rss------bug_bounty-5) 
 
- - 💯August 11, 2026 - [How a $100 Profile Picture Glitch Turned Into a $9,000 Zero-Day Reward](https://medium.com/@t3nv1/how-a-100-profile-picture-glitch-turned-into-a-9-000-zero-day-reward-e82bb8c084e8?source=rss------bug_bounty-5) 
+ - 💯August 12, 2026 - [Ash Reaches the Pokémon League: QuantumVeil Finally Becomes Real](https://medium.com/@saurabh.hack.pandey/ash-reaches-the-pok%C3%A9mon-league-quantumveil-finally-becomes-real-2a26c41f76dd?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
