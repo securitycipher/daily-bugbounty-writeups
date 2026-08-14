@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 13, 2026 - [How Unauthenticated Queries Exposed User PII and Privileged Accounts](https://medium.com/@mr-sudheer/how-unauthenticated-queries-exposed-user-pii-and-privileged-accounts-cb89efff14d8?source=rss------bug_bounty-5) 
+ - 💯August 14, 2026 - [Browser Exploitation: 12 Techniques From Recent CTFs You Can Actually Use](https://medium.com/@verylazytech/browser-exploitation-12-techniques-from-recent-ctfs-you-can-actually-use-1779ff4c94dd?source=rss------bug_bounty-5) 
 
- - 💯August 13, 2026 - [Unique Username Validation Bypass to a Stored Open Redirect: How I Escalated a Bug Bounty Finding](https://medium.com/@ankitrathva/unique-username-validation-bypass-to-a-stored-open-redirect-how-i-escalated-a-bug-bounty-finding-eb059db498c2?source=rss------bug_bounty-5) 
+ - 💯August 14, 2026 - [How a Single HTTP Redirect Bypassed SSRF Filters on 4 Programs Over 8 Years](https://medium.com/@rajnamdev/how-a-single-http-redirect-bypassed-ssrf-filters-on-4-programs-over-8-years-4f67437ba6c7?source=rss------bug_bounty-5) 
 
- - 💯August 13, 2026 - [EDR Bypass Without Malware: 15 LOLBAS Techniques Security Pros Need to Master](https://medium.com/@verylazytech/edr-bypass-without-malware-15-lolbas-techniques-security-pros-need-to-master-1d6d8abe2b38?source=rss------bug_bounty-5) 
+ - 💯August 14, 2026 - [Stop Memorizing HTTP Methods:](https://medium.com/@aminebsb92/stop-memorizing-http-methods-e8b5965cc4b9?source=rss------bug_bounty-5) 
 
- - 💯August 13, 2026 - [The Bug Worth Lakhs Was Not in the Code. Here It Was and How to Report It Properly.](https://medium.com/@parag.jadhav21891/the-bug-worth-lakhs-was-not-in-the-code-here-it-was-and-how-to-report-it-properly-22312bca3c5d?source=rss------bug_bounty-5) 
+ - 💯August 13, 2026 - [Casino | HackSmarter | OSCP Preparation](https://medium.com/@SilentExploit/casino-hacksmarter-oscp-preparation-141911b3a731?source=rss------bug_bounty-5) 
 
- - 💯August 13, 2026 - [How a Tampered role_id Gave Me Permanent, Invisible Control Over Other Users’ Organizations](https://hamzaelgarhy.medium.com/how-a-tampered-role-id-gave-me-permanent-invisible-control-over-other-users-organizations-c968e0e633ec?source=rss------bug_bounty-5) 
+ - 💯August 13, 2026 - [Common Web Application Technologies](https://medium.com/@ph620095/common-web-application-technologies-9494026ae3a7?source=rss------bug_bounty-5) 
 
- - 💯August 13, 2026 - [AI Systems Can Be Attacked Too. Here Is How It Happens and What Professionals Are Doing About It.](https://medium.com/@parag.jadhav21891/ai-systems-can-be-attacked-too-here-is-how-it-happens-and-what-professionals-are-doing-about-it-4ff344faedbd?source=rss------bug_bounty-5) 
+ - 💯August 13, 2026 - [Ash Finds an Empty Route, Hunts for Bugs, and Realizes the Hardest Battle Is Finding the Right One](https://medium.com/@saurabh.hack.pandey/ash-finds-an-empty-route-hunts-for-bugs-and-realizes-the-hardest-battle-is-finding-the-right-one-41f37ba80bbd?source=rss------bug_bounty-5) 
 
- - 💯August 13, 2026 - [How I found my Second bug in my bug bounty hunting journey](https://medium.com/@ImAltyb26/i-found-my-first-bug-in-my-bug-bounty-hunter-journey-654ad1198fbf?source=rss------bug_bounty-5) 
+ - 💯August 13, 2026 - [Hacker Holidays Day 8: Towel on the Sunbed](https://medium.com/@devyani89itware/hacker-holidays-day-8-towel-on-the-sunbed-413ab1f69991?source=rss------bug_bounty-5) 
 
- - 💯August 13, 2026 - [How to Restore Windows 11 WinRE When the Recovery Partition Exists but Winre.wim Is Missing](https://medium.com/@hrofficial62/how-to-restore-windows-11-winre-when-the-recovery-partition-exists-but-winre-wim-is-missing-a160f760d7ef?source=rss------bug_bounty-5) 
+ - 💯August 13, 2026 - [Modern web applications depend heavily on JavaScript.](https://medium.com/@Rakeshjoshi7/modern-web-applications-depend-heavily-on-javascript-320cfdd2570a?source=rss------bug_bounty-5) 
 
- - 💯August 12, 2026 - [DOM Invader on a Real Bug Bounty Target](https://medium.com/@marduk.i.am/dom-invader-on-a-real-bug-bounty-target-99b12a45ade7?source=rss------bug_bounty-5) 
+ - 💯August 13, 2026 - [How I Systematically Find XSS Bugs in Bug Bounty Programs &lpar;Step-by-Step Method&rpar;](https://medium.com/@b0dj0x/how-i-systematically-find-xss-bugs-in-bug-bounty-programs-step-by-step-method-9bcb5a829f7d?source=rss------bug_bounty-5) 
 
- - 💯August 12, 2026 - [Ash Reaches the Pokémon League: QuantumVeil Finally Becomes Real](https://medium.com/@saurabh.hack.pandey/ash-reaches-the-pok%C3%A9mon-league-quantumveil-finally-becomes-real-2a26c41f76dd?source=rss------bug_bounty-5) 
+ - 💯August 13, 2026 - [Command Injection in an E-Commerce Website | Penetration Testing CTF](https://medium.com/@pentesterclubpvtltd/command-injection-in-an-e-commerce-website-penetration-testing-ctf-487e868dbac4?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
