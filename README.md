@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 14, 2026 - [Browser Exploitation: 12 Techniques From Recent CTFs You Can Actually Use](https://medium.com/@verylazytech/browser-exploitation-12-techniques-from-recent-ctfs-you-can-actually-use-1779ff4c94dd?source=rss------bug_bounty-5) 
+ - 💯August 15, 2026 - [Finding SSRF In Modern Web Apps](https://medium.com/@gdefault830/finding-ssrf-in-modern-web-apps-40fd364b4ff9?source=rss------bug_bounty-5) 
 
- - 💯August 14, 2026 - [How a Single HTTP Redirect Bypassed SSRF Filters on 4 Programs Over 8 Years](https://medium.com/@rajnamdev/how-a-single-http-redirect-bypassed-ssrf-filters-on-4-programs-over-8-years-4f67437ba6c7?source=rss------bug_bounty-5) 
+ - 💯August 15, 2026 - [Exploiting CSRF in GraphQL APIs: Achieving Unauthorized CRUD Operations &lpar; $$ Bounty &rpar;](https://medium.com/@divyanksitapara088/exploiting-csrf-in-graphql-apis-achieving-unauthorized-crud-operations-bounty-038522c39a40?source=rss------bug_bounty-5) 
 
- - 💯August 14, 2026 - [Stop Memorizing HTTP Methods:](https://medium.com/@aminebsb92/stop-memorizing-http-methods-e8b5965cc4b9?source=rss------bug_bounty-5) 
+ - 💯August 15, 2026 - [Smali By bithowl: Chapter 6 Smali Naming System](https://medium.com/@bithowl/smali-by-bithowl-chapter-6-smali-naming-system-93cc0c8bb14a?source=rss------bug_bounty-5) 
 
- - 💯August 13, 2026 - [Casino | HackSmarter | OSCP Preparation](https://medium.com/@SilentExploit/casino-hacksmarter-oscp-preparation-141911b3a731?source=rss------bug_bounty-5) 
+ - 💯August 15, 2026 - [When the Marketing Page Became the Threat Model: Forging “Verified Reviews” on PriceRunner](https://medium.com/@arshiahunterrr1/when-the-marketing-page-became-the-threat-model-forging-verified-reviews-on-pricerunner-766ba28c173f?source=rss------bug_bounty-5) 
 
- - 💯August 13, 2026 - [Common Web Application Technologies](https://medium.com/@ph620095/common-web-application-technologies-9494026ae3a7?source=rss------bug_bounty-5) 
+ - 💯August 15, 2026 - [One Invitation, Three Vulnerabilities: Breaking RBAC Across Two Applications](https://medium.com/@omaralgbry1/one-invitation-three-vulnerabilities-breaking-rbac-across-two-applications-f66508af3e83?source=rss------bug_bounty-5) 
 
- - 💯August 13, 2026 - [Ash Finds an Empty Route, Hunts for Bugs, and Realizes the Hardest Battle Is Finding the Right One](https://medium.com/@saurabh.hack.pandey/ash-finds-an-empty-route-hunts-for-bugs-and-realizes-the-hardest-battle-is-finding-the-right-one-41f37ba80bbd?source=rss------bug_bounty-5) 
+ - 💯August 15, 2026 - [How I Found an SSRF Vulnerability in Istio and Got Credited in the Official Release Notes](https://medium.com/@0xanubiis/how-i-found-an-ssrf-vulnerability-in-istio-and-got-credited-in-the-official-release-notes-e4d6f21c9707?source=rss------bug_bounty-5) 
 
- - 💯August 13, 2026 - [Hacker Holidays Day 8: Towel on the Sunbed](https://medium.com/@devyani89itware/hacker-holidays-day-8-towel-on-the-sunbed-413ab1f69991?source=rss------bug_bounty-5) 
+ - 💯August 15, 2026 - [How a Simple API Misconfiguration Leaked PII of 100,000+ Users](https://medium.com/@sagar_kirola-G35638/how-a-simple-api-misconfiguration-leaked-pii-of-100-000-users-326a1a29bf44?source=rss------bug_bounty-5) 
 
- - 💯August 13, 2026 - [Modern web applications depend heavily on JavaScript.](https://medium.com/@Rakeshjoshi7/modern-web-applications-depend-heavily-on-javascript-320cfdd2570a?source=rss------bug_bounty-5) 
+ - 💯August 14, 2026 - [I Changed ₹500 to ₹1 — How I Found a Payment Logic Bug in a QR Code](https://cybertamarin.medium.com/i-changed-500-to-1-how-i-found-a-payment-logic-bug-in-a-qr-code-0aa040222577?source=rss------bug_bounty-5) 
 
- - 💯August 13, 2026 - [How I Systematically Find XSS Bugs in Bug Bounty Programs &lpar;Step-by-Step Method&rpar;](https://medium.com/@b0dj0x/how-i-systematically-find-xss-bugs-in-bug-bounty-programs-step-by-step-method-9bcb5a829f7d?source=rss------bug_bounty-5) 
+ - 💯August 14, 2026 - [How Expired Domains Become Weapons for Scams and Malware](https://medium.com/@Rakeshjoshi7/how-expired-domains-become-weapons-for-scams-and-malware-7cabbcca6aab?source=rss------bug_bounty-5) 
 
- - 💯August 13, 2026 - [Command Injection in an E-Commerce Website | Penetration Testing CTF](https://medium.com/@pentesterclubpvtltd/command-injection-in-an-e-commerce-website-penetration-testing-ctf-487e868dbac4?source=rss------bug_bounty-5) 
+ - 💯August 14, 2026 - [️⚡ Ash Keeps Searching the Tall Grass, While Python Prepares for the Next Gym Battle](https://medium.com/@saurabh.hack.pandey/%EF%B8%8F-ash-keeps-searching-the-tall-grass-while-python-prepares-for-the-next-gym-battle-fbdfa7af4afe?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
