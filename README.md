@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 15, 2026 - [Finding SSRF In Modern Web Apps](https://medium.com/@gdefault830/finding-ssrf-in-modern-web-apps-40fd364b4ff9?source=rss------bug_bounty-5) 
+ - 💯August 16, 2026 - [DVWA Vulnerability: SQL Injection &lpar;Blind&rpar;](https://medium.com/@Kamal_S/dvwa-vulnerability-sql-injection-blind-c2b4ae5706f5?source=rss------bug_bounty-5) 
 
- - 💯August 15, 2026 - [Exploiting CSRF in GraphQL APIs: Achieving Unauthorized CRUD Operations &lpar; $$ Bounty &rpar;](https://medium.com/@divyanksitapara088/exploiting-csrf-in-graphql-apis-achieving-unauthorized-crud-operations-bounty-038522c39a40?source=rss------bug_bounty-5) 
+ - 💯August 16, 2026 - [Bypassing MFA: 10 Real Techniques Used in 2026 &lpar;with Step-by-Step Examples&rpar;](https://medium.com/@verylazytech/bypassing-mfa-10-real-techniques-used-in-2026-with-step-by-step-examples-1debd7f9a173?source=rss------bug_bounty-5) 
 
- - 💯August 15, 2026 - [Smali By bithowl: Chapter 6 Smali Naming System](https://medium.com/@bithowl/smali-by-bithowl-chapter-6-smali-naming-system-93cc0c8bb14a?source=rss------bug_bounty-5) 
+ - 💯August 16, 2026 - [picoCTF Web Exploitation — SSTI1](https://medium.com/@sumansutradhar5744/picoctf-web-exploitation-ssti1-b74afe4f0830?source=rss------bug_bounty-5) 
 
- - 💯August 15, 2026 - [When the Marketing Page Became the Threat Model: Forging “Verified Reviews” on PriceRunner](https://medium.com/@arshiahunterrr1/when-the-marketing-page-became-the-threat-model-forging-verified-reviews-on-pricerunner-766ba28c173f?source=rss------bug_bounty-5) 
+ - 💯August 15, 2026 - [Passive Income from Recon: Real Methods Hackers Use](https://osintteam.blog/passive-income-from-recon-real-methods-hackers-use-5c14cef6674f?source=rss------bug_bounty-5) 
 
- - 💯August 15, 2026 - [One Invitation, Three Vulnerabilities: Breaking RBAC Across Two Applications](https://medium.com/@omaralgbry1/one-invitation-three-vulnerabilities-breaking-rbac-across-two-applications-f66508af3e83?source=rss------bug_bounty-5) 
+ - 💯August 15, 2026 - [Active Directory Explained: The Backbone of Enterprise Access Control &lpar;And Why Attackers Love It&rpar;](https://medium.com/@b0dj0x/active-directory-explained-the-backbone-of-enterprise-access-control-and-why-attackers-love-it-4585e80deb1e?source=rss------bug_bounty-5) 
 
- - 💯August 15, 2026 - [How I Found an SSRF Vulnerability in Istio and Got Credited in the Official Release Notes](https://medium.com/@0xanubiis/how-i-found-an-ssrf-vulnerability-in-istio-and-got-credited-in-the-official-release-notes-e4d6f21c9707?source=rss------bug_bounty-5) 
+ - 💯August 15, 2026 - [I Read the Top 20 IDOR Reports on HackerOne.](https://medium.com/@Aacle/i-read-the-top-20-idor-reports-on-hackerone-8e6545c3a0e4?source=rss------bug_bounty-5) 
 
- - 💯August 15, 2026 - [How a Simple API Misconfiguration Leaked PII of 100,000+ Users](https://medium.com/@sagar_kirola-G35638/how-a-simple-api-misconfiguration-leaked-pii-of-100-000-users-326a1a29bf44?source=rss------bug_bounty-5) 
+ - 💯August 15, 2026 - [I Legally Hacked My Own WiFi in Under an Hour — Here’s Exactly How &lpar;2026 Guide&rpar;](https://medium.com/@b0dj0x/i-legally-hacked-my-own-wifi-in-under-an-hour-heres-exactly-how-2026-guide-2539617e9b24?source=rss------bug_bounty-5) 
 
- - 💯August 14, 2026 - [I Changed ₹500 to ₹1 — How I Found a Payment Logic Bug in a QR Code](https://cybertamarin.medium.com/i-changed-500-to-1-how-i-found-a-payment-logic-bug-in-a-qr-code-0aa040222577?source=rss------bug_bounty-5) 
+ - 💯August 15, 2026 - [Hidden URL Parameters: Finding What Web Applications Don’t Show You](https://medium.com/@alifmortaza6/hidden-url-parameters-finding-what-web-applications-dont-show-you-d6651331c630?source=rss------bug_bounty-5) 
 
- - 💯August 14, 2026 - [How Expired Domains Become Weapons for Scams and Malware](https://medium.com/@Rakeshjoshi7/how-expired-domains-become-weapons-for-scams-and-malware-7cabbcca6aab?source=rss------bug_bounty-5) 
-
- - 💯August 14, 2026 - [️⚡ Ash Keeps Searching the Tall Grass, While Python Prepares for the Next Gym Battle](https://medium.com/@saurabh.hack.pandey/%EF%B8%8F-ash-keeps-searching-the-tall-grass-while-python-prepares-for-the-next-gym-battle-fbdfa7af4afe?source=rss------bug_bounty-5) 
+ - 💯August 15, 2026 - [Injection — The #5 Vulnerability on the Web](https://medium.com/@vedanthore/injection-the-5-vulnerability-on-the-web-0ca170afac24?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
