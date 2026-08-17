@@ -2,21 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 16, 2026 - [DVWA Vulnerability: SQL Injection &lpar;Blind&rpar;](https://medium.com/@Kamal_S/dvwa-vulnerability-sql-injection-blind-c2b4ae5706f5?source=rss------bug_bounty-5) 
+ - 💯August 17, 2026 - [Detecting Lateral Movement: 15 Real-World Techniques Every Cybersecurity Pro Should Master](https://medium.com/@verylazytech/detecting-lateral-movement-15-real-world-techniques-every-cybersecurity-pro-should-master-e87d9d6b25bd?source=rss------bug_bounty-5) 
 
- - 💯August 16, 2026 - [Bypassing MFA: 10 Real Techniques Used in 2026 &lpar;with Step-by-Step Examples&rpar;](https://medium.com/@verylazytech/bypassing-mfa-10-real-techniques-used-in-2026-with-step-by-step-examples-1debd7f9a173?source=rss------bug_bounty-5) 
+ - 💯August 17, 2026 - [A $1,337 bug let anyone forge a session - if they already knew a UUID and a login was live](https://pawanjswal.medium.com/a-1-337-bug-let-anyone-forge-a-session-if-they-already-knew-a-uuid-and-a-login-was-live-b25943b20ffc?source=rss------bug_bounty-5) 
 
- - 💯August 16, 2026 - [picoCTF Web Exploitation — SSTI1](https://medium.com/@sumansutradhar5744/picoctf-web-exploitation-ssti1-b74afe4f0830?source=rss------bug_bounty-5) 
+ - 💯August 17, 2026 - [How an Integer Overflow Let Me Buy Anything for $0](https://rohitdalal.medium.com/how-an-integer-overflow-let-me-buy-anything-for-0-b1d2ed8bffdd?source=rss------bug_bounty-5) 
 
- - 💯August 15, 2026 - [Passive Income from Recon: Real Methods Hackers Use](https://osintteam.blog/passive-income-from-recon-real-methods-hackers-use-5c14cef6674f?source=rss------bug_bounty-5) 
+ - 💯August 17, 2026 - [I Built 3 Python Security Tools in a Month. Here’s What I Actually Learned.](https://medium.com/@chandeshgunawardena/i-built-3-python-security-tools-in-a-month-heres-what-i-actually-learned-175eec925b1a?source=rss------bug_bounty-5) 
 
- - 💯August 15, 2026 - [Active Directory Explained: The Backbone of Enterprise Access Control &lpar;And Why Attackers Love It&rpar;](https://medium.com/@b0dj0x/active-directory-explained-the-backbone-of-enterprise-access-control-and-why-attackers-love-it-4585e80deb1e?source=rss------bug_bounty-5) 
+ - 💯August 17, 2026 - [The $20,000 Session Cookie](https://medium.com/@rajnamdev/the-20-000-session-cookie-250f2d54a606?source=rss------bug_bounty-5) 
 
- - 💯August 15, 2026 - [I Read the Top 20 IDOR Reports on HackerOne.](https://medium.com/@Aacle/i-read-the-top-20-idor-reports-on-hackerone-8e6545c3a0e4?source=rss------bug_bounty-5) 
+ - 💯August 17, 2026 - [Password Reset Vulnerability — Full Bug Bounty Walkthrough](https://medium.com/@ksreemosmar/password-reset-vulnerability-full-bug-bounty-walkthrough-d0d7c413ea63?source=rss------bug_bounty-5) 
 
- - 💯August 15, 2026 - [I Legally Hacked My Own WiFi in Under an Hour — Here’s Exactly How &lpar;2026 Guide&rpar;](https://medium.com/@b0dj0x/i-legally-hacked-my-own-wifi-in-under-an-hour-heres-exactly-how-2026-guide-2539617e9b24?source=rss------bug_bounty-5) 
+ - 💯August 17, 2026 - [Hack The Box: Web Requests Module Walkthrough](https://medium.com/@ksreemosmar/hack-the-box-web-requests-module-walkthrough-e42877cb8c29?source=rss------bug_bounty-5) 
 
- - 💯August 15, 2026 - [Hidden URL Parameters: Finding What Web Applications Don’t Show You](https://medium.com/@alifmortaza6/hidden-url-parameters-finding-what-web-applications-dont-show-you-d6651331c630?source=rss------bug_bounty-5) 
+ - 💯August 16, 2026 - [Offensive AI: How Red Teams Use Automated LLM Bug Hunting and Exploit Generation](https://medium.com/ai-security-hub/offensive-ai-how-red-teams-use-automated-llm-bug-hunting-and-exploit-generation-213b1b49dc8f?source=rss------bug_bounty-5) 
 
- - 💯August 15, 2026 - [Injection — The #5 Vulnerability on the Web](https://medium.com/@vedanthore/injection-the-5-vulnerability-on-the-web-0ca170afac24?source=rss------bug_bounty-5) 
+ - 💯August 16, 2026 - [Restoring Permanently Deleted Projects via IDOR](https://medium.com/@abdulrahmanreda660/restoring-permanently-deleted-projects-via-idor-7c8d8c2e3e94?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
