@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 17, 2026 - [Detecting Lateral Movement: 15 Real-World Techniques Every Cybersecurity Pro Should Master](https://medium.com/@verylazytech/detecting-lateral-movement-15-real-world-techniques-every-cybersecurity-pro-should-master-e87d9d6b25bd?source=rss------bug_bounty-5) 
+ - 💯August 18, 2026 - [Web Application Logic Flaws: 12 Practical Examples Every Cybersecurity Pro Should Know](https://medium.com/@verylazytech/web-application-logic-flaws-12-practical-examples-every-cybersecurity-pro-should-know-401d1a31900e?source=rss------bug_bounty-5) 
 
- - 💯August 17, 2026 - [A $1,337 bug let anyone forge a session - if they already knew a UUID and a login was live](https://pawanjswal.medium.com/a-1-337-bug-let-anyone-forge-a-session-if-they-already-knew-a-uuid-and-a-login-was-live-b25943b20ffc?source=rss------bug_bounty-5) 
+ - 💯August 18, 2026 - [Chaining IDOR to Privilege Escalation: A $$ Microsoft Bug Bounty](https://medium.com/@dsmodi484/chaining-idor-to-privilege-escalation-a-microsoft-bug-bounty-936656cf47a2?source=rss------bug_bounty-5) 
 
- - 💯August 17, 2026 - [How an Integer Overflow Let Me Buy Anything for $0](https://rohitdalal.medium.com/how-an-integer-overflow-let-me-buy-anything-for-0-b1d2ed8bffdd?source=rss------bug_bounty-5) 
+ - 💯August 17, 2026 - [The 10 Best Bug Bounty Tools in 2026 &lpar;What Actual Hunters Use for Manual Testing&rpar;](https://medium.com/@b0dj0x/the-10-best-bug-bounty-tools-in-2026-what-actual-hunters-use-for-manual-testing-853d0dac4532?source=rss------bug_bounty-5) 
 
- - 💯August 17, 2026 - [I Built 3 Python Security Tools in a Month. Here’s What I Actually Learned.](https://medium.com/@chandeshgunawardena/i-built-3-python-security-tools-in-a-month-heres-what-i-actually-learned-175eec925b1a?source=rss------bug_bounty-5) 
+ - 💯August 17, 2026 - [The Bug Bounty Meat Grinder: Why Platforms Are Broken And How to Actually Win](https://cyphernova1337.medium.com/the-bug-bounty-meat-grinder-why-platforms-are-broken-and-how-to-actually-win-45b0ff26acba?source=rss------bug_bounty-5) 
 
- - 💯August 17, 2026 - [The $20,000 Session Cookie](https://medium.com/@rajnamdev/the-20-000-session-cookie-250f2d54a606?source=rss------bug_bounty-5) 
+ - 💯August 17, 2026 - [Open, Closed, Filtered: Reading an Nmap Scan Properly](https://medium.com/@muneebahmedkhan0903/open-closed-filtered-reading-an-nmap-scan-properly-5512cc5429ed?source=rss------bug_bounty-5) 
 
- - 💯August 17, 2026 - [Password Reset Vulnerability — Full Bug Bounty Walkthrough](https://medium.com/@ksreemosmar/password-reset-vulnerability-full-bug-bounty-walkthrough-d0d7c413ea63?source=rss------bug_bounty-5) 
+ - 💯August 17, 2026 - [Everything a Domain Will Tell a Stranger: DNS Enumeration With dig](https://medium.com/@muneebahmedkhan0903/everything-a-domain-will-tell-a-stranger-dns-enumeration-with-dig-fdf34620380f?source=rss------bug_bounty-5) 
 
- - 💯August 17, 2026 - [Hack The Box: Web Requests Module Walkthrough](https://medium.com/@ksreemosmar/hack-the-box-web-requests-module-walkthrough-e42877cb8c29?source=rss------bug_bounty-5) 
+ - 💯August 17, 2026 - [When the CDN Was Secure but the Origin Wasn’t: Bypassing SSO Through Direct-to-Origin Access](https://medium.com/@redhunter01/when-the-cdn-was-secure-but-the-origin-wasnt-bypassing-sso-through-direct-to-origin-access-96cf9c765a5f?source=rss------bug_bounty-5) 
 
- - 💯August 16, 2026 - [Offensive AI: How Red Teams Use Automated LLM Bug Hunting and Exploit Generation](https://medium.com/ai-security-hub/offensive-ai-how-red-teams-use-automated-llm-bug-hunting-and-exploit-generation-213b1b49dc8f?source=rss------bug_bounty-5) 
+ - 💯August 17, 2026 - [How I Took Over Any Employee Account With Just a Username](https://medium.com/@yassine.hasnaoui.cyber/how-i-took-over-any-employee-account-with-just-a-username-f7c5cae5a5c2?source=rss------bug_bounty-5) 
 
- - 💯August 16, 2026 - [Restoring Permanently Deleted Projects via IDOR](https://medium.com/@abdulrahmanreda660/restoring-permanently-deleted-projects-via-idor-7c8d8c2e3e94?source=rss------bug_bounty-5) 
+ - 💯August 17, 2026 - [The Cache That Trusted Too Much](https://lolidkmyname.medium.com/the-cache-that-trusted-too-much-2f74119be7bb?source=rss------bug_bounty-5) 
+
+ - 💯August 17, 2026 - [Bug Bounty: When a “Random” UUID Wasn’t Random Enough — Cross-Tenant Credential Leak in an ATS…](https://medium.com/@La_Pulga/bug-bounty-when-a-random-uuid-wasnt-random-enough-cross-tenant-credential-leak-in-an-ats-0fe419b559c8?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
