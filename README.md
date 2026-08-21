@@ -2,19 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 20, 2026 - [HunterX v7.0.0 — Less Noise. More Verified Findings.](https://medium.com/@nullc0d3/hunterx-v7-0-0-less-noise-more-verified-findings-5101b8e8f58d?source=rss------bug_bounty-5) 
+ - 💯August 21, 2026 - [When a 404 Isn’t a 404: Confirming HTTP Request Smuggling on assets.claude.ai](https://medium.com/@sunnyjha62679/when-a-404-isnt-a-404-confirming-http-request-smuggling-on-assets-claude-ai-7ff1cb80ab0b?source=rss------bug_bounty-5) 
 
- - 💯August 20, 2026 - [$1,024 for making Discourse choke on one really long draft](https://pawanjswal.medium.com/1-024-for-making-discourse-choke-on-one-really-long-draft-8f9464a6bd28?source=rss------bug_bounty-5) 
+ - 💯August 21, 2026 - [The Complete Guide to Cybersecurity in 2026: Threats,Architecture &amp; Defense](https://medium.com/@evokinggaming/the-complete-guide-to-cybersecurity-in-2026-threats-architecture-defense-918ba0b421e9?source=rss------bug_bounty-5) 
 
- - 💯August 20, 2026 - [The One-Word Impact Statement That Won $25,000](https://medium.com/@rajnamdev/the-one-word-impact-statement-that-won-25-000-d4ba344ab4d2?source=rss------bug_bounty-5) 
+ - 💯August 21, 2026 - [Privilege Escalation: Modeler Can Grant Administrator Access to Any User](https://medium.com/@m.elsaidy35/privilege-escalation-modeler-can-grant-administrator-access-to-any-user-d655718211f0?source=rss------bug_bounty-5) 
 
- - 💯August 20, 2026 - [My Bug Bounty Journey: I Started With Confusion, Not Confidence](https://medium.com/@ghannu0x01/my-bug-bounty-journey-i-started-with-confusion-not-confidence-d5efb7536f59?source=rss------bug_bounty-5) 
+ - 💯August 21, 2026 - [The Ghost in the Machine: How a Single Line of JavaScript Unlocked an Entire Admin Panel](https://medium.com/@sbcoomputer/the-ghost-in-the-machine-how-a-single-line-of-javascript-unlocked-an-entire-admin-panel-252b046ebd65?source=rss------bug_bounty-5) 
 
- - 💯August 20, 2026 - [How I Forged My Way Into a Real Service Account Token: An OIDC Trust Chain Attack](https://medium.com/@nizarkadiri70/how-i-forged-my-way-into-a-real-service-account-token-an-oidc-trust-chain-attack-806174dcae97?source=rss------bug_bounty-5) 
+ - 💯August 21, 2026 - [Card Declined? So Was Your Subdomain | Featurebase as an Undercovered Subdomain Takeover Vector](https://medium.com/@delta101/card-declined-so-was-your-subdomain-featurebase-as-an-undercovered-subdomain-takeover-vector-b3efdd5cf189?source=rss------bug_bounty-5) 
 
- - 💯August 20, 2026 - [TryHackMe Fool’s Mate Writeup: A Client-Side Trust Bypass Walkthrough](https://medium.com/@siraviashok4721/tryhackme-fools-mate-writeup-a-client-side-trust-bypass-walkthrough-0f47180ac02d?source=rss------bug_bounty-5) 
+ - 💯August 20, 2026 - [What Bug Bounty Entry Fees Really Filter: Noise, or the Broke?](https://medium.com/@mehvetero/what-bug-bounty-entry-fees-really-filter-noise-or-the-broke-7aea054aee4c?source=rss------bug_bounty-5) 
 
- - 💯August 19, 2026 - [From a Contact Form to RCE: How I Found Blind PHP Code Injection](https://medium.com/@hossein.za68/from-a-contact-form-to-rce-how-i-found-blind-php-code-injection-b56e51846ce8?source=rss------bug_bounty-5) 
+ - 💯August 20, 2026 - [Orchestrating AI Agents for Large-Scale Vulnerability Assessment: How I Won 1st Place at BMKG Bug…](https://0xrphy.medium.com/orchestrating-ai-agents-for-large-scale-vulnerability-assessment-how-i-won-1st-place-at-bmkg-bug-af97b2ca5901?source=rss------bug_bounty-5) 
 
- - 💯August 19, 2026 - [How to Find IDOR Vulnerabilities in Bug Bounty](https://medium.com/@b0dj0x/how-to-find-idor-vulnerabilities-in-bug-bounty-4c6bd63aa4a8?source=rss------bug_bounty-5) 
+ - 💯August 20, 2026 - [From Unauthenticated Upload to Stored XSS: Breaking a Production S3 Upload Flow](https://medium.com/@redhunter01/from-unauthenticated-upload-to-stored-xss-breaking-a-production-s3-upload-flow-ca585c920407?source=rss------bug_bounty-5) 
+
+ - 💯August 20, 2026 - [Testing for Host Header Injection With curl](https://medium.com/@muneebahmedkhan0903/testing-for-host-header-injection-with-curl-cb50fd769df9?source=rss------bug_bounty-5) 
+
+ - 💯August 20, 2026 - [A tale of twisted Arbitrary File Read](https://medium.com/@shivam_bathla/a-tale-of-twisted-arbitrary-file-read-c3109a285e70?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
