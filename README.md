@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 27, 2026 - [Tata Nexarc’s OTP Leak: How an “Encrypted” API Response Handed Out Full Admin Access](https://medium.com/@xpert4cyber/tata-nexarcs-otp-leak-how-an-encrypted-api-response-handed-out-full-admin-access-b5c673781539?source=rss------bug_bounty-5) 
+ - 💯August 28, 2026 - [PortSwigger Lab Walkthrough — User ID Controlled by Request Parameter with Data Leakage in Redirect](https://vivek0x.medium.com/portswigger-lab-walkthrough-user-id-controlled-by-request-parameter-with-data-leakage-in-redirect-21680c6506b1?source=rss------bug_bounty-5) 
 
- - 💯August 27, 2026 - [How to Extract Information from Websites: Automated OSINT Techniques and Tools](https://osintteam.blog/how-to-extract-information-from-websites-automated-osint-techniques-and-tools-798b03a15247?source=rss------bug_bounty-5) 
+ - 💯August 28, 2026 - [Agent Zero AI | The Autonomous AI Framework for Cybersecurity &amp; Pentesting](https://medium.com/@pentesterclubpvtltd/agent-zero-ai-the-autonomous-ai-framework-for-cybersecurity-pentesting-ab1e6cacb544?source=rss------bug_bounty-5) 
 
- - 💯August 27, 2026 - [Pondering Paths — Linux Luminarium Part 2](https://medium.com/@may.hack/pondering-paths-linux-luminarium-part-2-56236746706c?source=rss------bug_bounty-5) 
+ - 💯August 28, 2026 - [Cherry Blossom — TryHackMe Walkthrough](https://medium.com/@5um1t0x/cherry-blossom-tryhackme-walkthrough-f403496e1ff3?source=rss------bug_bounty-5) 
 
- - 💯August 27, 2026 - [Exploiting Race Condition to Break Idempotency &amp; Corrupt Data Integrity](https://medium.com/@coolorangee3/exploiting-race-condition-to-break-idempotency-corrupt-data-integrity-160cbf0d2b71?source=rss------bug_bounty-5) 
+ - 💯August 28, 2026 - [How a Race Condition in Single-Use Coupon Redemption Led to Unlimited Credits and an $11,000 Bounty](https://medium.com/@t4nv1/how-a-race-condition-in-single-use-coupon-redemption-led-to-unlimited-credits-and-an-11-000-bounty-67a93a486ee0?source=rss------bug_bounty-5) 
 
- - 💯August 27, 2026 - [Hello Hackers — Linux Luminarium Part 1](https://medium.com/@may.hack/linux-luminarium-hello-hackers-461253e396a7?source=rss------bug_bounty-5) 
+ - 💯August 28, 2026 - [When a Single Text File Breaks a Trust Boundary &lpar;Bug Bounty writeup&rpar;](https://infosecwriteups.com/when-a-single-text-file-breaks-a-trust-boundary-bug-bounty-writeup-824c1e2dc9f0?source=rss------bug_bounty-5) 
 
- - 💯August 27, 2026 - [AI Bug Hunting 101: From Setup to Your First Scan](https://medium.com/@octaviam/ai-bug-hunting-101-from-setup-to-your-first-scan-5ce6c958879b?source=rss------bug_bounty-5) 
+ - 💯August 28, 2026 - [Two Factor Authentication &lpar;2FA&rpar;](https://medium.com/@hex_decimal/two-factor-authentication-2fa-ec9c48ecd143?source=rss------bug_bounty-5) 
 
- - 💯August 27, 2026 - [PortSwigger Lab: User role controlled by request parameter](https://medium.com/@sa0k0/portswigger-lab-user-role-controlled-by-request-parameter-63fd64aee60d?source=rss------bug_bounty-5) 
+ - 💯August 28, 2026 - [SVG, Double Extensions, and Magic Bytes: Beating Upload Filters](https://kd-200.medium.com/svg-double-extensions-and-magic-bytes-beating-upload-filters-93a5cf1d575e?source=rss------bug_bounty-5) 
 
- - 💯August 27, 2026 - [How an OAuth 2.0 Redirect URI Bypass Led to Account Takeover and an $8,000 Bounty](https://medium.com/@t4nv1/how-an-oauth-2-0-redirect-uri-bypass-led-to-account-takeover-and-an-8-000-bounty-ad67ba4b0db6?source=rss------bug_bounty-5) 
+ - 💯August 28, 2026 - [Hacking Revenuecat for fun &lpar;&amp; profit?&rpar; &lpar;Part 1/3&rpar;](https://medium.com/@kaushal.parikh1995/hacking-revenuecat-for-fun-profit-part-1-3-57a13074f766?source=rss------bug_bounty-5) 
 
- - 💯August 27, 2026 - [Sign Out Everywhere Bypass: How I Found a Session Revocation Vulnerability in OAuth &amp; Password…](https://mhd101.medium.com/sign-out-everywhere-bypass-how-i-found-a-session-revocation-vulnerability-in-oauth-password-de076dc2b4c0?source=rss------bug_bounty-5) 
+ - 💯August 28, 2026 - [When logout becomes an OAuth attack](https://medium.com/@yagomartins30/when-logout-becomes-an-oauth-attack-8f1648f9c807?source=rss------bug_bounty-5) 
 
- - 💯August 27, 2026 - [Cache Memory CTF | Penetration Testing &amp; Exploitation Explained](https://medium.com/@pentesterclubpvtltd/cache-memory-ctf-penetration-testing-exploitation-explained-558d1d58e935?source=rss------bug_bounty-5) 
+ - 💯August 28, 2026 - [10 Tools I Actually Use to Break REST and GraphQL APIs &lpar;Not Just Another List&rpar;](https://meetcyber.net/10-tools-i-actually-use-to-break-rest-and-graphql-apis-not-just-another-list-e2401948ebaa?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
