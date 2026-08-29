@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 28, 2026 - [PortSwigger Lab Walkthrough — User ID Controlled by Request Parameter with Data Leakage in Redirect](https://vivek0x.medium.com/portswigger-lab-walkthrough-user-id-controlled-by-request-parameter-with-data-leakage-in-redirect-21680c6506b1?source=rss------bug_bounty-5) 
+ - 💯August 29, 2026 - [alg:none and Friends — A JWT Hacking Field Guide](https://kd-200.medium.com/alg-none-and-friends-a-jwt-hacking-field-guide-4864f2e1c673?source=rss------bug_bounty-5) 
 
- - 💯August 28, 2026 - [Agent Zero AI | The Autonomous AI Framework for Cybersecurity &amp; Pentesting](https://medium.com/@pentesterclubpvtltd/agent-zero-ai-the-autonomous-ai-framework-for-cybersecurity-pentesting-ab1e6cacb544?source=rss------bug_bounty-5) 
+ - 💯August 29, 2026 - [Hacker Club — Solving YesWeHack Dojo #53](https://medium.com/@__fr2/hacker-club-solving-yeswehack-dojo-53-026626278a84?source=rss------bug_bounty-5) 
 
- - 💯August 28, 2026 - [Cherry Blossom — TryHackMe Walkthrough](https://medium.com/@5um1t0x/cherry-blossom-tryhackme-walkthrough-f403496e1ff3?source=rss------bug_bounty-5) 
+ - 💯August 29, 2026 - [15 Access Control Mistakes Developers Keep Making: Master Real-World Application Security](https://medium.com/@verylazytech/15-access-control-mistakes-developers-keep-making-master-real-world-application-security-34df61fb9741?source=rss------bug_bounty-5) 
 
- - 💯August 28, 2026 - [How a Race Condition in Single-Use Coupon Redemption Led to Unlimited Credits and an $11,000 Bounty](https://medium.com/@t4nv1/how-a-race-condition-in-single-use-coupon-redemption-led-to-unlimited-credits-and-an-11-000-bounty-67a93a486ee0?source=rss------bug_bounty-5) 
+ - 💯August 29, 2026 - [From an OTP Race Condition to Zero-Interaction Account Takeover](https://medium.com/@noureldin_shaban/from-an-otp-race-condition-to-zero-interaction-account-takeover-2a95bde82181?source=rss------bug_bounty-5) 
 
- - 💯August 28, 2026 - [When a Single Text File Breaks a Trust Boundary &lpar;Bug Bounty writeup&rpar;](https://infosecwriteups.com/when-a-single-text-file-breaks-a-trust-boundary-bug-bounty-writeup-824c1e2dc9f0?source=rss------bug_bounty-5) 
+ - 💯August 29, 2026 - [$$ I Tried a Simple Registration Endpoint… and Accidentally Found a Critical Admin Account…](https://alfazhossain0.medium.com/i-tried-a-simple-registration-endpoint-and-accidentally-found-a-critical-admin-account-9af2b90cf4a3?source=rss------bug_bounty-5) 
 
- - 💯August 28, 2026 - [Two Factor Authentication &lpar;2FA&rpar;](https://medium.com/@hex_decimal/two-factor-authentication-2fa-ec9c48ecd143?source=rss------bug_bounty-5) 
+ - 💯August 29, 2026 - [The Offensive Security &amp; Bug Bounty Stack I Built for Myself — Now Free for Everyone](https://medium.com/@manojxshrestha/the-offensive-security-bug-bounty-stack-i-built-for-myself-now-free-for-everyone-03348d89b1dd?source=rss------bug_bounty-5) 
 
- - 💯August 28, 2026 - [SVG, Double Extensions, and Magic Bytes: Beating Upload Filters](https://kd-200.medium.com/svg-double-extensions-and-magic-bytes-beating-upload-filters-93a5cf1d575e?source=rss------bug_bounty-5) 
+ - 💯August 29, 2026 - [How I Got My First Bounty After a Year of Hunting](https://medium.com/@pranavrp77/how-i-got-my-first-bounty-after-a-year-of-hunting-2d86357a9a98?source=rss------bug_bounty-5) 
 
- - 💯August 28, 2026 - [Hacking Revenuecat for fun &lpar;&amp; profit?&rpar; &lpar;Part 1/3&rpar;](https://medium.com/@kaushal.parikh1995/hacking-revenuecat-for-fun-profit-part-1-3-57a13074f766?source=rss------bug_bounty-5) 
+ - 💯August 29, 2026 - [The Authorization Check That Only Fired When You Asked It To](https://medium.com/@redhunter01/the-authorization-check-that-only-fired-when-you-asked-it-to-6814d192510c?source=rss------bug_bounty-5) 
 
- - 💯August 28, 2026 - [When logout becomes an OAuth attack](https://medium.com/@yagomartins30/when-logout-becomes-an-oauth-attack-8f1648f9c807?source=rss------bug_bounty-5) 
+ - 💯August 29, 2026 - [Smali By bithowl: Chapter 8 Methods and Fields](https://medium.com/@bithowl/smali-by-bithowl-chapter-8-methods-and-fields-b74f7499b9c9?source=rss------bug_bounty-5) 
 
- - 💯August 28, 2026 - [10 Tools I Actually Use to Break REST and GraphQL APIs &lpar;Not Just Another List&rpar;](https://meetcyber.net/10-tools-i-actually-use-to-break-rest-and-graphql-apis-not-just-another-list-e2401948ebaa?source=rss------bug_bounty-5) 
+ - 💯August 29, 2026 - [The Bugs AI Still Can’t Find: What Will Make You a Valuable Bug Hunter in 2026](https://medium.com/@bugitrix/the-bugs-ai-still-cant-find-what-will-make-you-a-valuable-bug-hunter-in-2026-902e37a199a6?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
