@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯September 3, 2026 - [Attribute Breakouts: Winning When Angle Brackets Are Dead](https://kd-200.medium.com/attribute-breakouts-winning-when-angle-brackets-are-dead-40964a8a41a4?source=rss------bug_bounty-5) 
+ - 💯September 4, 2026 - [Inside the Script Block: JavaScript String, Template Literal, and JSON Breakouts](https://kd-200.medium.com/inside-the-script-block-javascript-string-template-literal-and-json-breakouts-5370cf607fe0?source=rss------bug_bounty-5) 
 
- - 💯September 3, 2026 - [CORS Finding | I Almost Skipped This Target Until I Did This…](https://medium.com/@coolorangee3/cors-finding-i-almost-skipped-this-target-until-i-did-this-db0be0616c76?source=rss------bug_bounty-5) 
+ - 💯September 4, 2026 - [10 Google Dorks Every Bug Bounty Hunter Should Know](https://meetcyber.net/10-google-dorks-every-bug-bounty-hunter-should-know-93945617cddf?source=rss------bug_bounty-5) 
 
- - 💯September 3, 2026 - [I Logged In as Literally Nobody and Walked Off With 53,000 Strangers’ Data](https://medium.com/@fauzimagusti/i-logged-in-as-literally-nobody-and-walked-off-with-53-000-strangers-data-166c269226af?source=rss------bug_bounty-5) 
+ - 💯September 4, 2026 - [From IDOR to Admin: How a Simple ID Parameter Led to Full Platform Takeover](https://medium.com/@pankaj_73968/from-idor-to-admin-how-a-simple-id-parameter-led-to-full-platform-takeover-cdc21b989a21?source=rss------bug_bounty-5) 
 
- - 💯September 3, 2026 - [I Counted to 2 Million and a Company’s Payment Data Fell Out](https://medium.com/@fauzimagusti/i-counted-to-2-million-and-a-companys-payment-data-fell-out-69c327424581?source=rss------bug_bounty-5) 
+ - 💯September 4, 2026 - [IntroToBurp — picoCTF Write-up | Bypassing OTP Validation with Burp Suite](https://medium.com/@affanhaxor/introtoburp-picoctf-write-up-bypassing-otp-validation-with-burp-suite-b583e9975047?source=rss------bug_bounty-5) 
 
- - 💯September 3, 2026 - [# CORS Misconfiguration on an OTP Endpoint](https://medium.com/@mehrankiya272/cors-misconfiguration-on-an-otp-endpoint-b57ca3eaf488?source=rss------bug_bounty-5) 
+ - 💯September 4, 2026 - [When verified: false Still Got a Valid JWT](https://medium.com/@sanjivanidobhal05/when-verified-false-still-got-a-valid-jwt-b91770294dc6?source=rss------bug_bounty-5) 
 
- - 💯September 3, 2026 - [My Autonomous Hunt Harness Found a Reflected XSS That Could Expose a Billing Session](https://medium.com/@redhunter01/my-autonomous-hunt-harness-found-a-reflected-xss-that-could-expose-a-billing-session-99307160f217?source=rss------bug_bounty-5) 
+ - 💯September 4, 2026 - [How to Fix the Google Gemini &quot;Something Went Wrong&quot; Error 1076.](https://medium.com/@rajatkale9/how-to-fix-the-google-gemini-something-went-wrong-error-1076-05474636be8f?source=rss------bug_bounty-5) 
 
- - 💯September 3, 2026 - [WebDecode — picoCTF Write-up | Finding and Decoding a Hidden Flag](https://medium.com/@affanhaxor/webdecode-picoctf-write-up-finding-and-decoding-a-hidden-flag-6864331ee693?source=rss------bug_bounty-5) 
+ - 💯September 4, 2026 - [The Trust Boundaries Hidden Inside Everyday Features: Four Vulnerabilities Discovered Through…](https://medium.com/@z3r0lord.s3c/the-trust-boundaries-hidden-inside-everyday-features-four-vulnerabilities-discovered-through-a19083572c5e?source=rss------bug_bounty-5) 
 
- - 💯September 3, 2026 - [PortSwigger XSS Labs Walkthrough: Reflected, Stored, DOM &amp; CSP Bypass](https://medium.com/@0xroot/portswigger-xss-labs-walkthrough-reflected-stored-dom-csp-bypass-adaee459ff5c?source=rss------bug_bounty-5) 
+ - 💯September 4, 2026 - [9 Hands-On OSINT Investigations You Can Practice Today](https://medium.com/@paritoshblogs/9-hands-on-osint-investigations-you-can-practice-today-95d038bfbadb?source=rss------bug_bounty-5) 
 
- - 💯September 2, 2026 - [How I Discovered One of My Most Creative Bugs in Google’s Gemini AI Competition](https://medium.com/@momenrezkk90/how-i-discovered-one-of-my-most-creative-bugs-in-googles-gemini-ai-competition-1e0315b6fef0?source=rss------bug_bounty-5) 
+ - 💯September 4, 2026 - [5 recon habits that still land your first $500 bug bounty](https://nitingavhane.medium.com/5-recon-habits-that-still-land-your-first-500-bug-bounty-18df95e02959?source=rss------bug_bounty-5) 
 
- - 💯September 2, 2026 - [When an AI Backend Forgot to Ask Who You Were: Finding Unauthenticated LLM Invocation in a FigmaBot…](https://medium.com/@haykeenspaul/when-an-ai-backend-forgot-to-ask-who-you-were-finding-unauthenticated-llm-invocation-in-a-figmabot-cee4d5683ed7?source=rss------bug_bounty-5) 
+ - 💯September 3, 2026 - [How a Simple Dork Led to a Critical 10.0 CVSS](https://cybersecuritywriteups.com/how-a-simple-dork-led-to-a-critical-10-0-cvss-06f17c86c5c6?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
