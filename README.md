@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯September 7, 2026 - [Breaking “Login with Google” Without Touching Google: An OAuth redirect_uri Account Takeover…](https://medium.com/@t4nv1/breaking-login-with-google-without-touching-google-an-oauth-redirect-uri-account-takeover-f706e881e237?source=rss------bug_bounty-5) 
+ - 💯September 8, 2026 - [DOM XSS Deep Dive: Sources, Sinks, and Backwards Tracing](https://kd-200.medium.com/dom-xss-deep-dive-sources-sinks-and-backwards-tracing-9253fdb8975c?source=rss------bug_bounty-5) 
 
- - 💯September 7, 2026 - [Who is a Hucker&lpar;hacker&rpar;](https://saad963.medium.com/who-is-a-hucker-hacker-9da8611b51e2?source=rss------bug_bounty-5) 
+ - 💯September 8, 2026 - [When an Invitation Isn’t Really an Invitation , A real world bug Finding](https://medium.com/@yasser_/when-an-invitation-isnt-really-an-invitation-a-real-world-bug-finding-5d1469a877f0?source=rss------bug_bounty-5) 
 
- - 💯September 7, 2026 - [The Character Probe: Building a Filter Fingerprint in Ten Requests](https://kd-200.medium.com/the-character-probe-building-a-filter-fingerprint-in-ten-requests-c807156d3d1f?source=rss------bug_bounty-5) 
+ - 💯September 8, 2026 - [Authentication Failures — The #7 Vulnerability on the Web](https://medium.com/@vedanthore/authentication-failures-the-7-vulnerability-on-the-web-ba57a1ad2024?source=rss------bug_bounty-5) 
 
- - 💯September 7, 2026 - [Uncovering an Open Redirect Using Wayback](https://medium.com/@MaMad4Ever/uncovering-an-open-redirect-using-wayback-9799face6b8f?source=rss------bug_bounty-5) 
+ - 💯September 8, 2026 - [The Server Blinked — Race Conditions Part 1: Limit Overrun](https://medium.com/@l1m1nal_3ntr0py/the-server-blinked-race-conditions-part-1-limit-overrun-4296aa5243eb?source=rss------bug_bounty-5) 
 
- - 💯September 7, 2026 - [Local Authority — picoCTF Write-Up](https://medium.com/@affanhaxor/local-authority-picoctf-write-up-b8e2c6ee13b8?source=rss------bug_bounty-5) 
+ - 💯September 8, 2026 - [Wireshark: The Complete Beginner’s Guide to Network Traffic Analysis](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/wireshark-the-complete-beginners-guide-to-network-traffic-analysis-44771b1bf542?source=rss------bug_bounty-5) 
 
- - 💯September 7, 2026 - [Password Reset Vulnerability to Full Account Takeover](https://medium.com/@Darkshadow24/password-reset-vulnerability-to-full-account-takeover-a7e58ac3c1ef?source=rss------bug_bounty-5) 
+ - 💯September 8, 2026 - [$5,000 Bug Bounty: Stealing Private API Keys via Arbitrary Origin Reflection in CORS](https://medium.com/@t4nv1/5-000-bug-bounty-stealing-private-api-keys-via-arbitrary-origin-reflection-in-cors-9c6e0f2380a4?source=rss------bug_bounty-5) 
 
- - 💯September 7, 2026 - [Lab #1 SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](https://medium.com/@m.abdullah06272/lab-1-sql-injection-vulnerability-in-where-clause-allowing-retrieval-of-hidden-data-3b20e10df71d?source=rss------bug_bounty-5) 
+ - 💯September 8, 2026 - [Inspect HTML — A Beginner-Friendly picoCTF Web Exploitation Walkthrough](https://medium.com/@affanhaxor/inspect-html-a-beginner-friendly-picoctf-web-exploitation-walkthrough-3ef20f450b25?source=rss------bug_bounty-5) 
 
- - 💯September 7, 2026 - [20 Open Source Security Tools Every Developer Should Know &lpar;with Real-World Examples&rpar;](https://medium.com/@verylazytech/20-open-source-security-tools-every-developer-should-know-with-real-world-examples-d6d3f275caf3?source=rss------bug_bounty-5) 
+ - 💯September 8, 2026 - [Burp AT Isn’t an AI Scanner It’s a Pentesting Agent](https://medium.com/@aryan351985/burp-at-isnt-an-ai-scanner-it-s-a-pentesting-agent-86ce9f44334d?source=rss------bug_bounty-5) 
 
- - 💯September 7, 2026 - [AI Agents Went From 13% to 90% in One Year. Every “Safe” Bug Class Now Has an Expiry Date.](https://meetcyber.net/ai-agents-went-from-13-to-90-in-one-year-every-safe-bug-class-now-has-an-expiry-date-664e1b2dc52b?source=rss------bug_bounty-5) 
+ - 💯September 8, 2026 - [PortSwigger Web Security Academy: All API Testing Labs Solved &lpar;Full Walkthrough&rpar;](https://medium.com/@blueorionn/portswigger-web-security-academy-all-api-testing-labs-solved-full-walkthrough-799fce0dca50?source=rss------bug_bounty-5) 
 
- - 💯September 7, 2026 - [One Parameter One User’s Phone Number And Someone Else’s Email Address Famous Bus Booking in India](https://systemweakness.com/one-parameter-54baeff941bb?source=rss------bug_bounty-5) 
+ - 💯September 8, 2026 - [Leviathan — OverTheWire](https://medium.com/@m.abdullah06272/leviathan-overthewire-285ba8a45728?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
