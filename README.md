@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯September 9, 2026 - [Reading the Bundle: Source Maps, Webpack Chunks, and Sink Grepping](https://kd-200.medium.com/reading-the-bundle-source-maps-webpack-chunks-and-sink-grepping-8432bf7c85d6?source=rss------bug_bounty-5) 
+ - 💯September 10, 2026 - [HTTP Request Smuggling via Content-Length and Transfer-Encoding Desync &lpar;CL-TE&rpar; - I am not a…](https://shahjerry33.medium.com/http-request-smuggling-via-content-length-and-transfer-encoding-desync-cl-te-i-am-not-a-83e432f9a926?source=rss------bug_bounty-5) 
 
- - 💯September 9, 2026 - [My First Paid Bug Bounty: A Broken Access Control Vulnerability](https://medium.com/@omaralgbry1/my-first-paid-bug-bounty-a-broken-access-control-vulnerability-aff35ac83718?source=rss------bug_bounty-5) 
+ - 💯September 10, 2026 - [postMessage XSS: The Listener Nobody Audits](https://kd-200.medium.com/postmessage-xss-the-listener-nobody-audits-ba587d1b208e?source=rss------bug_bounty-5) 
 
- - 💯September 9, 2026 - [Finding Zero-Days in Plain Sight: Our Security Team’s Uptoskills Penetration Testing Journey](https://medium.com/@jeffrey_theog/finding-zero-days-in-plain-sight-our-security-teams-uptoskills-penetration-testing-journey-7a47f568d7e8?source=rss------bug_bounty-5) 
+ - 💯September 10, 2026 - [Exploiting AI agents to perform destructive actions](https://0xsh4n.medium.com/exploiting-ai-agents-to-perform-destructive-actions-7ba0f3cc29e9?source=rss------bug_bounty-5) 
 
- - 💯September 9, 2026 - [I Forged My Own Admin Token by Exploiting JWT Algorithm Confusion &lpar;$8,500 Bounty&rpar;](https://medium.com/@t4nv1/i-forged-my-own-admin-token-by-exploiting-jwt-algorithm-confusion-8-500-bounty-98a01d99166c?source=rss------bug_bounty-5) 
+ - 💯September 10, 2026 - [$4,200 Bug Bounty: Escalating Blind SSRF to Internal Cloud Metadata &amp; Credential Exfiltration](https://medium.com/@t4nv1/4-200-bug-bounty-escalating-blind-ssrf-to-internal-cloud-metadata-credential-exfiltration-987f3c0ab032?source=rss------bug_bounty-5) 
 
- - 💯September 9, 2026 - [5 Burp Suite Extensions That Quietly 10x My Bug Bounty Payouts](https://medium.com/@bugitrix/5-burp-suite-extensions-that-quietly-10x-my-bug-bounty-payouts-371ace4587cc?source=rss------bug_bounty-5) 
+ - 💯September 10, 2026 - [Scavenger Hunt — picoCTF Write-up | Finding a Flag Hidden Across Web Files](https://medium.com/@affanhaxor/scavenger-hunt-picoctf-write-up-finding-a-flag-hidden-across-web-files-2557d8c89af9?source=rss------bug_bounty-5) 
 
- - 💯September 9, 2026 - [AI Attack Path Prioritizer: Rethinking How Enterprises Should Fix Vulnerabilities](https://medium.com/@paritoshblogs/ai-attack-path-prioritizer-rethinking-how-enterprises-should-fix-vulnerabilities-b7081723e5f5?source=rss------bug_bounty-5) 
+ - 💯September 10, 2026 - [AI Proxies Explained: How AI Gateways Work and Where the Security Risks Are](https://medium.com/@paritoshblogs/ai-proxies-explained-how-ai-gateways-work-and-where-the-security-risks-are-4826b5b271ce?source=rss------bug_bounty-5) 
 
- - 💯September 9, 2026 - [Cara Efektif Hacker Professional Menangani Sort-lived Token/Session menggunakan Burp Suite](https://medium.com/@muhammadyusuf.muhayuf/cara-efektif-hacker-professional-menangani-sort-lived-token-session-menggunakan-burp-suite-e425b557b455?source=rss------bug_bounty-5) 
+ - 💯September 10, 2026 - [How I Got Regular Users to Bypass Admin Approval and Accept Live Shares &lpar;Broken Access Control&rpar; —…](https://medium.com/@tonmoydatta495/how-i-got-regular-users-to-bypass-admin-approval-and-accept-live-shares-broken-access-control-c4e086da86ec?source=rss------bug_bounty-5) 
 
- - 💯September 9, 2026 - [HackerOne Paid Out $81 Million Last Year. The Median Disclosed Bounty Is $500.](https://rajnamdev.medium.com/hackerone-paid-out-81-million-last-year-the-median-disclosed-bounty-is-500-35cc010244d7?source=rss------bug_bounty-5) 
+ - 💯September 10, 2026 - [My Autonomous Hunt Harness Found an Origin-Hostname Bypass That Exposed a Non-Public WordPress Site](https://medium.com/@redhunter01/my-autonomous-hunt-harness-found-an-origin-hostname-bypass-that-exposed-a-non-public-wordpress-site-10e04d42b8e1?source=rss------bug_bounty-5) 
 
- - 💯September 9, 2026 - [Stop Guessing and Start Grepping: The Hacker’s Masterclass in Regex](https://cyphernova1337.medium.com/stop-guessing-and-start-grepping-the-hackers-masterclass-in-regex-6a6e96cee549?source=rss------bug_bounty-5) 
-
- - 💯September 8, 2026 - [How a Default Password Let Me Log Into Almost Anyone’s Account](https://medium.com/@udaydixit987/how-a-default-password-let-me-log-into-almost-anyones-account-75d3a60dbc5b?source=rss------bug_bounty-5) 
+ - 💯September 10, 2026 - [Part 2 — Wireshark: Understanding Packets, Protocols &amp; Network Layers](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/part-2-wireshark-understanding-packets-protocols-network-layers-6e003d13d121?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
