@@ -2,21 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯September 10, 2026 - [HTTP Request Smuggling via Content-Length and Transfer-Encoding Desync &lpar;CL-TE&rpar; - I am not a…](https://shahjerry33.medium.com/http-request-smuggling-via-content-length-and-transfer-encoding-desync-cl-te-i-am-not-a-83e432f9a926?source=rss------bug_bounty-5) 
+ - 💯September 11, 2026 - [The GraphQL Loophole Hiding in Airline Booking Systems](https://medium.com/@lpaccella/the-graphql-loophole-hiding-in-airline-booking-systems-75b1b6d47248?source=rss------bug_bounty-5) 
 
- - 💯September 10, 2026 - [postMessage XSS: The Listener Nobody Audits](https://kd-200.medium.com/postmessage-xss-the-listener-nobody-audits-ba587d1b208e?source=rss------bug_bounty-5) 
+ - 💯September 11, 2026 - [DOM Clobbering: Turning Plain HTML Into JavaScript Variables](https://kd-200.medium.com/dom-clobbering-turning-plain-html-into-javascript-variables-3054d0c489f5?source=rss------bug_bounty-5) 
 
- - 💯September 10, 2026 - [Exploiting AI agents to perform destructive actions](https://0xsh4n.medium.com/exploiting-ai-agents-to-perform-destructive-actions-7ba0f3cc29e9?source=rss------bug_bounty-5) 
+ - 💯September 11, 2026 - [From Dead SQLi To Live Session Hijack.](https://medium.com/@Darkshadow24/from-dead-sqli-to-live-session-hijack-c30a07fe2f20?source=rss------bug_bounty-5) 
 
- - 💯September 10, 2026 - [$4,200 Bug Bounty: Escalating Blind SSRF to Internal Cloud Metadata &amp; Credential Exfiltration](https://medium.com/@t4nv1/4-200-bug-bounty-escalating-blind-ssrf-to-internal-cloud-metadata-credential-exfiltration-987f3c0ab032?source=rss------bug_bounty-5) 
+ - 💯September 11, 2026 - [15 Cybersecurity Resume Mistakes That Get Candidates Ignored: Master the Art of Standing Out](https://medium.com/@verylazytech/15-cybersecurity-resume-mistakes-that-get-candidates-ignored-master-the-art-of-standing-out-bc019db6993d?source=rss------bug_bounty-5) 
 
- - 💯September 10, 2026 - [Scavenger Hunt — picoCTF Write-up | Finding a Flag Hidden Across Web Files](https://medium.com/@affanhaxor/scavenger-hunt-picoctf-write-up-finding-a-flag-hidden-across-web-files-2557d8c89af9?source=rss------bug_bounty-5) 
+ - 💯September 11, 2026 - [From a Broken Error Message to Full Server RCE: A Jinja2 SSTI Writeup &lpar;$9,000 Bounty&rpar;](https://medium.com/@t4nv1/from-a-broken-error-message-to-full-server-rce-a-jinja2-ssti-writeup-9-000-bounty-b08e7e67ab55?source=rss------bug_bounty-5) 
 
- - 💯September 10, 2026 - [AI Proxies Explained: How AI Gateways Work and Where the Security Risks Are](https://medium.com/@paritoshblogs/ai-proxies-explained-how-ai-gateways-work-and-where-the-security-risks-are-4826b5b271ce?source=rss------bug_bounty-5) 
+ - 💯September 11, 2026 - [Vibe-Coded Apps Are the New Bug Bounty Goldmine: Complete Recon Workflow for AI-Built Applications](https://medium.com/@thenewdate24/vibe-coded-apps-are-the-new-bug-bounty-goldmine-complete-recon-workflow-for-ai-built-applications-d61de16e494d?source=rss------bug_bounty-5) 
 
- - 💯September 10, 2026 - [How I Got Regular Users to Bypass Admin Approval and Accept Live Shares &lpar;Broken Access Control&rpar; —…](https://medium.com/@tonmoydatta495/how-i-got-regular-users-to-bypass-admin-approval-and-accept-live-shares-broken-access-control-c4e086da86ec?source=rss------bug_bounty-5) 
+ - 💯September 11, 2026 - [GET aHEAD — picoCTF Write-up | Finding a Flag in HTTP Response Headers](https://medium.com/@affanhaxor/get-ahead-picoctf-write-up-finding-a-flag-in-http-response-headers-e0140fbf8900?source=rss------bug_bounty-5) 
 
- - 💯September 10, 2026 - [My Autonomous Hunt Harness Found an Origin-Hostname Bypass That Exposed a Non-Public WordPress Site](https://medium.com/@redhunter01/my-autonomous-hunt-harness-found-an-origin-hostname-bypass-that-exposed-a-non-public-wordpress-site-10e04d42b8e1?source=rss------bug_bounty-5) 
+ - 💯September 11, 2026 - [AI Agent-to-Agent Attacks: When AI Agents Start Attacking Each Other](https://medium.com/@paritoshblogs/ai-agent-to-agent-attacks-when-ai-agents-start-attacking-each-other-96d7586c6d6c?source=rss------bug_bounty-5) 
 
- - 💯September 10, 2026 - [Part 2 — Wireshark: Understanding Packets, Protocols &amp; Network Layers](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/part-2-wireshark-understanding-packets-protocols-network-layers-6e003d13d121?source=rss------bug_bounty-5) 
+ - 💯September 11, 2026 - [Bug Bounty Survived the Scanner Flood. This Wave Is Different in Three Ways.](https://rajnamdev.medium.com/bug-bounty-survived-the-scanner-flood-this-wave-is-different-in-three-ways-d968370c2413?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
