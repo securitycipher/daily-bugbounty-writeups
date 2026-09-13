@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯September 12, 2026 - [My First $100 Bounty: Exploiting IDOR Vulnerability in Account Section](https://bugbountywizard.app/my-first-100-bounty-exploiting-idor-vulnerability-in-account-section-d5b00bf8ed59?source=rss------bug_bounty-5) 
+ - 💯September 13, 2026 - [The Field You Never Put on the Form](https://blog.stackademic.com/the-field-you-never-put-on-the-form-278e573100c3?source=rss------bug_bounty-5) 
 
- - 💯September 12, 2026 - [How One Identity-Binding Flaw Broke Multiple Response Controls on Google Forms](https://medium.com/@madpayload/how-one-identity-binding-flaw-broke-multiple-response-controls-on-google-forms-4b010206e828?source=rss------bug_bounty-5) 
+ - 💯September 13, 2026 - [Exotic Sources: window.name, History State, Storage, Cookies, Referrer](https://kd-200.medium.com/exotic-sources-window-name-history-state-storage-cookies-referrer-efbc23fa1367?source=rss------bug_bounty-5) 
 
- - 💯September 12, 2026 - [The Server Was Already Logged In - Race Conditions Part 2: Hidden Windows](https://medium.com/@l1m1nal_3ntr0py/the-server-was-already-logged-in-race-conditions-part-2-hidden-windows-8d507f19742d?source=rss------bug_bounty-5) 
+ - 💯September 13, 2026 - [How I Found Security Vulnerabilities in Dutch Government.](https://medium.com/@ravindswamy/how-i-found-security-vulnerabilities-in-dutch-government-fb7c98ef4e6e?source=rss------bug_bounty-5) 
 
- - 💯September 12, 2026 - [$750 Bug Bounty: Bypassing Password Reset Rate Limits via Header Spoofing](https://medium.com/@t4nv1/750-bug-bounty-bypassing-password-reset-rate-limits-via-header-spoofing-cc6a6ffaf724?source=rss------bug_bounty-5) 
+ - 💯September 13, 2026 - [Poisoning the Pipeline: How HTTP Request Smuggling Let Me Capture Other Users’ Sessions &lpar;$11,000…](https://medium.com/@t4nv1/poisoning-the-pipeline-how-http-request-smuggling-let-me-capture-other-users-sessions-11-000-6076624bc548?source=rss------bug_bounty-5) 
 
- - 💯September 12, 2026 - [10 Websites Every Bug Bounty Hunter Should Know in 2026](https://medium.com/@abimelsbkulumala/10-websites-every-bug-bounty-hunter-should-know-in-2026-33bd5db247af?source=rss------bug_bounty-5) 
+ - 💯September 13, 2026 - [Think Like a Hacker : How I Approach Web Application Security](https://medium.com/@RaminAghabeigi/think-like-a-hacker-how-i-approach-web-application-security-7ba5f7df3a6c?source=rss------bug_bounty-5) 
 
- - 💯September 12, 2026 - [How a Guest WiFi Portal Led to Full System Compromise](https://medium.com/@dasmanish6176/how-a-guest-wifi-portal-led-to-full-system-compromise-ef70c12aa3d5?source=rss------bug_bounty-5) 
+ - 💯September 13, 2026 - [Bug Bounty for Beginners . Earn Your First $100 with Ethical Hacking](https://medium.com/@R.H_Rizvi/bug-bounty-for-beginners-earn-your-first-100-with-ethical-hacking-6408aa117f7a?source=rss------bug_bounty-5) 
 
- - 💯September 12, 2026 - [Smali By bithowl: Chapter 10 Register Types](https://medium.com/@bithowl/smali-by-bithowl-chapter-10-register-types-8e7b6290deb0?source=rss------bug_bounty-5) 
+ - 💯September 13, 2026 - [OTP IDOR: When One Code Verifies the Wrong Phone Number](https://scriptjacker.medium.com/otp-idor-when-one-code-verifies-the-wrong-phone-number-df0d2b6475f8?source=rss------bug_bounty-5) 
 
- - 💯September 12, 2026 - [# Modern Android AppSec: Bypassing System CA Locks &amp; Uncovering Hardcoded AWS Keys &lpar;3-Min Guide&rpar;](https://medium.com/@realsandeep1271/modern-android-appsec-bypassing-system-ca-locks-uncovering-hardcoded-aws-keys-3-min-guide-f4290bc78a22?source=rss------bug_bounty-5) 
+ - 💯September 13, 2026 - [FuzzingLocalBot v3.4 — A Web Fuzzer with Enhanced Detection &amp; Reporting](https://medium.com/@e-xx_/fuzzinglocalbot-v3-4-a-web-fuzzer-with-enhanced-detection-reporting-2b561e6e02ff?source=rss------bug_bounty-5) 
 
- - 💯September 11, 2026 - [A small error destroyed the protection against XSS vulnerability.](https://medium.com/@omarelza3im44/a-small-error-destroyed-the-protection-against-xss-vulnerability-f5ba2066f730?source=rss------bug_bounty-5) 
+ - 💯September 13, 2026 - [3 Name Fields, 3 Bugs: How Free Text Became a Phishing Delivery System](https://nanashi0.medium.com/3-name-fields-3-bugs-how-free-text-became-a-phishing-delivery-system-a05d25782194?source=rss------bug_bounty-5) 
 
- - 💯September 11, 2026 - [thisisunsafe: o “atalho” escondido do Chrome que todo profissional de segurança deveria conhecer](https://medium.com/@pentestweb96/thisisunsafe-o-atalho-escondido-do-chrome-que-todo-profissional-de-seguran%C3%A7a-deveria-conhecer-e9e490d759d9?source=rss------bug_bounty-5) 
+ - 💯September 13, 2026 - [Mastering JWT Exploitation: The Top 5 JWT Vulnerabilities for Bug Bounty Hunters](https://prayerskhristi.medium.com/mastering-jwt-exploitation-the-top-5-jwt-vulnerabilities-for-bug-bounty-hunters-28ecccef75d9?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
