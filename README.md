@@ -2,23 +2,24 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯September 13, 2026 - [The Field You Never Put on the Form](https://blog.stackademic.com/the-field-you-never-put-on-the-form-278e573100c3?source=rss------bug_bounty-5) 
+ - 💯September 14, 2026 - [Framework Escape Hatches: One Grep, Your Whole Attack Surface](https://kd-200.medium.com/framework-escape-hatches-one-grep-your-whole-attack-surface-e382637fb66d?source=rss------bug_bounty-5) 
 
- - 💯September 13, 2026 - [Exotic Sources: window.name, History State, Storage, Cookies, Referrer](https://kd-200.medium.com/exotic-sources-window-name-history-state-storage-cookies-referrer-efbc23fa1367?source=rss------bug_bounty-5) 
+ - 💯September 14, 2026 - [3 Zero-Days, 1 Week: Why September 2026 Is a Wake-Up Call for Every IT Team](https://medium.com/@bugitrix/3-zero-days-1-week-why-september-2026-is-a-wake-up-call-for-every-it-team-5f166f64dc0c?source=rss------bug_bounty-5) 
 
- - 💯September 13, 2026 - [How I Found Security Vulnerabilities in Dutch Government.](https://medium.com/@ravindswamy/how-i-found-security-vulnerabilities-in-dutch-government-fb7c98ef4e6e?source=rss------bug_bounty-5) 
+ - 💯September 14, 2026 - [How to Install Kali Linux on VirtualBox: A Beginner’s Guide to Ethical Hacking](https://medium.com/@arfatkhan3708/how-to-install-kali-linux-on-virtualbox-a-beginners-guide-to-ethical-hacking-902246567861?source=rss------bug_bounty-5) 
 
- - 💯September 13, 2026 - [Poisoning the Pipeline: How HTTP Request Smuggling Let Me Capture Other Users’ Sessions &lpar;$11,000…](https://medium.com/@t4nv1/poisoning-the-pipeline-how-http-request-smuggling-let-me-capture-other-users-sessions-11-000-6076624bc548?source=rss------bug_bounty-5) 
+ - 💯September 14, 2026 - [IMPROPER SESSION
+MANAGEMENT](https://medium.com/@skumarjala/improper-session-management-94a81dc6b591?source=rss------bug_bounty-5) 
 
- - 💯September 13, 2026 - [Think Like a Hacker : How I Approach Web Application Security](https://medium.com/@RaminAghabeigi/think-like-a-hacker-how-i-approach-web-application-security-7ba5f7df3a6c?source=rss------bug_bounty-5) 
+ - 💯September 14, 2026 - [The Story of How I Hacked an International University in Indonesia AGAIN](https://christmex.medium.com/the-story-of-how-i-hacked-an-international-university-in-indonesia-again-57b4fef9fbd8?source=rss------bug_bounty-5) 
 
- - 💯September 13, 2026 - [Bug Bounty for Beginners . Earn Your First $100 with Ethical Hacking](https://medium.com/@R.H_Rizvi/bug-bounty-for-beginners-earn-your-first-100-with-ethical-hacking-6408aa117f7a?source=rss------bug_bounty-5) 
+ - 💯September 14, 2026 - [The Charger That Paid $60,000 for One Bug](https://meetcyber.net/the-charger-that-paid-60-000-for-one-bug-ee26bd1c84aa?source=rss------bug_bounty-5) 
 
- - 💯September 13, 2026 - [OTP IDOR: When One Code Verifies the Wrong Phone Number](https://scriptjacker.medium.com/otp-idor-when-one-code-verifies-the-wrong-phone-number-df0d2b6475f8?source=rss------bug_bounty-5) 
+ - 💯September 13, 2026 - [We Need to Talk — Breaking Tenant Isolation Through a gRPC Transcoding Mismatch](https://medium.com/@or0to/we-need-to-talk-breaking-tenant-isolation-through-a-grpc-transcoding-mismatch-796a75231fd2?source=rss------bug_bounty-5) 
 
- - 💯September 13, 2026 - [FuzzingLocalBot v3.4 — A Web Fuzzer with Enhanced Detection &amp; Reporting](https://medium.com/@e-xx_/fuzzinglocalbot-v3-4-a-web-fuzzer-with-enhanced-detection-reporting-2b561e6e02ff?source=rss------bug_bounty-5) 
+ - 💯September 13, 2026 - [PortSwigger Lab: OS command injection, simple case](https://medium.com/@sa0k0/portswigger-lab-os-command-injection-simple-case-daf63dcf32ba?source=rss------bug_bounty-5) 
 
- - 💯September 13, 2026 - [3 Name Fields, 3 Bugs: How Free Text Became a Phishing Delivery System](https://nanashi0.medium.com/3-name-fields-3-bugs-how-free-text-became-a-phishing-delivery-system-a05d25782194?source=rss------bug_bounty-5) 
+ - 💯September 13, 2026 - [One Overlooked Query Parameter: How a Single Line of Unsanitized Input Can Undo a Platform’s Entire…](https://medium.com/@mohammad.ehab7760/one-overlooked-query-parameter-how-a-single-line-of-unsanitized-input-can-undo-a-platforms-entire-9a1742755550?source=rss------bug_bounty-5) 
 
- - 💯September 13, 2026 - [Mastering JWT Exploitation: The Top 5 JWT Vulnerabilities for Bug Bounty Hunters](https://prayerskhristi.medium.com/mastering-jwt-exploitation-the-top-5-jwt-vulnerabilities-for-bug-bounty-hunters-28ecccef75d9?source=rss------bug_bounty-5) 
+ - 💯September 13, 2026 - [Top 43 AI Security Skills, MCP Servers &amp; GitHub Repos Every Bug Hunter Needs](https://medium.com/@Aacle/top-43-ai-skills-mcp-servers-github-repos-every-bug-hunter-needs-259a2528eb45?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
