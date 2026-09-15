@@ -2,24 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯September 14, 2026 - [Framework Escape Hatches: One Grep, Your Whole Attack Surface](https://kd-200.medium.com/framework-escape-hatches-one-grep-your-whole-attack-surface-e382637fb66d?source=rss------bug_bounty-5) 
+ - 💯September 15, 2026 - [How HTML Sanitizers Actually Work, and the Five Ways They Break](https://kd-200.medium.com/how-html-sanitizers-actually-work-and-the-five-ways-they-break-9691d0636437?source=rss------bug_bounty-5) 
 
- - 💯September 14, 2026 - [3 Zero-Days, 1 Week: Why September 2026 Is a Wake-Up Call for Every IT Team](https://medium.com/@bugitrix/3-zero-days-1-week-why-september-2026-is-a-wake-up-call-for-every-it-team-5f166f64dc0c?source=rss------bug_bounty-5) 
+ - 💯September 15, 2026 - [dont-use-client-side — picoCTF Write-up | Why Password Validation Should Never Be Client-Side](https://medium.com/@affanhaxor/dont-use-client-side-picoctf-write-up-why-password-validation-should-never-be-client-side-a103748c5468?source=rss------bug_bounty-5) 
 
- - 💯September 14, 2026 - [How to Install Kali Linux on VirtualBox: A Beginner’s Guide to Ethical Hacking](https://medium.com/@arfatkhan3708/how-to-install-kali-linux-on-virtualbox-a-beginners-guide-to-ethical-hacking-902246567861?source=rss------bug_bounty-5) 
+ - 💯September 15, 2026 - [How I Found an Unauthenticated IDOR That Exposed Every User’s PII and Access Roles](https://cybersecuritywriteups.com/how-i-found-an-unauthenticated-idor-that-exposed-every-users-pii-and-access-roles-35ab2c3c84f9?source=rss------bug_bounty-5) 
 
- - 💯September 14, 2026 - [IMPROPER SESSION
-MANAGEMENT](https://medium.com/@skumarjala/improper-session-management-94a81dc6b591?source=rss------bug_bounty-5) 
+ - 💯September 15, 2026 - [Telegram Asked Us to Stay Silent About an XSS. We Published It Anyway.](https://medium.com/@expatch/telegram-asked-us-to-stay-silent-about-an-xss-we-published-it-anyway-7bee8d2027a1?source=rss------bug_bounty-5) 
 
- - 💯September 14, 2026 - [The Story of How I Hacked an International University in Indonesia AGAIN](https://christmex.medium.com/the-story-of-how-i-hacked-an-international-university-in-indonesia-again-57b4fef9fbd8?source=rss------bug_bounty-5) 
+ - 💯September 15, 2026 - [Web Cache Deception via URL Parsing Discrepancy — PII Disclosure &amp; Cache Poisoning](https://medium.com/@ferhatsara/web-cache-deception-via-url-parsing-discrepancy-pii-disclosure-cache-poisoning-29ccf97be42f?source=rss------bug_bounty-5) 
 
- - 💯September 14, 2026 - [The Charger That Paid $60,000 for One Bug](https://meetcyber.net/the-charger-that-paid-60-000-for-one-bug-ee26bd1c84aa?source=rss------bug_bounty-5) 
+ - 💯September 14, 2026 - [Agentic Bug Hunter](https://medium.com/@molapomanuel709/agentic-bug-hunter-0dc6f644c48b?source=rss------bug_bounty-5) 
 
- - 💯September 13, 2026 - [We Need to Talk — Breaking Tenant Isolation Through a gRPC Transcoding Mismatch](https://medium.com/@or0to/we-need-to-talk-breaking-tenant-isolation-through-a-grpc-transcoding-mismatch-796a75231fd2?source=rss------bug_bounty-5) 
+ - 💯September 14, 2026 - [How Claude Code Landed Me a $500 Supabase Bug Bounty](https://yaseenzubair.medium.com/how-claude-code-landed-me-a-500-supabase-bug-bounty-91f7455f6bfe?source=rss------bug_bounty-5) 
 
- - 💯September 13, 2026 - [PortSwigger Lab: OS command injection, simple case](https://medium.com/@sa0k0/portswigger-lab-os-command-injection-simple-case-daf63dcf32ba?source=rss------bug_bounty-5) 
+ - 💯September 14, 2026 - [Cybersecurity Blog CTF | Full Penetration Testing Challenge](https://medium.com/@pentesterclubpvtltd/cybersecurity-blog-ctf-full-penetration-testing-challenge-e1c7afd6031f?source=rss------bug_bounty-5) 
 
- - 💯September 13, 2026 - [One Overlooked Query Parameter: How a Single Line of Unsanitized Input Can Undo a Platform’s Entire…](https://medium.com/@mohammad.ehab7760/one-overlooked-query-parameter-how-a-single-line-of-unsanitized-input-can-undo-a-platforms-entire-9a1742755550?source=rss------bug_bounty-5) 
-
- - 💯September 13, 2026 - [Top 43 AI Security Skills, MCP Servers &amp; GitHub Repos Every Bug Hunter Needs](https://medium.com/@Aacle/top-43-ai-skills-mcp-servers-github-repos-every-bug-hunter-needs-259a2528eb45?source=rss------bug_bounty-5) 
+ - 💯September 14, 2026 - [Attempting to set up my bug bounty foundation](https://medium.com/@gabriellakyy14/attempting-to-set-up-my-bug-bounty-foundation-7cae2b154a41?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
