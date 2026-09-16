@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯September 15, 2026 - [How HTML Sanitizers Actually Work, and the Five Ways They Break](https://kd-200.medium.com/how-html-sanitizers-actually-work-and-the-five-ways-they-break-9691d0636437?source=rss------bug_bounty-5) 
+ - 💯September 16, 2026 - [Mutation XSS: Attacking the Second Parse](https://kd-200.medium.com/mutation-xss-attacking-the-second-parse-8e9033e1c1bd?source=rss------bug_bounty-5) 
 
- - 💯September 15, 2026 - [dont-use-client-side — picoCTF Write-up | Why Password Validation Should Never Be Client-Side](https://medium.com/@affanhaxor/dont-use-client-side-picoctf-write-up-why-password-validation-should-never-be-client-side-a103748c5468?source=rss------bug_bounty-5) 
+ - 💯September 16, 2026 - [From HTTP Request to Security Finding](https://medium.com/@RaminAghabeigi/from-http-request-to-security-finding-04b7d31de7d2?source=rss------bug_bounty-5) 
 
- - 💯September 15, 2026 - [How I Found an Unauthenticated IDOR That Exposed Every User’s PII and Access Roles](https://cybersecuritywriteups.com/how-i-found-an-unauthenticated-idor-that-exposed-every-users-pii-and-access-roles-35ab2c3c84f9?source=rss------bug_bounty-5) 
+ - 💯September 16, 2026 - [How I Found My First CVE: CVE-2026–79630: Unauthenticated Price Manipulation in WPFunnels](https://medium.com/@adityagurav1712/how-i-found-my-first-cve-cve-2026-79630-unauthenticated-price-manipulation-in-wpfunnels-d1dbba5ae5ec?source=rss------bug_bounty-5) 
 
- - 💯September 15, 2026 - [Telegram Asked Us to Stay Silent About an XSS. We Published It Anyway.](https://medium.com/@expatch/telegram-asked-us-to-stay-silent-about-an-xss-we-published-it-anyway-7bee8d2027a1?source=rss------bug_bounty-5) 
+ - 💯September 16, 2026 - [Sensitive Customer Data Exposure Through a Reservation XLSX Export](https://medium.com/@0xfalcon7/sensitive-customer-data-exposure-through-a-reservation-xlsx-export-9e643666fd14?source=rss------bug_bounty-5) 
 
- - 💯September 15, 2026 - [Web Cache Deception via URL Parsing Discrepancy — PII Disclosure &amp; Cache Poisoning](https://medium.com/@ferhatsara/web-cache-deception-via-url-parsing-discrepancy-pii-disclosure-cache-poisoning-29ccf97be42f?source=rss------bug_bounty-5) 
+ - 💯September 16, 2026 - [How a Simple Bug Got Me €25](https://ameensec.medium.com/how-a-simple-bug-got-me-25-fe9ab0360e4f?source=rss------bug_bounty-5) 
 
- - 💯September 14, 2026 - [Agentic Bug Hunter](https://medium.com/@molapomanuel709/agentic-bug-hunter-0dc6f644c48b?source=rss------bug_bounty-5) 
+ - 💯September 16, 2026 - [The Anatomy of Good Faith Security Research](https://cswasif.medium.com/the-anatomy-of-good-faith-security-research-d8ccb853ffc7?source=rss------bug_bounty-5) 
 
- - 💯September 14, 2026 - [How Claude Code Landed Me a $500 Supabase Bug Bounty](https://yaseenzubair.medium.com/how-claude-code-landed-me-a-500-supabase-bug-bounty-91f7455f6bfe?source=rss------bug_bounty-5) 
+ - 💯September 16, 2026 - [Installing Mobile Security Framework &lpar;MobSF&rpar; on Kali Linux From Zero to Browser](https://medium.com/@deyarpan542/installing-mobsf-on-kali-linux-from-zero-to-browser-605560f551d2?source=rss------bug_bounty-5) 
 
- - 💯September 14, 2026 - [Cybersecurity Blog CTF | Full Penetration Testing Challenge](https://medium.com/@pentesterclubpvtltd/cybersecurity-blog-ctf-full-penetration-testing-challenge-e1c7afd6031f?source=rss------bug_bounty-5) 
+ - 💯September 16, 2026 - [Where Are the Robots — picoCTF Write-up | Finding Hidden Pages with robots.txt](https://medium.com/@affanhaxor/where-are-the-robots-picoctf-write-up-finding-hidden-pages-with-robots-txt-9ff135ee46f8?source=rss------bug_bounty-5) 
 
- - 💯September 14, 2026 - [Attempting to set up my bug bounty foundation](https://medium.com/@gabriellakyy14/attempting-to-set-up-my-bug-bounty-foundation-7cae2b154a41?source=rss------bug_bounty-5) 
+ - 💯September 16, 2026 - [STIX &amp; TAXII Explained: A Step-by-Step Guide to Cyber Threat Intelligence](https://medium.com/@Rakeshjoshi7/stix-taxii-explained-a-step-by-step-guide-to-cyber-threat-intelligence-0f868da0cd51?source=rss------bug_bounty-5) 
+
+ - 💯September 16, 2026 - [From Web to AI Security: What I achieved Red Teaming LLMs for the past 4 Months](https://medium.com/@gopikrishna0295/from-web-to-ai-security-what-i-achieved-red-teaming-llms-for-the-past-4-months-0b2ba01d8c08?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
