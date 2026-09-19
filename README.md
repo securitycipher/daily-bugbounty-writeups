@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯September 18, 2026 - [Markdown Renderers: The XSS Factory Hiding in Every Modern App](https://kd-200.medium.com/markdown-renderers-the-xss-factory-hiding-in-every-modern-app-5ef6a4c5e1b5?source=rss------bug_bounty-5) 
+ - 💯September 19, 2026 - [WAF Bypass Methodology for XSS](https://kd-200.medium.com/waf-bypass-methodology-for-xss-37032a15a014?source=rss------bug_bounty-5) 
 
- - 💯September 18, 2026 - [Mass Assignment to Admin: How a Missing Allow-List Let Me Self-Promote to Administrator](https://medium.com/@neel.chauhan09/mass-assignment-to-admin-how-a-missing-allow-list-let-me-self-promote-to-administrator-4d30dfcf8c04?source=rss------bug_bounty-5) 
+ - 💯September 19, 2026 - [How a Simple Stored XSS Turned Into an Account Action Chain](https://medium.com/@hackwithabraham/how-a-simple-stored-xss-turned-into-an-account-action-chain-3e044303c508?source=rss------bug_bounty-5) 
 
- - 💯September 18, 2026 - [Google Just Warned That AI Agents Are Hunting Bugs for Hackers.](https://medium.com/@riyalimba/google-just-warned-that-ai-agents-are-hunting-bugs-for-hackers-76d3a6276e39?source=rss------bug_bounty-5) 
+ - 💯September 19, 2026 - [One Redirect Was Enough: Bypassing a Strict SSRF Filter to Breach the Internal Network](https://infosecwriteups.com/one-redirect-was-enough-bypassing-a-strict-ssrf-filter-to-breach-the-internal-network-0fb70de8aa38?source=rss------bug_bounty-5) 
 
- - 💯September 18, 2026 - [How I Use AI for Bug Hunting &lpar;Without Losing My Mind&rpar;](https://sukhveersingh97997.medium.com/how-i-use-ai-for-bug-hunting-without-losing-my-mind-7d29784fd188?source=rss------bug_bounty-5) 
+ - 💯September 19, 2026 - [How I Found an Unauthenticated Grafana Loki Endpoint That Leaked 234 Employee Identities &lpar;$1,200…](https://medium.com/@anshbohra10/how-i-found-an-unauthenticated-grafana-loki-endpoint-that-leaked-234-employee-identities-1-200-94049fde7e7b?source=rss------bug_bounty-5) 
 
- - 💯September 18, 2026 - [I’m Starting My 100-Hour Bug Bounty Challenge — Here’s My Method](https://medium.com/@mansigolecha84_17480/im-starting-my-100-hour-bug-bounty-challenge-here-s-my-method-f26a40f02df5?source=rss------bug_bounty-5) 
+ - 💯September 19, 2026 - [CRLF Injection ‘How to Hunt it’](https://medium.com/@omarmohamed12766/crlf-injection-how-to-hunt-it-90e0ea64c542?source=rss------bug_bounty-5) 
 
- - 💯September 18, 2026 - [How a Random Password-less “SSO Token” Let a Full Account Takeover](https://osintteam.blog/how-a-random-password-less-sso-token-let-a-full-account-takeover-fd2bb1782a66?source=rss------bug_bounty-5) 
+ - 💯September 19, 2026 - [Smali By bithowl: Chapter 11 Register Instructions](https://medium.com/@bithowl/smali-by-bithowl-chapter-11-register-instructions-f4f4b45ab2d9?source=rss------bug_bounty-5) 
 
- - 💯September 18, 2026 - [Local Authority — picoCTF Write-up | Exposing Credentials Through Client-Side JavaScript](https://medium.com/@affanhaxor/local-authority-picoctf-write-up-exposing-credentials-through-client-side-javascript-eb91ee821c5a?source=rss------bug_bounty-5) 
+ - 💯September 19, 2026 - [What I learned From Managing Bug Bounty Program](https://kaklabs.com/what-i-learned-from-managing-bug-bounty-program-c1a4e1275f90?source=rss------bug_bounty-5) 
 
- - 💯September 18, 2026 - [The Anatomy of an Open Redirect: What I Learned from Analyzing 80+ HackerOne Reports](https://infosecwriteups.com/the-anatomy-of-an-open-redirect-what-i-learned-from-analyzing-80-hackerone-reports-ec801d256201?source=rss------bug_bounty-5) 
+ - 💯September 19, 2026 - [AI Didn’t Kill Manual Testing. Triage Bills Did.](https://rajnamdev.medium.com/ai-didnt-kill-manual-testing-triage-bills-did-6059344032d4?source=rss------bug_bounty-5) 
 
- - 💯September 18, 2026 - [Manual Testing Isn’t Dead. Half of It Is.](https://rajnamdev.medium.com/manual-testing-isnt-dead-half-of-it-is-defe30177bdf?source=rss------bug_bounty-5) 
-
- - 💯September 18, 2026 - [How an Android OAuth Custom Scheme Became a Full Account Takeover](https://medium.com/@mohamedatefsarhan123/how-an-android-oauth-custom-scheme-became-a-full-account-takeover-4a43cd9a51ac?source=rss------bug_bounty-5) 
+ - 💯September 18, 2026 - [High-Velocity Recon: Top 5 Extensions to Intercept and Extract Attack Surfaces](https://medium.com/@bughunt3r1985/high-velocity-recon-top-5-extensions-to-intercept-and-extract-attack-surfaces-00c04fa28e4f?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
