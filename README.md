@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯September 20, 2026 - [CSP Recon: Reading a Policy Like a Hunter](https://kd-200.medium.com/csp-recon-reading-a-policy-like-a-hunter-efe1340cc3c5?source=rss------bug_bounty-5) 
+ - 💯September 21, 2026 - [Bug Bounty Penetration Testing | Real-World Security Testing by Pentester Club](https://medium.com/@pentesterclubpvtltd/bug-bounty-penetration-testing-real-world-security-testing-by-pentester-club-1cc596d7fa9d?source=rss------bug_bounty-5) 
 
- - 💯September 20, 2026 - [Hunting TOCTOU Races and Memory-Safety Bugs in NVIDIA’s Native Toolchain](https://medium.com/@titsecop/hunting-toctou-races-and-memory-safety-bugs-in-nvidias-native-toolchain-922df7617d93?source=rss------bug_bounty-5) 
+ - 💯September 21, 2026 - [How I Discovered Multiple Vulnerabilities on a vu.nl Subdomain](https://medium.com/@adtynll/how-i-discovered-multiple-vulnerabilities-on-a-vu-nl-subdomain-cf512c8abeaa?source=rss------bug_bounty-5) 
 
- - 💯September 20, 2026 - [I Changed One Parameter… and Broke a B2B Booking System](https://medium.com/@romene.mohtadi.it/i-changed-one-parameter-and-broke-a-b2b-booking-system-ba649f64e973?source=rss------bug_bounty-5) 
+ - 💯September 21, 2026 - [External Recon Master Methodology](https://huntbyabhix.medium.com/external-recon-master-methodology-9fcdabaa9338?source=rss------bug_bounty-5) 
 
- - 💯September 20, 2026 - [Part 3 — Wireshark Display Filters: Finding What Matters in Thousands of Packets](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/part-3-wireshark-display-filters-finding-what-matters-in-thousands-of-packets-7e226ceb3915?source=rss------bug_bounty-5) 
+ - 💯September 21, 2026 - [Python Web Penetration Testing — Day 12: Post-Exploitation — What Happens After You Get RCE](https://osintteam.blog/python-web-penetration-testing-day-12-post-exploitation-what-happens-after-you-get-rce-2d76332e696e?source=rss------bug_bounty-5) 
 
- - 💯September 20, 2026 - [12 Pass-the-Hash Concepts Every Security Professional Should Know to Master Windows Attacks](https://medium.com/@verylazytech/12-pass-the-hash-concepts-every-security-professional-should-know-to-master-windows-attacks-a67fae07e055?source=rss------bug_bounty-5) 
+ - 💯September 21, 2026 - [“So Was the CSP Useless?” — What I Told the Developer](https://kd-200.medium.com/so-was-the-csp-useless-what-i-told-the-developer-a488e74f9335?source=rss------bug_bounty-5) 
 
- - 💯September 20, 2026 - [&quot;403 Forbidden Bypass: How to Find Critical Security Bugs &lpar;2026 Guide&rpar;&quot;](https://medium.com/@padhyepushkar/403-forbidden-bypass-how-to-find-critical-security-bugs-2026-guide-ff2af258d882?source=rss------bug_bounty-5) 
+ - 💯September 21, 2026 - [20 Common Causes of Enterprise Data Breaches: Learn How to Spot and Prevent Them](https://medium.com/@verylazytech/20-common-causes-of-enterprise-data-breaches-learn-how-to-spot-and-prevent-them-cf4c33352ac3?source=rss------bug_bounty-5) 
 
- - 💯September 19, 2026 - [My First Bug Bounty Finding Was Critical: Exploiting a Weak JWT Secret for Account Takeover](https://medium.com/@yOnly_/my-first-bug-bounty-finding-was-critical-exploiting-a-weak-jwt-secret-for-account-takeover-dd56a07b5c92?source=rss------bug_bounty-5) 
+ - 💯September 21, 2026 - [CORS Misconfigurations: The Door Developers Install in Their Own Wall](https://medium.com/@l4zz3rj0d/cors-misconfigurations-the-door-developers-install-in-their-own-wall-6a77cfe5bd57?source=rss------bug_bounty-5) 
 
- - 💯September 19, 2026 - [I Read The Policies So You Don’t Have To; Bugcrowd &lpar;Vulnerability Reporting Platform&rpar;](https://medium.com/@ItsNotNicole/i-read-the-policies-so-you-dont-have-to-bugcrowd-vulnerability-reporting-platform-9d804fae79dc?source=rss------bug_bounty-5) 
+ - 💯September 21, 2026 - [[25€ Broken Social Link] Due to outdated footer](https://medium.com/@Kntjrld/25-broken-social-link-due-to-outdated-footer-a43639ecf3a3?source=rss------bug_bounty-5) 
 
- - 💯September 19, 2026 - [SQL Injection: Time-Based Blind Detection Payload](https://medium.com/@cybersecplayground/sql-injection-time-based-blind-detection-payload-953657dd542b?source=rss------bug_bounty-5) 
+ - 💯September 21, 2026 - [Gartner Said Identity Is the New Battlefield.](https://medium.com/@riyalimba/gartner-said-identity-is-the-new-battlefield-9a654bab7768?source=rss------bug_bounty-5) 
 
- - 💯September 19, 2026 - [ipspoof: An Open Source Tool for Automated Testing of HTTP Header-Based Access Controls](https://exript.medium.com/ipspoof-an-open-source-tool-for-automated-testing-of-http-header-based-access-controls-15fe11b9cace?source=rss------bug_bounty-5) 
+ - 💯September 21, 2026 - [Day 02: Understanding How the Web Works](https://iamrudhh.medium.com/day-02-understanding-how-the-web-works-3967d9694082?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
