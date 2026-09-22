@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯September 21, 2026 - [Bug Bounty Penetration Testing | Real-World Security Testing by Pentester Club](https://medium.com/@pentesterclubpvtltd/bug-bounty-penetration-testing-real-world-security-testing-by-pentester-club-1cc596d7fa9d?source=rss------bug_bounty-5) 
+ - 💯September 22, 2026 - [They Allowed Five Image Formats. Four Were Pictures.](https://kd-200.medium.com/they-allowed-five-image-formats-four-were-pictures-5052c83f57e6?source=rss------bug_bounty-5) 
 
- - 💯September 21, 2026 - [How I Discovered Multiple Vulnerabilities on a vu.nl Subdomain](https://medium.com/@adtynll/how-i-discovered-multiple-vulnerabilities-on-a-vu-nl-subdomain-cf512c8abeaa?source=rss------bug_bounty-5) 
+ - 💯September 22, 2026 - [How I Started Getting Bug Bounties in Just My Second Month](https://medium.com/@sairajthorat077/how-i-started-getting-bug-bounties-in-just-my-second-month-b80448dc9901?source=rss------bug_bounty-5) 
 
- - 💯September 21, 2026 - [External Recon Master Methodology](https://huntbyabhix.medium.com/external-recon-master-methodology-9fcdabaa9338?source=rss------bug_bounty-5) 
+ - 💯September 22, 2026 - [Part 4 — Wireshark: Follow TCP Stream &amp; Reconstructing Network Conversations](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/part-4-wireshark-follow-tcp-stream-reconstructing-network-conversations-e6f3e51ffe23?source=rss------bug_bounty-5) 
 
- - 💯September 21, 2026 - [Python Web Penetration Testing — Day 12: Post-Exploitation — What Happens After You Get RCE](https://osintteam.blog/python-web-penetration-testing-day-12-post-exploitation-what-happens-after-you-get-rce-2d76332e696e?source=rss------bug_bounty-5) 
+ - 💯September 22, 2026 - [From Vulnerability to Report: How Security Researchers Communicate Impact](https://medium.com/@RaminAghabeigi/from-vulnerability-to-report-how-security-researchers-communicate-impact-cf4fe56c67c1?source=rss------bug_bounty-5) 
 
- - 💯September 21, 2026 - [“So Was the CSP Useless?” — What I Told the Developer](https://kd-200.medium.com/so-was-the-csp-useless-what-i-told-the-developer-a488e74f9335?source=rss------bug_bounty-5) 
+ - 💯September 22, 2026 - [One Hidden JSON Field Turned My User Ticket into an Admin Ticket](https://medium.com/@ArshiaHex/one-hidden-json-field-turned-my-user-ticket-into-an-admin-ticket-5b019cb6489f?source=rss------bug_bounty-5) 
 
- - 💯September 21, 2026 - [20 Common Causes of Enterprise Data Breaches: Learn How to Spot and Prevent Them](https://medium.com/@verylazytech/20-common-causes-of-enterprise-data-breaches-learn-how-to-spot-and-prevent-them-cf4c33352ac3?source=rss------bug_bounty-5) 
+ - 💯September 22, 2026 - [One Missing await = Log In as Anyone: The Rocket.Chat Auth Bypass, Explained](https://medium.com/@Aacle/one-missing-await-log-in-as-anyone-the-rocket-chat-auth-bypass-explained-1f4c5dba6f26?source=rss------bug_bounty-5) 
 
- - 💯September 21, 2026 - [CORS Misconfigurations: The Door Developers Install in Their Own Wall](https://medium.com/@l4zz3rj0d/cors-misconfigurations-the-door-developers-install-in-their-own-wall-6a77cfe5bd57?source=rss------bug_bounty-5) 
+ - 💯September 22, 2026 - [Finding a $200 CRLF Injection Bug: A Walkthrough of Mozilla’s OAuth Redirect Flaw](https://meetcyber.net/finding-a-200-crlf-injection-bug-a-walkthrough-of-mozillas-oauth-redirect-flaw-eb6c861bb8d7?source=rss------bug_bounty-5) 
 
- - 💯September 21, 2026 - [[25€ Broken Social Link] Due to outdated footer](https://medium.com/@Kntjrld/25-broken-social-link-due-to-outdated-footer-a43639ecf3a3?source=rss------bug_bounty-5) 
+ - 💯September 22, 2026 - [How to Sell Exploits Without Going to Jail](https://medium.com/@thesecguy/how-to-sell-exploits-without-going-to-jail-3d4c9a7be744?source=rss------bug_bounty-5) 
 
- - 💯September 21, 2026 - [Gartner Said Identity Is the New Battlefield.](https://medium.com/@riyalimba/gartner-said-identity-is-the-new-battlefield-9a654bab7768?source=rss------bug_bounty-5) 
-
- - 💯September 21, 2026 - [Day 02: Understanding How the Web Works](https://iamrudhh.medium.com/day-02-understanding-how-the-web-works-3967d9694082?source=rss------bug_bounty-5) 
+ - 💯September 22, 2026 - [My Input Wasn’t the Payload. It Was the Address.](https://infosecwriteups.com/my-input-wasnt-the-payload-it-was-the-address-caf9b8a65bf5?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
