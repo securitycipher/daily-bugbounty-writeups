@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 3, 2026 - [SQL Injection — Lab #4 SQL injection UNION attack, finding a column containing text](https://m-abdullah-lab.medium.com/sql-injection-lab-4-sql-injection-union-attack-finding-a-column-containing-text-55a9f685aaa1?source=rss------bug_bounty-5) 
+ - 💯October 4, 2026 - [10 Essential Tools for Bug Bounty Hunting and Web Application Penetration Testing](https://medium.com/@mumarsaqib/10-essential-tools-for-bug-bounty-hunting-and-web-application-penetration-testing-896e3704befa?source=rss------bug_bounty-5) 
 
- - 💯October 3, 2026 - [I Got Tired of Being Middleware for My Own Recon Tools, So I Built a Pipeline](https://nullyblissful.medium.com/i-got-tired-of-being-middleware-for-my-own-recon-tools-so-i-built-a-pipeline-a34f694a64ad?source=rss------bug_bounty-5) 
+ - 💯October 4, 2026 - [A 403 Bypass Worth $900: How a Semicolon Exposed API Documentation](https://medium.com/@papjm/a-403-bypass-worth-900-how-a-semicolon-exposed-api-documentation-698eecaf9308?source=rss------bug_bounty-5) 
 
- - 💯October 3, 2026 - [$7,500 for a Wildcard in the Wrong Place: LDAP Injection to Authentication Bypass](https://medium.com/@t4nv1/7-500-for-a-wildcard-in-the-wrong-place-ldap-injection-to-authentication-bypass-655682f8bebd?source=rss------bug_bounty-5) 
+ - 💯October 4, 2026 - [How I Used Shodan Dorks to Find a Hidden Bug Bounty Program | by Samadhan Shimple](https://samadhanshimple.medium.com/how-i-used-shodan-dorks-to-find-a-hidden-bug-bounty-program-by-samadhan-shimple-210d272cee71?source=rss------bug_bounty-5) 
 
- - 💯October 3, 2026 - [Smali By bithowl: Chapter 13 Object Operations](https://medium.com/@bithowl/smali-by-bithowl-chapter-13-object-operations-ba65301a7d5f?source=rss------bug_bounty-5) 
+ - 💯October 4, 2026 - [$6,500 for Sending an Object Instead of a String: MongoDB Operator Injection to Account Takeover](https://medium.com/@t4nv1/6-500-for-sending-an-object-instead-of-a-string-mongodb-operator-injection-to-account-takeover-e1cc81754c8c?source=rss------bug_bounty-5) 
 
- - 💯October 3, 2026 - [The Bug Bounty Report That Got Closed as “Informative” &lpar;And How I Fixed It&rpar;](https://medium.com/@neonmaxima/the-bug-bounty-report-that-got-closed-as-informative-and-how-i-fixed-it-769654ef6d0c?source=rss------bug_bounty-5) 
+ - 💯October 4, 2026 - [DVWA Vulnerability: Reflected Cross Site Scripting &lpar;XSS&rpar;](https://medium.com/@Kamal_S/dvwa-vulnerability-reflected-cross-site-scripting-xss-e9dfe6e15025?source=rss------bug_bounty-5) 
 
- - 💯October 2, 2026 - [It Returned 404… But the Data Was Still There](https://medium.com/@hamdyosama2995/it-returned-404-but-the-data-was-still-there-6e9bf4dd408d?source=rss------bug_bounty-5) 
+ - 💯October 4, 2026 - [How I Discovered CVE-2026–102628 — From a WHOIS Lookup to a CISA CVE](https://xhunter101.medium.com/how-i-discovered-cve-2026-102628-from-a-whois-lookup-to-a-cisa-cve-635835fa3971?source=rss------bug_bounty-5) 
 
- - 💯October 2, 2026 - [Support — Cookie Tampering → IDOR → LFI → Command Injection &lpar;RCE&rpar; “THM”](https://medium.com/@ahmed240102345/support-cookie-tampering-idor-lfi-command-injection-rce-thm-d8bf93bcb5ce?source=rss------bug_bounty-5) 
+ - 💯October 4, 2026 - [Exploit-DB is DEAD !!!](https://medium.com/@securewithumer/exploit-db-is-dead-0e519c786367?source=rss------bug_bounty-5) 
 
- - 💯October 2, 2026 - [Recruit — SSRF → LFI → SQL Injection → Admin Takeover”THM”](https://medium.com/@ahmed240102345/recruit-ssrf-lfi-sql-injection-admin-takeover-thm-e31a0688b0bc?source=rss------bug_bounty-5) 
+ - 💯October 4, 2026 - [LLM &amp; AI Red Teaming Roadmap](https://medium.com/@Rakeshjoshi7/llm-ai-red-teaming-roadmap-fa1e0fac0182?source=rss------bug_bounty-5) 
 
- - 💯October 2, 2026 - [Web Cache Deception: Understanding the Attack and How to Prevent It](https://medium.com/@MazenElsayed_/web-cache-deception-understanding-the-attack-and-how-to-prevent-it-f9d617af56d3?source=rss------bug_bounty-5) 
+ - 💯October 4, 2026 - [Finding Interesting Assets Hidden in JavaScript](https://medium.com/@Rakeshjoshi7/finding-interesting-assets-hidden-in-javascript-0b38898eb14b?source=rss------bug_bounty-5) 
 
- - 💯October 2, 2026 - [The AES Key That Bypassed Every Fix: From Mass PII Exposure to 2FA Bypass](https://medium.com/@mahmoudmagdy45456/the-aes-key-that-bypassed-every-fix-from-mass-pii-exposure-to-2fa-bypass-8143c9326f34?source=rss------bug_bounty-5) 
+ - 💯October 4, 2026 - [5 Recon Mistakes That Waste Hours in Bug Bounty](https://medium.com/@Rakeshjoshi7/5-recon-mistakes-that-waste-hours-in-bug-bounty-7b530d2d19b8?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
