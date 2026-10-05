@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 4, 2026 - [10 Essential Tools for Bug Bounty Hunting and Web Application Penetration Testing](https://medium.com/@mumarsaqib/10-essential-tools-for-bug-bounty-hunting-and-web-application-penetration-testing-896e3704befa?source=rss------bug_bounty-5) 
+ - 💯October 5, 2026 - [Account Takeover: How Attackers Actually Steal Accounts](https://medium.com/@raksharoot/account-takeover-how-attackers-actually-steal-accounts-1f02fb71b86d?source=rss------bug_bounty-5) 
 
- - 💯October 4, 2026 - [A 403 Bypass Worth $900: How a Semicolon Exposed API Documentation](https://medium.com/@papjm/a-403-bypass-worth-900-how-a-semicolon-exposed-api-documentation-698eecaf9308?source=rss------bug_bounty-5) 
+ - 💯October 5, 2026 - [Lattice AI Explained | Local AI-Powered Security Testing Engine](https://medium.com/@pentesterclubpvtltd/lattice-ai-explained-local-ai-powered-security-testing-engine-02997b444827?source=rss------bug_bounty-5) 
 
- - 💯October 4, 2026 - [How I Used Shodan Dorks to Find a Hidden Bug Bounty Program | by Samadhan Shimple](https://samadhanshimple.medium.com/how-i-used-shodan-dorks-to-find-a-hidden-bug-bounty-program-by-samadhan-shimple-210d272cee71?source=rss------bug_bounty-5) 
+ - 💯October 5, 2026 - [The AI Refused to Write the Exploit. So He Lied to It and Made $115,000.](https://medium.com/@riyalimba/the-ai-refused-to-write-the-exploit-so-he-lied-to-it-and-made-115-000-ee4bf6a238e0?source=rss------bug_bounty-5) 
 
- - 💯October 4, 2026 - [$6,500 for Sending an Object Instead of a String: MongoDB Operator Injection to Account Takeover](https://medium.com/@t4nv1/6-500-for-sending-an-object-instead-of-a-string-mongodb-operator-injection-to-account-takeover-e1cc81754c8c?source=rss------bug_bounty-5) 
+ - 💯October 5, 2026 - [Top XSS Bug Bounty Reports: Real-World XSS Vulnerabilities and Lessons](https://aimasterprompt.medium.com/top-xss-bug-bounty-reports-real-world-xss-vulnerabilities-and-lessons-39d77e4d61ee?source=rss------bug_bounty-5) 
 
- - 💯October 4, 2026 - [DVWA Vulnerability: Reflected Cross Site Scripting &lpar;XSS&rpar;](https://medium.com/@Kamal_S/dvwa-vulnerability-reflected-cross-site-scripting-xss-e9dfe6e15025?source=rss------bug_bounty-5) 
+ - 💯October 5, 2026 - [An AI Agent Hacked the Hackers: Two Zero-Days to Root in Seconds](https://medium.com/@vedanthore/an-ai-agent-hacked-the-hackers-two-zero-days-to-root-in-seconds-48a4c31c04b4?source=rss------bug_bounty-5) 
 
- - 💯October 4, 2026 - [How I Discovered CVE-2026–102628 — From a WHOIS Lookup to a CISA CVE](https://xhunter101.medium.com/how-i-discovered-cve-2026-102628-from-a-whois-lookup-to-a-cisa-cve-635835fa3971?source=rss------bug_bounty-5) 
+ - 💯October 5, 2026 - [One GraphQL Mutation Let Me Change Another User’s Alert Settings](https://medium.com/@nourammar877/one-graphql-mutation-let-me-change-another-users-alert-settings-a8ab6c1b4d2b?source=rss------bug_bounty-5) 
 
- - 💯October 4, 2026 - [Exploit-DB is DEAD !!!](https://medium.com/@securewithumer/exploit-db-is-dead-0e519c786367?source=rss------bug_bounty-5) 
+ - 💯October 5, 2026 - [Bypassing Bad-Word Filters with Unicode Homoglyphs](https://medium.com/@adhammedhat/bypassing-bad-word-filters-with-unicode-homoglyphs-7644420b127d?source=rss------bug_bounty-5) 
 
- - 💯October 4, 2026 - [LLM &amp; AI Red Teaming Roadmap](https://medium.com/@Rakeshjoshi7/llm-ai-red-teaming-roadmap-fa1e0fac0182?source=rss------bug_bounty-5) 
+ - 💯October 5, 2026 - [Burp Suite Is Not a Magic Button: How to Actually Think Like an AppSec Tester](https://medium.com/@clipp3r/burp-suite-is-not-a-magic-button-how-to-actually-think-like-an-appsec-tester-a5228a846f59?source=rss------bug_bounty-5) 
 
- - 💯October 4, 2026 - [Finding Interesting Assets Hidden in JavaScript](https://medium.com/@Rakeshjoshi7/finding-interesting-assets-hidden-in-javascript-0b38898eb14b?source=rss------bug_bounty-5) 
+ - 💯October 5, 2026 - [How a Campaign Name Became a No-Click Data Exfiltration Primitive: A Deep Dive into CSV Formula…](https://medium.com/@arminqk/how-a-campaign-name-became-a-no-click-data-exfiltration-primitive-a-deep-dive-into-csv-formula-c676516147cc?source=rss------bug_bounty-5) 
 
- - 💯October 4, 2026 - [5 Recon Mistakes That Waste Hours in Bug Bounty](https://medium.com/@Rakeshjoshi7/5-recon-mistakes-that-waste-hours-in-bug-bounty-7b530d2d19b8?source=rss------bug_bounty-5) 
+ - 💯October 5, 2026 - [AI Vulnerability That Silently Leaks Email to Attackers](https://donald-kimtai.medium.com/ai-vulnerability-that-silently-leaks-email-to-attackers-debf31f24671?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
