@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 7, 2026 - [Google Just Paused Its Bug Bounty. The Reason Is Something Every Beginner Needs to Understand.](https://medium.com/@riyalimba/google-just-paused-its-bug-bounty-the-reason-is-something-every-beginner-needs-to-understand-fb0ee9a0a3d3?source=rss------bug_bounty-5) 
+ - 💯October 8, 2026 - [Bug Bounty Programs Are Dying. The Data Says Something Nobody Wants to Admit.](https://medium.com/@riyalimba/bug-bounty-programs-are-dying-the-data-says-something-nobody-wants-to-admit-77570e07e750?source=rss------bug_bounty-5) 
 
- - 💯October 7, 2026 - [Critical BAC: IDOR + Weak Appointment Code Enables Unauthorized Appointment Cancellation…](https://kjulius.medium.com/critical-bac-idor-weak-appointment-code-enables-unauthorized-appointment-cancellation-5e145ced50ca?source=rss------bug_bounty-5) 
+ - 💯October 8, 2026 - [How One Student Earned $1,030 From an Adobe Bug: A Bugitrix Case Study](https://medium.com/@bugitrix/how-one-student-earned-1-030-from-an-adobe-bug-a-bugitrix-case-study-fd25a99bbb90?source=rss------bug_bounty-5) 
 
- - 💯October 7, 2026 - [From a Single Quote to SQL Injection: How I Discovered a Vulnerability in a University Web…](https://medium.com/@vignesh12/from-a-single-quote-to-sql-injection-how-i-discovered-a-vulnerability-in-a-university-web-752359f93cf9?source=rss------bug_bounty-5) 
+ - 💯October 8, 2026 - [How to Start Bug Hunting Using an Android Phone, Part-1](https://medium.com/@shawon22re/how-to-start-bug-hunting-using-an-android-phone-part-1-7c010740b0cc?source=rss------bug_bounty-5) 
 
- - 💯October 7, 2026 - [The Art of Escalating Vulnerabilities](https://medium.com/@rkvb/the-art-of-escalating-vulnerabilities-fca037815f4c?source=rss------bug_bounty-5) 
+ - 💯October 8, 2026 - [The Dot That Broke a Referral Program](https://ousski.medium.com/the-dot-that-broke-a-referral-program-5ac747ffcf6e?source=rss------bug_bounty-5) 
 
- - 💯October 7, 2026 - [Build Your Own Recon Tool in Python in Under 100 Lines](https://medium.com/@bughuntersjournal/build-your-own-recon-tool-in-python-in-under-100-lines-0d32dced26a6?source=rss------bug_bounty-5) 
+ - 💯October 8, 2026 - [$13,000 for a Filename Inside a Zip: Path Traversal During Archive Extraction to RCE](https://medium.com/@t4nv1/13-000-for-a-filename-inside-a-zip-path-traversal-during-archive-extraction-to-rce-d195aeb732ff?source=rss------bug_bounty-5) 
 
- - 💯October 7, 2026 - [The Bug Bounty Grind Changed. Signal Is the Only Currency Left.](https://infosecwriteups.com/the-bug-bounty-grind-changed-signal-is-the-only-currency-left-d28dc1fe4a40?source=rss------bug_bounty-5) 
+ - 💯October 8, 2026 - [How I Found a Session Hijacking Bug That Could Lead to Account Takeover | by Samadhan Shimple](https://samadhanshimple.medium.com/how-i-found-a-session-hijacking-bug-that-could-lead-to-account-takeover-by-samadhan-shimple-99f63c58ca7f?source=rss------bug_bounty-5) 
 
- - 💯October 7, 2026 - [$14,200 for a Filename With Too Many Characters: Command Injection in a Video Processing Pipeline](https://medium.com/@t4nv1/14-200-for-a-filename-with-too-many-characters-command-injection-in-a-video-processing-pipeline-a665a48ad9b0?source=rss------bug_bounty-5) 
+ - 💯October 7, 2026 - [How a Simple IDOR Earned $5,000 on Reddit](https://meetcyber.net/how-a-simple-idor-earned-5-000-on-reddit-8d1b15857b2b?source=rss------bug_bounty-5) 
 
- - 💯October 7, 2026 - [How I Discovered Blind SSRF in GitLab Leading to Localhost Access and RCE](https://mostafa0x.medium.com/how-i-discovered-blind-ssrf-in-gitlab-leading-to-localhost-access-and-rce-3cf075c22364?source=rss------bug_bounty-5) 
+ - 💯October 7, 2026 - [Prototype Pollution | The Masterclass: Client-Side vs. Server-Side](https://elusive1973.medium.com/prototype-pollution-the-masterclass-client-side-vs-server-side-94b7ba6f27e1?source=rss------bug_bounty-5) 
 
- - 💯October 7, 2026 - [Apriti Sesamo — picoCTF Write-up | Finding a Hidden Backup and Bypassing SHA-1 Validation](https://medium.com/@affanhaxor/apriti-sesamo-picoctf-write-up-finding-a-hidden-backup-and-bypassing-sha-1-validation-38a9ebeeb98a?source=rss------bug_bounty-5) 
+ - 💯October 7, 2026 - [How I Earned My First $$ Bounty from Google — And What I Learned](https://medium.com/@himxch/how-i-earned-my-first-bounty-from-google-and-what-i-learned-4952e25771e9?source=rss------bug_bounty-5) 
 
- - 💯October 7, 2026 - [Chapter 7 — The Binary Never Changed. So, How Did This Process ?](https://medium.com/@nishant.kumarr/chapter-7-the-binary-never-changed-so-how-did-this-process-093dd28c6a1d?source=rss------bug_bounty-5) 
+ - 💯October 7, 2026 - [PortSwigger Notes: Access Control Vulnerability Types and Analysis &lpar;Part 1&rpar;](https://medium.com/@furkannyildiizz05/portswigger-notes-access-control-vulnerability-types-and-analysis-part-1-47aaf04f6188?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
