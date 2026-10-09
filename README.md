@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 8, 2026 - [Bug Bounty Programs Are Dying. The Data Says Something Nobody Wants to Admit.](https://medium.com/@riyalimba/bug-bounty-programs-are-dying-the-data-says-something-nobody-wants-to-admit-77570e07e750?source=rss------bug_bounty-5) 
+ - 💯October 9, 2026 - [Bug Bounty Just Paid a Record $89 Million. Here’s the Number Nobody’s Celebrating.](https://medium.com/@riyalimba/bug-bounty-just-paid-a-record-89-million-heres-the-number-nobody-s-celebrating-83e2add89b55?source=rss------bug_bounty-5) 
 
- - 💯October 8, 2026 - [How One Student Earned $1,030 From an Adobe Bug: A Bugitrix Case Study](https://medium.com/@bugitrix/how-one-student-earned-1-030-from-an-adobe-bug-a-bugitrix-case-study-fd25a99bbb90?source=rss------bug_bounty-5) 
+ - 💯October 9, 2026 - [Android Penetration Testing: Zero to Hero](https://medium.com/@shambhukapadi43/android-penetration-testing-zero-to-hero-d13f10bd0e3d?source=rss------bug_bounty-5) 
 
- - 💯October 8, 2026 - [How to Start Bug Hunting Using an Android Phone, Part-1](https://medium.com/@shawon22re/how-to-start-bug-hunting-using-an-android-phone-part-1-7c010740b0cc?source=rss------bug_bounty-5) 
+ - 💯October 9, 2026 - [Google suspend son bug bounty open source submergé par l’IA](https://marcbarbezat.medium.com/google-suspend-son-bug-bounty-open-source-submerg%C3%A9-par-lia-8cb8f7724742?source=rss------bug_bounty-5) 
 
- - 💯October 8, 2026 - [The Dot That Broke a Referral Program](https://ousski.medium.com/the-dot-that-broke-a-referral-program-5ac747ffcf6e?source=rss------bug_bounty-5) 
+ - 💯October 9, 2026 - [$8,200 for Two Invisible Characters: CRLF Injection to Session Fixation](https://medium.com/@t4nv1/8-200-for-two-invisible-characters-crlf-injection-to-session-fixation-a885eeaa7ba9?source=rss------bug_bounty-5) 
 
- - 💯October 8, 2026 - [$13,000 for a Filename Inside a Zip: Path Traversal During Archive Extraction to RCE](https://medium.com/@t4nv1/13-000-for-a-filename-inside-a-zip-path-traversal-during-archive-extraction-to-rce-d195aeb732ff?source=rss------bug_bounty-5) 
+ - 💯October 9, 2026 - [Hacking the Hacking Platform: A Race Condition in a CTF Scoring System](https://ahmadmansourr.medium.com/hacking-the-hacking-platform-a-race-condition-in-a-ctf-scoring-system-314a6aa100e2?source=rss------bug_bounty-5) 
 
- - 💯October 8, 2026 - [How I Found a Session Hijacking Bug That Could Lead to Account Takeover | by Samadhan Shimple](https://samadhanshimple.medium.com/how-i-found-a-session-hijacking-bug-that-could-lead-to-account-takeover-by-samadhan-shimple-99f63c58ca7f?source=rss------bug_bounty-5) 
+ - 💯October 9, 2026 - [List of all Popular XSS Payloads](https://medium.com/@deependrasinghumath07/list-of-all-popular-xss-payloads-879994177468?source=rss------bug_bounty-5) 
 
- - 💯October 7, 2026 - [How a Simple IDOR Earned $5,000 on Reddit](https://meetcyber.net/how-a-simple-idor-earned-5-000-on-reddit-8d1b15857b2b?source=rss------bug_bounty-5) 
+ - 💯October 9, 2026 - [Old Root Password Still Grants Root Access in ***** Linux](https://medium.com/@nourammar877/old-root-password-still-grants-root-access-in-linux-9e9cd8a9a3f2?source=rss------bug_bounty-5) 
 
- - 💯October 7, 2026 - [Prototype Pollution | The Masterclass: Client-Side vs. Server-Side](https://elusive1973.medium.com/prototype-pollution-the-masterclass-client-side-vs-server-side-94b7ba6f27e1?source=rss------bug_bounty-5) 
+ - 💯October 9, 2026 - [Google Just Froze Its Bug Bounty Program. AI Slop Won.](https://osintteam.blog/google-just-froze-its-bug-bounty-program-ai-slop-won-264b1553ed5a?source=rss------bug_bounty-5) 
 
- - 💯October 7, 2026 - [How I Earned My First $$ Bounty from Google — And What I Learned](https://medium.com/@himxch/how-i-earned-my-first-bounty-from-google-and-what-i-learned-4952e25771e9?source=rss------bug_bounty-5) 
+ - 💯October 9, 2026 - [Forbidden Paths — picoCTF Write-up | Understanding Path Traversal in Web Applications](https://medium.com/@affanhaxor/forbidden-paths-picoctf-write-up-understanding-path-traversal-in-web-applications-b08dfacccecd?source=rss------bug_bounty-5) 
 
- - 💯October 7, 2026 - [PortSwigger Notes: Access Control Vulnerability Types and Analysis &lpar;Part 1&rpar;](https://medium.com/@furkannyildiizz05/portswigger-notes-access-control-vulnerability-types-and-analysis-part-1-47aaf04f6188?source=rss------bug_bounty-5) 
+ - 💯October 9, 2026 - [Bug Hunting Using an Android phone -Part 02](https://cybrox.medium.com/bug-hunting-using-an-android-phone-part-02-b50f649bbc21?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
