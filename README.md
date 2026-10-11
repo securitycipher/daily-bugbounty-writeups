@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 10, 2026 - [I Thought Knowing the Payloads Made Me a Hacker — I Was Wrong](https://medium.com/codetodeploy/i-thought-knowing-the-payloads-made-me-a-hacker-i-was-wrong-44d48045fa7f?source=rss------bug_bounty-5) 
+ - 💯October 11, 2026 - [PortSwigger Access Control Notes: Data Leakage, Password Disclosure, and File-Based IDOR](https://medium.com/@furkannyildiizz05/portswigger-access-control-notes-data-leakage-password-disclosure-and-file-based-idor-e1728925bba0?source=rss------bug_bounty-5) 
 
- - 💯October 10, 2026 - [I Tested an AI Chat API and Found a Missing Rate Limiting Vulnerability |by Samadhan Shimple](https://medium.com/penetration-testing-and-different-vulnerabilities/i-tested-an-ai-chat-api-and-found-a-missing-rate-limiting-vulnerability-by-samadhan-shimple-419452d0b14c?source=rss------bug_bounty-5) 
+ - 💯October 11, 2026 - [PortSwigger Access Control Masterclass: Veri Sızıntıları, Şifre İfşası ve Dosya IDOR Zafiyetleri](https://medium.com/@furkannyildiizz05/portswigger-access-control-masterclass-veri-s%C4%B1z%C4%B1nt%C4%B1lar%C4%B1-%C5%9Fifre-i%CC%87f%C5%9Fas%C4%B1-ve-dosya-idor-zafiyetleri-cfa51d445481?source=rss------bug_bounty-5) 
 
- - 💯October 10, 2026 - [Bug Bounty Is Changing Fast: AI Won’t Save You If You Don’t Know How to Hunt](https://xcryptographer.medium.com/bug-bounty-is-changing-fast-ai-wont-save-you-if-you-don-t-know-how-to-hunt-98e29fed9666?source=rss------bug_bounty-5) 
+ - 💯October 11, 2026 - [I Tracked Every Hour I Spent on Bug Bounty for 3 Months. The Result Made Me Want to Quit.](https://medium.com/@riyalimba/i-tracked-every-hour-i-spent-on-bug-bounty-for-3-months-the-result-made-me-want-to-quit-b52a0abca4cf?source=rss------bug_bounty-5) 
 
- - 💯October 10, 2026 - [One-Click Account Deletion: How a Direct Link Can Instantly Delete an Authenticated User’s Account](https://medium.com/@0xfalcon7/one-click-account-deletion-how-a-direct-link-can-instantly-delete-an-authenticated-users-account-4fb7c054fa3c?source=rss------bug_bounty-5) 
+ - 💯October 11, 2026 - [Strix AI Agent Setup on Kali Linux — Bug Bounty &amp; Penetration Testing](https://mohamedalgabry.medium.com/strix-ai-agent-setup-on-kali-linux-bug-bounty-penetration-testing-fd63b1a6f9cf?source=rss------bug_bounty-5) 
 
- - 💯October 10, 2026 - [$9,600 for Trusting a Header the Client Writes: Password Reset Poisoning via Host Header Injection](https://medium.com/@t4nv1/9-600-for-trusting-a-header-the-client-writes-password-reset-poisoning-via-host-header-injection-d0f91707c2cd?source=rss------bug_bounty-5) 
+ - 💯October 11, 2026 - [$7,000 for a Handshake Nobody Checked: Cross-Site WebSocket Hijacking](https://medium.com/@t4nv1/7-000-for-a-handshake-nobody-checked-cross-site-websocket-hijacking-e3fe8321a5c0?source=rss------bug_bounty-5) 
 
- - 💯October 10, 2026 - [Chapter 2 CTF{Sanity}](https://medium.com/@skumarjala/chapter-2-ctf-sanity-12c518a9c9df?source=rss------bug_bounty-5) 
+ - 💯October 11, 2026 - [My First Bug Bounty: How I Found Leaked Credentials in NASA’s Git History](https://infosecwriteups.com/my-first-bug-bounty-how-i-found-leaked-credentials-in-nasas-git-history-785316ba7eb8?source=rss------bug_bounty-5) 
 
- - 💯October 10, 2026 - [Smali By bithowl: Chapter 14 Fields](https://medium.com/@bithowl/smali-by-bithowl-chapter-14-fields-6e455999a654?source=rss------bug_bounty-5) 
+ - 💯October 11, 2026 - [How I Broke An Invoicing App: The Story of My First CVE](https://medium.com/@udaypali134/how-i-broke-an-invoicing-app-the-story-of-my-first-cve-972ca7a499bf?source=rss------bug_bounty-5) 
 
- - 💯October 10, 2026 - [How to Map an Organization’s IP Ranges Using ASNMap and MapCIDR | by Samadhan Shimple](https://radiohackers.com/how-to-map-an-organizations-ip-ranges-using-asnmap-and-mapcidr-by-samadhan-shimple-9d030262d20a?source=rss------bug_bounty-5) 
+ - 💯October 11, 2026 - [Visible Error-Based SQL Injection: A PortSwigger Lab Walkthrough](https://medium.com/@tagmadiyadhrupal10/visible-error-based-sql-injection-a-portswigger-lab-walkthrough-4fbb0c13d9cf?source=rss------bug_bounty-5) 
 
- - 💯October 10, 2026 - [CVE-2026–93485 Explained: How One WordPress Comment Can Hand Over the Server](https://medium.com/@guidancewhite/cve-2026-93485-explained-how-one-wordpress-comment-can-hand-over-the-server-e3e3725e7d88?source=rss------bug_bounty-5) 
+ - 💯October 11, 2026 - [What Hackers Are Actually Finding in 2026: I Went Through the Bug Bounty Reports So You Don’t Have…](https://osintteam.blog/what-hackers-are-actually-finding-in-2026-i-went-through-the-bug-bounty-reports-so-you-dont-have-5eb37e2ea671?source=rss------bug_bounty-5) 
 
- - 💯October 9, 2026 - [15 Bug Hunting Tips That Actually Work in 2026](https://meetcyber.net/15-bug-hunting-tips-that-actually-work-in-2026-bc460d559e5b?source=rss------bug_bounty-5) 
+ - 💯October 11, 2026 - [Nobody Bans AI Bug Reports. You Can Still Get Permanently Banned.](https://meetcyber.net/nobody-bans-ai-bug-reports-you-can-still-get-permanently-banned-57cf614733ad?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
