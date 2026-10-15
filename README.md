@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 14, 2026 - [How I found a Zero-Click Account Tack over via password rest link](https://cyghost.medium.com/how-i-found-a-zero-click-account-tack-over-via-password-rest-link-9f4eafbc9009?source=rss------bug_bounty-5) 
+ - 💯October 15, 2026 - [How a Free Trial Led to Broken Access Control](https://medium.com/@a7medsalah169/how-a-free-trial-led-to-broken-access-control-537488544be0?source=rss------bug_bounty-5) 
 
- - 💯October 14, 2026 - [$18,000 for a Serialized String in a Cookie: PHP Object Injection to Remote Code Execution](https://medium.com/@t4nv1/18-000-for-a-serialized-string-in-a-cookie-php-object-injection-to-remote-code-execution-952d271971e0?source=rss------bug_bounty-5) 
+ - 💯October 15, 2026 - [Major Airline Data Dump](https://medium.com/@l4zz3rj0d/major-airline-data-dump-e64209f29f76?source=rss------bug_bounty-5) 
 
- - 💯October 14, 2026 - [One Random Search Led Me to Exposed PDFs During a Bug Bounty Hunt](https://medium.com/@mansigolecha84_17480/one-random-search-led-me-to-exposed-pdfs-during-a-bug-bounty-hunt-25c16e7bec22?source=rss------bug_bounty-5) 
+ - 💯October 15, 2026 - [Bug Bounty Automation Toolkit 2026: Why Faster Recon Finds Fewer Bugs — And What Works Instead](https://medium.com/@R.H_Rizvi/bug-bounty-automation-toolkit-2026-why-faster-recon-finds-fewer-bugs-and-what-works-instead-96e391d17536?source=rss------bug_bounty-5) 
 
- - 💯October 14, 2026 - [Session Invalidation Testing with BurpSuite: Can You Still Modify an Account After Logout?](https://infosecwriteups.com/session-invalidation-testing-with-burpsuite-can-you-still-modify-an-account-after-logout-590d622b9ad5?source=rss------bug_bounty-5) 
+ - 💯October 15, 2026 - [I Stopped Collecting Hacker Tools and Started Building a Workflow](https://medium.com/codetodeploy/i-stopped-collecting-hacker-tools-and-started-building-a-workflow-6ace27a72a14?source=rss------bug_bounty-5) 
 
- - 💯October 14, 2026 - [Harmless Link Becomes RCE](https://bugatsec.medium.com/harmless-link-becomes-rce-78a55827ce26?source=rss------bug_bounty-5) 
+ - 💯October 15, 2026 - [An Email Address Was Enough: Two Account Deletion Findings Worth $850](https://medium.com/@papjm/an-email-address-was-enough-two-account-deletion-findings-worth-850-89037f87dbc0?source=rss------bug_bounty-5) 
 
- - 💯October 14, 2026 - [One File, Zero Clicks Needed: A Stored DoS Story](https://medium.com/@devyanipardesh7010/one-file-zero-clicks-needed-a-stored-dos-story-68725c5703c3?source=rss------bug_bounty-5) 
+ - 💯October 15, 2026 - [I Spent Three Hours Looking in the Wrong Place for One Vulnerability](https://medium.com/codetodeploy/i-spent-three-hours-looking-in-the-wrong-place-for-one-vulnerability-d88f671825be?source=rss------bug_bounty-5) 
 
- - 💯October 14, 2026 - [Irish-Name-Repo 1 : CTF Write-up | SQL Injection Authentication Bypass](https://medium.com/@affanhaxor/irish-name-repo-1-ctf-write-up-sql-injection-authentication-bypass-0460b16fd146?source=rss------bug_bounty-5) 
+ - 💯October 15, 2026 - [$9,000 for a Bucket That Trusted the Wrong Thing: Cloud Storage IDOR Exposing Every User’s Files](https://medium.com/@t4nv1/9-000-for-a-bucket-that-trusted-the-wrong-thing-cloud-storage-idor-exposing-every-users-files-a8d70c95bd25?source=rss------bug_bounty-5) 
 
- - 💯October 14, 2026 - [Google Dorking: How I Use Search Engines to Find Hidden Vulnerabilities](https://osintteam.blog/google-dorking-how-i-use-search-engines-to-find-hidden-vulnerabilities-cb6e483f70c0?source=rss------bug_bounty-5) 
+ - 💯October 15, 2026 - [Frontend ↔ Backend Communication: A Security-Focused Guide](https://mohamedalgabry.medium.com/frontend-backend-communication-a-security-focused-guide-f4dd6725cc5c?source=rss------bug_bounty-5) 
 
- - 💯October 14, 2026 - [How to Discover Hidden API Endpoints Using JavaScript Analysis](https://osintteam.blog/how-to-discover-hidden-api-endpoints-using-javascript-analysis-2e59a9389ff5?source=rss------bug_bounty-5) 
+ - 💯October 15, 2026 - [QA Solucity Challenge: Can You Spot the Flaws in This Checkout Page?](https://medium.com/@qasolucity/qa-solucity-challenge-can-you-spot-the-flaws-in-this-checkout-page-f960b4292350?source=rss------bug_bounty-5) 
 
- - 💯October 14, 2026 - [The Company’s Secrets Are on GitHub, and Nobody Noticed Yet](https://osintteam.blog/the-companys-secrets-are-on-github-and-nobody-noticed-yet-4fcd94fbfa27?source=rss------bug_bounty-5) 
+ - 💯October 15, 2026 - [The Anatomy of a Data Leak: Extracting GPS Coordinates from Image Metadata | by Samadhan Shimple](https://samadhanshimple.medium.com/the-anatomy-of-a-data-leak-extracting-gps-coordinates-from-image-metadata-by-samadhan-shimple-ac9b60f8c35a?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
