@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 15, 2026 - [How a Free Trial Led to Broken Access Control](https://medium.com/@a7medsalah169/how-a-free-trial-led-to-broken-access-control-537488544be0?source=rss------bug_bounty-5) 
+ - 💯October 16, 2026 - [$6,500 for a Regex That Couldn’t Say No: ReDoS in an Email Validation Field](https://medium.com/@t4nv1/6-500-for-a-regex-that-couldnt-say-no-redos-in-an-email-validation-field-93a75bfb3d8a?source=rss------bug_bounty-5) 
 
- - 💯October 15, 2026 - [Major Airline Data Dump](https://medium.com/@l4zz3rj0d/major-airline-data-dump-e64209f29f76?source=rss------bug_bounty-5) 
+ - 💯October 16, 2026 - [Is Your Web App Leaking Files?](https://radiohackers.com/is-your-web-app-leaking-files-d712c659367b?source=rss------bug_bounty-5) 
 
- - 💯October 15, 2026 - [Bug Bounty Automation Toolkit 2026: Why Faster Recon Finds Fewer Bugs — And What Works Instead](https://medium.com/@R.H_Rizvi/bug-bounty-automation-toolkit-2026-why-faster-recon-finds-fewer-bugs-and-what-works-instead-96e391d17536?source=rss------bug_bounty-5) 
+ - 💯October 16, 2026 - [How a Public S3 Bucket Exposed Sensitive Data](https://medium.com/@iamsaad360/how-a-public-s3-bucket-exposed-sensitive-data-63c76c0ba76d?source=rss------bug_bounty-5) 
 
- - 💯October 15, 2026 - [I Stopped Collecting Hacker Tools and Started Building a Workflow](https://medium.com/codetodeploy/i-stopped-collecting-hacker-tools-and-started-building-a-workflow-6ace27a72a14?source=rss------bug_bounty-5) 
+ - 💯October 16, 2026 - [Manual Testing vs Automation: Which Finds Better Bugs?](https://medium.com/@haroon_shahid/manual-testing-vs-automation-which-finds-better-bugs-11bb1852dadb?source=rss------bug_bounty-5) 
 
- - 💯October 15, 2026 - [An Email Address Was Enough: Two Account Deletion Findings Worth $850](https://medium.com/@papjm/an-email-address-was-enough-two-account-deletion-findings-worth-850-89037f87dbc0?source=rss------bug_bounty-5) 
+ - 💯October 16, 2026 - [Write-Up: How I Found a Business Logic Flaw That Permanently Orphaned Teams on a Developer Platform](https://medium.com/@atefm5667/write-up-how-i-found-a-business-logic-flaw-that-permanently-orphaned-teams-on-a-developer-platform-6be675083192?source=rss------bug_bounty-5) 
 
- - 💯October 15, 2026 - [I Spent Three Hours Looking in the Wrong Place for One Vulnerability](https://medium.com/codetodeploy/i-spent-three-hours-looking-in-the-wrong-place-for-one-vulnerability-d88f671825be?source=rss------bug_bounty-5) 
+ - 💯October 15, 2026 - [Broken Access Control in a Study Platform’s Class Materials API When “Delete My Own Stuff” Became “D](https://medium.com/@yasser0hamoda1/broken-access-control-in-a-study-platforms-class-materials-api-when-delete-my-own-stuff-became-d-89160bd2c583?source=rss------bug_bounty-5) 
 
- - 💯October 15, 2026 - [$9,000 for a Bucket That Trusted the Wrong Thing: Cloud Storage IDOR Exposing Every User’s Files](https://medium.com/@t4nv1/9-000-for-a-bucket-that-trusted-the-wrong-thing-cloud-storage-idor-exposing-every-users-files-a8d70c95bd25?source=rss------bug_bounty-5) 
+ - 💯October 15, 2026 - [Stored XSS in an Admin Alert Component via an Admin-Editable Store Name](https://medium.com/@zyadatef2462003/stored-xss-in-an-admin-alert-component-via-an-admin-editable-store-name-2bbc910e2fe4?source=rss------bug_bounty-5) 
 
- - 💯October 15, 2026 - [Frontend ↔ Backend Communication: A Security-Focused Guide](https://mohamedalgabry.medium.com/frontend-backend-communication-a-security-focused-guide-f4dd6725cc5c?source=rss------bug_bounty-5) 
+ - 💯October 15, 2026 - [Clickjacking: When the User Clicks Without Knowing](https://medium.com/@raksharoot/clickjacking-when-the-user-clicks-without-knowing-d2c4ca346d4d?source=rss------bug_bounty-5) 
 
- - 💯October 15, 2026 - [QA Solucity Challenge: Can You Spot the Flaws in This Checkout Page?](https://medium.com/@qasolucity/qa-solucity-challenge-can-you-spot-the-flaws-in-this-checkout-page-f960b4292350?source=rss------bug_bounty-5) 
-
- - 💯October 15, 2026 - [The Anatomy of a Data Leak: Extracting GPS Coordinates from Image Metadata | by Samadhan Shimple](https://samadhanshimple.medium.com/the-anatomy-of-a-data-leak-extracting-gps-coordinates-from-image-metadata-by-samadhan-shimple-ac9b60f8c35a?source=rss------bug_bounty-5) 
+ - 💯October 15, 2026 - [AWS STS AssumeRole Explained: How Temporary Credentials Work and What Security Researchers Should…](https://medium.com/@paraskhorwal9/aws-sts-assumerole-explained-how-temporary-credentials-work-and-what-security-researchers-should-4b99a49b243f?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
