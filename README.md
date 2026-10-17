@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 16, 2026 - [$6,500 for a Regex That Couldn’t Say No: ReDoS in an Email Validation Field](https://medium.com/@t4nv1/6-500-for-a-regex-that-couldnt-say-no-redos-in-an-email-validation-field-93a75bfb3d8a?source=rss------bug_bounty-5) 
+ - 💯October 17, 2026 - [BUGPILOT](https://medium.com/@imharshitaa/bugpilot-6a5ab0e11dc1?source=rss------bug_bounty-5) 
 
- - 💯October 16, 2026 - [Is Your Web App Leaking Files?](https://radiohackers.com/is-your-web-app-leaking-files-d712c659367b?source=rss------bug_bounty-5) 
+ - 💯October 17, 2026 - [Web Cache Deception: How A GraphQL Query in the Archives Led Me to Cached Profile Data](https://medium.com/@papjm/web-cache-deception-how-a-graphql-query-in-the-archives-led-me-to-cached-profile-data-72fae6e03570?source=rss------bug_bounty-5) 
 
- - 💯October 16, 2026 - [How a Public S3 Bucket Exposed Sensitive Data](https://medium.com/@iamsaad360/how-a-public-s3-bucket-exposed-sensitive-data-63c76c0ba76d?source=rss------bug_bounty-5) 
+ - 💯October 17, 2026 - [My Bug Bounty Report Was Marked N/A. Then I Received $1,200.](https://medium.com/@hacker-zero/my-bug-bounty-report-was-marked-n-a-then-i-received-1-200-457508133978?source=rss------bug_bounty-5) 
 
- - 💯October 16, 2026 - [Manual Testing vs Automation: Which Finds Better Bugs?](https://medium.com/@haroon_shahid/manual-testing-vs-automation-which-finds-better-bugs-11bb1852dadb?source=rss------bug_bounty-5) 
+ - 💯October 17, 2026 - [Smali By bithowl: Chapter 15 Move Instructions](https://medium.com/@bithowl/smali-by-bithowl-chapter-15-move-instructions-69d7155a3b63?source=rss------bug_bounty-5) 
 
- - 💯October 16, 2026 - [Write-Up: How I Found a Business Logic Flaw That Permanently Orphaned Teams on a Developer Platform](https://medium.com/@atefm5667/write-up-how-i-found-a-business-logic-flaw-that-permanently-orphaned-teams-on-a-developer-platform-6be675083192?source=rss------bug_bounty-5) 
+ - 💯October 17, 2026 - [$12,000 for Listening to How Long ‘No’ Takes: A Timing Attack That Recovered a Secret API Key](https://medium.com/@t4nv1/12-000-for-listening-to-how-long-no-takes-a-timing-attack-that-recovered-a-secret-api-key-b45f45acf2ef?source=rss------bug_bounty-5) 
 
- - 💯October 15, 2026 - [Broken Access Control in a Study Platform’s Class Materials API When “Delete My Own Stuff” Became “D](https://medium.com/@yasser0hamoda1/broken-access-control-in-a-study-platforms-class-materials-api-when-delete-my-own-stuff-became-d-89160bd2c583?source=rss------bug_bounty-5) 
+ - 💯October 17, 2026 - [20 Flask Security Mistakes Every Developer Should Understand &lpar;and Fix&rpar;](https://medium.com/@verylazytech/20-flask-security-mistakes-every-developer-should-understand-and-fix-cf9742ac3cb3?source=rss------bug_bounty-5) 
 
- - 💯October 15, 2026 - [Stored XSS in an Admin Alert Component via an Admin-Editable Store Name](https://medium.com/@zyadatef2462003/stored-xss-in-an-admin-alert-component-via-an-admin-editable-store-name-2bbc910e2fe4?source=rss------bug_bounty-5) 
+ - 💯October 16, 2026 - [My Complete Hunting Methodology: From First Recon to First Bounty](https://osintteam.blog/my-complete-hunting-methodology-from-first-recon-to-first-bounty-eb5a3c5bb6e8?source=rss------bug_bounty-5) 
 
- - 💯October 15, 2026 - [Clickjacking: When the User Clicks Without Knowing](https://medium.com/@raksharoot/clickjacking-when-the-user-clicks-without-knowing-d2c4ca346d4d?source=rss------bug_bounty-5) 
+ - 💯October 16, 2026 - [Smart Contract Vulnerabilities —Reentrancy Attack — Part III](https://osintteam.blog/smart-contract-vulnerabilities-reentrancy-attack-part-iii-c14bf4c98417?source=rss------bug_bounty-5) 
 
- - 💯October 15, 2026 - [AWS STS AssumeRole Explained: How Temporary Credentials Work and What Security Researchers Should…](https://medium.com/@paraskhorwal9/aws-sts-assumerole-explained-how-temporary-credentials-work-and-what-security-researchers-should-4b99a49b243f?source=rss------bug_bounty-5) 
+ - 💯October 16, 2026 - [$1,000 in bug bounties.](https://medium.com/@Muhammad_Wageh/1-000-in-bug-bounties-5b9c7929cefd?source=rss------bug_bounty-5) 
+
+ - 💯October 16, 2026 - [IDOR + RBAC Vulnerability: Finding the Attack Scenario That Earned Me $100](https://medium.com/@Muhammad_Wageh/idor-rbac-vulnerability-finding-the-attack-scenario-that-earned-me-100-b4bcb20c3223?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
