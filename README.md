@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 18, 2026 - [I Couldn’t Read the Chat, So I Invited Someone Who Could](https://medium.com/@Tyrion404/i-couldnt-read-the-chat-so-i-invited-someone-who-could-105025a7d5ac?source=rss------bug_bounty-5) 
+ - 💯October 19, 2026 - [$15,000 Write-Up: Unauthenticated Temporal on a Yahoo News Cluster](https://medium.com/@hi.david60/15-000-write-up-unauthenticated-temporal-on-a-yahoo-news-cluster-22598760812f?source=rss------bug_bounty-5) 
 
- - 💯October 18, 2026 - [playwright mcp 설치 가이드](https://medium.com/@2jw2534/playwright-mcp-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C-e234dfbc60b5?source=rss------bug_bounty-5) 
+ - 💯October 19, 2026 - [Cómo uso Burp AT para Automatizar Tareas de Testing Manual](https://medium.com/@soyelmago/c%C3%B3mo-uso-burp-at-para-automatizar-tareas-de-testing-manual-5556734abf8f?source=rss------bug_bounty-5) 
 
- - 💯October 18, 2026 - [API Security Testing Guide Using Burp Suite: A Practical Methodology](https://osintteam.blog/api-security-testing-guide-using-burp-suite-a-practical-methodology-4ce8305b0fa5?source=rss------bug_bounty-5) 
+ - 💯October 19, 2026 - [How Email-Change Token Exposure Led to Access to To Private Repositories](https://meetcyber.net/how-email-change-token-exposure-led-to-access-to-to-private-repositories-59b7f523c4c4?source=rss------bug_bounty-5) 
 
- - 💯October 18, 2026 - [How I Find Hidden Vulnerabilities Inside JavaScript Files: Step-by-Step Bug Bounty Guide](https://osintteam.blog/how-i-find-hidden-vulnerabilities-inside-javascript-files-step-by-step-bug-bounty-guide-9e0521e3147c?source=rss------bug_bounty-5) 
+ - 💯October 19, 2026 - [SSRF to Full Compromise: How One Bug Exposes Everything | by Samadhan Shimple](https://infosecwriteups.com/ssrf-to-full-compromise-how-one-bug-exposes-everything-by-samadhan-shimple-54d650f9ed0a?source=rss------bug_bounty-5) 
 
- - 💯October 18, 2026 - [How I Bypassed a Region-Locked Comment Feature on a Public Bug Bounty Program](https://medium.com/@mostafa23110006/how-i-bypassed-a-region-locked-comment-feature-on-a-public-bug-bounty-program-b5c65fdfe67b?source=rss------bug_bounty-5) 
+ - 💯October 19, 2026 - [The User Changed One ID. I Tested What the Server Actually Trusted.](https://medium.com/@clipp3r/the-user-changed-one-id-i-tested-what-the-server-actually-trusted-6bbf3c5e821f?source=rss------bug_bounty-5) 
 
- - 💯October 18, 2026 - [Bug Hunting on Android: Finding an Old Session Bug After Password Change](https://cybrox.medium.com/bug-hunting-on-android-finding-an-old-session-bug-after-password-change-0d5be3ec4615?source=rss------bug_bounty-5) 
+ - 💯October 19, 2026 - [6,820 Subdomains And One 403 That Broke Me](https://kd-200.medium.com/6-820-subdomains-and-one-403-that-broke-me-5ab026254665?source=rss------bug_bounty-5) 
 
- - 💯October 18, 2026 - [Deathnote &lpar;VulnHub&rpar;: You Won’t Be Able to Kill Me](https://0xmahmudul.medium.com/deathnote-vulnhub-you-wont-be-able-to-kill-me-abb9d00bc167?source=rss------bug_bounty-5) 
+ - 💯October 19, 2026 - [The Tools Didn’t Make Me Better. The Experiments Did.](https://medium.com/codetodeploy/the-tools-didnt-make-me-better-the-experiments-did-eef0155f3ad8?source=rss------bug_bounty-5) 
 
- - 💯October 18, 2026 - [Claude Code Fixed One Bug and Created Two More](https://medium.com/codetodeploy/claude-code-fixed-one-bug-and-created-two-more-b05b2dee593e?source=rss------bug_bounty-5) 
+ - 💯October 19, 2026 - [I Built a Website From Scratch, Then Tested It Like an Attacker](https://medium.com/codetodeploy/i-built-a-website-from-scratch-then-tested-it-like-an-attacker-d4ef22fb83ad?source=rss------bug_bounty-5) 
 
- - 💯October 18, 2026 - [The Form Said No, the API Said Yes: The Story of My Second CVE](https://medium.com/@udaypali134/the-form-said-no-the-api-said-yes-the-story-of-my-second-cve-1974621acba0?source=rss------bug_bounty-5) 
+ - 💯October 19, 2026 - [I Tried Using Claude Code for Bug Bounty Recon. Here’s What I Learned](https://medium.com/codetodeploy/i-tried-using-claude-code-for-bug-bounty-recon-heres-what-i-learned-e11b2c966177?source=rss------bug_bounty-5) 
 
- - 💯October 18, 2026 - [$9,800 for Sending the Same Parameter Twice: An HTTP Parameter Pollution Story That Bypassed a…](https://medium.com/@t4nv1/9-800-for-sending-the-same-parameter-twice-an-http-parameter-pollution-story-that-bypassed-a-4fe6c3e15209?source=rss------bug_bounty-5) 
+ - 💯October 19, 2026 - [Business Logic Flaws That Pay More Than SQLi — And How to Find Them](https://medium.com/@bughuntersjournal/business-logic-flaws-that-pay-more-than-sqli-and-how-to-find-them-29de26b3cc93?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
