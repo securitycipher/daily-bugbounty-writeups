@@ -2,21 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 24, 2026 - [I Built A Tool Because I Was Tired Of Typing](https://kd-200.medium.com/i-built-a-tool-because-i-was-tired-of-typing-0c32e3a537cd?source=rss------bug_bounty-5) 
+ - 💯October 25, 2026 - [Eight Doors, One Key: Chaining Misconfigurations into Full Account Takeover](https://medium.com/@atifwrite/eight-doors-one-key-chaining-misconfigurations-into-full-account-takeover-d39b638ec00d?source=rss------bug_bounty-5) 
 
- - 💯October 24, 2026 - [The “Bug” that is on 80% of WordPress sites but that pay only 1/2 times | Bug Bounty Story](https://medium.com/@sadinfinite/the-bug-that-is-on-80-of-wordpress-sites-but-that-pay-only-1-2-times-bug-bounty-story-f98506a146e7?source=rss------bug_bounty-5) 
+ - 💯October 25, 2026 - [My First $ From Real Bug — And It Was Very Simple](https://meetcyber.net/my-first-from-real-bug-and-it-was-very-simple-60cf697649f0?source=rss------bug_bounty-5) 
 
- - 💯October 24, 2026 - [My Bug Bounty Comeback: Two Findings, Two Lessons Learned](https://doordiefordream.medium.com/my-bug-bounty-comeback-two-findings-two-lessons-learned-bcf4f7f6ae39?source=rss------bug_bounty-5) 
+ - 💯October 25, 2026 - [Web LLM Attacks: Turning a Chatbot’s “Helpfulness” Into Account Takeover](https://xalgord.medium.com/web-llm-attacks-turning-a-chatbots-helpfulness-into-account-takeover-bc04952804db?source=rss------bug_bounty-5) 
 
- - 💯October 24, 2026 - [Smali By bithowl: Chapter 16 Return Instructions](https://medium.com/@bithowl/smali-by-bithowl-chapter-16-return-instructions-150275e64872?source=rss------bug_bounty-5) 
+ - 💯October 25, 2026 - [$11,000 for Two Login Flows That Shared a Memory: A Session Puzzling Bug That Skipped MFA Entirely](https://medium.com/@t4nv1/11-000-for-two-login-flows-that-shared-a-memory-a-session-puzzling-bug-that-skipped-mfa-entirely-4636eba36d09?source=rss------bug_bounty-5) 
 
- - 💯October 24, 2026 - [$10,200 for a Link That Opened the Wrong App’s Trust: Mobile Deep Link Hijacking to Account…](https://medium.com/@t4nv1/10-200-for-a-link-that-opened-the-wrong-apps-trust-mobile-deep-link-hijacking-to-account-b080d4f993bf?source=rss------bug_bounty-5) 
+ - 💯October 25, 2026 - [P2 Vulnerability : IDOR Exposes Other Users’ Personal Data](https://medium.com/@akashmotkar001/p2-vulnerability-idor-exposes-other-users-personal-data-69eaeeeb6b97?source=rss------bug_bounty-5) 
 
- - 💯October 24, 2026 - [October 2026 Cyber Timeline](https://nitingavhane.medium.com/october-2026-cyber-timeline-21324f29eb99?source=rss------bug_bounty-5) 
+ - 💯October 25, 2026 - [From P4 to P1 — Day 2: Technology and Server Version Disclosure in Bug Bounty Hunting](https://medium.com/@cyb3rD1vvya/from-p4-to-p1-day-2-technology-and-server-version-disclosure-in-bug-bounty-hunting-3bfe9f91c1f0?source=rss------bug_bounty-5) 
 
- - 💯October 24, 2026 - [The Ultimate Guide to SSRF: Hunting, Bypassing and Exploiting in Modern Bug Bounty](https://lostsec.medium.com/the-ultimate-guide-to-ssrf-hunting-bypassing-and-exploiting-in-modern-bug-bounty-a43fa34ba324?source=rss------bug_bounty-5) 
+ - 💯October 25, 2026 - [PHP2Shell: When a Memory Bug Turns Into Remote Code Execution](https://hackliva.medium.com/php2shell-when-a-memory-bug-turns-into-remote-code-execution-563dda8a9af9?source=rss------bug_bounty-5) 
 
- - 💯October 24, 2026 - [HTTP Request Smuggling: How One Ambiguous Byte Desyncs the Entire Web](https://xalgord.medium.com/http-request-smuggling-how-one-ambiguous-byte-desyncs-the-entire-web-59e3705604f1?source=rss------bug_bounty-5) 
+ - 💯October 25, 2026 - [I Automated My Entire Bug Bounty Recon :One Script, Start to Finish](https://osintteam.blog/i-automated-my-entire-bug-bounty-recon-one-script-start-to-finish-d3f45a628b59?source=rss------bug_bounty-5) 
 
- - 💯October 24, 2026 - [Blind SSRF Isn’t Blind If You Build the Channel Back](https://rajnamdev.medium.com/blind-ssrf-isnt-blind-if-you-build-the-channel-back-e66d317f606a?source=rss------bug_bounty-5) 
+ - 💯October 24, 2026 - [PHP2Shell: Two Critical Vulnerabilities That Could Let Attackers Take Over Web Servers](https://medium.com/@munnaza.cyber/php2shell-two-critical-vulnerabilities-that-could-let-attackers-take-over-web-servers-65fd888fdeea?source=rss------bug_bounty-5) 
+
+ - 💯October 24, 2026 - [Reading 400 Million Git Pushes: GitHub OSINT at Full Population](https://osintteam.blog/reading-400-million-git-pushes-github-osint-at-full-population-2fc279e0612b?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
