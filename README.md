@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯October 25, 2026 - [Eight Doors, One Key: Chaining Misconfigurations into Full Account Takeover](https://medium.com/@atifwrite/eight-doors-one-key-chaining-misconfigurations-into-full-account-takeover-d39b638ec00d?source=rss------bug_bounty-5) 
+ - 💯October 26, 2026 - [SSRF Attacks Explained: From Zero to Cloud Credential Theft Complete Bug Bounty Guide](https://osintteam.blog/ssrf-attacks-explained-from-zero-to-cloud-credential-theft-complete-bug-bounty-guide-bbf3d78f5391?source=rss------bug_bounty-5) 
 
- - 💯October 25, 2026 - [My First $ From Real Bug — And It Was Very Simple](https://meetcyber.net/my-first-from-real-bug-and-it-was-very-simple-60cf697649f0?source=rss------bug_bounty-5) 
+ - 💯October 26, 2026 - [The README that can turn a coding agent against its owner](https://osintteam.blog/the-readme-that-can-turn-a-coding-agent-against-its-owner-9faa6870aa4d?source=rss------bug_bounty-5) 
 
- - 💯October 25, 2026 - [Web LLM Attacks: Turning a Chatbot’s “Helpfulness” Into Account Takeover](https://xalgord.medium.com/web-llm-attacks-turning-a-chatbots-helpfulness-into-account-takeover-bc04952804db?source=rss------bug_bounty-5) 
+ - 💯October 26, 2026 - [What Real HackerOne XSS Reports Teach You That Tutorials Don’t](https://medium.com/h7w/what-real-hackerone-xss-reports-teach-you-that-tutorials-dont-edff6388e14d?source=rss------bug_bounty-5) 
 
- - 💯October 25, 2026 - [$11,000 for Two Login Flows That Shared a Memory: A Session Puzzling Bug That Skipped MFA Entirely](https://medium.com/@t4nv1/11-000-for-two-login-flows-that-shared-a-memory-a-session-puzzling-bug-that-skipped-mfa-entirely-4636eba36d09?source=rss------bug_bounty-5) 
+ - 💯October 26, 2026 - [Critical Account Takeover via CSRF Header Bypass](https://medium.com/@Alharbe0/critical-account-takeover-via-csrf-header-bypass-ccd65910c51c?source=rss------bug_bounty-5) 
 
- - 💯October 25, 2026 - [P2 Vulnerability : IDOR Exposes Other Users’ Personal Data](https://medium.com/@akashmotkar001/p2-vulnerability-idor-exposes-other-users-personal-data-69eaeeeb6b97?source=rss------bug_bounty-5) 
+ - 💯October 26, 2026 - [Finding a Smart Contract Bug Is One Thing. Proving It’s Exploitable Is Another.](https://medium.com/@minto258/finding-a-smart-contract-bug-is-one-thing-proving-its-exploitable-is-another-02f5d0eddbc4?source=rss------bug_bounty-5) 
 
- - 💯October 25, 2026 - [From P4 to P1 — Day 2: Technology and Server Version Disclosure in Bug Bounty Hunting](https://medium.com/@cyb3rD1vvya/from-p4-to-p1-day-2-technology-and-server-version-disclosure-in-bug-bounty-hunting-3bfe9f91c1f0?source=rss------bug_bounty-5) 
+ - 💯October 26, 2026 - [AI Agents, Explained Without the Hype.](https://medium.com/@josephomeizajames/ai-agents-explained-without-the-hype-c27b9d11e1b0?source=rss------bug_bounty-5) 
 
- - 💯October 25, 2026 - [PHP2Shell: When a Memory Bug Turns Into Remote Code Execution](https://hackliva.medium.com/php2shell-when-a-memory-bug-turns-into-remote-code-execution-563dda8a9af9?source=rss------bug_bounty-5) 
+ - 💯October 26, 2026 - [Hextree’s Unfriendly Notes Backup Challenge Writeup: Exploiting an Unprotected AIDL Service](https://medium.com/@anaselsaba123/hextrees-unfriendly-notes-backup-challenge-writeup-exploiting-an-unprotected-aidl-service-48c263333ea0?source=rss------bug_bounty-5) 
 
- - 💯October 25, 2026 - [I Automated My Entire Bug Bounty Recon :One Script, Start to Finish](https://osintteam.blog/i-automated-my-entire-bug-bounty-recon-one-script-start-to-finish-d3f45a628b59?source=rss------bug_bounty-5) 
+ - 💯October 26, 2026 - [One Email Parameter Was All It Took: How Broken Access Control Let Me Create a Folder in Another…](https://samadhanshimple.medium.com/one-email-parameter-was-all-it-took-how-broken-access-control-let-me-create-a-folder-in-another-c1ab24d34f09?source=rss------bug_bounty-5) 
 
- - 💯October 24, 2026 - [PHP2Shell: Two Critical Vulnerabilities That Could Let Attackers Take Over Web Servers](https://medium.com/@munnaza.cyber/php2shell-two-critical-vulnerabilities-that-could-let-attackers-take-over-web-servers-65fd888fdeea?source=rss------bug_bounty-5) 
+ - 💯October 26, 2026 - [Finding Stored Cross-Site Scripting &lpar;XSS&rpar; in a Live Chat Feature | Bug Bounty Research](https://medium.com/@RAHUL-Nj/finding-stored-cross-site-scripting-xss-in-a-live-chat-feature-bug-bounty-research-181de99369ef?source=rss------bug_bounty-5) 
 
- - 💯October 24, 2026 - [Reading 400 Million Git Pushes: GitHub OSINT at Full Population](https://osintteam.blog/reading-400-million-git-pushes-github-osint-at-full-population-2fc279e0612b?source=rss------bug_bounty-5) 
+ - 💯October 26, 2026 - [Alertes zero-day : 17 vulnérabilités critiques du 26 octobre 2026 &lpar;dont PHP&rpar;](https://marcbarbezat.medium.com/alertes-zero-day-17-vuln%C3%A9rabilit%C3%A9s-critiques-du-26-octobre-2026-dont-php-aa8b5af6d0ac?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
