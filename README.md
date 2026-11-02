@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 1, 2026 - [Unauthenticated SQL Injection in Code-Projects Simple School Management System 1.0](https://medium.com/@jatin.security/unauthenticated-sql-injection-in-code-projects-simple-school-management-system-1-0-0f3fc20c331a?source=rss------bug_bounty-5) 
+ - 💯November 2, 2026 - [CORS Misconfiguration: The Bug Hiding in One Response Header](https://osintteam.blog/cors-misconfiguration-the-bug-hiding-in-one-response-header-3205073c9ac6?source=rss------bug_bounty-5) 
 
- - 💯November 1, 2026 - [KIBA-THM](https://medium.com/@adesinat045/kiba-thm-7dcd8e404cf8?source=rss------bug_bounty-5) 
+ - 💯November 2, 2026 - [Rate Limit Bypass Techniques: A Bug Bounty Hunter’s Field Guide](https://osintteam.blog/rate-limit-bypass-techniques-a-bug-bounty-hunters-field-guide-44d5bfdad22c?source=rss------bug_bounty-5) 
 
- - 💯November 1, 2026 - [SSRF Bug Bounty Methodology: A Practical Hunting Guide | by Samadhan Shimple](https://samadhanshimple.medium.com/ssrf-bug-bounty-methodology-a-practical-hunting-guide-by-samadhan-shimple-f4c0c63909fa?source=rss------bug_bounty-5) 
+ - 💯November 2, 2026 - [One link, all your private chats: how AI assistants get turned against you](https://osintteam.blog/one-link-all-your-private-chats-how-ai-assistants-get-turned-against-you-51eb2019cd3c?source=rss------bug_bounty-5) 
 
- - 💯November 1, 2026 - [From P4 to P1 — Day 9: Mass Assignment Vulnerabilities in Bug Bounty Hunting](https://medium.com/@cyb3rD1vvya/from-p4-to-p1-day-9-mass-assignment-vulnerabilities-in-bug-bounty-hunting-75185fa0c366?source=rss------bug_bounty-5) 
+ - 💯November 2, 2026 - [I Found an Account Takeover Vulnerability Through Google Dorking | by Samadhan Shimple](https://samadhanshimple.medium.com/i-found-an-account-takeover-vulnerability-in-sorare-through-google-dorking-by-samadhan-shimple-637b74c22f34?source=rss------bug_bounty-5) 
 
- - 💯November 1, 2026 - [Terraform Security Explained: How to Write, Scan and Deploy Infrastructure Code Safely](https://medium.com/@vigneshkumaroffsec/terraform-security-explained-how-to-write-scan-and-deploy-infrastructure-code-safely-c45a04a3c8b4?source=rss------bug_bounty-5) 
+ - 💯November 2, 2026 - [File Upload Vulnerability Exploitation | Different Security Levels Explained](https://medium.com/@pentesterclubpvtltd/file-upload-vulnerability-exploitation-different-security-levels-explained-2efa7b0f7880?source=rss------bug_bounty-5) 
 
- - 💯November 1, 2026 - [Request Smuggling in 2026: Four Bugs, Four Layers, One Seam](https://medium.com/codetodeploy/request-smuggling-in-2026-four-bugs-four-layers-one-seam-426999779309?source=rss------bug_bounty-5) 
+ - 💯November 2, 2026 - [How I Hunt for CORS Vulnerabilities: A Practical Bug Bounty Methodology | by Samadhan Shimple](https://samadhanshimple.medium.com/how-i-hunt-for-cors-vulnerabilities-a-practical-bug-bounty-methodology-by-samadhan-shimple-01758d27a5d0?source=rss------bug_bounty-5) 
 
- - 💯November 1, 2026 - [The Hidden IDOR Vulnerability in /me/ API Endpoints](https://medium.com/@Dark_Boss/the-hidden-idor-vulnerability-in-me-api-endpoints-5cf126fd29a7?source=rss------bug_bounty-5) 
+ - 💯November 2, 2026 - [Quasar: A Cross-Platform Subdomain Enumeration Framework for Modern Cybersecurity &amp; Red Team…](https://execure.medium.com/quasar-a-cross-platform-subdomain-enumeration-framework-for-modern-cybersecurity-red-team-1b434ed02cd8?source=rss------bug_bounty-5) 
 
- - 💯October 31, 2026 - [Valenfind-THM](https://medium.com/@adesinat045/valenfind-thm-8d2eaa342163?source=rss------bug_bounty-5) 
+ - 💯November 2, 2026 - [How two forward slashes let anyone use a government website as a free file host](https://medium.com/@priyanshbhadoria5/how-two-forward-slashes-let-anyone-use-a-government-website-as-a-free-file-host-e12a44ef4064?source=rss------bug_bounty-5) 
 
- - 💯October 31, 2026 - [When a Security Product Can’t Protect Itself: My Responsible Disclosure Story with the Endpoint…](https://medium.com/@furkanyasinkeskin/when-a-security-product-cant-protect-itself-my-responsible-disclosure-story-with-the-endpoint-c374c475f2eb?source=rss------bug_bounty-5) 
+ - 💯November 2, 2026 - [Password Reset Token Does Not Expire: An Insecure Configurability Issue](https://cybrox.medium.com/password-reset-token-does-not-expire-an-insecure-configurability-issue-34c1a3d07b83?source=rss------bug_bounty-5) 
 
- - 💯October 31, 2026 - [Güvenlik Ürünü Kendini Koruyamazsa: Endpoint Central Ajanı ile Sorumlu İfşa Hikâyem](https://medium.com/@furkanyasinkeskin/g%C3%BCvenlik-%C3%BCr%C3%BCn%C3%BC-kendini-koruyamazsa-endpoint-central-ajan%C4%B1-ile-sorumlu-i%CC%87f%C5%9Fa-hik%C3%A2yem-edd8249c833e?source=rss------bug_bounty-5) 
+ - 💯November 2, 2026 - [The Impact Section Is One Word. The Bounty Is $25,000.](https://meetcyber.net/the-impact-section-is-one-word-the-bounty-is-25-000-03c1c88ee066?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
