@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 3, 2026 - [Email Verification Bypass Leads to Account Lockout](https://medium.com/@Shaaahd/email-verification-bypass-leads-to-account-lockout-5789ed42a976?source=rss------bug_bounty-5) 
+ - 💯November 4, 2026 - [Lampiao- Offsec PG](https://n30ncat.medium.com/lampiao-offsec-pg-412b399241c7?source=rss------bug_bounty-5) 
 
- - 💯November 3, 2026 - [CSRF: The Bug Everyone Declared Dead and Nobody Actually Fixed](https://medium.com/@raksharoot/csrf-the-bug-everyone-declared-dead-and-nobody-actually-fixed-614643212b94?source=rss------bug_bounty-5) 
+ - 💯November 4, 2026 - [How I Got Private Bug Bounty Invitations Without Hunting a Single Bug](https://cyghost.medium.com/how-i-got-private-bug-bounty-invitations-without-hunting-a-single-bug-b5026b6fa739?source=rss------bug_bounty-5) 
 
- - 💯November 3, 2026 - [[$10,000] Google Jules — The Silent Code Heist - Stealing Github Codes Remotely](https://medium.com/@avinash_/10-000-google-jules-the-silent-code-heist-stealing-github-codes-remotely-9da6870ebec1?source=rss------bug_bounty-5) 
+ - 💯November 4, 2026 - [Find a Potential PHP2Shell Vulnerability Using a Free OpenAI Tool](https://aimasterprompt.medium.com/find-a-potential-php2shell-vulnerability-using-a-free-openai-tool-6cb4341c57fe?source=rss------bug_bounty-5) 
 
- - 💯November 3, 2026 - [When a One-Time Password Works Twice: A Password Reset Logic Flaw](https://medium.com/@Alisoapi/when-a-one-time-password-works-twice-a-password-reset-logic-flaw-e778f726bbad?source=rss------bug_bounty-5) 
+ - 💯November 4, 2026 - [I Audited 24 Bug Bounty Tools. Seven Haven’t Been Touched in Two Years.](https://medium.com/codetodeploy/i-audited-24-bug-bounty-tools-seven-havent-been-touched-in-two-years-51a9526ca7b4?source=rss------bug_bounty-5) 
 
- - 💯November 3, 2026 - [No Winter Lasts Forever: Why We Launched the Ticko Bug Bounty](https://medium.com/ticko/no-winter-lasts-forever-why-we-launched-the-ticko-bug-bounty-ef8bbd3cc003?source=rss------bug_bounty-5) 
+ - 💯November 4, 2026 - [Riddle Registry ~ CyLab Security Academy Write-up | Finding Hidden Clues in PDF Metadata](https://medium.com/@affanhaxor/riddle-registry-cylab-security-academy-write-up-finding-hidden-clues-in-pdf-metadata-2c8378d382d1?source=rss------bug_bounty-5) 
 
- - 💯November 3, 2026 - [The Three-Request IDOR Method: How I Find Broken Access Control Before Breakfast](https://thexssrat.medium.com/the-three-request-idor-method-how-i-find-broken-access-control-before-breakfast-aaf30335f3d2?source=rss------bug_bounty-5) 
+ - 💯November 4, 2026 - [Container Escapes and Linux Privilege Escalation: How They Work and How to Shut Them Down](https://medium.com/@vigneshkumaroffsec/container-escapes-and-linux-privilege-escalation-how-they-work-and-how-to-shut-them-down-f1c378dc1f8e?source=rss------bug_bounty-5) 
 
- - 💯November 3, 2026 - [It Remembered Me: How a Marketing Cookie Became a One-Click PII Leak](https://medium.com/@ali.zamini/it-remembered-me-how-a-marketing-cookie-became-a-one-click-pii-leak-2d2011250267?source=rss------bug_bounty-5) 
+ - 💯November 3, 2026 - [Google Paid Bug Hunters $17.1M. AI Bias Bounties Topped Out at $24K](https://briefs.aiadvances.org/google-paid-bug-hunters-17-1m-ai-bias-bounties-topped-out-at-24k-02d1df9736c5?source=rss------bug_bounty-5) 
 
- - 💯November 3, 2026 - [Can’t Reproduce: 5 Things Every Bug Report Loses on the Way to a Developer](https://medium.com/@oneclik.mktg/cant-reproduce-5-things-every-bug-report-loses-on-the-way-to-a-developer-66bde48d6f8a?source=rss------bug_bounty-5) 
+ - 💯November 3, 2026 - [Will AI Kill the Bug Bounty Industry?](https://medium.com/@majid207/will-ai-kill-the-bug-bounty-industry-cdc7764200e6?source=rss------bug_bounty-5) 
 
- - 💯November 3, 2026 - [Intigriti XSS Challenge: Beyond the Sanitizer](https://medium.com/@vulnix.dev/intigriti-xss-challenge-beyond-the-sanitizer-46c9ac229119?source=rss------bug_bounty-5) 
+ - 💯November 3, 2026 - [How a Single Leaked Client Secret Exposed a Private GitHub Repo](https://s5treak.medium.com/how-a-single-leaked-client-secret-exposed-a-private-github-repo-11e755be2d07?source=rss------bug_bounty-5) 
 
- - 💯November 3, 2026 - [Two Parsers, One Input, Two Different Answers](https://kd-200.medium.com/two-parsers-one-input-two-different-answers-0a964c2ae226?source=rss------bug_bounty-5) 
+ - 💯November 3, 2026 - [Shanti Se Poocho AI: Potential API Credential Disclosure](https://medium.com/@mehtahet619/shanti-se-poocho-ai-potential-api-credential-disclosure-a08037366437?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
