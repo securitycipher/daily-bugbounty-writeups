@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 5, 2026 - [20 Identity Security Mistakes That Lead to Account Takeover: Learn to Master Your Defenses](https://medium.com/@verylazytech/20-identity-security-mistakes-that-lead-to-account-takeover-learn-to-master-your-defenses-324f7dc89de9?source=rss------bug_bounty-5) 
+ - 💯November 6, 2026 - [How Bug Bounty Programs Work: A Beginner’s Guide](https://cybrox.medium.com/how-bug-bounty-programs-work-a-beginners-guide-91c3bdfb398a?source=rss------bug_bounty-5) 
 
- - 💯November 5, 2026 - [The Five-Check JWT Chain: How I Break Token Auth Before I Touch the Business Logic](https://thexssrat.medium.com/the-five-check-jwt-chain-how-i-break-token-auth-before-i-touch-the-business-logic-118f672cdc45?source=rss------bug_bounty-5) 
+ - 💯November 6, 2026 - [How Four Lines of Code Could Delete Any Facebook Photo Album](https://medium.com/@l4zz3rj0d/how-four-lines-of-code-could-delete-any-facebook-photo-album-68626d5766b6?source=rss------bug_bounty-5) 
 
- - 💯November 5, 2026 - [Whiterose-THM](https://n30ncat.medium.com/whiterose-thm-82d22a36b259?source=rss------bug_bounty-5) 
+ - 💯November 6, 2026 - [100 of Your 142,515 Wordlist Entries Contain a Slash. That’s Why You Never Find /api/v1.](https://meetcyber.net/100-of-your-142-515-wordlist-entries-contain-a-slash-thats-why-you-never-find-api-v1-77d62622529a?source=rss------bug_bounty-5) 
 
- - 💯November 5, 2026 - [How a Broken Email Confirmation Flow Took Over Any Shopify Store](https://medium.com/@l4zz3rj0d/how-a-broken-email-confirmation-flow-took-over-any-shopify-store-0bc8ea8cc5ad?source=rss------bug_bounty-5) 
+ - 💯November 6, 2026 - [Dependency Confusion Explained: How a Missing NPM Package Becomes Remote Code Execution](https://medium.com/@vigneshkumaroffsec/dependency-confusion-explained-how-a-missing-npm-package-becomes-remote-code-execution-bba0fa514e49?source=rss------bug_bounty-5) 
 
- - 💯November 5, 2026 - [PortSwigger lab: Broken brute-force protection, IP block](https://medium.com/@spoorthi002/portswigger-lab-broken-brute-force-protection-ip-block-b8e80f2ad12b?source=rss------bug_bounty-5) 
+ - 💯November 5, 2026 - [The Shipment You Shouldn’t Be Able to Touch](https://medium.com/@ohyunwoods663/the-shipment-you-shouldnt-be-able-to-touch-525fbc4b7277?source=rss------bug_bounty-5) 
 
- - 💯November 5, 2026 - [Vulnerability Discovery Became Manufacturing : 948 Root Exploits for $1.2M](https://medium.com/@stawils/vulnerability-discovery-became-manufacturing-948-root-exploits-for-1-2m-c4dfcb9ce2a0?source=rss------bug_bounty-5) 
+ - 💯November 5, 2026 - [Bypassing URL Validation with IPv6: An SSRF Story](https://medium.com/@muhammedmoslaam/bypassing-url-validation-with-ipv6-an-ssrf-story-9e5998c5d4af?source=rss------bug_bounty-5) 
 
- - 💯November 5, 2026 - [IDOR: The Vulnerability That Hides Behind a Simple Request](https://medium.com/@amjadrajawala/idor-the-vulnerability-that-hides-behind-a-simple-request-2773e364717f?source=rss------bug_bounty-5) 
+ - 💯November 5, 2026 - [The Jail That Gave Its Prisoner a Staff Badge: Escaping WordPress Playground’s Sandbox](https://medium.com/@mohamed.adel.887275/the-jail-that-gave-its-prisoner-a-staff-badge-escaping-wordpress-playgrounds-sandbox-db7e8eb89a9f?source=rss------bug_bounty-5) 
 
- - 💯November 5, 2026 - [Reverse Engineering njRAT malware with dnSpy: Understanding Malware One Function at a Time](https://medium.com/@yatanim/reverse-engineering-njrat-malware-with-dnspy-understanding-malware-one-function-at-a-time-18f9b8f233cd?source=rss------bug_bounty-5) 
+ - 💯November 5, 2026 - [The Bouncer Who Only Read IPv4: SSRF in WordPress Playground’s CORS Proxy](https://medium.com/@mohamed.adel.887275/the-bouncer-who-only-read-ipv4-ssrf-in-wordpress-playgrounds-cors-proxy-bcfeac7b37d3?source=rss------bug_bounty-5) 
 
- - 💯November 5, 2026 - [From P4 to P1: Day 12 — Server-Side Template Injection &lpar;SSTI&rpar;: Finding and Validating Template…](https://medium.com/@cyb3rD1vvya/from-p4-to-p1-day-12-server-side-template-injection-ssti-finding-and-validating-template-d19503d4634f?source=rss------bug_bounty-5) 
+ - 💯November 5, 2026 - [Broken Access Control #2: I Flipped One Cookie From “false” to “true” and Walked Into the Admin…](https://osintteam.blog/broken-access-control-2-i-flipped-one-cookie-from-false-to-true-and-walked-into-the-admin-6bf2988c28e7?source=rss------bug_bounty-5) 
 
- - 💯November 5, 2026 - [Web Gauntlet ~ CyLab Security Academy CTF Write-up | SQL Injection and Filter Bypass](https://medium.com/@affanhaxor/web-gauntlet-cylab-security-academy-ctf-write-up-sql-injection-and-filter-bypass-1989083a4f17?source=rss------bug_bounty-5) 
+ - 💯November 5, 2026 - [The Password Was in the JSON: A WordPress REST API Access-Control Bug in Secure Custom Fields](https://medium.com/@mohamed.adel.887275/the-password-was-in-the-json-a-wordpress-rest-api-access-control-bug-in-secure-custom-fields-5c12952970d2?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
