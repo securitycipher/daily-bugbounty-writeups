@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 6, 2026 - [How Bug Bounty Programs Work: A Beginner’s Guide](https://cybrox.medium.com/how-bug-bounty-programs-work-a-beginners-guide-91c3bdfb398a?source=rss------bug_bounty-5) 
+ - 💯November 7, 2026 - [OpenTrace AI Explained | Map Your Entire System Architecture with AI](https://medium.com/@pentesterclubpvtltd/opentrace-ai-explained-map-your-entire-system-architecture-with-ai-27f4b35e33be?source=rss------bug_bounty-5) 
 
- - 💯November 6, 2026 - [How Four Lines of Code Could Delete Any Facebook Photo Album](https://medium.com/@l4zz3rj0d/how-four-lines-of-code-could-delete-any-facebook-photo-album-68626d5766b6?source=rss------bug_bounty-5) 
+ - 💯November 7, 2026 - [DVAPI — Damn Vulnerable API](https://medium.com/@Darkness_Security/dvapi-damn-vulnerable-api-ecaa97911819?source=rss------bug_bounty-5) 
 
- - 💯November 6, 2026 - [100 of Your 142,515 Wordlist Entries Contain a Slash. That’s Why You Never Find /api/v1.](https://meetcyber.net/100-of-your-142-515-wordlist-entries-contain-a-slash-thats-why-you-never-find-api-v1-77d62622529a?source=rss------bug_bounty-5) 
+ - 💯November 7, 2026 - [What Is Cyber Security? Complete Beginner’s Guide &lpar;2026&rpar;](https://medium.com/@ariforakzai99/what-is-cyber-security-complete-beginners-guide-2026-8f3fc6f850ce?source=rss------bug_bounty-5) 
 
- - 💯November 6, 2026 - [Dependency Confusion Explained: How a Missing NPM Package Becomes Remote Code Execution](https://medium.com/@vigneshkumaroffsec/dependency-confusion-explained-how-a-missing-npm-package-becomes-remote-code-execution-bba0fa514e49?source=rss------bug_bounty-5) 
+ - 💯November 7, 2026 - [How a Guessable Number Exposed Every Meta AI User’s Private Prompts](https://medium.com/@l4zz3rj0d/how-a-guessable-number-exposed-every-meta-ai-users-private-prompts-8b3ec5e707af?source=rss------bug_bounty-5) 
 
- - 💯November 5, 2026 - [The Shipment You Shouldn’t Be Able to Touch](https://medium.com/@ohyunwoods663/the-shipment-you-shouldnt-be-able-to-touch-525fbc4b7277?source=rss------bug_bounty-5) 
+ - 💯November 7, 2026 - [Caido Tutorial for Beginners| TryHackMe Caido Basics](https://medium.com/@arnahid/caido-tutorial-for-beginners-tryhackme-caido-basics-eed43dcb439f?source=rss------bug_bounty-5) 
 
- - 💯November 5, 2026 - [Bypassing URL Validation with IPv6: An SSRF Story](https://medium.com/@muhammedmoslaam/bypassing-url-validation-with-ipv6-an-ssrf-story-9e5998c5d4af?source=rss------bug_bounty-5) 
+ - 💯November 7, 2026 - [12 Windows Kernel Security Concepts Every Researcher Should Master for Real-World Exploitation](https://medium.com/@verylazytech/12-windows-kernel-security-concepts-every-researcher-should-master-for-real-world-exploitation-cec0753b3503?source=rss------bug_bounty-5) 
 
- - 💯November 5, 2026 - [The Jail That Gave Its Prisoner a Staff Badge: Escaping WordPress Playground’s Sandbox](https://medium.com/@mohamed.adel.887275/the-jail-that-gave-its-prisoner-a-staff-badge-escaping-wordpress-playgrounds-sandbox-db7e8eb89a9f?source=rss------bug_bounty-5) 
+ - 💯November 7, 2026 - [Building Your Own Hermes AI Hacking Agent: A Complete Setup Guide](https://medium.com/@denoroy737/building-your-own-hermes-ai-hacking-agent-a-complete-setup-guide-9e773480a717?source=rss------bug_bounty-5) 
 
- - 💯November 5, 2026 - [The Bouncer Who Only Read IPv4: SSRF in WordPress Playground’s CORS Proxy](https://medium.com/@mohamed.adel.887275/the-bouncer-who-only-read-ipv4-ssrf-in-wordpress-playgrounds-cors-proxy-bcfeac7b37d3?source=rss------bug_bounty-5) 
+ - 💯November 7, 2026 - [From P4 to P1: Day 14 — Privilege Escalation: Finding Horizontal and Vertical Access Control…](https://medium.com/@cyb3rD1vvya/from-p4-to-p1-day-14-privilege-escalation-finding-horizontal-and-vertical-access-control-2e98c93f3f69?source=rss------bug_bounty-5) 
 
- - 💯November 5, 2026 - [Broken Access Control #2: I Flipped One Cookie From “false” to “true” and Walked Into the Admin…](https://osintteam.blog/broken-access-control-2-i-flipped-one-cookie-from-false-to-true-and-walked-into-the-admin-6bf2988c28e7?source=rss------bug_bounty-5) 
+ - 💯November 7, 2026 - [Group Injection in aws-iam-authenticator: RBAC Privilege Escalation via {{SessionName}}](https://medium.com/@sachinpatilsp/group-injection-in-aws-iam-authenticator-rbac-privilege-escalation-via-sessionname-77bd287bbff9?source=rss------bug_bounty-5) 
 
- - 💯November 5, 2026 - [The Password Was in the JSON: A WordPress REST API Access-Control Bug in Secure Custom Fields](https://medium.com/@mohamed.adel.887275/the-password-was-in-the-json-a-wordpress-rest-api-access-control-bug-in-secure-custom-fields-5c12952970d2?source=rss------bug_bounty-5) 
+ - 💯November 7, 2026 - [SSTI2 ~ CyLab Security Academy Write-up | Server-Side Template Injection](https://medium.com/@affanhaxor/ssti2-cylab-security-academy-write-up-server-side-template-injection-d333a1dfa9aa?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
