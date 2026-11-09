@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 8, 2026 - [I Found a 9.8 Critical Integer Overflow in Google’s TensorFlow. Google Refused to Pay Me.](https://medium.com/@0xanubiis/i-found-a-9-8-critical-integer-overflow-in-googles-tensorflow-google-refused-to-pay-me-9d8b52bbc5c1?source=rss------bug_bounty-5) 
+ - 💯November 9, 2026 - [Prompt Injection Attacks Explained: How Hackers Manipulate AI](https://osintteam.blog/prompt-injection-attacks-explained-how-hackers-manipulate-ai-f80a02cc58c7?source=rss------bug_bounty-5) 
 
- - 💯November 8, 2026 - [Four Vulnerabilities With Ai-Agent, One Subdomain : Exploring the Hidden Attack Surface of a…](https://medium.com/@0xmannaf/four-vulnerabilities-with-ai-agent-one-subdomain-exploring-the-hidden-attack-surface-of-a-9a7d073f785c?source=rss------bug_bounty-5) 
+ - 💯November 9, 2026 - [IDOR: The Bug That Pays the Most in 2026](https://osintteam.blog/idor-the-bug-that-pays-the-most-in-2026-4828a780a279?source=rss------bug_bounty-5) 
 
- - 💯November 8, 2026 - [How Peloton Confused Authentication with Authorization](https://medium.com/@l4zz3rj0d/how-peloton-confused-authentication-with-authorization-714b8b70116e?source=rss------bug_bounty-5) 
+ - 💯November 9, 2026 - [How to Start Bug Bounty Hunting: A Complete Beginner’s Roadmap](https://samadhanshimple.medium.com/how-to-start-bug-bounty-hunting-a-complete-beginners-roadmap-c0d6f76fe737?source=rss------bug_bounty-5) 
 
- - 💯November 8, 2026 - [From P4 to P1: Day 15 — Business Logic Vulnerabilities: Finding Flaws in Application Workflows](https://medium.com/@cyb3rD1vvya/from-p4-to-p1-day-15-business-logic-vulnerabilities-finding-flaws-in-application-workflows-174abcb1e29f?source=rss------bug_bounty-5) 
+ - 💯November 9, 2026 - [BMW Group Security Hall of Fame 2026: A Few Thoughts on Bug Bounty Strategy](https://medium.com/@pwntheplanet/bmw-group-security-hall-of-fame-2026-a-few-thoughts-on-bug-bounty-strategy-b77ebd0628a9?source=rss------bug_bounty-5) 
 
- - 💯November 8, 2026 - [GPT-6 Cyber: A 51% Jump in Exploit Skill and the Rise of Specialized Cybersecurity AI](https://nitingavhane.medium.com/gpt-6-cyber-a-51-jump-in-exploit-skill-and-the-rise-of-specialized-cybersecurity-ai-4ded83c01daf?source=rss------bug_bounty-5) 
+ - 💯November 9, 2026 - [HALBERD Explained | AI-Powered Multi-Cloud Attack Emulation Tool](https://medium.com/@pentesterclubpvtltd/halberd-explained-ai-powered-multi-cloud-attack-emulation-tool-f660a7244ac7?source=rss------bug_bounty-5) 
 
- - 💯November 8, 2026 - [Prompt Injection Is Not a Prompt Problem](https://medium.com/@vigneshkumaroffsec/prompt-injection-is-not-a-prompt-problem-32932cbb4e60?source=rss------bug_bounty-5) 
+ - 💯November 9, 2026 - [How Egor Homakov Generated Free Money on Starbucks Gift Cards](https://medium.com/@l4zz3rj0d/how-egor-homakov-generated-free-money-on-starbucks-gift-cards-436396b02014?source=rss------bug_bounty-5) 
 
- - 💯November 8, 2026 - [P3 — Sensitive Information Disclosure Through Verbose API Error Messages](https://medium.com/@akashmotkar001/p3-sensitive-information-disclosure-through-verbose-api-error-messages-65fa5cc74a12?source=rss------bug_bounty-5) 
+ - 💯November 9, 2026 - [12 IDOR Patterns Every Bug Bounty Hunter Should Recognize: Mastering Access Control Flaws](https://medium.com/@verylazytech/12-idor-patterns-every-bug-bounty-hunter-should-recognize-mastering-access-control-flaws-088921ac5424?source=rss------bug_bounty-5) 
 
- - 💯November 7, 2026 - [Power CookieWeb Exploitation by LT ‘syreal’ Jones](https://medium.com/@salyhamaks/power-cookieweb-exploitation-by-lt-syreal-jones-89bf441312a6?source=rss------bug_bounty-5) 
+ - 💯November 9, 2026 - [The Dangling CDN Record That Unlocked SSO](https://masimshahzad.medium.com/the-dangling-cdn-record-that-unlocked-sso-8fae3acdc296?source=rss------bug_bounty-5) 
 
- - 💯November 7, 2026 - [How One AI Feature Exposed Data from Multiple Restricted Functions](https://medium.com/@hs942422/how-one-ai-feature-exposed-data-from-multiple-restricted-functions-e2d13dd0e4cd?source=rss------bug_bounty-5) 
+ - 💯November 9, 2026 - [Smali By bithowl: Chapter 17 Method Calls](https://medium.com/@bithowl/smali-by-bithowl-chapter-17-method-calls-9ac5725e5afa?source=rss------bug_bounty-5) 
 
- - 💯November 7, 2026 - [Wanglin Shoes — Redlimit CTF Lab](https://medium.com/@Mr_vndlsme/wanglin-shoes-redlimit-ctf-lab-66d5effc2de4?source=rss------bug_bounty-5) 
+ - 💯November 9, 2026 - [Deserialization Is 0.4% of Bounty Reports and 4% of Exploited Bugs. Both Numbers Are Right.](https://meetcyber.net/deserialization-is-0-4-of-bounty-reports-and-4-of-exploited-bugs-both-numbers-are-right-eda9fd183698?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
