@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 10, 2026 - [Intigriti BRP Challenge Write-up](https://medium.com/@laftman/intigriti-brp-challenge-write-up-187eded7dfe9?source=rss------bug_bounty-5) 
+ - 💯November 11, 2026 - [Nukerat Framework Explained: Advanced Red Team Operations &amp; Post-Exploitation](https://medium.com/@pentesterclubpvtltd/nukerat-framework-explained-advanced-red-team-operations-post-exploitation-853cf6264a12?source=rss------bug_bounty-5) 
 
- - 💯November 10, 2026 - [MyBounty Mobile App](https://medium.com/@chander.romesh/mybounty-mobile-app-538dadd0b7df?source=rss------bug_bounty-5) 
+ - 💯November 11, 2026 - [How to Find All Subdomains of Any Website &lpar;Free, No Install&rpar;](https://medium.com/@muhammadmanamil/how-to-find-all-subdomains-of-any-website-free-no-install-7c97582accae?source=rss------bug_bounty-5) 
 
- - 💯November 10, 2026 - [Stored XSS via File Upload: Smuggling JavaScript Inside a “Harmless” PDF](https://medium.com/@m.bafy10/stored-xss-via-file-upload-smuggling-javascript-inside-a-harmless-pdf-61f9c37d77da?source=rss------bug_bounty-5) 
+ - 💯November 11, 2026 - [Enigma &lpar;HackTheBox&rpar;](https://medium.com/@osamahegazey605/enigma-hackthebox-dbc532ec2140?source=rss------bug_bounty-5) 
 
- - 💯November 10, 2026 - [My first Critical &lpar;£1,200&rpar;](https://medium.com/@jupaloks/my-first-critical-1-200-8196e9c29a02?source=rss------bug_bounty-5) 
+ - 💯November 11, 2026 - [Management Walkthrough &lpar;HackTheBox&rpar;](https://medium.com/@osamahegazey605/management-walkthrough-hackthebox-59f243f9ca4f?source=rss------bug_bounty-5) 
 
- - 💯November 10, 2026 - [How I Bypassed 2FA by Changing One Request Parameter — and Earned a $$ Bounty](https://nowisar.medium.com/how-i-bypassed-2fa-by-changing-one-request-parameter-and-earned-a-bounty-3582027c135e?source=rss------bug_bounty-5) 
+ - 💯November 11, 2026 - [The $8,000 Kubernetes SSRF Bug Bounty: How One Hidden HTTP Header Revealed an Entire Internal…](https://medium.com/@asadmohsin760/the-8-000-kubernetes-ssrf-bug-bounty-how-one-hidden-http-header-revealed-an-entire-internal-6de68593408a?source=rss------bug_bounty-5) 
 
- - 💯November 10, 2026 - [Two Rulers, One Wire: How an HTTP Desync Earned a First-Time Hunter $6,500 from Slack](https://medium.com/@t4nv1/two-rulers-one-wire-how-an-http-desync-earned-a-first-time-hunter-6-500-from-slack-4ee2fe4d227a?source=rss------bug_bounty-5) 
+ - 💯November 11, 2026 - [How I Turned a Single Packet Mismatch into a $10,000 Single-Packet Race Condition &lpar;H2/HTTP2 Window…](https://medium.com/@t4nv1/how-i-turned-a-single-packet-mismatch-into-a-10-000-single-packet-race-condition-h2-http2-window-eaee18019a86?source=rss------bug_bounty-5) 
 
- - 💯November 10, 2026 - [Introducing Ticko Paladin: Monthly Paladin Stars Earn 1,000 USDT in Rewards](https://medium.com/ticko/introducing-ticko-paladin-monthly-paladin-stars-earn-1-000-usdt-in-rewards-85c8d0d58cab?source=rss------bug_bounty-5) 
+ - 💯November 11, 2026 - [How a Login Token for a Forum Became a Login Token for OpenAI’s Internal Code](https://medium.com/@l4zz3rj0d/how-a-login-token-for-a-forum-became-a-login-token-for-openais-internal-code-0b865ed1469a?source=rss------bug_bounty-5) 
 
- - 💯November 10, 2026 - [Meta Paid $1.2 Million to Break Its Own AI Agent. The Biggest Bug Wasn’t Even an AI Bug.](https://medium.com/@Aacle/meta-paid-1-2-million-to-break-its-own-ai-agent-the-biggest-bug-wasnt-even-an-ai-bug-d1707e8b5675?source=rss------bug_bounty-5) 
+ - 💯November 11, 2026 - [The Referer Header That Redirected OAuth Tokens](https://masimshahzad.medium.com/the-referer-header-that-redirected-oauth-tokens-0598b9e056cb?source=rss------bug_bounty-5) 
 
- - 💯November 10, 2026 - [P3 — Insecure Direct Object Reference &lpar;IDOR&rpar; in User Profile API](https://medium.com/@akashmotkar001/p3-insecure-direct-object-reference-idor-in-user-profile-api-fc105aea6765?source=rss------bug_bounty-5) 
+ - 💯November 11, 2026 - [Five Low Bugs, One GitHub Private Repo Takeover](https://masimshahzad.medium.com/five-low-bugs-one-github-private-repo-takeover-db16e468816a?source=rss------bug_bounty-5) 
 
- - 💯November 10, 2026 - [The Confused Deputy, 2026 Edition](https://medium.com/@vigneshkumaroffsec/the-confused-deputy-2026-edition-95dc3d96821d?source=rss------bug_bounty-5) 
+ - 💯November 11, 2026 - [The CSRF Token Nobody Checked](https://masimshahzad.medium.com/the-csrf-token-nobody-checked-6c4254608a69?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
