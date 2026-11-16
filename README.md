@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 15, 2026 - [VERDICT AI Explained: The Autonomous Pentester That Finds &amp; Proves Real Vulnerabilities](https://medium.com/@pentesterclubpvtltd/verdict-ai-explained-the-autonomous-pentester-that-finds-proves-real-vulnerabilities-1ddc7043c9f1?source=rss------bug_bounty-5) 
+ - 💯November 16, 2026 - [HEXBRAIN AI Explained: The Future of AI-Powered Bug Bounty Hunting Is Here!](https://medium.com/@pentesterclubpvtltd/hexbrain-ai-explained-the-future-of-ai-powered-bug-bounty-hunting-is-here-2c7657be6476?source=rss------bug_bounty-5) 
 
- - 💯November 15, 2026 - [The Ultimate Guide to Reconnaissance for Bug Bounty Hunting](https://medium.com/@chilukavarshith4005/the-ultimate-guide-to-reconnaissance-for-bug-bounty-hunting-264da5f1d7dd?source=rss------bug_bounty-5) 
+ - 💯November 16, 2026 - [Stored HTML Injection in Munshi: A Profile Name Reached the Support Email as HTML](https://medium.com/@TheWildEye/stored-html-injection-in-munshi-a-profile-name-reached-the-support-email-as-html-0fd4e946b6bf?source=rss------bug_bounty-5) 
 
- - 💯November 15, 2026 - [Finding My Way Back to Hardware: A Personal Journey Through Cybersecurity](https://medium.com/@0x4lpha_/finding-my-way-back-to-hardware-a-personal-journey-through-cybersecurity-910bba0c80d8?source=rss------bug_bounty-5) 
+ - 💯November 16, 2026 - [Soft-Deleted, Still Editable: BOLA in Munshi’s Invoice API](https://medium.com/@TheWildEye/soft-deleted-still-editable-bola-in-munshis-invoice-api-93e82bfee165?source=rss------bug_bounty-5) 
 
- - 💯November 15, 2026 - [Caido for Beginners: The Complete Guide to Web Application Security Testing](https://mukibas37.medium.com/caido-for-beginners-the-complete-guide-to-web-application-security-testing-27536dc1e9b5?source=rss------bug_bounty-5) 
+ - 💯November 16, 2026 - [AI Agent Internal System Prompt and Tool Schema Disclosure](https://medium.com/@akashmotkar001/ai-agent-internal-system-prompt-and-tool-schema-disclosure-619eb67b9bd9?source=rss------bug_bounty-5) 
 
- - 💯November 15, 2026 - [The Gap Between Check and Use: How a Race Condition Earned $15,250 from Shopify](https://medium.com/@t4nv1/the-gap-between-check-and-use-how-a-race-condition-earned-15-250-from-shopify-2cda25405a55?source=rss------bug_bounty-5) 
+ - 💯November 16, 2026 - [Prompt Injection in Munshi AI Assistant Exposed Internal Backend Security Details](https://medium.com/@TheWildEye/prompt-injection-in-munshi-ai-assistant-exposed-internal-backend-security-details-174efb524244?source=rss------bug_bounty-5) 
 
- - 💯November 15, 2026 - [P4 Anonymous S3 Bucket Object Listing Leading to Cloud Storage Information Disclosure](https://medium.com/@akashmotkar001/p4anonymous-s3-bucket-object-listing-leading-to-cloud-storage-information-disclosure-555ee8a3e796?source=rss------bug_bounty-5) 
+ - 💯November 16, 2026 - [Malicious File Attachment Injection in Munshi Purchase Inquiry Through Incomplete File Validation](https://medium.com/@TheWildEye/malicious-file-attachment-injection-in-munshi-purchase-inquiry-through-incomplete-file-validation-5acc4fddece4?source=rss------bug_bounty-5) 
 
- - 💯November 15, 2026 - [From P4 to P1: Day 17 — Advanced SSRF Testing: URL Validation Bypasses, Redirects and DNS Rebinding](https://medium.com/@cyb3rD1vvya/from-p4-to-p1-day-17-advanced-ssrf-testing-url-validation-bypasses-redirects-and-dns-rebinding-5f6d92dca0fa?source=rss------bug_bounty-5) 
+ - 💯November 16, 2026 - [Stop Installing 100 Tools: How to Find Your First Real Bug Bounty in 2026](https://medium.com/@zxve/stop-installing-100-tools-how-to-find-your-first-real-bug-bounty-in-2026-e8eea8b9e168?source=rss------bug_bounty-5) 
 
- - 💯November 15, 2026 - [Information Disclosure — Intercom Identity Verification secret &lpar;HMAC key&rpar; is hard-coded in…](https://medium.com/@jokodfir/information-disclosure-intercom-identity-verification-secret-hmac-key-is-hard-coded-in-59a6413bfd0d?source=rss------bug_bounty-5) 
+ - 💯November 16, 2026 - [How to Become an ISO 27001 Lead Auditor — and How ISMS Risk Is Actually Measured](https://medium.com/@vigneshkumaroffsec/how-to-become-an-iso-27001-lead-auditor-and-how-isms-risk-is-actually-measured-9685bcda4e36?source=rss------bug_bounty-5) 
 
- - 💯November 14, 2026 - [Pre-Auth Account Takeover via Broken Password Reset in a Legacy Mobile API](https://medium.com/@youssefezzat.pt/pre-auth-account-takeover-via-broken-password-reset-in-a-legacy-mobile-api-f1b0b63dc1a6?source=rss------bug_bounty-5) 
+ - 💯November 16, 2026 - [How an Unhandled Unicode Normalization Mismatch Led to a $5,000 Account Takeover](https://medium.com/@t4nv1/how-an-unhandled-unicode-normalization-mismatch-led-to-a-5-000-account-takeover-acb4869c225f?source=rss------bug_bounty-5) 
 
- - 💯November 14, 2026 - [Tally Ira’s :- Hardcoded Production Secrets](https://akashkansal065.medium.com/tally-iras-hardcoded-production-secrets-a64721f81c81?source=rss------bug_bounty-5) 
+ - 💯November 16, 2026 - [I Steal Your Login With One Query Parameter: My OAuth Account-Takeover Playbook](https://thexssrat.medium.com/i-steal-your-login-with-one-query-parameter-my-oauth-account-takeover-playbook-462b1da5179f?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
