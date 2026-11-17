@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 16, 2026 - [HEXBRAIN AI Explained: The Future of AI-Powered Bug Bounty Hunting Is Here!](https://medium.com/@pentesterclubpvtltd/hexbrain-ai-explained-the-future-of-ai-powered-bug-bounty-hunting-is-here-2c7657be6476?source=rss------bug_bounty-5) 
+ - 💯November 17, 2026 - [What Does Diwali Look Like for a Bug Hunter?](https://medium.com/@hackdope420/what-does-diwali-look-like-for-a-bug-hunter-0031c1b67692?source=rss------bug_bounty-5) 
 
- - 💯November 16, 2026 - [Stored HTML Injection in Munshi: A Profile Name Reached the Support Email as HTML](https://medium.com/@TheWildEye/stored-html-injection-in-munshi-a-profile-name-reached-the-support-email-as-html-0fd4e946b6bf?source=rss------bug_bounty-5) 
+ - 💯November 17, 2026 - [How a Login Link Could Switch kChat to an Attacker’s Server](https://medium.com/@debasishtripathy7987/how-a-login-link-could-switch-kchat-to-an-attackers-server-6a1601e3cd9a?source=rss------bug_bounty-5) 
 
- - 💯November 16, 2026 - [Soft-Deleted, Still Editable: BOLA in Munshi’s Invoice API](https://medium.com/@TheWildEye/soft-deleted-still-editable-bola-in-munshis-invoice-api-93e82bfee165?source=rss------bug_bounty-5) 
+ - 💯November 17, 2026 - [The Best Wordlists Every Bug Hunter Needs](https://osintteam.blog/the-best-wordlists-every-bug-hunter-needs-c2eeebca49e3?source=rss------bug_bounty-5) 
 
- - 💯November 16, 2026 - [AI Agent Internal System Prompt and Tool Schema Disclosure](https://medium.com/@akashmotkar001/ai-agent-internal-system-prompt-and-tool-schema-disclosure-619eb67b9bd9?source=rss------bug_bounty-5) 
+ - 💯November 17, 2026 - [How Trusting a Request Header Turned a Password Reset Into Account Takeover](https://medium.com/@l4zz3rj0d/how-trusting-a-request-header-turned-a-password-reset-into-account-takeover-b95223be8c94?source=rss------bug_bounty-5) 
 
- - 💯November 16, 2026 - [Prompt Injection in Munshi AI Assistant Exposed Internal Backend Security Details](https://medium.com/@TheWildEye/prompt-injection-in-munshi-ai-assistant-exposed-internal-backend-security-details-174efb524244?source=rss------bug_bounty-5) 
+ - 💯November 17, 2026 - [Why Flameshot Broke — — — — After apt upgrade](https://medium.com/@Punih3r7/why-flameshot-broke-after-apt-upgrade-ce4b56e60129?source=rss------bug_bounty-5) 
 
- - 💯November 16, 2026 - [Malicious File Attachment Injection in Munshi Purchase Inquiry Through Incomplete File Validation](https://medium.com/@TheWildEye/malicious-file-attachment-injection-in-munshi-purchase-inquiry-through-incomplete-file-validation-5acc4fddece4?source=rss------bug_bounty-5) 
+ - 💯November 17, 2026 - [AutoPWN Suite Explained: Automated Vulnerability Scanning &amp; Exploitation Framework](https://medium.com/@pentesterclubpvtltd/autopwn-suite-explained-automated-vulnerability-scanning-exploitation-framework-eb379bf393b5?source=rss------bug_bounty-5) 
 
- - 💯November 16, 2026 - [Stop Installing 100 Tools: How to Find Your First Real Bug Bounty in 2026](https://medium.com/@zxve/stop-installing-100-tools-how-to-find-your-first-real-bug-bounty-in-2026-e8eea8b9e168?source=rss------bug_bounty-5) 
+ - 💯November 17, 2026 - [Google Paid $250,000 for One Chrome Bug Chain. It Took Six Days.](https://medium.com/@zxve/google-paid-250-000-for-one-chrome-bug-chain-it-took-six-days-29afccbee52a?source=rss------bug_bounty-5) 
 
- - 💯November 16, 2026 - [How to Become an ISO 27001 Lead Auditor — and How ISMS Risk Is Actually Measured](https://medium.com/@vigneshkumaroffsec/how-to-become-an-iso-27001-lead-auditor-and-how-isms-risk-is-actually-measured-9685bcda4e36?source=rss------bug_bounty-5) 
+ - 💯November 17, 2026 - [How Indirect Prompt Injection in RAG Pipelines Enables Data Exfiltration](https://medium.com/@t4nv1/how-indirect-prompt-injection-in-rag-pipelines-enables-data-exfiltration-40dcfb45f6f0?source=rss------bug_bounty-5) 
 
- - 💯November 16, 2026 - [How an Unhandled Unicode Normalization Mismatch Led to a $5,000 Account Takeover](https://medium.com/@t4nv1/how-an-unhandled-unicode-normalization-mismatch-led-to-a-5-000-account-takeover-acb4869c225f?source=rss------bug_bounty-5) 
+ - 💯November 17, 2026 - [I Started the Login. You Finished It. I Got Your Account.](https://medium.com/@ali.zamini/i-started-the-login-you-finished-it-i-got-your-account-2c51f98f6ccb?source=rss------bug_bounty-5) 
 
- - 💯November 16, 2026 - [I Steal Your Login With One Query Parameter: My OAuth Account-Takeover Playbook](https://thexssrat.medium.com/i-steal-your-login-with-one-query-parameter-my-oauth-account-takeover-playbook-462b1da5179f?source=rss------bug_bounty-5) 
+ - 💯November 17, 2026 - [P2 Broken Access Control Allowing Unauthorized Account Email Modification and Account Takeover](https://medium.com/@akashmotkar001/p2-broken-access-control-allowing-unauthorized-account-email-modification-and-account-takeover-dea75b86edf1?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
