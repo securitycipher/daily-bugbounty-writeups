@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 18, 2026 - [CVE-2026-98432: A Critical Linux Kernel Vulnerability That Could Allow Remote Root Access](https://medium.com/@asadmohsin760/cve-2026-98432-a-critical-linux-kernel-vulnerability-that-could-allow-remote-root-access-9c2423a2eae3?source=rss------bug_bounty-5) 
+ - 💯November 19, 2026 - [One Click Full Control: Exploiting CSPT to Modify Organization](https://medium.com/@mahdisalhi0500/one-click-full-control-exploiting-cspt-to-modify-organization-f646cb29b9e6?source=rss------bug_bounty-5) 
 
- - 💯November 18, 2026 - [XSS DOM Based — Eval | Root-Me Write-up](https://medium.com/@abdobelal069/xss-dom-based-eval-root-me-write-up-9fb9796843e3?source=rss------bug_bounty-5) 
+ - 💯November 19, 2026 - [How an Empty String Unlocked Every Database Backup in Swisscom’s Open-Source Project](https://medium.com/@0xanubiis/how-an-empty-string-unlocked-every-database-backup-in-swisscoms-open-source-project-83a56bfdac21?source=rss------bug_bounty-5) 
 
- - 💯November 18, 2026 - [XSS DOM Based — Filters Bypass | Root-Me Write-up](https://medium.com/@abdobelal069/xss-dom-based-filters-bypass-root-me-write-up-b2c7fae24fae?source=rss------bug_bounty-5) 
+ - 💯November 19, 2026 - [I Found a Stored XSS That Fires When You Click Follow](https://medium.com/@youssefezzat.pt/i-found-a-stored-xss-that-fires-when-you-click-follow-c67fa46330e9?source=rss------bug_bounty-5) 
 
- - 💯November 18, 2026 - [Blind XXE with Out-of-Band Interaction via XML Parameter Entities](https://infosecwriteups.com/blind-xxe-with-out-of-band-interaction-via-xml-parameter-entities-8f448c9b09f4?source=rss------bug_bounty-5) 
+ - 💯November 19, 2026 - [The Dark Side of AI Security](https://medium.com/@ksreemosmar/the-dark-side-of-ai-security-ddd01bd34e3e?source=rss------bug_bounty-5) 
 
- - 💯November 18, 2026 - [When Should You Walk Away From a Bug Bounty Target ?](https://medium.com/@Aacle/when-should-you-walk-away-from-a-bug-bounty-target-1aa5c249e75c?source=rss------bug_bounty-5) 
+ - 💯November 19, 2026 - [Behind the Delay: Discovering Time-Based Blind SQL Injection in a Live Web Application](https://medium.com/@adarshnair135/behind-the-delay-discovering-time-based-blind-sql-injection-in-a-live-web-application-9dfa72513255?source=rss------bug_bounty-5) 
 
- - 💯November 18, 2026 - [Offense Takes the Top Spot, the Veterans Return and a Tiny Model You Can Train in Two Hours, Day…](https://medium.com/@lssmj2014/offense-takes-the-top-spot-the-veterans-return-and-a-tiny-model-you-can-train-in-two-hours-day-089d58e54a4e?source=rss------bug_bounty-5) 
+ - 💯November 19, 2026 - [The Lock That Opened for the Wrong Key](https://medium.com/@muhammedmoslaam/the-lock-that-opened-for-the-wrong-key-c7a672e544ec?source=rss------bug_bounty-5) 
 
- - 💯November 18, 2026 - [Latest Bug Hunting News: AI-Powered Security Research Discovers Critical Vulnerabilities in 2026](https://medium.com/@asadmohsin760/latest-bug-hunting-news-ai-powered-security-research-discovers-critical-vulnerabilities-in-2026-4050c39dfcc4?source=rss------bug_bounty-5) 
+ - 💯November 19, 2026 - [One-Click Account Takeover via DOM XSS - How an Exposed Test Runner Opened the Door](https://medium.com/@forlaythegeneral/one-click-account-takeover-via-dom-xss-how-an-exposed-test-runner-opened-the-door-f0f826c4f74f?source=rss------bug_bounty-5) 
 
- - 💯November 18, 2026 - [When Math.random&lpar;&rpar; Guards the Door: A $66,000 Meta Bug Built on a Predictable Secret](https://medium.com/@t4nv1/when-math-random-guards-the-door-a-66-000-meta-bug-built-on-a-predictable-secret-baa1a329c431?source=rss------bug_bounty-5) 
+ - 💯November 19, 2026 - [How GraphQL Batching and Field Duplication Enable Denial of Service](https://medium.com/@t4nv1/how-graphql-batching-and-field-duplication-enable-denial-of-service-c2737dfda988?source=rss------bug_bounty-5) 
 
- - 💯November 18, 2026 - [Java4Shell &lpar;CVE-2026‑114938&rpar;: Critical Pre-Authentication RCE in Java 17, 21, 25 and 27](https://mhmmuneef.medium.com/java4shell-cve-2026-114938-critical-pre-authentication-rce-in-java-17-21-25-and-27-d1d9e47c4674?source=rss------bug_bounty-5) 
+ - 💯November 19, 2026 - [From a Simple Username Field to XSS: How One Input Exposed a Security Flaw in a Government Portal](https://medium.com/@adarshnair135/from-a-simple-username-field-to-xss-how-one-input-exposed-a-security-flaw-in-a-government-portal-c7183939ad60?source=rss------bug_bounty-5) 
 
- - 💯November 18, 2026 - [The Updater Ran Five Times Before Lunch. Three of Twelve Feeds Sign Anything.](https://meetcyber.net/the-updater-ran-five-times-before-lunch-three-of-twelve-feeds-sign-anything-6959e3e851d1?source=rss------bug_bounty-5) 
+ - 💯November 19, 2026 - [How an GraphQL IDOR leaked AI conversation History and Got me $500 bounty](https://medium.com/@shouvik328/how-an-graphql-idor-leaked-ai-conversation-history-and-got-me-500-bounty-df75b24a08f7?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
