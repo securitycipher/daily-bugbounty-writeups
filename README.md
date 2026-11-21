@@ -2,21 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 20, 2026 - [SQL Injection Explained: How I Identify and Understand SQLi Vulnerabilities During Bug Bounty…](https://samadhanshimple.medium.com/sql-injection-explained-how-i-identify-and-understand-sqli-vulnerabilities-during-bug-bounty-cd02de63e545?source=rss------bug_bounty-5) 
+ - 💯November 21, 2026 - [The Message That Ate the CPU: Finding a Quadratic-Time DoS in Markdown Parsing](https://elze1n.medium.com/the-message-that-ate-the-cpu-finding-a-quadratic-time-dos-in-markdown-parsing-7813c2dc8df4?source=rss------bug_bounty-5) 
 
- - 💯November 20, 2026 - [How an Email No One Opened Still Leaked Someone’s Gmail Through ChatGPT](https://medium.com/@l4zz3rj0d/how-an-email-no-one-opened-still-leaked-someones-gmail-through-chatgpt-786596a06ccb?source=rss------bug_bounty-5) 
+ - 💯November 21, 2026 - [Antara putih dan hitam](https://medium.com/@muhammadtatas/antara-putih-dan-hitam-5f28f48127c0?source=rss------bug_bounty-5) 
 
- - 💯November 20, 2026 - [I Built an Android Pentest Lab in One Day and Cracked My First App: UnCrackable Level 1 with Frida](https://medium.com/@patryk.kieszek/i-built-an-android-pentest-lab-in-one-day-and-cracked-my-first-app-uncrackable-level-1-with-frida-720617115b95?source=rss------bug_bounty-5) 
+ - 💯November 21, 2026 - [How Cross-Site WebSocket Hijacking &lpar;CSWSH&rpar; Leads to Unauthenticated State Modification](https://medium.com/@t4nv1/how-cross-site-websocket-hijacking-cswsh-leads-to-unauthenticated-state-modification-d0deff2286b4?source=rss------bug_bounty-5) 
 
- - 💯November 20, 2026 - [Server-side Template injection &lpar;SSTI&rpar;](https://medium.com/@mohaemn556/server-side-template-injection-ssti-db0ce2208f32?source=rss------bug_bounty-5) 
+ - 💯November 21, 2026 - [How I Discovered a Session Management Vulnerability That Could Lead to Account Takeover | By…](https://samadhanshimple.medium.com/how-i-discovered-a-session-management-vulnerability-that-could-lead-to-account-takeover-by-887ba9f199de?source=rss------bug_bounty-5) 
 
- - 💯November 20, 2026 - [How a Simple Login Gave Me $4,000 After I Found Their Entire 760 GB+ PII Exposed!](https://infosecwriteups.com/how-a-simple-login-gave-me-4-000-after-i-found-their-entire-760-gb-pii-exposed-bc39ad5281d1?source=rss------bug_bounty-5) 
+ - 💯November 21, 2026 - [OpenSSL Said Low. The Aggregators Said 9.8. The Kernel Said 131 KB.](https://medium.com/codetodeploy/openssl-said-low-the-aggregators-said-9-8-the-kernel-said-131-kb-1e8e02aedf20?source=rss------bug_bounty-5) 
 
- - 💯November 20, 2026 - [I Found a CSRF Vulnerability by Analyzing Cookies: When Remember Me Authentication Became the Weak…](https://medium.com/@yOnly_/i-found-a-csrf-vulnerability-by-analyzing-cookies-when-remember-me-authentication-became-the-weak-02ef96bbdaed?source=rss------bug_bounty-5) 
+ - 💯November 21, 2026 - [IDOR Explained: The Types, Where It Hides, and How to Find It](https://medium.com/@vigneshkumaroffsec/idor-explained-the-types-where-it-hides-and-how-to-find-it-4adfe01b9023?source=rss------bug_bounty-5) 
 
- - 💯November 20, 2026 - [AI Bug Hunting vs Human Bug Hunting](https://medium.com/@Aacle/ai-bug-hunting-vs-human-bug-hunting-9351edb44673?source=rss------bug_bounty-5) 
+ - 💯November 21, 2026 - [How I Find Cross-Site Scripting &lpar;XSS&rpar; Vulnerabilities During Bug Bounty Hunting | By Samadhan…](https://samadhanshimple.medium.com/how-i-find-cross-site-scripting-xss-vulnerabilities-during-bug-bounty-hunting-by-samadhan-562278fa0872?source=rss------bug_bounty-5) 
 
- - 💯November 20, 2026 - [A Test Secret in Production: How a Rails Session Cookie Earned $18,000 from GitHub](https://medium.com/@t4nv1/a-test-secret-in-production-how-a-rails-session-cookie-earned-18-000-from-github-83616cb0b4f8?source=rss------bug_bounty-5) 
+ - 💯November 21, 2026 - [The $1000 IDOR Hiding Behind a Shared AI Chat](https://medium.com/@kianoosh.9944/the-1000-idor-hiding-behind-a-shared-ai-chat-158bf4bd0a93?source=rss------bug_bounty-5) 
 
- - 💯November 20, 2026 - [Lab: Basic SSRF against the local server Walkthrough](https://medium.com/@Geetanjalijhade/lab-basic-ssrf-against-the-local-server-walkthrough-044727d2c087?source=rss------bug_bounty-5) 
+ - 💯November 21, 2026 - [Critical Linux KVM Vulnerability CVE-2026-99312 Exposes 127GB of Host Memory: Bug Bounty Researcher…](https://medium.com/@asadmohsin760/critical-linux-kvm-vulnerability-cve-2026-99312-exposes-127gb-of-host-memory-bug-bounty-researcher-0929a4584860?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
