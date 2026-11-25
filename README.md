@@ -2,21 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 24, 2026 - [Metasploit RCE Exploits CLOUDFLARE BYPASS + APACHE STRUTS2 RCE &lpar;CVE-2026–7890&rpar;](https://medium.com/@xgw40095/metasploit-rce-exploits-cloudflare-bypass-apache-struts2-rce-cve-2026-7890-a25c4e564e74?source=rss------bug_bounty-5) 
+ - 💯November 25, 2026 - [Anatomy of an HTTP Request &lpar;Part 6&rpar;: Web Servers, Directory Listing, and Exposed Configuration…](https://medium.com/@extraterrestrial2342/anatomy-of-an-http-request-part-6-web-servers-directory-listing-and-exposed-configuration-6edcd7eed7da?source=rss------bug_bounty-5) 
 
- - 💯November 24, 2026 - [The All-Zero Key: How a 32-Byte Fallback Broke X25519 Authentication in a Linux P2P Daemon.](https://infosecwriteups.com/the-all-zero-key-how-a-32-byte-fallback-broke-x25519-authentication-in-a-linux-p2p-daemon-1d5a33d2b8eb?source=rss------bug_bounty-5) 
+ - 💯November 25, 2026 - [Race Condition Leading to Bypass of Free Plan Limits](https://medium.com/@mo.muwafak2001/race-condition-leading-to-bypass-of-free-plan-limits-5e4d70f41684?source=rss------bug_bounty-5) 
 
- - 💯November 24, 2026 - [My Version of — “CVE-2025–32711 Analysis &lpar;EchoLeak&rpar;” Re-Weaponized](https://medium.com/@xgw40095/my-version-of-cve-2025-32711-analysis-echoleak-re-weaponized-07f6b08f91b9?source=rss------bug_bounty-5) 
+ - 💯November 25, 2026 - [Time-Based Business Logic Bypass via API](https://scriptjacker.medium.com/time-based-business-logic-bypass-via-api-04bb08fed6aa?source=rss------bug_bounty-5) 
 
- - 💯November 24, 2026 - [Bypassing a Desktop App’s Paywall Without Paying a Cent](https://gauravkdeore.medium.com/bypassing-a-desktop-apps-paywall-without-paying-a-cent-511d3704a6e3?source=rss------bug_bounty-5) 
+ - 💯November 25, 2026 - [AI Won’t Help You Hack? I Let Claude Code Run a Pentest to Find Out](https://medium.com/@mohammedthoufeeq_25137/ai-wont-help-you-hack-74c847096fb4?source=rss------bug_bounty-5) 
 
- - 💯November 24, 2026 - [Breach US Government site by only changing “false” to “true” state?](https://mxyuyu.medium.com/breach-us-government-site-by-only-changing-false-to-true-state-67d2662ab2a5?source=rss------bug_bounty-5) 
+ - 💯November 25, 2026 - [Remote Code Execution &lpar;RCE&rpar;: Understanding One of the Most Critical Web Security Vulnerabilities |…](https://samadhanshimple.medium.com/remote-code-execution-rce-understanding-one-of-the-most-critical-web-security-vulnerabilities-0c49173aaba3?source=rss------bug_bounty-5) 
 
- - 💯November 24, 2026 - [The Bug Bounty Bible — Researcher: dontaskmehow](https://medium.com/@xgw40095/the-bug-bounty-bible-researcher-dontaskmehow-e4f0e412cd79?source=rss------bug_bounty-5) 
+ - 💯November 25, 2026 - [When Self-XSS Isn’t Self: A $62,500 Meta Bug Through a Third-Party Payment Iframe](https://medium.com/@t4nv1/when-self-xss-isnt-self-a-62-500-meta-bug-through-a-third-party-payment-iframe-13d5d101e3e0?source=rss------bug_bounty-5) 
 
- - 💯November 24, 2026 - [Dari SQL Injection hingga Clickjacking: 10 Laboratorium Keamanan Web yang Kami Selesaikan](https://medium.com/@pandjisatrio49/dari-sql-injection-hingga-clickjacking-10-laboratorium-keamanan-web-yang-kami-selesaikan-874ca63dbd16?source=rss------bug_bounty-5) 
+ - 💯November 25, 2026 - [QA Solucity: Find Bugs Before Your Users Do — Why Testing Before Launch Matters](https://medium.com/@qasolucity/qa-solucity-find-bugs-before-your-users-do-why-testing-before-launch-matters-03ef06e66ad0?source=rss------bug_bounty-5) 
 
- - 💯November 24, 2026 - [Anatomy of an HTTP Request &lpar;Part 5&rpar;: Load Balancers, HTTP Request Smuggling, and Internal Header…](https://medium.com/@extraterrestrial2342/anatomy-of-an-http-request-part-5-load-balancers-http-request-smuggling-and-internal-header-a0c1f029b50b?source=rss------bug_bounty-5) 
+ - 💯November 25, 2026 - [libcurl Obeyed a List I Never Gave It](https://meetcyber.net/libcurl-obeyed-a-list-i-never-gave-it-f727c4922666?source=rss------bug_bounty-5) 
 
- - 💯November 24, 2026 - [Breaking Password Reset Logic: A PortSwigger Lab Walkthrough](https://vivek0x.medium.com/breaking-password-reset-logic-a-portswigger-lab-walkthrough-643c5e2e5699?source=rss------bug_bounty-5) 
+ - 💯November 25, 2026 - [P4 Information Disclosure Through HTTP Response Headers](https://medium.com/@akashmotkar001/p4-information-disclosure-through-http-response-headers-7e58940d07ac?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
