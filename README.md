@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯November 27, 2026 - [Found a flaw in an AI product? How to report it safely](https://designer-venkat.medium.com/found-a-flaw-in-an-ai-product-how-to-report-it-safely-003936a68fea?source=rss------bug_bounty-5) 
+ - 💯November 28, 2026 - [Authenticated. Not Authorized.](https://medium.com/@rwx_01/authenticated-not-authorized-ba3996610ea2?source=rss------bug_bounty-5) 
 
- - 💯November 27, 2026 - [Professional Bug Bounty Hunting: Bug Types](https://medium.com/techaion/professional-bug-bounty-hunting-bug-types-8e3b1dd5bfd3?source=rss------bug_bounty-5) 
+ - 💯November 28, 2026 - [How a SAML Signature Wrapping &lpar;XSW&rpar; Flaw Enabled a $7,000 Enterprise SSO Bypass](https://medium.com/@t4nv1/how-a-saml-signature-wrapping-xsw-flaw-enabled-a-7-000-enterprise-sso-bypass-06a74cebe625?source=rss------bug_bounty-5) 
 
- - 💯November 27, 2026 - [A Blocklist, a Voice Recorder and a Very Long Title: The $10,633 Google Bug That Could Reveal Any…](https://medium.com/@t4nv1/a-blocklist-a-voice-recorder-and-a-very-long-title-the-10-633-google-bug-that-could-reveal-any-18e10615028b?source=rss------bug_bounty-5) 
+ - 💯November 28, 2026 - [WP2Shell: How Two Medium WordPress Bugs Became A Pre-Auth RCE](https://kd-200.medium.com/wp2shell-how-two-medium-wordpress-bugs-became-a-pre-auth-rce-bbee608c8897?source=rss------bug_bounty-5) 
 
- - 💯November 27, 2026 - [PHP2Shell Without The Panic: A Lab, A Safe Probe And Where The Money Really Is](https://kd-200.medium.com/php2shell-without-the-panic-a-lab-a-safe-probe-and-where-the-money-really-is-72cd625d4aef?source=rss------bug_bounty-5) 
+ - 💯November 28, 2026 - [I Didn’t Build an AI That Finds Bugs. I Built a Cage.](https://tanishqshah.medium.com/i-didnt-build-an-ai-that-finds-bugs-i-built-a-cage-93d6fbfd752d?source=rss------bug_bounty-5) 
 
- - 💯November 27, 2026 - [How I Found a CVE-2026–75582 in Just One Night](https://shoaibls.medium.com/how-i-found-a-cve-2026-75582-in-just-one-night-7f70046bff00?source=rss------bug_bounty-5) 
+ - 💯November 28, 2026 - [Why Most Bug Bounty Hunters Keep Getting Duplicates &lpar;And What I Built About It&rpar;](https://medium.com/@psaibtech/why-most-bug-bounty-hunters-keep-getting-duplicates-and-what-i-built-about-it-36eff0442fb6?source=rss------bug_bounty-5) 
 
- - 💯November 27, 2026 - [The Delivery App That Told Strangers Where You Live: Anatomy of a Deep Link → WebView → JavaScript…](https://medium.com/@SilentN0va/the-delivery-app-that-told-strangers-where-you-live-anatomy-of-a-deep-link-webview-javascript-99ffd8021b8c?source=rss------bug_bounty-5) 
+ - 💯November 28, 2026 - [P3 Weak Password Policy Enforcement Through Direct API Requests](https://medium.com/@akashmotkar001/p3-weak-password-policy-enforcement-through-direct-api-requests-4cd374df1f2d?source=rss------bug_bounty-5) 
 
- - 💯November 27, 2026 - [Web Application Penetration Testing Roadmap: Beginner to Advanced &lpar;2026&rpar;](https://medium.com/@kuttyak007007/web-application-penetration-testing-roadmap-beginner-to-advanced-2026-cc33a8824b31?source=rss------bug_bounty-5) 
+ - 💯November 28, 2026 - [Time-Based SQL Injection in Account Activation $X,XXX](https://medium.com/@Casper0X/time-based-sql-injection-in-account-activation-x-xxx-d92d44e4eab1?source=rss------bug_bounty-5) 
 
- - 💯November 27, 2026 - [How I found Phone OTP bypass by verification token confusion](https://medium.com/@ammarharris/how-i-found-phone-otp-bypass-by-verification-token-confusion-23528a72ed07?source=rss------bug_bounty-5) 
+ - 💯November 28, 2026 - [SSRF Attacks Explained: How to Make a Server Fetch What You Can’t](https://medium.com/@vigneshkumaroffsec/ssrf-attacks-explained-how-to-make-a-server-fetch-what-you-cant-1d33eeb7436b?source=rss------bug_bounty-5) 
 
- - 💯November 27, 2026 - [One Parameter, One Request: How I Bypassed Access Controls and Unlocked a Restricted AI Feature](https://infosecwriteups.com/one-parameter-one-request-how-i-bypassed-access-controls-and-unlocked-a-restricted-ai-feature-67bee6ef87d3?source=rss------bug_bounty-5) 
+ - 💯November 27, 2026 - [I Turned a small portion Of My Bug-Bounty Operational Workflow Into a Free 100+ Script Toolkit](https://medium.com/@dntaskmehow/i-turned-a-small-portion-of-my-bug-bounty-operational-workflow-into-a-free-100-script-toolkit-d651a9c2077e?source=rss------bug_bounty-5) 
 
- - 💯November 27, 2026 - [GitHub OAuth Bypass: The $25K HEAD Request](https://masimshahzad.medium.com/github-oauth-bypass-the-25k-head-request-e9a666059615?source=rss------bug_bounty-5) 
+ - 💯November 27, 2026 - [Practical Guide to Customizing Claude Code for Bug Bounty](https://medium.com/@Aacle/practical-guide-to-customizing-claude-code-for-bug-bounty-a1239f8fb5ae?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
